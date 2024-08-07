@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,017,500 ","24 Urunga Parade,",WOLLONGONG NSW 2500,House,3,1,2,555m² ,28 Mar 2024
+"1,410,000 ","12B Sperry Street,",WOLLONGONG NSW 2500,Semi-detached,4,2,2,353m² ,15 Mar 2024
+"1,520,000 ","4 McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,2,3,"1,271m² ",07 Mar 2024
+"880,000 ","11a Allan Street,",WOLLONGONG NSW 2500,House,3,1,3,359m² ,22 Feb 2024
+"780,000","92 Rowland Ave,",WOLLONGONG NSW 2500,House,3,2,1,752m² ,2024
+"1,300,000 ","29A McKenzie Avenue,",WOLLONGONG NSW 2500,House,3,2,3,913m² ,2024
+"1,360,000 ","36B Urunga Parade,",WOLLONGONG NSW 2500,Semi-detached,4,3,2,359m² ,31 Jan 2024
+"705,000 ","11 Allan Street,",WOLLONGONG NSW 2500,House,2,1,1,329m² ,30 Jan 2024
+"960,000 ","2 Colleen Grove,",WOLLONGONG NSW 2500,House,3,1,2,556m² ,24 Jan 2024
+"1,420,000 ","16 McKenzie Avenue,",WOLLONGONG NSW 2500,House,2,1,2,696m² ,2023
+"910,000 ","3 Mangerton Road,",WOLLONGONG NSW 2500,House,3,1,4,691m² ,27 Nov 2023
+"1,055,000 ","65 Kenny Street,",WOLLONGONG NSW 2500,House,4,1,1,632m² ,09 Nov 2023
+"1,275,000 ","17 Robinson Street,",WOLLONGONG NSW 2500,House,4,2,2,600m² ,11 Oct 2023
+"1,525,000","18 Dudley Street,",WOLLONGONG NSW 2500,House,4,2,4,700m² ,6 Oct 2023
+"1,520,000 ","57 Gipps Street,",WOLLONGONG NSW 2500,House,4,3,3,493m² ,2023
+"1,300,000 ","50 McKenzie Avenue,",WOLLONGONG NSW 2500,House,2,1,1,"1,116m² ",2023
+"915,000 ","12 Staff Street,",WOLLONGONG NSW 2500,House,2,1,2,676m² ,31 Aug 2023
+"1,305,000 ","33 Hilltop Avenue,",WOLLONGONG NSW 2500,House,3,2,2,575m² ,2023
+"875,000 ","20 Mercury Street,",WOLLONGONG NSW 2500,House,3,1,1,752m² ,27 Jul 2023
+"850,000 ","4 Mangerton Road,",WOLLONGONG NSW 2500,House,3,1,1,682m² ,2023
+"1,250,000 ","6 Sea View Road,",WOLLONGONG NSW 2500,House,3,1,1,632m² ,13 Jul 2023
+"950,000","8 Denison Street,",WOLLONGONG NSW 2500,House,2,1,2,385m² ,10 Jul 2023
+"1,344,000 ","29 Mailer Avenue,",WOLLONGONG NSW 2500,House,3,1,2,600m² ,0 Jun 2023
+"3,500,000 ","15B Smith Street,",WOLLONGONG NSW 2500,House,4,3,3,408m² ,5 May 2023
+"1,370,000 ","83 Evans Street,",WOLLONGONG NSW 2500,House,3,1,1,613m² ,2023
+"1,115,000 ","38 Jutland Avenue,",WOLLONGONG NSW 2500,House,2,1,2,645m² ,2023
+"920,000","66 Gladstone Avenue,",WOLLONGONG NSW 2500,House,3,2,1,759m² ,08 May 2023
+"2,130,000 ","40 Mailer Avenue,",WOLLONGONG NSW 2500,House,4,4,2,531m² ,0 Apr 2023
+"862,000 ","24 Mangerton Road,",WOLLONGONG NSW 2500,House,3,1,−,343m² ,2023
+"2,400,000","13 Kembla Street,",WOLLONGONG NSW 2500,House,4,2,2,746m² ,02 Apr 2023
+"1,070,000","69 Atchison Street,",WOLLONGONG NSW 2500,House,3,2,1,845m² ,31 Mar 2023
+"1,280,000 ","30 Hilltop Avenue,",WOLLONGONG NSW 2500,House,4,3,−,663m² ,21 Mar 2023
+"1,060,000 ","94 Rowland Avenue,",WOLLONGONG NSW 2500,House,3,1,1,588m² ,2023
+"870,000","8 Lauder Avenue,",WOLLONGONG NSW 2500,House,3,2,1,607m² ,17 Jan 2023
+"920,000 ","6 Bligh Street,",WOLLONGONG NSW 2500,House,4,1,2,604m² ,2022
+"2,350,000 ","29 Edward Street,",WOLLONGONG NSW 2500,House,4,3,2,618m² ,07 Dec 2022
+"1,850,000 ","68A Evans Street,",WOLLONGONG NSW 2500,Semi-detached,3,2,2,303m² ,2022
+"920,000 ","20 Lauder Avenue,",WOLLONGONG NSW 2500,House,3,1,1,450m² ,02 Dec 2022
+"980,000 ","194 Kembla Street,",WOLLONGONG NSW 2500,House,3,1,1,613m² ,01 Dec 2022
+"1,900,000 ","22 View Street,",WOLLONGONG NSW 2500,House,4,2,2,421m² ,29 Nov 2022
+"945,000 ","19 Mangerton Road,",WOLLONGONG NSW 2500,House,3,1,1,913m² ,23 Nov 2022
+"1,140,000 ","29 West Street,",WOLLONGONG NSW 2500,House,5,2,5,523m² ,10 Nov 2022
+"810,000 ","81 Gladstone Avenue,",WOLLONGONG NSW 2500,House,3,1,1,649m² ,2022
+"1,725,000","36 Market Street,",WOLLONGONG NSW 2500,House,7,4,2,408m² ,02 Nov 2022
+"2,700,000","17 Marr Street,",WOLLONGONG NSW 2500,House,5,2,2,546m² ,01 Nov 2022
+"1,500,000 ","7 Colleen Grove,",WOLLONGONG NSW 2500,House,5,2,2,823m² ,1 Oct 2022
+"1,110,000 ","25 Rowland Avenue,",WOLLONGONG NSW 2500,House,4,2,1,689m² ,30 Sep 2022
+"1,150,000 ","33 Matthews Street,",WOLLONGONG NSW 2500,House,3,1,2,790m² ,16 Sep 2022
+"1,025,000 ","74 Swan Street,",WOLLONGONG NSW 2500,House,1,1,1,508m² ,16 Sep 2022
+"4,500,000","16 Gipps Street,",WOLLONGONG NSW 2500,House,4,3,4,537m² ,14 Sep 2022
+"1,300,000 ","38 McKenzie Avenue,",WOLLONGONG NSW 2500,House,3,2,1,676m² ,09 Sep 2022
+"2,180,000 ","39B Kembla Street,",WOLLONGONG NSW 2500,Duplex,4,2,2,283m² ,02 Sep 2022
+"1,410,000 ","43 McKenzie Avenue,",WOLLONGONG NSW 2500,House,5,3,1,"1,012m² ",26 Aug 2022
+"1,700,000 ","7 Northcote Street,",WOLLONGONG NSW 2500,House,4,2,6,803m² ,24 Aug 2022
+"1,110,000 ","12 Dudley Street,",WOLLONGONG NSW 2500,House,6,2,1,804m² ,4 Aug 2022
+"1,040,000","55a Atchison Street,",WOLLONGONG NSW 2500,House,3,2,3,497m² ,03 Aug 2022
+"1,050,000 ","132 Church Street,",WOLLONGONG NSW 2500,House,3,2,1,518m² ,29 Jul 2022
+"1,220,000 ","7 New Dapto Road,",WOLLONGONG NSW 2500,House,3,1,3,697m² ,26 Jul 2022
+"1,900,000","1 George Street,",WOLLONGONG NSW 2500,House,4,2,2,638m² ,14 Jul 2022
+"1,165,000 ","58 Evans Street,",WOLLONGONG NSW 2500,House,3,2,2,502m² ,23 Jun 2022
+"9,000,000 ","21 Edward Street,",WOLLONGONG NSW 2500,House,6,4,2,"1,852m² ",10 Jun 2022
+"1,700,000 ","37 Hilltop Avenue,",WOLLONGONG NSW 2500,House,4,2,2,"1,088m² ",10 Jun 2022
+"1,175,000","8 Sperry Street,",WOLLONGONG NSW 2500,House,3,2,2,734m² ,2022
+"1,051,000 ","20 Mailer Ave,",WOLLONGONG NSW 2500,House,3,3,1,543m² ,0 May 2022
+"1,685,000 ","38 Mangerton Road,",WOLLONGONG NSW 2500,House,3,2,2,820m² ,23 May 2022
+"3,121,000 ","8 Ocean Street,",WOLLONGONG NSW 2500,House,4,2,3,531m² ,2022
+"1,215,000 ","56 Hillcrest Street,",WOLLONGONG NSW 2500,House,3,2,1,607m² ,2022
+"1,204,000","10 Hercules St,",WOLLONGONG NSW 2500,House,3,1,1,696m² ,18 Mar 2022
+"2,300,000 ","26 Smith Street,",WOLLONGONG NSW 2500,House,4,4,4,667m² ,16 Mar 2022
+"1,610,000 ","50 Church Street,",WOLLONGONG NSW 2500,House,3,2,4,468m² ,11 Mar 2022
+"1,341,000 ","55 Evans Street,",WOLLONGONG NSW 2500,House,3,2,1,490m² ,2022
+"1,200,000","45 Mangerton Road,",WOLLONGONG NSW 2500,House,3,2,2,955m² ,17 Feb 2022
+"1,300,000 ","17 Colleen Grove,",WOLLONGONG NSW 2500,House,6,2,1,714m² ,1 Jan 2022
+"1,065,000 ","18 Urunga Parade,",WOLLONGONG NSW 2500,House,3,1,1,464m² ,23 Dec 2021
+"2,800,000 ","27 Smith Street,",WOLLONGONG NSW 2500,House,4,3,3,529m² ,21 Dec 2021
+"1,175,000 ","16 Urunga Parade,",WOLLONGONG NSW 2500,House,3,2,−,589m² ,2021
+"965,000 ","74 Gladstone Avenue,",WOLLONGONG NSW 2500,House,4,1,1,702m² ,17 Dec 2021
+"1,460,000 ","9 Evans Street,",WOLLONGONG NSW 2500,House,4,2,4,493m² ,2021
+"1,400,000 ","47 West Street,",WOLLONGONG NSW 2500,House,4,3,2,721m² ,22 Nov 2021
+"1,695,000 ","38 Evans Street,",WOLLONGONG NSW 2500,House,4,2,3,734m² ,2021
+"1,370,000 ","114 Church Street,",WOLLONGONG NSW 2500,House,3,1,2,626m² ,2021
+"1,460,000 ","35 Hillcrest Street,",WOLLONGONG NSW 2500,House,5,3,2,917m² ,29 Oct 2021
+"1,120,000 ","142 Church Street,",WOLLONGONG NSW 2500,House,3,1,3,613m² ,2021
+"900,000 ","17 Bligh Street,",WOLLONGONG NSW 2500,House,3,1,1,487m² ,30 Sep 2021
+"1,520,000","38A Mangerton Road,",WOLLONGONG NSW 2500,House,4,2,2,600m² ,7 Sep 2021
+"1,250,000 ","8 Sea View Road,",WOLLONGONG NSW 2500,House,2,1,2,594m² ,13 Sep 2021
+"1,100,000 ","33 Bligh Street,",WOLLONGONG NSW 2500,House,3,1,1,487m² ,2021
+"1,380,000 ","125 Kembla Street,",WOLLONGONG NSW 2500,House,3,1,2,714m² ,20 Aug 2021
+"1,200,000 ","27 Jutland Avenue,",WOLLONGONG NSW 2500,House,3,1,2,767m² ,09 Aug 2021
+"1,850,000 ","58 Smith Street,",WOLLONGONG NSW 2500,House,3,1,−,552m² ,30 Jul 2021
+"1,850,000 ","60 Smith Street,",WOLLONGONG NSW 2500,House,3,1,1,550m² ,30 Jul 2021
+"915,000 ","12 Mangerton Road,",WOLLONGONG NSW 2500,House,3,1,1,342m² ,16 Jul 2021
+"1,020,000 ","5 Greenacre Road,",WOLLONGONG NSW 2500,House,4,2,1,569m² ,01 Jul 2021
+"1,355,000 ","6 Osborne Street,",WOLLONGONG NSW 2500,House,3,1,4,625m² ,2021
+"1,273,000 ","83 Evans Street,",WOLLONGONG NSW 2500,House,3,1,1,613m² ,2021
+"3,400,000 ","5 Georges Place,",WOLLONGONG NSW 2500,House,4,2,1,471m² ,2021
+"781,000 ","19 Rawlinson Avenue,",WOLLONGONG NSW 2500,House,3,2,1,514m² ,31 May 2021
+"2,160,000 ","40 Smith Street,",WOLLONGONG NSW 2500,House,4,2,2,531m² ,2021
+"840,000 ","3 Allan Street,",WOLLONGONG NSW 2500,House,3,2,1,525m² ,8 May 2021
+"950,000 ","35 Evans Street,",WOLLONGONG NSW 2500,House,3,1,2,490m² ,2021
+"1,375,000 ","31 Rawlinson Avenue,",WOLLONGONG NSW 2500,House,4,2,2,734m² ,0 Apr 2021
+"950,000 ","33/88 Smith Street,",WOLLONGONG NSW 2500,Villa,3,2,1,373m² ,27 Apr 2021
+"1,060,000 ","388 Keira Street,",WOLLONGONG NSW 2500,House,4,1,4,635m² ,23 Apr 2021
+"1,076,000","65 Atchison Street,",WOLLONGONG NSW 2500,House,3,1,1,613m² ,13 Apr 2021
+"987,000 ","378 Keira Street,",WOLLONGONG NSW 2500,House,5,2,2,654m² ,08 Apr 2021
+"440,000 ","15/61 Smith Street,",WOLLONGONG NSW 2500,House,2,1,1,75m² ,06 Apr 2021
+"906,000 ","200b Kembla Street,",WOLLONGONG NSW 2500,Duplex,3,1,2,308m² ,23 Mar 2021
+"900,000 ","200A Kembla Street,",WOLLONGONG NSW 2500,Duplex,3,1,2,308m² ,09 Mar 2021
+"1,082,424 ","24 Hillcrest Street,",WOLLONGONG NSW 2500,House,4,2,1,607m² ,7 Feb 2021
+"1,300,000 ","10 Staff Street,",WOLLONGONG NSW 2500,House,4,2,5,675m² ,16 Feb 2021
+"1,160,000 ","1 Hillcrest Street,",WOLLONGONG NSW 2500,House,4,2,1,385m² ,1 Jan 2021
+"1,122,500 ","12b Sperry Street,",WOLLONGONG NSW 2500,House,4,2,2,352m² ,21 Dec 2020
+"1,440,000 ","69 Corrimal Street,",WOLLONGONG NSW 2500,House,3,2,2,592m² ,2020
+"1,000,000 ","376 Crown Street,",WOLLONGONG NSW 2500,House,3,1,1,638m² ,09 Dec 2020
+"840,000 ","6 Sea View Road,",WOLLONGONG NSW 2500,House,3,1,1,632m² ,25 Nov 2020
+"1,780,000 ","5 Gipps Street,",WOLLONGONG NSW 2500,House,4,2,2,422m² ,20 Nov 2020
+"1,420,000 ","10 Wilson Street,",WOLLONGONG NSW 2500,House,4,2,2,474m² ,13 Nov 2020
+"925,000 ","24 MAILER AVENUE,",WOLLONGONG NSW 2500,House,3,1,2,750m² ,12 Nov 2020
+"837,750","4 McKenzie Avenue,",WOLLONGONG NSW 2500,House,2,1,1,"1,274m² ",15 Oct 2020
+"972,000 ","24 Rowland Avenue,",WOLLONGONG NSW 2500,House,4,2,2,"1,024m² ",13 Oct 2020
+"1,730,000 ","20 Campbell Street,",WOLLONGONG NSW 2500,House,4,2,2,723m² ,2020
+"1,215,000 ","58 Gipps Street,",WOLLONGONG NSW 2500,House,4,3,2,398m² ,23 Sep 2020
+"852,000 ","16 Mercury Street,",WOLLONGONG NSW 2500,House,3,1,4,803m² ,22 Sep 2020
+"885,000 ","11 Hercules Street,",WOLLONGONG NSW 2500,House,3,2,1,696m² ,17 Sep 2020
+"1,050,000 ","10 Loftus Street,",WOLLONGONG NSW 2500,House,4,3,1,696m² ,16 Sep 2020
+"1,100,000 ","18 McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,2,1,699m² ,2020
+"880,000 ","40A Mangerton Road,",WOLLONGONG NSW 2500,House,4,3,2,809m² ,08 Sep 2020
+"800,000 ","26 Jutland Avenue,",WOLLONGONG NSW 2500,House,4,1,2,664m² ,4 Sep 2020
+"525,000 ","13 Robinson Street,",WOLLONGONG NSW 2500,House,2,1,1,240m² ,28 Aug 2020
+"1,800,000 ","7 Beatson Street,",WOLLONGONG NSW 2500,House,7,5,2,607m² ,7 Aug 2020
+"760,000 ","19 Northcote Street,",WOLLONGONG NSW 2500,House,2,1,1,644m² ,11 Aug 2020
+"780,000 ","48 Urunga Parade,",WOLLONGONG NSW 2500,House,3,2,2,626m² ,17 Jul 2020
+"1,150,000 ","111 Kembla Street,",WOLLONGONG NSW 2500,House,2,1,4,695m² ,24 Jun 2020
+"713,000 ","25 Mangerton Road,",WOLLONGONG NSW 2500,House,3,2,1,697m² ,12 Jun 2020
+"940,000","1 George Street,",WOLLONGONG NSW 2500,House,4,2,2,638m² ,29 May 2020
+"1,570,000 ","2A Campbell Street,",WOLLONGONG NSW 2500,House,3,1,1,493m² ,15 May 2020
+"645,000","11 Robinson Street,",WOLLONGONG NSW 2500,House,2,1,2,531m² ,26 Mar 2020
+"672,500 ","7 Mangerton Road,",WOLLONGONG NSW 2500,House,3,1,2,620m² ,6 Mar 2020
+"1,020,000","37 Hilltop Avenue,",WOLLONGONG NSW 2500,House,4,2,2,"1,088m² ",20 Feb 2020
+"812,000 ","19 New Dapto Road,",WOLLONGONG NSW 2500,House,4,1,2,739m² ,2020
+"830,000 ","61 Auburn Street,",WOLLONGONG NSW 2500,House,3,2,6,554m² ,14 Feb 2020
+"1,330,000 ","2 Hilltop Avenue,",WOLLONGONG NSW 2500,House,4,3,4,937m² ,10 Dec 2019
+"990,000 ","91 Evans Street,",WOLLONGONG NSW 2500,House,4,2,2,613m² ,2019
+"735,000 ","7 Robinson Street,",WOLLONGONG NSW 2500,House,3,1,1,360m² ,04 Oct 2019
+"3,025,000 ","3 Harbour Street,",WOLLONGONG NSW 2500,House,2,1,2,512m² ,2019
+"575,000 ","16 Denison Street,",WOLLONGONG NSW 2500,House,2,1,1,524m² ,30 Aug 2019
+"1,260,000 ","103 Corrimal Street,",WOLLONGONG NSW 2500,House,3,1,12,680m² ,2019
+"1,150,000 ","23A McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,3,2,450m² ,22 Jul 2019
+"850,000 ","61 Kenny Street,",WOLLONGONG NSW 2500,House,4,2,6,626m² ,2019
+"785,000","88 Corrimal Street,",WOLLONGONG NSW 2500,House,3,1,2,442m² ,21 Jun 2019
+"820,000","130 Church Street,",WOLLONGONG NSW 2500,House,4,1,1,537m² ,07 Jun 2019
+"1,570,000 ","41 Kembla Street,",WOLLONGONG NSW 2500,House,4,3,5,330m² ,24 May 2019
+"950,000","97 Kembla Street,",WOLLONGONG NSW 2500,House,2,1,1,547m² ,09 May 2019
+"740,000","171 Church Street,",WOLLONGONG NSW 2500,House,3,1,1,496m² ,18 Apr 2019
+"762,000 ","370 Keira Street,",WOLLONGONG NSW 2500,House,3,2,8,657m² ,19 Dec 2018
+"910,000 ","29 Beatson Street,",WOLLONGONG NSW 2500,House,3,1,2,519m² ,17 Dec 2018
+"880,000 ","8 Osborne Street,",WOLLONGONG NSW 2500,House,3,2,1,631m² ,2018
+"790,000 ","118 Church Street,",WOLLONGONG NSW 2500,House,4,2,5,600m² ,06 Nov 2018
+"910,000","88 Atchison Street,",WOLLONGONG NSW 2500,House,4,3,5,526m² ,23 Oct 2018
+"1,655,000 ","11 Park Street,",WOLLONGONG NSW 2500,House,3,1,1,594m² ,2018
+"2,100,000","104 Kembla Street,",WOLLONGONG NSW 2500,House,4,3,7,446m² ,29 Jun 2018
+"1,025,000 ","12 Colleen Grove,",WOLLONGONG NSW 2500,House,4,3,4,516m² ,2018
+"641,250 ","66 McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,1,3,600m² ,08 Jun 2018
+"641,250 ","66 McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,1,3,600m² ,08 Jun 2018
+"935,000 ","7 Hillcrest Street,",WOLLONGONG NSW 2500,House,3,1,1,916m² ,08 Jun 2018
+"755,000 ","2/14 Greenacre Road,",WOLLONGONG NSW 2500,Villa,3,2,2,296m² ,13 Apr 2018
+"940,000 ","31 Rawlinson Avenue,",WOLLONGONG NSW 2500,House,4,2,2,734m² ,0 Apr 2018
+"887,000 ","4 Allan Street,",WOLLONGONG NSW 2500,House,2,1,1,771m² ,2018
+"1,115,000 ","21 Keira Street,",WOLLONGONG NSW 2500,House,3,2,2,398m² ,09 Mar 2018
+"950,000 ","19 McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,2,2,746m² ,05 Mar 2018
+"980,000 ","18 Mckenzie Avenue,",WOLLONGONG NSW 2500,House,4,2,1,689m² ,25 Jan 2018
+"1,290,000","34 Greenacre Rd,",WOLLONGONG NSW 2500,House,5,3,2,542m² ,10 Jan 2018
+"700,000","374 Keira Street,",WOLLONGONG NSW 2500,House,3,1,2,645m² ,2017
+"560,000 ","1/61 Rowland Avenue,",WOLLONGONG NSW 2500,Villa,2,1,1,"1,461m² ",22 Dec 2017
+"650,000","72 Swan Street,",WOLLONGONG NSW 2500,House,3,1,1,512m² ,11 Dec 2017
+"850,000 ","2a Staff Street,",WOLLONGONG NSW 2500,House,4,1,1,632m² ,2017
+"900,000 ","37 Hercules Street,",WOLLONGONG NSW 2500,House,3,1,1,696m² ,06 Dec 2017
+"875,000 ","94 Rowland Avenue,",WOLLONGONG NSW 2500,House,3,1,1,588m² ,2017
+"885,000 ","1 Jutland Avenue,",WOLLONGONG NSW 2500,House,5,4,1,765m² ,16 Nov 2017
+"660,000 ","42 McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,2,1,682m² ,2017
+"985,000 ","39 Mangerton Road,",WOLLONGONG NSW 2500,House,4,2,3,986m² ,2017
+"800,000","19 Colleen Gr,",WOLLONGONG NSW 2500,House,3,2,2,645m² ,07 Sep 2017
+"925,000 ","37 Hilltop Avenue,",WOLLONGONG NSW 2500,House,4,2,2,"1,088m² ",20 Jul 2017
+"700,000","37 Beach Street,",WOLLONGONG NSW 2500,House,2,1,1,449m² ,2017
+"1,860,000 ","42 Greenacre Road,",WOLLONGONG NSW 2500,House,8,5,8,"1,131m² ",24 Jun 2017
+"1,450,000 ","12 Edward Street,",WOLLONGONG NSW 2500,House,4,3,1,696m² ,3 Jun 2017
+"810,000 ","7 McKenzie Avenue,",WOLLONGONG NSW 2500,House,3,1,1,"1,113m² ",3 Jun 2017
+"980,000 ","39 Mangerton Road,",WOLLONGONG NSW 2500,House,4,2,3,986m² ,2017
+"1,615,000 ","8 Keira Street,",WOLLONGONG NSW 2500,House,3,1,2,640m² ,2017
+"960,000 ","30 Hilltop Avenue,",WOLLONGONG NSW 2500,House,4,2,1,740m² ,31 Mar 2017
+"655,000 ","145 Kenny Street,",WOLLONGONG NSW 2500,House,2,1,1,645m² ,28 Mar 2017
+"1,700,000 ","16 Smith Street,",WOLLONGONG NSW 2500,House,3,1,2,812m² ,21 Mar 2017
+"1,200,000 ","36 Mangerton Road,",WOLLONGONG NSW 2500,House,4,3,4,"1,185m² ",3 Feb 2017
+"1,625,000 ","12 View Street,",WOLLONGONG NSW 2500,House,4,3,4,328m² ,01 Dec 2016
+"1,180,000 ","44 Matthews Street,",WOLLONGONG NSW 2500,House,4,2,5,917m² ,2016
+"800,000","127 Kembla Street,",WOLLONGONG NSW 2500,House,2,1,2,720m² ,14 Nov 2016
+"3,235,000 ","48a & 50 Kembla Street,",WOLLONGONG NSW 2500,House,6,2,2,"1,182m² ",2016
+"670,000 ","23 Jutland Ave,",WOLLONGONG NSW 2500,House,3,1,1,696m² ,25 Oct 2016
+"783,000 ","19 Mangerton Road,",WOLLONGONG NSW 2500,House,3,1,1,904m² ,2016
+"935,000 ","38A Mangerton Road,",WOLLONGONG NSW 2500,House,4,2,3,600m² ,14 Oct 2016
+"1,635,000 ","32 Campbell Street,",WOLLONGONG NSW 2500,House,4,3,2,569m² ,2016
+"900,000","8 Ross Street,",WOLLONGONG NSW 2500,House,3,2,1,436m² ,14 Sep 2016
+"690,000 ","6 Staff Street,",WOLLONGONG NSW 2500,House,3,2,5,524m² ,19 Aug 2016
+"665,000","43 Bligh Street,",WOLLONGONG NSW 2500,House,2,1,1,482m² ,29 Jul 2016
+"740,000 ","18 Bligh Street,",WOLLONGONG NSW 2500,House,2,3,2,519m² ,19 Jul 2016
+"1,475,000 ","21 & 23 Mercury Street,",WOLLONGONG NSW 2500,House,3,1,3,803m² ,2016
+"800,000 ","15 Beatson Street,",WOLLONGONG NSW 2500,House,3,1,1,549m² ,2016
+"827,000 ","8 Sea View Road,",WOLLONGONG NSW 2500,House,2,1,1,594m² ,2016
+"685,000","114 Church Street,",WOLLONGONG NSW 2500,House,3,1,−,626m² ,11 Jun 2016
+"850,000 ","22 Bligh St,",WOLLONGONG NSW 2500,House,6,4,3,"1,012m² ",05 May 2016
+"850,000 ","20 Bligh St,",WOLLONGONG NSW 2500,House,3,1,2,518m² ,05 May 2016
+"660,000 ","Lot 1, 44 New Dapto Road,",WOLLONGONG NSW 2500,House,3,2,1,300m² ,2016
+"649,000","53 West Street,",WOLLONGONG NSW 2500,House,2,1,4,834m² ,14 Apr 2016
+"780,000 ","19 McKenzie Avenue,",WOLLONGONG NSW 2500,House,3,2,1,746m² ,2016
+"642,250","12 Dudley Street,",WOLLONGONG NSW 2500,House,3,1,1,790m² ,05 Feb 2016
+"465,000","4/42a Greenacre Road,",WOLLONGONG NSW 2500,Villa,2,1,1,183m² ,12 Jan 2016
+"635,000","2 New Dapto Road,",WOLLONGONG NSW 2500,House,3,1,1,524m² ,2015
+"888,000 ","28 Mangerton Road,",WOLLONGONG NSW 2500,House,5,2,1,575m² ,04 Dec 2015
+"760,000 ","75 Evans Street,",WOLLONGONG NSW 2500,House,4,2,2,613m² ,2015
+"700,000 ","186 Kembla Street,",WOLLONGONG NSW 2500,House,3,1,2,614m² ,2015
+"643,000 ","20 Mailer Avenue,",WOLLONGONG NSW 2500,House,3,2,1,544m² ,2015
+"1,350,000","24 Greenacre Road,",WOLLONGONG NSW 2500,House,3,1,1,"1,885m² ",15 Oct 2015
+"756,000 ","1 Keira Street,",WOLLONGONG NSW 2500,House,3,1,1,437m² ,23 Sep 2015
+"780,000 ","52 Atchison Street,",WOLLONGONG NSW 2500,House,3,2,4,825m² ,2015
+"1,120,000 ","58 Gipps Street,",WOLLONGONG NSW 2500,House,4,3,2,399m² ,2015
+"665,000 ","40 Robinson Street,",WOLLONGONG NSW 2500,House,3,1,1,650m² ,2015
+"678,500 ","60 Church Street,",WOLLONGONG NSW 2500,House,2,1,1,443m² ,2015
+"660,000 ","84 Gladstone Avenue,",WOLLONGONG NSW 2500,House,3,2,2,645m² ,2015
+"1,150,000 ","41 Kembla Street,",WOLLONGONG NSW 2500,House,3,3,3,330m² ,12 Jun 2015
+"716,333 ","33 Rawlinson Avenue,",WOLLONGONG NSW 2500,House,4,1,1,968m² ,2015
+"716,333 ","35 Rawlinson Avenue,",WOLLONGONG NSW 2500,House,3,1,1,"1,005m² ",2015
+"716,333 ","37 Rawlinson Avenue,",WOLLONGONG NSW 2500,House,3,1,1,"1,424m² ",2015
+"547,000 ","48 Evans Street,",WOLLONGONG NSW 2500,House,3,1,1,490m² ,2015
+"910,000 ","15 Marr Street,",WOLLONGONG NSW 2500,House,3,2,3,546m² ,08 Apr 2015
+"645,000 ","59 Urunga Parade,",WOLLONGONG NSW 2500,House,3,1,2,596m² ,01 Apr 2015
+"670,000 ","62 McKenzie Avenue,",WOLLONGONG NSW 2500,House,4,2,2,378m² ,17 Dec 2014
+"710,000","4 Gladstone Avenue,",WOLLONGONG NSW 2500,House,4,2,1,803m² ,16 Dec 2014
+"1,110,000 ","41 Mangerton Road,",WOLLONGONG NSW 2500,House,4,2,2,771m² ,2014
+"850,000 ","35 Edward Street,",WOLLONGONG NSW 2500,House,4,2,2,613m² ,2014
+"1,162,500 ","25 Gipps Street,",WOLLONGONG NSW 2500,House,4,3,2,441m² ,2014
+"788,000","41E Rowland Avenue,",WOLLONGONG NSW 2500,House,4,5,2,577m² ,22 Sep 2014
+"865,000","47 New Dapto Rd,",WOLLONGONG NSW 2500,House,4,3,1,607m² ,09 Aug 2014
+"720,000 ","1/28 Smith St,",WOLLONGONG NSW 2500,Terrace,3,2,3,266m² ,04 Aug 2014
+"425,000 ","85 Gladstone Avenue,",WOLLONGONG NSW 2500,House,3,1,2,645m² ,22 Jul 2014
+"1,665,000","13 Kembla St,",WOLLONGONG NSW 2500,House,4,2,5,746m² ,21 Jul 2014
+"630,000 ","33 Hilltop Avenue,",WOLLONGONG NSW 2500,House,3,2,1,575m² ,2014
+"480,000 ","56 Rowland Avenue,",WOLLONGONG NSW 2500,House,2,2,2,556m² ,2014
+"730,000 ","8A Robinson Street,",WOLLONGONG NSW 2500,House,4,2,2,340m² ,2014
+"505,000 ","39 Jutland Avenue,",WOLLONGONG NSW 2500,House,3,1,1,426m² ,2014
+"1,500,000","18 Gipps Street,",WOLLONGONG NSW 2500,House,4,3,2,537m² ,15 May 2014
+"1,020,000 ","31 Hilltop Avenue,",WOLLONGONG NSW 2500,House,3,2,2,734m² ,2014
+"630,000","33 Staff Street,",WOLLONGONG NSW 2500,House,4,2,1,"1,094m² ",04 Apr 2014
+"860,000 ","39a Kembla Street,",WOLLONGONG NSW 2500,House,4,1,3,576m² ,2014
+"870,000 ","18 Colleen Grove,",WOLLONGONG NSW 2500,House,5,3,5,"1,343m² ",12 Feb 2014
+"559,000 ","8 Hillcrest Street,",WOLLONGONG NSW 2500,House,4,1,1,692m² ,30 Jan 2014
+"475,000 ","40 Mailer Avenue,",WOLLONGONG NSW 2500,House,3,2,1,531m² ,20 Jan 2014
+"559,000 ","8 Hillcrest Street,",WOLLONGONG NSW 2500,House,4,1,1,714m² ,24 Dec 2013
+"378,000 ","53 West Street,",WOLLONGONG NSW 2500,House,2,1,1,834m² ,2013
+"575,000","2a Strathearn Ave,",WOLLONGONG NSW 2500,House,3,2,2,803m² ,2013
+"1,366,000 ","7 Campbell Street,",WOLLONGONG NSW 2500,House,5,4,4,857m² ,2013
+"453,000","5 Robinson Street,",WOLLONGONG NSW 2500,House,3,1,1,386m² ,13 Nov 2013
+"710,000","41 Gipps Street,",WOLLONGONG NSW 2500,House,4,3,3,800m² ,2013
+"520,000 ","95 Kembla Street,",WOLLONGONG NSW 2500,House,2,1,1,487m² ,2013
+"531,000","68 Atchison Street,",WOLLONGONG NSW 2500,House,4,1,1,861m² ,2013
+"450,000 ","40 Greenacre Road,",WOLLONGONG NSW 2500,House,2,1,1,"1,055m² ",15 Jul 2013
+"460,000 ","26 Jutland Avenue,",WOLLONGONG NSW 2500,House,4,1,1,667m² ,02 Jul 2013
+"1,780,000 ","8 Hector Street,",WOLLONGONG NSW 2500,House,4,2,2,456m² ,18 Jun 2013
+"529,000 ","6a George Street,",WOLLONGONG NSW 2500,House,3,1,2,451m² ,07 Jun 2013
+"520,000 ","25 Hilltop Avenue,",WOLLONGONG NSW 2500,House,3,1,1,689m² ,2013
+"430,000","12 Urunga Pde,",WOLLONGONG NSW 2500,House,3,1,1,643m² ,02 May 2013
+"930,000","27 Hilltop Avenue,",WOLLONGONG NSW 2500,House,3,3,3,815m² ,2013
+"442,500","29 Mailer Avenue,",WOLLONGONG NSW 2500,House,3,1,3,601m² ,2013
+"1,450,000 ","16 Market Place,",WOLLONGONG NSW 2500,House,4,2,2,734m² ,2013
+"560,000","6 Beatson Street,",WOLLONGONG NSW 2500,House,2,2,2,688m² ,2013
+"447,000 ","319 Keira Street,",WOLLONGONG NSW 2500,House,3,1,2,750m² ,30 Nov 2012
+"335,000","5 Lauder Avenue,",WOLLONGONG NSW 2500,House,2,1,−,550m² ,19 Nov 2012
+"435,000 ","23 Mercury Street,",WOLLONGONG NSW 2500,House,3,1,1,411m² ,13 Sep 2012
+"387,500","15 Sperry St,",WOLLONGONG NSW 2500,House,3,1,1,551m² ,16 Jul 2012
+"397,500 ","66 New Dapto Rd,",WOLLONGONG NSW 2500,House,2,1,1,556m² ,18 Jun 2012
+"885,000","2a Campbell St,",WOLLONGONG NSW 2500,House,3,1,2,493m² ,19 May 2012
+"515,000 ","94 Rowland Avenue,",WOLLONGONG NSW 2500,House,3,1,1,588m² ,11 May 2012
+"287,500","67 Gladstone Avenue,",WOLLONGONG NSW 2500,House,2,1,1,643m² ,2012
+"385,000 ","6 Mangerton Rd,",WOLLONGONG NSW 2500,House,3,2,2,670m² ,22 Feb 2012
+"450,000 ","63 Rowland Ave,",WOLLONGONG NSW 2500,House,4,1,1,"1,124m² ",30 Jan 2012
+"530,000 ","32 Mailer Avenue,",WOLLONGONG NSW 2500,House,4,2,1,942m² ,2011
+"375,000","41 Jutland Ave,",WOLLONGONG NSW 2500,House,2,1,1,443m² ,01 Sep 2011
+"436,000","3 Robinson Street,",WOLLONGONG NSW 2500,House,2,1,1,386m² ,12 Jul 2011
+"420,000 ","153 Church Street,",WOLLONGONG NSW 2500,House,3,1,−,491m² ,2011
+"590,000 ","14 Mailer Avenue,",WOLLONGONG NSW 2500,House,3,2,2,607m² ,2011
+"453,000 ","386 Keira Street,",WOLLONGONG NSW 2500,House,4,1,1,645m² ,14 Oct 2010
+"501,000 ","7 Mckenzie Ave,",WOLLONGONG NSW 2500,House,3,1,1,"1,113m² ",15 Feb 2010
+"695,000 ","46 Greenacre Road,",WOLLONGONG NSW 2500,House,5,2,1,"2,040m² ",18 Jan 2010
+"600,000 ","495 Crown Street,",WOLLONGONG NSW 2500,Semi-detached,5,2,4,854m² ,29 Dec 2009
+"557,500 ","14 Swan Street,",WOLLONGONG NSW 2500,House,2,1,1,442m² ,16 Dec 2009
+"440,000 ","21 Greenacre RD,",WOLLONGONG NSW 2500,House,3,1,1,556m² ,05 Jun 2009
+"1,665,000 ","29 Murphys Avenue,",GWYNNEVILLE NSW 2500,House,3,2,2,916m² ,2024
+"975,000 ","6 Horne Street,",PORT KEMBLA NSW 2505,House,3,2,1,"1,031m² ",22 Apr 2024
+"975,000 ","75 Murphys Avenue,",KEIRAVILLE NSW 2500,House,4,1,2,696m² ,17 Apr 2024
+"1,850,000 ","33 St Johns Avenue,",MANGERTON NSW 2500,House,5,3,2,"1,039m² ",12 Apr 2024
+"1,200,000 ","25 Yates Avenue,",MOUNT KEIRA NSW 2500,House,4,1,2,556m² ,2 Apr 2024
+"1,700,000 ","26 Dempster Street,",WEST WOLLONGONG NSW 2500,House,5,2,2,550m² ,12 Apr 2024
+"1,225,000 ","7 Keira Street,",PORT KEMBLA NSW 2505,House,5,2,3,"1,410m² ",1 Apr 2024
+"1,180,000 ","39 Bland Street,",PORT KEMBLA NSW 2505,House,3,1,1,708m² ,09 Apr 2024
+"1,180,000 ","37 Georgina Avenue,",KEIRAVILLE NSW 2500,House,2,1,2,797m² ,08 Apr 2024
+"1,530,000 ","45 Norman Street,",MANGERTON NSW 2500,House,4,2,2,774m² ,5 Apr 2024
+"905,000 ","12 Therry Street,",WEST WOLLONGONG NSW 2500,House,3,1,2,740m² ,04 Apr 2024
+"950,000 ","13 Booyong Street,",WEST WOLLONGONG NSW 2500,House,3,1,4,556m² ,28 Mar 2024
+"1,180,000 ","32 Morandoo Avenue,",MOUNT KEIRA NSW 2500,House,3,2,1,746m² ,27 Mar 2024
+"1,060,000 ","17 Perth Road,",PORT KEMBLA NSW 2505,House,4,3,2,556m² ,2024
+"1,010,000 ","9 Georgina Avenue,",KEIRAVILLE NSW 2500,House,5,2,2,595m² ,2024
+"837,500 ","34 Horne Street,",PORT KEMBLA NSW 2505,House,3,1,1,670m² ,22 Mar 2024
+"1,050,000 ","32 O'Donnell Street,",PORT KEMBLA NSW 2505,House,3,2,2,794m² ,21 Mar 2024
+"1,295,000 ","16 Cochrane Street,",WEST WOLLONGONG NSW 2500,House,4,2,2,892m² ,19 Mar 2024
+"2,675,000 ","56 St Johns Avenue,",MANGERTON NSW 2500,House,4,3,3,"1,129m² ",8 Mar 2024
+"900,000 ","2 Phillips Avenue,",WEST WOLLONGONG NSW 2500,House,2,1,1,721m² ,2024
+"1,050,000 ","9 Shauna Crescent,",MOUNT KEIRA NSW 2500,House,3,2,2,594m² ,15 Mar 2024
+"1,150,000 ","28 Abercrombie Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,413m² ,5 Mar 2024
+"995,000 ","175 Mount Keira Road,",MOUNT KEIRA NSW 2500,House,3,2,2,689m² ,2024
+"680,000 ","124 Shellharbour Road,",PORT KEMBLA NSW 2505,House,3,1,1,556m² ,08 Mar 2024
+"890,000 ","77 St Johns Avenue,",MANGERTON NSW 2500,House,3,1,2,936m² ,06 Mar 2024
+"1,780,000 ","253a Mount Keira Road,",MOUNT KEIRA NSW 2500,House,6,3,2,713m² ,06 Mar 2024
+"1,365,000 ","31 McArthur Parade,",MANGERTON NSW 2500,House,4,2,2,809m² ,05 Mar 2024
+"3,000,000 ","33c Woodlawn Avenue,",MANGERTON NSW 2500,House,6,3,6,"1,000m² ",05 Mar 2024
+"1,105,000 ","177 Mount Keira Road,",MOUNT KEIRA NSW 2500,House,3,2,1,961m² ,2024
+"915,000 ","70 Princes Highway,",WEST WOLLONGONG NSW 2500,House,3,1,2,916m² ,29 Feb 2024
+"1,057,000 ","9 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,4,1,2,639m² ,28 Feb 2024
+"1,260,000 ","25 Fisher Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,690m² ,28 Feb 2024
+"1,250,000 ","8 Lutana Place,",CONISTON NSW 2500,House,4,3,2,588m² ,26 Feb 2024
+"1,291,000 ","13 Braeside Avenue,",KEIRAVILLE NSW 2500,House,3,1,2,632m² ,2024
+"1,260,000 ","34a Robertson Street,",PORT KEMBLA NSW 2505,House,4,3,2,333m² ,23 Feb 2024
+"920,000 ","1A Perth Road,",PORT KEMBLA NSW 2505,House,3,2,1,231m² ,22 Feb 2024
+"826,500 ","13 Third Avenue,",PORT KEMBLA NSW 2505,House,3,1,−,486m² ,20 Feb 2024
+"960,000 ","15 Bukari Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,687m² ,20 Feb 2024
+"2,200,000 ","46 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,2,2,765m² ,2024
+"1,300,000","9 Gorrell Crescent,",MANGERTON NSW 2500,House,6,2,2,639m² ,15 Feb 2024
+"1,100,000 ","51 Dallas Street,",KEIRAVILLE NSW 2500,House,4,3,2,"1,688m² ",13 Feb 2024
+"1,700,000 ","6 Bulwarra Street,",KEIRAVILLE NSW 2500,House,3,2,1,752m² ,09 Feb 2024
+"767,500 ","135 Illawarra Street,",PORT KEMBLA NSW 2505,House,2,1,2,591m² ,08 Feb 2024
+"975,000 ","21 Crawford Avenue,",GWYNNEVILLE NSW 2500,House,3,1,1,544m² ,07 Feb 2024
+"850,000 ","16 Koorabel Avenue,",WEST WOLLONGONG NSW 2500,House,2,1,1,557m² ,07 Feb 2024
+"1,225,000 ","3 Craig Mor Way,",KEIRAVILLE NSW 2500,House,4,2,2,556m² ,06 Feb 2024
+"1,220,000 ","3 Nioka Avenue,",KEIRAVILLE NSW 2500,House,4,2,2,588m² ,02 Feb 2024
+"875,000 ","6 Hill Street,",MOUNT SAINT THOMAS NSW 2500,House,3,2,3,474m² ,31 Jan 2024
+"1,345,000 ","9 Reserve Street,",WEST WOLLONGONG NSW 2500,House,3,3,2,468m² ,31 Jan 2024
+"1,055,000 ","13 Cedar Grove,",KEIRAVILLE NSW 2500,House,3,1,1,556m² ,25 Jan 2024
+"870,000 ","22 Hill Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,708m² ,5 Jan 2024
+"1,130,000 ","50 Yates Avenue,",MOUNT KEIRA NSW 2500,House,6,3,3,556m² ,11 Jan 2024
+"950,000 ","19 Byrarong Avenue,",MANGERTON NSW 2500,House,3,1,1,663m² ,8 Dec 2023
+"900,000 ","19 Crawford Avenue,",GWYNNEVILLE NSW 2500,House,2,2,1,544m² ,21 Dec 2023
+"840,000 ","85 Robertson Street,",PORT KEMBLA NSW 2505,House,3,1,2,532m² ,21 Dec 2023
+"792,000","163 Mount Keira Road,",MOUNT KEIRA NSW 2500,House,4,1,4,"1,380m² ",2023
+"930,000 ","9 Highway Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,1,689m² ,13 Dec 2023
+"870,000 ","110 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,2,2,488m² ,12 Dec 2023
+"1,000,000 ","79 Keira Street,",PORT KEMBLA NSW 2505,House,3,2,2,696m² ,2023
+"782,000","25 Bridge Street,",CONISTON NSW 2500,House,4,2,1,645m² ,08 Dec 2023
+"900,000 ","6 Jenkins Street,",PORT KEMBLA NSW 2505,House,3,1,3,702m² ,07 Dec 2023
+"1,450,000 ","239A Mount Keira Road,",MOUNT KEIRA NSW 2500,House,3,2,2,"1,156m² ",04 Dec 2023
+"930,000 ","23 Sheppard Street,",WEST WOLLONGONG NSW 2500,House,4,1,1,701m² ,01 Dec 2023
+"1,300,000 ","4 McAndrew Crescent,",MANGERTON NSW 2500,House,3,2,2,600m² ,2023
+"1,055,500 ","36 Yellagong Street,",WEST WOLLONGONG NSW 2500,House,3,1,2,557m² ,2023
+"1,070,000 ","35 Georgina Avenue,",KEIRAVILLE NSW 2500,House,3,1,2,594m² ,24 Nov 2023
+"890,000 ","110 Wentworth Lane,",PORT KEMBLA NSW 2505,House,3,2,1,371m² ,23 Nov 2023
+"940,000 ","15 Abercrombie Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,640m² ,17 Nov 2023
+"726,000 ","3 Moran Parade,",MOUNT SAINT THOMAS NSW 2500,House,3,2,1,543m² ,2023
+"990,000 ","42 Abercrombie Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,911m² ,2023
+"1,700,000","7 Gorrell Crescent,",MANGERTON NSW 2500,House,5,3,2,695m² ,10 Nov 2023
+"865,000 ","18 Cedar Grove,",KEIRAVILLE NSW 2500,House,2,1,2,847m² ,9 Nov 2023
+"700,000","149 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,581m² ,09 Nov 2023
+"865,000 ","31 Iris Avenue,",CONISTON NSW 2500,House,4,1,2,595m² ,8 Nov 2023
+"1,175,000 ","3A Parker Street,",PORT KEMBLA NSW 2505,House,4,3,2,718m² ,08 Nov 2023
+"1,550,000 ","8 Byrarong Avenue,",MANGERTON NSW 2500,House,4,2,1,651m² ,7 Nov 2023
+"780,000 ","2 Waldron Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,562m² ,07 Nov 2023
+"990,000 ","74 Yellagong Street,",WEST WOLLONGONG NSW 2500,House,3,1,2,714m² ,06 Nov 2023
+"1,450,000 ","7 John Street,",GWYNNEVILLE NSW 2500,House,3,1,1,663m² ,3 Nov 2023
+"1,450,000 ","34 Bland Street,",PORT KEMBLA NSW 2505,House,3,2,2,544m² ,2023
+"3,400,000 ","31 Olympic Boulevard,",PORT KEMBLA NSW 2505,House,4,2,2,497m² ,01 Nov 2023
+"694,000 ","31 Forster Street,",PORT KEMBLA NSW 2505,House,2,1,1,588m² ,2023
+"1,950,000 ","33 Gallipoli Street,",PORT KEMBLA NSW 2505,House,4,2,2,598m² ,1 Oct 2023
+"895,000 ","9 Third Avenue,",PORT KEMBLA NSW 2505,House,4,2,2,486m² ,2023
+"1,225,000 ","17 Immarna Avenue,",WEST WOLLONGONG NSW 2500,House,5,2,2,556m² ,31 Oct 2023
+"965,000 ","20 Grasmere Street,",MOUNT SAINT THOMAS NSW 2500,House,3,2,2,474m² ,27 Oct 2023
+"2,100,000 ","21 Gorrell Crescent,",MANGERTON NSW 2500,House,5,4,2,601m² ,25 Oct 2023
+"725,000 ","36 Forster Street,",PORT KEMBLA NSW 2505,House,2,1,1,677m² ,24 Oct 2023
+"1,200,000 ","13 Robsons Road,",KEIRAVILLE NSW 2500,House,3,2,2,696m² ,0 Oct 2023
+"950,000 ","1/41 Taronga Avenue,",MANGERTON NSW 2500,House,4,1,1,355m² ,20 Oct 2023
+"910,000 ","22 Parker Street,",PORT KEMBLA NSW 2505,House,3,2,2,550m² ,0 Oct 2023
+"835,000 ","6 Poulter Street,",WEST WOLLONGONG NSW 2500,House,3,1,2,696m² ,20 Oct 2023
+"1,005,000 ","82 Yellagong Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,689m² ,2023
+"672,000 ","68 Taronga Avenue,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,312m² ,19 Oct 2023
+"890,000 ","16 Gundarun Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,695m² ,19 Oct 2023
+"1,030,000 ","10 St Johns Avenue,",MANGERTON NSW 2500,House,4,2,2,619m² ,18 Oct 2023
+"760,000 ","39 Robertson Street,",PORT KEMBLA NSW 2505,House,6,2,2,"1,056m² ",2023
+"950,000 ","49 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,3,2,3,550m² ,05 Oct 2023
+"1,210,000 ","260 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,2,1,493m² ,4 Oct 2023
+"1,825,000 ","13 Cato Place,",MOUNT KEIRA NSW 2500,House,5,2,2,859m² ,29 Sep 2023
+"1,127,500 ","6 Yuruga Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,2,955m² ,29 Sep 2023
+"880,000 ","1 The Mall,",WEST WOLLONGONG NSW 2500,House,4,1,1,582m² ,29 Sep 2023
+"1,235,000 ","37 Fisher Street,",WEST WOLLONGONG NSW 2500,House,3,2,1,677m² ,28 Sep 2023
+"860,000","21A Keira Mine Road,",KEIRAVILLE NSW 2500,House,3,2,1,394m² ,25 Sep 2023
+"750,000 ","1/199 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,Villa,3,2,1,325m² ,25 Sep 2023
+"1,150,000","123 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,5,2,1,556m² ,23 Sep 2023
+"878,000","14A Parsons Street,",KEIRAVILLE NSW 2500,House,3,2,1,358m² ,22 Sep 2023
+"800,000 ","62 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,1,2,455m² ,22 Sep 2023
+"1,100,000 ","86 Heaslip Street,",CONISTON NSW 2500,House,3,1,3,689m² ,2023
+"1,825,000 ","11 Eastern Avenue,",MANGERTON NSW 2500,House,4,2,2,"1,043m² ",4 Sep 2023
+"760,000 ","25 Waldron Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,730m² ,14 Sep 2023
+"810,000 ","30 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,2,1,1,739m² ,13 Sep 2023
+"1,400,000 ","37 St Johns Avenue,",MANGERTON NSW 2500,House,5,3,2,"1,221m² ",08 Sep 2023
+"895,000 ","20 Parker Street,",PORT KEMBLA NSW 2505,House,4,1,2,543m² ,2023
+"1,080,000 ","4 Porter Street,",NORTH WOLLONGONG NSW 2500,House,4,1,8,596m² ,07 Sep 2023
+"1,600,000","2 Reservoir Street,",MANGERTON NSW 2500,House,4,2,2,602m² ,06 Sep 2023
+"1,290,000","33 Parsons Street,",WEST WOLLONGONG NSW 2500,House,2,2,1,981m² ,06 Sep 2023
+"2,075,000 ","9 Quarry Street,",PORT KEMBLA NSW 2505,House,5,4,2,696m² ,01 Sep 2023
+"800,500 ","42 Kembla Street,",PORT KEMBLA NSW 2505,House,3,1,−,515m² ,30 Aug 2023
+"975,000 ","29a Woodlawn Avenue,",MANGERTON NSW 2500,House,3,1,1,695m² ,9 Aug 2023
+"970,000 ","55 Illawarra Street,",PORT KEMBLA NSW 2505,House,6,2,2,696m² ,29 Aug 2023
+"1,380,000 ","55 Gilmore Street,",WEST WOLLONGONG NSW 2500,House,5,2,2,689m² ,28 Aug 2023
+"740,000 ","15 Holman Street,",PORT KEMBLA NSW 2505,House,3,1,3,550m² ,24 Aug 2023
+"1,620,000 ","2 Pindari Street,",KEIRAVILLE NSW 2500,House,5,2,2,734m² ,23 Aug 2023
+"1,355,000 ","22 Crawford Avenue,",GWYNNEVILLE NSW 2500,House,4,2,3,607m² ,18 Aug 2023
+"825,000","27 Dallas Street,",KEIRAVILLE NSW 2500,House,5,2,3,677m² ,09 Aug 2023
+"753,000 ","42 Waldron Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,604m² ,09 Aug 2023
+"1,380,000 ","38 Dempster Street,",WEST WOLLONGONG NSW 2500,House,4,3,3,942m² ,08 Aug 2023
+"880,000 ","37 O'Donnell Street,",PORT KEMBLA NSW 2505,House,3,1,1,681m² ,04 Aug 2023
+"1,700,000 ","27 Bulwarra Street,",KEIRAVILLE NSW 2500,House,4,3,2,740m² ,02 Aug 2023
+"765,000 ","126 Shellharbour Road,",PORT KEMBLA NSW 2505,House,3,1,1,790m² ,01 Aug 2023
+"935,000 ","11 Akuna Street,",KEIRAVILLE NSW 2500,House,4,1,1,663m² ,2023
+"3,200,000 ","16 Meares Avenue,",MANGERTON NSW 2500,House,4,3,2,"1,391m² ",28 Jul 2023
+"1,240,000 ","55 Morandoo Avenue,",MOUNT KEIRA NSW 2500,House,3,3,2,"1,322m² ",28 Jul 2023
+"705,000 ","9 Hill Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,2,462m² ,8 Jul 2023
+"1,725,000 ","30 Cowper Street,",PORT KEMBLA NSW 2505,House,4,3,1,658m² ,2023
+"1,180,000 ","62 Murphys Avenue,",KEIRAVILLE NSW 2500,House,4,2,2,734m² ,14 Jul 2023
+"910,000 ","35 McArthur Parade,",MANGERTON NSW 2500,House,3,1,2,575m² ,14 Jul 2023
+"1,040,000","11 Phillips Crescent,",MANGERTON NSW 2500,House,3,1,2,708m² ,14 Jul 2023
+"875,000 ","171 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,4,1,1,695m² ,14 Jul 2023
+"895,000 ","58 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,3,1,2,550m² ,3 Jul 2023
+"1,000,000 ","4 Euroka Street,",WEST WOLLONGONG NSW 2500,House,4,1,2,556m² ,13 Jul 2023
+"1,380,000 ","11 Gorrell Crescent,",MANGERTON NSW 2500,House,4,2,2,834m² ,2023
+"1,410,000 ","11 Byrarong Avenue,",MANGERTON NSW 2500,House,4,2,1,701m² ,2023
+"820,000 ","21 Bukari Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,753m² ,11 Jul 2023
+"1,510,000","10 Robwald Avenue,",CONISTON NSW 2500,House,4,2,1,640m² ,07 Jul 2023
+"925,000 ","58 Yates Avenue,",MOUNT KEIRA NSW 2500,House,3,1,1,563m² ,07 Jul 2023
+"965,000 ","15 Hill Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,462m² ,05 Jul 2023
+"1,520,000 ","3 Acacia Avenue,",GWYNNEVILLE NSW 2500,House,4,2,2,923m² ,04 Jul 2023
+"720,000","33 Bridge Street,",CONISTON NSW 2500,House,2,1,−,538m² ,03 Jul 2023
+"1,290,000","15 Parkman Place,",MOUNT KEIRA NSW 2500,House,4,2,2,626m² ,03 Jul 2023
+"1,340,000 ","19 Paulsgrove Street,",GWYNNEVILLE NSW 2500,House,10,7,2,670m² ,2023
+"1,780,000 ","144 Gipps Street,",GWYNNEVILLE NSW 2500,House,4,3,2,575m² ,30 Jun 2023
+"1,265,000 ","33 McArthur Parade,",MANGERTON NSW 2500,House,5,2,1,575m² ,29 Jun 2023
+"1,150,000 ","4 Pindari Street,",KEIRAVILLE NSW 2500,House,4,3,3,803m² ,20 Jun 2023
+"780,000 ","24 Kembla Street,",PORT KEMBLA NSW 2505,House,3,1,2,519m² ,2023
+"1,025,000 ","116 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,4,1,1,538m² ,2023
+"2,150,000 ","43 Norman Street,",MANGERTON NSW 2500,House,4,3,2,765m² ,2023
+"1,300,000 ","35 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,4,2,2,556m² ,2023
+"1,060,000 ","4 Yates Avenue,",MOUNT KEIRA NSW 2500,House,3,2,2,949m² ,09 Jun 2023
+"1,100,000","29 Robertson Street,",PORT KEMBLA NSW 2505,House,4,3,2,761m² ,9 Jun 2023
+"960,000 ","177 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,4,2,3,951m² ,07 Jun 2023
+"808,000 ","166 Wentworth Street,",PORT KEMBLA NSW 2505,House,3,2,3,486m² ,2023
+"1,270,000","34 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,2,2,848m² ,06 Jun 2023
+"3,050,000","53 Tobruk Avenue,",PORT KEMBLA NSW 2505,House,5,3,3,658m² ,06 Jun 2023
+"875,000 ","105 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,2,2,759m² ,2023
+"905,000 ","65 Thames Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,555m² ,2023
+"792,000 ","86 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,493m² ,02 Jun 2023
+"880,000","17 Allan Street,",PORT KEMBLA NSW 2505,House,4,1,1,689m² ,27 May 2023
+"1,050,000 ","32 St Johns Avenue,",MANGERTON NSW 2500,House,3,2,1,582m² ,25 May 2023
+"795,000 ","15 Reserve Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,770m² ,24 May 2023
+"740,000 ","66 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,−,607m² ,18 May 2023
+"770,000 ","4 Hixson Street,",PORT KEMBLA NSW 2505,House,3,2,1,866m² ,2023
+"830,000","2 Booyong Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,562m² ,08 May 2023
+"1,200,000","2 Hurt Street,",WEST WOLLONGONG NSW 2500,Semi-detached,6,2,2,502m² ,05 May 2023
+"1,625,000 ","8 Meares Avenue,",MANGERTON NSW 2500,House,4,2,2,651m² ,4 May 2023
+"3,600,000","2 Cunningham Place,",KEIRAVILLE NSW 2500,House,6,3,4,"3,177m² ",03 May 2023
+"925,000 ","1 Jenkins Street,",PORT KEMBLA NSW 2505,House,3,2,1,594m² ,01 May 2023
+"1,550,000 ","3 Koorabel Avenue,",WEST WOLLONGONG NSW 2500,House,4,3,1,556m² ,1 May 2023
+"1,360,000 ","11 Cosgrove Avenue,",KEIRAVILLE NSW 2500,House,3,2,1,796m² ,28 Apr 2023
+"1,440,000 ","55 Euroka Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,278m² ,8 Apr 2023
+"935,000 ","26 & 26a Princes Highway,",WEST WOLLONGONG NSW 2500,House,5,2,4,904m² ,27 Apr 2023
+"1,800,000","5 Mackie Street,",CONISTON NSW 2500,House,9,3,3,"1,214m² ",21 Apr 2023
+"2,595,000 ","37 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,4,2,994m² ,21 Apr 2023
+"1,501,000 ","14 Valetta Street,",WEST WOLLONGONG NSW 2500,House,4,3,2,710m² ,21 Apr 2023
+"915,000 ","23 Lexburn Avenue,",WEST WOLLONGONG NSW 2500,House,3,2,2,560m² ,2023
+"830,000 ","19 Grasmere Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,461m² ,14 Apr 2023
+"1,429,000 ","40B Rosemont Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,320m² ,14 Apr 2023
+"950,000 ","22 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,5,3,3,626m² ,12 Apr 2023
+"1,320,000 ","5 Brownlee Street,",MANGERTON NSW 2500,House,2,2,2,765m² ,2023
+"1,000,000 ","1 Exeter Avenue,",NORTH WOLLONGONG NSW 2500,House,3,2,2,531m² ,06 Apr 2023
+"1,180,000 ","22 Pindari Street,",KEIRAVILLE NSW 2500,House,4,3,2,759m² ,29 Mar 2023
+"885,000","2 Immarna Avenue,",WEST WOLLONGONG NSW 2500,House,4,2,3,651m² ,29 Mar 2023
+"1,050,000 ","13 Railway Crescent,",NORTH WOLLONGONG NSW 2500,House,2,1,3,569m² ,27 Mar 2023
+"1,180,000 ","15 Spring Street,",MOUNT KEIRA NSW 2500,House,5,3,1,576m² ,24 Mar 2023
+"1,356,000 ","9 Marne Street,",PORT KEMBLA NSW 2505,House,4,3,2,"1,226m² ",2023
+"1,110,000 ","7 Craig-Mor Way,",KEIRAVILLE NSW 2500,House,3,2,1,556m² ,3 Mar 2023
+"1,050,000 ","3 Woodbury Place,",MOUNT KEIRA NSW 2500,House,5,3,2,688m² ,22 Mar 2023
+"1,050,000 ","30 Allan Street,",PORT KEMBLA NSW 2505,House,3,2,2,268m² ,22 Mar 2023
+"1,400,000 ","100 Woodlawn Avenue,",MANGERTON NSW 2500,House,5,3,1,696m² ,13 Mar 2023
+"1,000,000 ","60 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,2,1,784m² ,0 Mar 2023
+"895,000 ","11 Mount Street,",MOUNT SAINT THOMAS NSW 2500,House,4,1,1,474m² ,03 Mar 2023
+"780,000 ","75 Robertson Street,",PORT KEMBLA NSW 2505,House,3,2,2,524m² ,28 Feb 2023
+"762,000 ","10 England Street,",WEST WOLLONGONG NSW 2500,House,3,1,2,500m² ,28 Feb 2023
+"3,000,000","12 Gallipoli Street,",PORT KEMBLA NSW 2505,House,4,4,2,"1,119m² ",27 Feb 2023
+"875,000 ","191 Gipps Road,",KEIRAVILLE NSW 2500,House,3,1,3,556m² ,24 Feb 2023
+"1,250,000 ","8 Burradool Street,",KEIRAVILLE NSW 2500,House,3,1,2,854m² ,24 Feb 2023
+"870,000 ","20A Marne Street,",PORT KEMBLA NSW 2505,House,3,2,1,222m² ,24 Feb 2023
+"900,000 ","9 Kembla Street,",PORT KEMBLA NSW 2505,House,4,1,−,525m² ,2023
+"898,000 ","39 London Drive,",WEST WOLLONGONG NSW 2500,House,3,1,1,569m² ,2023
+"910,000","10 Milne Crescent,",CONISTON NSW 2500,House,4,2,2,723m² ,2023
+"905,000 ","31 Robsons Road,",KEIRAVILLE NSW 2500,House,3,1,1,637m² ,17 Feb 2023
+"810,000","35 Third Avenue,",PORT KEMBLA NSW 2505,House,3,1,1,525m² ,15 Feb 2023
+"1,060,000 ","21 Harkness Avenue,",KEIRAVILLE NSW 2500,House,3,1,2,877m² ,14 Feb 2023
+"1,600,000 ","4 Toorak Avenue,",MANGERTON NSW 2500,House,5,2,1,663m² ,2023
+"1,760,000","5 Lucinda Street,",GWYNNEVILLE NSW 2500,House,4,3,2,519m² ,2023
+"1,505,000 ","3 Welmont Place,",MOUNT KEIRA NSW 2500,House,5,2,2,765m² ,8 Feb 2023
+"970,000","7 Marne Street,",PORT KEMBLA NSW 2505,House,4,1,1,333m² ,08 Feb 2023
+"1,165,000 ","18 Georgina Avenue,",KEIRAVILLE NSW 2500,House,4,2,2,739m² ,07 Feb 2023
+"1,005,000 ","13 Kirrang Avenue,",MANGERTON NSW 2500,House,4,2,1,569m² ,2023
+"830,000 ","13 Second Avenue,",PORT KEMBLA NSW 2505,House,3,1,2,500m² ,2023
+"992,000 ","29 Taronga Avenue,",MANGERTON NSW 2500,House,3,2,2,696m² ,2023
+"915,000 ","79 Taronga Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,581m² ,03 Feb 2023
+"1,250,000 ","2b Toorak Avenue,",MANGERTON NSW 2500,House,4,3,2,334m² ,02 Feb 2023
+"1,180,000 ","13 Ashcroft Place,",KEIRAVILLE NSW 2500,House,4,2,2,"1,100m² ",01 Feb 2023
+"1,710,000 ","18 Eastern Avenue,",MANGERTON NSW 2500,House,3,2,1,657m² ,1 Jan 2023
+"750,000 ","73 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,2,1,2,543m² ,31 Jan 2023
+"1,093,000 ","15 Immarna Avenue,",WEST WOLLONGONG NSW 2500,House,6,2,1,556m² ,27 Jan 2023
+"990,000 ","39 Phillips Crescent,",MANGERTON NSW 2500,House,3,2,1,873m² ,25 Jan 2023
+"750,000 ","11 Madoline Street,",GWYNNEVILLE NSW 2500,House,2,1,1,525m² ,20 Jan 2023
+"1,150,000 ","34 Porter Street,",NORTH WOLLONGONG NSW 2500,House,4,2,1,651m² ,13 Jan 2023
+"1,400,000 ","11 Elizabeth Street,",MANGERTON NSW 2500,House,4,2,1,683m² ,23 Dec 2022
+"950,000","35 Bland Street,",PORT KEMBLA NSW 2505,House,4,2,1,701m² ,23 Dec 2022
+"915,000","40 Robertson Street,",CONISTON NSW 2500,House,3,1,3,"1,448m² ",22 Dec 2022
+"950,000 ","18 Gooyong Street,",KEIRAVILLE NSW 2500,House,3,1,1,740m² ,21 Dec 2022
+"745,000 ","116 Illawarra Street,",PORT KEMBLA NSW 2505,House,3,1,1,556m² ,20 Dec 2022
+"1,050,000 ","18 Lawarra Street,",PORT KEMBLA NSW 2505,House,5,2,6,696m² ,19 Dec 2022
+"745,000 ","2 Wonson Avenue,",CONISTON NSW 2500,House,3,1,1,550m² ,2022
+"850,000 ","25 Madoline Street,",GWYNNEVILLE NSW 2500,House,3,1,2,664m² ,16 Dec 2022
+"1,175,000","21A Keira Mine Road,",KEIRAVILLE NSW 2500,House,5,2,2,752m² ,15 Dec 2022
+"1,075,000 ","15 Cowper Street,",PORT KEMBLA NSW 2505,House,3,1,5,"1,525m² ",15 Dec 2022
+"850,000 ","16 Lawarra Street,",PORT KEMBLA NSW 2505,House,3,1,2,696m² ,2 Dec 2022
+"1,015,000","17 Keira Street,",PORT KEMBLA NSW 2505,House,3,1,2,699m² ,07 Dec 2022
+"760,000 ","115 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,468m² ,2022
+"1,200,000 ","42 William Street,",KEIRAVILLE NSW 2500,House,3,1,1,847m² ,05 Dec 2022
+"1,600,000 ","33 St Johns Avenue,",MANGERTON NSW 2500,House,5,3,2,"1,039m² ",30 Nov 2022
+"1,200,000 ","26 Bulwarra Street,",KEIRAVILLE NSW 2500,House,4,2,2,897m² ,28 Nov 2022
+"2,250,007 ","2 Cato Place,",MOUNT KEIRA NSW 2500,House,4,2,2,"1,131m² ",6 Nov 2022
+"975,000 ","123 Gipps Road,",GWYNNEVILLE NSW 2500,House,4,2,2,524m² ,25 Nov 2022
+"1,130,000 ","24 Georgina Avenue,",KEIRAVILLE NSW 2500,House,4,2,1,771m² ,2022
+"1,250,000","146 Military Road,",PORT KEMBLA NSW 2505,House,5,3,2,740m² ,25 Nov 2022
+"4,270,000 ","41 Norman Street,",MANGERTON NSW 2500,House,6,3,2,765m² ,24 Nov 2022
+"2,650,000 ","22 Eastern Avenue,",MANGERTON NSW 2500,House,4,2,4,657m² ,4 Nov 2022
+"756,000 ","14 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,460m² ,24 Nov 2022
+"1,900,000 ","30 Mountview Avenue,",GWYNNEVILLE NSW 2500,House,4,2,2,779m² ,8 Nov 2022
+"1,050,000 ","4 Horne Street,",PORT KEMBLA NSW 2505,House,9,2,−,866m² ,18 Nov 2022
+"1,350,000","10A Quarry Street,",PORT KEMBLA NSW 2505,House,4,3,3,350m² ,18 Nov 2022
+"1,200,000 ","51 Gilmore Street,",WEST WOLLONGONG NSW 2500,House,5,3,5,696m² ,17 Nov 2022
+"1,020,000 ","40 Norman Street,",MANGERTON NSW 2500,House,3,1,1,"1,483m² ",16 Nov 2022
+"1,825,000 ","4 & 6 Gundarun Street,",WEST WOLLONGONG NSW 2500,House,7,2,2,"1,396m² ",16 Nov 2022
+"1,025,000","29 Lawarra Street,",PORT KEMBLA NSW 2505,House,3,2,2,696m² ,2022
+"827,500 ","48 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,525m² ,2022
+"1,380,000 ","46 Yates Avenue,",MOUNT KEIRA NSW 2500,House,3,2,1,557m² ,08 Nov 2022
+"1,300,000","49 Keira Street,",PORT KEMBLA NSW 2505,House,5,3,2,686m² ,2022
+"1,275,000 ","28 Bukari Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,733m² ,07 Nov 2022
+"1,085,000 ","27 Pooraka Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,1,755m² ,07 Nov 2022
+"820,000","18 Ajax Avenue,",NORTH WOLLONGONG NSW 2500,House,4,2,2,547m² ,04 Nov 2022
+"1,060,000 ","38 Georgina Avenue,",KEIRAVILLE NSW 2500,House,3,1,2,657m² ,8 Oct 2022
+"1,600,000 ","22 Norman Street,",MANGERTON NSW 2500,House,4,3,3,731m² ,8 Oct 2022
+"1,122,500 ","69 Third Avenue,",PORT KEMBLA NSW 2505,House,4,2,3,598m² ,28 Oct 2022
+"1,050,000","42 Matthews Crescent,",PORT KEMBLA NSW 2505,House,3,1,1,613m² ,8 Oct 2022
+"1,400,000 ","33 Rosemont Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,607m² ,28 Oct 2022
+"1,230,000 ","125 Heaslip Street,",MANGERTON NSW 2500,House,4,1,2,607m² ,26 Oct 2022
+"962,000","16 Brownlee Street,",MANGERTON NSW 2500,House,5,2,1,607m² ,25 Oct 2022
+"740,000 ","18 Prospect Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,464m² ,25 Oct 2022
+"1,400,000","37 Dallas Street,",KEIRAVILLE NSW 2500,House,4,3,4,695m² ,2022
+"1,240,000 ","4 Acacia Avenue,",GWYNNEVILLE NSW 2500,House,4,2,2,487m² ,21 Oct 2022
+"700,000 ","4 Hillview Avenue,",GWYNNEVILLE NSW 2500,House,3,1,2,472m² ,21 Oct 2022
+"1,450,000 ","45 Third Avenue,",PORT KEMBLA NSW 2505,House,4,2,2,531m² ,4 Oct 2022
+"1,250,000 ","31 Bukari Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,670m² ,14 Oct 2022
+"660,000 ","56 Illawarra Street,",PORT KEMBLA NSW 2505,House,3,1,1,461m² ,13 Oct 2022
+"1,260,000","9 Kiernan Street,",GWYNNEVILLE NSW 2500,House,3,1,−,557m² ,12 Oct 2022
+"720,000 ","52 Illawarra Street,",PORT KEMBLA NSW 2505,House,2,1,2,714m² ,2022
+"970,000 ","20 Byrarong Avenue,",MANGERTON NSW 2500,House,3,1,1,847m² ,1 Oct 2022
+"950,000 ","86 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,5,2,2,696m² ,30 Sep 2022
+"855,000 ","174 Wentworth Street,",PORT KEMBLA NSW 2505,House,3,1,1,487m² ,30 Sep 2022
+"1,010,000 ","41 Horne Street,",PORT KEMBLA NSW 2505,House,4,3,6,739m² ,2022
+"745,000 ","20 Koorabel Avenue,",WEST WOLLONGONG NSW 2500,House,2,1,1,556m² ,27 Sep 2022
+"945,000 ","98 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,4,2,1,715m² ,26 Sep 2022
+"1,710,000 ","7 Robertson Street,",CONISTON NSW 2500,House,4,3,2,854m² ,2022
+"1,100,000 ","24 John Street,",GWYNNEVILLE NSW 2500,House,3,1,1,721m² ,16 Sep 2022
+"1,500,000","9 Holmden Avenue,",MANGERTON NSW 2500,House,4,2,2,544m² ,16 Sep 2022
+"690,000","8 Holman Street,",PORT KEMBLA NSW 2505,House,2,1,1,722m² ,5 Sep 2022
+"2,311,000 ","6 Eastern Street,",GWYNNEVILLE NSW 2500,House,6,4,2,670m² ,3 Sep 2022
+"950,000 ","25 Shoobert Crescent,",KEIRAVILLE NSW 2500,House,3,1,1,559m² ,2022
+"1,250,000 ","33 Byrarong Avenue,",MANGERTON NSW 2500,House,4,3,1,569m² ,09 Sep 2022
+"735,000 ","73 Robertson Street,",PORT KEMBLA NSW 2505,House,3,1,2,525m² ,06 Sep 2022
+"1,500,000 ","30 Fifth Avenue,",PORT KEMBLA NSW 2505,House,4,2,2,594m² ,02 Sep 2022
+"780,000 ","220 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,696m² ,29 Aug 2022
+"1,250,000 ","13 Shoobert Crescent,",KEIRAVILLE NSW 2500,House,3,2,2,790m² ,26 Aug 2022
+"900,000 ","4 Exeter Avenue,",NORTH WOLLONGONG NSW 2500,House,3,1,1,556m² ,2022
+"1,270,000 ","8 Keira Mine Road,",KEIRAVILLE NSW 2500,House,6,4,3,575m² ,19 Aug 2022
+"975,000","12 Keira Street,",MOUNT KEIRA NSW 2500,House,3,1,2,566m² ,2022
+"950,000 ","5 Exeter Avenue,",NORTH WOLLONGONG NSW 2500,House,3,2,2,581m² ,19 Aug 2022
+"1,500,000","265 Gipps Road,",MOUNT KEIRA NSW 2500,House,4,2,5,911m² ,18 Aug 2022
+"916,000 ","50 Robertson Street,",PORT KEMBLA NSW 2505,House,3,1,1,879m² ,2022
+"1,200,000 ","28 Kirala Avenue,",MANGERTON NSW 2500,House,3,2,1,695m² ,11 Aug 2022
+"1,050,000 ","1 Bulwarra Street,",KEIRAVILLE NSW 2500,House,3,1,1,676m² ,05 Aug 2022
+"990,000 ","7 Grasmere Street,",MOUNT SAINT THOMAS NSW 2500,House,3,2,2,461m² ,05 Aug 2022
+"949,000 ","33 London Drive,",WEST WOLLONGONG NSW 2500,House,3,1,1,556m² ,04 Aug 2022
+"1,425,000 ","57 Thames Street,",WEST WOLLONGONG NSW 2500,House,8,3,4,923m² ,2022
+"1,391,000 ","7 Taronga Avenue,",MANGERTON NSW 2500,House,4,2,1,686m² ,2022
+"865,000 ","5 Third Avenue,",PORT KEMBLA NSW 2505,House,3,2,4,484m² ,29 Jul 2022
+"837,500 ","45 & 45a Yellagong Street,",WEST WOLLONGONG NSW 2500,House,4,2,−,696m² ,29 Jul 2022
+"950,000","177 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,−,950m² ,27 Jul 2022
+"742,500 ","31 Cochrane Street,",WEST WOLLONGONG NSW 2500,House,3,1,−,911m² ,2022
+"1,000,000 ","37 Fisher Street,",WEST WOLLONGONG NSW 2500,House,3,2,1,676m² ,22 Jul 2022
+"1,235,000 ","22 Phillips Crescent,",MANGERTON NSW 2500,House,3,1,2,575m² ,20 Jul 2022
+"850,000 ","2/1 Somme Street,",PORT KEMBLA NSW 2505,Villa,3,1,1,750m² ,15 Jul 2022
+"2,000,000 ","2A Bell Street,",KEIRAVILLE NSW 2500,House,4,3,1,771m² ,13 Jul 2022
+"1,205,000 ","87 St Johns Avenue,",MANGERTON NSW 2500,House,4,2,1,626m² ,2022
+"1,475,000","45 Keira Street,",PORT KEMBLA NSW 2505,House,4,3,2,696m² ,07 Jul 2022
+"650,000 ","22 Lawarra Street,",PORT KEMBLA NSW 2505,House,2,1,1,681m² ,06 Jul 2022
+"890,000 ","79 Shellharbour Road,",PORT KEMBLA NSW 2505,House,3,1,−,689m² ,01 Jul 2022
+"2,300,000 ","3 Walter Street,",MANGERTON NSW 2500,House,5,2,2,860m² ,30 Jun 2022
+"865,000 ","6 Pooraka Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,1,601m² ,30 Jun 2022
+"1,200,000 ","4 Elizabeth Street,",MANGERTON NSW 2500,House,3,1,1,955m² ,28 Jun 2022
+"925,500 ","37 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,3,2,2,550m² ,2022
+"1,570,000 ","21 Byrarong Avenue,",MANGERTON NSW 2500,House,4,2,1,588m² ,4 Jun 2022
+"1,030,000","14 Hill Street,",MOUNT SAINT THOMAS NSW 2500,House,4,2,1,474m² ,24 Jun 2022
+"905,000 ","485B Crown Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,400m² ,20 Jun 2022
+"1,385,000 ","47 Grey Street,",KEIRAVILLE NSW 2500,House,4,2,1,260m² ,16 Jun 2022
+"980,000 ","8 Prospect Street,",MOUNT SAINT THOMAS NSW 2500,House,3,2,1,462m² ,16 Jun 2022
+"1,250,000 ","18 Wonson Avenue,",CONISTON NSW 2500,House,5,2,2,556m² ,15 Jun 2022
+"1,100,000 ","57 Keira Street,",PORT KEMBLA NSW 2505,House,3,1,4,613m² ,2022
+"1,000,000 ","19 Rose Street,",KEIRAVILLE NSW 2500,House,5,3,1,904m² ,14 Jun 2022
+"970,000 ","87 Heaslip Street,",CONISTON NSW 2500,House,3,1,2,715m² ,08 Jun 2022
+"1,420,000 ","65 Reservoir Street,",PORT KEMBLA NSW 2505,House,4,1,3,747m² ,2022
+"920,000 ","14 Balook Street,",MOUNT KEIRA NSW 2500,House,5,2,1,556m² ,2022
+"1,340,000 ","2 Eastern Street,",GWYNNEVILLE NSW 2500,House,3,2,2,319m² ,2022
+"1,600,000 ","14 Meares Avenue,",MANGERTON NSW 2500,House,4,2,1,696m² ,1 May 2022
+"1,620,000","24 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,3,2,867m² ,27 May 2022
+"1,310,000 ","9 Fairy Street,",GWYNNEVILLE NSW 2500,House,5,3,2,683m² ,21 May 2022
+"2,850,000 ","18a Gallipoli Street,",PORT KEMBLA NSW 2505,House,5,3,2,629m² ,2022
+"1,038,000 ","101 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,3,1,2,562m² ,18 May 2022
+"935,000 ","12 Kirrang Avenue,",MANGERTON NSW 2500,House,3,2,1,904m² ,17 May 2022
+"1,400,000","1 Bland Street,",PORT KEMBLA NSW 2505,House,5,2,2,696m² ,17 May 2022
+"980,000 ","1 Jenkins Street,",PORT KEMBLA NSW 2505,House,3,2,2,607m² ,2022
+"1,780,000","52 Euroka Street,",WEST WOLLONGONG NSW 2500,House,4,3,1,569m² ,16 May 2022
+"1,425,000 ","23 Phillips Crescent,",MANGERTON NSW 2500,House,4,2,2,651m² ,2022
+"1,090,000 ","89 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,2,2,487m² ,12 May 2022
+"1,060,000 ","37 Booyong Street,",WEST WOLLONGONG NSW 2500,House,3,2,1,556m² ,11 May 2022
+"960,000 ","111 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,2,2,467m² ,10 May 2022
+"940,000 ","211 Wentworth Street,",PORT KEMBLA NSW 2505,House,3,1,1,531m² ,6 May 2022
+"1,145,000 ","4 Georgina Avenue,",KEIRAVILLE NSW 2500,House,4,2,2,550m² ,2022
+"800,000 ","11 Forster Street,",PORT KEMBLA NSW 2505,House,4,1,1,590m² ,29 Apr 2022
+"810,000 ","6 Fifth Avenue,",PORT KEMBLA NSW 2505,House,3,2,1,332m² ,2022
+"1,310,000 ","198 Mount Keira Road,",MOUNT KEIRA NSW 2500,House,4,2,1,569m² ,28 Apr 2022
+"4,000,000","29 Meares Avenue,",MANGERTON NSW 2500,House,5,4,4,"1,449m² ",7 Apr 2022
+"1,042,100 ","11 Euroka St,",WEST WOLLONGONG NSW 2500,House,6,2,2,563m² ,2022
+"1,211,000 ","27A Woodlawn Avenue,",MANGERTON NSW 2500,House,4,2,1,732m² ,2022
+"870,000 ","119 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,1,1,254m² ,14 Apr 2022
+"1,270,000 ","29 Geards Place,",WEST WOLLONGONG NSW 2500,House,3,2,1,694m² ,2022
+"1,142,000 ","228 Gipps Road,",GWYNNEVILLE NSW 2500,House,4,2,3,607m² ,08 Apr 2022
+"1,950,000 ","25 Dempster Street,",WEST WOLLONGONG NSW 2500,House,3,3,4,"1,075m² ",08 Apr 2022
+"1,100,000 ","5 Murphys Avenue,",GWYNNEVILLE NSW 2500,House,3,1,1,683m² ,7 Apr 2022
+"1,115,000 ","31 Railway Crescent,",NORTH WOLLONGONG NSW 2500,House,3,1,1,575m² ,06 Apr 2022
+"1,340,000","2A Robsons Road,",KEIRAVILLE NSW 2500,House,4,2,2,594m² ,04 Apr 2022
+"1,600,000 ","35 Lucinda Street,",GWYNNEVILLE NSW 2500,House,3,1,1,524m² ,01 Apr 2022
+"1,315,000 ","240 Gipps Road,",KEIRAVILLE NSW 2500,House,3,1,4,632m² ,01 Apr 2022
+"1,900,000","121-123 Wentworth Street,",PORT KEMBLA NSW 2505,House,− 0,3,4,556m² ,29 Mar 2022
+"1,315,000 ","249 Wentworth Street,",PORT KEMBLA NSW 2505,House,3,1,2,626m² ,2022
+"1,400,000 ","11 Spring Street,",MOUNT KEIRA NSW 2500,House,4,3,2,694m² ,18 Mar 2022
+"735,000 ","18 Shellharbour Rd,",PORT KEMBLA NSW 2505,House,3,1,1,495m² ,18 Mar 2022
+"1,700,000 ","15 Eastern Avenue,",MANGERTON NSW 2500,House,4,3,3,721m² ,7 Mar 2022
+"1,100,000 ","7 Immarna Avenue,",WEST WOLLONGONG NSW 2500,House,5,2,1,556m² ,6 Mar 2022
+"900,000 ","2 Sixth Avenue,",PORT KEMBLA NSW 2505,House,2,1,6,823m² ,14 Mar 2022
+"1,350,000 ","15 Eastern Street,",GWYNNEVILLE NSW 2500,House,3,1,1,683m² ,2022
+"1,350,000 ","14 Cassian Street,",KEIRAVILLE NSW 2500,House,4,2,2,936m² ,4 Mar 2022
+"956,031 ","23 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,2,1,1,607m² ,4 Mar 2022
+"1,223,000 ","3 Uralba Street,",WEST WOLLONGONG NSW 2500,House,3,2,2,639m² ,2022
+"1,500,000 ","22 Harkness Avenue,",KEIRAVILLE NSW 2500,House,3,2,2,866m² ,01 Mar 2022
+"1,360,000 ","26 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,2,1,860m² ,2022
+"950,000","193 Gipps Road,",KEIRAVILLE NSW 2500,House,3,1,−,891m² ,25 Feb 2022
+"1,045,000 ","87 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,1,1,677m² ,2022
+"750,000","6A Woodlawn Avenue,",MANGERTON NSW 2500,House,3,1,1,321m² ,21 Feb 2022
+"1,192,000 ","5 Paulsgrove Street,",GWYNNEVILLE NSW 2500,House,3,1,1,645m² ,2022
+"985,000 ","71 Bridge Street,",CONISTON NSW 2500,House,4,1,1,"1,081m² ",2022
+"1,210,000 ","7 Gregory Street,",CONISTON NSW 2500,House,4,2,1,594m² ,8 Feb 2022
+"795,000 ","95 Illawarra Street,",PORT KEMBLA NSW 2505,House,3,2,1,495m² ,18 Feb 2022
+"1,215,000 ","3 Banool Street,",KEIRAVILLE NSW 2500,House,3,1,2,570m² ,14 Feb 2022
+"840,000 ","32 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,2,1,2,727m² ,11 Feb 2022
+"757,000 ","11 Fisher Street,",WEST WOLLONGONG NSW 2500,Villa,2,1,1,266m² ,08 Feb 2022
+"1,010,000 ","2 Princes Highway,",WEST WOLLONGONG NSW 2500,House,4,2,2,897m² ,2022
+"930,000 ","94 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,436m² ,2022
+"1,670,000 ","9 Eastern Avenue,",MANGERTON NSW 2500,House,5,2,2,778m² ,2022
+"920,500 ","9 Horne Street,",PORT KEMBLA NSW 2505,House,3,1,3,626m² ,2022
+"855,000 ","20 Balook Street,",MOUNT KEIRA NSW 2500,House,3,1,−,563m² ,27 Jan 2022
+"1,065,000 ","14 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,3,2,2,626m² ,24 Jan 2022
+"1,837,500 ","79 Third Avenue,",PORT KEMBLA NSW 2505,House,4,3,5,651m² ,2022
+"1,200,000 ","100 - 102 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,2,1,961m² ,2021
+"2,160,000 ","30 Shoobert Crescent,",KEIRAVILLE NSW 2500,House,5,3,2,973m² ,3 Dec 2021
+"1,300,000 ","2 Georgina Avenue,",KEIRAVILLE NSW 2500,House,4,2,2,550m² ,22 Dec 2021
+"1,090,000","4 Gooyong Street,",KEIRAVILLE NSW 2500,House,5,2,3,651m² ,22 Dec 2021
+"1,100,000 ","14 Medway Drive,",MOUNT KEIRA NSW 2500,House,3,2,1,576m² ,22 Dec 2021
+"690,000 ","306 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,569m² ,22 Dec 2021
+"805,000","67 Shellharbour Road,",PORT KEMBLA NSW 2505,House,3,1,2,556m² ,22 Dec 2021
+"1,300,000 ","21 Robwald Avenue,",CONISTON NSW 2500,House,4,2,2,759m² ,7 Dec 2021
+"1,100,000 ","7 Binda Street,",KEIRAVILLE NSW 2500,House,4,4,2,839m² ,6 Dec 2021
+"1,300,000 ","12 Fairy Street,",GWYNNEVILLE NSW 2500,House,3,2,1,569m² ,5 Dec 2021
+"1,150,000 ","5 Acacia Avenue,",GWYNNEVILLE NSW 2500,House,3,1,1,928m² ,2021
+"950,000","10 Keira Mine Road,",KEIRAVILLE NSW 2500,House,3,2,2,578m² ,2021
+"1,540,000","10 Heaslip Street,",CONISTON NSW 2500,House,5,3,2,804m² ,09 Dec 2021
+"1,300,000 ","24 William Street,",KEIRAVILLE NSW 2500,House,4,2,2,474m² ,2021
+"970,000 ","18 Donaldson St,",PORT KEMBLA NSW 2505,House,2,1,2,555m² ,06 Dec 2021
+"1,450,000 ","7 Powell Street,",MANGERTON NSW 2500,House,4,3,2,852m² ,3 Dec 2021
+"1,690,000 ","5 Allen Street,",MOUNT KEIRA NSW 2500,House,5,4,3,854m² ,2021
+"875,000 ","366 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,2,2,650m² ,02 Dec 2021
+"880,000 ","97 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,588m² ,01 Dec 2021
+"1,300,000 ","9 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,4,3,1,696m² ,1 Dec 2021
+"1,575,000 ","22 St Johns Avenue,",MANGERTON NSW 2500,House,4,3,3,740m² ,2021
+"975,000 ","139 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,3,1,1,700m² ,29 Nov 2021
+"1,070,000","16 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,468m² ,6 Nov 2021
+"1,405,000","30 Bland Street,",PORT KEMBLA NSW 2505,House,3,2,2,645m² ,2021
+"1,360,000 ","55 Gilmore Street,",WEST WOLLONGONG NSW 2500,House,4,2,2,705m² ,2 Nov 2021
+"851,000 ","11 St Johns Avenue,",MANGERTON NSW 2500,House,3,1,1,822m² ,2021
+"951,000 ","13 St Johns Avenue,",MANGERTON NSW 2500,House,3,1,2,878m² ,2021
+"920,000","8 Hill Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,474m² ,9 Nov 2021
+"1,150,000","184 Wentworth Street,",PORT KEMBLA NSW 2505,House,5,2,2,489m² ,19 Nov 2021
+"1,110,000 ","6 Nioka Ave,",KEIRAVILLE NSW 2500,House,3,1,1,588m² ,16 Nov 2021
+"922,000 ","28 Ajax Avenue,",NORTH WOLLONGONG NSW 2500,House,3,1,1,734m² ,16 Nov 2021
+"1,330,000 ","51 Eastern Avenue,",MANGERTON NSW 2500,House,4,2,1,936m² ,15 Nov 2021
+"1,425,000 ","70 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,2,4,"1,192m² ",2021
+"1,175,000 ","95 Bridge Street,",CONISTON NSW 2500,House,3,3,3,819m² ,12 Nov 2021
+"1,100,000 ","62 Thames Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,600m² ,12 Nov 2021
+"765,000 ","26 Mount Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,582m² ,9 Nov 2021
+"895,000 ","38 Parker Street,",PORT KEMBLA NSW 2505,House,3,1,2,556m² ,09 Nov 2021
+"2,200,000 ","1A Cosgrove Avenue,",KEIRAVILLE NSW 2500,House,5,2,4,"1,672m² ",2021
+"1,908,000 ","4 Spring Street,",MOUNT KEIRA NSW 2500,House,5,4,2,662m² ,5 Nov 2021
+"1,070,000 ","3/49 Bourke Street,",NORTH WOLLONGONG NSW 2500,House,2,2,1,213m² ,05 Nov 2021
+"1,400,000 ","65 - 67 Morandoo Avenue,",MOUNT KEIRA NSW 2500,House,5,2,−,"1,771m² ",4 Nov 2021
+"781,000 ","181 Mount Keira Road,",MOUNT KEIRA NSW 2500,House,3,1,1,"1,524m² ",9 Oct 2021
+"1,500,000 ","8 Harkness Avenue,",KEIRAVILLE NSW 2500,House,3,2,2,955m² ,8 Oct 2021
+"1,035,000 ","8 Hurt Street,",WEST WOLLONGONG NSW 2500,House,3,2,1,446m² ,8 Oct 2021
+"1,980,000","190 Mount Keira Road,",MOUNT KEIRA NSW 2500,House,6,3,5,747m² ,7 Oct 2021
+"1,200,000 ","51 Phillips Crescent,",MANGERTON NSW 2500,House,3,2,2,569m² ,23 Oct 2021
+"1,190,000 ","107 Bridge Street,",CONISTON NSW 2500,House,4,2,1,556m² ,22 Oct 2021
+"1,001,043 ","43 Woodlawn Avenue,",MANGERTON NSW 2500,House,3,2,1,369m² ,22 Oct 2021
+"1,200,000 ","93 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,4,2,2,843m² ,22 Oct 2021
+"770,000 ","142 Illawarra Street,",PORT KEMBLA NSW 2505,House,3,2,1,519m² ,2 Oct 2021
+"1,290,000 ","14 Gorrell Crescent,",MANGERTON NSW 2500,House,4,2,2,664m² ,2021
+"1,200,000 ","30 Abercrombie Street,",WEST WOLLONGONG NSW 2500,House,4,2,2,632m² ,18 Oct 2021
+"1,175,000 ","11 Bukari Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,458m² ,2021
+"1,262,000 ","54 Grey Street,",KEIRAVILLE NSW 2500,House,3,2,1,613m² ,14 Oct 2021
+"1,585,000 ","177b Gipps Road,",KEIRAVILLE NSW 2500,Duplex,4,2,2,330m² ,12 Oct 2021
+"1,336,000 ","39 Toorak Avenue,",MANGERTON NSW 2500,House,4,2,1,714m² ,5 Oct 2021
+"1,050,000 ","57 Keira Street,",PORT KEMBLA NSW 2505,House,3,1,4,613m² ,05 Oct 2021
+"1,580,000 ","13 Rosemont Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,917m² ,2021
+"1,300,000 ","38 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,1,2,841m² ,0 Sep 2021
+"1,286,000 ","119 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,3,2,2,954m² ,2021
+"1,420,000 ","10 Dovers Drive,",PORT KEMBLA NSW 2505,House,3,2,2,556m² ,2021
+"670,000","22 Kembla St,",PORT KEMBLA NSW 2505,House,3,1,2,525m² ,24 Sep 2021
+"2,475,000 ","56 St Johns Avenue,",MANGERTON NSW 2500,House,4,3,3,"1,043m² ",2 Sep 2021
+"1,450,000 ","42 Norman Street,",MANGERTON NSW 2500,House,4,2,1,"1,385m² ",2 Sep 2021
+"691,000 ","73 Shellharbour Road,",PORT KEMBLA NSW 2505,House,2,1,3,683m² ,22 Sep 2021
+"1,620,000","14 Cedar Grove,",KEIRAVILLE NSW 2500,House,6,2,4,847m² ,17 Sep 2021
+"1,062,222 ","86 Heaslip Street,",CONISTON NSW 2500,House,3,1,3,689m² ,14 Sep 2021
+"1,210,000 ","169 Mount Keira Road,",MOUNT KEIRA NSW 2500,House,3,1,2,699m² ,4 Sep 2021
+"940,000 ","9 Lawarra Street,",PORT KEMBLA NSW 2505,House,3,1,1,683m² ,10 Sep 2021
+"985,000 ","17 Donaldson Street,",PORT KEMBLA NSW 2505,House,4,1,1,600m² ,08 Sep 2021
+"1,641,000 ","147 Koloona Avenue,",MOUNT KEIRA NSW 2500,House,2,1,4,0,2021
+"986,000 ","5 Waitangi Street,",GWYNNEVILLE NSW 2500,House,3,2,1,677m² ,1 Sep 2021
+"1,006,000 ","59 Donaldson Street,",PORT KEMBLA NSW 2505,House,3,1,3,550m² ,2021
+"1,250,000 ","106 St Johns Avenue,",MANGERTON NSW 2500,House,3,2,2,607m² ,1 Aug 2021
+"1,188,000 ","28 Pooraka Avenue,",WEST WOLLONGONG NSW 2500,House,5,3,2,746m² ,31 Aug 2021
+"1,200,000 ","105 Murphys Avenue,",KEIRAVILLE NSW 2500,House,3,1,1,765m² ,27 Aug 2021
+"1,121,000 ","24 Toorak Avenue,",MANGERTON NSW 2500,House,3,1,2,670m² ,7 Aug 2021
+"1,295,000","14 Iris Avenue,",CONISTON NSW 2500,House,3,2,2,690m² ,24 Aug 2021
+"866,000 ","136 Cowper Street,",PORT KEMBLA NSW 2505,House,3,1,2,840m² ,20 Aug 2021
+"971,000 ","110 Robsons Road,",KEIRAVILLE NSW 2500,House,3,1,2,588m² ,18 Aug 2021
+"1,270,000 ","28 Robsons Road,",KEIRAVILLE NSW 2500,House,3,1,1,600m² ,7 Aug 2021
+"865,000 ","46 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,500m² ,16 Aug 2021
+"1,000,000 ","131 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,4,2,1,447m² ,2021
+"850,000 ","16 Irvine Street,",GWYNNEVILLE NSW 2500,House,3,1,1,605m² ,13 Aug 2021
+"940,000 ","5 Akuna Street,",KEIRAVILLE NSW 2500,House,3,2,1,582m² ,11 Aug 2021
+"960,000","105 Heaslip Street,",MANGERTON NSW 2500,House,3,1,1,601m² ,2021
+"1,165,000 ","22 Binda Street,",KEIRAVILLE NSW 2500,House,5,2,1,879m² ,03 Aug 2021
+"1,075,000","158 Military Road,",PORT KEMBLA NSW 2505,House,3,1,3,739m² ,02 Aug 2021
+"1,505,000 ","49 Woodlawn Avenue,",MANGERTON NSW 2500,House,3,2,1,"1,073m² ",2021
+"1,000,000 ","23 Pooraka Avenue,",WEST WOLLONGONG NSW 2500,House,3,2,2,740m² ,26 Jul 2021
+"820,000 ","43 Bridge Street,",CONISTON NSW 2500,House,3,1,1,443m² ,2021
+"1,260,000","51 Norman Street,",MANGERTON NSW 2500,House,3,1,2,759m² ,23 Jul 2021
+"889,000 ","4 Forster Street,",PORT KEMBLA NSW 2505,House,5,2,2,525m² ,2021
+"900,000 ","79 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,2,1,525m² ,2 Jul 2021
+"890,000 ","22 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,2,−,588m² ,22 Jul 2021
+"462,000","1 Robertson Street,",CONISTON NSW 2500,House,3,− 0,−,480m² ,21 Jul 2021
+"893,000","28 Donaldson Street,",PORT KEMBLA NSW 2505,House,3,2,1,687m² ,21 Jul 2021
+"1,285,000 ","18 Iris Avenue,",CONISTON NSW 2500,House,5,1,4,626m² ,20 Jul 2021
+"1,011,000 ","128 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,497m² ,15 Jul 2021
+"875,000","81 Parkes Street,",PORT KEMBLA NSW 2505,House,3,1,4,518m² ,
+"865,000 ","10 Balook Street,",MOUNT KEIRA NSW 2500,House,3,1,2,556m² ,08 Jul 2021
+"965,000 ","137 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,2,2,607m² ,
+"1,900,000","12A Surfside Drive,",PORT KEMBLA NSW 2505,House,4,3,8,559m² ,01 Jul 2021
+"930,000 ","28 Highway Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,1,"1,043m² ",01 Jul 2021
+"3,000,000","12 Cato Place,",MOUNT KEIRA NSW 2500,House,5,3,4,"1,567m² ",30 Jun 2021
+"1,308,000 ","12 Cassian Street,",KEIRAVILLE NSW 2500,House,5,2,2,695m² ,2021
+"1,150,000 ","19 Mountview Avenue,",GWYNNEVILLE NSW 2500,House,4,1,2,519m² ,3 Jun 2021
+"807,000 ","17 Wonson Avenue,",CONISTON NSW 2500,House,3,2,2,601m² ,22 Jun 2021
+"1,225,000 ","15 Mountview Avenue,",GWYNNEVILLE NSW 2500,House,5,2,1,519m² ,21 Jun 2021
+"1,100,000 ","5 Hurt Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,446m² ,2021
+"763,000 ","9 Hickman Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,599m² ,18 Jun 2021
+"990,000 ","7 Hurt Street,",WEST WOLLONGONG NSW 2500,House,3,1,2,446m² ,18 Jun 2021
+"760,000","280 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,290m² ,15 Jun 2021
+"760,000","280 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,290m² ,15 Jun 2021
+"855,000 ","32 Horne Street,",PORT KEMBLA NSW 2505,House,3,1,2,695m² ,12 Jun 2021
+"1,357,888 ","64 Heaslip Street,",CONISTON NSW 2500,House,4,2,2,347m² ,8 Jun 2021
+"740,000 ","12 Kirrang Avenue,",MANGERTON NSW 2500,House,3,2,1,904m² ,08 Jun 2021
+"890,000 ","56 Third Avenue,",PORT KEMBLA NSW 2505,House,3,3,1,524m² ,08 Jun 2021
+"1,555,000 ","37 Yellagong Street,",WEST WOLLONGONG NSW 2500,House,5,3,2,771m² ,07 Jun 2021
+"2,180,000 ","20 Anzac Way,",PORT KEMBLA NSW 2505,House,5,2,2,633m² ,4 Jun 2021
+"1,110,000 ","132 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,1,1,556m² ,03 Jun 2021
+"1,275,000 ","29 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,4,2,1,557m² ,1 Jun 2021
+"1,600,000 ","4 Meares Avenue,",MANGERTON NSW 2500,House,4,2,2,626m² ,1 May 2021
+"1,123,879 ","73 Robsons Road,",KEIRAVILLE NSW 2500,House,3,2,2,696m² ,8 May 2021
+"1,175,000 ","5 Retford Place,",MOUNT KEIRA NSW 2500,House,4,3,3,740m² ,2021
+"1,300,000 ","1 Highway Avenue,",WEST WOLLONGONG NSW 2500,House,6,3,4,"1,664m² ",27 May 2021
+"1,100,000 ","148 Military Road,",PORT KEMBLA NSW 2505,House,3,1,−,743m² ,2021
+"3,450,000 ","22 Pleasant Avenue,",NORTH WOLLONGONG NSW 2500,House,5,2,2,700m² ,21 May 2021
+"1,100,000 ","4 Milne Crescent,",CONISTON NSW 2500,House,4,2,2,978m² ,17 May 2021
+"1,100,000 ","82 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,2,1,525m² ,17 May 2021
+"1,095,000 ","1 Binda Street,",KEIRAVILLE NSW 2500,House,4,2,2,835m² ,14 May 2021
+"917,000 ","55 Grey Street,",KEIRAVILLE NSW 2500,House,3,1,2,524m² ,11 May 2021
+"1,081,000 ","13 Dallas Street,",KEIRAVILLE NSW 2500,House,5,4,2,753m² ,2021
+"880,000 ","9 Euroka Street,",WEST WOLLONGONG NSW 2500,House,4,2,3,658m² ,07 May 2021
+"1,100,000 ","37 Dempster Street,",WEST WOLLONGONG NSW 2500,House,3,2,1,572m² ,7 May 2021
+"978,000 ","178 Gladstone Avenue,",CONISTON NSW 2500,House,3,2,1,418m² ,2021
+"1,340,000 ","20 Welmont Place,",MOUNT KEIRA NSW 2500,House,6,3,2,759m² ,2021
+"1,073,000 ","7A Therry Street,",WEST WOLLONGONG NSW 2500,House,3,1,3,645m² ,2021
+"1,190,000 ","16 McAndrew Crescent,",MANGERTON NSW 2500,House,5,3,2,"1,176m² ",30 Apr 2021
+"1,260,000 ","18 Thames Street,",WEST WOLLONGONG NSW 2500,House,5,2,2,620m² ,30 Apr 2021
+"1,075,000 ","27 Iris Avenue,",CONISTON NSW 2500,House,3,2,1,569m² ,29 Apr 2021
+"1,262,500 ","58 William Street,",KEIRAVILLE NSW 2500,House,4,3,2,645m² ,8 Apr 2021
+"1,000,000 ","13 Harkness Avenue,",KEIRAVILLE NSW 2500,House,3,1,1,556m² ,27 Apr 2021
+"995,000 ","88 Woodlawn Avenue,",MANGERTON NSW 2500,House,2,1,2,696m² ,2021
+"800,000 ","1/6 Somme Street,",PORT KEMBLA NSW 2505,House,2,1,2,324m² ,23 Apr 2021
+"960,000 ","8 Crawford Avenue,",GWYNNEVILLE NSW 2500,House,4,2,1,485m² ,20 Apr 2021
+"1,120,000 ","2 Pooraka Avenue,",WEST WOLLONGONG NSW 2500,House,5,2,4,607m² ,20 Apr 2021
+"620,000 ","138 Illawarra Street,",PORT KEMBLA NSW 2505,House,2,1,1,519m² ,19 Apr 2021
+"1,500,000","15 Acacia Ave,",GWYNNEVILLE NSW 2500,House,4,2,1,923m² ,15 Apr 2021
+"1,075,000","16 Lucinda Street,",GWYNNEVILLE NSW 2500,House,3,1,1,518m² ,15 Apr 2021
+"645,000","28 Graham Avenue,",GWYNNEVILLE NSW 2500,House,4,1,−,357m² ,15 Apr 2021
+"913,949 ","14 Therry Street,",WEST WOLLONGONG NSW 2500,House,4,1,1,588m² ,5 Apr 2021
+"917,777 ","62 Thames Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,600m² ,14 Apr 2021
+"1,205,000 ","14 Mountview Avenue,",GWYNNEVILLE NSW 2500,House,5,2,1,"1,050m² ",12 Apr 2021
+"850,000 ","6 Graham Avenue,",GWYNNEVILLE NSW 2500,House,3,2,1,601m² ,12 Apr 2021
+"900,500 ","80 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,550m² ,09 Apr 2021
+"1,365,000 ","3 Cosgrove Avenue,",KEIRAVILLE NSW 2500,House,6,3,−,"1,312m² ",2021
+"800,000 ","3 Milne Crescent,",CONISTON NSW 2500,House,3,1,2,729m² ,30 Mar 2021
+"830,000 ","32 O'Donnell Street,",PORT KEMBLA NSW 2505,House,3,1,−,794m² ,26 Mar 2021
+"930,000 ","3 Euroka Street,",WEST WOLLONGONG NSW 2500,House,0,0,0,569m² ,25 Mar 2021
+"1,020,000 ","8 Stanleigh Crescent,",WEST WOLLONGONG NSW 2500,House,3,3,3,658m² ,24 Mar 2021
+"1,105,000 ","15 Bulwarra Street,",KEIRAVILLE NSW 2500,House,4,1,1,689m² ,2021
+"850,000 ","18B Marne Street,",PORT KEMBLA NSW 2505,House,3,2,1,207m² ,3 Mar 2021
+"800,000 ","21 Pooraka Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,2,740m² ,23 Mar 2021
+"1,500,000","7 Valetta Street,",WEST WOLLONGONG NSW 2500,House,4,3,2,632m² ,23 Mar 2021
+"780,000","76 cowper,",PORT KEMBLA NSW 2505,House,3,2,4,550m² ,2021
+"725,000 ","96 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,2,1,2,481m² ,9 Mar 2021
+"1,315,000","50 Bourke Street,",NORTH WOLLONGONG NSW 2500,House,3,1,1,411m² ,18 Mar 2021
+"940,000 ","14 Bimbadeen Avenue,",WEST WOLLONGONG NSW 2500,House,5,2,2,556m² ,18 Mar 2021
+"960,000 ","29 Braeside Avenue,",KEIRAVILLE NSW 2500,House,2,1,1,563m² ,2021
+"640,000 ","14a Reserve Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,328m² ,17 Mar 2021
+"1,682,000 ","33 Gallipoli Street,",PORT KEMBLA NSW 2505,House,4,2,2,598m² ,2021
+"850,000 ","54 Ocean Street,",MOUNT SAINT THOMAS NSW 2500,House,4,2,2,588m² ,11 Mar 2021
+"865,000 ","42 McAndrew Crescent,",MANGERTON NSW 2500,House,5,2,−,780m² ,03 Mar 2021
+"1,250,000 ","5 Andrew Avenue,",KEIRAVILLE NSW 2500,House,4,3,2,563m² ,1 Mar 2021
+"800,000","22 Waitangi Street,",GWYNNEVILLE NSW 2500,House,3,2,1,593m² ,2021
+"1,400,000 ","10 Robwald Avenue,",CONISTON NSW 2500,House,4,1,1,640m² ,2021
+"1,620,000","224 Gipps Road,",GWYNNEVILLE NSW 2500,House,4,3,4,598m² ,26 Feb 2021
+"870,000 ","41 Eastern Avenue,",MANGERTON NSW 2500,Semi-detached,3,2,−,332m² ,26 Feb 2021
+"1,316,000 ","36 Rosemont Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,904m² ,2021
+"871,000 ","5 Crawford Avenue,",GWYNNEVILLE NSW 2500,House,3,1,−,588m² ,22 Feb 2021
+"660,000 ","61 Donaldson Street,",PORT KEMBLA NSW 2505,House,2,1,1,551m² ,22 Feb 2021
+"820,000 ","19 Woodlawn Avenue,",MANGERTON NSW 2500,House,3,1,1,591m² ,9 Feb 2021
+"910,000 ","38 Taronga Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,1,645m² ,19 Feb 2021
+"1,030,000 ","5 Yuruga Avenue,",WEST WOLLONGONG NSW 2500,House,3,2,1,613m² ,2021
+"977,000","31 Eastern Street,",GWYNNEVILLE NSW 2500,House,5,3,5,664m² ,16 Feb 2021
+"950,000 ","10 Euroka Street,",WEST WOLLONGONG NSW 2500,House,4,2,1,538m² ,2021
+"700,000 ","25 Gundarun Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,841m² ,13 Feb 2021
+"941,000 ","52 Gilmore Street,",WEST WOLLONGONG NSW 2500,House,4,1,2,588m² ,2021
+"805,000","116 Robsons Road,",WEST WOLLONGONG NSW 2500,House,4,1,2,575m² ,10 Feb 2021
+"910,000 ","98 Bridge Street,",CONISTON NSW 2500,House,5,2,2,563m² ,09 Feb 2021
+"721,000 ","20 London Drive,",WEST WOLLONGONG NSW 2500,House,3,1,1,601m² ,09 Feb 2021
+"1,530,000 ","364 Gipps Road,",KEIRAVILLE NSW 2500,House,4,2,2,"1,967m² ",2021
+"835,000 ","12 Carcoola Street,",MOUNT KEIRA NSW 2500,House,3,1,1,582m² ,05 Feb 2021
+"1,040,000 ","30 Porter Street,",NORTH WOLLONGONG NSW 2500,House,3,2,3,646m² ,05 Feb 2021
+"805,000","52 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,4,2,2,803m² ,04 Feb 2021
+"880,000 ","19 ROBERTSON STREET,",PORT KEMBLA NSW 2505,House,3,1,1,520m² ,03 Feb 2021
+"820,000 ","27 Foley Street,",GWYNNEVILLE NSW 2500,House,3,1,1,575m² ,01 Feb 2021
+"1,670,000 ","5 John Street,",GWYNNEVILLE NSW 2500,House,4,3,2,670m² ,22 Jan 2021
+"625,000","35 Hixson Street,",PORT KEMBLA NSW 2505,House,3,1,4,752m² ,21 Jan 2021
+"2,200,000 ","48 Dovers Drive,",PORT KEMBLA NSW 2505,House,5,3,2,809m² ,19 Jan 2021
+"855,000 ","17 Gregory Street,",CONISTON NSW 2500,House,3,1,1,879m² ,15 Jan 2021
+"2,600,000","16 Meares Avenue,",MANGERTON NSW 2500,House,4,3,2,"1,391m² ",14 Jan 2021
+"970,000 ","14 Binda Street,",KEIRAVILLE NSW 2500,House,4,1,1,556m² ,13 Jan 2021
+"540,000 ","30 Horne Street,",PORT KEMBLA NSW 2505,House,3,1,1,689m² ,12 Jan 2021
+"1,100,000 ","24 Bulwarra Street,",KEIRAVILLE NSW 2500,House,3,2,3,689m² ,30 Dec 2020
+"840,000 ","47 Dallas Street,",KEIRAVILLE NSW 2500,House,3,1,2,815m² ,23 Dec 2020
+"500,000 ","10 Holman Street,",PORT KEMBLA NSW 2505,House,2,1,−,777m² ,22 Dec 2020
+"650,000 ","15 O'Donnell Street,",PORT KEMBLA NSW 2505,House,3,1,1,696m² ,14 Dec 2020
+"757,500 ","16 Sheppard Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,563m² ,2020
+"899,000 ","5 Medway Drive,",MOUNT KEIRA NSW 2500,House,4,2,1,613m² ,11 Dec 2020
+"815,000 ","30 Pooraka Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,1,746m² ,11 Dec 2020
+"950,000 ","55 Morandoo Avenue,",MOUNT KEIRA NSW 2500,House,3,3,2,"1,322m² ",0 Dec 2020
+"840,000 ","1 Waitangi Street,",GWYNNEVILLE NSW 2500,House,3,1,2,358m² ,08 Dec 2020
+"657,000 ","1/13 John Street,",GWYNNEVILLE NSW 2500,House,2,1,1,450m² ,08 Dec 2020
+"1,055,000 ","4 Balook Street,",MOUNT KEIRA NSW 2500,House,4,2,2,822m² ,4 Dec 2020
+"902,500 ","54 London Drive,",WEST WOLLONGONG NSW 2500,House,3,1,2,645m² ,04 Dec 2020
+"1,000,000 ","28 John Street,",GWYNNEVILLE NSW 2500,House,2,1,1,721m² ,2020
+"989,000 ","30 Woodlawn Avenue,",MANGERTON NSW 2500,House,4,2,−,847m² ,28 Nov 2020
+"790,000 ","19 Donaldson Street,",PORT KEMBLA NSW 2505,House,3,2,1,598m² ,27 Nov 2020
+"780,000 ","4 Perth Road,",PORT KEMBLA NSW 2505,House,3,2,4,462m² ,25 Nov 2020
+"840,000 ","19 Immarna Avenue,",WEST WOLLONGONG NSW 2500,House,4,3,3,613m² ,24 Nov 2020
+"1,160,000 ","2 Michael Street,",GWYNNEVILLE NSW 2500,House,4,1,2,923m² ,21 Nov 2020
+"809,000 ","4 Allen Street,",MOUNT KEIRA NSW 2500,House,2,1,1,455m² ,20 Nov 2020
+"1,100,000 ","12 Robwald Avenue,",CONISTON NSW 2500,House,3,3,2,696m² ,6 Nov 2020
+"950,000","8 Gwynne Street,",GWYNNEVILLE NSW 2500,House,3,1,1,670m² ,13 Nov 2020
+"1,431,000 ","190 Military Road,",PORT KEMBLA NSW 2505,House,5,2,2,740m² ,13 Nov 2020
+"525,000 ","1 Jubilee Road,",PORT KEMBLA NSW 2505,House,2,1,1,601m² ,10 Nov 2020
+"911,000 ","21 Kiernan Street,",GWYNNEVILLE NSW 2500,House,3,1,2,576m² ,07 Nov 2020
+"1,055,000 ","51 Woodlawn Avenue,",MANGERTON NSW 2500,House,3,2,1,708m² ,06 Nov 2020
+"1,310,000 ","25 Dempster Street,",WEST WOLLONGONG NSW 2500,House,3,3,1,"1,075m² ",2020
+"720,000 ","21 Robertson st,",PORT KEMBLA NSW 2505,House,3,2,1,512m² ,05 Nov 2020
+"790,000 ","24 McArthur Parade,",MANGERTON NSW 2500,House,3,1,1,512m² ,04 Nov 2020
+"687,000 ","63 The Avenue,",MOUNT SAINT THOMAS NSW 2500,House,3,1,2,496m² ,30 Oct 2020
+"560,000 ","101 Shellharbour Road,",PORT KEMBLA NSW 2505,House,3,1,1,777m² ,30 Oct 2020
+"686,250 ","23 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,2,1,1,696m² ,30 Oct 2020
+"1,450,000 ","11-13 Meares Avenue,",MANGERTON NSW 2500,House,4,2,2,"1,397m² ",29 Oct 2020
+"667,000","19 Phillips Crescent,",MANGERTON NSW 2500,House,3,1,1,670m² ,29 Oct 2020
+"780,000 ","47 Gilmore Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,695m² ,2020
+"930,027 ","15 Crawford Avenue,",GWYNNEVILLE NSW 2500,House,3,1,3,519m² ,2020
+"930,000","7 Attunga Street,",KEIRAVILLE NSW 2500,House,2,1,1,746m² ,22 Oct 2020
+"658,000","266B Gipps Road,",KEIRAVILLE NSW 2500,Villa,3,2,1,349m² ,20 Oct 2020
+"1,360,000 ","17 Eastern Avenue,",MANGERTON NSW 2500,House,4,2,3,632m² ,6 Oct 2020
+"785,000 ","3 Booyong Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,607m² ,6 Oct 2020
+"1,100,000 ","15 Binda Street,",KEIRAVILLE NSW 2500,House,6,4,4,322m² ,15 Oct 2020
+"760,000 ","119 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,1,1,696m² ,14 Oct 2020
+"900,000 ","41 Phillips Crescent,",MANGERTON NSW 2500,House,3,2,1,575m² ,12 Oct 2020
+"940,000","10 Lysaght Street,",NORTH WOLLONGONG NSW 2500,House,5,1,4,764m² ,2 Oct 2020
+"710,000 ","111 Mount Keira Road,",WEST WOLLONGONG NSW 2500,House,3,1,1,345m² ,06 Oct 2020
+"755,000 ","35 Poulter Street,",WEST WOLLONGONG NSW 2500,House,3,1,3,651m² ,2020
+"775,000 ","24 Bimbadeen Avenue,",WEST WOLLONGONG NSW 2500,House,3,1,1,557m² ,2020
+"756,500 ","318 - 320 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,5,2,1,569m² ,25 Sep 2020
+"780,000 ","37 McArthur Parade,",MANGERTON NSW 2500,House,3,1,1,582m² ,23 Sep 2020
+"875,000","6 Andrew Avenue,",KEIRAVILLE NSW 2500,House,3,1,2,632m² ,18 Sep 2020
+"700,000 ","6 Cochrane Street,",WEST WOLLONGONG NSW 2500,House,3,1,−,892m² ,18 Sep 2020
+"910,000 ","16 Kiernan Street,",GWYNNEVILLE NSW 2500,House,2,1,1,575m² ,11 Sep 2020
+"670,000 ","1 Robwald Avenue,",CONISTON NSW 2500,House,3,1,3,569m² ,28 Aug 2020
+"730,000 ","10 Prospect Street,",MOUNT SAINT THOMAS NSW 2500,House,3,2,1,462m² ,27 Aug 2020
+"789,000 ","39 Yates Avenue,",MOUNT KEIRA NSW 2500,House,3,2,1,563m² ,24 Aug 2020
+"699,500 ","53 Kembla Street,",PORT KEMBLA NSW 2505,House,3,2,1,626m² ,21 Aug 2020
+"700,000 ","11 Abercrombie Street,",WEST WOLLONGONG NSW 2500,House,3,1,5,626m² ,3 Aug 2020
+"765,000 ","16 Wonson Avenue,",CONISTON NSW 2500,House,4,2,2,556m² ,12 Aug 2020
+"543,000 ","344 Gladstone Avenue,",MOUNT SAINT THOMAS NSW 2500,House,2,1,1,531m² ,10 Aug 2020
+"680,000 ","26 Armstrong Street,",WEST WOLLONGONG NSW 2500,House,4,2,5,919m² ,06 Aug 2020
+"1,925,000 ","58 Dovers Drive,",PORT KEMBLA NSW 2505,House,3,1,−,"1,018m² ",04 Aug 2020
+"890,000 ","18 Cassian Street,",KEIRAVILLE NSW 2500,House,4,2,1,665m² ,2020
+"716,000 ","5 Balook Street,",MOUNT KEIRA NSW 2500,House,5,3,2,617m² ,2020
+"911,500 ","7 Yates Avenue,",MOUNT KEIRA NSW 2500,House,3,1,1,977m² ,2020
+"865,000","25 Prospect Street,",MOUNT SAINT THOMAS NSW 2500,House,4,2,2,847m² ,31 Jul 2020
+"686,000 ","15 Buckle Crescent,",WEST WOLLONGONG NSW 2500,House,3,1,1,714m² ,1 Jul 2020
+"1,850,000 ","52 Tobruk Avenue,",PORT KEMBLA NSW 2505,House,6,3,2,556m² ,24 Jul 2020
+"900,000 ","2 Bell Street,",KEIRAVILLE NSW 2500,House,3,1,2,777m² ,20 Jul 2020
+"1,040,000 ","21 Byrarong Avenue,",MANGERTON NSW 2500,House,4,2,−,588m² ,09 Jul 2020
+"685,000 ","6 Sheppard Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,607m² ,9 Jul 2020
+"615,000 ","9 Allan Street,",PORT KEMBLA NSW 2505,House,3,1,1,689m² ,6 Jul 2020
+"840,000 ","5 Morandoo Avenue,",MOUNT KEIRA NSW 2500,House,5,2,−,550m² ,03 Jul 2020
+"670,000 ","17 Parkes Street,",PORT KEMBLA NSW 2505,House,3,1,−,444m² ,29 Jun 2020
+"945,000 ","125 Heaslip Street,",MANGERTON NSW 2500,House,4,1,2,607m² ,2020
+"785,000 ","19 McAndrew Crescent,",MANGERTON NSW 2500,House,4,2,2,651m² ,26 Jun 2020
+"520,000 ","140 Cowper Street,",PORT KEMBLA NSW 2505,House,3,1,1,835m² ,26 Jun 2020
+"540,000 ","28 Allan Street,",PORT KEMBLA NSW 2505,House,3,2,1,655m² ,2020
+"947,500 ","217a Wentworth Street,",PORT KEMBLA NSW 2505,House,6,4,2,477m² ,9 Jun 2020
+"590,000 ","67 Yellagong Street,",WEST WOLLONGONG NSW 2500,House,3,1,1,626m² ,19 Jun 2020
+"740,000 ","37 Toorak Avenue,",MANGERTON NSW 2500,House,3,1,1,780m² ,17 Jun 2020
+"1,060,000 ","1A Hill Street,",PORT KEMBLA NSW 2505,House,5,2,−,645m² ,17 Jun 2020

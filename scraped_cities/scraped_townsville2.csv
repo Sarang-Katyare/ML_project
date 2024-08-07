@@ -1,0 +1,931 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"250,500 ","44/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,66m² ,27 Mar 2024
+"425,000 ","63/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,93m² ,26 Mar 2024
+"505,000 ","219/330-348 Sturt Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,173m² ,14 Mar 2024
+"235,000 ","25/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,72m² ,11 Mar 2024
+"935,000 ","14/16 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,133m² ,29 Feb 2024
+"438,000 ","901/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,136m² ,16 Feb 2024
+"500,000 ","1002/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,161m² ,14 Feb 2024
+"425,000 ","10/148C Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,147m² ,05 Feb 2024
+"440,000 ","801/122 Walker,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,165m² ,23 Jan 2024
+"390,000 ","74/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,93m² ,18 Dec 2023
+"840,000","UNIT 5/48 SIR LESLIE THIESS DRIVE,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,414m² ,
+"318,000 ","64/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,29 Nov 2023
+"220,000 ","3/398 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,82m² ,27 Nov 2023
+"310,000 ","4/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,99m² ,15 Nov 2023
+"333,000 ","3/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,92m² ,12 Oct 2023
+"472,500 ","604/122 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,184m² ,12 Oct 2023
+"415,000 ","28/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,119m² ,11 Oct 2023
+"370,000 ","72/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,97m² ,04 Oct 2023
+"410,000 ","26/18-30 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,149m² ,27 Jun 2023
+"395,000 ","80/502 Flinders Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,168m² ,23 Jun 2023
+"376,000 ","74/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,93m² ,16 Jun 2023
+"245,000 ","24/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,66m² ,15 Jun 2023
+"480,000 ","1/13 Hillside Crescent,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,01 Jun 2023
+"710,000 ","22/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,140m² ,21 May 2023
+"290,000 ","34/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,95m² ,12 May 2023
+"735,000 ","1901/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,210m² ,05 May 2023
+"240,000 ","7/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,76m² ,02 May 2023
+"227,000 ","12/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,72m² ,19 Apr 2023
+"525,000 ","17/1 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,152m² ,22 Mar 2023
+"202,000 ","11/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,66m² ,11 Mar 2023
+"315,000 ","18/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,97m² ,02 Mar 2023
+"510,000 ","1502/122 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,177m² ,28 Feb 2023
+"215,000 ","23/6 Hale Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,113m² ,20 Feb 2023
+"340,000","36/86-124 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,119m² ,16 Jan 2023
+"330,000 ","60/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,11 Jan 2023
+"370,000 ","27/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,116m² ,05 Jan 2023
+"425,000 ","804/84-106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,163m² ,03 Jan 2023
+"240,000 ","6/270 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,100m² ,30 Dec 2022
+"310,000 ","1/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,98m² ,23 Dec 2022
+"1,050,000 ","2002/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,3,261m² ,22 Dec 2022
+"860,000 ","Lot 26/ 48 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,375m² ,09 Dec 2022
+"680,000 ","14/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,159m² ,05 Dec 2022
+"305,000 ","11/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,93m² ,02 Dec 2022
+"220,000 ","39/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,66m² ,01 Dec 2022
+"520,000 ","1/12-14 Hale St,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,156m² ,30 Nov 2022
+"210,000 ","18/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,64m² ,19 Nov 2022
+"735,000 ","12/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,129m² ,14 Nov 2022
+"210,000","14/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,65m² ,03 Nov 2022
+"320,000 ","33/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,97m² ,19 Oct 2022
+"425,000 ","1A/3-7 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,124m² ,18 Oct 2022
+"695,000 ","16/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,147m² ,13 Oct 2022
+"485,000 ","10/12-14 Hale Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,126m² ,11 Oct 2022
+"250,000 ","52/86-124 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,75m² ,07 Oct 2022
+"305,000 ","16/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,29 Sep 2022
+"319,000 ","38/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,93m² ,15 Sep 2022
+"485,000","603/151-173 Sturt Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,166m² ,29 Aug 2022
+"225,000","28/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,65m² ,29 Aug 2022
+"350,000 ","34/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,96m² ,03 Aug 2022
+"237,000 ","27/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,66m² ,02 Aug 2022
+"240,000 ","3/6 Hale Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,87m² ,01 Aug 2022
+"300,000 ","701/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,79m² ,11 Jul 2022
+"417,000","102/3 Melton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,142m² ,01 Jun 2022
+"570,000 ","2/46 Victoria Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,160m² ,10 May 2022
+"300,000 ","211-213 Wills Street,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,"1,022m² ",06 May 2022
+"570,000 ","81/86-124 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,168m² ,14 Apr 2022
+"460,000 ","1/13 Hillside Crescent,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,13 Apr 2022
+"401,000 ","1306/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,150m² ,22 Mar 2022
+"370,000 ","219/523-541 Flinders Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,173m² ,21 Mar 2022
+"390,000 ","40/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,119m² ,18 Mar 2022
+"225,000 ","44/86-124 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,90m² ,17 Mar 2022
+"430,000 ","87/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,127m² ,2022
+"440,000 ","1B/3-7 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,219m² ,04 Mar 2022
+"295,000 ","50/209 WILLS STREET,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,87m² ,21 Feb 2022
+"315,000 ","52/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,90m² ,19 Feb 2022
+"299,000 ","63/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,10 Feb 2022
+"725,000 ","34/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,140m² ,08 Feb 2022
+"315,000 ","1/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,131m² ,28 Jan 2022
+"295,000","28/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,96m² ,24 Jan 2022
+"415,000 ","5 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,"1,012m² ",20 Jan 2022
+"299,000 ","1403/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,106m² ,19 Jan 2022
+"308,000 ","71/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,18 Jan 2022
+"215,000","11/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,66m² ,24 Dec 2021
+"855,000 ","Unit 15/16 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,133m² ,20 Dec 2021
+"330,000 ","27/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,116m² ,20 Dec 2021
+"225,000","4/6 Hale Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,1,1,87m² ,17 Dec 2021
+"260,000 ","304/106 Denham Street ""The Dalgety"",",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,106m² ,10 Dec 2021
+"696,000 ","2/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,129m² ,09 Dec 2021
+"370,000 ","69/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,114m² ,02 Nov 2021
+"415,000","55/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,113m² ,15 Oct 2021
+"430,000 ","86/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,126m² ,14 Oct 2021
+"800,000 ","Lot 5/48-55 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,414m² ,08 Oct 2021
+"465,000 ","1/408 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,233m² ,15 Sep 2021
+"637,000 ","1404/122 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,184m² ,15 Sep 2021
+"180,000 ","5 / 25-37 Fletcher Street,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,614m² ,10 Sep 2021
+"197,000 ","26/4 Aplin Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,65m² ,03 Sep 2021
+"450,000 ","1606/84-106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,146m² ,01 Sep 2021
+"620,000 ","2/4 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,230m² ,12 Aug 2021
+"295,000 ","9/2 Victoria Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,107m² ,29 Jul 2021
+"215,000 ","56/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,72m² ,18 May 2021
+"240,000 ","3/2 Victoria Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,123m² ,06 May 2021
+"195,000 ","3/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,73m² ,06 May 2021
+"435,000 ","12/3 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,137m² ,27 Apr 2021
+"328,000 ","72/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,92m² ,08 Apr 2021
+"285,000 ","25/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,102m² ,01 Apr 2021
+"290,000 ","401/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,79m² ,04 Feb 2021
+"315,000 ","54/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,92m² ,01 Feb 2021
+"330,000 ","77/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,126m² ,11 Jan 2021
+"1,000,000 ","49/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,205m² ,2020
+"625,000","67/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,133m² ,09 Dec 2020
+"320,000 ","40/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,119m² ,22 Nov 2020
+"285,000","4/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,99m² ,29 Oct 2020
+"280,000","46/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,23 Oct 2020
+"290,000 ","44/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,95m² ,13 Oct 2020
+"227,000 ","304/106 Denham Street ""The Dalgety"",",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,106m² ,13 Oct 2020
+"343,000 ","107/330-348 Sturt Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,136m² ,12 Oct 2020
+"205,000 ","604/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,−,108m² ,25 Sep 2020
+"785,000","2306/6 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,184m² ,27 Aug 2020
+"295,000 ","66/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,93m² ,23 Aug 2020
+"780,000 ","19/48-55 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,434m² ,2020
+"178,000","13/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,54m² ,24 Jul 2020
+"289,000","302/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,167m² ,07 Jul 2020
+"420,000","1702/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,165m² ,17 Jun 2020
+"360,000 ","1/193-195 Flinders Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,187m² ,11 Jun 2020
+"665,000 ","20 Willmett Street,",TOWNSVILLE CITY QLD 4810,Block of units,8,4,4,"1,056m² ",09 Jun 2020
+"399,000 ","52/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,119m² ,30 Apr 2020
+"349,000 ","86/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,114m² ,27 Apr 2020
+"185,000 ","43/5 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,64m² ,21 Apr 2020
+"359,000","6/12-14 Hale Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,136m² ,12 Feb 2020
+"735,000 ","9/48-55 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,414m² ,2020
+"245,000","51/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,24 Jan 2020
+"265,000","1/6 Hale Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,114m² ,06 Jan 2020
+"365,000","27/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,113m² ,02 Jan 2020
+"218,000 ","405/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,118m² ,26 Nov 2019
+"370,000 ","86/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,126m² ,25 Oct 2019
+"270,000 ","71/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,02 Oct 2019
+"460,700 ","12/1 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,156m² ,11 Sep 2019
+"215,000 ","2/2 Victoria Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,123m² ,30 Jun 2019
+"890,000 ","2708/6 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,160m² ,2019
+"375,000","1506/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,146m² ,14 May 2019
+"655,000","1201/6 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,148m² ,02 May 2019
+"380,000 ","111/523-533 Flinders Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,168m² ,16 Apr 2019
+"195,000 ","29/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,54m² ,09 Apr 2019
+"330,000 ","1003/148 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,144m² ,26 Mar 2019
+"280,000 ","113/330-348 Sturt Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,137m² ,31 Jan 2019
+"210,000 ","52/86 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,75m² ,30 Jan 2019
+"175,000 ","23/3 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,1,1,1,61m² ,16 Jan 2019
+"438,000 ","27/18-30 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,163m² ,10 Jan 2019
+"255,000 ","8/2 Victoria Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,107m² ,20 Dec 2018
+"305,000 ","35/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,98m² ,20 Dec 2018
+"339,000","4/2A Cleveland Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,126m² ,30 Oct 2018
+"253,000 ","18/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,96m² ,22 Oct 2018
+"200,000 ","4/22 Melton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,−,83m² ,06 Sep 2018
+"375,000 ","49/18-30 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,133m² ,24 Aug 2018
+"310,000 ","72/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,92m² ,26 Jul 2018
+"300,000","26/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,114m² ,02 Jul 2018
+"515,000 ","1305/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,226m² ,29 Mar 2018
+"365,000 ","205/330-348 Sturt Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,170m² ,13 Mar 2018
+"310,000","68/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,114m² ,06 Mar 2018
+"350,000 ","58/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,114m² ,01 Mar 2018
+"295,000","54/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,92m² ,03 Feb 2018
+"400,000 ","49/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,113m² ,09 Jan 2018
+"520,000","1502/6 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,120m² ,09 Oct 2017
+"215,000 ","3/2 Victoria Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,123m² ,23 Sep 2017
+"300,000","16/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,109m² ,19 Sep 2017
+"342,500 ","801/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,147m² ,07 Sep 2017
+"288,000 ","206/330 Sturt Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,137m² ,26 Jul 2017
+"300,000 ","69/1 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,114m² ,15 Jun 2017
+"390,000 ","14/1 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,122m² ,01 May 2017
+"625,000 ","1/4 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,223m² ,2017
+"255,000","28/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,96m² ,23 Nov 2016
+"530,000 ","12/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,129m² ,03 Nov 2016
+"310,000 ","71/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,129m² ,03 Nov 2016
+"290,000 ","502/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,148m² ,31 Aug 2016
+"490,000","7/23 Willmett Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,166m² ,30 Aug 2016
+"355,000 ","1206/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,146m² ,16 Jun 2016
+"338,000 ","37/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,116m² ,04 Apr 2016
+"500,000 ","475 Sturt Street,",TOWNSVILLE CITY QLD 4810,Block of units,9,8,−,981m² ,15 Mar 2016
+"275,000","48/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,82m² ,21 Feb 2016
+"285,000 ","72/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,07 Jan 2016
+"342,500","402/106 Denham Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,163m² ,22 Dec 2015
+"480,000 ","1101/122 Walker Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,150m² ,09 Sep 2015
+"650,000 ","21/1 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,4,3,2,283m² ,11 Jun 2015
+"525,000","19/1 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,262m² ,21 May 2015
+"275,000 ","12/2 Victoria Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,1,1,123m² ,31 Jan 2015
+"510,000 ","2103/6 Mariners Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,163m² ,14 Nov 2014
+"395,000 ","223/523 Flinders Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,170m² ,23 Oct 2014
+"535,000","2/19 Willmett Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,166m² ,29 Sep 2014
+"235,000","24A Willmett Street,",TOWNSVILLE CITY QLD 4810,Vacant land,0,0,0,350m² ,18 Sep 2014
+"310,000 ","46/86 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,106m² ,31 Mar 2014
+"325,000","21 86-124 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,106m² ,13 Dec 2013
+"585,000","21/16 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,120m² ,19 Nov 2013
+"365,000","32/86 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,131m² ,18 Nov 2013
+"357,500","105/3 Melton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,146m² ,2013
+"280,000 ","72/86 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,106m² ,23 Mar 2013
+"399,000 ","104/3 Melton Terrace,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,147m² ,24 Jan 2013
+"440,000","9/1 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,1,156m² ,03 Nov 2012
+"415,000","6D/3 The Strand,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,118m² ,28 May 2012
+"375,000",,TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,137m² ,2012
+"452,500","30/18-30 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,164m² ,18 Aug 2011
+"295,000","21/86 Ogden Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,3,2,2,106m² ,27 May 2011
+"275,000","18/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,1,85m² ,04 May 2011
+"340,000","9/209 Wills Street,",TOWNSVILLE CITY QLD 4810,Apartment / Unit / Flat,2,2,2,112m² ,28 Feb 2011
+"250,000 ","5/135 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,04 Apr 2024
+"315,000 ","4/38 Percy Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,−,132m² ,01 Apr 2024
+"326,000 ","3/5 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,101m² ,27 Mar 2024
+"355,000 ","2/6 Eclipse Street,",ROWES BAY QLD 4810,Apartment / Unit / Flat,2,1,2,148m² ,27 Mar 2024
+"275,000 ","3/59 The Strand Park Hotel,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,−,74m² ,22 Mar 2024
+"231,000 ","8/14-20 Nix Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,91m² ,18 Mar 2024
+"1,485,000 ","16 Paxton Street,",NORTH WARD QLD 4810,Block of units,10,5,15,"1,012m² ",2024
+"285,000 ","803/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,70m² ,15 Mar 2024
+"1,450,000 ","2/62 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,215m² ,14 Mar 2024
+"205,000 ","3/37 Ralston Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,05 Mar 2024
+"470,000 ","115/9 Anthony Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,142m² ,01 Mar 2024
+"150,000 ","0 Bruce Highway,",CLAIRVIEW QLD 4741,Vacant land,0,0,0,0,28 Feb 2024
+"234,000 ","5/54 Percy Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,76m² ,27 Feb 2024
+"422,500 ","11/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,124m² ,23 Feb 2024
+"226,000 ","9/37 Hugh Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,90m² ,22 Feb 2024
+"327,500 ","12/16-22 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,132m² ,21 Feb 2024
+"355,000 ","3/181 Mitchell Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,135m² ,16 Feb 2024
+"431,250 ","1/90 Davidson Street,",SOUTH TOWNSVILLE QLD 4810,Townhouse,3,1,1,173m² ,14 Feb 2024
+"257,000 ","7 Joe Johnson Street,",SEAFORTH QLD 4741,Vacant land,− 0,− 0,2,803m² ,13 Feb 2024
+"220,000 ","11/1 Burke Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,83m² ,09 Feb 2024
+"190,000","91 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,Vacant land,0,0,0,447m² ,08 Feb 2024
+"329,000 ","1/27 Gilbert Crescent,",CASTLE HILL QLD 4810,Apartment / Unit / Flat,2,1,1,95m² ,07 Feb 2024
+"351,000 ","7/9 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,07 Feb 2024
+"353,000 ","16/23-25 Echlin Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,152m² ,07 Feb 2024
+"430,000 ","5/15 Cleveland Terrace,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,137m² ,27 Jan 2024
+"259,000 ","3/9 Shaw Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,−,106m² ,23 Jan 2024
+"200,000 ","14 Milkins Street,",BALL BAY QLD 4741,Vacant land,0,0,0,787m² ,08 Jan 2024
+"229,000 ","4/16 Primrose Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,91m² ,08 Jan 2024
+"465,000 ","7/6 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,203m² ,28 Dec 2023
+"201,000 ","2/54 Percy Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,76m² ,23 Dec 2023
+"700,000 ","0 Edmonds Road,",HAMPDEN QLD 4741,Vacant land,0,0,0,0,22 Dec 2023
+"325,000 ","6/330 Stanley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,22 Dec 2023
+"680,000 ","313/72-74 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,195m² ,22 Dec 2023
+"205,000 ","60 Morris Street,",WEST END QLD 4810,Vacant land,0,0,0,506m² ,22 Dec 2023
+"310,000 ","212/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,2,86m² ,15 Dec 2023
+"780,000 ","98 Volkers Road,",KUTTABUL QLD 4741,Vacant land,0,0,0,0,14 Dec 2023
+"190,000 ","4/2-4 Bundock Street,",CASTLE HILL QLD 4810,Apartment / Unit / Flat,1,1,1,90m² ,13 Dec 2023
+"265,000 ","6/114 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,73m² ,07 Dec 2023
+"90,000 ","22 Bundock Street,",CASTLE HILL QLD 4810,Vacant land,0,0,0,615m² ,04 Dec 2023
+"201,000 ","4/35 Ralston Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,29 Nov 2023
+"294,000 ","10/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,1,138m² ,28 Nov 2023
+"375,000 ","3/57 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,129m² ,27 Nov 2023
+"240,000 ","22/24-28 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,116m² ,27 Nov 2023
+"120,000 ","Lot L3/82849 Bruce Highway,",CLAIRVIEW QLD 4741,Vacant land,0,0,0,0,25 Nov 2023
+"323,000 ","44/6-24 Henry Street,",WEST END QLD 4810,Townhouse,3,2,1,151m² ,23 Nov 2023
+"325,000 ","5/4-8 Stuart Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,117m² ,20 Nov 2023
+"280,000 ","2/60 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,77m² ,20 Nov 2023
+"500,000 ","32 Hubert Street,",SOUTH TOWNSVILLE QLD 4810,Vacant land,0,0,0,"1,012m² ",16 Nov 2023
+"180,000","1/317 Stanley Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,113m² ,15 Nov 2023
+"270,000 ","317/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,2,87m² ,14 Nov 2023
+"215,000 ","6/32 Second Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,84m² ,10 Nov 2023
+"321,000 ","2/150 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,94m² ,09 Nov 2023
+"127,500 ","36 Flaggy Rock Road,",CLAIRVIEW QLD 4741,Vacant land,0,0,0,0,08 Nov 2023
+"370,000 ","62/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,1,150m² ,07 Nov 2023
+"226,000 ","1/86 Stagpole Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,83m² ,07 Nov 2023
+"195,000 ","9/19 Ryan Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,76m² ,31 Oct 2023
+"457,000 ","30/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,1,143m² ,26 Oct 2023
+"145,000 ","1/19 Ryan Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,61m² ,26 Oct 2023
+"680,000 ","36 Forest Road,",OWENS CREEK QLD 4741,Vacant land,0,0,0,0,25 Oct 2023
+"900,000 ","63 Hugh Street,",WEST END QLD 4810,Block of units,8,5,4,"1,012m² ",25 Oct 2023
+"792,350 ","27 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Block of units,8,4,4,"1,012m² ",24 Oct 2023
+"245,000","10/50-54 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,93m² ,24 Oct 2023
+"205,000 ","204-205/75-77 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,−,64m² ,23 Oct 2023
+"292,000 ","2/66 Cook Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,133m² ,19 Oct 2023
+"135,000 ","8 Coconut Grove,",BALL BAY QLD 4741,Vacant land,0,0,0,751m² ,12 Oct 2023
+"276,000 ","1/23a Cleveland Terrace,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,108m² ,09 Oct 2023
+"319,000 ","9/12-14 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,131m² ,06 Oct 2023
+"255,000 ","604/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,77m² ,05 Oct 2023
+"380,000 ","18/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,1,148m² ,03 Oct 2023
+"860,000 ","48 Cook Street,",NORTH WARD QLD 4810,Block of units,8,4,2,"1,012m² ",03 Oct 2023
+"192,500 ","12/39 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,51m² ,22 Sep 2023
+"199,500 ","2/49 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,22 Sep 2023
+"405,000 ","2/8 Mckinley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,109m² ,21 Sep 2023
+"470,000 ","31/28 Landsborough Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,159m² ,19 Sep 2023
+"95,000 ","25 - 27 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,037m² ",18 Sep 2023
+"499,000 ","1202/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,125m² ,18 Sep 2023
+"260,000 ","3/17 Rose Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,101m² ,15 Sep 2023
+"287,500","19/14 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,1,125m² ,14 Sep 2023
+"760,000 ","92 The Esplanade,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,"1,012m² ",11 Sep 2023
+"295,000 ","32/13-15 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,93m² ,11 Sep 2023
+"185,000 ","5/18-20 Maryvale Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,80m² ,08 Sep 2023
+"380,000 ","4/33 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,982m² ,05 Sep 2023
+"395,000 ","3/2 Mckinley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,117m² ,04 Sep 2023
+"80,000 ","Lot 40 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,092m² ",30 Aug 2023
+"775,000 ","43/7-11 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,3,2,278m² ,27 Aug 2023
+"92,000 ","Lot 33 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,600m² ",23 Aug 2023
+"125,000","15 Eighth Street,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,406m² ,22 Aug 2023
+"223,000","2/15-17 Second Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,2,111m² ,22 Aug 2023
+"240,000","1/15-17 Second Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,2,88m² ,17 Aug 2023
+"92,000 ","Lot 32 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,109m² ",16 Aug 2023
+"425,000 ","505/68 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,−,126m² ,14 Aug 2023
+"307,000 ","41/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,114m² ,13 Aug 2023
+"465,000 ","25/1-7 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,146m² ,11 Aug 2023
+"185,000 ","11/39 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,51m² ,07 Aug 2023
+"260,000 ","306/167 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,2,92m² ,28 Jul 2023
+"692,500 ","81 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Block of units,8,3,3,809m² ,21 Jul 2023
+"175,000 ","64/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,17 Jul 2023
+"215,000 ","6/6 Mary Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,1,1,137m² ,16 Jul 2023
+"250,000 ","2 - 4 Harrison Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,296m² ",14 Jul 2023
+"264,000 ","113 Tully Street,",SOUTH TOWNSVILLE QLD 4810,Vacant land,0,0,0,607m² ,11 Jul 2023
+"975,000 ","Lot 6/One The Esplanade (Magnetic Views Estate),",PALLARENDA QLD 4810,Vacant land,− 0,− 0,1,"2,162m² ",04 Jul 2023
+"214,862 ","5/105 Livingstone Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,87m² ,29 Jun 2023
+"329,000 ","11/9-11 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,113m² ,15 Jun 2023
+"260,900 ","22/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,124m² ,15 Jun 2023
+"215,000 ","53/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,110m² ,12 Jun 2023
+"325,000 ","5/90 Davidson Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,135m² ,05 Jun 2023
+"220,000 ","11/44 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,85m² ,26 May 2023
+"250,000 ","5/74 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,122m² ,25 May 2023
+"260,000 ","3/58-62 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,97m² ,16 May 2023
+"205,000 ","35/16 Old Common Rd,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,15 May 2023
+"285,000","2/6-8 Ryan Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,119m² ,12 May 2023
+"506,000 ","80A Primrose Street,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,"1,141m² ",10 May 2023
+"185,000 ","5/39 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,51m² ,27 Apr 2023
+"235,000 ","1/36 Murray Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,87m² ,22 Apr 2023
+"390,000 ","21 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Block of units,4,4,−,"1,012m² ",2023
+"275,000 ","2/22 Stuart Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,73m² ,11 Apr 2023
+"405,000 ","11/177-179 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,159m² ,05 Apr 2023
+"885,000 ","130 Francis Street,",WEST END QLD 4810,Block of units,10,4,4,667m² ,04 Apr 2023
+"225,000 ","15/24-28 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,116m² ,04 Apr 2023
+"246,000 ","406/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,−,69m² ,31 Mar 2023
+"472,000 ","3/8 Paxton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,135m² ,25 Mar 2023
+"295,000 ","128 Mitchell Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,410m² ,22 Mar 2023
+"450,000 ","301 Cape Hillsborough Road,",BALL BAY QLD 4741,Vacant land,0,0,0,"36,421m² ",17 Mar 2023
+"319,000 ","10/9-11 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,113m² ,17 Mar 2023
+"755,000 ","3/120 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,191m² ,14 Mar 2023
+"186,500 ","4/39 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,51m² ,10 Mar 2023
+"230,000 ","29/48-52 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,60m² ,06 Mar 2023
+"300,000 ","116 Owens Creek Loop Road,",GARGETT QLD 4741,Vacant land,0,0,0,0,03 Mar 2023
+"160,000 ","5/13 Cowley Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,−,63m² ,24 Feb 2023
+"1,200,000 ","76 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,8,4,4,"1,012m² ",23 Feb 2023
+"455,000 ","301 Cape Hillsborough Road,",BALL BAY QLD 4741,Vacant land,0,0,0,0,20 Feb 2023
+"197,000 ","41/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,2,105m² ,27 Jan 2023
+"345,000 ","3/1D Plant Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,2,100m² ,26 Jan 2023
+"365,000 ","8/68 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,105m² ,24 Jan 2023
+"500,000","11 The Esplanade,",PALLARENDA QLD 4810,Vacant land,0,0,0,809m² ,22 Jan 2023
+"904,000 ","9 Rose Street,",NORTH WARD QLD 4810,Block of units,8,6,6,"1,012m² ",20 Jan 2023
+"585,000 ","43-47 Palm Avenue,",SEAFORTH QLD 4741,Vacant land,0,0,0,"1,214m² ",21 Dec 2022
+"850,000 ","28-30 Echlin Street,",WEST END QLD 4810,Block of units,10,8,8,"1,215m² ",19 Dec 2022
+"285,000 ","209/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,2,93m² ,16 Dec 2022
+"695,000 ","3/5 Glamis Court,",CASTLE HILL QLD 4810,Townhouse,3,2,2,232m² ,09 Dec 2022
+"217,500 ","202/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,"3,614m² ",07 Dec 2022
+"425,000 ","90 Elvins Road,",ETON QLD 4741,Vacant land,0,0,0,0,02 Dec 2022
+"255,000 ","2/8-10 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,127m² ,26 Nov 2022
+"650,000 ","4/45 Cook Street,",NORTH WARD QLD 4810,Townhouse,3,2,2,225m² ,23 Nov 2022
+"332,500 ","13/23A Cleveland Terrace,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,108m² ,19 Nov 2022
+"277,500 ","2/35 Bay Street,",PALLARENDA QLD 4810,Apartment / Unit / Flat,2,2,1,421m² ,16 Nov 2022
+"335,000 ","Lot 913 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,0,14 Nov 2022
+"290,000 ","3/102 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,88m² ,08 Nov 2022
+"340,000 ","762 Mackay-Eungella Road,",PLEYSTOWE QLD 4741,Vacant land,0,0,0,"2,142m² ",07 Nov 2022
+"365,000 ","8/50 Railway Avenue,",RAILWAY ESTATE QLD 4810,Townhouse,3,2,2,187m² ,04 Nov 2022
+"155,000 ","124 A Bundock Street,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,563m² ,02 Nov 2022
+"77,000 ","Lot 35 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,626m² ",27 Oct 2022
+"177,000 ","4/159 Harold Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,75m² ,21 Oct 2022
+"445,000 ","Units 1-4/135 Bundock Street,",BELGIAN GARDENS QLD 4810,Block of units,8,4,4,"1,014m² ",20 Oct 2022
+"190,000 ","13/6-8 Bell Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,98m² ,20 Oct 2022
+"205,000","101/90 First Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,2,1,101m² ,07 Oct 2022
+"200,000","104/90 First Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,2,1,101m² ,06 Oct 2022
+"79,000 ","Lot 36 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,084m² ",06 Oct 2022
+"250,000 ","9 Woodlands Court,",CASTLE HILL QLD 4810,Vacant land,0,0,0,"1,706m² ",26 Sep 2022
+"478,000 ","1207/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,128m² ,26 Sep 2022
+"202,000 ","23 Tuffley Street,",WEST END QLD 4810,Townhouse,2,1,1,119m² ,16 Sep 2022
+"450,000 ","14/1-7 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,149m² ,15 Sep 2022
+"1,000,000 ","67 Hugh Street,",WEST END QLD 4810,Block of units,8,4,4,"1,012m² ",14 Sep 2022
+"830,000 ","28 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,Block of units,8,8,8,"1,012m² ",08 Sep 2022
+"450,000 ","31/1-7 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,164m² ,06 Sep 2022
+"345,000 ","4/316 Stanley Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,140m² ,05 Sep 2022
+"259,000 ","5/139 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,01 Sep 2022
+"590,000 ","3/45 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,197m² ,25 Aug 2022
+"846,000 ","13 North Street,",WEST END QLD 4810,Block of units,10,5,5,"1,012m² ",24 Aug 2022
+"330,000 ","5/12-14 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,130m² ,18 Aug 2022
+"165,000","5/28-30 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,68m² ,15 Aug 2022
+"217,500 ","7/21-23 Tuffley Street,",WEST END QLD 4810,Townhouse,2,1,1,119m² ,15 Aug 2022
+"335,000 ","764 Mackay-Eungella Road,",PLEYSTOWE QLD 4741,Vacant land,0,0,0,"2,142m² ",12 Aug 2022
+"340,000 ","710-711/75 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,64m² ,11 Aug 2022
+"182,000 ","8/6-8 Bell Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,95m² ,11 Aug 2022
+"308,000 ","3/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,118m² ,09 Aug 2022
+"305,000 ","26 Sallows Street,",PALLARENDA QLD 4810,Vacant land,0,0,0,726m² ,08 Aug 2022
+"385,000 ","6/97-101 Livingstone Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,2,155m² ,01 Aug 2022
+"315,000 ","32/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,149m² ,31 Jul 2022
+"235,000","91 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,Vacant land,0,0,0,447m² ,
+"85,000 ","4 Lowther Street,",ETON QLD 4741,Vacant land,0,0,0,"1,047m² ",29 Jul 2022
+"510,000 ","19 Braemar Crescent,",CASTLE HILL QLD 4810,Vacant land,0,0,0,649m² ,27 Jul 2022
+"160,000","3/165 Francis Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,96m² ,27 Jul 2022
+"275,000 ","2/46 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,144m² ,22 Jul 2022
+"675,000 ","40 Tully Street,",SOUTH TOWNSVILLE QLD 4810,Block of units,6,4,4,498m² ,20 Jul 2022
+"219,000","3/7-13 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,60m² ,20 Jul 2022
+"642,500 ","2/72a Cook Street,",NORTH WARD QLD 4810,Townhouse,3,2,1,485m² ,15 Jul 2022
+"320,000 ","1/17 Kennedy Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,103m² ,07 Jul 2022
+"340,000 ","3/181 Mitchell Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,135m² ,05 Jul 2022
+"285,000 ","Proposed Lot 161 Savannah Drive,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"9,600m² ",01 Jul 2022
+"240,000 ","911/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,69m² ,01 Jul 2022
+"375,000 ","7/6 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,203m² ,30 Jun 2022
+"299,000 ","3/150 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,29 Jun 2022
+"89,000 ","Lot 38 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,055m² ",24 Jun 2022
+"190,000 ","22 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,996m² ,24 Jun 2022
+"190,000 ","1/105 Livingstone Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,87m² ,23 Jun 2022
+"290,000 ","2/27 Garrick Street,",WEST END QLD 4810,Townhouse,2,1,1,149m² ,22 Jun 2022
+"215,000 ","4/19 Second Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,92m² ,17 Jun 2022
+"417,000","4/162 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,136m² ,16 Jun 2022
+"800,000 ","2A Ralston Street,",WEST END QLD 4810,Block of units,10,6,5,"1,059m² ",2022
+"300,000 ","210/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,151m² ,08 Jun 2022
+"233,000 ","3/50-52 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,76m² ,07 Jun 2022
+"250,000 ","307/167 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,2,87m² ,06 Jun 2022
+"530,000 ","26 McKinley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,506m² ,03 Jun 2022
+"175,000 ","6/25-29 Stagpole Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,77m² ,01 Jun 2022
+"445,000 ","20 Cliffes Road,",MOUNT OSSA QLD 4741,Vacant land,0,0,0,0,30 May 2022
+"230,000 ","2/17 Leigh Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,94m² ,24 May 2022
+"250,000 ","14/12-14 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,114m² ,20 May 2022
+"285,000 ","12/16-22 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,132m² ,18 May 2022
+"210,000 ","1/21-23 Landsborough Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,85m² ,11 May 2022
+"157,000 ","2/175 Francis Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,84m² ,10 May 2022
+"245,000","7/58-62 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,97m² ,09 May 2022
+"280,000 ","52/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,1,110m² ,05 May 2022
+"300,000 ","11/11 Carter Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,104m² ,03 May 2022
+"260,000 ","605/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,"3,614m² ",27 Apr 2022
+"350,000 ","2/108 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,119m² ,22 Apr 2022
+"175,000 ","3/16 Ralston Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,80m² ,22 Apr 2022
+"510,000 ","5 Shaw Street,",WEST END QLD 4810,Block of units,4,2,7,627m² ,18 Apr 2022
+"201,000 ","7/159 Harold Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,73m² ,14 Apr 2022
+"340,000 ","6/33 Murray Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,53m² ,12 Apr 2022
+"186,000","2/174 Harold Street,",WEST END QLD 4810,Townhouse,2,1,1,102m² ,31 Mar 2022
+"405,000","2/22 Primrose Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,160m² ,30 Mar 2022
+"310,000 ","3/6 Eclipse Street,",ROWES BAY QLD 4810,Apartment / Unit / Flat,2,1,2,147m² ,30 Mar 2022
+"750,000","310/72-74 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,152m² ,29 Mar 2022
+"280,000 ","6/23-25 Echlin Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,181m² ,28 Mar 2022
+"1,020,000","16 Paxton Street,",NORTH WARD QLD 4810,Block of units,10,5,10,"1,012m² ",2022
+"251,000 ","4/12-14 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,113m² ,23 Mar 2022
+"380,000 ","5/177 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,159m² ,21 Mar 2022
+"286,000 ","10/42-52 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,146m² ,17 Mar 2022
+"277,000 ","8/51-61 Harold Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,1,153m² ,15 Mar 2022
+"400,000 ","36/1-7 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,148m² ,14 Mar 2022
+"218,000 ","64 Yarrawonga Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,794m² ,11 Mar 2022
+"521,000 ","1/56 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,180m² ,11 Mar 2022
+"220,000 ","23/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,107m² ,09 Mar 2022
+"230,000","12/33-35 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,1,132m² ,09 Mar 2022
+"195,000 ","1/114 Livingstone Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,82m² ,27 Feb 2022
+"512,000 ","13/13-15 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,133m² ,25 Feb 2022
+"206,000 ","13/1 Burke Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,108m² ,21 Feb 2022
+"120,000 ","Lot 23 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,015m² ",21 Feb 2022
+"322,000 ","18/31-33 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,98m² ,2022
+"89,000 ","Lot 37 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,029m² ",14 Feb 2022
+"275,000 ","13/23-25 Echlin Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,159m² ,06 Feb 2022
+"430,000 ","6/9 Little Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,100m² ,02 Feb 2022
+"527,000 ","11/6 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,135m² ,02 Feb 2022
+"90,000 ","Lot 8 Bruce Highway,",CLAIRVIEW QLD 4741,Vacant land,0,0,0,0,01 Feb 2022
+"171,000 ","12/44 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,67m² ,01 Feb 2022
+"306,000 ","128 Mitchell Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,410m² ,29 Jan 2022
+"420,000 ","1/33 Murray Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,57m² ,28 Jan 2022
+"215,000 ","15 Thomas Deguara Drive,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,0,27 Jan 2022
+"95,000 ","10 Palm Bay,",LONG ISLAND QLD 4741,Vacant land,0,0,0,533m² ,2022
+"245,000 ","4 Potts Street,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,414m² ,24 Jan 2022
+"169,000 ","139A Harold Street,",WEST END QLD 4810,Vacant land,0,0,0,569m² ,24 Jan 2022
+"230,000 ","15 Monash Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,667m² ,23 Jan 2022
+"1,290,000","5/62 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,218m² ,22 Jan 2022
+"350,000 ","2/33 Murray Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,126m² ,19 Jan 2022
+"304,000 ","1/6 Eclipse Street,",ROWES BAY QLD 4810,Apartment / Unit / Flat,2,1,2,148m² ,18 Jan 2022
+"370,000 ","10/8-10 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,168m² ,17 Jan 2022
+"165,000 ","14/36 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,62m² ,14 Jan 2022
+"175,000 ","10/44 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,85m² ,07 Jan 2022
+"415,000 ","Lot 912 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,0,06 Jan 2022
+"230,000 ","4/53 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,1,1,2,52m² ,24 Dec 2021
+"176,000 ","6/15-19 Gregory St,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,74m² ,21 Dec 2021
+"255,000 ","24/24-28 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,1,1,132m² ,21 Dec 2021
+"660,000 ","8/108 The Esplanade,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,2,162m² ,20 Dec 2021
+"250,000 ","3/21 Leigh Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,93m² ,20 Dec 2021
+"158,000 ","1/76 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,2,1,97m² ,18 Dec 2021
+"87,000 ","16-18 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,091m² ",16 Dec 2021
+"190,000 ","8/15 Gregory Street,",NORTH WARD QLD 4810,Block of units,2,1,1,74m² ,15 Dec 2021
+"280,000","37/7 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,2,92m² ,15 Dec 2021
+"312,000 ","5/2 McKinley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,101m² ,13 Dec 2021
+"235,000 ","10 Ford Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"1,235m² ",13 Dec 2021
+"325,000 ","2/38 Percy Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,2,169m² ,10 Dec 2021
+"225,000 ","2/76 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,Townhouse,3,2,2,158m² ,09 Dec 2021
+"220,000 ","Unit 4/114 Mitchell St,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,68m² ,06 Dec 2021
+"170,000","7/74 Paxton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,06 Dec 2021
+"157,000 ","5/7 Seventh Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,29 Nov 2021
+"292,000","1/35 Bay Street,",PALLARENDA QLD 4810,Apartment / Unit / Flat,2,1,1,388m² ,28 Nov 2021
+"280,000","69/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,1,115m² ,27 Nov 2021
+"290,000 ","7/9 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,26 Nov 2021
+"370,000 ","4/185 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,145m² ,25 Nov 2021
+"165,000","6/8 Second Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,84m² ,25 Nov 2021
+"255,000 ","16/15 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,93m² ,24 Nov 2021
+"222,469","8/118 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,123m² ,22 Nov 2021
+"308,000 ","11/12-14 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,130m² ,22 Nov 2021
+"180,000","5/6-8 Ryan Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,121m² ,20 Nov 2021
+"180,000","62 Kippen Drive,",BALL BAY QLD 4741,Vacant land,0,0,0,0,19 Nov 2021
+"235,000 ","2/3 Jarman Court,",SEAFORTH QLD 4741,Apartment / Unit / Flat,2,1,2,198m² ,19 Nov 2021
+"210,000","4/17 Kennedy Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,104m² ,18 Nov 2021
+"185,000","1/11 Tenth Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,96m² ,17 Nov 2021
+"138,000 ","3/49 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,17 Nov 2021
+"299,000 ","20/24-28 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,1,1,132m² ,15 Nov 2021
+"430,000","3/12-16 Eden Street,",BELGIAN GARDENS QLD 4810,Block of units,4,2,1,153m² ,08 Nov 2021
+"620,000","203/72-74 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,167m² ,08 Nov 2021
+"170,000","7/31 Queens Road,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,111m² ,08 Nov 2021
+"290,000 ","31/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,115m² ,08 Nov 2021
+"485,000 ","8 Morrell Street,",PALLARENDA QLD 4810,Block of units,4,2,2,708m² ,05 Nov 2021
+"230,000 ","6/16-22 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,113m² ,04 Nov 2021
+"195,000 ","5/2 Isley Street,",NORTH WARD QLD 4810,Block of units,2,1,1,87m² ,29 Oct 2021
+"625,000 ","130 Francis Street,",WEST END QLD 4810,Block of units,10,4,4,667m² ,29 Oct 2021
+"950,000","306-308 Stanley Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,"2,000m² ",
+"576,000 ","2/6 Bay Street,",PALLARENDA QLD 4810,Townhouse,3,2,2,248m² ,23 Oct 2021
+"190,000 ","6/38 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,99m² ,21 Oct 2021
+"105,000 ","Lot 31 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,037m² ",21 Oct 2021
+"825,000 ","171 Mitchell Street,",NORTH WARD QLD 4810,Block of units,10,5,5,741m² ,20 Oct 2021
+"92,500 ","7 Harrison Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,050m² ",20 Oct 2021
+"695,000 ","47 Primrose Street,",BELGIAN GARDENS QLD 4810,Block of units,5,3,3,"1,012m² ",18 Oct 2021
+"325,000 ","17/50-54 Mcilwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,126m² ,15 Oct 2021
+"265,000 ","64/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,1,114m² ,12 Oct 2021
+"430,000 ","23/39 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,2,192m² ,11 Oct 2021
+"328,500 ","26/66-76 Davidson Street,",SOUTH TOWNSVILLE QLD 4810,Townhouse,2,1,1,149m² ,08 Oct 2021
+"225,000","90 Todd Street,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,809m² ,07 Oct 2021
+"275,000 ","5/47 Davidson Street,",SOUTH TOWNSVILLE QLD 4810,Townhouse,2,1,2,131m² ,07 Oct 2021
+"810,000 ","8/1 Little Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,2,143m² ,29 Sep 2021
+"179,000","32/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,29 Sep 2021
+"300,000 ","Lot 437 Ball Bay Road,",BALL BAY QLD 4741,Vacant land,0,0,0,0,28 Sep 2021
+"342,500 ","Lot 1/10 Stuart Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,506m² ,25 Sep 2021
+"450,000 ","1/122 Eyre Street,",NORTH WARD QLD 4810,Block of units,3,2,2,170m² ,21 Sep 2021
+"172,500 ","6/16 Primrose Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,88m² ,21 Sep 2021
+"175,000 ","23 Shaw Street,",WEST END QLD 4810,Vacant land,0,0,0,569m² ,21 Sep 2021
+"205,000 ","20/21-23 Tuffley Street,",WEST END QLD 4810,Townhouse,2,1,1,119m² ,16 Sep 2021
+"265,000 ","4/3 Falcon Street,",ROWES BAY QLD 4810,Apartment / Unit / Flat,2,1,1,69m² ,15 Sep 2021
+"335,000 ","6/128 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,148m² ,08 Sep 2021
+"185,000","9/14 Marshall Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,07 Sep 2021
+"240,000 ","17/23 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,86m² ,07 Sep 2021
+"665,000 ","5B Warburton Street,",NORTH WARD QLD 4810,Block of units,8,4,4,625m² ,06 Sep 2021
+"190,000 ","2/19 Second Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,100m² ,01 Sep 2021
+"190,000 ","311/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,69m² ,30 Aug 2021
+"800,000 ","33 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Block of units,9,4,4,810m² ,29 Aug 2021
+"400,000 ","1/16 Harold Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,147m² ,24 Aug 2021
+"870,000 ","8/316-318 Stanley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,4,2,2,225m² ,19 Aug 2021
+"900,000 ","34 Murray Street,",NORTH WARD QLD 4810,Block of units,8,4,4,"1,032m² ",19 Aug 2021
+"83,000 ","Lot 40 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,092m² ",18 Aug 2021
+"585,000 ",,SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,223m² ,18 Aug 2021
+"125,000 ","47/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,111m² ,10 Aug 2021
+"208,000 ","7/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,06 Aug 2021
+"360,000 ","Lot 2, 20 Heatleys Parade,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,400m² ,03 Aug 2021
+"304,438 ","1/15 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,103m² ,03 Aug 2021
+"325,000 ","1/15 Cleveland Terrace,",NORTH WARD QLD 4810,Townhouse,2,2,1,141m² ,03 Aug 2021
+"200,000","6/27 Gilbert Crescent,",CASTLE HILL QLD 4810,Apartment / Unit / Flat,1,1,1,75m² ,02 Aug 2021
+"145,000","4/64 Robertson Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,3,2,2,157m² ,26 Jul 2021
+"130,000 ","5/72 Railway Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,1,1,1,70m² ,26 Jul 2021
+"216,000 ","6/48 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,117m² ,22 Jul 2021
+"650,000 ","2/3 Fryer Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,145m² ,19 Jul 2021
+"270,000 ","8/2 Macrossan Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,1,1,163m² ,16 Jul 2021
+"87,000 ","Lot 101 Ball Street,",HAZLEDEAN QLD 4741,Vacant land,0,0,0,"8,096m² ",09 Jul 2021
+"350,000 ","15 Humphrey Street,",WEST END QLD 4810,Block of units,4,2,2,607m² ,06 Jul 2021
+"445,000 ","Lot 30 Yakapari-Seaforth Road,",SEAFORTH QLD 4741,Vacant land,0,0,0,"359,800m² ",22 Jun 2021
+"175,000","10/6-8 Bell Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,95m² ,19 Jun 2021
+"300,000 ","1/12-14 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,131m² ,17 Jun 2021
+"83,800 ","Lot 41 View Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,062m² ",15 Jun 2021
+"105,000 ","Lot 23 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,015m² ",15 Jun 2021
+"795,000 ","3/326 Stanley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,174m² ,10 Jun 2021
+"430,000 ","1002/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,125m² ,10 Jun 2021
+"272,000 ","5/42-52 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,146m² ,04 Jun 2021
+"145,000 ","6/159 Harold Street,",WEST END QLD 4810,Townhouse,2,1,1,74m² ,04 Jun 2021
+"190,000","1/45 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,91m² ,03 Jun 2021
+"210,000 ","Unit/5/64 Warburton Street,",CASTLE HILL QLD 4810,Apartment / Unit / Flat,3,1,1,106m² ,25 May 2021
+"339,000 ","16/29-33 Victoria Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,102m² ,21 May 2021
+"150,000 ","1/11 Vaughn Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,21 May 2021
+"270,000 ","120/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,2,104m² ,17 May 2021
+"230,000 ","7/108-110 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,98m² ,17 May 2021
+"278,000","3/50 Railway Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,2,1,129m² ,17 May 2021
+"244,000 ","2/6-8 Ryan Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,119m² ,13 May 2021
+"250,000 ","7/11 Crauford Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,2,146m² ,11 May 2021
+"327,500 ",,NORTH WARD QLD 4810,Vacant land,0,0,0,473m² ,10 May 2021
+"146,000 ","3/13 Pascoe Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,08 May 2021
+"690,000 ","31 Alexandra Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,"1,012m² ",26 Apr 2021
+"185,000 ","2/32 Mckillop Street,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,321m² ,21 Apr 2021
+"306,000 ","Lot 908 Samantha Street,",SEAFORTH QLD 4741,Vacant land,0,0,0,"42,800m² ",21 Apr 2021
+"175,000 ","15/36-38 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,31 Mar 2021
+"295,000 ","11/181 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,135m² ,30 Mar 2021
+"800,000 ","107/72-74 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,152m² ,29 Mar 2021
+"619,000 ","1 Fryer Street,",NORTH WARD QLD 4810,Block of units,8,4,3,922m² ,22 Mar 2021
+"227,500 ","10/78 Eyre St,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,109m² ,16 Mar 2021
+"207,000","4/47 Davidson Street,",SOUTH TOWNSVILLE QLD 4810,Townhouse,2,1,1,123m² ,15 Mar 2021
+"382,000 ","2/29 Gilbert Crescent,",CASTLE HILL QLD 4810,Apartment / Unit / Flat,3,2,1,171m² ,11 Mar 2021
+"227,000","2/48 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,62m² ,10 Mar 2021
+"290,000","2/49 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,3,2,2,286m² ,04 Mar 2021
+"159,000 ","7/32-34 Second Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,84m² ,01 Mar 2021
+"275,000 ","12/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,153m² ,22 Feb 2021
+"255,000 ","21/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,1,142m² ,17 Feb 2021
+"138,000 ","3B SEVENTH AVENUE,",SOUTH TOWNSVILLE QLD 4810,Vacant land,0,0,0,536m² ,15 Feb 2021
+"340,000 ","Lot 1/17 Toorak Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,452m² ,12 Feb 2021
+"180,000 ","60 Morris Street,",WEST END QLD 4810,Vacant land,0,0,0,506m² ,11 Feb 2021
+"225,000 ","310/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,2,93m² ,10 Feb 2021
+"140,000 ","43-45 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,927m² ",04 Feb 2021
+"299,999","26 Sallows Street,",PALLARENDA QLD 4810,Vacant land,0,0,0,726m² ,29 Jan 2021
+"143,000 ","3/18 Redpath Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,98m² ,14 Jan 2021
+"415,000 ","19/1-7 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,167m² ,07 Jan 2021
+"595,000 ","25 Henry Street,",WEST END QLD 4810,Block of units,8,4,4,931m² ,05 Jan 2021
+"306,000","16 Sorbellos Road,",ETON QLD 4741,Vacant land,0,0,0,"37,800m² ",18 Dec 2020
+"250,000 ","4 Monash Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,740m² ,11 Dec 2020
+"182,000 ","59/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,110m² ,09 Dec 2020
+"395,000 ","22 Heatleys Parade,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,504m² ,08 Dec 2020
+"380,000 ","5/50 Railway Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,3,2,2,191m² ,05 Dec 2020
+"215,000 ","5/21-23 Tuffley Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,119m² ,04 Dec 2020
+"290,000 ","L483 Mathers Creek Road,",MOUNT OSSA QLD 4741,Vacant land,0,0,0,0,30 Nov 2020
+"200,000 ","5 Monash Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,663m² ,22 Nov 2020
+"455,000 ","22/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,2,183m² ,10 Nov 2020
+"600,000 ","5/97 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,164m² ,06 Nov 2020
+"330,000 ","398 RILEY ROAD,",CAPE CLEVELAND QLD 4810,Vacant land,0,0,0,0,03 Nov 2020
+"213,500 ","8/21-23 Tuffley Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,2,119m² ,03 Nov 2020
+"175,500 ","9/21-23 Landsborough Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,84m² ,27 Oct 2020
+"420,000 ","2/56 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,178m² ,23 Oct 2020
+"240,000","18 Monash Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,841m² ,30 Sep 2020
+"290,000 ","84 Dunwoody Road,",BALL BAY QLD 4741,Vacant land,0,0,0,"165,800m² ",29 Sep 2020
+"157,000","5/16 Primrose Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,86m² ,29 Sep 2020
+"375,000 ","23 Gilbert Crescent,",CASTLE HILL QLD 4810,Block of units,4,4,3,792m² ,2020
+"390,000 ","79 Dyer Street,",PALLARENDA QLD 4810,Block of units,4,2,2,708m² ,16 Sep 2020
+"160,000 ","3A Fryer Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,830m² ,11 Sep 2020
+"315,000 ","9/76-78 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,160m² ,08 Sep 2020
+"115,000 ","1/30 Queens Road,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,08 Sep 2020
+"109,000 ","68/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,04 Sep 2020
+"278,000 ","Lot 21 Kuttabul Mount Jukes Road,",KUTTABUL QLD 4741,Vacant land,0,0,0,"41,600m² ",27 Aug 2020
+"202,000 ","14/21-23 Tuffley Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,119m² ,21 Aug 2020
+"312,000 ","5/2-4 Ryan Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,1,161m² ,19 Aug 2020
+"155,000","43/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,108m² ,17 Aug 2020
+"195,000 ","4/65 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,105m² ,13 Aug 2020
+"177,500","2/20-22 Cameron Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,147m² ,07 Aug 2020
+"196,000 ","7/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,106m² ,29 Jul 2020
+"720,000 ","10 Panorama Court,",NORTH WARD QLD 4810,Vacant land,0,0,0,410m² ,23 Jul 2020
+"244,000 ","11 The Point,",CASTLE HILL QLD 4810,Vacant land,0,0,0,914m² ,22 Jul 2020
+"155,000 ","Lot 31 Kinchant Dam Road,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"9,029m² ",17 Jul 2020
+"285,000 ","L494 Jansens Road,",MOUNT OSSA QLD 4741,Vacant land,0,0,0,0,17 Jul 2020
+"280,000 ","72 Yarrawonga Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,835m² ,16 Jul 2020
+"230,000 ","3/38-40 Gregory Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,142m² ,13 Jul 2020
+"349,000 ","2/12-16 Eden Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,1,140m² ,07 Jul 2020
+"385,000 ","21 Ridgewood Drive,",FARLEIGH QLD 4741,Vacant land,0,0,0,0,06 Jul 2020
+"540,000 ","Unit 6/97 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,2,199m² ,01 Jul 2020
+"300,000","5/14 Rowland Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,179m² ,29 Jun 2020
+"220,000 ","135 CARTY ROAD,",CAPE CLEVELAND QLD 4810,Vacant land,0,0,0,0,26 Jun 2020
+"117,000 ","5 Putt Street,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,381m² ,26 Jun 2020
+"575,000","9/13 Little Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,2,169m² ,23 Jun 2020
+"122,500 ","34 Flowers Street,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,587m² ,22 Jun 2020
+"197,000 ","121 CARTY ROAD,",CAPE CLEVELAND QLD 4810,Vacant land,0,0,0,0,19 Jun 2020
+"154,200 ","9 Woodlands Court,",CASTLE HILL QLD 4810,Vacant land,0,0,0,"1,706m² ",11 Jun 2020
+"109,000 ","4/49 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,08 Jun 2020
+"157,500 ","2/21-23 Landsborough Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,86m² ,03 Jun 2020
+"213,000","61 Yarrawonga Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,"1,228m² ",29 May 2020
+"900,000","4/24 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,3,2,227m² ,28 May 2020
+"440,000 ","29 Plume Street,",SOUTH TOWNSVILLE QLD 4810,Block of units,14,6,4,734m² ,20 May 2020
+"155,000 ","Lot 30 Kinchant Dam Road,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"9,002m² ",19 May 2020
+"151,000","2/386 Stanley Street,",CASTLE HILL QLD 4810,Vacant land,0,0,0,600m² ,12 May 2020
+"205,000","39 Ridgewood Drive,",FARLEIGH QLD 4741,Vacant land,0,0,0,"9,574m² ",12 May 2020
+"150,000 ","Lot 23 Kinchant Dam Road,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"9,899m² ",16 Apr 2020
+"155,000","8/57 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,83m² ,14 Apr 2020
+"450,000 ","68 Cook Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,"1,012m² ",08 Mar 2020
+"275,000 ","46 Websters Road,",GARGETT QLD 4741,Vacant land,0,0,0,0,02 Mar 2020
+"310,000 ","13/15 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,133m² ,29 Feb 2020
+"145,000 ","3948 Mackay-Eungella Road,",GARGETT QLD 4741,Vacant land,0,0,0,"5,083m² ",17 Feb 2020
+"444,000 ","64/42 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,132m² ,16 Feb 2020
+"60,000","84 Kinchant Dam Road,",NORTH ETON QLD 4741,Vacant land,0,0,0,"1,348m² ",06 Feb 2020
+"395,000 ","1/18 Redpath Street,",NORTH WARD QLD 4810,Townhouse,3,3,2,210m² ,04 Feb 2020
+"700,000 ","25/48-55 Sir Lesile Thiess Drive,",NORTH WARD QLD 4810,Vacant land,0,0,0,375m² ,20 Jan 2020
+"315,000 ","10/29-33 Victoria Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,105m² ,20 Jan 2020
+"110,000 ","65/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,"13,930m² ",15 Jan 2020
+"119,000 ","4/28 Primrose Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,1,1,1,86m² ,14 Jan 2020
+"173,000 ","63/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,2,110m² ,12 Dec 2019
+"193,000 ","2/42 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,72m² ,12 Nov 2019
+"128,000 ","116-117 Colonial Drive,",CLAIRVIEW QLD 4741,Vacant land,0,0,0,"1,485m² ",10 Nov 2019
+"260,000 ","201/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,127m² ,15 Oct 2019
+"200,000 ","307/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,2,87m² ,14 Oct 2019
+"170,000 ","Lot 8 Dunwold-Lumburra Road,",GARGETT QLD 4741,Vacant land,0,0,0,0,2019
+"250,000 ","2/14 Rowland Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,131m² ,11 Oct 2019
+"80,000 ","2-4 Harrison Court,",SEAFORTH QLD 4741,Vacant land,0,0,0,"2,296m² ",10 Oct 2019
+"260,000 ","2/4 Xavier Court,",RAILWAY ESTATE QLD 4810,Townhouse,3,2,2,338m² ,21 Sep 2019
+"290,000 ","22 Stirling Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,"1,001m² ",05 Sep 2019
+"195,000 ","911/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,69m² ,26 Aug 2019
+"445,000 ","25/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,2,184m² ,21 Aug 2019
+"900,000 ","23 - 25 Cook Street,",NORTH WARD QLD 4810,Block of units,17,8,8,"2,024m² ",20 Aug 2019
+"870,000 ","56 Landsborough Street South,",NORTH WARD QLD 4810,Block of units,8,4,4,708m² ,16 Aug 2019
+"295,000","2/13 Bishop Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,2,619m² ,12 Aug 2019
+"141,000 ","74 Stagpole Street,",WEST END QLD 4810,Vacant land,0,0,0,470m² ,24 Jul 2019
+"165,000 ","14/23 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,82m² ,22 Jul 2019
+"266,000 ","1/14 Rowland Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,131m² ,28 Jun 2019
+"215,000","190 Boundary Street,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,"1,214m² ",12 Jun 2019
+"310,000 ","6/181 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,135m² ,31 May 2019
+"535,000","3/92-94 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,176m² ,24 May 2019
+"249,000 ","10/23-25 Echlin Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,159m² ,18 May 2019
+"272,500 ","2/106 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,143m² ,10 May 2019
+"480,000","9/92-94 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,177m² ,07 May 2019
+"225,000 ","2/64 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,1,1,106m² ,04 Apr 2019
+"210,000 ","7/16-22 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,115m² ,28 Mar 2019
+"200,000 ","2/94 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,79m² ,21 Mar 2019
+"235,000","10/12-14 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,1,1,172m² ,20 Mar 2019
+"190,000 ","L9 Pleystowe School Road,",PLEYSTOWE QLD 4741,Vacant land,0,0,0,0,07 Mar 2019
+"179,500","18 STIRLING DRIVE,",CASTLE HILL QLD 4810,Vacant land,0,0,0,750m² ,06 Mar 2019
+"298,000","37/1-7 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,172m² ,11 Feb 2019
+"560,000 ","301/72-74 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,167m² ,06 Feb 2019
+"175,000","6/74 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,79m² ,23 Jan 2019
+"175,000","6/74 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,79m² ,23 Jan 2019
+"180,000","1/11 Second Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,130m² ,22 Jan 2019
+"155,000 ","Lot 25 Kinchant Dam Road,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"8,093m² ",21 Jan 2019
+"565,000","1 Panorama Court,",NORTH WARD QLD 4810,Vacant land,0,0,0,411m² ,2019
+"290,000 ","5/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,152m² ,11 Jan 2019
+"155,000 ","Lot 26 Kinchant Dam Road,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"8,093m² ",18 Dec 2018
+"155,000 ","Lot 28 Kinchant Dam Road,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"8,093m² ",18 Dec 2018
+"390,000 ","107/9 Anthony Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,143m² ,18 Dec 2018
+"140,000 ","Lot 29 Kinchant Dam Road,",KINCHANT DAM QLD 4741,Vacant land,0,0,0,"8,093m² ",14 Dec 2018
+"164,000 ","7/70 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,98m² ,10 Dec 2018
+"275,000 ","2/43 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,89m² ,21 Nov 2018
+"120,000 ","2/13 Cowley Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,63m² ,20 Nov 2018
+"155,000 ","2/25 Stagpole Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,74m² ,05 Nov 2018
+"193,000","5/317 Stanley Street West,",NORTH WARD QLD 4810,Townhouse,2,2,2,94m² ,22 Oct 2018
+"550,000 ","Lot 11 Owens Creek Loop Road,",GARGETT QLD 4741,Vacant land,0,0,0,0,19 Oct 2018
+"210,000","5/28 Rose Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,128m² ,19 Oct 2018
+"518,000 ","4/30-32 Gregory Street,",NORTH WARD QLD 4810,Townhouse,3,2,2,207m² ,19 Oct 2018
+"110,000 ","Lot 9 Geeberga Buthurra Road,",KUTTABUL QLD 4741,Vacant land,0,0,0,0,05 Oct 2018
+"130,000 ","40 Prince Charles Avenue,",SEAFORTH QLD 4741,Vacant land,0,0,0,607m² ,30 Sep 2018
+"190,000 ","2/7 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,88m² ,27 Sep 2018
+"320,000 ","62/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,1,150m² ,20 Sep 2018
+"200,000 ","20 Percy Street,",WEST END QLD 4810,Vacant land,0,0,0,"1,014m² ",19 Sep 2018
+"160,000","4/14 Marshall Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,90m² ,05 Sep 2018
+"220,000 ","7/143 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,87m² ,05 Sep 2018
+"680,000","62/28 Landsborough Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,298m² ,30 Aug 2018
+"110,000 ","Lot 10 Geeberga Buthurra Road,",KUTTABUL QLD 4741,Vacant land,0,0,0,0,27 Aug 2018
+"180,000 ","4/17 Rose Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,101m² ,20 Aug 2018
+"640,000 ","145 Eyre Street,",NORTH WARD QLD 4810,Block of units,8,4,4,"1,012m² ",2018
+"159,000 ","5/21-23 Tuffley Street,",WEST END QLD 4810,Townhouse,2,2,2,119m² ,18 Jul 2018
+"550,000","203/69-77 Palmer Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,198m² ,11 Jul 2018
+"560,000 ","14 Evans Street,,",BELGIAN GARDENS QLD 4810,Block of units,8,4,4,"1,012m² ",06 Jul 2018
+"185,000 ","17/50 Primrose Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,96m² ,21 Jun 2018
+"230,000 ","2/21 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,110m² ,20 Jun 2018
+"135,000","178 Miclere Farleigh Rd,",FARLEIGH QLD 4741,Vacant land,0,0,0,"1,209m² ",19 Jun 2018
+"180,000 ","11 Sivyer Street,",BALL BAY QLD 4741,Vacant land,0,0,0,706m² ,29 May 2018
+"230,000 ","172 Wainai Road,",FARLEIGH QLD 4741,Vacant land,0,0,0,"9,879m² ",25 May 2018
+"358,000 ","20/30 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,2,232m² ,23 May 2018
+"290,000 ","29/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,150m² ,22 May 2018
+"175,000","4/135 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,80m² ,21 May 2018
+"120,000","58/16 Old Common Road,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,16 May 2018
+"220,000 ","604/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,77m² ,14 May 2018
+"315,000 ","9/42 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,138m² ,2018
+"337,000","7/15 Cleveland Terrace,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,59m² ,24 Apr 2018
+"455,000 ","29 Braemar Crescent,",CASTLE HILL QLD 4810,Vacant land,0,0,0,711m² ,03 Apr 2018
+"180,000 ","15/1 Burke Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,113m² ,28 Mar 2018
+"325,000 ","17/29-33 Victoria Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,174m² ,23 Mar 2018
+"352,500 ","20 Manaways Road,",FARLEIGH QLD 4741,Vacant land,0,0,0,0,15 Mar 2018
+"420,000","1/6 Bay Street,",PALLARENDA QLD 4810,Townhouse,3,2,2,248m² ,28 Feb 2018
+"300,000 ","27/43 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,114m² ,2018
+"340,000 ","508/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,108m² ,19 Feb 2018
+"242,500","6/9-11 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,15 Feb 2018
+"225,000 ","1/42 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,75m² ,18 Dec 2017
+"371,000 ","11/6 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,210m² ,01 Dec 2017
+"285,000 ","26/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,124m² ,06 Nov 2017
+"415,000","5/4 Clifton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,125m² ,31 Oct 2017
+"362,000","3/57-59 Palmer Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,1,171m² ,24 Oct 2017
+"382,500","2/162 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,150m² ,23 Oct 2017
+"170,000","1/94 First Avenue,",RAILWAY ESTATE QLD 4810,Townhouse,2,1,1,89m² ,05 Oct 2017
+"460,000 ","1002/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,125m² ,28 Sep 2017
+"235,000","2/8 McKinley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,109m² ,25 Sep 2017
+"250,000 ","46/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,110m² ,22 Sep 2017
+"155,000 ","37 Palm Avenue,",SEAFORTH QLD 4741,Vacant land,0,0,0,607m² ,04 Sep 2017
+"180,000 ","611/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,69m² ,29 Aug 2017
+"160,000 ","1/11 Vaughn Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,78m² ,24 Aug 2017
+"269,000 ","4 Chandon Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,775m² ,23 Aug 2017
+"175,000","3/1 Burke Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,09 Aug 2017
+"145,000 ","7/5 Rose Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,07 Aug 2017
+"151,000 ","5/6-8 Bell Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,98m² ,27 Jul 2017
+"620,000 ","2/320 Stanley Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,171m² ,13 Jul 2017
+"197,000","711/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,69m² ,12 Jul 2017
+"209,000 ","1/64 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,1,1,106m² ,04 Jul 2017
+"200,000 ","3/3 Anderson Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,2,79m² ,19 Jun 2017
+"229,000 ","78/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,1,1,124m² ,05 Jun 2017
+"175,000","111 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,809m² ,2017
+"192,000","9/33-35 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,117m² ,24 May 2017
+"450,000","3 Panorama Court,",NORTH WARD QLD 4810,Vacant land,0,0,0,418m² ,10 May 2017
+"600,000 ","93 Bundock,",BELGIAN GARDENS QLD 4810,Block of units,9,3,7,"1,456m² ",05 May 2017
+"260,000","12/43 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,89m² ,03 May 2017
+"535,000 ","2 Panorama Court,",NORTH WARD QLD 4810,Vacant land,0,0,0,418m² ,27 Apr 2017
+"165,000 ","11/21-23 Tuffley Street,",WEST END QLD 4810,Townhouse,2,1,1,119m² ,03 Apr 2017
+"170,000 ","2/14-20 Nix Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,89m² ,24 Mar 2017
+"140,000 ","8/6-8 Bell Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,95m² ,11 Mar 2017
+"415,000 ","5/8 Paxton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,210m² ,21 Feb 2017
+"305,000","409/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,112m² ,13 Feb 2017
+"260,000 ","66/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,1,148m² ,15 Dec 2016
+"140,000 ","2/135 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,77m² ,23 Nov 2016
+"240,000 ","805/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,77m² ,23 Nov 2016
+"360,000","80A Primrose Street,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,"1,141m² ",19 Nov 2016
+"138,000 ","2/35 First Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,102m² ,04 Nov 2016
+"330,000 ","2/8 Paxton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,179m² ,01 Nov 2016
+"420,000 ","1 Seaview Court,",CASTLE HILL QLD 4810,Vacant land,0,0,0,709m² ,28 Oct 2016
+"367,500","1103/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,114m² ,27 Oct 2016
+"180,000","1/49 First Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,112m² ,11 Oct 2016
+"320,000 ","1/108 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,119m² ,10 Oct 2016
+"280,000 ","37/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,153m² ,07 Oct 2016
+"288,000 ","3/177 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,151m² ,23 Sep 2016
+"200,000 ","2/47 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,90m² ,09 Aug 2016
+"162,000 ","10/105 Francis Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,135m² ,08 Aug 2016
+"196,000 ","7/150 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,18 Jul 2016
+"245,000 ","5/33 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,1,165m² ,15 Jun 2016
+"492,000 ","5/97 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,−,164m² ,07 Jun 2016
+"290,000 ","48/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,115m² ,11 May 2016
+"115,000 ","15/28-30 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,67m² ,06 May 2016
+"175,000","19/23 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,85m² ,27 Apr 2016
+"480,000 ","87/28 Landsborough Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,261m² ,12 Apr 2016
+"140,000 ","3/94 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,79m² ,2016
+"130,000 ","24 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,"1,157m² ",31 Mar 2016
+"250,000 ","3/64 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,1,1,114m² ,28 Mar 2016
+"275,000 ","5/24 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,1,1,132m² ,09 Feb 2016
+"135,000 ","4/1 Burke Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,1,78m² ,05 Feb 2016
+"312,000 ","35/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,150m² ,04 Feb 2016
+"330,000","9/18 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,133m² ,20 Jan 2016
+"125,000 ","50 Murphy Street,",SEAFORTH QLD 4741,Vacant land,0,0,0,"1,024m² ",18 Jan 2016
+"185,000","35 Johnson Avenue,",SEAFORTH QLD 4741,Vacant land,0,0,0,800m² ,12 Jan 2016
+"360,000 ","5/1-7 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,150m² ,08 Jan 2016
+"275,000","2/5 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,200m² ,05 Jan 2016
+"207,500","6/74 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,93m² ,18 Dec 2015
+"275,000 ","75/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,1,138m² ,06 Dec 2015
+"212,000 ","10/19 Ryan Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,1,1,110m² ,24 Nov 2015
+"425,000 ","4/57-59 Palmer Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,1,173m² ,21 Nov 2015
+"520,000 ","1/4-6 Gilbert Crescent,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,170m² ,17 Nov 2015
+"145,000 ","84 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,454m² ,17 Nov 2015
+"280,000 ","10/6-24 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,1,138m² ,06 Nov 2015
+"482,500 ","36 Ralston Street,",WEST END QLD 4810,Block of units,3,3,4,"1,120m² ",06 Oct 2015
+"750,000 ","28 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,Block of units,8,8,8,"1,012m² ",11 Sep 2015
+"228,000 ","17 Chandon Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,605m² ,26 Aug 2015
+"280,000","41 Victoria Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,584m² ,03 Aug 2015
+"177,000 ","9 Woodlands Court,",CASTLE HILL QLD 4810,Vacant land,0,0,0,"1,706m² ",2015
+"450,000 ","317/72 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,140m² ,23 Jul 2015
+"400,000","1 Seaview Court,",CASTLE HILL QLD 4810,Vacant land,0,0,0,709m² ,26 Jun 2015
+"315,000","1/108 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,119m² ,02 Jun 2015
+"561,300","4 Carter Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,"2,023m² ",22 May 2015
+"720,000 ","5 Plant Street,",WEST END QLD 4810,Apartment / Unit / Flat,10,5,5,810m² ,29 Apr 2015
+"232,000 ","9/57 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,85m² ,21 Apr 2015
+"437,000 ","202/9 Anthony Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,77m² ,01 Apr 2015
+"268,000 ","1/24 Martinez Ave,",WEST END QLD 4810,Apartment / Unit / Flat,3,1,1,132m² ,18 Mar 2015
+"240,000 ","58 Yarrawonga Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,843m² ,09 Feb 2015
+"970,000 ","1-8/30 Mary Street, Townsville,",WEST END QLD 4810,Apartment / Unit / Flat,8,8,8,"1,214m² ",16 Jan 2015
+"208,060 ","3/64 Robertson Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,3,2,1,156m² ,12 Dec 2014
+"285,000 ","6 Carter Street,",NORTH WARD QLD 4810,Vacant land,0,0,0,"1,163m² ",05 Dec 2014
+"315,000 ","61 Yarrawonga Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,"1,228m² ",2014
+"280,000 ","72 Yarrawonga Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,835m² ,24 Nov 2014
+"313,000","9/29 Victoria Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,−,101m² ,24 Nov 2014
+"425,000 ","5 Eighth Av,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,4,3,3,562m² ,24 Nov 2014
+"139,000","2/114 Livingstone Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,−,81m² ,13 Nov 2014
+"640,000 ","403/69 Palmer Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,166m² ,11 Nov 2014
+"180,000","Lot 1 Camilleris Road,",MOUNT CHARLTON QLD 4741,Vacant land,0,0,0,0,30 Oct 2014
+"330,000","5/106 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,143m² ,01 Oct 2014
+"257,000",,CASTLE HILL QLD 4810,Vacant land,0,0,0,601m² ,10 Sep 2014
+"235,000 ","1/52 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,3,1,1,90m² ,25 Aug 2014
+"220,000 ","572 Cape Cleveland Road,",CAPE CLEVELAND QLD 4810,Vacant land,0,0,0,0,20 Jun 2014
+"1,025,000 ","Lot 13 & 14 Glamis Court,",CASTLE HILL QLD 4810,Vacant land,0,0,0,"1,168m² ",09 Apr 2014
+"215,000","21 Ninth street,",RAILWAY ESTATE QLD 4810,Vacant land,0,0,0,809m² ,28 Jan 2014
+"270,000","405/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,77m² ,12 Dec 2013
+"368,000","23/42 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,136m² ,06 Dec 2013
+"510,000","10 Panorama Court,",NORTH WARD QLD 4810,Vacant land,0,0,0,410m² ,22 Nov 2013
+"150,000","9/19 Ryan Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,76m² ,2013
+"210,000","2/18 Redpath Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,98m² ,05 Nov 2013
+"335,000","21 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,Vacant land,0,0,0,"1,012m² ",30 Oct 2013
+"455,000","1204/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,115m² ,29 Oct 2013
+"580,000 ","2/13 Little Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,3,2,2,223m² ,28 Oct 2013
+"703,000","6/61 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,144m² ,2013
+"225,000","4/150 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,2013
+"252,500","5/74 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,1,1,2,84m² ,03 Oct 2013
+"178,000","2/17 Stanton Terrace,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,75m² ,02 Oct 2013
+"320,000","609/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,112m² ,30 Sep 2013
+"252,500","403/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,70m² ,24 Sep 2013
+"279,000","45/34 Bundock Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,1,110m² ,11 Sep 2013
+"235,000","1/8 Lamington Road,",WEST END QLD 4810,Townhouse,2,1,1,68m² ,03 Sep 2013
+"283,000","903/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,70m² ,29 Aug 2013
+"260,000 ","4/76 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,Townhouse,3,2,2,158m² ,28 Aug 2013
+"270,000 ","4/40-48 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,Townhouse,2,1,1,146m² ,08 Aug 2013
+"285,000","12/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,116m² ,22 Jun 2013
+"290,000","18/43 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,89m² ,19 Apr 2013
+"530,000","19 Braemar Crescent,",CASTLE HILL QLD 4810,Vacant land,0,0,0,649m² ,21 Mar 2013
+"162,000","4/32 Henry Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,68m² ,06 Mar 2013
+"182,000","3/3 Anderson Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,2,79m² ,25 Feb 2013
+"195,000","3/143 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,84m² ,2013
+"320,000","401/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,99m² ,14 Feb 2013
+"325,000","3/7 Hale Street (access via Leichhardt Street),",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,92m² ,12 Feb 2013
+"175,000","3/135 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,2013
+"650,000","12 Panorama Court,",NORTH WARD QLD 4810,Vacant land,0,0,0,410m² ,07 Feb 2013
+"186,000","6/47 Ralston Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,2,63m² ,2013
+"289,000","4/9-11 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,113m² ,2013
+"113,000","22 Aviland Drive,",SEAFORTH QLD 4741,Vacant land,0,0,0,996m² ,2012
+"240,000","306/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,69m² ,2012
+"290,000 ","53/34 Bundock St,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,1,111m² ,09 Dec 2012
+"290,000","53/34 Bundock St,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,2,1,111m² ,09 Dec 2012
+"165,000","3/27 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,77m² ,2012
+"358,000","501/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,99m² ,07 Nov 2012
+"227,000","5/143 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,94m² ,26 Oct 2012
+"431,000","5/30 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,97m² ,14 Oct 2012
+"262,500","705/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,76m² ,19 Sep 2012
+"535,000","306/72-74 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,182m² ,12 Sep 2012
+"193,000","2/49 Ninth Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,81m² ,09 Sep 2012
+"530,000",,SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,3,2,2,196m² ,04 Sep 2012
+"360,000","23/7 Hale Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,123m² ,2012
+"330,000","702/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,98m² ,17 Aug 2012
+"275,000","2/130 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,1,83m² ,14 Aug 2012
+"325,000","24/24-28 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,1,1,132m² ,07 Aug 2012
+"340,000","22a Heatleys Parade,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,503m² ,06 Aug 2012
+"102,100","23A Potts St,",BELGIAN GARDENS QLD 4810,Vacant land,0,0,0,608m² ,28 Jul 2012
+"412,000 ","21/1-7 Gregory St,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,170m² ,27 Jul 2012
+"412,000","21/1-7 Gregory St,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,170m² ,27 Jul 2012
+"360,000","407/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,112m² ,24 Jul 2012
+"255,000","6/78 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,109m² ,01 Jul 2012
+"450,000","1201/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,2,1,118m² ,04 May 2012
+"605,000 ","7/108 The Esplanade -,",BELGIAN GARDENS QLD 4810,Townhouse,4,2,4,156m² ,06 Mar 2012
+"605,000","7/108 The Esplanade -,",BELGIAN GARDENS QLD 4810,Townhouse,4,2,2,156m² ,06 Mar 2012
+"333,000 ","5/97 Livingstone Street,",WEST END QLD 4810,Townhouse,3,2,2,155m² ,
+"212,000","7/14 Marshall Street,",BELGIAN GARDENS QLD 4810,Apartment / Unit / Flat,2,1,1,90m² ,20 Jan 2012
+"285,000","6 Chandon Place,",CASTLE HILL QLD 4810,Vacant land,0,0,0,601m² ,19 Jan 2012
+"222,000",,WEST END QLD 4810,Vacant land,0,0,0,"1,017m² ",13 Jan 2012
+"230,000","4/47 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,63m² ,12 Jan 2012
+"275,000","2/15 Tuffley Street,",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,347m² ,08 Jan 2012
+"270,000","202/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,1,1,1,71m² ,05 Dec 2011
+"208,000","2/8 Second Street,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,2,1,1,82m² ,03 Nov 2011
+"212,000","4/135 Eyre Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,80m² ,18 Oct 2011
+"305,000","1/49 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,3,2,2,280m² ,14 Oct 2011
+"220,000","11/17 Stanton Terrace,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,75m² ,04 Aug 2011
+"245,000","23/23 Gregory Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,85m² ,23 Jun 2011
+"305,000","7/40-48 Perkins,",SOUTH TOWNSVILLE QLD 4810,Apartment / Unit / Flat,2,1,1,146m² ,2011
+"380,000","1/56 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,90m² ,23 Mar 2011
+"305,000","12/12-14 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,2,2,1,114m² ,07 Mar 2011
+"560,000","1/93 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,2,2,152m² ,2011
+"208,000","11/44 Alexandra Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,85m² ,2011
+"700,000","1/100 The Strand,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,2,179m² ,2011
+"360,000","11/42 Warburton Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,3,2,1,137m² ,2011
+"330,000","16/16-22 Martinez Avenue,",WEST END QLD 4810,Apartment / Unit / Flat,3,2,1,131m² ,23 Oct 2010
+"251,000","7/21 Landsborough Street,",NORTH WARD QLD 4810,Townhouse,2,1,1,83m² ,29 Sep 2010
+"300,000","76 Yarrawonga Drive,",CASTLE HILL QLD 4810,Vacant land,0,0,0,776m² ,03 Sep 2010
+"413,500","1 Seaview Court,",CASTLE HILL QLD 4810,Vacant land,0,0,0,709m² ,28 Aug 2010
+"285,000","3/74 Mitchell Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,93m² ,27 Apr 2010
+"330,000","1/47 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,Apartment / Unit / Flat,3,2,1,307m² ,2010
+"330,000","3/65 Cook Street,",NORTH WARD QLD 4810,Apartment / Unit / Flat,2,1,1,110m² ,19 Feb 2010
+"225,000","10/36 Henry Street (Townsville),",WEST END QLD 4810,Apartment / Unit / Flat,2,1,1,62m² ,01 Apr 2009
+"335,000 ","6/97 Livingstone Street (Townsville),",WEST END QLD 4810,Townhouse,3,2,2,154m² ,03 Mar 2009
+"295,000 ","5/76 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,Townhouse,3,2,1,158m² ,13 Feb 2009

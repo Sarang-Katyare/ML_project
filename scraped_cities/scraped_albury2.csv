@@ -1,0 +1,855 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"390,000","5/529 Kiewa Place,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,115m² ,15 Mar 2024
+"425,000 ","425 North Street,",ALBURY NSW 2640,Vacant land,0,0,0,477m² ,16 Feb 2024
+"360,000","2/441 Perry Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,145m² ,22 Jan 2024
+"345,000 ","2/714 Alma Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,"1,321m² ",22 Jan 2024
+"1,330,000 ","1/757 Peel Street,",ALBURY NSW 2640,Townhouse,4,2,2,330m² ,2023
+"320,000","10/436 Macauley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,109m² ,6 Oct 2023
+"500,000","12 Elderslie Rise,",ALBURY NSW 2640,Vacant land,0,0,0,455m² ,16 Aug 2023
+"650,000 ","1 Vincent Place,",ALBURY NSW 2640,Vacant land,0,0,0,544m² ,2023
+"530,000","793 Pemberton Street,",ALBURY NSW 2640,Vacant land,0,0,0,"1,531m² ",11 May 2023
+"570,000 ","571 Affleck Street,",ALBURY NSW 2640,Vacant land,0,0,0,735m² ,03 May 2023
+"500,000","1/691 Boyes Crescent,",ALBURY NSW 2640,Townhouse,2,1,1,219m² ,22 Dec 2022
+"613,000 ","2/543 Paine Street,",ALBURY NSW 2640,Townhouse,3,1,1,269m² ,12 Oct 2022
+"415,000 ","14/746 Wood Street,",ALBURY NSW 2640,Townhouse,2,1,1,168m² ,11 Jul 2022
+"810,000 ","6/553 Smollett Street,",ALBURY NSW 2640,Apartment / Unit / Flat,3,2,2,235m² ,2022
+"450,000","6/616 Stanley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,150m² ,13 Apr 2022
+"367,000 ","14/436 Macauley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,108m² ,2022
+"721,000 ","682 Jones Street,",ALBURY NSW 2640,Vacant land,0,0,0,815m² ,2022
+"505,000","8 Elderslie Rise,",ALBURY NSW 2640,Vacant land,0,0,0,456m² ,01 Apr 2022
+"1,400,000 ","693 Holmwood Crs,",ALBURY NSW 2640,New land,0,0,0,"1,765m² ",17 Mar 2022
+"735,000","562 Thurgoona Street,",ALBURY NSW 2640,Townhouse,3,1,2,543m² ,15 Mar 2022
+"1,080,000","3/436 Olive Street,",ALBURY NSW 2640,Townhouse,3,2,2,287m² ,2022
+"355,000 ","4/750 Macauley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,110m² ,17 Feb 2022
+"404,000","3/456 Crisp Street,",ALBURY NSW 2640,Block of units,2,1,1,140m² ,11 Dec 2021
+"1,850,000 ","332 Tribune Street,",ALBURY NSW 2640,Block of units,18,8,8,"2,426m² ",07 Dec 2021
+"350,000","2/531 George Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,788m² ,06 Dec 2021
+"457,000 ","1/572 Thurgoona Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,380m² ,2021
+"2,100,000 ","674 David Street,",ALBURY NSW 2640,Vacant land,0,0,0,"2,708m² ",2021
+"305,000 ","11/601 Wyse Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,202m² ,2021
+"680,000 ","1-2/449 Hume Street,",ALBURY NSW 2640,Block of units,4,2,4,675m² ,26 Jul 2021
+"659,000 ","2/536 Roper Street,",ALBURY NSW 2640,Townhouse,3,2,2,342m² ,30 Jun 2021
+"425,000","2/451 Macauley Street,",ALBURY NSW 2640,Townhouse,2,1,1,259m² ,2021
+"250,000","7/601 Wyse Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,131m² ,24 Feb 2021
+"289,000 ","7/560 Wyse Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,128m² ,05 Feb 2021
+"635,000","617 Elm Street,",ALBURY NSW 2640,Townhouse,3,2,2,450m² ,26 Jan 2021
+"494,000 ","743 Peel St,",ALBURY NSW 2640,Townhouse,3,2,2,304m² ,19 Dec 2020
+"515,000","2/585 Queen Street,",ALBURY NSW 2640,Townhouse,2,2,2,393m² ,18 Dec 2020
+"249,000","820 Golflinks Terrace,",ALBURY NSW 2640,Vacant land,0,0,0,"1,135m² ",10 Dec 2020
+"300,000 ","Lot 3 Riverview Terrace,",ALBURY NSW 2640,Vacant land,0,0,0,455m² ,18 Nov 2020
+"230,000","21/611 Kiewa Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,80m² ,12 Nov 2020
+"350,000","608 Randle Crescent,",ALBURY NSW 2640,Vacant land,0,0,0,678m² ,14 Oct 2020
+"310,000 ","Lot 7 Riverview Terrace,",ALBURY NSW 2640,Vacant land,0,0,0,505m² ,23 Sep 2020
+"305,000","8/436 Macauley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,104m² ,06 Aug 2020
+"625,000 ","653 Parkway Lane,",ALBURY NSW 2640,Apartment / Unit / Flat,6,3,3,858m² ,28 Jul 2020
+"222,000 ","1/714 Alma Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,179m² ,25 May 2020
+"489,000",,ALBURY NSW 2640,Apartment / Unit / Flat,3,1,4,743m² ,05 May 2020
+"290,000","7/694 Dean Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,101m² ,16 Apr 2020
+"230,000 ","7/746 Wood Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,174m² ,18 Mar 2020
+"180,000 ","7/681 Pemberton Street,",ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,78m² ,10 Mar 2020
+"215,000","22/611 Kiewa Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,80m² ,09 Jan 2020
+"1,505,000","446 - 450 Olive Street,",ALBURY NSW 2640,Block of units,14,7,5,"1,340m² ",16 Dec 2019
+"580,000","433 North Street,",ALBURY NSW 2640,Townhouse,3,2,2,431m² ,12 Dec 2019
+"270,500 ","1/446 Stephen Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,156m² ,06 Nov 2019
+"1,250,000 ","333 Doctors Point Road,",ALBURY NSW 2640,Vacant land,0,0,0,0,2019
+"450,000","4 Indigo Grn,",ALBURY NSW 2640,Townhouse,3,2,2,499m² ,26 Sep 2019
+"217,500 ","3/750 Macauley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,116m² ,19 Sep 2019
+"434,000 ","745 Peel St,",ALBURY NSW 2640,Townhouse,3,2,2,350m² ,09 Sep 2019
+"775,000 ","478 Macauley Street,",ALBURY NSW 2640,Townhouse,3,2,2,410m² ,2019
+"300,000 ","2/364 Bellevue Street,",ALBURY NSW 2640,Townhouse,3,2,3,328m² ,16 Jul 2019
+"430,000","540 Thompson Street,",ALBURY NSW 2640,Townhouse,3,1,2,297m² ,10 Jul 2019
+"830,000 ","2/592A Kiewa Street,",ALBURY NSW 2640,Townhouse,4,2,3,492m² ,2019
+"280,000","2/716 Macauley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,191m² ,28 May 2019
+"235,000","10/634 Loma Place,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,104m² ,26 Apr 2019
+"171,000","2/610 Stanley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,110m² ,23 Apr 2019
+"150,000","1/697 David Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,81m² ,13 Mar 2019
+"186,000 ","2/750 Macauley Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,116m² ,06 Mar 2019
+"280,000","3/684 Dean Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,766m² ,2019
+"320,000","4/684 Dean Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,766m² ,2019
+"410,000 ","614 Sackville Street,",ALBURY NSW 2640,Vacant land,1,1,1,"1,195m² ",08 Feb 2019
+"197,000 ","23/611 Kiewa Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,"1,698m² ",29 Jan 2019
+"155,000 ","2/312 Smith Street,",ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,90m² ,28 Nov 2018
+"350,000 ","2/584 Thurgoona Street,",ALBURY NSW 2640,Townhouse,3,1,1,300m² ,0 Oct 2018
+"185,000 ","6 Rosella Ridge,",ALBURY NSW 2640,Vacant land,0,0,0,862m² ,06 Jul 2018
+"435,000","814 Padman Drive,",ALBURY NSW 2640,Vacant land,1,1,1,"2,023m² ",29 Jun 2018
+"435,000","25 Maryland Way,",ALBURY NSW 2640,Vacant land,0,0,0,500m² ,13 Jun 2018
+"700,000","2/553 Smollett Street,",ALBURY NSW 2640,Apartment / Unit / Flat,3,2,2,225m² ,21 May 2018
+"210,000","2/597 Paine Street,",ALBURY NSW 2640,Vacant land,0,0,0,466m² ,03 May 2018
+"510,000","2/537 Kiewa Place,",ALBURY NSW 2640,Townhouse,3,2,2,669m² ,2018
+"275,000","1/32 Briwood Court,",ALBURY NSW 2640,Townhouse,3,1,2,532m² ,19 Mar 2018
+"215,000","2/215 Kiewa Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,307m² ,01 Mar 2018
+"260,000 ","2/810 GAP ROAD,",ALBURY NSW 2640,Townhouse,2,1,1,258m² ,16 Feb 2018
+"250,000 ","1/332 BORELLA ROAD,",ALBURY NSW 2640,Townhouse,2,1,1,345m² ,23 Jan 2018
+"297,500","158 Bungowannah Road,",ALBURY NSW 2640,Vacant land,0,0,0,0,08 Dec 2017
+"100,000","2/691 Holmwood Cross,",ALBURY NSW 2640,Vacant land,0,0,0,454m² ,15 Sep 2017
+"310,000 ","2/939 Malaguena Avenue,",ALBURY NSW 2640,Townhouse,2,1,2,295m² ,22 Aug 2017
+"460,000","805 Frauenfelder Street,",ALBURY NSW 2640,Townhouse,4,2,2,448m² ,2017
+"430,000","3/402 David St,",ALBURY NSW 2640,Townhouse,2,1,2,246m² ,22 Jun 2017
+"495,000 ","1-4/190 Kiewa Street,",ALBURY NSW 2640,Block of units,8,4,4,771m² ,04 May 2017
+"236,000","7/560 Wyse Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,128m² ,11 Apr 2017
+"450,000","3/368 David St,",ALBURY NSW 2640,Townhouse,3,2,2,330m² ,07 Mar 2017
+"587,500 ","548 David Street,",ALBURY NSW 2640,Townhouse,2,3,1,125m² ,22 Feb 2017
+"390,000","614 Sackville Street,",ALBURY NSW 2640,Vacant land,0,0,0,"1,191m² ",02 Jan 2017
+"575,000 ","1-3/601 Jones Street,",ALBURY NSW 2640,Apartment / Unit / Flat,4,3,3,933m² ,2016
+"540,000","3/623 Kiewa Street,",ALBURY NSW 2640,Townhouse,4,2,2,256m² ,22 Oct 2016
+"110,000 ","Lot 71 Driver Terrace,",ALBURY NSW 2640,Vacant land,0,0,0,674m² ,19 Sep 2016
+"180,000","15 Florence Crescent,",ALBURY NSW 2640,Vacant land,0,0,0,"1,115m² ",27 May 2016
+"605,000 ","478 Wodonga Place,",ALBURY NSW 2640,Townhouse,3,2,2,188m² ,25 May 2016
+"180,000","555 Roper Street,",ALBURY NSW 2640,Vacant land,0,0,0,"1,100m² ",04 May 2016
+"377,000","379 Amatex Street,",ALBURY NSW 2640,Townhouse,3,1,1,332m² ,22 Apr 2016
+"182,000","3/432 Olive Street,",ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,199m² ,30 Nov 2015
+"633,500 ","555 Victoria Street,",ALBURY NSW 2640,Townhouse,3,2,2,426m² ,2015
+"227,000 ","2/3 Highgrove Place,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,352m² ,2015
+"210,000 ","14/746 Wood Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,168m² ,03 Nov 2015
+"465,000 ","2/736 Peel Street,",ALBURY NSW 2640,Townhouse,3,2,3,361m² ,2015
+"386,000 ","2/506 Thurgoona St,",ALBURY NSW 2640,Apartment / Unit / Flat,3,1,1,334m² ,26 Sep 2015
+"142,000 ","3/729 Lavis Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,859m² ,07 Sep 2015
+"145,000 ","12 Beck Court,",ALBURY NSW 2640,Vacant land,0,0,0,"1,501m² ",14 Aug 2015
+"195,000 ","120 Alexandra Street,",ALBURY NSW 2640,Development site,0,0,0,"2,077m² ",30 Jul 2015
+"575,000 ","1 & 2/335 Cadell Street,",ALBURY NSW 2640,Townhouse,6,2,8,942m² ,08 Jul 2015
+"401,000 ","2/528 David Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,192m² ,2015
+"289,000 ","1/507 Cossor Street,",ALBURY NSW 2640,Townhouse,2,1,1,244m² ,17 Mar 2015
+"336,000 ","610 Elm Street,",ALBURY NSW 2640,Townhouse,2,1,2,352m² ,2015
+"409,500 ","2/681 Macauley Street,",ALBURY NSW 2640,Townhouse,3,2,2,573m² ,03 Mar 2015
+"17,000","5/312 Smith Street,",ALBURY NSW 2640,Vacant land,0,0,0,167m² ,06 Feb 2015
+"490,000 ","1/736 Peel Street,",ALBURY NSW 2640,Apartment / Unit / Flat,3,2,3,367m² ,16 Jan 2015
+"735,000 ","674 David Street,",ALBURY NSW 2640,Vacant land,0,0,0,"2,708m² ",2014
+"550,000 ","4/592A Kiewa Street,",ALBURY NSW 2640,Townhouse,3,2,2,295m² ,04 Dec 2014
+"445,000 ","304/669 Dean Street,",ALBURY NSW 2640,Apartment / Unit / Flat,1,1,2,112m² ,01 Dec 2014
+"300,000 ","1 & 2/959 Fairview Drive,",ALBURY NSW 2640,Apartment / Unit / Flat,4,2,2,597m² ,2014
+"222,000 ","1/464 Jamieson Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,155m² ,18 Sep 2014
+"220,000 ","4/515 Butson Avenue,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,209m² ,9 Aug 2014
+"410,000 ","1-4/365 Rau Street,",ALBURY NSW 2640,Apartment / Unit / Flat,4,4,4,"1,047m² ",2014
+"330,000 ","2/755 Fellowes Crescent,",ALBURY NSW 2640,Townhouse,3,1,2,743m² ,19 Aug 2014
+"185,000 ","12/611 Kiewa Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,"1,661m² ",10 Jun 2014
+"216,000 ","3/611 Olive Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,185m² ,3 Jun 2014
+"340,000 ","433 Smollett Street,",ALBURY NSW 2640,Vacant land,0,0,0,725m² ,30 May 2014
+"205,000","2/559 Roper Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,178m² ,16 May 2014
+"550,000","1/757 Peel Street,",ALBURY NSW 2640,Townhouse,4,2,2,330m² ,11 Apr 2014
+"470,000","12 Murray View Drive,",ALBURY NSW 2640,Vacant land,0,0,0,"9,992m² ",07 Apr 2014
+"175,000","15 Florence Crescent,",ALBURY NSW 2640,Vacant land,0,0,0,"1,115m² ",25 Mar 2014
+"42,000","10 Mulga Pl,",ALBURY NSW 2640,Vacant land,0,0,0,643m² ,20 Feb 2014
+"320,000","754 Forrest Hill Avenue,",ALBURY NSW 2640,Townhouse,3,2,1,580m² ,10 Feb 2014
+"280,000","3/733 Forrest Hill Avenue,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,358m² ,21 Jan 2014
+"360,000 ","424 Crisp Street,",ALBURY NSW 2640,Townhouse,2,2,1,250m² ,26 Nov 2013
+"410,000","2/553 Macauley Street,",ALBURY NSW 2640,Townhouse,3,2,2,209m² ,23 Oct 2013
+"52,500","153 Eastern Circuit,",ALBURY NSW 2640,Vacant land,0,0,0,664m² ,16 Sep 2013
+"212,000","1/380 Kiewa St,",ALBURY NSW 2640,Apartment / Unit / Flat,3,1,1,424m² ,28 Aug 2013
+"244,000 ","307 Wahroonga Road,",ALBURY NSW 2640,Townhouse,2,1,1,311m² ,10 Apr 2013
+"420,000","6/353 Kiewa Street,",ALBURY NSW 2640,Townhouse,3,2,2,333m² ,24 Jan 2013
+"215,000","1/746 Wood Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,148m² ,21 Dec 2012
+"255,000","2/448 David Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,252m² ,04 May 2012
+"350,000","Unit 2, 744 Jones Street,",ALBURY NSW 2640,Apartment / Unit / Flat,3,2,1,290m² ,13 Dec 2011
+"206,000","1/449 Hume Street,",ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,676m² ,15 Sep 2011
+"717,000 ","68 Rocky Hill Retreat,",WIRLINGA NSW 2640,Vacant land,0,0,0,0,23 Apr 2024
+"440,000 ","14 Sadie Lane,",SOUTH ALBURY NSW 2640,Vacant land,0,0,0,295m² ,7 Mar 2024
+"365,000 ","9 Liverpool Avenue,",ETTAMOGAH NSW 2640,Vacant land,0,0,0,"2,161m² ",26 Mar 2024
+"435,000","2/24 Tallowwood Street,",THURGOONA NSW 2640,Apartment / Unit / Flat,3,1,2,446m² ,13 Mar 2024
+"660,000 ","Lot 1/1018 Table Top Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,"20,900m² ",08 Mar 2024
+"320,000 ","30 Harrier Court,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,179m² ",05 Mar 2024
+"305,000 ","5/885 Chenery Street,",GLENROY NSW 2640,Apartment / Unit / Flat,2,1,1,173m² ,13 Feb 2024
+"1,950,000 ","1-5/17 Yalandra Court,",WEST ALBURY NSW 2640,Block of units,10,10,5,"2,789m² ",09 Feb 2024
+"335,000","5/283 Weidner Crescent,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,113m² ,05 Feb 2024
+"860,000","733 East Street,",EAST ALBURY NSW 2640,Block of units,8,4,4,916m² ,23 Jan 2024
+"700,000 ","138 Old Sydney Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,"20,234m² ",12 Jan 2024
+"335,000 ","43 Kurrajong Crescent,",WEST ALBURY NSW 2640,Townhouse,2,1,1,263m² ,22 Dec 2023
+"279,000 ","4/658 Wilkinson Street,",GLENROY NSW 2640,Apartment / Unit / Flat,2,1,1,174m² ,13 Dec 2023
+"230,000 ","2/411 Macauley Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,75m² ,04 Dec 2023
+"360,000","46 Tweed Court,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,504m² ",04 Dec 2023
+"665,000","49 Rocky Hill Retreat,",WIRLINGA NSW 2640,Vacant land,0,0,0,"102,587m² ",04 Dec 2023
+"2,400,000","40 Sargeant Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,"410,000m² ",24 Nov 2023
+"240,000 ","4/199 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,107m² ,09 Nov 2023
+"280,000","44 Clare Circuit,",THURGOONA NSW 2640,Vacant land,0,0,0,"3,279m² ",25 Oct 2023
+"480,000","30 Willhaven Lane,",TABLE TOP NSW 2640,Vacant land,0,0,0,"33,000m² ",24 Oct 2023
+"575,000","105 Rosedale Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,"104,000m² ",16 Oct 2023
+"290,000 ","3/148 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,116m² ,12 Oct 2023
+"195,000 ","11 Wirrang Street,",THURGOONA NSW 2640,Vacant land,0,0,0,450m² ,21 Sep 2023
+"575,000","1/3 Maynet Place,",WEST ALBURY NSW 2640,Townhouse,3,2,2,634m² ,15 Sep 2023
+"260,000 ","1/653 Ryan Road,",GLENROY NSW 2640,Apartment / Unit / Flat,2,1,1,201m² ,14 Sep 2023
+"200,000 ","2285 Wymah Road,",WYMAH NSW 2640,Vacant land,0,0,0,"4,046m² ",12 Sep 2023
+"200,000 ","13 Wirrang Street,",THURGOONA NSW 2640,Vacant land,0,0,0,482m² ,11 Sep 2023
+"380,000 ","1/312 Smith Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,3,1,1,184m² ,06 Sep 2023
+"437,500","214 Olive Street,",SOUTH ALBURY NSW 2640,Vacant land,0,0,0,980m² ,23 Aug 2023
+"400,000","488 Schubach Street,",EAST ALBURY NSW 2640,Vacant land,0,0,0,678m² ,2023
+"370,000 ","33 Kurrajong Crescent,",WEST ALBURY NSW 2640,Townhouse,3,1,3,318m² ,09 Aug 2023
+"320,000 ","7/195 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,169m² ,31 Jul 2023
+"305,000","5/300 Norfolk Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,158m² ,26 Jul 2023
+"925,000 ","214 Plummer Street,",SOUTH ALBURY NSW 2640,Block of units,4,4,3,758m² ,24 Jul 2023
+"555,000","1/342 Norfolk Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,374m² ,13 Jul 2023
+"550,000","27 Bellenya Drive,",SPLITTERS CREEK NSW 2640,Vacant land,0,0,0,"20,234m² ",11 Jul 2023
+"385,000 ","2/743 Ryan Road,",GLENROY NSW 2640,Townhouse,2,1,2,184m² ,04 Jul 2023
+"320,000 ","1/1013 Wewak Street,",NORTH ALBURY NSW 2640,Townhouse,3,1,1,284m² ,13 Jun 2023
+"705,000","184 Pastoral Lane,",WIRLINGA NSW 2640,Vacant land,0,0,0,"100,100m² ",08 Jun 2023
+"160,000 ","251 Swan Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,746m² ,06 Jun 2023
+"310,000 ","1/731 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,123m² ,05 Jun 2023
+"400,000","1/120 Bilba Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,215m² ,5 May 2023
+"180,000 ","825/Lot 825 Mitchell Park Estate,",THURGOONA NSW 2640,Vacant land,0,0,0,788m² ,19 May 2023
+"112,000 ","3/7 Severin Court,",THURGOONA NSW 2640,Apartment / Unit / Flat,1,1,1,"7,662m² ",18 May 2023
+"201,000","40 Mulgara Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,670m² ,15 May 2023
+"215,000 ","19 Bowerbird Court,",THURGOONA NSW 2640,Vacant land,0,0,0,547m² ,11 May 2023
+"340,000","6 Briggs Court,",WEST ALBURY NSW 2640,Vacant land,0,0,0,"1,169m² ",11 May 2023
+"409,000 ","7/464 Jamieson Street,",EAST ALBURY NSW 2640,Townhouse,2,1,1,"1,640m² ",09 May 2023
+"400,000","129 Sunrise Terrace,",EAST ALBURY NSW 2640,Vacant land,0,0,0,"1,720m² ",08 May 2023
+"305,000 ","4/481 Hanel Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,184m² ,05 May 2023
+"250,000 ","34 Yulambang Drive,",WIRLINGA NSW 2640,Vacant land,0,0,0,880m² ,27 Apr 2023
+"270,000 ","4/142 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,162m² ,19 Apr 2023
+"230,000 ","1/1066 Mate Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,148m² ,18 Apr 2023
+"200,000 ","1081 Bardia Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,721m² ,14 Apr 2023
+"170,000 ","234 Swan Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,626m² ,16 Mar 2023
+"235,000 ","2/193 Union Road,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,79m² ,07 Mar 2023
+"695,000 ","247 Pastoral Lane,",WIRLINGA NSW 2640,Vacant land,0,0,0,0,28 Feb 2023
+"695,000 ","99 Phillips Street,",GLENROY NSW 2640,Vacant land,0,0,0,0,20 Feb 2023
+"238,000 ","1/940 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,99m² ,10 Feb 2023
+"390,000 ","2/1 Hugh Court,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,365m² ,06 Feb 2023
+"700,000","450 Nurigong Street,",SOUTH ALBURY NSW 2640,Block of units,6,3,3,673m² ,23 Dec 2022
+"415,000","7 Lakeview Drive,",TABLE TOP NSW 2640,Vacant land,0,0,0,"5,287m² ",22 Dec 2022
+"345,000","2/643 Keene Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,229m² ,21 Dec 2022
+"220,000 ","4/1068 Barooga Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,139m² ,21 Dec 2022
+"355,000 ","27 Oriole St,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,416m² ",20 Dec 2022
+"990,000","1098 Hovell Road,",MOORWATHA NSW 2640,Vacant land,0,0,0,0,2022
+"260,000 ","821/14 Bowerbird Court,",THURGOONA NSW 2640,Vacant land,0,0,0,614m² ,16 Dec 2022
+"686,000 ","256 Pastoral Lane,",WIRLINGA NSW 2640,Vacant land,0,0,0,"101,171m² ",12 Dec 2022
+"345,000","3/1059 CALIMO STREET,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,223m² ,09 Dec 2022
+"400,000","125 Sunrise Terrace,",EAST ALBURY NSW 2640,Vacant land,0,0,0,"1,691m² ",28 Nov 2022
+"240,000","16 Chatterton Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,732m² ,28 Nov 2022
+"237,000 ","6/367 Fallon Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,65m² ,17 Nov 2022
+"400,000 ","4/120 Alexandra Street,",EAST ALBURY NSW 2640,Townhouse,2,1,1,349m² ,12 Nov 2022
+"273,000 ","827/19 Nightjar Court,",THURGOONA NSW 2640,Vacant land,0,0,0,624m² ,09 Nov 2022
+"475,000 ","1/370 Townsend Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,3,1,1,426m² ,08 Nov 2022
+"510,000 ","31 Stirling Way,",THURGOONA NSW 2640,Vacant land,0,0,0,"3,188m² ",07 Nov 2022
+"890,000 ","483 Hanel Street,",EAST ALBURY NSW 2640,Block of units,7,4,7,997m² ,2022
+"210,000 ","3/531 Abercorn Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,766m² ,06 Oct 2022
+"350,000 ","1/330 Weidner Crescent,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,173m² ,27 Sep 2022
+"320,000 ","306 Wantigong Street,",NORTH ALBURY NSW 2640,Townhouse,2,1,1,420m² ,26 Sep 2022
+"660,000 ","1/358 Rau Street,",EAST ALBURY NSW 2640,Townhouse,2,2,1,261m² ,21 Sep 2022
+"275,000 ","1/237 Gulpha Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,703m² ,20 Sep 2022
+"220,000","5/1060 Caratel Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,"2,430m² ",08 Sep 2022
+"270,000","12 Eisenhauer Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,646m² ,08 Sep 2022
+"675,000","54 Rocky Hill Retreat,",WIRLINGA NSW 2640,Vacant land,0,0,0,"111,800m² ",06 Sep 2022
+"241,100 ","2/481 Hill Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,116m² ,23 Aug 2022
+"320,000","2/1013 Wewak Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,"1,347m² ",12 Aug 2022
+"1,260,000","365 Kiewa Street,",SOUTH ALBURY NSW 2640,Block of units,10,10,−,"1,577m² ",2022
+"280,000","3/698 Lavis Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,249m² ,29 Jul 2022
+"210,000 ","Lot 54 Hume Country Heights Estate,",GLENROY NSW 2640,Vacant land,0,0,0,524m² ,25 Jul 2022
+"300,000","89 Fenchurch Drive,",ETTAMOGAH NSW 2640,Vacant land,0,0,0,"1,516m² ",21 Jul 2022
+"279,000 ","58 Eisenhauer Dr (Lot 45),",THURGOONA NSW 2640,Vacant land,0,0,0,638m² ,15 Jul 2022
+"175,000","3/695 Lavis Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,102m² ,13 Jul 2022
+"165,000","5/989 Sylvania Avenue,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,77m² ,08 Jul 2022
+"180,000 ","73 Potoroo Avenue,",THURGOONA NSW 2640,Vacant land,0,0,0,659m² ,04 Jul 2022
+"293,000 ","26 Harrier Court,",THURGOONA NSW 2640,Vacant land,0,0,0,964m² ,24 Jun 2022
+"450,000","4/965 Burrows Road,",GLENROY NSW 2640,Townhouse,3,2,3,796m² ,17 Jun 2022
+"300,000","8/519 Schubach Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,106m² ,2022
+"812,000 ","1-4/194 Kiewa Street,",SOUTH ALBURY NSW 2640,Block of units,4,4,4,759m² ,2022
+"155,000 ","10 Mulga Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,643m² ,18 May 2022
+"131,000 ","599 Kurnell St,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,598m² ,05 May 2022
+"1,070,000","217 Splitters Creek Road,",SPLITTERS CREEK NSW 2640,Vacant land,0,0,0,"171,700m² ",2022
+"401,000 ","1/23 Crawshaw Crescent,",GLENROY NSW 2640,Townhouse,3,1,1,315m² ,2022
+"367,500 ","2/76 Western View Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,852m² ,07 Apr 2022
+"240,000 ","1053 MATE STREET,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,800m² ,01 Apr 2022
+"367,500 ","2/76 Western View Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,852m² ,30 Mar 2022
+"649,000 ","408 Macauley Street,",SOUTH ALBURY NSW 2640,Vacant land,0,0,0,835m² ,22 Mar 2022
+"352,000 ","1/921 Fairview Drive,",NORTH ALBURY NSW 2640,Townhouse,2,1,2,346m² ,18 Mar 2022
+"360,000 ","35 Dunne Crescent,",THURGOONA NSW 2640,Townhouse,2,1,1,346m² ,18 Mar 2022
+"285,000 ","119 Riverboat Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,031m² ",17 Mar 2022
+"372,800 ","11/833 Watson Street,",GLENROY NSW 2640,Townhouse,2,1,1,346m² ,11 Mar 2022
+"415,000 ","33 Dunne Crescent,",THURGOONA NSW 2640,Townhouse,3,1,2,577m² ,10 Mar 2022
+"285,000 ","119 Riverboat Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,031m² ",03 Mar 2022
+"230,000 ","12 Blakleys Cct,",THURGOONA NSW 2640,Vacant land,0,0,0,642m² ,03 Mar 2022
+"359,000 ","25 Barling Walk,",EAST ALBURY NSW 2640,Vacant land,0,0,0,676m² ,25 Feb 2022
+"285,000 ","47 Fairway Gardens Rd,",THURGOONA NSW 2640,Vacant land,0,0,0,889m² ,21 Feb 2022
+"260,000 ","12 Mclaren Boulevard,",THURGOONA NSW 2640,Vacant land,0,0,0,952m² ,2022
+"390,000","6 Briggs Court,",WEST ALBURY NSW 2640,Vacant land,0,0,0,"1,169m² ",2022
+"667,000 ","1-4/353 Buckingham Street,",NORTH ALBURY NSW 2640,Block of units,6,4,4,702m² ,02 Feb 2022
+"560,000 ","1/11 Southern View Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,626m² ,25 Jan 2022
+"520,000 ","1033 Yensch Avenue,",NORTH ALBURY NSW 2640,Block of units,4,2,2,771m² ,17 Jan 2022
+"575,000 ","517 Abercorn Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,5,3,3,765m² ,17 Jan 2022
+"410,000 ","2/11 Swallow Street,",THURGOONA NSW 2640,Townhouse,3,1,1,323m² ,14 Jan 2022
+"295,000 ","12 Barilla Ct,",THURGOONA NSW 2640,Vacant land,− 0,− 0,2,949m² ,16 Dec 2021
+"1,650,000 ","785 Mate Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,"2,280m² ",2021
+"445,000 ","487 Hume Street,",SOUTH ALBURY NSW 2640,Townhouse,2,1,1,194m² ,30 Nov 2021
+"195,000","1/724 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,95m² ,22 Nov 2021
+"300,000 ","1/1013 Wewak Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,3,1,1,284m² ,10 Nov 2021
+"220,000 ","2/235 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,111m² ,03 Nov 2021
+"190,000 ","2/856 Padman Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,115m² ,02 Nov 2021
+"600,000 ","1 & 2/128 Alexandra Street,",EAST ALBURY NSW 2640,Block of units,4,2,3,860m² ,2021
+"198,000 ","42 Hume Country Heights Estate,",GLENROY NSW 2640,Vacant land,0,0,0,737m² ,28 Oct 2021
+"160,000 ","5/378 Fallon Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,76m² ,28 Oct 2021
+"190,000 ","Lot 48 Country Heights Estate,",GLENROY NSW 2640,Vacant land,0,0,0,631m² ,25 Oct 2021
+"330,000","2/259 Wantigong Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,989m² ,25 Oct 2021
+"330,000","2/259 Wantigong Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,989m² ,25 Oct 2021
+"140,000 ","4/737 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,920m² ,22 Oct 2021
+"310,000","1/978 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,4,2,2,788m² ,21 Oct 2021
+"650,000 ","357 Buckingham Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,8,4,4,701m² ,15 Oct 2021
+"400,000 ","717 Ryan Road,",GLENROY NSW 2640,New land,0,0,0,"1,069m² ",08 Oct 2021
+"430,000","1/46 Hotham Circuit,",THURGOONA NSW 2640,Townhouse,3,2,2,364m² ,24 Sep 2021
+"2,772,000","114 Sunrise Terrace,",EAST ALBURY NSW 2640,Vacant land,0,0,0,"78,400m² ",20 Sep 2021
+"114,000 ","10 Mulga Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,643m² ,14 Sep 2021
+"725,000","231 Kiewa Street,",SOUTH ALBURY NSW 2640,Vacant land,0,0,0,"3,743m² ",2021
+"255,000","1/206 PLUMMER STREET,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,190m² ,30 Aug 2021
+"315,000 ","919 Tullimbar Street,",NORTH ALBURY NSW 2640,Block of units,5,2,2,727m² ,27 Aug 2021
+"375,000","2/782 St James Crescent,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,240m² ,26 Aug 2021
+"352,000 ","5/362 Rau Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,595m² ,2021
+"422,000 ","1076 Alemein Avenue,",NORTH ALBURY NSW 2640,Townhouse,3,2,2,389m² ,13 Aug 2021
+"295,000","1/576 Ebden Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,116m² ,13 Aug 2021
+"635,000 ","3832 Riverina Highway,",BUNGOWANNAH NSW 2640,Vacant land,0,0,0,"87,000m² ",29 Jul 2021
+"238,000 ","16 CHATTERTON PLACE,",WEST ALBURY NSW 2640,Vacant land,0,0,0,732m² ,29 Jul 2021
+"279,000","35 Kurrajong Crescent,",WEST ALBURY NSW 2640,Townhouse,3,1,1,296m² ,26 Jul 2021
+"277,500 ","577 Burma Rd,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,000m² ",2021
+"430,000 ","203/31 Stirling Way,",THURGOONA NSW 2640,Vacant land,0,0,0,"3,188m² ",23 Jul 2021
+"535,000 ","1/358 Rau Street,",EAST ALBURY NSW 2640,Townhouse,2,2,1,261m² ,2021
+"930,000 ","356 Kenilworth Street,",EAST ALBURY NSW 2640,Block of units,6,4,4,607m² ,08 Jul 2021
+"423,000 ","3/318 Norfolk Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,326m² ,2021
+"185,000 ","5 Eisenhauer Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,839m² ,01 Jul 2021
+"395,000","385 Day Street,",WEST ALBURY NSW 2640,Vacant land,0,0,0,839m² ,23 Jun 2021
+"126,000 ","898 Burrows Rd,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,691m² ,16 Jun 2021
+"240,000","15 Coventry Street,",ETTAMOGAH NSW 2640,Vacant land,0,0,0,"1,691m² ",26 May 2021
+"935,000 ","21 Briwood Court,",WEST ALBURY NSW 2640,Block of units,7,6,5,"1,217m² ",25 May 2021
+"880,000 ","1 - 4/404 Schubach Street,",EAST ALBURY NSW 2640,Block of units,8,4,4,829m² ,2021
+"680,000 ","49 Claremont Place,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,11 May 2021
+"450,000 ","2/849 Pemberton Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,247m² ,10 May 2021
+"850,000 ","1-6/379 Tarakan Avenue,",NORTH ALBURY NSW 2640,Block of units,9,6,5,"1,043m² ",2021
+"230,000 ","2/992 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,283m² ,07 May 2021
+"320,000 ","2/6 Prujoy Place,",WEST ALBURY NSW 2640,Townhouse,2,1,2,435m² ,04 May 2021
+"270,000","2/15 Wattle Way,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,454m² ,31 Mar 2021
+"95,000 ","153 Eastern Circuit,",EAST ALBURY NSW 2640,Vacant land,0,0,0,664m² ,22 Mar 2021
+"205,000","2/536 TARA AVENUE,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,112m² ,03 Mar 2021
+"317,500","1/851 Emerson Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,2,752m² ,02 Mar 2021
+"317,500","1/851 Emerson Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,2,752m² ,02 Mar 2021
+"290,000","1/361 Bellevue Street,",NORTH ALBURY NSW 2640,Townhouse,2,1,1,301m² ,24 Feb 2021
+"520,000","1089 Table Top Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,24 Feb 2021
+"120,000 ","55 Driver Terrace,",GLENROY NSW 2640,Vacant land,0,0,0,724m² ,09 Feb 2021
+"73,000 ","556 Resolution Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,760m² ,09 Feb 2021
+"178,000 ","3/658 Wilkinson Street,",GLENROY NSW 2640,Apartment / Unit / Flat,2,1,1,174m² ,05 Feb 2021
+"268,000 ","156 Hotham Circuit,",THURGOONA NSW 2640,Apartment / Unit / Flat,2,1,1,278m² ,05 Feb 2021
+"152,500 ","1/728 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,85m² ,28 Jan 2021
+"219,000","4/283 Weidner Crescent,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,113m² ,21 Jan 2021
+"168,000 ","3/148 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,116m² ,23 Dec 2020
+"300,000","99 Pickworth Street,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,023m² ",22 Dec 2020
+"162,000 ","7 Yurana Street,",THURGOONA NSW 2640,New land,0,0,0,873m² ,21 Dec 2020
+"222,000 ","6 Briggs Court,",WEST ALBURY NSW 2640,Vacant land,0,0,0,"1,169m² ",18 Dec 2020
+"145,000 ","4/228 Olive Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,113m² ,15 Dec 2020
+"930,000","113 Forest Drive,",THURGOONA NSW 2640,Vacant land,4,3,5,"1,779m² ",15 Dec 2020
+"75,000","10 Mulga Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,643m² ,07 Dec 2020
+"678,000 ","372 David Street,",SOUTH ALBURY NSW 2640,Block of units,4,2,2,762m² ,2020
+"97,000 ","14 Mulga Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,985m² ,30 Nov 2020
+"66,000","5 Cyprus Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,649m² ,04 Nov 2020
+"66,000","7 Cyprus Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,782m² ,04 Nov 2020
+"105,000 ","1012 Barooga Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,895m² ,28 Oct 2020
+"400,000 ","1 - 4/2 Alemein Court,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,6,4,4,822m² ,21 Oct 2020
+"155,000 ","1053 Mate Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,800m² ,20 Oct 2020
+"155,000","21 Muster Court,",THURGOONA NSW 2640,Vacant land,0,0,0,767m² ,16 Oct 2020
+"155,000","21 Muster Court,",THURGOONA NSW 2640,Vacant land,0,0,0,767m² ,16 Oct 2020
+"334,500 ","2/52 Mountford Crescent,",EAST ALBURY NSW 2640,Townhouse,3,2,1,317m² ,09 Oct 2020
+"98,000 ","140 Emma Way,",GLENROY NSW 2640,Vacant land,0,0,0,"1,317m² ",30 Sep 2020
+"119,000","147 Stanton Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,558m² ,23 Sep 2020
+"210,000 ","Lot 318/27 Oriole Street,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,416m² ",18 Sep 2020
+"365,000 ","2/364 Kenilworth Street,",EAST ALBURY NSW 2640,Townhouse,3,1,2,489m² ,10 Sep 2020
+"405,000 ","302 Richland Place,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,08 Sep 2020
+"292,000 ","1/511 Butson Avenue,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,221m² ,26 Aug 2020
+"112,000 ","72 Bartholomew Street,",GLENROY NSW 2640,Vacant land,0,0,0,"1,972m² ",19 Aug 2020
+"370,000 ","301 Sunnyside Place,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,10 Aug 2020
+"180,000 ","Lot 285/31 Friarbird Way,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,305m² ",04 Aug 2020
+"150,000","85 Smiggins Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,709m² ,31 Jul 2020
+"352,500 ","1/42 Hotham Circuit,",THURGOONA NSW 2640,Townhouse,3,2,2,374m² ,29 Jul 2020
+"249,000","25 Barling Walk,",EAST ALBURY NSW 2640,Vacant land,0,0,0,676m² ,30 Jun 2020
+"105,000 ","1/847 Miller Street,",WEST ALBURY NSW 2640,Vacant land,0,0,0,488m² ,24 Jun 2020
+"185,000 ","119 Riverboat Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,031m² ",22 Jun 2020
+"173,000","74 Alpine Street,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,102m² ",19 May 2020
+"180,000 ","3/988 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,2,2,500m² ,18 May 2020
+"167,500 ","5/883 Padman Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,143m² ,24 Feb 2020
+"205,000 ","2/496 Hill Street,",WEST ALBURY NSW 2640,Townhouse,2,1,1,141m² ,20 Feb 2020
+"492,000 ","1-4/183 Union Road,",NORTH ALBURY NSW 2640,Block of units,8,4,4,720m² ,04 Feb 2020
+"100,000 ","305 Tulla Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,714m² ,31 Jan 2020
+"129,000","854 Lamport Crescent,",WEST ALBURY NSW 2640,Vacant land,0,0,0,476m² ,15 Jan 2020
+"510,000 ","6 & 6a Meander Street,",THURGOONA NSW 2640,Block of units,5,3,2,685m² ,20 Dec 2019
+"230,000 ","2/737 Lavis Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,368m² ,19 Dec 2019
+"120,000 ","23 Lankester Court,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,025m² ",10 Dec 2019
+"160,000 ","2/206 Plummer Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,138m² ,27 Nov 2019
+"370,000 ","Lot 871 Alexandra Way,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,2019
+"185,000","46 Tweed Court,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,504m² ",07 Nov 2019
+"197,000 ","2/975 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,237m² ,06 Nov 2019
+"241,000 ","15/833 Watson Street,",GLENROY NSW 2640,Townhouse,2,1,1,310m² ,01 Nov 2019
+"190,000 ","1/406 Schubach Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,122m² ,28 Oct 2019
+"177,000 ","3/734 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,148m² ,03 Oct 2019
+"160,000","2/948 Waugh Road,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,100m² ,02 Oct 2019
+"129,000 ","1/728 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,85m² ,30 Sep 2019
+"182,000 ","5/885 Chenery Street,",GLENROY NSW 2640,Apartment / Unit / Flat,2,1,1,173m² ,19 Sep 2019
+"396,000 ","327A Macauley Street,",SOUTH ALBURY NSW 2640,Townhouse,3,2,2,626m² ,2019
+"125,000 ","41 Barnett Avenue,",THURGOONA NSW 2640,Vacant land,0,0,0,850m² ,02 Sep 2019
+"257,500","3/140 Benyon Street,",EAST ALBURY NSW 2640,Townhouse,2,1,1,357m² ,28 Aug 2019
+"113,000","5/1040 Corella Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,82m² ,16 Aug 2019
+"520,000 ","1 &amp; 2/265 Mount Street,",EAST ALBURY NSW 2640,Block of units,5,2,2,648m² ,13 Aug 2019
+"470,000 ","1 & 2/23 SEVERIN COURT,",THURGOONA NSW 2640,Apartment / Unit / Flat,5,2,3,875m² ,02 Aug 2019
+"545,000 ","353 Rau Street,",EAST ALBURY NSW 2640,Block of units,6,3,4,"1,056m² ",2019
+"272,500 ","2/377 Woodstock Ct,",EAST ALBURY NSW 2640,Townhouse,2,1,1,313m² ,01 Jul 2019
+"77,500 ","949 Mate Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,373m² ,24 Jun 2019
+"215,000","2/213 Union Road,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,359m² ,23 May 2019
+"115,000","3/378 Fallon Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,76m² ,22 May 2019
+"145,000 ","67 Yirang Road,",THURGOONA NSW 2640,Vacant land,0,0,0,918m² ,19 Apr 2019
+"345,000","2 Hereford Court,",THURGOONA NSW 2640,Townhouse,3,2,2,362m² ,15 Mar 2019
+"195,000 ","1478 Table Top Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,001m² ",09 Mar 2019
+"106,000 ","9 Crawford Circuit,",GLENROY NSW 2640,Vacant land,0,0,0,582m² ,13 Feb 2019
+"220,000","847 Mate Street,",NORTH ALBURY NSW 2640,Townhouse,3,1,2,865m² ,22 Jan 2019
+"139,500","3/730 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,76m² ,17 Jan 2019
+"172,500 ","360 Stephen Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,701m² ,2018
+"350,000","3/430 Buckingham Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,3,2,2,270m² ,13 Dec 2018
+"212,000","1/1059 Calimo Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,4,1,1,386m² ,04 Dec 2018
+"270,000 ","30 Kakadu Court,",THURGOONA NSW 2640,Vacant land,0,0,0,"2,423m² ",20 Nov 2018
+"147,500","3/148 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,"1,091m² ",16 Nov 2018
+"415,000","1/849 Pemberton Street,",WEST ALBURY NSW 2640,Townhouse,3,2,2,270m² ,31 Oct 2018
+"85,000 ","59 Jacaranda Street,",WEST ALBURY NSW 2640,Vacant land,0,0,0,945m² ,29 Oct 2018
+"221,500 ","1/953 Pemberton Street,",WEST ALBURY NSW 2640,Townhouse,3,1,1,358m² ,12 Oct 2018
+"241,000 ","6/829 Watson Street,",GLENROY NSW 2640,Townhouse,2,1,1,366m² ,09 Oct 2018
+"270,000 ","2/13 Heppner Ct,",THURGOONA NSW 2640,Townhouse,3,1,3,635m² ,26 Sep 2018
+"345,000 ","2/15 Willhaven Lane,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,19 Sep 2018
+"135,000 ","2 Barnett Avenue,",THURGOONA NSW 2640,Vacant land,0,0,0,822m² ,18 Sep 2018
+"1,050,000","188 Kywanna Road,",WIRLINGA NSW 2640,Vacant land,0,0,0,0,13 Sep 2018
+"196,000","4/406 Schubach Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,265m² ,12 Sep 2018
+"105,000","2/353 Olive Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,676m² ,04 Sep 2018
+"120,000","9 Rosella Ridge,",EAST ALBURY NSW 2640,Vacant land,0,0,0,941m² ,21 Aug 2018
+"352,000 ","1/318 Norfolk Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,3,1,2,315m² ,2018
+"195,000","15 Florence Crescent,",WEST ALBURY NSW 2640,Vacant land,0,0,0,"1,115m² ",02 Aug 2018
+"185,000 ","569 Burma Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,042m² ",01 Aug 2018
+"255,000 ","1/484 Regina Avenue,",NORTH ALBURY NSW 2640,Townhouse,2,1,2,440m² ,30 Jul 2018
+"160,000","9 Slattery Place,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,097m² ",25 Jul 2018
+"635,000 ","1 - 2/12 Willern Court,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,5,3,3,"1,060m² ",29 Jun 2018
+"179,100 ","3/698 Lavis Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,249m² ,06 Jun 2018
+"552,000 ","202 Kiewa Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,8,4,4,758m² ,18 May 2018
+"245,000","184 Mountford Crescent,",EAST ALBURY NSW 2640,Vacant land,0,0,0,"3,986m² ",14 May 2018
+"179,000 ","1/988 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,96m² ,10 May 2018
+"170,000 ","2/988 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,96m² ,04 May 2018
+"247,000 ","5/228 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,221m² ,30 Apr 2018
+"435,000 ","1-3/517 Abercorn Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,5,3,3,765m² ,27 Apr 2018
+"175,000 ","3/988 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,118m² ,19 Apr 2018
+"168,000 ","4/336 Weidner Crescent,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,108m² ,18 Apr 2018
+"127,500 ","1/724 East Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,205m² ,17 Apr 2018
+"195,000","3 Marnic Court,",EAST ALBURY NSW 2640,Vacant land,0,0,0,973m² ,0 Apr 2018
+"520,000 ","1-4/487 Mott Street,",WEST ALBURY NSW 2640,Block of units,6,4,4,715m² ,28 Mar 2018
+"232,000 ","1/10 Harvey Court,",GLENROY NSW 2640,Apartment / Unit / Flat,2,1,2,369m² ,01 Mar 2018
+"215,000 ","1/17 Kurrajong Crescent,",WEST ALBURY NSW 2640,Townhouse,2,1,2,311m² ,26 Feb 2018
+"157,500 ","866 Padman Drive,",WEST ALBURY NSW 2640,Vacant land,0,0,0,940m² ,29 Jan 2018
+"174,000 ","29 Grandview Terrace,",EAST ALBURY NSW 2640,Vacant land,0,0,0,"1,014m² ",22 Jan 2018
+"148,000","63 Felstead Circuit,",THURGOONA NSW 2640,Vacant land,0,0,0,680m² ,06 Dec 2017
+"265,000 ","2/529 Union Road,",NORTH ALBURY NSW 2640,Townhouse,2,1,1,322m² ,04 Dec 2017
+"238,000 ","16/674 Hodge Street,",GLENROY NSW 2640,Townhouse,2,1,1,309m² ,27 Nov 2017
+"235,000 ","385 Day Street,",WEST ALBURY NSW 2640,Vacant land,0,0,0,839m² ,2017
+"130,000 ","1/202 Cadell Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,106m² ,20 Nov 2017
+"265,000","1/376 Rau Street,",EAST ALBURY NSW 2640,Townhouse,2,1,1,599m² ,2017
+"119,900 ","216 Kiewa Street,",SOUTH ALBURY NSW 2640,Vacant land,0,0,0,608m² ,20 Oct 2017
+"175,000 ","19 Coola Court,",TABLE TOP NSW 2640,Vacant land,0,0,0,"8,480m² ",11 Oct 2017
+"320,000 ","1075 Table Top Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,07 Sep 2017
+"139,000 ","3/1068 Barooga Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,142m² ,16 Aug 2017
+"225,000","5/362 Rau Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,594m² ,15 Aug 2017
+"430,000","63 Jas Bell Drive,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,2017
+"455,000 ","356 Kenilworth Street,",EAST ALBURY NSW 2640,Block of units,6,4,4,607m² ,2017
+"330,000 ","1/933 Malaguena Avenue,",GLENROY NSW 2640,Townhouse,3,2,2,278m² ,11 Jul 2017
+"117,000 ","10 Rosella Ridge,",EAST ALBURY NSW 2640,Vacant land,0,0,0,917m² ,22 Jun 2017
+"247,000 ","1/498 Thorold Street,",WEST ALBURY NSW 2640,Townhouse,2,1,1,155m² ,30 May 2017
+"695,000 ","1-4/452 Kokoda Street,",NORTH ALBURY NSW 2640,Block of units,10,4,4,"1,151m² ",03 Apr 2017
+"134,000","1 Jackies Rest,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,645m² ,28 Mar 2017
+"111,000 ","86 Chad Terrace,",GLENROY NSW 2640,Vacant land,0,0,0,"1,103m² ",20 Mar 2017
+"543,600 ","1 - 4/225 Cadell Street,",EAST ALBURY NSW 2640,Block of units,6,4,4,941m² ,17 Mar 2017
+"247,000","50 Gould Avenue,",WEST ALBURY NSW 2640,Vacant land,0,0,0,"1,001m² ",06 Mar 2017
+"125,000","4/481 Hill Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,94m² ,24 Feb 2017
+"360,000 ","1&2/329 Wantigong Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,4,2,2,847m² ,31 Jan 2017
+"175,000 ","Lot 366/120 Sunrise Terrace,",EAST ALBURY NSW 2640,Vacant land,0,0,0,"1,105m² ",27 Jan 2017
+"107,000 ","2/377 Allawah Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,112m² ,20 Jan 2017
+"134,000","3/148 Alexandra Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,116m² ,19 Dec 2016
+"345,000 ","1/232 Rivergum Drive,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,3,2,2,352m² ,01 Dec 2016
+"132,000","107 St Andrews Circ,",THURGOONA NSW 2640,Vacant land,0,0,0,892m² ,16 Nov 2016
+"270,000 ","2/26 Tallow Wood Street,",THURGOONA NSW 2640,Townhouse,3,1,2,322m² ,03 Nov 2016
+"307,000 ","1/6 Southernview Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,4,2,2,633m² ,03 Nov 2016
+"330,000 ","1 - 2, 279 Kooba Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,5,2,2,752m² ,01 Nov 2016
+"137,500","6 PAPERBARK COURT,",THURGOONA NSW 2640,Vacant land,0,0,0,734m² ,28 Oct 2016
+"142,000 ","1/1068 Barooga Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,3,1,1,278m² ,20 Oct 2016
+"285,000","5/782 St James Crescent,",NORTH ALBURY NSW 2640,Townhouse,2,2,2,231m² ,2016
+"237,850 ","1/1 Tambo Court,",THURGOONA NSW 2640,Apartment / Unit / Flat,2,1,1,534m² ,05 Oct 2016
+"225,000 ","583 Cattlin Avenue,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,3,2,4,702m² ,19 Sep 2016
+"242,000 ","1/853 Emerson Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,205m² ,12 Sep 2016
+"295,000 ","1/22 Ibis Close,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,415m² ,02 Sep 2016
+"225,000","6/498 Thorold Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,257m² ,02 Sep 2016
+"195,000","58 Corriedale Court,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,666m² ",30 Aug 2016
+"580,000 ","1 & 2/3 Charolais Court,",THURGOONA NSW 2640,Townhouse,6,4,4,761m² ,17 Aug 2016
+"100,000 ","6 Lara Lakes Estate,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,929m² ",29 Jul 2016
+"260,000 ","1008-b Mate Street,",NORTH ALBURY NSW 2640,Townhouse,3,2,2,450m² ,14 Jul 2016
+"359,000","104 Alexandra Way,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,2016
+"146,000 ","4/312 Smith St,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,100m² ,17 Jun 2016
+"275,000","2/24 Tallow Wood Street,",THURGOONA NSW 2640,Townhouse,3,1,2,446m² ,03 Jun 2016
+"53,000 ","10 Mulga Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,643m² ,18 May 2016
+"112,500 ","7 Lara Lakes Estate,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,084m² ",20 Apr 2016
+"53,000 ","14 Mulga Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,986m² ,14 Mar 2016
+"198,000","483 Hovell Street,",SOUTH ALBURY NSW 2640,Vacant land,0,0,0,"1,156m² ",09 Mar 2016
+"550,000 ","39 Bucklen Rest,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,29 Jan 2016
+"218,000 ","2/19 Kurrajong Crescent,",WEST ALBURY NSW 2640,Townhouse,2,1,3,"1,031m² ",11 Jan 2016
+"140,000 ","200 Kosciuszko Road,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,227m² ",29 Dec 2015
+"130,000 ","30 Dwyer Place,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,049m² ",23 Dec 2015
+"485,000 ","937 Fairview Drive,",NORTH ALBURY NSW 2640,Block of units,8,4,4,953m² ,22 Dec 2015
+"100,000","285 Kooba Street,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,807m² ,22 Dec 2015
+"335,000","31 Gale Court,",THURGOONA NSW 2640,Vacant land,0,0,0,"4,348m² ",19 Dec 2015
+"110,000 ","991 Fairview Drive,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,752m² ,10 Dec 2015
+"166,500 ","4/881 Padman Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,132m² ,26 Nov 2015
+"60,000","4 Mulga Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,601m² ,17 Nov 2015
+"376,000 ","79 Barwonga Drive,",SPLITTERS CREEK NSW 2640,Vacant land,0,0,0,0,2015
+"185,000 ","112 Rosedale Drive,",WEST ALBURY NSW 2640,Vacant land,0,0,0,991m² ,04 Nov 2015
+"115,000 ","1/16 Lara Lake Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,153m² ",12 Oct 2015
+"469,000 ","1 & 2/2 Arthur Worsley Court,",GLENROY NSW 2640,Block of units,6,4,2,892m² ,02 Oct 2015
+"469,000","3A Cameron Court,",WEST ALBURY NSW 2640,Townhouse,3,2,2,516m² ,16 Sep 2015
+"250,000 ","Lot/49 Mcleod Court,",WEST ALBURY NSW 2640,Vacant land,0,0,0,"2,699m² ",18 Aug 2015
+"185,000 ","16/9 Clive Court,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,403m² ",17 Aug 2015
+"390,000","350 East Street,",EAST ALBURY NSW 2640,Vacant land,0,0,0,"4,624m² ",14 Aug 2015
+"226,000","123 Alexandra Way,",TABLE TOP NSW 2640,Vacant land,0,0,0,"8,441m² ",26 Jun 2015
+"99,500 ","Lot/78 Warrenlee Drive,",WEST ALBURY NSW 2640,Vacant land,0,0,0,460m² ,17 Jun 2015
+"55,000","898 Burrows Road,",NORTH ALBURY NSW 2640,Vacant land,0,0,0,691m² ,04 May 2015
+"196,000","1/128 Bilba Street,",EAST ALBURY NSW 2640,Townhouse,2,1,1,349m² ,01 Apr 2015
+"279,500","63 Norman Way,",THURGOONA NSW 2640,Townhouse,2,1,2,415m² ,19 Mar 2015
+"270,000 ","Lot/978 Table Top Road,",TABLE TOP NSW 2640,Vacant land,0,0,0,0,26 Feb 2015
+"185,000","3/220 Cadell Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,133m² ,16 Feb 2015
+"149,000 ","6/613 Keene Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,70m² ,20 Jan 2015
+"95,000 ","2/229 Cadell Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,76m² ,09 Jan 2015
+"100,000","4A Ronald Place,",EAST ALBURY NSW 2640,Vacant land,0,0,0,435m² ,19 Dec 2014
+"180,000 ","1/935 Chenery Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,170m² ,12 Dec 2014
+"206,000 ","3 Deakin Place,,",THURGOONA NSW 2640,Vacant land,0,0,0,"2,068m² ",03 Nov 2014
+"162,000","3/406 Schubach Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,98m² ,30 Oct 2014
+"280,000 ","Lot/Lot 107 Stoneleigh Lane,",SPLITTERS CREEK NSW 2640,Vacant land,0,0,0,0,22 Oct 2014
+"550,000 ","1-7/375 Union Road,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,12,7,7,"1,733m² ",14 Oct 2014
+"130,000 ","5 Lara Lake Estate,",TABLE TOP NSW 2640,Vacant land,0,0,0,"4,060m² ",25 Sep 2014
+"120,000","5/1009 Wewak Street,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,76m² ,15 Sep 2014
+"180,000 ","52 Fairway Gardens Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,"1,150m² ",04 Sep 2014
+"227,000","1/851 Emerson Street,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,260m² ,06 Aug 2014
+"140,000","2/733 Lavis Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,125m² ,25 Jul 2014
+"185,000","2/982 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,2,1,131m² ,15 Jul 2014
+"112,000","2/856 Padman Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,1,1,1,115m² ,09 Jul 2014
+"160,000","1/956 Fairview Drive,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,198m² ,26 Jun 2014
+"264,000","2/239 Alexandra Street,",EAST ALBURY NSW 2640,Townhouse,3,1,2,364m² ,24 Jun 2014
+"125,000","161 Rivergum Drive,",EAST ALBURY NSW 2640,Vacant land,0,0,0,800m² ,20 May 2014
+"195,000","3/122 Borella Road,",EAST ALBURY NSW 2640,Townhouse,2,1,1,290m² ,20 May 2014
+"180,000","2/818 Elmore St,",NORTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,2,621m² ,02 May 2014
+"110,000","7 Redbox Drive,",THURGOONA NSW 2640,Vacant land,0,0,0,683m² ,15 Apr 2014
+"65,000","891 Howe Place,",GLENROY NSW 2640,Vacant land,0,0,0,892m² ,20 Mar 2014
+"55,000","577 Matra Place,",GLENROY NSW 2640,Vacant land,0,0,0,626m² ,20 Mar 2014
+"55,000","891 Bateman Place,",GLENROY NSW 2640,Vacant land,0,0,0,662m² ,20 Mar 2014
+"55,000","564 Green Place,",GLENROY NSW 2640,Vacant land,0,0,0,682m² ,20 Mar 2014
+"57,000","3 Myrtle Street,",WEST ALBURY NSW 2640,Vacant land,0,0,0,604m² ,20 Mar 2014
+"222,000 ","2/500 Hanel Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,"1,243m² ",04 Dec 2013
+"57,500","2 Cyprus Place,",WEST ALBURY NSW 2640,Vacant land,0,0,0,612m² ,29 Oct 2013
+"299,000 ","385 Schubach Street,",EAST ALBURY NSW 2640,Townhouse,3,2,1,322m² ,01 Oct 2013
+"155,000","35 Grandview Terrace,",EAST ALBURY NSW 2640,Vacant land,0,0,0,919m² ,12 Aug 2013
+"172,500","29 Greentree Way,",WEST ALBURY NSW 2640,Vacant land,0,0,0,"1,525m² ",03 Jul 2013
+"93,000","8 Myall Ct,",THURGOONA NSW 2640,Vacant land,0,0,0,758m² ,20 May 2013
+"275,000","1/6 Southernview Drive,",WEST ALBURY NSW 2640,Apartment / Unit / Flat,3,2,2,633m² ,15 Feb 2013
+"59,000","1 Myrtle Street,",WEST ALBURY NSW 2640,Vacant land,0,0,0,615m² ,30 Jan 2013
+"50,000","898 Burrows Road,",GLENROY NSW 2640,Vacant land,0,0,0,691m² ,11 Jan 2013
+"143,750","3/220 Cadell Street,",EAST ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,133m² ,04 Jun 2012
+"97,000","1/209 Plummer Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,73m² ,27 Apr 2012
+"97,000","1/209 Plummer Street,",SOUTH ALBURY NSW 2640,Apartment / Unit / Flat,2,1,1,73m² ,27 Apr 2012
+"238,000","1/82 Hotham Cct,",THURGOONA NSW 2640,Townhouse,2,1,1,343m² ,17 Feb 2012
+"238,000","2/82 Hotham Cct,",THURGOONA NSW 2640,Townhouse,2,1,1,710m² ,02 Feb 2012
+"59,000","7 (lot 609), Cyprus Pl,",WEST ALBURY NSW 2640,Vacant land,0,0,0,782m² ,24 Nov 2010
+"155,000","1/738 Lavis Street,",EAST ALBURY NSW 2640,Townhouse,2,1,1,121m² ,05 Feb 2010
+"214,000 ","260/19 Pierson Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,594m² ,15 Apr 2024
+"219,000 ","234/6 Juckert Road,",LENEVA VIC 3691,Vacant land,0,0,0,644m² ,15 Apr 2024
+"185,000 ","247/11 Swanick Street,",LENEVA VIC 3691,Vacant land,0,0,0,512m² ,09 Apr 2024
+"235,000 ","47 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,613m² ,05 Apr 2024
+"185,000 ","245/15 Swanick Street,",LENEVA VIC 3691,Vacant land,0,0,0,512m² ,02 Apr 2024
+"206,000 ","244/17 Swanick Street,",LENEVA VIC 3691,Vacant land,0,0,0,572m² ,02 Apr 2024
+"185,000 ","246/13 Swanick Street,",LENEVA VIC 3691,Vacant land,0,0,0,512m² ,02 Apr 2024
+"290,000 ","274/118 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,102m² ",23 Feb 2024
+"303,000 ","53 Ponting Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,896m² ,13 Feb 2024
+"600,000 ","15 Chester Circuit,",HUON CREEK VIC 3691,Vacant land,0,0,0,"4,072m² ",13 Dec 2023
+"205,000 ","5 Barnes Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,718m² ,04 Dec 2023
+"389,000 ","265/7 Fairfax Close,",LENEVA VIC 3691,Vacant land,0,0,0,"1,749m² ",01 Dec 2023
+"220,000 ","123/19 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,726m² ,20 Nov 2023
+"365,000","8 Edmunds Place,",LENEVA VIC 3691,Vacant land,0,0,0,"1,933m² ",16 Nov 2023
+"225,000 ","138/14 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,684m² ,06 Nov 2023
+"252,500 ","3 Fairfax Close,",LENEVA VIC 3691,Vacant land,0,0,0,813m² ,31 Oct 2023
+"215,000 ","122/6 Davidson Road,",LENEVA VIC 3691,Vacant land,0,0,0,640m² ,05 Oct 2023
+"240,000 ","252/16 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,798m² ,28 Sep 2023
+"217,800 ","118/40 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,640m² ,18 Sep 2023
+"236,000 ","Lot 421/35 Westacott Crescent,",BARANDUDA VIC 3691,Vacant land,0,0,0,705m² ,04 Sep 2023
+"215,000 ","121/4 Davidson Road,",LENEVA VIC 3691,Vacant land,0,0,0,640m² ,04 Sep 2023
+"225,000 ","131/3 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,22 Aug 2023
+"262,000 ","16 Perkins Street,",KILLARA VIC 3691,Vacant land,0,0,0,806m² ,26 Jul 2023
+"230,000 ","28 Wintersun Parade,",BANDIANA VIC 3691,Vacant land,0,0,0,711m² ,17 Jul 2023
+"600,000 ","3405 Murray Valley Highway,",BONEGILLA VIC 3691,Vacant land,0,0,0,"2,464m² ",17 Jul 2023
+"420,000 ","10 Rainbird Circuit,",HUON CREEK VIC 3691,Vacant land,0,0,0,"2,052m² ",27 Jun 2023
+"230,000 ","6 Bay Court,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,828m² ,27 Jun 2023
+"110,000 ","2 Armstrong Street,",BETHANGA VIC 3691,Vacant land,0,0,0,"1,405m² ",16 Jun 2023
+"250,000 ","141/21 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,802m² ,14 Jun 2023
+"235,000 ","147/7 Davidson Road,",LENEVA VIC 3691,Vacant land,0,0,0,751m² ,13 Jun 2023
+"272,000 ","262/4 Fairfax Close,",LENEVA VIC 3691,Vacant land,0,0,0,971m² ,08 Jun 2023
+"170,000 ","48 Hurley Circuit,",BARANDUDA VIC 3691,Vacant land,0,0,0,373m² ,02 Jun 2023
+"185,000 ","132/144 Streets Road,",LENEVA VIC 3691,Vacant land,0,0,0,518m² ,30 May 2023
+"215,000 ","124/17 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,640m² ,29 May 2023
+"454,545 ","Lot 7 Allan Crescent,",BELLBRIDGE VIC 3691,Vacant land,0,0,0,"4,637m² ",26 May 2023
+"260,000 ","257/17 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,898m² ,12 May 2023
+"270,000 ","249/10 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,950m² ,21 Apr 2023
+"255,000 ","250/12 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,878m² ,13 Apr 2023
+"250,000 ","1 Benjamin Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,"1,219m² ",04 Apr 2023
+"310,000 ","146/9 Davidson Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,051m² ",26 Mar 2023
+"670,000 ","Lot 1/127 Chapples Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,2023
+"225,000 ","136/10 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,22 Mar 2023
+"265,000","4 SKYLILLY LANE,",BANDIANA VIC 3691,Vacant land,0,0,0,727m² ,17 Mar 2023
+"245,000 ","239/72 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,843m² ,16 Mar 2023
+"220,000 ","140/18 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,670m² ,08 Mar 2023
+"225,000 ","135/8 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,01 Mar 2023
+"225,000 ","130/5 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,01 Mar 2023
+"269,500 ","105/9 Todd Circuit,",LENEVA VIC 3691,Vacant land,0,0,0,898m² ,27 Feb 2023
+"217,800 ","117/38 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,640m² ,22 Feb 2023
+"232,100 ","132/7 Frichot Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,717m² ,16 Feb 2023
+"225,000 ","126/13 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,16 Feb 2023
+"275,000 ","2 Mountain Circuit,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,"1,018m² ",16 Feb 2023
+"269,000 ","18 Hurley Circuit,",BARANDUDA VIC 3691,Vacant land,0,0,0,753m² ,13 Feb 2023
+"233,200 ","109/5 Frichot Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,698m² ,12 Feb 2023
+"217,800 ","119/42 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,640m² ,10 Feb 2023
+"236,500 ","111/26 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,10 Feb 2023
+"236,500 ","112/28 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,10 Feb 2023
+"251,900 ","108/3 Frichot Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,810m² ,07 Feb 2023
+"235,000 ","148/5 Davidson Road,",LENEVA VIC 3691,Vacant land,0,0,0,764m² ,07 Feb 2023
+"285,000 ","247/6 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,177m² ",04 Feb 2023
+"225,000 ","134/6 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,03 Feb 2023
+"236,500 ","113/30 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,02 Feb 2023
+"236,500 ","115/34 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,02 Feb 2023
+"236,500 ","114/32 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,02 Feb 2023
+"236,500 ","116/36 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,02 Feb 2023
+"225,000 ","127/11 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,31 Jan 2023
+"240,000 ","145/8 Davidson Road,",LENEVA VIC 3691,Vacant land,0,0,0,769m² ,31 Jan 2023
+"236,500 ","110/24 Jennings Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,31 Jan 2023
+"225,000 ","128/9 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,704m² ,31 Jan 2023
+"250,000 ","142/23 Ridley Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,820m² ,25 Jan 2023
+"275,000 ","Lot 242/138 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,989m² ,18 Jan 2023
+"240,000 ","3 Armstrong Street,",BETHANGA VIC 3691,Vacant land,0,0,0,"6,323m² ",12 Jan 2023
+"273,900 ","133/9 Frichot Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,905m² ,28 Dec 2022
+"400,000","4 McEwen Street,",BETHANGA VIC 3691,Vacant land,0,0,0,0,21 Dec 2022
+"245,000 ","Lot 283/121 Streets Road,",LENEVA VIC 3691,Vacant land,0,0,0,760m² ,12 Dec 2022
+"236,500 ","106/7 Todd Circuit,",LENEVA VIC 3691,Vacant land,0,0,0,706m² ,15 Nov 2022
+"232,100 ","107/5 Todd Circuit,",LENEVA VIC 3691,Vacant land,0,0,0,694m² ,15 Nov 2022
+"295,000","2 Taylor Court,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,"1,194m² ",24 Oct 2022
+"950,000 ","Lot 2/143 Chapples Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,22 Oct 2022
+"853,000 ","Lot 9/3 Apple Box Court,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,2022
+"692,000 ","Lot 3/2 Apple Box Court,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,22 Oct 2022
+"698,000 ","Lot 4/4 Apple Box Court,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,22 Oct 2022
+"750,000 ","Lot 7/7 Apple Box Court,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,2022
+"680,000 ","Lot 5/6 Apple Box Court,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,22 Oct 2022
+"450,000 ","32 Arwon Road,",HUON CREEK VIC 3691,Vacant land,0,0,0,"2,007m² ",05 Oct 2022
+"220,000 ","5 Mountain Circuit,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,799m² ,01 Sep 2022
+"250,000 ","226/5 Salisbury Road,",LENEVA VIC 3691,Vacant land,0,0,0,740m² ,30 Aug 2022
+"309,000 ","52 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,189m² ",29 Aug 2022
+"400,000","30 CRAIG DRIVE,",BELLBRIDGE VIC 3691,Vacant land,0,0,0,827m² ,11 Aug 2022
+"117,000 ","3992 Murray Valley Hwy,",BERRINGAMA VIC 3691,Vacant land,0,0,0,0,2022
+"282,000 ","274/118 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,102m² ",06 Jul 2022
+"285,000 ","263/6 Fairfax Close,",LENEVA VIC 3691,Vacant land,0,0,0,"1,167m² ",03 Jun 2022
+"160,000","6 Banfeld Street,",BETHANGA VIC 3691,Vacant land,0,0,0,"3,121m² ",01 Jun 2022
+"260,000 ","35 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,952m² ,30 May 2022
+"260,000 ","23 Starbush Road,",BANDIANA VIC 3691,Vacant land,0,0,0,899m² ,18 May 2022
+"350,000 ","8 Edmunds Place,",LENEVA VIC 3691,Vacant land,0,0,0,"1,933m² ",22 Apr 2022
+"293,000 ","264/8 Fairfax Close,",LENEVA VIC 3691,Vacant land,0,0,0,"1,324m² ",15 Feb 2022
+"285,000 ","241/76 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,"1,178m² ",09 Feb 2022
+"280,000 ","272/122 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,034m² ",09 Feb 2022
+"222,000 ","231/142 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,157m² ",03 Feb 2022
+"270,000 ","282/46 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,952m² ,03 Feb 2022
+"225,000 ","256/19 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,696m² ,02 Feb 2022
+"220,000 ","278/47 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,01 Feb 2022
+"250,000 ","261/2 Fairfax Close,",LENEVA VIC 3691,Vacant land,0,0,0,862m² ,01 Feb 2022
+"315,000 ","60 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,377m² ",27 Jan 2022
+"285,000 ","4 Waverley Road,",LENEVA VIC 3691,Vacant land,0,0,0,825m² ,25 Jan 2022
+"227,000 ","285/37 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,654m² ,14 Jan 2022
+"230,000 ","255/157 Streets Road,",LENEVA VIC 3691,Vacant land,0,0,0,718m² ,22 Dec 2021
+"240,000 ","253/18 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,798m² ,20 Dec 2021
+"240,000 ","251/14 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,798m² ,17 Dec 2021
+"272,000 ","240/74 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,970m² ,17 Dec 2021
+"220,000 ","275/53 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,17 Dec 2021
+"280,000 ","271/124 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,034m² ",16 Dec 2021
+"242,000 ","267/3 Fairfax Close,",LENEVA VIC 3691,Vacant land,0,0,0,813m² ,16 Dec 2021
+"285,000 ","258/15 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,166m² ",15 Dec 2021
+"277,000 ","260/11 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,999m² ,15 Dec 2021
+"282,000 ","269/128 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,123m² ",15 Dec 2021
+"275,000 ","244/134 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,987m² ,15 Dec 2021
+"287,000 ","248/8 Pound Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,193m² ",15 Dec 2021
+"220,000 ","280/43 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,14 Dec 2021
+"280,000 ","270/126 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,034m² ",14 Dec 2021
+"275,000 ","243/136 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,897m² ,14 Dec 2021
+"275,000 ","245/132 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,987m² ,14 Dec 2021
+"225,000 ","286/35 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,636m² ,14 Dec 2021
+"220,000 ","276/51 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,14 Dec 2021
+"280,000 ","273/120 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,"1,034m² ",14 Dec 2021
+"245,000 ","238/70 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,832m² ,14 Dec 2021
+"220,000 ","279/45 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,14 Dec 2021
+"220,000 ","277/49 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,14 Dec 2021
+"430,000 ","79 Talgarno Gap Road,",BETHANGA VIC 3691,Vacant land,0,0,0,0,25 Nov 2021
+"450,000 ","2/1 Verbena Street,",BARANDUDA VIC 3691,Townhouse,3,2,2,288m² ,24 Nov 2021
+"190,000 ","5 Summit Drive,",BANDIANA VIC 3691,Vacant land,0,0,0,722m² ,21 Nov 2021
+"175,000 ","Talgarno Gap Road,",BETHANGA VIC 3691,Vacant land,0,0,0,0,18 Nov 2021
+"187,000 ","224/146 Burnham Road,",LENEVA VIC 3691,Vacant land,0,0,0,847m² ,17 Nov 2021
+"317,010 ","5 Jubilee Road,",LENEVA VIC 3691,Vacant land,0,0,0,967m² ,08 Nov 2021
+"423,000","1/1 Verbena Street,",BARANDUDA VIC 3691,Townhouse,3,1,2,310m² ,04 Nov 2021
+"300,000 ","29C Mullins Road,",KILLARA VIC 3691,Apartment / Unit / Flat,2,1,2,429m² ,24 Oct 2021
+"305,000","30 CRAIG DRIVE,",BELLBRIDGE VIC 3691,Vacant land,0,0,0,827m² ,27 Sep 2021
+"227,500","6 MCSWINEY COURT,",LENEVA VIC 3691,Vacant land,0,0,0,800m² ,01 Sep 2021
+"780,000 ","5 Possum Place,",BARANDUDA VIC 3691,Vacant land,5,2,2,"9,004m² ",16 Jul 2021
+"170,000 ","4 Skylilly Lane,",BANDIANA VIC 3691,Vacant land,0,0,0,727m² ,20 May 2021
+"335,000 ","13 Archer Circuit,",HUON CREEK VIC 3691,New land,0,0,0,"2,195m² ",25 Mar 2021
+"149,000","26 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,858m² ,17 Mar 2021
+"469,000 ","12 Queensberry Road,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,23 Feb 2021
+"217,000 ","281/41 Southgate Drive,",LENEVA VIC 3691,Vacant land,0,0,0,281m² ,16 Jan 2021
+"177,000 ","21 Callus Street,",KILLARA VIC 3691,New land,0,0,0,755m² ,11 Jan 2021
+"152,000 ","104/39 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,"1,005m² ",16 Dec 2020
+"207,000 ","144 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,197m² ",09 Nov 2020
+"200,000","13 Dempster Place,",LENEVA VIC 3691,Vacant land,0,0,0,"1,248m² ",05 Nov 2020
+"133,000 ","39/20 Edgar Road,",LENEVA VIC 3691,Vacant land,0,0,0,574m² ,05 Nov 2020
+"135,000 ","106/25 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,501m² ,26 Oct 2020
+"159,000 ","4 Dempster Place,",LENEVA VIC 3691,New land,0,0,0,877m² ,26 Oct 2020
+"160,000 ","13 Devitt Way,",KILLARA VIC 3691,Vacant land,0,0,0,645m² ,29 Sep 2020
+"132,000 ","105/12 Pearce Street,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,775m² ,25 Sep 2020
+"130,000 ","85/17 Baker Street,",KIEWA VIC 3691,Vacant land,0,0,0,787m² ,22 Sep 2020
+"205,000 ","138 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,193m² ",16 Sep 2020
+"190,000 ","139 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,106m² ",03 Sep 2020
+"182,000 ","136 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,988m² ,28 Aug 2020
+"135,000 ","72/14 Baker Street,",KIEWA VIC 3691,Vacant land,0,0,0,866m² ,21 Aug 2020
+"135,000 ","55/12 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,608m² ,05 Aug 2020
+"134,000 ","68/13 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,586m² ,04 Aug 2020
+"135,000 ","58/14 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,608m² ,03 Aug 2020
+"134,000 ","73/6 Canon Street,",LENEVA VIC 3691,Vacant land,0,0,0,582m² ,27 Jul 2020
+"335,000 ","362 Wises Creek Road,",TALGARNO VIC 3691,Vacant land,0,0,0,0,23 Jul 2020
+"137,000 ","71/16 Baker Street,",KIEWA VIC 3691,Vacant land,0,0,0,882m² ,22 Jul 2020
+"365,000","631 Osbornes Flat Road,",OSBORNES FLAT VIC 3691,Vacant land,0,0,0,0,22 Jul 2020
+"134,000 ","106/11 Pearce Street,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,799m² ,20 Jul 2020
+"137,000 ","111/24 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,838m² ,20 Jul 2020
+"128,000 ","56/13 Griffiths Road,",KIEWA VIC 3691,Vacant land,0,0,0,825m² ,16 Jul 2020
+"126,000 ","90/1 Kidman Drive,",KIEWA VIC 3691,Vacant land,0,0,0,720m² ,15 Jul 2020
+"134,000 ","67/11 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,587m² ,15 Jul 2020
+"143,000 ","91/2 Kidman Drive,",KIEWA VIC 3691,Vacant land,0,0,0,980m² ,13 Jul 2020
+"139,000 ","3/39 Davis Court,",KIEWA VIC 3691,Vacant land,0,0,0,"1,000m² ",13 Jul 2020
+"135,000 ","107/13 Pearce Street,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,834m² ,13 Jul 2020
+"141,000 ","111/32 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,591m² ,10 Jul 2020
+"130,000 ","10 McSwiney Court,",LENEVA VIC 3691,Vacant land,0,0,0,946m² ,07 Jul 2020
+"135,000 ","59/20 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,608m² ,07 Jul 2020
+"120,000 ","30/8 Collette Court,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,907m² ,30 Jun 2020
+"142,000 ","63/12 Jackman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,"1,050m² ",30 Jun 2020
+"133,000 ","53/6 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,573m² ,29 Jun 2020
+"147,000 ","101/33 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,958m² ,29 Jun 2020
+"134,000 ","50/14 Jackman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,949m² ,29 Jun 2020
+"145,000 ","103/37 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,927m² ,29 Jun 2020
+"134,000 ","69/15 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,586m² ,25 Jun 2020
+"144,000 ","64/5 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,690m² ,25 Jun 2020
+"151,000 ","100/74 Highcliffe Road,",LENEVA VIC 3691,Vacant land,0,0,0,668m² ,24 Jun 2020
+"145,000 ","126/8 Queensberry Road,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,24 Jun 2020
+"133,000 ","71/19 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,586m² ,24 Jun 2020
+"147,000 ","102/35 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,958m² ,23 Jun 2020
+"146,000 ","98/27 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,939m² ,22 Jun 2020
+"163,000 ","89/74 Dwyer Avenue,",LENEVA VIC 3691,Vacant land,0,0,0,766m² ,21 Jun 2020
+"124,000 ","6/2 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,982m² ,21 Jun 2020
+"165,000 ","507/24 Callus Street,",KILLARA VIC 3691,Vacant land,0,0,0,753m² ,20 Jun 2020
+"145,000 ","125/6 Queensberry Road,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,20 Jun 2020
+"149,000 ","139/42 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,638m² ,20 Jun 2020
+"137,000 ","110/26 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,838m² ,20 Jun 2020
+"134,000 ","92/3 Kidman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,800m² ,19 Jun 2020
+"123,000 ","7/1 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,977m² ,19 Jun 2020
+"143,000 ","110/30 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,595m² ,17 Jun 2020
+"137,000 ","109/28 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,838m² ,16 Jun 2020
+"149,000 ","97/25 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,977m² ,12 Jun 2020
+"137,000 ","108/30 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,838m² ,12 Jun 2020
+"143,000 ","93/5 Kidman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,902m² ,09 Jun 2020
+"147,000 ","100/31 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,958m² ,09 Jun 2020
+"137,000 ","112/22 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,838m² ,09 Jun 2020
+"129,000 ","15/57 Griffiths Road,",KIEWA VIC 3691,Vacant land,0,0,0,840m² ,03 Jun 2020
+"153,000 ","101/76 Highcliffe Road,",LENEVA VIC 3691,Vacant land,0,0,0,668m² ,27 May 2020
+"147,000 ","99/29 Gibson Boulevard,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,958m² ,22 May 2020
+"154,000 ","96/4 Kidman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,"1,067m² ",21 May 2020
+"153,000 ","102/78 Highcliffe Road,",LENEVA VIC 3691,Vacant land,0,0,0,669m² ,18 May 2020
+"149,000 ","17 Sargeant Street,",KILLARA VIC 3691,Vacant land,0,0,0,725m² ,15 May 2020
+"154,000 ","95/6 Kidman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,"1,067m² ",14 May 2020
+"325,000 ","15 Ellerslie Court,",STAGHORN FLAT VIC 3691,Vacant land,0,0,0,0,06 Apr 2020
+"145,000 ","118/6 Fivefields Road,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,03 Apr 2020
+"143,000 ","109/28 Hampshire Boulevard,",LENEVA VIC 3691,Vacant land,0,0,0,595m² ,01 Apr 2020
+"175,000 ","103/80 Highcliffe Road,",LENEVA VIC 3691,Vacant land,0,0,0,882m² ,31 Mar 2020
+"134,000 ","44/26 Jackman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,955m² ,16 Mar 2020
+"131,000 ","65/8 Jackman Drive,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,900m² ,04 Mar 2020
+"132,000 ","54/8 Cromwell Road,",LENEVA VIC 3691,Vacant land,0,0,0,617m² ,28 Feb 2020
+"152,000 ","78/3 Baker Street,",KIEWA VIC 3691,Vacant land,0,0,0,"1,197m² ",27 Feb 2020
+"145,000 ","120/10 Fivefields Road,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,27 Feb 2020
+"145,000 ","121/5 Queensberry Road,",LENEVA VIC 3691,Vacant land,0,0,0,612m² ,24 Feb 2020
+"156,000 ","104/82 Highcliffe Road,",LENEVA VIC 3691,Vacant land,0,0,0,709m² ,17 Feb 2020
+"137,000 ","74/10 Baker Street,",KIEWA VIC 3691,Vacant land,0,0,0,870m² ,10 Jan 2020
+"190,000 ","141 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,072m² ",20 Dec 2019
+"208,000 ","13A Dempster Place,",LENEVA VIC 3691,Vacant land,0,0,0,"1,423m² ",09 Dec 2019
+"340,000 ","Lot 21/214 Mahon Lane,",OSBORNES FLAT VIC 3691,Vacant land,0,0,0,0,08 Nov 2019
+"275,000 ","1/8 Murra Court,",KIEWA VIC 3691,Apartment / Unit / Flat,2,1,2,334m² ,22 Oct 2019
+"1,030,000 ","3/677 Lake Road,",BETHANGA VIC 3691,Vacant land,0,0,0,0,2019
+"185,000 ","140 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,015m² ",16 Sep 2019
+"129,000 ","Lot 69 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,664m² ,08 Jul 2019
+"129,000 ","Lot 69 Baldock Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,746m² ,28 Jun 2019
+"135,000 ","Lot 78 Baldock Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,"1,004m² ",04 Jun 2019
+"130,000 ","Lot 44 Bertrand Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,637m² ,28 May 2019
+"130,000 ","Lot 36 Ponting Place,",BARANDUDA VIC 3691,Vacant land,0,0,0,669m² ,10 May 2019
+"134,000 ","Lot 26 Bertrand Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,687m² ,03 May 2019
+"190,000 ","137 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,157m² ",02 May 2019
+"215,000 ","142 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,384m² ",01 May 2019
+"65,000 ","10 Beardmore Street,",BETHANGA VIC 3691,Vacant land,0,0,0,"1,400m² ",16 Apr 2019
+"430,000 ","Lot 42 Frederic Street Road,",LENEVA VIC 3691,Vacant land,0,0,0,0,25 Mar 2019
+"124,000 ","Lot 57 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,640m² ,21 Mar 2019
+"124,000 ","Lot 50 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,632m² ,08 Mar 2019
+"200,000 ","143 Timberline Trail,",BANDIANA VIC 3691,Vacant land,0,0,0,"1,107m² ",04 Mar 2019
+"151,000 ","88/18 Gibson Boulevard,",KIEWA VIC 3691,Vacant land,0,0,0,"1,122m² ",13 Jan 2019
+"133,000 ","Lot 82 Baldock Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,704m² ,14 Dec 2018
+"110,000 ","Kurrajong Gap Road,",BETHANGA VIC 3691,Vacant land,0,0,0,0,07 Dec 2018
+"130,000 ","Lot 12 Skylilly Lane,",BANDIANA VIC 3691,Vacant land,0,0,0,726m² ,17 Oct 2018
+"115,000 ","Lot 39 Opperman Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,563m² ,07 Sep 2018
+"149,000 ","Lot 56 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,956m² ,29 Aug 2018
+"160,000 ","7 Woodbridge Street,",KILLARA VIC 3691,Vacant land,0,0,0,708m² ,15 Aug 2018
+"126,420 ","Lot 42 Bertrand Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,637m² ,19 Jul 2018
+"140,000 ","Lot 33 Ponting Place,",BARANDUDA VIC 3691,Vacant land,0,0,0,463m² ,25 Jun 2018
+"136,710 ","Lot 35 Ponting Place,",BARANDUDA VIC 3691,Vacant land,0,0,0,703m² ,29 May 2018
+"129,000 ","Lot 71 Baldock Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,656m² ,18 May 2018
+"300,000 ","13 Beartooth Place,",TANGAMBALANGA VIC 3691,Vacant land,0,0,0,0,24 Apr 2018
+"130,000 ","Lot 11 Skylilly Lane,",BANDIANA VIC 3691,Vacant land,0,0,0,696m² ,22 Mar 2018
+"125,000 ","Lot 38 Opperman Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,659m² ,21 Mar 2018
+"125,000 ","Lot 70 Baldock Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,672m² ,05 Mar 2018
+"130,000 ","14 Arnica Circuit,",BARANDUDA VIC 3691,Vacant land,0,0,0,755m² ,06 Feb 2018
+"130,000 ","Lot 24 Rafter Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,584m² ,22 Dec 2017
+"369,000 ","334 Whytes Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,11 Dec 2017
+"140,000 ","Lot 22 Rafter Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,774m² ,04 Dec 2017
+"130,000 ","Lot 23 Rafter Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,591m² ,04 Dec 2017
+"132,000 ","4 Norman Lindsay Close,",BARANDUDA VIC 3691,Vacant land,0,0,0,766m² ,11 Nov 2017
+"145,000 ","Lot 30 Ponting Place,",BARANDUDA VIC 3691,Vacant land,0,0,0,748m² ,08 Nov 2017
+"129,000 ","Lot 63 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,701m² ,06 Nov 2017
+"129,000 ","Lot 74 Baldock Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,702m² ,06 Oct 2017
+"145,000 ","Lot 32 Ponting Place,",BARANDUDA VIC 3691,Vacant land,0,0,0,758m² ,28 Sep 2017
+"135,000 ","Lot 21 Ponting Place,",BARANDUDA VIC 3691,Vacant land,0,0,0,676m² ,06 Sep 2017
+"120,000 ","Lot 48 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,760m² ,04 Sep 2017
+"139,000 ","Lot 28 Opperman Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,845m² ,01 Sep 2017
+"125,000 ","Lot 58 Margaret Court Drive,",BARANDUDA VIC 3691,Vacant land,0,0,0,395m² ,01 Sep 2017
+"159,000 ","Lot 45 Bertrand Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,"1,009m² ",25 Aug 2017
+"129,000 ","Lot 62 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,702m² ,21 Aug 2017
+"110,000 ","43 (Lot 68) Rod Laver Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,464m² ,17 Aug 2017
+"97,000 ","11 Wintersun Parade,",BANDIANA VIC 3691,Vacant land,0,0,0,627m² ,02 Aug 2017
+"102,000 ","Lot 3 Kenneth Watson Drive,",BANDIANA VIC 3691,Vacant land,0,0,0,483m² ,21 Jul 2017
+"285,000","15 Ellerslie Court,",STAGHORN FLAT VIC 3691,Vacant land,0,0,0,0,18 Jul 2017
+"190,000 ","90 Flagstaff Road,",BETHANGA VIC 3691,Vacant land,0,0,0,0,12 Jul 2017
+"175,000 ","8 Hollow Street,",BETHANGA VIC 3691,Vacant land,0,0,0,0,08 Jul 2017
+"130,000 ","Lot 43 Opperman Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,645m² ,07 Jul 2017
+"125,000 ","Lot 26 Summit Drive,",BANDIANA VIC 3691,Vacant land,0,0,0,722m² ,28 Jun 2017
+"250,000 ","Lot 308 Blue Wren Es Howards Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,"4,048m² ",13 Apr 2017
+"159,000 ","Lot 46 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,"1,026m² ",06 Apr 2017
+"140,000 ","Lot 31 Ponting Place,",BARANDUDA VIC 3691,Vacant land,0,0,0,721m² ,31 Mar 2017
+"120,000 ","Lot 51 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,600m² ,22 Mar 2017
+"320,000 ","525 Whytes Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,24 Nov 2016
+"1,325,000 ",,BONEGILLA VIC 3691,Vacant land,0,0,0,0,2016
+"825,000 ",,BONEGILLA VIC 3691,Vacant land,0,0,0,0,2016
+"124,950 ","Lot 59 Rod Laver Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,720m² ,25 Aug 2016
+"94,950 ","Lot 58 Margaret Court Drive,",BARANDUDA VIC 3691,Vacant land,0,0,0,395m² ,25 Aug 2016
+"94,950 ","Lot 67 Rod Laver Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,399m² ,25 Aug 2016
+"235,000 ","Lot 308 Blue Wren Es Howards Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,"4,048m² ",12 Aug 2016
+"327,500","5 Bullington Way,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,22 Jul 2016
+"230,000 ","Lot 304 Blue Wren Es Howards Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,"4,524m² ",15 Jul 2016
+"240,000 ","Lot 305 Blue Wren Es Howards Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,"4,000m² ",30 Jun 2016
+"80,000","2 Ryder Lane,",KERGUNYAH SOUTH VIC 3691,Vacant land,0,0,0,"2,000m² ",08 Jun 2016
+"135,000 ","48 Lexcen Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,760m² ,05 May 2016
+"142,000 ","20/(67) Margaret Court Drive,",BARANDUDA VIC 3691,Vacant land,0,0,0,"1,055m² ",28 Apr 2016
+"232,000 ","1/8 Murra Court,",KIEWA VIC 3691,Townhouse,2,1,2,334m² ,11 Jan 2016
+"360,000 ","29/310 Whytes Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,2015
+"218,000","38 HILLANDALE COURT (Lot 9),",BONEGILLA VIC 3691,Vacant land,0,0,0,"4,014m² ",12 Oct 2015
+"242,000","32 Flynns Lane,",OSBORNES FLAT VIC 3691,Vacant land,0,0,0,0,19 Aug 2015
+"222,000 ","5B Hamilton Court,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,02 Jul 2015
+"126,000 ","Lot 35 Krueger Street,",BARANDUDA VIC 3691,Vacant land,0,0,0,"1,089m² ",20 Apr 2015
+"240,000 ","3/541 Whytes Road,",BARANDUDA VIC 3691,Vacant land,0,0,0,0,10 Mar 2015
+"85,000 ","20 Kiewa East Road,",KIEWA VIC 3691,Vacant land,0,0,0,950m² ,07 Feb 2014

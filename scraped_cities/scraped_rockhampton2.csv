@@ -1,0 +1,820 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"355,000 ","1 & 2/96 Alma Lane,",ROCKHAMPTON CITY QLD 4700,Block of units,3,2,2,164m² ,04 Dec 2023
+"94,000","76 Kent Street,",ROCKHAMPTON CITY QLD 4700,Vacant land,0,0,0,506m² ,19 Oct 2023
+"29,000 ","34 Cambridge Street,",ROCKHAMPTON CITY QLD 4700,Vacant land,0,0,0,402m² ,18 Sep 2023
+"540,000 ","105/102-108 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,−,208m² ,06 Sep 2023
+"429,000 ","307/102-108 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,−,112m² ,29 Aug 2023
+"230,000 ","6/104 Kent Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,1,1,81m² ,14 Aug 2023
+"230,000","6/104 KENT STREET,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,1,1,"1,012m² ",04 Aug 2023
+"835,000 ","101/58 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,2,2,236m² ,2023
+"530,000 ","104/102-108 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,−,171m² ,23 May 2023
+"720,000 ","501/6-8 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,2,2,165m² ,11 Apr 2023
+"445,000 ","102/102-108 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,−,145m² ,22 Mar 2023
+"620,000 ","1 & 2/131 Murray Street,",ROCKHAMPTON CITY QLD 4700,Block of units,6,2,4,"1,121m² ",20 Mar 2023
+"182,500 ","2/100 KENT STREET,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,1,2,80m² ,13 Mar 2023
+"249,000 ","63 to 65a GEORGE ST and 28 to 34 CAMBRIDGE ST,",ROCKHAMPTON CITY QLD 4700,Vacant land,0,0,0,"3,367m² ",10 Mar 2023
+"435,000 ","401/2-4 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,1,128m² ,17 Feb 2023
+"465,000 ","501/2-4 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,2,128m² ,09 Feb 2023
+"300,000 ","506/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,1,1,1,52m² ,25 Jan 2023
+"289,000 ","201/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,1,1,1,65m² ,23 Jan 2023
+"315,000 ","407/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,1,1,−,52m² ,13 Dec 2022
+"580,000 ","903/58 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,1,120m² ,02 Dec 2022
+"549,000 ","212/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,1,121m² ,01 Dec 2022
+"310,000 ","309/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,1,1,1,64m² ,27 Oct 2022
+"328,000 ","209/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,1,1,1,64m² ,06 Oct 2022
+"950,000 ","35 Alma Street,",ROCKHAMPTON CITY QLD 4700,Vacant land,0,0,0,"2,529m² ",21 Aug 2022
+"670,000 ","303/58 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,2,144m² ,11 Aug 2022
+"129,200 ","34 Derby Street,",ROCKHAMPTON CITY QLD 4700,Vacant land,0,0,0,472m² ,07 Jul 2022
+"310,000 ","405/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,1,1,−,52m² ,22 Jun 2022
+"610,000","1105/5 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,1,108m² ,18 May 2022
+"192,500 ","4/104 KENT STREET,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,1,1,81m² ,05 May 2022
+"467,500 ","1202/102-108 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,1,135m² ,01 Apr 2022
+"150,000 ","48 Albert Street,",ROCKHAMPTON CITY QLD 4700,Vacant land,0,0,0,614m² ,01 Apr 2022
+"670,000 ","47 Denison Street,",ROCKHAMPTON CITY QLD 4700,Block of units,5,5,5,713m² ,14 Feb 2022
+"620,000 ","706/2-4 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,1,124m² ,2021
+"430,000 ","902/48 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,2,99m² ,30 Nov 2021
+"540,000 ","63 Archer Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,6,2,2,796m² ,22 Sep 2021
+"220,000 ","106/48 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,1,1,1,56m² ,14 Sep 2021
+"660,000 ","701/58 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,2,1,141m² ,30 Apr 2021
+"72,500 ","12 Kent Lane,",ROCKHAMPTON CITY QLD 4700,Vacant land,0,0,0,253m² ,28 Dec 2020
+"240,000 ","1/66 Archer Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,1,1,282m² ,30 Sep 2020
+"384,000 ","1002/102-108 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,1,104m² ,22 Sep 2020
+"235,000 ","15/260 Quay Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,2,1,149m² ,29 Jan 2020
+"1,150,000 ","Units 1,2,3,4,5/157 Murray Street,",ROCKHAMPTON CITY QLD 4700,Block of units,15,10,5,"1,011m² ",16 Dec 2019
+"489,000 ","112/1 East Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,2,2,169m² ,10 Jul 2019
+"205,000 ","11/260 Quay Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,1,1,115m² ,30 Nov 2018
+"230,000 ","15/260 Quay Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,2,1,149m² ,24 Aug 2018
+"165,500 ","Unit 5/260 Quay St,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,2,1,167m² ,28 Dec 2017
+"440,000","12/22 Victoria Parade,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,2,2,138m² ,11 May 2017
+"150,000","2/104 Kent Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,2,1,1,74m² ,22 Jul 2016
+"255,000","2/66 Archer Street,",ROCKHAMPTON CITY QLD 4700,Apartment / Unit / Flat,3,1,2,249m² ,20 Jan 2013
+"172,000 ","18 & 19/23 Schultz Street,",WEST ROCKHAMPTON QLD 4700,Vacant land,0,0,0,810m² ,18 Apr 2024
+"189,000 ","3 Alan Drive,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,669m² ,16 Apr 2024
+"308,000 ","19/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,12 Apr 2024
+"380,000 ","1/150 Denham Terrace,",ALLENSTOWN QLD 4700,Townhouse,3,2,1,148m² ,03 Apr 2024
+"285,000 ","7/12-14 Macdonald Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,113m² ,02 Apr 2024
+"217,000 ","3/322 Warnock Street,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,233m² ,27 Mar 2024
+"406,000 ","2/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Townhouse,3,2,1,170m² ,26 Mar 2024
+"245,000 ","7 Juniper Close,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,993m² ,21 Mar 2024
+"300,000 ","15 Bellevue Terrace,",THE RANGE QLD 4700,Vacant land,0,0,0,830m² ,18 Mar 2024
+"315,000 ","16/7 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,2,147m² ,12 Mar 2024
+"180,000 ","16 Murlay Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,864m² ,08 Mar 2024
+"660,000 ","98 Kerrigan Street,",FRENCHVILLE QLD 4701,Block of units,6,3,3,"1,427m² ",04 Mar 2024
+"275,000 ","148 Waterford Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,000m² ",01 Mar 2024
+"700,000 ","Lot 502 Rockhampton Yeppoon Road,",IRONPOT QLD 4701,Vacant land,0,0,0,0,23 Feb 2024
+"20,000 ","363 East Street,",DEPOT HILL QLD 4700,Vacant land,0,0,0,465m² ,21 Feb 2024
+"160,000 ","498 Hobler Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,954m² ,21 Feb 2024
+"145,000 ","12 Hansen Street,",FRENCHVILLE QLD 4701,Vacant land,− 0,− 0,2,"3,007m² ",20 Feb 2024
+"158,000 ","24 Jackson Street,",WANDAL QLD 4700,Vacant land,0,0,0,607m² ,16 Feb 2024
+"115,000 ","43 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,648m² ,15 Feb 2024
+"308,000 ","1/35B Wentworth Terrace,",THE RANGE QLD 4700,Apartment / Unit / Flat,3,1,1,251m² ,15 Feb 2024
+"175,000 ","130 High Street,",BERSERKER QLD 4701,Vacant land,0,0,0,809m² ,06 Feb 2024
+"262,000 ","4/259 Carlton Street,",KAWANA QLD 4701,Townhouse,2,1,1,208m² ,06 Feb 2024
+"365,000 ","1/19 Miles Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,2,162m² ,05 Feb 2024
+"215,000 ","10/100 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,"2,024m² ",02 Feb 2024
+"302,000 ","92 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,000m² ",01 Feb 2024
+"480,000 ","134 Fitzroy Street,",ALLENSTOWN QLD 4700,Block of units,10,5,−,"1,442m² ",2024
+"265,000 ","1/77 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,134m² ,30 Jan 2024
+"190,000 ","1/100 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,−,91m² ,29 Jan 2024
+"270,000 ","3/210 William Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,86m² ,24 Jan 2024
+"199,000 ","17 Greenwood Close,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,050m² ",21 Jan 2024
+"86,000 ","16 Kilkenny Court,",KAWANA QLD 4701,Vacant land,0,0,0,721m² ,18 Jan 2024
+"399,999 ","1/76 Wandal Road,",WANDAL QLD 4700,Apartment / Unit / Flat,3,2,1,140m² ,16 Jan 2024
+"460,000 ","2 Lovandee Road,",IRONPOT QLD 4701,Vacant land,0,0,0,"117,500m² ",12 Jan 2024
+"389,000 ","41 Medcraf Street,",PARK AVENUE QLD 4701,Block of units,4,2,2,503m² ,11 Jan 2024
+"158,000 ","20 Bond Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,596m² ,09 Jan 2024
+"195,000 ","2 Crew Street,",WANDAL QLD 4700,Vacant land,0,0,0,679m² ,09 Jan 2024
+"310,000 ","1/90 Livingstone Street,",BERSERKER QLD 4701,Townhouse,2,2,1,161m² ,22 Dec 2023
+"215,000 ","5/322 Warnock Street,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,321m² ,22 Dec 2023
+"565,000 ","1 & 2/4 Dunbavan Place,",NORMAN GARDENS QLD 4701,Block of units,6,2,2,796m² ,22 Dec 2023
+"300,000 ","1/294 Waterloo Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,1,253m² ,21 Dec 2023
+"315,000 ","52 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,504m² ",19 Dec 2023
+"282,000 ","8/236 German Street,",NORMAN GARDENS QLD 4701,Townhouse,3,1,1,214m² ,16 Dec 2023
+"280,000 ","18/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,15 Dec 2023
+"290,000","4/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,1,195m² ,13 Dec 2023
+"280,000 ","2/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,08 Dec 2023
+"265,000 ","53 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,193m² ",07 Dec 2023
+"240,000","1/29 Church Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,2,128m² ,04 Dec 2023
+"232,000 ","9 Elkhorn Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,841m² ,30 Nov 2023
+"268,000 ","13/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,28 Nov 2023
+"124,000 ","328 Everingham Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,064m² ",28 Nov 2023
+"350,000 ","3/59 Edward Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,140m² ,15 Nov 2023
+"350,000 ","2 Pilbeam Drive,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"648,100m² ",14 Nov 2023
+"310,000 ","9/374 Limpus Street,",FRENCHVILLE QLD 4701,Townhouse,3,1,1,123m² ,13 Nov 2023
+"830,000 ","303 Thirkettle Avenue,",FRENCHVILLE QLD 4701,Block of units,8,4,4,976m² ,13 Nov 2023
+"245,000 ","19 Waterford Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,010m² ",13 Nov 2023
+"279,000 ","4/113 Caroline Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,109m² ,10 Nov 2023
+"350,000 ","2/167 Denham Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,2,367m² ,08 Nov 2023
+"320,000 ","5/107 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,3,1,2,196m² ,01 Nov 2023
+"282,300 ","1/11 Dunbavan Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,229m² ,31 Oct 2023
+"327,000 ","Lot 23 Ashford Avenue,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,079m² ",31 Oct 2023
+"395,000 ","12/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,1,176m² ,26 Oct 2023
+"105,000 ","6 Bray Gray Place,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,070m² ",19 Oct 2023
+"310,000 ","11/375-383 Duthie Avenue,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,1,2,166m² ,11 Oct 2023
+"407,500 ","2/12 Academic Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,152m² ,04 Oct 2023
+"350,000 ","9/93-95 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,3,1,1,143m² ,04 Oct 2023
+"229,000","5/110 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,150m² ,21 Sep 2023
+"135,000 ","9/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,168m² ,20 Sep 2023
+"140,000 ","60/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,158m² ,18 Sep 2023
+"135,000 ","133 Kerrigan Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,617m² ,13 Sep 2023
+"399,000 ","1/60 Rattenbury Road,",IRONPOT QLD 4701,Vacant land,0,0,0,"53,400m² ",01 Sep 2023
+"420,000 ","1/106 Springfield Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,155m² ,31 Aug 2023
+"175,000 ","24 Julie Crescent,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,797m² ,29 Aug 2023
+"367,000 ","1/87 West Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,2,1,130m² ,28 Aug 2023
+"198,900 ","5 Elkhorn Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,919m² ,18 Aug 2023
+"175,000 ","6/98 HIGH STREET,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,78m² ,15 Aug 2023
+"360,000","2/11 Jeffries Street,",THE RANGE QLD 4700,Block of units,3,2,1,191m² ,05 Aug 2023
+"820,000 ","42 Davis Street,",THE RANGE QLD 4700,Block of units,8,4,4,"1,215m² ",03 Aug 2023
+"235,000","10 Elkhorn Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,860m² ,02 Aug 2023
+"200,000 ","2/268 Dunbar Street,",KOONGAL QLD 4701,Townhouse,4,1,2,111m² ,2023
+"270,000 ","21/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,200m² ,24 Jul 2023
+"260,000 ","3/33 Card Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,118m² ,20 Jul 2023
+"405,000 ","2/106 Springfield Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,2,155m² ,17 Jul 2023
+"279,000 ","8/45 Edward Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,2,108m² ,13 Jul 2023
+"300,000 ","1/408 Thozet Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,6,2,3,800m² ,07 Jul 2023
+"285,000 ","2/408 Thozet Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,6,2,3,800m² ,07 Jul 2023
+"240,000 ","2/10 Pearson Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,2,1,1,91m² ,07 Jul 2023
+"135,000 ","342-350 Holt Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,0,04 Jul 2023
+"155,000 ","Lot 125 Waterford Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,324m² ",04 Jul 2023
+"223,963 ","12/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,03 Jul 2023
+"315,000 ","5/269 Richardson Road,",KAWANA QLD 4701,Apartment / Unit / Flat,3,2,1,189m² ,29 Jun 2023
+"190,000 ","2/73 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,97m² ,27 Jun 2023
+"205,000","3/73 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,97m² ,24 Jun 2023
+"335,000 ","5/19 Miles Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,124m² ,22 Jun 2023
+"310,000 ","1/31 King Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,2,2,230m² ,12 Jun 2023
+"300,000","5/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,2,1,123m² ,07 Jun 2023
+"324,000 ","4/6 Thurston Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,4,2,1,126m² ,31 May 2023
+"230,000 ","3/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,24 May 2023
+"390,000 ","1/23 Ross Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,2,2,168m² ,22 May 2023
+"270,000 ","19 Ballard Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"4,452m² ",22 May 2023
+"246,500 ","2/40 Maloney Street,",KAWANA QLD 4701,Apartment / Unit / Flat,2,1,1,114m² ,19 May 2023
+"200,000 ","4/73 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,97m² ,18 May 2023
+"439,000 ","1/6 Hinton Street ( 2/1 Gott Street),",KOONGAL QLD 4701,Apartment / Unit / Flat,6,2,2,643m² ,16 May 2023
+"223,500 ","5/77 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,84m² ,12 May 2023
+"65,000 ","18-24 Hill Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,0,12 May 2023
+"350,000 ","5/59 Edward Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,2,140m² ,11 May 2023
+"249,000 ","5 Trenwith Terrace,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,203m² ",11 May 2023
+"292,000 ","1/27 Capricorn Crescent,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,2,500m² ,10 May 2023
+"90,000 ","3/11 Jeffries Street,",THE RANGE QLD 4700,Vacant land,0,0,0,563m² ,10 May 2023
+"313,000 ","2/5 Hatte Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,2,299m² ,05 May 2023
+"302,000 ","5/75 Edington Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,1,153m² ,02 May 2023
+"242,000 ","1/33 Card Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,118m² ,26 Apr 2023
+"790,000 ","190 Rush Street,",KOONGAL QLD 4701,Block of units,7,3,3,774m² ,2023
+"315,000 ","4/35B Wentworth Terrace,",THE RANGE QLD 4700,Townhouse,3,1,2,175m² ,17 Apr 2023
+"99,000 ","Lot 24 Bruce Highway,",ALLENSTOWN QLD 4700,Vacant land,0,0,0,0,13 Apr 2023
+"220,000 ","160 Murray Street,",ALLENSTOWN QLD 4700,Vacant land,0,0,0,"1,012m² ",04 Apr 2023
+"320,000 ","Lot 12 Ashford Avenue,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,019m² ",03 Apr 2023
+"115,000","10 CONNEMARA DRIVE,",KAWANA QLD 4701,Vacant land,0,0,0,804m² ,
+"130,000 ","51/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,172m² ,30 Mar 2023
+"150,000 ","90 Wandal Road,",WANDAL QLD 4700,Vacant land,0,0,0,435m² ,27 Mar 2023
+"455,000","2/200 Upper Dawson Road,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,2,2,153m² ,22 Mar 2023
+"375,000 ","6/36 Penlington Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,3,2,1,281m² ,17 Mar 2023
+"120,000","425 ROCKONIA ROAD,",KOONGAL QLD 4701,Vacant land,0,0,0,"1,012m² ",14 Mar 2023
+"640,000 ","79 Stenlake Avenue,",KAWANA QLD 4701,Block of units,8,4,4,928m² ,10 Mar 2023
+"240,000 ","3/4 Private Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,193m² ,08 Mar 2023
+"715,000 ","204 Bawden Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,0,0,0,809m² ,06 Mar 2023
+"582,500 ","148 Edington Street,",BERSERKER QLD 4701,Block of units,5,3,3,809m² ,03 Mar 2023
+"185,000 ","92 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,000m² ",27 Feb 2023
+"95,000 ","Lot 30 Harrow Street,",WEST ROCKHAMPTON QLD 4700,Vacant land,0,0,0,809m² ,24 Feb 2023
+"139,000 ","20/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,200m² ,20 Feb 2023
+"450,000 ","1 & 2/108 Grosskopf Street,",FRENCHVILLE QLD 4701,Block of units,4,2,2,696m² ,15 Feb 2023
+"210,000 ","4/200 Canning Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,74m² ,15 Feb 2023
+"691,500 ","200 Talford Street,",ALLENSTOWN QLD 4700,Block of units,8,4,4,779m² ,07 Feb 2023
+"202,000 ","1/6 Burns Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,102m² ,06 Feb 2023
+"250,000 ","6/5 Protea Avenue,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,308m² ,03 Feb 2023
+"165,000 ","24 Murlay Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,291m² ",01 Feb 2023
+"401,000 ","10/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,157m² ,31 Jan 2023
+"301,000 ","4/17 Meyenberg Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,293m² ,27 Jan 2023
+"320,000 ","Lot 13 Newport Avenue,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,039m² ",27 Jan 2023
+"370,000 ","5/60 Rattenbury Road,",IRONPOT QLD 4701,Vacant land,0,0,0,"25,400m² ",17 Jan 2023
+"350,000 ","5/76 Wandal Road,",WANDAL QLD 4700,Apartment / Unit / Flat,3,2,1,140m² ,21 Dec 2022
+"550,000 ","4 Ames Street,",KAWANA QLD 4701,Block of units,6,2,−,670m² ,14 Dec 2022
+"120,000 ","9/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,168m² ,13 Dec 2022
+"395,000 ","14 Herbert Street,",WANDAL QLD 4700,Block of units,5,3,4,"1,088m² ",09 Dec 2022
+"248,000 ","2/33 Card Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,118m² ,05 Dec 2022
+"70,000 ","6 NAUGHTON STREET,",WANDAL QLD 4700,Vacant land,0,0,0,481m² ,05 Dec 2022
+"605,000 ","15 Booker Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,6,3,3,"1,326m² ",02 Dec 2022
+"235,000 ","3 Killarney Court,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,390m² ",01 Dec 2022
+"489,000 ","1 & 2/4 Orana Place,",KAWANA QLD 4701,Apartment / Unit / Flat,2,1,1,640m² ,30 Nov 2022
+"267,000 ","6/35B Wentworth Terrace,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,207m² ,30 Nov 2022
+"180,000 ","2/114 Archer Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,87m² ,30 Nov 2022
+"120,000 ","86 Leamington Street,",BERSERKER QLD 4701,Vacant land,0,0,0,318m² ,28 Nov 2022
+"200,000 ","1/342 Marsh Avenue,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,106m² ,28 Nov 2022
+"410,000 ","3/6 Currawong Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,1,152m² ,21 Nov 2022
+"217,500 ","1/375 Richardson Road,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,52m² ,20 Nov 2022
+"210,000 ","2/29 Church Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,2,"1,282m² ",18 Nov 2022
+"215,000 ","11/104 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,91m² ,15 Nov 2022
+"265,715 ","1/6 Thurston Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,85m² ,14 Nov 2022
+"200,000 ",,ROCKYVIEW QLD 4701,Vacant land,0,0,0,"5,450m² ",11 Nov 2022
+"130,000 ","29/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,242m² ,10 Nov 2022
+"120,000 ","15/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,162m² ,10 Nov 2022
+"185,000 ","1/14 Potts Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,90m² ,08 Nov 2022
+"485,000 ","126 Lion Creek Road,",WANDAL QLD 4700,Block of units,8,4,4,"1,078m² ",04 Nov 2022
+"362,500 ","1/9 Walker Street,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,406m² ,02 Nov 2022
+"209,900 ","Lot 4 Hovea Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,741m² ,01 Nov 2022
+"305,000 ","2/14 Kawana Close,",KAWANA QLD 4701,Apartment / Unit / Flat,3,2,1,318m² ,20 Oct 2022
+"110,000 ","10 Connemara Drive,",KAWANA QLD 4701,Vacant land,0,0,0,804m² ,20 Oct 2022
+"225,000 ","13/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,12 Oct 2022
+"300,000 ","4/45 Edward Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,108m² ,10 Oct 2022
+"133,000 ","24/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,204m² ,10 Oct 2022
+"313,000 ","6/93-95 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,3,1,1,148m² ,04 Oct 2022
+"260,000 ","59 & 59A Lakes Creek Road,",BERSERKER QLD 4701,Block of units,6,2,2,"2,024m² ",2022
+"255,000 ","3/90 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,2,157m² ,27 Sep 2022
+"380,000 ","6/60 Rattenbury Road,",IRONPOT QLD 4701,Vacant land,0,0,0,"36,400m² ",26 Sep 2022
+"128,000 ","41/366-370 ROCKONIA ROAD,",KOONGAL QLD 4701,Townhouse,2,1,1,145m² ,26 Sep 2022
+"277,500 ","94 Princess Street,",BERSERKER QLD 4701,Block of units,4,2,−,488m² ,17 Sep 2022
+"290,000 ","113 Larcombe Street,",KAWANA QLD 4701,Vacant land,0,0,0,656m² ,13 Sep 2022
+"115,000 ","9/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,168m² ,12 Sep 2022
+"215,000 ","3/259 Carlton Street,",KAWANA QLD 4701,Apartment / Unit / Flat,2,1,1,219m² ,09 Sep 2022
+"217,500 ","7/200 Canning Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,74m² ,08 Sep 2022
+"120,000","11/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,207m² ,07 Sep 2022
+"130,000 ","Lot 48 Totteridge Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"6,778m² ",02 Sep 2022
+"612,000 ","Lot 6/0 Balnagowan Road,",NANKIN QLD 4701,Vacant land,0,0,0,"2,434,184m² ",02 Sep 2022
+"395,000 ","2/175 Frenchville Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,2,2,187m² ,31 Aug 2022
+"280,000 ","9/17 Meyenberg Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,318m² ,25 Aug 2022
+"209,900 ","6 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,902m² ,24 Aug 2022
+"359,000 ","15 Bellevue Terrace,",THE RANGE QLD 4700,Vacant land,0,0,0,830m² ,24 Aug 2022
+"230,000 ","201 Angela Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,155m² ",21 Aug 2022
+"200,000 ","1/73 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,97m² ,19 Aug 2022
+"196,900 ","Lot 28 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,895m² ,17 Aug 2022
+"255,000 ","7/5 Protea Avenue,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,237m² ,12 Aug 2022
+"125,000 ","54/366-370 ROCKONIA ROAD,",KOONGAL QLD 4701,Townhouse,2,1,2,255m² ,04 Aug 2022
+"135,000 ","36/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,2,157m² ,04 Aug 2022
+"125,000 ","54/366-370 ROCKONIA ROAD,",KOONGAL QLD 4701,Townhouse,2,1,2,255m² ,04 Aug 2022
+"342,000","25/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,1,170m² ,02 Aug 2022
+"180,000 ","2/6 Burns Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,2,108m² ,19 Jul 2022
+"220,000 ","11/5 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,168m² ,12 Jul 2022
+"367,500 ","8 Heilbronn Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,4,2,2,622m² ,12 Jul 2022
+"352,000 ","6/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,157m² ,07 Jul 2022
+"385,000 ","5 Boswood Street,",KAWANA QLD 4701,Apartment / Unit / Flat,4,2,2,599m² ,01 Jul 2022
+"163,000 ","32 Face Street,",PARK AVENUE QLD 4701,Vacant land,0,0,0,809m² ,29 Jun 2022
+"137,000 ","28/370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,217m² ,21 Jun 2022
+"399,000 ","1 & 2/332 Fenlon Avenue,",FRENCHVILLE QLD 4701,Block of units,4,2,2,703m² ,15 Jun 2022
+"155,000 ","155 Elphinstone Street,",BERSERKER QLD 4701,Vacant land,0,0,0,506m² ,10 Jun 2022
+"220,000 ","9/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,08 Jun 2022
+"155,000 ","155A Elphinstone Street,",BERSERKER QLD 4701,Vacant land,0,0,0,506m² ,03 Jun 2022
+"305,000 ","Lot 165 Cashel Court,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,159m² ",02 Jun 2022
+"305,000 ","8/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Townhouse,2,2,1,106m² ,30 May 2022
+"80,000 ","10 - 20 Bassett Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,0,23 May 2022
+"365,000","258 Richardson Road,",PARK AVENUE QLD 4701,Block of units,4,2,2,582m² ,23 May 2022
+"243,000 ","2/40 Geaney Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,206m² ,22 May 2022
+"1,320,000 ","Lot 2, 1 & 2/0 Thompson Point Road,",NANKIN QLD 4701,Vacant land,0,0,0,0,2022
+"115,000 ","318 Thirkettle Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,081m² ",19 May 2022
+"210,000 ","1/222 Ford Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,96m² ,18 May 2022
+"295,000 ","2/75 Edington Street,",BERSERKER QLD 4701,Townhouse,3,1,1,153m² ,18 May 2022
+"212,900 ","1 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,209m² ",18 May 2022
+"225,000 ","9 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,801m² ,17 May 2022
+"300,000","52 Stirling Dr,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,504m² ",13 May 2022
+"695,000 ","342 Diplock Street,",FRENCHVILLE QLD 4701,Block of units,8,4,4,"1,232m² ",06 May 2022
+"400,000 ","1431 Emu Park Road,",NANKIN QLD 4701,Vacant land,0,0,0,0,05 May 2022
+"425,000","15 Maxwell Street,",NORMAN GARDENS QLD 4701,Block of units,4,2,2,612m² ,05 May 2022
+"358,000 ","22-26 Prospect Street,",ALLENSTOWN QLD 4700,Vacant land,0,0,0,"2,023m² ",04 May 2022
+"225,000","UNIT 1/76 THORN STREET,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,2,207m² ,
+"562,260 ","21 Atherton Street,",NORMAN GARDENS QLD 4701,Block of units,6,3,3,"1,200m² ",04 May 2022
+"250,000 ","1/32 Bulman Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,249m² ,04 May 2022
+"250,000 ","8 Paramount Park/2 Ashford Avenue,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,096m² ",04 May 2022
+"155,000 ","255 Hutton Street,",BERSERKER QLD 4701,Vacant land,0,0,0,809m² ,29 Apr 2022
+"610,000 ","302 Frenchville Road,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,0,29 Apr 2022
+"210,000 ","3/29 Church Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,128m² ,26 Apr 2022
+"295,000 ","9/35B Wentworth Terrace,",THE RANGE QLD 4700,Apartment / Unit / Flat,3,1,2,210m² ,26 Apr 2022
+"150,000 ","161 Berserker Street,",BERSERKER QLD 4701,Vacant land,− 0,− 0,3,455m² ,20 Apr 2022
+"238,000 ","2/46 Pillich Street,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,345m² ,20 Apr 2022
+"210,000 ","12/100 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,91m² ,19 Apr 2022
+"120,000 ","9 Amy Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,533m² ",19 Apr 2022
+"121,000 ","1 Woolcock Street,",WANDAL QLD 4700,Vacant land,0,0,0,462m² ,19 Apr 2022
+"185,000 ","3/344 Marsh Avenue,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,106m² ,14 Apr 2022
+"190,000 ","2/102a Bawden Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,289m² ,12 Apr 2022
+"150,000","14 Gillespie Street,",WANDAL QLD 4700,Vacant land,0,0,0,516m² ,
+"345,000 ","11/240 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,255m² ,05 Apr 2022
+"170,000 ","3/128 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,86m² ,28 Mar 2022
+"190,000 ","87 Leamington Street,",BERSERKER QLD 4701,Vacant land,0,0,0,693m² ,28 Mar 2022
+"159,000 ","7 Amy Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,367m² ",28 Mar 2022
+"230,000 ","3/93-95 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Townhouse,3,1,1,215m² ,28 Mar 2022
+"570,000 ","661A Montgomerie Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"93,077m² ",26 Mar 2022
+"557,000 ","120 Hyde Street,",FRENCHVILLE QLD 4701,Block of units,6,3,3,703m² ,17 Mar 2022
+"265,000 ","369 Paterson Avenue,",KOONGAL QLD 4701,Apartment / Unit / Flat,4,2,2,"1,196m² ",17 Mar 2022
+"250,000 ","92 Glenmore Road,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,4,2,2,529m² ,17 Mar 2022
+"255,000 ","3/31 Oswald Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,98m² ,11 Mar 2022
+"305,000 ","10/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,2,1,106m² ,09 Mar 2022
+"361,000 ","2/192 Rush street,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,2,1,146m² ,05 Mar 2022
+"137,500 ","101 Normanby Street,",THE RANGE QLD 4700,Vacant land,0,0,0,"1,651m² ",04 Mar 2022
+"80,000","278 Kent Street,",DEPOT HILL QLD 4700,Vacant land,0,0,0,"3,990m² ",01 Mar 2022
+"500,000 ","9 Smithwick Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,6,2,2,722m² ,01 Mar 2022
+"795,000 ","10 Hassell Street,",NORMAN GARDENS QLD 4701,Block of units,12,4,4,"1,314m² ",28 Feb 2022
+"245,000 ","2/121 Park Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,3,1,1,313m² ,25 Feb 2022
+"247,500 ","204 Angela Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,497m² ",25 Feb 2022
+"274,000 ","153 Waterford Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,021m² ",25 Feb 2022
+"470,000 ","380 Hinds Street,",KOONGAL QLD 4701,Block of units,10,4,3,818m² ,24 Feb 2022
+"180,000 ","130 High Street,",BERSERKER QLD 4701,Vacant land,0,0,0,809m² ,22 Feb 2022
+"380,000 ","155 Hyde Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,634m² ",21 Feb 2022
+"187,500 ","9 Haven Close,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,769m² ,21 Feb 2022
+"200,000 ","8/5 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,180m² ,21 Feb 2022
+"150,000 ","5 Amy Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,299m² ",16 Feb 2022
+"710,000 ","139 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,6,3,3,784m² ,15 Feb 2022
+"205,900 ","1 Arthur Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,464m² ",15 Feb 2022
+"369,000","76 Buzacott Street,",PARK AVENUE QLD 4701,Block of units,4,2,2,704m² ,14 Feb 2022
+"288,000 ","Lot 152 Waterford Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,020m² ",12 Feb 2022
+"209,000","4/29 Church Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,2,128m² ,31 Jan 2022
+"290,000 ","3/75 Edington Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,1,153m² ,28 Jan 2022
+"265,000 ","Lot 174 Clonmel Avenue,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,318m² ",27 Jan 2022
+"287,000 ","34 Thackeray Street,",PARK AVENUE QLD 4701,Block of units,4,2,5,809m² ,25 Jan 2022
+"387,000 ","19 Calder Street,",PARK AVENUE QLD 4701,Block of units,4,2,2,894m² ,24 Jan 2022
+"195,000 ","1/158 Stanley Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,219m² ,21 Jan 2022
+"290,000 ","5/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,2,1,123m² ,21 Jan 2022
+"174,000 ","3/2 Gillespie Street,",WANDAL QLD 4700,Apartment / Unit / Flat,3,1,1,113m² ,21 Jan 2022
+"169,000 ","7 Bradley Place,",KAWANA QLD 4701,Vacant land,0,0,0,700m² ,14 Jan 2022
+"195,900 ","Lot 30 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,838m² ,14 Jan 2022
+"200,000 ","5/210 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,1,213m² ,12 Jan 2022
+"250,000 ","2/15 Poole Street,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,111m² ,11 Jan 2022
+"173,000 ","2/110 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,87m² ,10 Jan 2022
+"178,000","1/132 Main Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,3,2,1,259m² ,09 Jan 2022
+"400,000 ","61 Edington Street,",BERSERKER QLD 4701,Block of units,5,2,2,741m² ,24 Dec 2021
+"202,500 ","24/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,24 Dec 2021
+"650,000 ","1,2,3,4/311 Balaclava Street,",FRENCHVILLE QLD 4701,Block of units,8,4,4,"1,200m² ",23 Dec 2021
+"195,000 ","22/7 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,151m² ,23 Dec 2021
+"160,000 ","8/200 CANNING STREET,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,74m² ,21 Dec 2021
+"65,000 ","10 Princess Street,",BERSERKER QLD 4701,Vacant land,0,0,0,559m² ,20 Dec 2021
+"252,000 ","5 Skye Way,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,885m² ",17 Dec 2021
+"800,000 ","77 West Street,",THE RANGE QLD 4700,Block of units,13,6,6,"1,189m² ",17 Dec 2021
+"155,000 ","3 Silver Wattle Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,434m² ,16 Dec 2021
+"90,000 ","37B BUCKLE STREET,",PARK AVENUE QLD 4701,Vacant land,0,0,0,405m² ,14 Dec 2021
+"320,000 ","Lot 167 Cashel Court,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"5,029m² ",13 Dec 2021
+"191,000 ","1 Oxford Street,",ALLENSTOWN QLD 4700,Vacant land,0,0,0,817m² ,06 Dec 2021
+"205,000 ","1/1 Mungarra Drive,",KAWANA QLD 4701,Apartment / Unit / Flat,2,1,1,120m² ,06 Dec 2021
+"205,000 ","2/3 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Block of units,2,1,1,156m² ,03 Dec 2021
+"235,000 ","1/194 North Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,2,1,1,210m² ,02 Dec 2021
+"645,000 ","8 Denning Street,",PARK AVENUE QLD 4701,Block of units,8,4,4,"1,837m² ",29 Nov 2021
+"289,000 ","4/77 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,156m² ,25 Nov 2021
+"192,900 ","Lot 26 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,861m² ,25 Nov 2021
+"230,000 ","66 Wandal Road,",WANDAL QLD 4700,Vacant land,2,1,−,949m² ,25 Nov 2021
+"205,000 ","22/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,201m² ,23 Nov 2021
+"1,050,000 ","843 Artillery Road,",SANDRINGHAM QLD 4701,Vacant land,0,0,0,0,19 Nov 2021
+"220,000 ","1/4 PRIVATE STREET,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,2,191m² ,17 Nov 2021
+"204,000 ","10 Waterford Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,256m² ",17 Nov 2021
+"120,000 ","7/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,182m² ,11 Nov 2021
+"650,000 ","95 Archer Street,",ALLENSTOWN QLD 4700,Block of units,8,4,4,640m² ,10 Nov 2021
+"120,000 ","43/370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,163m² ,04 Nov 2021
+"87,000 ","145 Connor Street,",KOONGAL QLD 4701,Vacant land,0,0,0,462m² ,03 Nov 2021
+"295,000","10/14 MacDonald Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,113m² ,28 Oct 2021
+"890,000 ","204 Kerrigan Street,",FRENCHVILLE QLD 4701,Block of units,12,4,8,"1,525m² ",28 Oct 2021
+"189,900 ","Lot 34 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,801m² ,20 Oct 2021
+"246,000 ","2/158 Stanley Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,219m² ,19 Oct 2021
+"182,000 ","1/37 Armstrong Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,2,92m² ,14 Oct 2021
+"118,000 ","24 Africander Avenue,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,758m² ,11 Oct 2021
+"244,000 ","4 Skye Way,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,190m² ",08 Oct 2021
+"638,000 ","318 Waterloo Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,8,4,4,"1,234m² ",01 Oct 2021
+"305,000 ","Lot 145 Skye Way,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"5,474m² ",30 Sep 2021
+"425,000 ","9/200 Upper Dawson Road,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,2,2,160m² ,29 Sep 2021
+"158,500 ","3/3 D'hage Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,93m² ,28 Sep 2021
+"195,000 ","3/110 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,166m² ,24 Sep 2021
+"221,000 ","5/223 Denham Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,81m² ,23 Sep 2021
+"235,000 ","12/93-95 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,3,1,1,193m² ,23 Sep 2021
+"275,000 ","Lot 7 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,111m² ",21 Sep 2021
+"678,000","324 Denham Ext Street,",WEST ROCKHAMPTON QLD 4700,Block of units,8,4,4,"1,257m² ",19 Sep 2021
+"230,000 ","1/17 Stenlake Avenue,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,253m² ,16 Sep 2021
+"950,000 ","398 Yaamba Road,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"7,000m² ",16 Sep 2021
+"337,000 ","249 Thozet Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,4,2,2,802m² ,14 Sep 2021
+"360,000 ","63 Dee Street,",KOONGAL QLD 4701,Block of units,4,2,2,931m² ,14 Sep 2021
+"189,900 ","Lot 35 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,801m² ,14 Sep 2021
+"199,900 ","Lot 25 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,959m² ,14 Sep 2021
+"199,000 ","10/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,09 Sep 2021
+"149,000 ","3/6 WOOLCOCK STREET,",WANDAL QLD 4700,Apartment / Unit / Flat,2,1,1,77m² ,09 Sep 2021
+"55,000","8 Princess Street,",BERSERKER QLD 4701,Vacant land,0,0,0,559m² ,08 Sep 2021
+"319,000 ","3/18 Bruce Hiskens Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,1,131m² ,08 Sep 2021
+"218,000 ","2/32 Bulman Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,2,246m² ,06 Sep 2021
+"167,000","14 Hansen Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"6,515m² ",05 Sep 2021
+"382,000 ","15 Wright Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,4,2,2,601m² ,31 Aug 2021
+"167,000 ","2/14 Potts Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,88m² ,24 Aug 2021
+"255,000 ","70 Springfield Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,112m² ",19 Aug 2021
+"189,900 ","Lot 17 Elkhorn Court,",NORMAN GARDENS QLD 4701,Vacant land,− 0,− 0,2,860m² ,19 Aug 2021
+"110,000 ","8/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,168m² ,18 Aug 2021
+"189,900 ","Lot 33 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,801m² ,18 Aug 2021
+"200,000 ","2/21 Hardy Avenue,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,2,1,1,300m² ,18 Aug 2021
+"204,900 ","Lot 11 Berrigan Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,076m² ",16 Aug 2021
+"225,000 ","12/1 Currawong Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,237m² ,10 Aug 2021
+"204,900 ","Lot 4 Arthur Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,305m² ",06 Aug 2021
+"460,000 ","30 Pearson Street,",WEST ROCKHAMPTON QLD 4700,Block of units,6,3,3,"1,219m² ",05 Aug 2021
+"297,000","57 Elphinstone Street,",BERSERKER QLD 4701,Vacant land,0,0,0,969m² ,03 Aug 2021
+"189,900 ","Lot 32 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,800m² ,03 Aug 2021
+"140,000","5 Rainbow Court,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,424m² ",30 Jul 2021
+"560,000 ","15 Orr Avenue,",KAWANA QLD 4701,Block of units,6,3,3,906m² ,28 Jul 2021
+"345,000 ","3 MacArthur Street,",KOONGAL QLD 4701,Block of units,4,2,2,710m² ,28 Jul 2021
+"208,000 ","14/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,2,217m² ,24 Jul 2021
+"149,000 ","2/6 Woolcock Street,",WANDAL QLD 4700,Apartment / Unit / Flat,2,1,1,77m² ,23 Jul 2021
+"125,000 ","335 Salamanca Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,827m² ,22 Jul 2021
+"167,000 ","3 Kenmare Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,686m² ,19 Jul 2021
+"110,000 ","22/366-370 ROCKONIA ROAD,",KOONGAL QLD 4701,Townhouse,3,1,2,201m² ,16 Jul 2021
+"235,000 ","11/380-382 French Avenue,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,4,166m² ,15 Jul 2021
+"235,000 ","1/6 Thurston Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,85m² ,09 Jul 2021
+"205,000 ","884 Yeppoon Road,",IRONPOT QLD 4701,Vacant land,0,0,0,0,06 Jul 2021
+"350,000 ","320 Dean Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,4,2,2,720m² ,30 Jun 2021
+"53,000 ","Lot 53 Reynolds Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"6,981m² ",30 Jun 2021
+"245,000 ","5/269 Richardson Road,",KAWANA QLD 4701,Apartment / Unit / Flat,3,2,1,189m² ,22 Jun 2021
+"215,000 ","249/116 Perrott Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"5,971m² ",17 Jun 2021
+"320,000 ","40 ALEXANDRA STREET,",PARK AVENUE QLD 4701,Block of units,4,2,2,604m² ,14 Jun 2021
+"275,000","57 Edward Street,",BERSERKER QLD 4701,Vacant land,0,0,0,"2,126m² ",11 Jun 2021
+"322,000 ","9/12-16 Elphinstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,4,2,1,256m² ,10 Jun 2021
+"342,500 ","28 Potts Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,4,2,2,762m² ,09 Jun 2021
+"237,000 ","1/240 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,293m² ,08 Jun 2021
+"212,900 ","Lot 36 Fuchsia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,047m² ",01 Jun 2021
+"149,000 ","1/6 Woolcock Street,",WANDAL QLD 4700,Apartment / Unit / Flat,2,1,1,77m² ,01 Jun 2021
+"272,000 ","32 Symons Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,4,2,2,799m² ,18 May 2021
+"491,000 ","1-3/38 Nicholson Street,",ALLENSTOWN QLD 4700,Block of units,6,3,3,886m² ,30 Apr 2021
+"335,000 ","1/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,157m² ,22 Apr 2021
+"175,000 ","17 Ferguson Street,",ALLENSTOWN QLD 4700,Vacant land,0,0,0,969m² ,21 Apr 2021
+"132,500 ","1/163 Bedford Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,105m² ,16 Apr 2021
+"265,000 ","25 Reddy Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"2,938m² ",15 Apr 2021
+"259,000 ","27 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,044m² ",15 Apr 2021
+"145,000 ","4/93-95 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,2,1,1,193m² ,14 Apr 2021
+"203,000 ","111 Larcombe Street,",KAWANA QLD 4701,Vacant land,0,0,0,658m² ,09 Apr 2021
+"95,000 ","51/366-370 ROCKONIA ROAD,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,2,172m² ,08 Apr 2021
+"345,000 ","178 Main Street,",PARK AVENUE QLD 4701,Block of units,4,2,2,809m² ,07 Apr 2021
+"700,000 ","246 William Street,",ALLENSTOWN QLD 4700,Block of units,8,8,6,974m² ,06 Apr 2021
+"336,000 ","2 FELHABER AVENUE,",FRENCHVILLE QLD 4701,Block of units,4,2,2,640m² ,06 Apr 2021
+"310,000 ","13 LAMBOURNE AVENUE,",NORMAN GARDENS QLD 4701,Block of units,4,2,2,670m² ,03 Apr 2021
+"77,500","2/9 Walker Street,",KAWANA QLD 4701,Vacant land,0,0,0,349m² ,01 Apr 2021
+"95,000 ","10/366-370 ROCKONIA ROAD,",KOONGAL QLD 4701,Townhouse,2,1,2,215m² ,31 Mar 2021
+"820,000 ","1,2,3,4,5/11 Card Street,",BERSERKER QLD 4701,Block of units,10,5,5,"1,993m² ",24 Mar 2021
+"295,000 ","Unit A & Unit B/136 Venables Street,",FRENCHVILLE QLD 4701,Block of units,4,2,2,627m² ,23 Mar 2021
+"185,000 ","2/3 Dunbavan Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,348m² ,16 Mar 2021
+"230,000 ","Lot 4 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,003m² ",16 Mar 2021
+"210,000","1/3 Dunbavan Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,4,1,1,348m² ,15 Mar 2021
+"185,000 ","17/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,1,183m² ,11 Mar 2021
+"178,000 ","29a Bishop Street,",THE RANGE QLD 4700,Vacant land,0,0,0,"1,151m² ",04 Mar 2021
+"220,000 ","17/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,03 Mar 2021
+"239,000 ","2/374 Limpus Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,1,1,108m² ,22 Feb 2021
+"205,000 ","27 Murlay Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,999m² ,22 Feb 2021
+"230,000 ","4/17 Meyenberg Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,293m² ,19 Feb 2021
+"370,000 ","305 Fairmont Terrace,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"93,077m² ",19 Feb 2021
+"225,000 ","4/90 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,2,149m² ,18 Feb 2021
+"360,000 ","1 & 2/100 Edington Street,",BERSERKER QLD 4701,Block of units,2,2,3,910m² ,16 Feb 2021
+"207,000 ","5/29 Church Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,2,129m² ,15 Feb 2021
+"210,000 ","4/113 Caroline Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,109m² ,12 Feb 2021
+"239,500 ","1/107 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,3,1,1,263m² ,12 Feb 2021
+"244,500 ","6/152 ELPHINSTONE STREET,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,3,219m² ,03 Feb 2021
+"335,000 ","257 COKER STREET,",BERSERKER QLD 4701,Block of units,4,2,2,685m² ,28 Jan 2021
+"185,000 ","127 Perrott Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,407m² ",22 Jan 2021
+"162,000","1/259 Carlton Street,",KAWANA QLD 4701,Apartment / Unit / Flat,2,1,1,190m² ,21 Jan 2021
+"225,000 ","196 Mason Street,",BERSERKER QLD 4701,Vacant land,0,0,0,"3,129m² ",19 Jan 2021
+"170,000 ","Lot 1 Bradley Place Riverview Estate Rockhampton,",KAWANA QLD 4701,Vacant land,0,0,0,700m² ,19 Jan 2021
+"178,000 ","3/232 Ford Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,79m² ,18 Jan 2021
+"540,000 ","294 Murray Street,",ALLENSTOWN QLD 4700,Block of units,6,3,7,"1,013m² ",15 Jan 2021
+"182,500","4/44 Haynes Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,2,1,2,97m² ,11 Jan 2021
+"180,000 ","142 Constance Avenue,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,0,11 Jan 2021
+"160,000 ","3/44 Haynes Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,2,1,1,97m² ,10 Jan 2021
+"220,000 ","2/1 Currawong Street,",NORMAN GARDENS QLD 4701,Townhouse,2,1,1,227m² ,04 Jan 2021
+"240,000 ","5/278 Dunbar Street,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,232m² ,18 Dec 2020
+"325,000 ","138 West Street,",ALLENSTOWN QLD 4700,Block of units,7,1,−,493m² ,17 Dec 2020
+"210,000 ","2/132 Main Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,3,2,4,271m² ,11 Dec 2020
+"360,000 ","11/200 Upper Dawson Road,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,2,1,153m² ,07 Dec 2020
+"230,000 ","250/116 Perrott Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"5,109m² ",23 Nov 2020
+"280,000 ","1/576 Norman Road,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,104m² ,20 Nov 2020
+"95,000 ","35/370 ROCKONIA ROAD,",KOONGAL QLD 4701,Townhouse,3,1,2,142m² ,19 Nov 2020
+"125,000 ","234 Emu Park Road,",NERIMBERA QLD 4701,Vacant land,0,0,0,0,18 Nov 2020
+"345,000 ","2/12A Pershing Street,",WANDAL QLD 4700,Apartment / Unit / Flat,3,2,2,131m² ,17 Nov 2020
+"217,500 ","1/236 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,223m² ,13 Nov 2020
+"86,000 ","63/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,165m² ,12 Nov 2020
+"85,000 ","53/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,172m² ,06 Nov 2020
+"199,000 ","105 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,011m² ",06 Nov 2020
+"200,000 ","1/21 Price Avenue,",KAWANA QLD 4701,Apartment / Unit / Flat,2,1,1,293m² ,02 Nov 2020
+"205,000 ","Lot 1 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,002m² ",30 Oct 2020
+"160,000 ","12 Neill Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,954m² ,29 Oct 2020
+"300,000 ","5 Bruigom Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,4,2,2,600m² ,28 Oct 2020
+"205,000 ","2/17 STENLAKE AVENUE,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,402m² ,27 Oct 2020
+"265,000 ","5/17 Meyenberg Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,2,239m² ,23 Oct 2020
+"380,000 ","1/104 BOLAND STREET,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,6,3,3,"1,012m² ",14 Oct 2020
+"125,000 ","90 Wandal Road,",WANDAL QLD 4700,Vacant land,0,0,0,435m² ,09 Oct 2020
+"140,000 ","24 Pfitzemaier Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,670m² ,08 Oct 2020
+"320,000 ","1/12-16 Elphinstone street,",BERSERKER QLD 4701,Apartment / Unit / Flat,4,2,1,314m² ,06 Oct 2020
+"385,000 ","419 CAMPBELL STREET,",DEPOT HILL QLD 4700,Block of units,8,4,4,840m² ,05 Oct 2020
+"105,000 ","5 Foale Court,",KAWANA QLD 4701,Vacant land,0,0,0,803m² ,02 Oct 2020
+"185,000 ","Lot 35 German Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"4,650m² ",02 Oct 2020
+"80,000 ","59 West Street,",THE RANGE QLD 4700,Vacant land,0,0,0,352m² ,01 Oct 2020
+"98,000 ","56/370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,163m² ,30 Sep 2020
+"193,000 ","Lot 2 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,910m² ,25 Sep 2020
+"375,000 ","4/175 Frenchville Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,2,2,181m² ,22 Sep 2020
+"155,000 ","319 Balaclava Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,800m² ,18 Sep 2020
+"245,000","4/107 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Townhouse,3,1,1,156m² ,08 Sep 2020
+"383,000 ","19/175 Frenchville Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,2,2,180m² ,03 Sep 2020
+"201,500","2/152 Elphinstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,121m² ,31 Aug 2020
+"90,000","46 Meade Street,",WANDAL QLD 4700,Vacant land,0,0,0,358m² ,27 Aug 2020
+"202,000 ","Lot 1 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,051m² ",26 Aug 2020
+"620,000 ","1,2,3/629 Ibis Avenue,",KAWANA QLD 4701,Block of units,9,3,3,"1,062m² ",24 Aug 2020
+"407,500 ","1 & 2/5 Macartney Street,",NORMAN GARDENS QLD 4701,Block of units,6,2,4,625m² ,13 Aug 2020
+"133,000 ","125 Perrott Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,326m² ",13 Aug 2020
+"220,000 ","4/236 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,212m² ,12 Aug 2020
+"200,000 ","11/236 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,214m² ,04 Aug 2020
+"80,000 ","110 RUNDLE STREET,",WANDAL QLD 4700,Vacant land,0,0,0,405m² ,31 Jul 2020
+"195,000 ","Lot 7 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,959m² ,27 Jul 2020
+"215,000 ","Lot 6 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,368m² ",23 Jul 2020
+"750,000 ","10, 480 Esplanade,",THE KEPPELS QLD 4700,Vacant land,0,0,0,"3,032m² ",20 Jul 2020
+"179,000 ","Lot 10 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,829m² ,17 Jul 2020
+"90,000 ","21/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,198m² ,16 Jul 2020
+"215,000","4/79 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,250m² ,15 Jul 2020
+"125,000 ","15 Hodda Drive,",KAWANA QLD 4701,Vacant land,0,0,0,917m² ,15 Jul 2020
+"195,000 ","Lot 11 Bradley Place Riverview Estate Rockhampton,",KAWANA QLD 4701,Vacant land,0,0,0,701m² ,15 Jul 2020
+"195,000 ","Lot 10 Bradley Place Riverview Estate Rockhampton,",KAWANA QLD 4701,Vacant land,0,0,0,702m² ,14 Jul 2020
+"50,000 ","10 DOWLING STREET,",PARK AVENUE QLD 4701,Vacant land,0,0,0,651m² ,10 Jul 2020
+"82,000 ","31/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,181m² ,09 Jul 2020
+"229,000 ","25 Larcombe Riverview Estate,",KAWANA QLD 4701,Vacant land,0,0,0,839m² ,06 Jul 2020
+"375,000 ","6/175 Frenchville Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,2,2,189m² ,03 Jul 2020
+"200,000 ","Lot 9 Bradley Place Riverview Estate Rockhampton,",KAWANA QLD 4701,Vacant land,0,0,0,700m² ,02 Jul 2020
+"179,000 ","Lot 11 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,800m² ,02 Jul 2020
+"180,000 ","Lot 4 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,853m² ,01 Jul 2020
+"186,000","3/210 William Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,86m² ,30 Jun 2020
+"172,500 ","93 GLENMORE ROAD,",PARK AVENUE QLD 4701,Block of units,3,2,2,810m² ,26 Jun 2020
+"155,000 ","Lot 18 Larcombe Street Riverview Estate Rockhampton,",KAWANA QLD 4701,Vacant land,0,0,0,735m² ,24 Jun 2020
+"460,000 ","302 Frenchville Road,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,0,09 Jun 2020
+"339,000 ","1 & 2/5 Wigginton Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,4,2,2,633m² ,08 Jun 2020
+"800,000 ","195-211 German Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,0,08 Jun 2020
+"270,000 ","77 NORTH STREET,",THE RANGE QLD 4700,Block of units,3,2,4,814m² ,25 May 2020
+"175,000","4 Bushpea Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,061m² ",22 May 2020
+"200,000 ","Lot 5 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,015m² ",14 May 2020
+"179,000 ","92 BRAMBLE STREET,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,921m² ,07 May 2020
+"176,250 ","4/15 CARD STREET,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,104m² ,22 Apr 2020
+"85,000 ","13 Amy Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,983m² ,21 Apr 2020
+"152,500 ","68 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,547m² ",06 Apr 2020
+"391,000 ","8/175 Frenchville Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,2,1,191m² ,03 Apr 2020
+"260,000 ","1/2 Kawana Close,",KAWANA QLD 4701,Apartment / Unit / Flat,3,2,1,323m² ,25 Mar 2020
+"235,000 ","7/93 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,3,1,2,130m² ,20 Mar 2020
+"182,000 ","Lot 3 Diploma Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,844m² ,19 Mar 2020
+"225,000","3/79 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,148m² ,12 Mar 2020
+"287,500 ","10/40 Carara Drive,",KAWANA QLD 4701,Apartment / Unit / Flat,3,2,3,220m² ,12 Mar 2020
+"170,000 ","11 HOPKINS STREET,",PARK AVENUE QLD 4701,Vacant land,0,0,0,773m² ,07 Feb 2020
+"135,000 ","233 German Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,796m² ,05 Feb 2020
+"225,000","4/17 Meyenberg Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,293m² ,31 Jan 2020
+"146,000 ","7 Bradley Place,",KAWANA QLD 4701,Vacant land,0,0,0,700m² ,30 Jan 2020
+"255,000 ","2 Blair Street,",KAWANA QLD 4701,Apartment / Unit / Flat,4,2,2,601m² ,17 Jan 2020
+"85,000 ","37A Hardacre Street,",WANDAL QLD 4700,Vacant land,0,0,0,506m² ,24 Dec 2019
+"210,000 ","3/152 Elphinstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,4,219m² ,19 Dec 2019
+"232,000 ","233 Flanagan Street,",FRENCHVILLE QLD 4701,Block of units,4,2,2,663m² ,16 Dec 2019
+"365,000 ","101/19 Schuffenhauer Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,2,172m² ,29 Nov 2019
+"95,000 ","16/366-370 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,181m² ,25 Nov 2019
+"436,000 ","139 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,6,3,3,784m² ,19 Nov 2019
+"80,000 ","1 Sleipner Street,",MOUNT ARCHER QLD 4701,Vacant land,0,0,0,916m² ,01 Nov 2019
+"205,000 ","Lot 123 Waterford Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,056m² ",30 Oct 2019
+"225,000 ","4/119 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,3,199m² ,24 Sep 2019
+"22,000","17 GRACE STREET,",PORT CURTIS QLD 4700,Vacant land,0,0,0,"3,880m² ",16 Sep 2019
+"200,000 ","4/90 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,2,149m² ,07 Sep 2019
+"200,000 ","4/90 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,149m² ,07 Sep 2019
+"154,000 ","34 Geoff Wilson Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,630m² ,30 Aug 2019
+"185,000 ","1/406 Dean Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,97m² ,22 Aug 2019
+"150,000 ","1/93-95 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Townhouse,3,1,1,304m² ,15 Aug 2019
+"580,000 ","107 Artillery Road,",IRONPOT QLD 4701,Vacant land,0,0,0,0,07 Aug 2019
+"120,000 ","7 Hinton Street,",KOONGAL QLD 4701,Vacant land,0,0,0,600m² ,02 Aug 2019
+"370,000 ","7/200 Upper Dawson Road,",THE RANGE QLD 4700,Apartment / Unit / Flat,3,2,1,161m² ,31 Jul 2019
+"320,000 ","100 Edington Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,2,5,910m² ,26 Jul 2019
+"90,000 ","381 Waterloo Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,645m² ,23 Jul 2019
+"330,000 ","503 Nagle Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,0,2019
+"270,000 ","373 Feez Street,",NORMAN GARDENS QLD 4701,Block of units,6,2,2,600m² ,17 Jul 2019
+"190,000 ","2/398 Feez Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,281m² ,02 Jul 2019
+"310,000 ","13/19 Schuffenhauer Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,121m² ,28 Jun 2019
+"240,000","150-152 Angela Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,677m² ",20 Jun 2019
+"348,000 ","2/188-192 Upper Dawson Road,",THE RANGE QLD 4700,Townhouse,2,2,1,153m² ,07 Jun 2019
+"110,000 ","129 Guymer Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,632m² ,03 Jun 2019
+"238,000 ","34 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"5,509m² ",31 May 2019
+"300,000 ","2/31 Livermore Street,",WANDAL QLD 4700,Apartment / Unit / Flat,3,2,1,152m² ,24 May 2019
+"225,000 ","12/236 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,214m² ,17 May 2019
+"95,000","233 Eldon Street,",BERSERKER QLD 4701,Vacant land,0,0,0,617m² ,09 May 2019
+"78,000 ","3/11 Jeffries Street,",THE RANGE QLD 4700,Vacant land,0,0,0,563m² ,29 Apr 2019
+"147,000 ","203 High Street,",BERSERKER QLD 4701,Vacant land,0,0,0,0,2019
+"340,000 ","29 Bulman Street,",NORMAN GARDENS QLD 4701,Block of units,6,3,3,"1,030m² ",08 Apr 2019
+"350,000 ","7 Broad Court,",NORMAN GARDENS QLD 4701,Block of units,6,3,3,"1,044m² ",25 Mar 2019
+"680,000 ","1, 2, 3/34 Wentworth Terrace,",THE RANGE QLD 4700,Block of units,10,4,5,911m² ,14 Mar 2019
+"173,000","27 Angela Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,004m² ",01 Mar 2019
+"195,000","2/15 Card Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,104m² ,29 Jan 2019
+"155,000 ","1/73 Livingstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,97m² ,18 Jan 2019
+"265,000","16 BERNARD STREET,",BERSERKER QLD 4701,Development site,6,2,4,637m² ,18 Jan 2019
+"300,000 ","339 Dean Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"3,514m² ",20 Dec 2018
+"225,000 ","1/240 GERMAN Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,293m² ,19 Dec 2018
+"315,000 ","61 Edington Street,",BERSERKER QLD 4701,Block of units,4,2,4,741m² ,17 Dec 2018
+"220,000 ","10/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,05 Dec 2018
+"72,500 ","9A Reynolds Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"2,972m² ",05 Dec 2018
+"230,000","4/33 Oswald Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,227m² ,22 Nov 2018
+"130,000","2/137 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,105m² ,19 Nov 2018
+"90,000 ","318 Thirkettle Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,081m² ",07 Nov 2018
+"165,000","2/93 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,3,1,1,233m² ,12 Oct 2018
+"142,000 ","15/375-383 Duthie Avenue,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,2,124m² ,03 Oct 2018
+"197,000 ","2/121 Park Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,3,1,1,310m² ,28 Sep 2018
+"224,004 ","1/18 Bruce Hiskins Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,1,125m² ,19 Sep 2018
+"275,000 ","1/25 Ross Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,2,212m² ,31 Aug 2018
+"215,000","214 Angela Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,019m² ",29 Aug 2018
+"175,000","3/37 Armstrong Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,2,93m² ,28 Aug 2018
+"600,000 ","9 Kawana Close,",KAWANA QLD 4701,Block of units,10,3,4,"1,000m² ",23 Aug 2018
+"220,000 ","204 Elphinstone Street,",BERSERKER QLD 4701,Block of units,7,3,3,"1,315m² ",14 Aug 2018
+"159,000 ","Lot 7 Bradley Place Riverview Estate Rockhampton,",KAWANA QLD 4701,Vacant land,0,0,0,753m² ,13 Aug 2018
+"70,000 ","11 Bank Street,",PARK AVENUE QLD 4701,Vacant land,0,0,0,405m² ,09 Aug 2018
+"159,000 ","Lot 5 Bradley Place Riverview Estate Rockhampton,",KAWANA QLD 4701,Vacant land,0,0,0,738m² ,05 Aug 2018
+"300,000 ","4 PILLICH STREET,",KAWANA QLD 4701,Block of units,4,2,5,667m² ,20 Jul 2018
+"285,000 ","27 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,− 0,− 0,8,"5,010m² ",21 Jun 2018
+"340,000","1/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Townhouse,3,2,1,170m² ,15 Jun 2018
+"220,000","27 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,044m² ",23 May 2018
+"230,000 ","198 Angela Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,014m² ",30 Apr 2018
+"399,000 ","95 Archer Street,",ALLENSTOWN QLD 4700,Block of units,8,4,4,640m² ,12 Apr 2018
+"142,000 ","128 Mitchell Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,607m² ,06 Apr 2018
+"175,000","216 Craig Street,",BERSERKER QLD 4701,Vacant land,0,0,0,"8,429m² ",22 Mar 2018
+"138,000 ","13 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,600m² ,16 Mar 2018
+"240,000 ","2/17 Meyenberg Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,305m² ,11 Mar 2018
+"325,000","19/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Block of units,3,2,1,164m² ,27 Feb 2018
+"90,000 ","43 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,648m² ,16 Feb 2018
+"160,000 ","17a Bowen Terrace,",THE RANGE QLD 4700,Vacant land,0,0,0,"1,026m² ",12 Jan 2018
+"190,000","3/210 William Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,86m² ,08 Jan 2018
+"225,000 ","2/37 Carara Drive,",KAWANA QLD 4701,Townhouse,3,2,1,275m² ,15 Dec 2017
+"270,000","1/31 King Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,2,2,230m² ,04 Dec 2017
+"200,000 ","7 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"8,093m² ",17 Nov 2017
+"100,000","11 Kilkenny Court,",KAWANA QLD 4701,Vacant land,0,0,0,897m² ,10 Nov 2017
+"80,000","1 McColl Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,592m² ,07 Nov 2017
+"187,500 ","14 Stoneybrook Court,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,585m² ",30 Oct 2017
+"142,000","1/128 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,2,88m² ,2017
+"310,000 ","1/23 Ross Street,",ALLENSTOWN QLD 4700,Block of units,3,2,2,168m² ,08 Sep 2017
+"85,000 ","13 Totteridge Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"4,452m² ",31 Aug 2017
+"265,000 ","4/26 Henry Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,2,278m² ,29 Aug 2017
+"145,000","3/3 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,180m² ,11 Aug 2017
+"217,500 ","6/333 Balaclava Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,216m² ,08 Aug 2017
+"285,000 ","9/269 Richardson Road,",KAWANA QLD 4701,Apartment / Unit / Flat,3,2,1,214m² ,19 Jul 2017
+"325,000 ","2/5 Penlington Street,",THE RANGE QLD 4700,Townhouse,3,2,1,241m² ,26 Jun 2017
+"165,000","11 Trenwith Terrace,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,041m² ",23 May 2017
+"162,000","1/2 Chalmers Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,306m² ,17 May 2017
+"225,000 ","36 Church Street,",ALLENSTOWN QLD 4700,Vacant land,0,0,0,"1,020m² ",09 May 2017
+"450,000 ","1-3/246 Archer Street,",THE RANGE QLD 4700,Block of units,2,1,1,227m² ,02 May 2017
+"305,000 ","3/121 Caroline Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,2,325m² ,07 Apr 2017
+"260,000 ","4/27 Nicholson Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,234m² ,24 Mar 2017
+"254,000","11/1 Currawong Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,243m² ,24 Mar 2017
+"122,500 ","19 Geoff Wilson Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,780m² ,16 Mar 2017
+"158,000 ",".9 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,600m² ,12 Mar 2017
+"159,000 ",".15 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,630m² ,12 Mar 2017
+"158,000 ","Lot 10/9 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,600m² ,12 Mar 2017
+"150,000","1/110 High Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,175m² ,06 Mar 2017
+"160,000","5/3 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,180m² ,02 Mar 2017
+"185,000 ","130 Constance Avenue,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"5,456m² ",02 Mar 2017
+"345,000 ","2/188-192 Upper Dawson Road,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,2,1,153m² ,28 Feb 2017
+"280,000 ","14/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,1,164m² ,27 Feb 2017
+"299,000 ","24/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,263m² ,24 Feb 2017
+"170,000","1/232 Ford Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,79m² ,13 Feb 2017
+"200,000 ","1/173 Kerrigan Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,97m² ,09 Feb 2017
+"225,000","13/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,08 Feb 2017
+"112,000","3/44 Haynes Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,2,1,1,778m² ,03 Feb 2017
+"335,000 ","2/93 Talford Street,",ALLENSTOWN QLD 4700,Townhouse,4,2,1,173m² ,28 Jan 2017
+"240,000","2/17 Meyenberg Court,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,305m² ,15 Jan 2017
+"200,000 ","Lot 10/12 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,001m² ",05 Jan 2017
+"126,000 ","47 Emu Park Road,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"1,745m² ",19 Dec 2016
+"223,000","2/16 Poole Street,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,114m² ,09 Dec 2016
+"242,000 ","42 Wentworth Terrace,",THE RANGE QLD 4700,Vacant land,0,0,0,911m² ,09 Dec 2016
+"290,000 ","30 Maxwell Street,",NORMAN GARDENS QLD 4701,Block of units,4,2,2,600m² ,30 Nov 2016
+"315,000 ","1/51 Bishop Street,",THE RANGE QLD 4700,Townhouse,3,2,2,220m² ,29 Nov 2016
+"300,000 ","2/59 Edward Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,140m² ,14 Nov 2016
+"70,000 ","Lot 24 Hopkins Street,",PARK AVENUE QLD 4701,Vacant land,0,0,0,383m² ,01 Nov 2016
+"325,000","11/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,158m² ,22 Oct 2016
+"280,000","7/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,203m² ,05 Oct 2016
+"197,000","12 Trenwith Terrace,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,248m² ",19 Sep 2016
+"240,000","12/1 Currawong Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,237m² ,02 Sep 2016
+"775,000 ","78 Little Glencoe Street,",THE RANGE QLD 4700,Block of units,12,6,6,867m² ,19 Aug 2016
+"180,000","1/15 Wigginton Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,82m² ,03 Aug 2016
+"362,600 ","1-3/38 Nicholson Street,",ALLENSTOWN QLD 4700,Block of units,6,3,3,886m² ,19 Jul 2016
+"121,000 ","2/27 Capricorn Crescent,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,497m² ,18 Jul 2016
+"218,000 ","29 Inverary Way,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,209m² ",17 Jun 2016
+"367,500 ","86 Brecknell Street,",THE RANGE QLD 4700,Vacant land,0,0,0,"1,012m² ",31 May 2016
+"95,000","13/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,163m² ,27 Apr 2016
+"348,000 ","18 Baden Powell Street,",WANDAL QLD 4700,Apartment / Unit / Flat,6,2,2,506m² ,23 Apr 2016
+"230,000 ","18/74 Richmond Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,109m² ,2016
+"195,000 ","17/7 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,−,147m² ,19 Apr 2016
+"295,000 ","11/249 Mason Street,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,2,2,475m² ,08 Apr 2016
+"265,000 ","2/121 Caroline Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,183m² ,15 Mar 2016
+"235,000 ","2/121 Park Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,3,1,1,310m² ,11 Mar 2016
+"660,000 ","84 Spencer Street,",THE RANGE QLD 4700,Block of units,8,4,4,"1,278m² ",11 Mar 2016
+"185,000","9/190 Lion Creek Road,",WANDAL QLD 4700,Vacant land,0,0,0,504m² ,23 Feb 2016
+"299,000","1/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,157m² ,16 Feb 2016
+"305,000","Unit 8/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,203m² ,13 Feb 2016
+"226,000","Unit 4/31 Oswald Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,139m² ,04 Feb 2016
+"267,500 ","L500/679 Yeppoon Road,",LIMESTONE CREEK QLD 4701,Vacant land,0,0,0,0,03 Feb 2016
+"340,000 ","202 Elphinstone Street,",BERSERKER QLD 4701,Block of units,8,4,4,"1,714m² ",18 Dec 2015
+"265,000","3/236 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,212m² ,16 Dec 2015
+"180,000","17 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,012m² ",26 Nov 2015
+"175,000","8/100-104 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,91m² ,2015
+"206,000 ","75 Bunya Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,000m² ",18 Nov 2015
+"205,000","24 Millroy Street,",WANDAL QLD 4700,Vacant land,0,0,0,"1,113m² ",21 Oct 2015
+"230,000 ","2/408 Thozet Road,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,3,1,1,459m² ,08 Oct 2015
+"251,000 ","8/385 Shand Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,2,1,216m² ,06 Oct 2015
+"220,000","1/72 Medcraf Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,2,1,1,99m² ,06 Oct 2015
+"320,000","3/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,203m² ,2015
+"660,000 ","85-87 High Street,",BERSERKER QLD 4701,Vacant land,0,0,0,"2,839m² ",02 Oct 2015
+"270,000","14 Candlebark Court,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,201m² ",24 Sep 2015
+"70,000 ","23 Edith Street,",PORT CURTIS QLD 4700,Vacant land,0,0,0,"1,947m² ",02 Sep 2015
+"169,000 ","Lot 100 Crestwood Estate - Land,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,760m² ,26 Aug 2015
+"165,000 ","Lot/9 Haven Close,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,769m² ,03 Aug 2015
+"320,000","Unit 10/15 Parkside Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,157m² ,30 Jun 2015
+"654,000 ","65 Scott Street,",KAWANA QLD 4701,Apartment / Unit / Flat,6,3,4,"1,029m² ",29 Jun 2015
+"184,000","9 Hansen Street,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"2,649m² ",24 Jun 2015
+"348,500 ","15 Wright Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,4,2,2,601m² ,24 Jun 2015
+"175,000 ","82 Sunset Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,963m² ,13 Jun 2015
+"169,000 ","Lot 87 Crestwood Estate - Land,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,630m² ,03 Jun 2015
+"165,000 ","Lot/30 Geoff Wilson Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,630m² ,08 May 2015
+"195,000","3 Cobble Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,900m² ,28 Apr 2015
+"200,000","1/127 Menzies Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,2,1,2,644m² ,26 Apr 2015
+"545,000 ","629 Ibis Avenue,",KAWANA QLD 4701,Apartment / Unit / Flat,9,3,3,"1,062m² ",20 Apr 2015
+"620,000 ","295 Bloxsom Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,6,3,3,970m² ,28 Mar 2015
+"170,000 ","Lot 8 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,608m² ,24 Mar 2015
+"200,000 ","6/31 West Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,93m² ,24 Mar 2015
+"240,000 ","11/93 Pennycuick Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,2,1,1,270m² ,07 Mar 2015
+"175,000","25 Sunset Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,906m² ",26 Feb 2015
+"300,000 ","35 Bulman Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,4,2,2,602m² ,13 Feb 2015
+"230,000","2/22 Weinholt Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,82m² ,11 Feb 2015
+"169,000","11 Trenwith Terrace,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,041m² ",11 Feb 2015
+"205,000 ","Lot/19 Skyline Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,744m² ",09 Feb 2015
+"175,000 ","Lot 106 Crestwood Estate,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,673m² ,03 Feb 2015
+"665,000 ","1 & 2/106 Springfield Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,2,814m² ,30 Dec 2014
+"300,000 ","36 Elphinstone Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,2,1,263m² ,11 Dec 2014
+"440,000 ","18 Docherty Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,933m² ,06 Dec 2014
+"139,000 ","6 Benrhys Court,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,561m² ",01 Dec 2014
+"139,000 ","6 Benrhys Court,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,561m² ",01 Dec 2014
+"250,000 ","12 Trinity Avenue, Paramount Park,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,271m² ",18 Nov 2014
+"148,000 ","Lot/637 Montgomerie Street,",LAKES CREEK QLD 4701,Vacant land,0,0,0,"4,047m² ",17 Nov 2014
+"223,960 ","Lot 5 German Street, The Gardens Estate,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,614m² ,11 Nov 2014
+"100,000 ","Lot/10 Sleipner Street,",MOUNT ARCHER QLD 4701,Vacant land,0,0,0,422m² ,17 Oct 2014
+"222,500","10 Cascade Close,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,471m² ",07 Oct 2014
+"160,000 ","37 Jellicoe Street,",PORT CURTIS QLD 4700,Vacant land,0,0,0,0,22 Sep 2014
+"214,000 ","2/342 Marsh Avenue,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,2,106m² ,11 Aug 2014
+"720,000 ","48 Denning Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,8,4,4,"1,404m² ",06 Aug 2014
+"363,750","3/76 Wandal Road,",WANDAL QLD 4700,Townhouse,3,2,1,146m² ,25 Jul 2014
+"190,000","2/14 Peterson Street,",WEST ROCKHAMPTON QLD 4700,Apartment / Unit / Flat,2,1,1,101m² ,18 Jul 2014
+"269,000 ","10/35 Ross Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,2,100m² ,17 Jul 2014
+"380,000 ","1 & 2 / 294 Bloxsom Street,",KOONGAL QLD 4701,Apartment / Unit / Flat,4,2,2,613m² ,04 Jul 2014
+"185,000 ","23 Rosella Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,080m² ",02 Jul 2014
+"280,000 ","Lot 108 Angela Road,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,019m² ",30 Jun 2014
+"158,000","31 Forbes Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,103m² ",25 Jun 2014
+"175,000 ","90/Lot 90 Geoff Wilson Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,630m² ,20 Jun 2014
+"300,000","13/240 German Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,264m² ,19 Jun 2014
+"310,000","1/79 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,3,1,1,250m² ,16 Jun 2014
+"968,000 ","1 Murray Street,",WANDAL QLD 4700,Apartment / Unit / Flat,10,5,10,"1,012m² ",13 Jun 2014
+"192,000","20 Murlay Avenue,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,008m² ",30 May 2014
+"242,500","3 Greenwood Close,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,202m² ",10 May 2014
+"390,000 ","380 Duthie Avenue,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,4,2,2,668m² ,07 Apr 2014
+"173,000 ","Lot 5 German Street, The Gardens Estate,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,614m² ,21 Mar 2014
+"285,000 ","3/24 Price Avenue,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,103m² ,20 Mar 2014
+"175,000 ","Lot 6 / 195 German Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,614m² ,11 Mar 2014
+"253,000 ","Lot 141 Stirling Drive,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,582m² ",03 Mar 2014
+"170,000 ","Lot 3 Gardens Estate,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,614m² ,28 Feb 2014
+"237,620 ","6 German Street, The Gardens Estate,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,614m² ,27 Feb 2014
+"275,500","18 / 100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,1,1,222m² ,13 Feb 2014
+"190,000","2/14 Potts Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,88m² ,12 Feb 2014
+"290,000","8/240 German Street,",FRENCHVILLE QLD 4701,Apartment / Unit / Flat,2,1,1,214m² ,31 Jan 2014
+"390,000 ","4 Bruigom Street,",NORMAN GARDENS QLD 4701,Block of units,4,2,2,600m² ,24 Jan 2014
+"245,000","14/7 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,147m² ,16 Jan 2014
+"185,000","32 Julie Crescent,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,600m² ,15 Jan 2014
+"172,000 ","4 German Street, The Gardens Estate,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,614m² ,14 Jan 2014
+"210,000 ","8 Athelstane Terrace,",THE RANGE QLD 4700,Vacant land,0,0,0,"1,012m² ",20 Dec 2013
+"235,000","1/17 Stenlake Avenue,",KAWANA QLD 4701,Apartment / Unit / Flat,3,1,1,253m² ,30 Oct 2013
+"274,000","1/42 Bruigom Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,406m² ,02 Oct 2013
+"196,000","12/104 Talford Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,91m² ,16 Sep 2013
+"190,000","4 Tulipwood Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,860m² ,16 Aug 2013
+"237,000","3/232 Ford Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,79m² ,22 Jul 2013
+"142,500 ","68/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,3,1,1,188m² ,28 Jun 2013
+"305,000","23/17-19 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,2,1,108m² ,24 Jun 2013
+"113,000 ","47/366 Rockonia Road,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,157m² ,20 Jun 2013
+"169,000","13 Haven Close,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,769m² ,06 Jun 2013
+"110,000","9 Sleipner Street,",MOUNT ARCHER QLD 4701,Vacant land,0,0,0,766m² ,29 May 2013
+"330,000","4/59 Edward Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,3,2,1,140m² ,28 May 2013
+"185,000","15 Stoneybrook Court,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"3,787m² ",22 May 2013
+"176,000","8 Rainbow Court,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,"1,461m² ",13 May 2013
+"155,000","41 Rosewood Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,659m² ,13 May 2013
+"225,000","2/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,278m² ,11 May 2013
+"172,500","1/322 Warnock Street,",KOONGAL QLD 4701,Apartment / Unit / Flat,2,1,1,392m² ,06 May 2013
+"117,500","25 Rose Street,",KOONGAL QLD 4701,Vacant land,0,0,0,705m² ,19 Apr 2013
+"280,000","9/1 Currawong Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,274m² ,30 Mar 2013
+"175,000","23 Alan Drive,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,879m² ,28 Feb 2013
+"248,000","6/223 Denham Street,",THE RANGE QLD 4700,Apartment / Unit / Flat,2,1,1,83m² ,15 Feb 2013
+"162,000","3 Tahlani Court,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,643m² ,27 Jan 2013
+"155,000","4 Tahlani Court,",FRENCHVILLE QLD 4701,Vacant land,0,0,0,600m² ,27 Jan 2013
+"367,000","7/17 Plumb Drive,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,2,1,176m² ,23 Jan 2013
+"105,000","5 Foale Court,",KAWANA QLD 4701,Vacant land,0,0,0,803m² ,18 Jan 2013
+"360,000","2/76 Wandal Road,",WANDAL QLD 4700,Apartment / Unit / Flat,3,2,1,146m² ,15 Jan 2013
+"205,000","10 Trenwith Terrace,",ROCKYVIEW QLD 4701,Vacant land,0,0,0,"4,940m² ",14 Jan 2013
+"175,000","33 Sunset Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,833m² ,26 Nov 2012
+"117,000","53/366 Rockonia Road,",KOONGAL QLD 4701,Townhouse,2,1,1,172m² ,06 Nov 2012
+"240,000","1/158 Stanley Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,219m² ,05 Nov 2012
+"248,000","13/5 Kingfisher Parade,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,2,1,1,168m² ,25 Oct 2012
+"175,000","31 Sunset Drive,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,"1,077m² ",24 Oct 2012
+"360,000","4/76 Wandal Road,",WANDAL QLD 4700,Apartment / Unit / Flat,3,2,1,145m² ,12 Sep 2012
+"255,000","2/45 Denning Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,3,1,1,192m² ,11 Sep 2012
+"219,000 ","1/89 Buzacott Street,",PARK AVENUE QLD 4701,Apartment / Unit / Flat,2,1,1,74m² ,06 Sep 2012
+"689,000 ","204 Bawden Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,8,4,4,810m² ,04 Sep 2012
+"177,500","9 Zamia Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,946m² ,09 Aug 2012
+"238,000","191 Elphinstone Street,",BERSERKER QLD 4701,Vacant land,0,0,0,"1,090m² ",24 Jul 2012
+"228,000","22/100 Victoria Place,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,201m² ,16 Jul 2012
+"217,500 ","2/3 Dunbavan Place,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,−,348m² ,01 Jun 2012
+"247,500","3/210 William Street,",ALLENSTOWN QLD 4700,Apartment / Unit / Flat,2,1,1,850m² ,30 Apr 2012
+"140,000","10 Broad Court,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,601m² ,17 Apr 2012
+"142,000","30 Bullman Street,",NORMAN GARDENS QLD 4701,Vacant land,0,0,0,601m² ,17 Apr 2012
+"325,000 ","7 Savage Street,",WANDAL QLD 4700,Apartment / Unit / Flat,4,2,2,506m² ,05 Mar 2012
+"119,000","24 Cowap Street,",PARK AVENUE QLD 4701,Vacant land,0,0,0,607m² ,07 Feb 2012
+"125,000 ","23 Lamington Street,",THE RANGE QLD 4700,Vacant land,0,0,0,801m² ,01 Feb 2012
+"120,000","121 Connor Street,",KOONGAL QLD 4701,Vacant land,0,0,0,728m² ,11 Jan 2012
+"105,000","222 Elphinstone Street,",KOONGAL QLD 4701,Vacant land,0,0,0,551m² ,06 Jan 2012
+"105,000","222 Elphinstone Street,",KOONGAL QLD 4701,Vacant land,0,0,0,551m² ,06 Jan 2012
+"136,000","65 Edington Street,",BERSERKER QLD 4701,Vacant land,0,0,0,736m² ,04 Jan 2012
+"136,000","65 Edington Street,",BERSERKER QLD 4701,Vacant land,0,0,0,736m² ,04 Jan 2012
+"125,000 ","10 Connemara Drive,",KAWANA QLD 4701,Vacant land,0,0,0,804m² ,23 Dec 2011
+"200,000","6 Cavell Street,",WANDAL QLD 4700,Vacant land,0,0,0,"1,012m² ",17 Oct 2011
+"265,000","2/17 Smithwick Street,",NORMAN GARDENS QLD 4701,Apartment / Unit / Flat,3,1,1,251m² ,06 Oct 2011
+"270,000 ","23 Reddy Drive,",NORTH ROCKHAMPTON QLD 4701,Vacant land,0,0,0,900m² ,31 Aug 2011
+"170,000","1/257 Hook Street,",BERSERKER QLD 4701,Apartment / Unit / Flat,2,1,1,803m² ,09 Jun 2011

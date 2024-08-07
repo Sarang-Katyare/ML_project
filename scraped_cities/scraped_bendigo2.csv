@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,050,000 ","145 Williamson Street & 5 Harcourt Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"2,020m² ",2024
+"315,000 ","124 King Street,",BENDIGO VIC 3550,Vacant land,0,0,0,247m² ,22 Feb 2024
+"375,000 ","3/113 Bridge Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,60m² ,07 Feb 2024
+"400,000","180 King Street,",BENDIGO VIC 3550,Vacant land,0,0,0,529m² ,10 Jan 2024
+"400,000 ","1/12 Wortha Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,307m² ,28 Sep 2023
+"396,000 ","2/42 Brougham Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,224m² ,05 Sep 2023
+"575,000 ","6/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,25 Aug 2023
+"405,000 ","1/151 Williamson Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,292m² ,27 Jun 2023
+"430,000 ","16A Bennett Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,3,1,1,360m² ,19 Jun 2023
+"200,000 ","20 Hill Street,",BENDIGO VIC 3550,Vacant land,0,0,0,591m² ,20 May 2023
+"322,000 ","91 Wills Street,",BENDIGO VIC 3550,Vacant land,0,0,0,337m² ,11 May 2023
+"360,000 ","2/32 Arnold Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,176m² ,19 Apr 2023
+"795,000 ","49 Hopetoun Street,",BENDIGO VIC 3550,Townhouse,2,2,1,258m² ,11 Apr 2023
+"455,000 ","2/139 Rowan Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,187m² ,07 Feb 2023
+"485,000 ","9/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,1,1,1,633m² ,20 Dec 2022
+"410,000 ","4/16 Dooley Street,",BENDIGO VIC 3550,Townhouse,3,1,1,338m² ,12 Dec 2022
+"375,000 ","1/117 Hargreaves Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,160m² ,25 Nov 2022
+"480,000","4/213-215 McCrae Street,",BENDIGO VIC 3550,Townhouse,2,2,1,223m² ,22 Nov 2022
+"556,000 ","8/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,21 Nov 2022
+"450,000 ","14 Havelock St,",BENDIGO VIC 3550,Vacant land,2,1,−,417m² ,09 Nov 2022
+"670,000 ","11/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,02 Nov 2022
+"480,000 ","2 Buller Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,267m² ,04 Oct 2022
+"660,000","2/9 Acacia Street,",BENDIGO VIC 3550,Townhouse,3,2,1,148m² ,27 Sep 2022
+"320,000 ","201A McCrae Street,",BENDIGO VIC 3550,Vacant land,0,0,0,337m² ,19 Sep 2022
+"465,000 ","2/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,19 Sep 2022
+"430,000 ","30 Arthur Street,",BENDIGO VIC 3550,Vacant land,0,0,0,274m² ,14 Sep 2022
+"310,000 ","12A Niemann Street,",BENDIGO VIC 3550,Vacant land,0,0,0,401m² ,08 Sep 2022
+"360,000 ","3/193 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,235m² ,01 Sep 2022
+"600,000 ","36A Harpin Street,",BENDIGO VIC 3550,Townhouse,3,2,1,402m² ,30 Aug 2022
+"727,000 ","114 Barnard Street,",BENDIGO VIC 3550,Townhouse,2,2,1,184m² ,25 Aug 2022
+"300,000 ","316a Napier Street,",BENDIGO VIC 3550,Vacant land,0,0,0,316m² ,17 Aug 2022
+"595,000 ","5/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,11 Aug 2022
+"510,000 ","12/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,19 Jul 2022
+"390,000 ","2/3 Bailes Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,296m² ,21 Jun 2022
+"320,000 ","318 Napier Street,",BENDIGO VIC 3550,Vacant land,0,0,0,300m² ,21 Jun 2022
+"630,000 ","10/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,17 Jun 2022
+"500,000 ","3/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,1,1,1,633m² ,08 Jun 2022
+"500,500 ","7/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,06 Jun 2022
+"585,000 ","1/2-4 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,633m² ,30 May 2022
+"570,000","2/157 Mitchell Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,3,2,2,268m² ,25 May 2022
+"772,000 ","284 Napier Street,",BENDIGO VIC 3550,Vacant land,− 0,− 0,1,720m² ,20 May 2022
+"419,000 ","122 King Street,",BENDIGO VIC 3550,Vacant land,0,0,0,242m² ,25 Mar 2022
+"350,000","40 Uley St,",BENDIGO VIC 3550,Vacant land,0,0,0,303m² ,24 Mar 2022
+"320,000 ","36a Drought Street,",BENDIGO VIC 3550,Vacant land,0,0,0,349m² ,18 Mar 2022
+"410,000 ","85 Langston Street,",BENDIGO VIC 3550,Vacant land,0,0,0,420m² ,03 Mar 2022
+"650,000 ","9 Atkinson Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,010m² ",17 Feb 2022
+"400,000 ","4/209 McCrae Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,116m² ,21 Jan 2022
+"350,000 ","316 Napier Street,",BENDIGO VIC 3550,Vacant land,0,0,0,351m² ,19 Jan 2022
+"320,000 ","1 Old Violet Street,",BENDIGO VIC 3550,Vacant land,0,0,0,301m² ,12 Jan 2022
+"775,000","32 Doak Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,646m² ",21 Dec 2021
+"460,000 ","10 Tomlins Street,",BENDIGO VIC 3550,Townhouse,2,1,1,223m² ,23 Nov 2021
+"645,000 ","3/36 Bayne Street,",BENDIGO VIC 3550,Townhouse,3,2,2,175m² ,15 Nov 2021
+"1,780,000 ","1-6/14 Waterloo Street,",BENDIGO VIC 3550,Block of units,10,7,9,"1,096m² ",01 Nov 2021
+"880,000 ","60-62 Mundy Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,012m² ",22 Oct 2021
+"240,000 ","Lot 2/2 Tribute Lane,",BENDIGO VIC 3550,Vacant land,0,0,0,278m² ,15 Oct 2021
+"425,000 ","3/112-114 Marong Road,",BENDIGO VIC 3550,Apartment / Unit / Flat,3,2,1,330m² ,25 Aug 2021
+"365,000","2/112-114 Marong Road,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,135m² ,18 Aug 2021
+"925,000 ","1-4/13 Flood Street,",BENDIGO VIC 3550,Block of units,5,5,7,"1,025m² ",17 Aug 2021
+"285,000 ","2/12 Murphy Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,−,120m² ,10 Aug 2021
+"493,000 ","4 Forest Lane,",BENDIGO VIC 3550,Townhouse,3,1,−,253m² ,02 Aug 2021
+"410,600 ","2/12 Wortha Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,245m² ,13 Jul 2021
+"151,000 ","5A Steane Street,",BENDIGO VIC 3550,Vacant land,0,0,0,237m² ,25 Jun 2021
+"310,000 ","Lot 2 Corner Chapel Street & Larritt Street,",BENDIGO VIC 3550,Vacant land,0,0,0,269m² ,21 May 2021
+"185,000 ","14 McClure Street,",BENDIGO VIC 3550,Vacant land,0,0,0,478m² ,10 May 2021
+"665,000 ","2/15 Abbott Street,",BENDIGO VIC 3550,Townhouse,3,2,2,217m² ,18 Mar 2021
+"1,320,000","196 Arnold Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,317m² ",2021
+"200,000 ","6 Little Hill Street,",BENDIGO VIC 3550,Vacant land,0,0,0,524m² ,05 Mar 2021
+"210,000 ","19A Milroy Street,",BENDIGO VIC 3550,Vacant land,0,0,0,621m² ,26 Feb 2021
+"295,000 ","5 Joseph Street,",BENDIGO VIC 3550,Vacant land,0,0,0,426m² ,17 Feb 2021
+"280,000 ","1/125 Mitchell Street,",BENDIGO VIC 3550,Townhouse,2,1,1,250m² ,05 Feb 2021
+"290,000","12A Niemann Street,",BENDIGO VIC 3550,Vacant land,0,0,0,401m² ,23 Dec 2020
+"675,000 ","32a Uley Street,",BENDIGO VIC 3550,Townhouse,3,2,2,214m² ,10 Dec 2020
+"250,000 ","5 Tribute Lane,",BENDIGO VIC 3550,Vacant land,0,0,0,267m² ,01 Dec 2020
+"290,000 ","2/63 Hopetoun Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,120m² ,16 Nov 2020
+"275,000","64 Ross St,",BENDIGO VIC 3550,Vacant land,0,0,0,"2,045m² ",06 Oct 2020
+"499,000 ","34B Havlin Street,",BENDIGO VIC 3550,Townhouse,2,2,2,86m² ,17 Sep 2020
+"275,000 ","245B Wattle Street,",BENDIGO VIC 3550,Vacant land,0,0,0,420m² ,10 Aug 2020
+"366,000 ","17/83-87 Arnold Street,",BENDIGO VIC 3550,Townhouse,2,2,2,76m² ,07 Aug 2020
+"245,000 ","1/16 Bennett Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,270m² ,05 Aug 2020
+"435,000 ","90 Barkly Terrace West,",BENDIGO VIC 3550,Townhouse,2,1,2,300m² ,03 Aug 2020
+"207,400 ","9 Galvin Street,",BENDIGO VIC 3550,Vacant land,0,0,0,219m² ,24 Jul 2020
+"530,000 ","Units 1-3/112-114 Marong Road,",BENDIGO VIC 3550,Block of units,7,3,2,900m² ,24 Jul 2020
+"167,000 ","8A Thunder Street,",BENDIGO VIC 3550,Vacant land,0,0,0,255m² ,21 Jul 2020
+"176,667","Unit 1/112-114 Marong Road,",BENDIGO VIC 3550,Apartment / Unit / Flat,1,1,−,165m² ,09 Jul 2020
+"540,000 ","34C Havlin Street,",BENDIGO VIC 3550,Townhouse,2,2,2,102m² ,07 Jul 2020
+"320,000 ","123D McIvor Road,",BENDIGO VIC 3550,Vacant land,0,0,0,967m² ,02 Jul 2020
+"330,000 ","Lot 2/32 Arthur Street,",BENDIGO VIC 3550,Vacant land,0,0,0,274m² ,27 May 2020
+"675,000 ","36B Havlin Street,",BENDIGO VIC 3550,Townhouse,3,2,2,174m² ,22 Apr 2020
+"270,000 ","5/209-211 McCrae Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,190m² ,06 Mar 2020
+"238,000 ","2 Wortha Street,",BENDIGO VIC 3550,Vacant land,0,0,0,383m² ,10 Jan 2020
+"515,000 ","5 Carnegie Way,",BENDIGO VIC 3550,Townhouse,3,2,2,134m² ,16 Dec 2019
+"180,000 ","75A Langston Street,",BENDIGO VIC 3550,Vacant land,0,0,0,256m² ,18 Nov 2019
+"505,000 ","9B Niemann Street,",BENDIGO VIC 3550,Townhouse,3,2,1,234m² ,2019
+"250,000 ","2/43 Drought Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,1,1,1,192m² ,01 Nov 2019
+"515,000 ","3 Carnegie Way,",BENDIGO VIC 3550,Townhouse,3,2,2,134m² ,08 Oct 2019
+"515,000 ","3 Carnegie Way,",BENDIGO VIC 3550,Townhouse,3,2,2,134m² ,13 Sep 2019
+"207,000 ","15 Havelock Street,",BENDIGO VIC 3550,Vacant land,0,0,0,229m² ,31 Jul 2019
+"235,000 ","2/193 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,215m² ,05 Apr 2019
+"444,000 ","2/164 Arnold Street,",BENDIGO VIC 3550,Townhouse,2,2,1,144m² ,26 Mar 2019
+"192,500 ","Lot 3/35 Havlin Street East,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,237m² ",04 Mar 2019
+"240,000","163 Arnold Street,",BENDIGO VIC 3550,Vacant land,0,0,0,518m² ,24 Dec 2018
+"222,000 ","2/1A Bayne Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,208m² ,14 Jul 2018
+"240,000 ","1/274 Barnard Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,245m² ,25 Jun 2018
+"240,000 ","1/193 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,220m² ,31 May 2018
+"273,000 ","2/10 York Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,253m² ,10 May 2018
+"245,000 ","Lot 4, 117A Lansell Terrace,",BENDIGO VIC 3550,Vacant land,0,0,0,606m² ,26 Apr 2018
+"780,000 ","16-20 Barkly Street,",BENDIGO VIC 3550,Vacant land,0,0,0,806m² ,2018
+"225,000 ","Lot 5 - 117A Lansell Terrace,",BENDIGO VIC 3550,Vacant land,0,0,0,560m² ,03 Apr 2018
+"580,000 ","4 Frederick Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,474m² ",12 Jan 2018
+"255,000 ","1/12 Niemann Street,",BENDIGO VIC 3550,Vacant land,0,0,0,401m² ,06 Dec 2017
+"290,000 ","86 Brougham Street,",BENDIGO VIC 3550,Vacant land,0,0,0,364m² ,16 Nov 2017
+"465,000 ","3/35 Sternberg Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,3,2,2,242m² ,03 Sep 2017
+"370,000 ","4/43 Mitchell Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,−,115m² ,11 Jul 2017
+"120,000","3 Bell Street,",BENDIGO VIC 3550,Vacant land,0,0,0,404m² ,06 Jul 2017
+"215,000 ","Lot 6, 119 Lansell Terrace,",BENDIGO VIC 3550,Vacant land,0,0,0,648m² ,06 Jun 2017
+"125,000 ","26 Buckley Street,",BENDIGO VIC 3550,Vacant land,0,0,0,374m² ,16 May 2017
+"330,000 ","10 Holt Street,",BENDIGO VIC 3550,Vacant land,0,0,0,306m² ,21 Mar 2017
+"285,000 ","Lot 2/25 Niemann Street,",BENDIGO VIC 3550,Vacant land,0,0,0,318m² ,23 Feb 2017
+"256,000","4/143 Thistle Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,221m² ,29 Dec 2016
+"540,000","4 Frederick Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,474m² ",12 Dec 2016
+"315,000 ","50B Old Violet Street,",BENDIGO VIC 3550,Townhouse,2,1,2,229m² ,09 Dec 2016
+"285,000 ","Lot 3/25 Niemann Street,",BENDIGO VIC 3550,Vacant land,0,0,0,317m² ,22 Sep 2016
+"625,000 ","104 Marong Road,",BENDIGO VIC 3550,Vacant land,0,0,0,0,23 May 2016
+"250,500 ","4/71 Mollison Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,180m² ,12 Apr 2016
+"380,000 ","20 Opperman Lane,",BENDIGO VIC 3550,Vacant land,0,0,0,0,21 Mar 2016
+"310,000 ","2/42 Brougham Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,200m² ,18 Feb 2016
+"219,000 ","1/17 Creek Street South,",BENDIGO VIC 3550,Apartment / Unit / Flat,1,1,1,150m² ,28 Jan 2016
+"268,000 ","Lot 1/42 Brougham Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,210m² ,19 Jan 2016
+"620,000 ","1-4/19 Forest Lane,",BENDIGO VIC 3550,Apartment / Unit / Flat,4,4,4,525m² ,11 Jan 2016
+"360,000 ","6 Shipp Street,",BENDIGO VIC 3550,Townhouse,2,1,1,165m² ,12 Nov 2015
+"265,000","2/9 Carwardine Street,",BENDIGO VIC 3550,Townhouse,3,1,1,350m² ,21 Oct 2015
+"500,000 ","151 Rowan Street,",BENDIGO VIC 3550,Vacant land,0,0,0,"1,360m² ",2015
+"162,500 ","2/26 Woodbury Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,1,1,1,200m² ,04 Sep 2015
+"220,000 ","2/63 Hopetoun Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,300m² ,13 Aug 2015
+"116,600","61 Little Breen Street,",BENDIGO VIC 3550,Vacant land,0,0,0,270m² ,2015
+"255,000 ","1/125 Mitchell Street,",BENDIGO VIC 3550,Townhouse,2,1,1,250m² ,12 Jun 2015
+"215,000 ","104 Vine Street,",BENDIGO VIC 3550,Vacant land,0,0,0,301m² ,05 Jun 2015
+"359,000 ","9/83 - 87 Arnold Street,",BENDIGO VIC 3550,Townhouse,2,1,2,150m² ,17 Apr 2015
+"150,000 ","46A Nolan Street,",BENDIGO VIC 3550,Vacant land,0,0,0,473m² ,27 Feb 2015
+"300,000 ","6/58 Holdsworth Road,",BENDIGO VIC 3550,Townhouse,3,2,2,303m² ,03 Oct 2014
+"352,500 ","16/83 Arnold Street,",BENDIGO VIC 3550,Townhouse,2,2,2,230m² ,24 Sep 2014
+"159,500 ","1/9A Smith Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,1,1,1,150m² ,23 Jul 2014
+"220,000 ","30 The Terrace, Kennington,",BENDIGO VIC 3550,Vacant land,0,0,0,608m² ,25 Jun 2014
+"337,000","1/10 Larritt Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,310m² ,31 May 2014
+"325,000 ","1/32 Joseph Street,",BENDIGO VIC 3550,Townhouse,2,2,1,187m² ,2014
+"207,000","2/193 Queen Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,215m² ,07 Mar 2014
+"200,000","11 Lucan Street,",BENDIGO VIC 3550,Vacant land,0,0,0,293m² ,13 Sep 2013
+"217,500","2/116 Holdsworth Road,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,268m² ,23 May 2013
+"278,000","2/125 Mitchell Street,",BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,150m² ,20 May 2013
+"632,500","54 Mundy Street,",BENDIGO VIC 3550,Vacant land,0,0,0,882m² ,12 Oct 2012
+"632,500","54 Mundy Street,",BENDIGO VIC 3550,Vacant land,0,0,0,882m² ,12 Oct 2012
+"150,000 ","Lot 24A Woodvale,",BENDIGO VIC 3550,Vacant land,0,0,0,"4,000m² ",02 Dec 2011
+"750,000 ","70 Mill Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,"1,830m² ",2024
+"515,000 ","2/18A Heinz Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,3,2,2,306m² ,15 Mar 2024
+"570,000 ","2/96B MacKenzie Street West,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,2,328m² ,12 Mar 2024
+"310,000 ","9/9 Crusoe Road,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,240m² ,12 Mar 2024
+"375,000","2/204 Aspinall Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,2,379m² ,01 Mar 2024
+"280,000 ","5/22 Norfolk Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,119m² ,23 Feb 2024
+"235,000 ","90 Alder Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,582m² ,22 Feb 2024
+"400,000 ","3/27 Prouses Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,229m² ,20 Feb 2024
+"405,000 ","2/27 Prouses Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,251m² ,20 Feb 2024
+"550,000 ","9A Lawson Street,",SPRING GULLY VIC 3550,Apartment / Unit / Flat,2,2,1,356m² ,20 Feb 2024
+"355,000 ","5/216 Arnold Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,2,164m² ,12 Feb 2024
+"308,000 ","2/40 Church Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,229m² ,09 Feb 2024
+"340,000 ","2/15 Sternberg Street,",KENNINGTON VIC 3550,Townhouse,2,1,1,94m² ,09 Feb 2024
+"420,000 ","4/23 Alexander Street,",KANGAROO FLAT VIC 3555,Townhouse,3,1,2,204m² ,05 Feb 2024
+"202,000 ","21A Osborn Avenue,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,503m² ,30 Jan 2024
+"290,000","4/45 McLachlan Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,317m² ,24 Jan 2024
+"240,000 ","15 Happy Valley Road,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,581m² ,19 Jan 2024
+"450,000 ","61 Keogh Drive,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"1,820m² ",16 Jan 2024
+"410,000 ","2/19 Pinnaroo Court,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,380m² ,11 Jan 2024
+"465,000 ","44 Steane Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,765m² ,09 Jan 2024
+"280,000 ","1/22 Norfolk Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,199m² ,22 Dec 2023
+"600,000 ","30 Cousins Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,890m² ,22 Dec 2023
+"510,000 ","5/81A Maple Street,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,1,307m² ,19 Dec 2023
+"435,000 ","3/174 Retreat Road,",SPRING GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,220m² ,11 Dec 2023
+"300,000 ","1/12 Sparrowhawk Road,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,273m² ,30 Nov 2023
+"475,000 ","3/4 Keck Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,3,2,2,241m² ,28 Nov 2023
+"430,000 ","2/51 Butcher Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,336m² ,27 Nov 2023
+"365,000 ","38 Herbert Avenue,",STRATHDALE VIC 3550,Vacant land,0,0,0,785m² ,24 Nov 2023
+"325,000 ","1/22 Spring Hill Drive,",SPRING GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,232m² ,21 Nov 2023
+"407,500 ","17 Hyde Street,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,246m² ,15 Nov 2023
+"245,000 ","Lot Lot 2/19 Curnow Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,484m² ,15 Nov 2023
+"515,000 ","1 Sedgwick Close,",KENNINGTON VIC 3550,Townhouse,2,1,1,369m² ,15 Nov 2023
+"405,000 ","2/50 Marnie Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,262m² ,09 Nov 2023
+"345,000 ","2/1 Derby Grove,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,372m² ,08 Nov 2023
+"760,000 ","32 Doak Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"1,728m² ",06 Nov 2023
+"543,000 ","9B Wirth Street,",FLORA HILL VIC 3550,Townhouse,3,2,2,256m² ,05 Nov 2023
+"320,000 ","127 Panton Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,103m² ,02 Nov 2023
+"360,000 ","1/19 Olympic Parade,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,3,1,1,292m² ,02 Nov 2023
+"755,000 ","16 Doak Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"1,030m² ",2023
+"590,000 ","5/35 Sternberg Street,",KENNINGTON VIC 3550,Townhouse,3,2,2,175m² ,27 Oct 2023
+"320,000 ","3/16 Wireless Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,200m² ,24 Oct 2023
+"415,000 ","7B Inglewood Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,257m² ,23 Oct 2023
+"190,000 ","2/67 Strickland Road,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,244m² ,20 Oct 2023
+"215,000 ","3/67 Strickland Road,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,338m² ,20 Oct 2023
+"350,000","32 Woodward Road,",GOLDEN GULLY VIC 3555,Vacant land,0,0,0,0,19 Oct 2023
+"310,000 ","5/9 Crusoe Road,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,211m² ,13 Oct 2023
+"1,160,000 ","115 Havlin Street East,",FLORA HILL VIC 3550,Block of units,2,1,1,"1,270m² ",12 Oct 2023
+"380,000 ","4/420  - 422 High Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,2,2,309m² ,10 Oct 2023
+"390,000 ","5748A Calder Highway,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,234m² ,10 Oct 2023
+"365,000 ","1/9 Akoonah Drive,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,351m² ,02 Oct 2023
+"335,000 ","7/34 Prouses Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,218m² ,02 Oct 2023
+"279,000 ","20 Loriini Place,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,557m² ,28 Sep 2023
+"320,000 ","3/12 Lobb Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,171m² ,28 Sep 2023
+"290,000 ","4/8 Murphy Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,105m² ,27 Sep 2023
+"360,000 ","4/2 Rodney Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,200m² ,22 Sep 2023
+"346,000 ","2/21 Poplar Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,349m² ,20 Sep 2023
+"510,000 ","2c Flora Lane,",FLORA HILL VIC 3550,Townhouse,2,2,1,194m² ,18 Sep 2023
+"290,000 ","unit 1/115 Havlin Street East,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,200m² ,08 Sep 2023
+"290,000 ","2/115 Havlin Street East,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,200m² ,08 Sep 2023
+"290,000 ","4/115 Havlin Street East,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,200m² ,07 Sep 2023
+"290,000 ","3/115 Havlin Street East,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,200m² ,07 Sep 2023
+"325,000 ","2A Houston Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,271m² ,05 Sep 2023
+"355,000 ","5/29 Glencoe Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,227m² ,31 Aug 2023
+"370,000 ","2/5 Clarence Avenue,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,240m² ,31 Aug 2023
+"305,000 ","92 Kangaroo Gully Road,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"3,222m² ",30 Aug 2023
+"415,000 ","2/37 Race Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,306m² ,28 Aug 2023
+"355,000 ","7 McCarthy Drive,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,787m² ,25 Aug 2023
+"390,000","9/20 O'Neill Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,231m² ,23 Aug 2023
+"370,000","85 Langston Street,",IRONBARK VIC 3550,Vacant land,0,0,0,389m² ,22 Aug 2023
+"325,000 ","1/85 Havlin St East,",FLORA HILL VIC 3550,Apartment / Unit / Flat,1,1,1,232m² ,17 Aug 2023
+"425,000 ","2/48 Houlahan Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,3,1,−,132m² ,15 Aug 2023
+"340,000 ","4/8 Clarke Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,166m² ,14 Aug 2023
+"374,000 ","5/18 Delbridge Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,182m² ,06 Aug 2023
+"290,000 ","Lot 2, 26 Cowper Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,"3,549m² ",03 Aug 2023
+"157,500 ","Lot 2 Steane Street,",KENNINGTON VIC 3550,Vacant land,− 0,− 0,1,225m² ,31 Jul 2023
+"340,000 ","8/34 Prouses Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,207m² ,31 Jul 2023
+"382,500 ","1/97B Panton Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,247m² ,24 Jul 2023
+"595,000 ","3/100 St Aidans Road,",KENNINGTON VIC 3550,Townhouse,3,2,2,334m² ,24 Jul 2023
+"200,000 ","3/3, 17 Grantham Terrace,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,299m² ,21 Jul 2023
+"730,000 ","10 Norfolk Street,",NORTH BENDIGO VIC 3550,Townhouse,4,2,2,289m² ,21 Jul 2023
+"415,000 ","2/29 Adam Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,207m² ,19 Jul 2023
+"375,000 ","16 Rivergum Court,",NORTH BENDIGO VIC 3550,Townhouse,3,1,1,197m² ,28 Jun 2023
+"230,000","56 Scott Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,646m² ,28 Jun 2023
+"130,000 ","Lot 3/6 Norfolk Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,196m² ,22 Jun 2023
+"440,000 ","1/1 Holland Court,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,181m² ,16 Jun 2023
+"260,000 ","Lot 3/59 Thunder Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,699m² ,16 Jun 2023
+"445,000 ","1A Humme Street,",EAST BENDIGO VIC 3550,Townhouse,2,1,1,250m² ,09 Jun 2023
+"435,000 ","3/103 Crusoe Road,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,280m² ,08 Jun 2023
+"202,000 ","1/1, 17 Grantham Terrace,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,336m² ,08 Jun 2023
+"640,000 ","26 Graham Street,",QUARRY HILL VIC 3550,Townhouse,3,2,1,206m² ,06 Jun 2023
+"395,000 ","1/371 Napier Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,2,1,1,320m² ,05 Jun 2023
+"622,500 ","1/116A Harley Street,",STRATHDALE VIC 3550,Townhouse,3,2,2,274m² ,02 Jun 2023
+"135,000 ","Lot 4/6 Norfolk Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,234m² ,01 Jun 2023
+"400,000 ","6/20 Glencoe Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,2,150m² ,31 May 2023
+"420,000 ","12A Bosquet Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,2,1,1,231m² ,22 May 2023
+"425,000","70 Nettle Street,",IRONBARK VIC 3550,Vacant land,0,0,0,491m² ,17 May 2023
+"180,000 ","50 Derwent Dr,",LONG GULLY VIC 3550,Vacant land,0,0,0,719m² ,15 May 2023
+"405,000 ","7/20 O'Neill Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,244m² ,15 May 2023
+"510,000 ","2/8 Sharon Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,4,2,2,674m² ,11 May 2023
+"400,000 ","13 Taylor Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,0,0 May 2023
+"950,000 ","1/43A Reservoir Road,",STRATHDALE VIC 3550,Townhouse,4,2,2,380m² ,10 May 2023
+"225,000 ","6 Rheola Drive,",WHITE HILLS VIC 3550,Vacant land,0,0,0,488m² ,05 May 2023
+"179,000 ","10 Stone Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,498m² ,26 Apr 2023
+"405,000 ","2/33 Kennewell Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,3,1,1,299m² ,26 Apr 2023
+"305,000 ","4 Deakin Drive,",FLORA HILL VIC 3550,Vacant land,0,0,0,823m² ,21 Apr 2023
+"280,000 ","21 Soldatos Drive,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,421m² ,20 Apr 2023
+"420,000 ","1/1 Nandina Court,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,352m² ,20 Apr 2023
+"315,000 ","5/6 Minto Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,98m² ,19 Apr 2023
+"235,000 ","5 Burns Street,",SPRING GULLY VIC 3550,Vacant land,0,0,0,465m² ,11 Apr 2023
+"300,000 ","3/34 Eaglehawk Road,",IRONBARK VIC 3550,Apartment / Unit / Flat,2,1,1,150m² ,04 Apr 2023
+"545,000 ","1/26 Hodgkinson Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,3,1,1,330m² ,29 Mar 2023
+"342,000 ","6/43 Helm Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,297m² ,28 Mar 2023
+"555,000 ","2/10 Landale Drive,",STRATHDALE VIC 3550,Apartment / Unit / Flat,3,2,2,451m² ,28 Mar 2023
+"135,000 ","15A Reverie Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,326m² ,24 Mar 2023
+"460,000","1/24 James Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,382m² ,24 Mar 2023
+"840,000 ","11 YOUNG STREET,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"2,564m² ",22 Mar 2023
+"370,000 ","8/107 St Killian Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,2,1,1,218m² ,20 Mar 2023
+"390,000 ","4/27 Nish Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,136m² ,16 Mar 2023
+"445,000 ","12 Highview Terrace,",KANGAROO FLAT VIC 3555,Townhouse,2,1,1,236m² ,10 Mar 2023
+"580,000 ","7 Wisteria Court,",FLORA HILL VIC 3550,Townhouse,4,2,2,292m² ,24 Feb 2023
+"450,000 ","2/5 Goldwyn Court,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,603m² ,24 Feb 2023
+"341,000","3/69-71 Symonds Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,2,296m² ,23 Feb 2023
+"425,000 ","11 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,937m² ,22 Feb 2023
+"385,000 ","153 Osborne Street,",FLORA HILL VIC 3550,Vacant land,0,0,0,"1,455m² ",20 Feb 2023
+"135,000 ","2/9 Daniel Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,288m² ,17 Feb 2023
+"248,000","74 Alder Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,582m² ,16 Feb 2023
+"265,000 ","8 Burn Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,426m² ,07 Feb 2023
+"448,000","15 Ridgeway Crescent,",KENNINGTON VIC 3550,Vacant land,0,0,0,"1,242m² ",
+"210,000 ","1/24 Holmes Road,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,422m² ,24 Jan 2023
+"400,000 ","5/20 Oneill Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,231m² ,19 Jan 2023
+"500,000 ","17 Mill Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,"1,243m² ",18 Jan 2023
+"195,000 ","92 Upper California Gully Road,",LONG GULLY VIC 3550,Vacant land,0,0,0,"1,208m² ",10 Jan 2023
+"290,000 ","175 Olympic Parade,",KANGAROO FLAT VIC 3555,Vacant land,− 0,− 0,2,"1,307m² ",03 Jan 2023
+"421,500 ","3/41 Helm Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,339m² ,07 Dec 2022
+"412,500 ","5/33 Kennewell Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,3,1,1,288m² ,05 Dec 2022
+"340,000 ","4 Susan Street,",IRONBARK VIC 3550,Apartment / Unit / Flat,2,1,1,364m² ,28 Nov 2022
+"250,000 ","2/27 Robert Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,358m² ,28 Nov 2022
+"410,000 ","3/102-104 St Aidans Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,2,211m² ,21 Nov 2022
+"150,000 ","165 Arnold Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,462m² ,17 Nov 2022
+"285,000 ","3/101 Chum Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,1,1,1,90m² ,14 Nov 2022
+"460,000 ","3/25 Albert Street,",LONG GULLY VIC 3550,Apartment / Unit / Flat,3,2,1,346m² ,14 Nov 2022
+"353,000 ","116 Mackenzie Street West,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,855m² ,04 Nov 2022
+"480,000 ","1/95 Lowndes Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,296m² ,02 Nov 2022
+"465,000 ","31 Nabilla Crescent,",STRATHDALE VIC 3550,Vacant land,0,0,0,519m² ,31 Oct 2022
+"240,000 ","8/47 Spring Gully Road,",SPRING GULLY VIC 3550,Vacant land,0,0,0,302m² ,29 Oct 2022
+"408,000 ","2/9 Skene Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,223m² ,24 Oct 2022
+"330,000 ","77 Kennewell Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,954m² ,24 Oct 2022
+"310,000 ","14 Bentley Terrace,",QUARRY HILL VIC 3550,Vacant land,0,0,0,610m² ,21 Oct 2022
+"360,000 ","2/29 Amaroo Crescent,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,285m² ,21 Oct 2022
+"410,000 ","5/18 Lowe Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,215m² ,14 Oct 2022
+"250,000 ","1/15 Poplar Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,605m² ,06 Oct 2022
+"389,000 ","2/38 Ophir Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,155m² ,06 Oct 2022
+"390,000 ","2/2 Nabilla Crescent,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,309m² ,05 Oct 2022
+"635,000 ","169 & 171 Olympic Parade,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"1,591m² ",29 Sep 2022
+"375,000 ","1/3 Stanley Avenue,",SPRING GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,304m² ,29 Sep 2022
+"200,000 ","56 Friswell Avenue,",FLORA HILL VIC 3550,Vacant land,0,0,0,"3,605m² ",26 Sep 2022
+"515,000 ","13/21 Heinz Street,",WHITE HILLS VIC 3550,Townhouse,3,2,2,434m² ,20 Sep 2022
+"550,000 ","8 Bignold Avenue,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,875m² ,01 Sep 2022
+"340,000 ","2/9 Sutton Court,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,323m² ,26 Aug 2022
+"250,000 ","41 Jeffrey Avenue,",FLORA HILL VIC 3550,Vacant land,0,0,0,300m² ,24 Aug 2022
+"350,000 ","1/147 Kangaroo Gully Road,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"8,004m² ",24 Aug 2022
+"655,000 ","1 - 3 / 64 Specimen Hill Road,",GOLDEN SQUARE VIC 3555,Block of units,5,3,5,768m² ,22 Aug 2022
+"355,000 ","3/22 Brown Street,",LONG GULLY VIC 3550,Townhouse,2,1,1,281m² ,19 Aug 2022
+"395,000 ","4/22 Yarunga Drive,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,262m² ,18 Aug 2022
+"365,000 ","12 Cannon Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,805m² ,11 Aug 2022
+"222,000","11A Ryan St,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,567m² ,11 Aug 2022
+"401,000 ","9 Elm Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,345m² ,10 Aug 2022
+"465,000 ","1/34 Button Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,"1,022m² ",09 Aug 2022
+"360,000 ","6/107 Holmes Road,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,141m² ,05 Aug 2022
+"270,000 ","23A Jackman Court,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,916m² ,31 Jul 2022
+"285,000 ","4 Symes Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,365m² ,27 Jul 2022
+"300,000 ","1/6 Minto Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,155m² ,20 Jul 2022
+"525,000 ","30 Barnett Drive,",KANGAROO FLAT VIC 3555,Townhouse,3,1,1,401m² ,12 Jul 2022
+"750,000 ","17 Paterson Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,"2,449m² ",11 Jul 2022
+"612,000 ","13 Sternberg Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,"1,010m² ",04 Jul 2022
+"200,000 ","Lot 2/2 Allingham Street,",GOLDEN SQUARE VIC 3555,Vacant land,− 0,− 0,1,198m² ,28 Jun 2022
+"2,550,000 ","13 Tennyson Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,0,27 Jun 2022
+"250,000 ","16 Montrose Court,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,530m² ,24 Jun 2022
+"315,000 ","51 Reginald Street,",QUARRY HILL VIC 3550,Townhouse,1,1,1,135m² ,22 Jun 2022
+"455,000","9 Ryan St,",NORTH BENDIGO VIC 3550,Vacant land,2,1,−,"1,107m² ",21 Jun 2022
+"405,000 ","2/11 Laxdale Court,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,2,1,331m² ,15 Jun 2022
+"318,000 ","177 Olympic Parade,",KANGAROO FLAT VIC 3555,Vacant land,− 0,− 0,2,"1,218m² ",09 Jun 2022
+"224,000 ","613 Hargreaves Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,300m² ,02 Jun 2022
+"254,000 ","5/58 Panton Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,1,1,1,150m² ,02 Jun 2022
+"420,500 ","3/10 Button Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,3,1,1,275m² ,31 May 2022
+"245,000 ","8 Reville Close,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,538m² ,26 May 2022
+"340,000 ","1/6 MAPLE STREET,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,229m² ,24 May 2022
+"690,000 ","6/2 Pilcher Street,",STRATHDALE VIC 3550,Townhouse,3,2,2,234m² ,24 May 2022
+"515,000 ","2/16 Mayfield Parade,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,571m² ,21 May 2022
+"480,000 ","1/116 Havlin Street West,",QUARRY HILL VIC 3550,Townhouse,2,2,1,219m² ,09 May 2022
+"465,000 ","3/35 Pallet Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,3,2,2,300m² ,06 May 2022
+"420,500 ","2/4 Kooyong Close,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,379m² ,05 May 2022
+"480,000 ","2/116 Havlin Street West,",QUARRY HILL VIC 3550,Townhouse,2,2,1,299m² ,02 May 2022
+"240,000 ","Lot 11/14 Renwick Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,302m² ,30 Apr 2022
+"395,000 ","3/33 Hayes Street,",IRONBARK VIC 3550,Apartment / Unit / Flat,2,1,1,254m² ,28 Apr 2022
+"430,000 ","3/23 Alexander Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,2,1,183m² ,22 Apr 2022
+"480,000 ","4/6 Friswell Avenue,",FLORA HILL VIC 3550,Townhouse,3,2,2,260m² ,21 Apr 2022
+"342,000 ","2/63 Booth Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,163m² ,21 Apr 2022
+"220,000 ","7A Hodgkinson Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,375m² ,21 Apr 2022
+"380,000 ","3/22 Somerville Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,133m² ,19 Apr 2022
+"441,000 ","6/10 Druid Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,3,1,1,259m² ,19 Apr 2022
+"620,000 ","2/20 Wirth Street,",FLORA HILL VIC 3550,Townhouse,3,2,2,194m² ,16 Apr 2022
+"410,000 ","8/8 Clarke Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,261m² ,12 Apr 2022
+"205,000 ","6/72A Spring Gully Road,",SPRING GULLY VIC 3550,Vacant land,0,0,0,416m² ,10 Apr 2022
+"237,000 ","2 Reville Close,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,512m² ,01 Apr 2022
+"290,000 ","52a High Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,616m² ,29 Mar 2022
+"312,500 ","25 Sundew Drive,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,860m² ,24 Mar 2022
+"540,000 ","1/8 Sharon Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,4,2,1,391m² ,21 Mar 2022
+"410,000 ","Unit 2/14 Jeffrey Avenue,",FLORA HILL VIC 3550,Townhouse,2,1,1,364m² ,17 Mar 2022
+"260,000","86 Alder Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,646m² ,11 Mar 2022
+"365,000 ","4/16 Aspinall Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,183m² ,11 Mar 2022
+"286,000 ","4/4 Rheola Drive,",WHITE HILLS VIC 3550,Vacant land,0,0,0,456m² ,10 Mar 2022
+"249,500 ","2/2 Kinross Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,362m² ,09 Mar 2022
+"295,000 ","54B Sparrowhawk Road,",LONG GULLY VIC 3550,Vacant land,− 0,− 0,1,"1,091m² ",09 Mar 2022
+"511,000 ","46 Harpin Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,965m² ,07 Mar 2022
+"375,000 ","5/22 Somerville Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,161m² ,07 Mar 2022
+"500,000 ","1/26 Hodgkinson Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,329m² ,07 Mar 2022
+"765,000 ","165-167 Olympic Parade,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"1,225m² ",03 Mar 2022
+"413,000 ","2/206 Neale Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,165m² ,01 Mar 2022
+"425,000 ","2/17 Spring Gully Road,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,186m² ,22 Feb 2022
+"265,000 ","Lot 2 / 37 Wade Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,645m² ,21 Feb 2022
+"350,000 ","3/8 Tennyson Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,135m² ,21 Feb 2022
+"375,000 ","10/107 St Killian Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,2,1,1,218m² ,18 Feb 2022
+"435,000 ","4/6 Fox Street,",EAST BENDIGO VIC 3550,Townhouse,3,1,1,270m² ,11 Feb 2022
+"390,000 ","Lot 1 Button Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,530m² ,09 Feb 2022
+"460,000 ","5/6 Friswell Avenue,",FLORA HILL VIC 3550,Apartment / Unit / Flat,3,2,2,263m² ,08 Feb 2022
+"455,000 ","2/3 Landale Drive,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,433m² ,03 Feb 2022
+"298,000 ","4/6 Race Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,1,1,1,181m² ,02 Feb 2022
+"340,000","2/8 Tennyson Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,147m² ,02 Feb 2022
+"550,000 ","12-16 Lisle Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"2,561m² ",27 Jan 2022
+"750,000","96 Happy Valley Road,",LONG GULLY VIC 3550,Vacant land,0,0,0,"5,296m² ",25 Jan 2022
+"371,000 ","1/23 Nabilla Crescent,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,302m² ,25 Jan 2022
+"395,000 ","38 Herbert Avenue,",STRATHDALE VIC 3550,Vacant land,0,0,0,780m² ,24 Jan 2022
+"415,000 ","1/10 John Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,372m² ,21 Jan 2022
+"371,000 ","2/23 Nabilla Crescent,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,246m² ,21 Jan 2022
+"470,000 ","11/131 Havlin Street East,",FLORA HILL VIC 3550,Townhouse,3,2,1,182m² ,20 Jan 2022
+"315,000 ","1a Robshaw Street,",IRONBARK VIC 3550,Vacant land,0,0,0,248m² ,14 Jan 2022
+"450,000 ","5/67 Church Street,",KANGAROO FLAT VIC 3555,Townhouse,3,2,2,300m² ,12 Jan 2022
+"335,000 ","1/9 Akoonah Drive,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,291m² ,11 Jan 2022
+"335,000 ","2/9 Akoonah Drive,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,2,351m² ,11 Jan 2022
+"385,000 ","3/16 McLachlan Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,2,340m² ,10 Jan 2022
+"385,000 ","3/16 McLachlan Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,2,340m² ,10 Jan 2022
+"750,000 ","10 Caledonia Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,"2,621m² ",30 Dec 2021
+"519,000","1/54 Mackenzie Street West,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,2,300m² ,28 Dec 2021
+"370,000","1/8 Tennyson Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,140m² ,21 Dec 2021
+"315,000","2/48 Happy Valley Road,",IRONBARK VIC 3550,Apartment / Unit / Flat,2,1,1,272m² ,17 Dec 2021
+"380,000 ","2/18 Palm Avenue,",SPRING GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,213m² ,17 Dec 2021
+"355,000 ","13 Eaglehawk Road,",IRONBARK VIC 3550,Vacant land,0,0,0,437m² ,15 Dec 2021
+"405,000 ","1/154-156 Neale Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,280m² ,14 Dec 2021
+"295,000","2/28 Townsend Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,269m² ,09 Dec 2021
+"380,000 ","9B Ophir Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,367m² ,09 Dec 2021
+"470,000 ","26/202 St. Aidans Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,3,2,2,155m² ,09 Dec 2021
+"540,000 ","2/96B MacKenzie Street,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,2,328m² ,07 Dec 2021
+"345,000 ","4/18 Station Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,2,248m² ,02 Dec 2021
+"1,100,000 ","20 Collins Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"8,186m² ",02 Dec 2021
+"399,000 ","8/58 Holdsworth Road,",LONG GULLY VIC 3550,Apartment / Unit / Flat,3,2,2,286m² ,02 Dec 2021
+"450,000 ","39 Broad Parade,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"1,021m² ",02 Dec 2021
+"420,000 ","12 Lillie Lane,",STRATHDALE VIC 3550,Vacant land,0,0,0,828m² ,30 Nov 2021
+"165,000 ","63B Maple Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,459m² ,26 Nov 2021
+"150,000 ","15A Daniel Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,283m² ,24 Nov 2021
+"240,000 ","4 Symes Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"1,108m² ",23 Nov 2021
+"320,000 ","11 Manallack Street,",GOLDEN SQUARE VIC 3555,Vacant land,− 0,− 0,3,633m² ,19 Nov 2021
+"540,000 ","5/21 Heinz Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,3,2,2,415m² ,19 Nov 2021
+"470,000 ","1/22 Sharon Street,",FLORA HILL VIC 3550,Townhouse,3,2,2,337m² ,10 Nov 2021
+"285,000 ","15 Forbes Court,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,531m² ,10 Nov 2021
+"620,000 ","241a North Harley Street,",STRATHDALE VIC 3550,Townhouse,4,2,2,396m² ,10 Nov 2021
+"259,999","5/3B Spring Gully Road,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,1,1,1,97m² ,08 Nov 2021
+"250,000 ","Lot 1/21-25 Curtin Street,",FLORA HILL VIC 3550,Vacant land,0,0,0,427m² ,01 Nov 2021
+"380,000 ","35 Cousins Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,571m² ,30 Oct 2021
+"420,000 ","15 Longmore Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"1,108m² ",29 Oct 2021
+"260,000 ","14 Heinz Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,"1,378m² ",26 Oct 2021
+"410,000","123D Mcivor Rd,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,967m² ,21 Oct 2021
+"175,000 ","5/17 Grantham Terrace,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,246m² ,18 Oct 2021
+"350,000 ","7 Deakin Drive,",FLORA HILL VIC 3550,Vacant land,0,0,0,770m² ,14 Oct 2021
+"270,000 ","20 Forbes Court,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,387m² ,14 Oct 2021
+"312,000 ","3/23 Hope Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,124m² ,13 Oct 2021
+"192,500 ","2/17 Church Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,406m² ,13 Oct 2021
+"175,000 ","2/17 Grantham Terrace,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,248m² ,13 Oct 2021
+"290,000 ","3/26 Yallambee Drive,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,130m² ,12 Oct 2021
+"380,000 ","3/15 Buckley Street,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,214m² ,09 Oct 2021
+"387,500 ","2/13 Proud Terrace,",FLORA HILL VIC 3550,Apartment / Unit / Flat,3,2,1,292m² ,01 Oct 2021
+"245,000 ","Lot 11/14 Renwick Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,302m² ,01 Oct 2021
+"485,000 ","129 Murphy (cnr Johnstone St) Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"1,427m² ",29 Sep 2021
+"320,000 ","2/38 Black Street,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,357m² ,29 Sep 2021
+"190,000 ","7 Hansa Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,951m² ,27 Sep 2021
+"468,000 ","26 Sharon Street,",FLORA HILL VIC 3550,Townhouse,3,2,2,340m² ,25 Sep 2021
+"185,000 ","Lot 3 / 10 Murray Street,",FLORA HILL VIC 3550,Vacant land,0,0,0,355m² ,22 Sep 2021
+"375,000","2/50 Raglan Street,",WHITE HILLS VIC 3550,Townhouse,3,2,1,207m² ,20 Sep 2021
+"230,000 ","54-60 Derwent Gully Road,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,"4,090m² ",16 Sep 2021
+"370,000 ","2/4 Curtin Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,195m² ,15 Sep 2021
+"320,000 ","4/69 Mackenzie Street West,",GOLDEN SQUARE VIC 3555,Townhouse,2,1,1,278m² ,15 Sep 2021
+"380,000 ","3/18a Elwood Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,519m² ,13 Sep 2021
+"312,000 ","48/25 Norelle Crescent,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,780m² ,10 Sep 2021
+"582,000","51 Casey Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"1,550m² ",08 Sep 2021
+"210,000 ","3 Bell Street,",IRONBARK VIC 3550,Vacant land,0,0,0,405m² ,07 Sep 2021
+"392,500 ","4 Highview Terrace,",KANGAROO FLAT VIC 3555,Townhouse,2,2,1,263m² ,03 Sep 2021
+"350,000 ","6 Shinda Court,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,989m² ,31 Aug 2021
+"370,000 ","3/174 Retreat Road,",SPRING GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,220m² ,25 Aug 2021
+"448,000 ","2/21 Heinz Street,",WHITE HILLS VIC 3550,Townhouse,3,2,2,546m² ,20 Aug 2021
+"415,000 ","6/22A Emmett Street,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,2,307m² ,19 Aug 2021
+"430,000 ","2/27 MacDougall,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,2,402m² ,18 Aug 2021
+"405,000 ","4/12 Harpin Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,3,2,2,402m² ,16 Aug 2021
+"175,000 ","4/17 Grantham Terrace,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,296m² ,10 Aug 2021
+"400,000 ","6/20A Emmett Street,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,1,372m² ,09 Aug 2021
+"495,000 ","1 Everett Court,",STRATHDALE VIC 3550,Vacant land,0,0,0,701m² ,09 Aug 2021
+"265,000 ","50 Sparrowhawk Road,",LONG GULLY VIC 3550,Vacant land,0,0,0,"3,106m² ",04 Aug 2021
+"330,000 ","153 Osborne Street,",FLORA HILL VIC 3550,Vacant land,0,0,0,"1,439m² ",28 Jul 2021
+"310,000 ","7 The Gums Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,803m² ,26 Jul 2021
+"300,000","14 Cannon Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,805m² ,23 Jul 2021
+"465,000 ","2/83 Reservoir Road,",STRATHDALE VIC 3550,Townhouse,4,2,2,392m² ,23 Jul 2021
+"255,000 ","54 Topaz Avenue,",WHITE HILLS VIC 3550,Vacant land,0,0,0,"1,644m² ",20 Jul 2021
+"195,000 ","7 Reville Close,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,575m² ,19 Jul 2021
+"415,000 ","1/43 Butcher Street,",STRATHDALE VIC 3550,Townhouse,2,1,1,552m² ,18 Jul 2021
+"485,000 ","17 Mill Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,"1,243m² ",16 Jul 2021
+"320,000 ","13 Bettalan Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,594m² ,15 Jul 2021
+"330,000 ","Lot 2/30 Kendall Street,",SPRING GULLY VIC 3550,Vacant land,0,0,0,939m² ,14 Jul 2021
+"361,000 ","2/13 Allison Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,330m² ,09 Jul 2021
+"300,000 ","2/18a Elwood Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,440m² ,07 Jul 2021
+"338,500 ","15 Lowndes Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,707m² ,2021
+"440,000 ","4/67 Church Street,",KANGAROO FLAT VIC 3555,Townhouse,3,2,2,300m² ,30 Jun 2021
+"165,000 ","Lot 4 / 10 Murray Street,",FLORA HILL VIC 3550,Vacant land,0,0,0,300m² ,25 Jun 2021
+"297,500 ","1 Arilpa Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,822m² ,25 Jun 2021
+"256,000 ","7 New Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,510m² ,24 Jun 2021
+"394,975 ","3/67 Church Street,",KANGAROO FLAT VIC 3555,Townhouse,3,2,2,308m² ,22 Jun 2021
+"300,000 ","8/9 Crusoe Road,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,230m² ,22 Jun 2021
+"360,000 ","6B Taylor Street,",KANGAROO FLAT VIC 3555,Townhouse,2,1,1,286m² ,10 Jun 2021
+"347,600 ","2/8 Clarke Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,175m² ,09 Jun 2021
+"350,300 ","3/49 Sternberg Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,282m² ,31 May 2021
+"85,000 ","Lot 2/9 Daniel Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,288m² ,31 May 2021
+"1,050,000 ","1-4/47 Inglewood Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,"1,500m² ",28 May 2021
+"287,000 ","4 Dare Street,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,720m² ,28 May 2021
+"740,000 ","3 Ormond Place,",STRATHDALE VIC 3550,Townhouse,3,2,2,252m² ,26 May 2021
+"305,000 ","Lot 2, 13 Mill Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,576m² ,25 May 2021
+"300,000 ","110 Church Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,"15,701m² ",25 May 2021
+"435,400 ","1/27 Macdougall Road,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,1,383m² ,14 May 2021
+"420,000 ","3 Carlisle Place,",IRONBARK VIC 3550,Townhouse,3,1,1,341m² ,14 May 2021
+"565,000 ","1/29A Landale Drive,",STRATHDALE VIC 3550,Townhouse,3,2,2,401m² ,07 May 2021
+"135,000 ","2/2 Poulston Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,209m² ,04 May 2021
+"281,000","4/26 Woodbury Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,140m² ,30 Apr 2021
+"276,500 ","Lot 1 Elwood Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,439m² ,29 Apr 2021
+"300,000 ","2/79 Lockwood Road,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,540m² ,27 Apr 2021
+"325,000 ","3c Spring Gully Road,",QUARRY HILL VIC 3550,Vacant land,0,0,0,"1,021m² ",27 Apr 2021
+"279,000 ","Lot 5 Elwood Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,451m² ,26 Apr 2021
+"282,000","2/4 Richard Drive,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,281m² ,23 Apr 2021
+"330,000","2-10 Harley Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,650m² ,21 Apr 2021
+"340,000 ","6/10 Druid Street,",GOLDEN SQUARE VIC 3555,Townhouse,3,1,1,300m² ,20 Apr 2021
+"290,000 ","3/72 Condon Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,2,227m² ,20 Apr 2021
+"560,000 ","4/54 Sternberg Street,",KENNINGTON VIC 3550,Townhouse,3,2,2,212m² ,19 Apr 2021
+"260,000","7a Hewitt Avenue,",KENNINGTON VIC 3550,Vacant land,0,0,0,611m² ,16 Apr 2021
+"230,000 ","47 Powells Avenue,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,560m² ,14 Apr 2021
+"260,000 ","3/12 Lobb Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,171m² ,08 Apr 2021
+"240,000 ","66 Emmett Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"1,973m² ",31 Mar 2021
+"520,000 ","76A Condon Street Land,",KENNINGTON VIC 3550,Vacant land,0,0,0,570m² ,30 Mar 2021
+"155,000","Lot 2, 54 Day Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,431m² ,24 Mar 2021
+"100,000 ","2/2 Allingham Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,198m² ,22 Mar 2021
+"130,000 ","11/21 Heinz Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,514m² ,22 Mar 2021
+"587,500 ","8a Gordon Street,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"6,018m² ",2021
+"150,000 ","5/27 Pallett Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,313m² ,19 Mar 2021
+"260,000 ","8 Deakin Drive,",FLORA HILL VIC 3550,Vacant land,0,0,0,770m² ,16 Mar 2021
+"170,000 ","12A Holland Court,",KENNINGTON VIC 3550,Vacant land,0,0,0,487m² ,16 Mar 2021
+"390,000 ","17 Cousins Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,968m² ,2021
+"122,500 ","2 Inverness Court,",QUARRY HILL VIC 3550,Vacant land,0,0,0,980m² ,12 Mar 2021
+"160,000 ","7a Hodgkinson Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,375m² ,11 Mar 2021
+"307,500 ","3/76 High Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,250m² ,10 Mar 2021
+"255,000 ","1/61 Lawson Street,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"1,068m² ",10 Mar 2021
+"195,000","19B John St,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,556m² ,09 Mar 2021
+"147,000 ","31 Alder Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,509m² ,04 Mar 2021
+"230,000","52 High Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,616m² ,04 Mar 2021
+"163,000 ","33 Alder Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,582m² ,03 Mar 2021
+"387,500 ","2/21 Balmoral Drive,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,3,1,1,385m² ,03 Mar 2021
+"240,000 ","2/61 Lawson Street,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"1,049m² ",03 Mar 2021
+"280,000 ","Lots 1 & 2/10 Sturto Lane,",LONG GULLY VIC 3550,Vacant land,0,0,0,"1,210m² ",02 Mar 2021
+"785,000 ","16-18 Echuca Street,",QUARRY HILL VIC 3550,Block of units,6,4,4,998m² ,02 Mar 2021
+"275,000 ","7/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,02 Mar 2021
+"170,000 ","1/130 McIvor Road,",KENNINGTON VIC 3550,Vacant land,3,2,2,345m² ,01 Mar 2021
+"255,000","24 Landale Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,620m² ,01 Mar 2021
+"158,000 ","400 Alder Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,517m² ,26 Feb 2021
+"406,000","42 MacDougall Road,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"2,908m² ",26 Feb 2021
+"195,000 ","1/69 Bellevue Road,",QUARRY HILL VIC 3550,Vacant land,0,0,0,615m² ,26 Feb 2021
+"145,000 ","6/72A Spring Gully Road,",SPRING GULLY VIC 3550,Vacant land,0,0,0,416m² ,24 Feb 2021
+"275,000 ","19/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,23 Feb 2021
+"380,000","39 Houston Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,"1,266m² ",22 Feb 2021
+"130,000 ","12A Cambridge Crescent,",WHITE HILLS VIC 3550,Vacant land,0,0,0,236m² ,22 Feb 2021
+"380,000 ","21 Haase Road,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,0,19 Feb 2021
+"135,200","5a Kilby Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,546m² ,17 Feb 2021
+"190,000 ","42 Alder Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,562m² ,16 Feb 2021
+"242,000","1/6 Cockerell Court,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,276m² ,15 Feb 2021
+"237,000 ","1 Captain Court,",WHITE HILLS VIC 3550,Vacant land,0,0,0,732m² ,12 Feb 2021
+"395,000 ","2/35 Strickland Road,",EAST BENDIGO VIC 3550,Townhouse,3,2,1,300m² ,10 Feb 2021
+"270,000 ","5/14 Michelsen Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,224m² ,09 Feb 2021
+"159,000 ","2/29 Booth Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,309m² ,03 Feb 2021
+"255,000 ","2/1A Daniel Street,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,177m² ,03 Feb 2021
+"160,000 ","Lot 1, 86 Specimen Hill Road,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,582m² ,28 Jan 2021
+"380,000 ","13A Dane Street,",EAST BENDIGO VIC 3550,Townhouse,2,2,1,209m² ,27 Jan 2021
+"192,500 ","3/20 Skene Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,337m² ,27 Jan 2021
+"192,500 ","2/20 Skene Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,373m² ,27 Jan 2021
+"335,000 ","12 Lillie Lane,",STRATHDALE VIC 3550,Vacant land,0,0,0,828m² ,27 Jan 2021
+"415,000 ","34A Churchill Avenue,",FLORA HILL VIC 3550,Townhouse,2,1,−,332m² ,22 Jan 2021
+"301,000 ","2/7 Guy Court,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,415m² ,22 Jan 2021
+"295,250 ","4/116 Holdsworth Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,228m² ,21 Jan 2021
+"110,000","33 Victoria Avenue,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,256m² ,20 Jan 2021
+"420,557 ","7 Winterborne Rise,",KENNINGTON VIC 3550,Vacant land,0,0,0,"1,150m² ",19 Jan 2021
+"415,000 ","1A Churchill Avenue,",FLORA HILL VIC 3550,Townhouse,2,1,1,251m² ,18 Jan 2021
+"172,500 ","Lot 2, 86 Specimen Hill Road,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,605m² ,18 Jan 2021
+"175,000","19A John Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,574m² ,07 Jan 2021
+"157,500 ","67A Maple Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,511m² ,24 Dec 2020
+"315,000 ","97 Neale Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,333m² ,23 Dec 2020
+"507,000","1/53 Weeroona Avenue,",WHITE HILLS VIC 3550,Townhouse,3,2,3,292m² ,22 Dec 2020
+"175,000 ","Lot 3/45 Powells Avenue,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,674m² ,21 Dec 2020
+"170,000","8/47 Spring Gully Road,",SPRING GULLY VIC 3550,Vacant land,0,0,0,302m² ,20 Dec 2020
+"125,000 ","5 Page Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,247m² ,18 Dec 2020
+"217,500 ","10 Alfreda Place,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,804m² ,16 Dec 2020
+"192,500 ","22 Steane Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,337m² ,16 Dec 2020
+"365,000 ","10/131 Havlin Street East,",FLORA HILL VIC 3550,Townhouse,3,2,1,185m² ,15 Dec 2020
+"305,000 ","1/82 High Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,315m² ,15 Dec 2020
+"195,000 ","17 - 21 Cross St,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"2,289m² ",15 Dec 2020
+"420,069 ","1/45 Mackenzie Street West,",GOLDEN SQUARE VIC 3555,Townhouse,3,2,2,311m² ,14 Dec 2020
+"675,000 ","1-5/3-5 Clarcoll Crescent,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,7,5,5,"2,204m² ",12 Dec 2020
+"200,000 ","2/46 Mafeking Street South,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,181m² ,11 Dec 2020
+"360,000 ","26 Cowper Street,",NORTH BENDIGO VIC 3550,Vacant land,2,2,−,"5,681m² ",11 Dec 2020
+"115,000","41 Railway Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,303m² ,10 Dec 2020
+"245,000 ","116 Mackenzie Street West,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,935m² ,09 Dec 2020
+"290,000 ","18 Brooklyn Drive,",GOLDEN SQUARE VIC 3555,Vacant land,4,2,2,"1,036m² ",08 Dec 2020
+"115,000 ","41 Railway Street,",KANGAROO FLAT VIC 3555,New land,0,0,0,303m² ,05 Dec 2020
+"235,000 ","6 Allpress Drive,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,779m² ,04 Dec 2020
+"441,000 ","2/47 Race Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,3,2,2,361m² ,03 Dec 2020
+"195,000 ","17 Bath Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"2,289m² ",03 Dec 2020
+"185,000 ","11 Reville Close,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,565m² ,01 Dec 2020
+"182,000 ","111 Aspinall Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,748m² ,20 Nov 2020
+"315,000","150 Holdsworth Rd,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,"1,417m² ",18 Nov 2020
+"325,000","1/14 Carolin St,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,2,349m² ,16 Nov 2020
+"275,000 ","169 Williamson Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,420m² ,13 Nov 2020
+"295,000 ","26 Graham Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,418m² ,13 Nov 2020
+"195,000","42 Irontree Close,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,874m² ,12 Nov 2020
+"250,000 ","6E Harpin Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,459m² ,10 Nov 2020
+"365,000 ","1/78 Somerville Street,",FLORA HILL VIC 3550,Townhouse,2,1,1,248m² ,09 Nov 2020
+"115,000 ","15/21 Heinz Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,364m² ,09 Nov 2020
+"296,000 ","10/18A Emmett Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,2,2,247m² ,06 Nov 2020
+"360,000 ","5/6 Friswell Avenue,",FLORA HILL VIC 3550,Apartment / Unit / Flat,3,2,2,263m² ,04 Nov 2020
+"202,000 ","4/34 Eaglehawk Road,",IRONBARK VIC 3550,Apartment / Unit / Flat,2,1,1,140m² ,04 Nov 2020
+"340,000","2/9 Pittaway Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,3,1,2,538m² ,02 Nov 2020
+"195,000 ","4/303-305 Mackenzie Street West,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,903m² ,30 Oct 2020
+"250,000 ","Lot 1/11 Paperbark Court,",STRATHDALE VIC 3550,Vacant land,0,0,0,679m² ,30 Oct 2020
+"230,000 ","4/112 Condon Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,204m² ,29 Oct 2020
+"150,000 ","131 Olinda Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,139m² ,26 Oct 2020
+"190,000 ","637 Hargreaves Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,491m² ,20 Oct 2020
+"139,750 ","Lot 3/47 Spring Gully Road,",SPRING GULLY VIC 3550,Vacant land,0,0,0,320m² ,16 Oct 2020
+"330,000","1/1 Jackman Court,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,3,1,2,444m² ,13 Oct 2020
+"585,000 ","4/17 Bakewell Street,",NORTH BENDIGO VIC 3550,Townhouse,3,2,2,287m² ,13 Oct 2020
+"200,000","6 Peppercress Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,524m² ,10 Oct 2020
+"315,000 ","11 Hesse Avenue,",FLORA HILL VIC 3550,New land,0,0,0,"1,501m² ",09 Oct 2020
+"160,000 ","Lot 2 Cannon Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,678m² ,07 Oct 2020
+"140,000 ","Lot 21 Reville Close,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,575m² ,06 Oct 2020
+"233,000 ","62 The Boulevard,",WHITE HILLS VIC 3550,Vacant land,0,0,0,543m² ,06 Oct 2020
+"307,500 ","26 Button Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,"1,059m² ",05 Oct 2020
+"230,000 ","18 Burrell Street,",FLORA HILL VIC 3550,Vacant land,0,0,0,627m² ,28 Sep 2020
+"185,000 ","7 Noble Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,862m² ,28 Sep 2020
+"190,000 ","82 Queen Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,724m² ,23 Sep 2020
+"177,000 ","22-24 Aspinall Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,816m² ,22 Sep 2020
+"173,000 ","2/159 Crusoe Road,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,674m² ,22 Sep 2020
+"180,000 ","4/6 Race Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,1,1,1,182m² ,16 Sep 2020
+"140,000","141A Holdsworth Road,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,451m² ,16 Sep 2020
+"195,000 ","28 Bettalan Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,637m² ,16 Sep 2020
+"162,000 ","Lot 1 & 2/9 Strickland Road,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,407m² ,15 Sep 2020
+"332,000 ","4/19 Holmes Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,2,1,200m² ,11 Sep 2020
+"150,000 ","Lot 15/78 Woodward Road,",GOLDEN GULLY VIC 3555,Vacant land,0,0,0,"1,012m² ",08 Sep 2020
+"150,000 ","7 Moonta Street,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,469m² ,05 Sep 2020
+"275,000 ","Unit 5/16A Emmett Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,245m² ,04 Sep 2020
+"265,000 ","8/34 Prouses Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,208m² ,04 Sep 2020
+"193,000 ","Lot 3 Cannon Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,805m² ,02 Sep 2020
+"253,000 ","9 Latham Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,"8,161m² ",02 Sep 2020
+"166,000 ","3 Moonta Street,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,615m² ,02 Sep 2020
+"149,500 ","12 Crimson Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,793m² ,01 Sep 2020
+"158,000 ","Lot 1 Cannon Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,569m² ,31 Aug 2020
+"168,500 ","15 Burns Street,",SPRING GULLY VIC 3550,Vacant land,0,0,0,803m² ,31 Aug 2020
+"315,000 ","25 Elwood Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,854m² ,25 Aug 2020
+"577,500 ","3/17 Bakewell Street,",NORTH BENDIGO VIC 3550,Townhouse,3,2,2,293m² ,24 Aug 2020
+"239,000 ","4/40 Mafeking Street South,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,279m² ,21 Aug 2020
+"175,000 ","15 Bettalan Court,",SPRING GULLY VIC 3550,New land,0,0,0,436m² ,19 Aug 2020
+"356,000","14/131 Havlin Street East,",FLORA HILL VIC 3550,Townhouse,3,2,1,226m² ,11 Aug 2020
+"315,000 ","Lot 3, 13 Mill Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,808m² ,11 Aug 2020
+"195,000 ","20 Bettalan Court,",SPRING GULLY VIC 3550,New land,0,0,0,522m² ,11 Aug 2020
+"144,950","73A Prouses Road,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,554m² ,10 Aug 2020
+"114,000 ","16/21 Heinz Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,364m² ,10 Aug 2020
+"205,000","92 Kangaroo Gully Road,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"3,221m² ",07 Aug 2020
+"355,000 ","Lot 34 Elwood Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,825m² ,07 Aug 2020
+"280,000 ","6/7 Caleb Close,",GOLDEN SQUARE VIC 3555,Townhouse,2,1,2,222m² ,05 Aug 2020
+"215,000 ","1/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,420m² ,04 Aug 2020
+"215,000 ","1/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,420m² ,04 Aug 2020
+"215,000 ","3/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,426m² ,04 Aug 2020
+"215,000 ","3/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,426m² ,04 Aug 2020
+"162,000 ","8 Captain Court,",WHITE HILLS VIC 3550,Vacant land,0,0,0,673m² ,03 Aug 2020
+"225,000 ","135 Thistle Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,551m² ,31 Jul 2020
+"175,000 ","31 Balmoral Drive,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,737m² ,30 Jul 2020
+"205,000 ","16/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,444m² ,30 Jul 2020
+"205,000 ","16/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,444m² ,30 Jul 2020
+"125,000 ","2/23 Ophir Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,403m² ,29 Jul 2020
+"212,000 ","2/79 Somerville Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,234m² ,27 Jul 2020
+"225,000 ","13 Hesse Avenue,",FLORA HILL VIC 3550,New land,0,0,0,700m² ,24 Jul 2020
+"149,950 ","Lot 4 Moonta Street,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,459m² ,23 Jul 2020
+"130,000 ","5/5710 Calder Highway,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,654m² ,22 Jul 2020
+"455,000 ","17 Paterson Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,"2,428m² ",20 Jul 2020
+"205,000 ","2 Irontree Close,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,942m² ,17 Jul 2020
+"335,000 ","16 Burn Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"1,326m² ",16 Jul 2020
+"225,000 ","13 Lillie Lane,",STRATHDALE VIC 3550,Vacant land,0,0,0,832m² ,16 Jul 2020
+"145,000 ","8 Moonta Street,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,419m² ,16 Jul 2020
+"333,000","19 Lakewood Drive,",KENNINGTON VIC 3550,Vacant land,0,0,0,400m² ,10 Jul 2020
+"128,000 ","168 Aspinall Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,529m² ,08 Jul 2020
+"97,500 ","31A Rose Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,557m² ,08 Jul 2020
+"145,000 ","11 Buckie Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,907m² ,07 Jul 2020
+"155,000 ","3/157 Crusoe Road,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,685m² ,06 Jul 2020
+"339,000 ","3/27 Weeroona Avenue,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,300m² ,03 Jul 2020
+"175,000 ","7 Priest Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,587m² ,03 Jul 2020
+"120,000 ","3 Bell Street,",IRONBARK VIC 3550,Vacant land,0,0,0,405m² ,02 Jul 2020
+"168,000 ","20 Yallambee Drive,",KENNINGTON VIC 3550,Vacant land,0,0,0,705m² ,02 Jul 2020
+"315,000 ","2/1 Jackman Court,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,3,1,2,510m² ,01 Jul 2020
+"145,000 ","26 Webdon Drive,",NORTH BENDIGO VIC 3550,New land,0,0,0,"1,431m² ",01 Jul 2020
+"80,000","14a Bolt Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,441m² ,30 Jun 2020
+"162,500 ","2 Pilcher Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,351m² ,30 Jun 2020
+"205,000 ","15/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,444m² ,30 Jun 2020
+"205,000 ","15/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,444m² ,30 Jun 2020
+"180,000","4 The Gums Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,832m² ,29 Jun 2020
+"140,000","9 Albert Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,682m² ,29 Jun 2020
+"365,000 ","117 Lansell Terrace,",EAST BENDIGO VIC 3550,New land,0,0,0,611m² ,27 Jun 2020
+"250,000 ","10/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,24 Jun 2020
+"165,000","27 Kronk Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,468m² ,23 Jun 2020
+"188,000 ","54 Wade Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,600m² ,23 Jun 2020
+"605,000 ","1, 2 & 3/16 Young Street,",GOLDEN SQUARE VIC 3555,Block of units,6,3,3,990m² ,19 Jun 2020
+"250,000 ","1/5 Carpenter Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,2,200m² ,19 Jun 2020
+"250,000 ","9/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,13 Jun 2020
+"120,000 ","57B Stanley Avenue,",SPRING GULLY VIC 3550,Vacant land,0,0,0,237m² ,09 Jun 2020
+"195,000 ","159 Reservoir Road,",STRATHDALE VIC 3550,New land,0,0,0,591m² ,09 Jun 2020
+"190,000 ","Lot 5 Cannon Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,805m² ,02 Jun 2020
+"325,000 ","2/1 Kooyong Close,",KENNINGTON VIC 3550,Apartment / Unit / Flat,3,1,1,315m² ,29 May 2020
+"202,000 ","9 Bettalan Court,",SPRING GULLY VIC 3550,New land,0,0,0,594m² ,29 May 2020
+"125,000 ","15 Happy Valley Road,",WEST BENDIGO VIC 3550,Vacant land,0,0,0,617m² ,27 May 2020
+"260,000 ","14 Penzance Avenue,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"1,000m² ",21 May 2020
+"345,000 ","3/27 MacDougall Road,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,3,2,1,341m² ,19 May 2020
+"210,000 ","126 St Killian Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,"1,449m² ",18 May 2020
+"395,000 ","5B Bottlebrush Court,",STRATHDALE VIC 3550,Townhouse,3,2,1,555m² ,14 May 2020
+"279,000 ","1/28a Ophir Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,237m² ,13 May 2020
+"272,500 ","20 Plante Court,",STRATHDALE VIC 3550,Vacant land,0,0,0,812m² ,13 May 2020
+"210,000 ","24 Bettalan Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,742m² ,12 May 2020
+"205,000 ","14/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,444m² ,12 May 2020
+"309,000 ","2/17 Steane Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,244m² ,11 May 2020
+"200,000 ","32 Bettalan Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,862m² ,11 May 2020
+"237,500 ","1 Benwerren Close,",STRATHDALE VIC 3550,Vacant land,0,0,0,"1,092m² ",10 May 2020
+"145,000 ","Lot 31 Weeroona Estate - Stage 2 Orville Way, White Hills,",WHITE HILLS VIC 3550,Vacant land,0,0,0,382m² ,06 May 2020
+"140,000 ","38A Booth Street,",GOLDEN SQUARE VIC 3555,Vacant land,2,1,1,359m² ,05 May 2020
+"200,000","7 Pieper Terrace,",STRATHDALE VIC 3550,Vacant land,0,0,0,475m² ,05 May 2020
+"210,000 ","2/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,425m² ,30 Apr 2020
+"440,000 ","30 Doak Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"1,670m² ",16 Apr 2020
+"154,000 ","Lot 50 Sandhurst Crest , Stage 3,,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,510m² ,15 Apr 2020
+"147,000 ","Lot 51 Sandhurst Crest - Stage 3,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,510m² ,15 Apr 2020
+"310,000 ","2/1 Martin Court,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,3,2,1,323m² ,15 Apr 2020
+"139,500 ","257a Allingham Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,720m² ,15 Apr 2020
+"215,000 ","1/23 Hope Street,",KANGAROO FLAT VIC 3555,Block of units,2,1,1,175m² ,09 Apr 2020
+"240,000 ","2/49 Ellis Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,210m² ,07 Apr 2020
+"185,000","5624 A Calder Highway,",BIG HILL VIC 3555,Vacant land,0,0,0,"1,822m² ",01 Apr 2020
+"195,000 ","17/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,444m² ,31 Mar 2020
+"144,000 ","Lot 54 Sandhurst Crest - Stage 3,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,509m² ,30 Mar 2020
+"235,000 ","11/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,29 Mar 2020
+"202,500 ","56 Browning Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,610m² ,27 Mar 2020
+"129,950 ","Lot 3 Wireless Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,415m² ,26 Mar 2020
+"500,000 ","39B Harpin Street,",EAST BENDIGO VIC 3550,Townhouse,4,2,2,475m² ,23 Mar 2020
+"220,000 ","10/202 St Aidans Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,3,2,2,250m² ,23 Mar 2020
+"300,000 ","5/53 Raglan Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,3,2,1,248m² ,17 Mar 2020
+"142,000","24 Eldridge Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,484m² ,16 Mar 2020
+"300,000","7/69 Thunder Street,",NORTH BENDIGO VIC 3550,Townhouse,3,2,2,287m² ,15 Mar 2020
+"250,000 ","6/4 Collins Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,227m² ,05 Mar 2020
+"200,000 ","4/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,427m² ,05 Mar 2020
+"169,950 ","1 Robert Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,501m² ,03 Mar 2020
+"277,000","2/207 McIvor Road,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,263m² ,03 Mar 2020
+"140,000 ","28 Skene Street,",KENNINGTON VIC 3550,Vacant land,0,0,0,260m² ,02 Mar 2020
+"242,500 ","5 Harley Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,449m² ,28 Feb 2020
+"176,500 ","Lot 75 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,600m² ,27 Feb 2020
+"169,950 ","2 Robert Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,501m² ,27 Feb 2020
+"404,000","24 Harpin Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,"1,263m² ",24 Feb 2020
+"112,500 ","83 Alder Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,515m² ,20 Feb 2020
+"132,500","73A Adam Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,358m² ,19 Feb 2020
+"129,950 ","Lot 7 Wireless Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,387m² ,17 Feb 2020
+"115,000 ","168A Aspinall Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,337m² ,14 Feb 2020
+"270,000 ","3/75 Symonds Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,380m² ,11 Feb 2020
+"200,000 ","5/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,427m² ,11 Feb 2020
+"120,000 ","75 Alder Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,372m² ,07 Feb 2020
+"170,000 ","9 Collins Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"1,223m² ",05 Feb 2020
+"350,000 ","2/12A Lawson Street,",SPRING GULLY VIC 3550,Townhouse,3,2,2,442m² ,03 Feb 2020
+"300,000 ","2/41 Mafeking Street South,",KENNINGTON VIC 3550,Townhouse,2,1,1,250m² ,31 Jan 2020
+"110,000","3 Miners Rest,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,554m² ,22 Jan 2020
+"130,000 ","34A Churchill Avenue,",FLORA HILL VIC 3550,Vacant land,0,0,0,339m² ,21 Jan 2020
+"165,000 ","2 Ingleton Street West Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,685m² ,20 Jan 2020
+"180,000 ","18 Bentley Terrace,",QUARRY HILL VIC 3550,Vacant land,0,0,0,"1,057m² ",20 Jan 2020
+"470,000 ","2/2 Pilcher Street,",STRATHDALE VIC 3550,Townhouse,2,2,2,354m² ,16 Jan 2020
+"252,000 ","4/16 Wade Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,300m² ,15 Jan 2020
+"295,000 ","1/1 Nandina Court,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,352m² ,13 Jan 2020
+"208,500 ","Lot 63 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"1,094m² ",09 Jan 2020
+"460,000 ","137a Edwards Road,",KENNINGTON VIC 3550,Vacant land,0,0,0,"2,005m² ",06 Jan 2020
+"170,000 ","4 Robert Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,501m² ,17 Dec 2019
+"320,000","1/1 Fiona Place,",KENNINGTON VIC 3550,Apartment / Unit / Flat,3,1,−,487m² ,17 Dec 2019
+"230,000 ","6/129 Havlin Street East,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,153m² ,12 Dec 2019
+"176,500 ","Lot 72 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,638m² ,12 Dec 2019
+"118,000 ","19 Clarcoll Crescent South,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,441m² ,12 Dec 2019
+"150,000 ","91-93 Kennewell Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,614m² ,09 Dec 2019
+"225,000 ","21/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,06 Dec 2019
+"235,000 ","8/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,06 Dec 2019
+"235,000 ","8/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,06 Dec 2019
+"135,000 ","10a Burrowes Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,609m² ,05 Dec 2019
+"135,000 ","10A Burrowes Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,609m² ,05 Dec 2019
+"110,000 ","6 Clarcoll Crescent South,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,323m² ,05 Dec 2019
+"110,000 ","12 Clarcoll Crescent South,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,300m² ,05 Dec 2019
+"468,000 ","24/202 St Aidans Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,3,2,2,150m² ,05 Dec 2019
+"248,000 ","3/49 Ellis Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,268m² ,02 Dec 2019
+"175,000 ","6 Robert Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,532m² ,02 Dec 2019
+"255,000 ","33 Futura Avenue,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,"1,282m² ",29 Nov 2019
+"284,500 ","5/71 Allingham Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,202m² ,29 Nov 2019
+"225,000 ","5/9 Crusoe Road,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,210m² ,26 Nov 2019
+"247,500 ","4 Bentley Terrace,",QUARRY HILL VIC 3550,Vacant land,0,0,0,765m² ,26 Nov 2019
+"240,000 ","19 Parkside Boulevard,",STRATHDALE VIC 3550,Vacant land,0,0,0,775m² ,26 Nov 2019
+"305,000 ","1/24 Kirby Street,",GOLDEN SQUARE VIC 3555,Townhouse,3,1,1,306m² ,25 Nov 2019
+"175,000 ","26 Needlewood Drive,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,778m² ,25 Nov 2019
+"220,000 ","2/10 Button Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,199m² ,22 Nov 2019
+"135,000 ","33 McInnes Street,",BIG HILL VIC 3555,Vacant land,0,0,0,663m² ,20 Nov 2019
+"165,000 ","3 Robert Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,501m² ,19 Nov 2019
+"195,000 ","2/48 Happy Valley Road,",IRONBARK VIC 3550,Apartment / Unit / Flat,2,1,1,272m² ,18 Nov 2019
+"139,500 ","Lot 33 Vogue Estate,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,567m² ,18 Nov 2019
+"310,000 ","8/69 Thunder Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,3,2,2,268m² ,15 Nov 2019
+"178,000 ","Lot 71 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,636m² ,11 Nov 2019
+"257,500 ","3/174 St Aidans Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,215m² ,09 Nov 2019
+"346,000 ","18B Elizabeth Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,3,1,2,325m² ,07 Nov 2019
+"195,000 ","2/18-20 Hoy Street,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,167m² ,04 Nov 2019
+"220,000 ","24 Ritchie Drive,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,638m² ,01 Nov 2019
+"265,000 ","120/31 Furness Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,260m² ,01 Nov 2019
+"215,000 ","2/86 High Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,219m² ,28 Oct 2019
+"165,000 ","52 Norelle Crescent,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,675m² ,18 Oct 2019
+"153,500 ","15 Priest,",WHITE HILLS VIC 3550,Vacant land,0,0,0,525m² ,16 Oct 2019
+"312,500 ","3/34 Jennings Street,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,213m² ,15 Oct 2019
+"148,950 ","Lot 25 Sandhurst Crest, Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,520m² ,15 Oct 2019
+"177,500 ","Lot 70 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,636m² ,15 Oct 2019
+"194,000 ","65 Hammill Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,0,15 Oct 2019
+"139,000 ","Lot 21 Ashborne Way,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,500m² ,14 Oct 2019
+"250,000 ","2/110 McIvor Road,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,502m² ,14 Oct 2019
+"255,000","5/28 Yallambee Drive,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,225m² ,12 Oct 2019
+"270,000 ","7 Marnie Road,",KENNINGTON VIC 3550,Vacant land,0,0,0,561m² ,11 Oct 2019
+"287,500 ","5A Walker Drive,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"2,348m² ",01 Oct 2019
+"315,000","2/6 Davey Close,",FLORA HILL VIC 3550,Apartment / Unit / Flat,3,1,2,369m² ,27 Sep 2019
+"115,000 ","3/12 Heinz Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,451m² ,26 Sep 2019
+"275,000 ","3/68 Condon Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,327m² ,23 Sep 2019
+"90,500","6/70B Emmett Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,383m² ,19 Sep 2019
+"230,000 ","22/195 McIvor Road,",STRATHDALE VIC 3550,Vacant land,0,0,0,531m² ,17 Sep 2019
+"65,000 ","Lot 1, 7 Davey Close,",FLORA HILL VIC 3550,Vacant land,0,0,0,372m² ,12 Sep 2019
+"278,000 ","1/204 Aspinall Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,2,430m² ,11 Sep 2019
+"130,000 ","Lot 1/6 Burrowes Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,437m² ,10 Sep 2019
+"139,500 ","Lot 3 Vogue Estate,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,507m² ,10 Sep 2019
+"120,000 ","2A Churchill Avenue,",FLORA HILL VIC 3550,Vacant land,0,0,0,276m² ,05 Sep 2019
+"120,000 ","2A Churchill Avenue,",FLORA HILL VIC 3550,Vacant land,0,0,0,276m² ,05 Sep 2019
+"184,000 ","Lot 69 Sandhurst Crest, Stage 2. 134-136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,798m² ,05 Sep 2019
+"315,000 ","8 Regency Place,",KENNINGTON VIC 3550,Vacant land,0,0,0,814m² ,05 Sep 2019
+"270,000 ","2/23 Hallam Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,100m² ,05 Sep 2019
+"117,500 ","2/27 Wade Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,429m² ,30 Aug 2019
+"160,000","15 Quartz Place,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,789m² ,30 Aug 2019
+"140,000 ","40 Pascoe Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,"7,450m² ",30 Aug 2019
+"140,000 ","Lot 20 Vogue Estate,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,553m² ,29 Aug 2019
+"290,000","1/23 Hallam Street,",QUARRY HILL VIC 3550,Apartment / Unit / Flat,2,1,1,100m² ,29 Aug 2019
+"180,000 ","Lot 78 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,600m² ,28 Aug 2019
+"110,000 ","172 Aspinall Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,333m² ,20 Aug 2019
+"213,000 ","2/146 St Aidans Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,345m² ,16 Aug 2019
+"320,000 ","25 Raglan Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,"2,700m² ",16 Aug 2019
+"267,000 ","3/29 Green Street,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,272m² ,15 Aug 2019
+"235,000 ","1/269 Eaglehawk Road,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,1,367m² ,10 Aug 2019
+"115,000 ","5 Cortland Close,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,678m² ,08 Aug 2019
+"115,000 ","168B Aspinall Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,372m² ,08 Aug 2019
+"215,000","1/86 High Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,397m² ,02 Aug 2019
+"215,000 ","1/86 High Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,386m² ,02 Aug 2019
+"331,000 ","13/131 Havlin East Street,",FLORA HILL VIC 3550,Townhouse,3,2,1,200m² ,31 Jul 2019
+"295,000 ","14 Wolstencroft Street,",FLORA HILL VIC 3550,Vacant land,0,0,0,566m² ,29 Jul 2019
+"260,000 ","100 Hammill Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,0,29 Jul 2019
+"260,000 ","2/47 Alder Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,473m² ,29 Jul 2019
+"147,500 ","57 Solomon Street,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,537m² ,25 Jul 2019
+"148,000 ","Lot 24 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,500m² ,24 Jul 2019
+"179,000 ","4/1 Cliff Avenue,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,114m² ,23 Jul 2019
+"290,000 ","3/113 Lansell Terrace,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,360m² ,19 Jul 2019
+"128,000 ","Lot 17 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,479m² ,11 Jul 2019
+"390,000 ","22A Fox Street,",EAST BENDIGO VIC 3550,Townhouse,3,2,1,270m² ,08 Jul 2019
+"380,000 ","22 Fox Street,",EAST BENDIGO VIC 3550,Townhouse,3,2,1,225m² ,08 Jul 2019
+"150,000","1 Tussock Dr,",WHITE HILLS VIC 3550,Vacant land,0,0,0,444m² ,08 Jul 2019
+"380,000 ","25 Jennings Street,",EAST BENDIGO VIC 3550,Townhouse,3,2,1,209m² ,05 Jul 2019
+"102,500 ","124 Maple Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,310m² ,01 Jul 2019
+"299,000","4/100 St Aidans Road,",KENNINGTON VIC 3550,Apartment / Unit / Flat,3,2,2,381m² ,29 Jun 2019
+"350,000 ","22B Fox Street,",EAST BENDIGO VIC 3550,Townhouse,2,2,2,185m² ,28 Jun 2019
+"133,000 ","Lot 9 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,512m² ,28 Jun 2019
+"285,000 ","2/16 Muriel Street,",KANGAROO FLAT VIC 3555,Townhouse,3,1,2,289m² ,19 Jun 2019
+"307,500 ","3/64 Murphy Street,",EAST BENDIGO VIC 3550,Townhouse,2,1,2,272m² ,18 Jun 2019
+"227,000 ","2/6 Reception Avenue,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,156m² ,18 Jun 2019
+"133,000 ","Lot 9 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,512m² ,14 Jun 2019
+"234,000 ","1/29 Glencoe Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,360m² ,13 Jun 2019
+"143,500 ","4 Kingerlee Drive,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,552m² ,11 Jun 2019
+"250,000 ","Lot 9 Calibre Close,",STRATHDALE VIC 3550,Vacant land,0,0,0,"2,000m² ",07 Jun 2019
+"412,500 ","9 Lorne Terrace,",FLORA HILL VIC 3550,Townhouse,3,2,2,201m² ,29 May 2019
+"298,000 ","30 Weatherby Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,774m² ,28 May 2019
+"270,000","1/16 Station Street,",KANGAROO FLAT VIC 3555,Townhouse,2,1,1,193m² ,27 May 2019
+"132,500 ","30A Bakewell Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,376m² ,24 May 2019
+"290,000 ","1/8 Heyington Place,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,2,223m² ,23 May 2019
+"118,000 ","4/12 Heinz Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,452m² ,23 May 2019
+"267,500 ","4/207 McIvor Road,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,220m² ,15 May 2019
+"100,000 ","20 Leigh Avenue,",KENNINGTON VIC 3550,Vacant land,0,0,0,211m² ,10 May 2019
+"109,500","3 Bell Street,",IRONBARK VIC 3550,Vacant land,0,0,0,405m² ,09 May 2019
+"142,000 ","3B Thompson Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,779m² ,02 May 2019
+"201,000 ","5/44 Panton Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,147m² ,30 Apr 2019
+"267,000 ","3/19 Patrick Street,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,300m² ,15 Apr 2019
+"235,000 ","4/79 Somerville Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,239m² ,09 Apr 2019
+"78,000 ","80a Aspinall Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,321m² ,09 Apr 2019
+"280,000 ","26a Houston Street,",QUARRY HILL VIC 3550,Townhouse,2,1,1,283m² ,08 Apr 2019
+"395,000 ","1,2,3/2 Walker Street,",LONG GULLY VIC 3550,Block of units,2,1,1,720m² ,05 Apr 2019
+"283,000 ","2/113 Lansell Terrace,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,215m² ,03 Apr 2019
+"260,000 ","1/113 Lansell Terrace,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,340m² ,03 Apr 2019
+"164,000 ","22 Webdon Drive,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,575m² ,01 Apr 2019
+"242,000","1/97E Panton Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,349m² ,29 Mar 2019
+"142,000 ","Lot 16 Sandhurst Crest , Stage 1. 134-136 Aspinall Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,538m² ,19 Mar 2019
+"134,000 ","Lot 1, 79 Finn Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,579m² ,18 Mar 2019
+"245,000 ","60 Rohs Road,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"2,604m² ",13 Mar 2019
+"185,000 ","2/104 Retreat Road,",SPRING GULLY VIC 3550,Vacant land,0,0,0,735m² ,08 Mar 2019
+"286,000 ","65 Keogh Drive,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"1,945m² ",06 Mar 2019
+"272,000 ","2/51 Butcher Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,1,343m² ,26 Feb 2019
+"122,500 ","Lot 29 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,600m² ,25 Feb 2019
+"132,000 ","Lot 28 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,565m² ,25 Feb 2019
+"335,000 ","15A Chelsea Boulevard,",STRATHDALE VIC 3550,Townhouse,3,1,1,400m² ,22 Feb 2019
+"265,000 ","1/75 Symonds Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,320m² ,19 Feb 2019
+"150,000 ","15 Webdon Drive,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,486m² ,15 Feb 2019
+"187,000 ","2 Potters Lane,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,2,266m² ,13 Feb 2019
+"295,000 ","2/78 Somerville Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,2,231m² ,12 Feb 2019
+"225,000 ","2/114 Holdsworth Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,300m² ,12 Feb 2019
+"88,000 ","57A Belle Vue Road,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,526m² ,11 Feb 2019
+"140,000 ","Lot 22 Ashborne Way,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,517m² ,08 Feb 2019
+"152,000 ","Lot 61 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,760m² ,05 Feb 2019
+"235,000 ","14 Bentley Terrace,",QUARRY HILL VIC 3550,Vacant land,0,0,0,610m² ,01 Feb 2019
+"177,500 ","Lot 77 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,601m² ,31 Jan 2019
+"139,500 ","31 Loriini Place,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,568m² ,29 Jan 2019
+"300,000 ","96 Happy Valley Road,",LONG GULLY VIC 3550,Vacant land,0,0,0,"5,297m² ",29 Jan 2019
+"130,000 ","1A Miners Rest,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,471m² ,25 Jan 2019
+"124,000 ","19 Cecil Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,421m² ,25 Jan 2019
+"124,000 ","18 Cecil Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,422m² ,19 Jan 2019
+"149,500 ","34 Kingerlee Drive,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,681m² ,17 Jan 2019
+"222,000","32 Bentley Terrace,",QUARRY HILL VIC 3550,Vacant land,0,0,0,544m² ,08 Jan 2019
+"171,000 ","41/8 Curlew Court,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,895m² ,02 Jan 2019
+"190,000 ","Lot 65 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,779m² ,28 Dec 2018
+"185,000 ","Lot 79 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,604m² ,28 Dec 2018
+"187,000 ","Lot 67 Sandhurst Crest ,Stage 2. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,792m² ,28 Dec 2018
+"285,000","2/3 Mill Street,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,430m² ,14 Dec 2018
+"147,000 ","Lot 4 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,545m² ,12 Dec 2018
+"145,000 ","8 Eldridge Court,",KANGAROO FLAT VIC 3555,New land,0,0,0,511m² ,12 Dec 2018
+"118,000 ","18 Clarcoll Crescent South,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,426m² ,11 Dec 2018
+"126,000","28 Forbes Court,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,379m² ,28 Nov 2018
+"288,000 ","2/1 Campaspe Mews,",STRATHDALE VIC 3550,Apartment / Unit / Flat,3,1,1,434m² ,26 Nov 2018
+"149,500 ","Lot 5 Sandhurst Crest,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,546m² ,22 Nov 2018
+"260,000 ","40 Chelsea Boulevard,",STRATHDALE VIC 3550,Vacant land,0,0,0,779m² ,21 Nov 2018
+"245,500 ","Lot 23 Elwood Drive,",STRATHDALE VIC 3550,Vacant land,0,0,0,567m² ,19 Nov 2018
+"177,000 ","55 Jacob Street,",NORTH BENDIGO VIC 3550,Vacant land,0,0,0,"1,192m² ",16 Nov 2018
+"135,000 ","2/296 MacKenzie Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,475m² ,14 Nov 2018
+"326,000 ","19 Reginald Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,789m² ,2018
+"326,000 ","19 Reginald Street,",QUARRY HILL VIC 3550,Vacant land,0,0,0,789m² ,2018
+"105,000 ","28b Wade Lane,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,305m² ,07 Nov 2018
+"175,000 ","56 Browning Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,610m² ,06 Nov 2018
+"140,000 ","3/16 Pallett Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,83m² ,05 Nov 2018
+"139,000 ","18 Loriini Place,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,587m² ,02 Nov 2018
+"139,500 ","Lot 19 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,600m² ,01 Nov 2018
+"142,000 ","Lot 23 Sandhurst Crest ,Stage 1. 134 -136 Aspinall St,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,475m² ,01 Nov 2018
+"290,000 ","1/78 Somerville Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,1,248m² ,24 Oct 2018
+"128,500 ","1 Benwerren Close,",STRATHDALE VIC 3550,Vacant land,0,0,0,378m² ,24 Oct 2018
+"247,500 ","5A McIvor Court,",KENNINGTON VIC 3550,Vacant land,0,0,0,619m² ,23 Oct 2018
+"215,000 ","5/269 Eaglehawk Road,",LONG GULLY VIC 3550,Apartment / Unit / Flat,2,1,2,350m² ,23 Oct 2018
+"209,500","7 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,800m² ,23 Oct 2018
+"187,500 ","3/301 Rowan Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,102m² ,16 Oct 2018
+"139,500 ","27 Loriiini Place,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,560m² ,16 Oct 2018
+"136,000 ","28 Loriini Place,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,490m² ,16 Oct 2018
+"70,000 ","Lot 3/81 Allingham Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,241m² ,10 Oct 2018
+"72,000 ","Lot 2/81 Allingham Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,263m² ,10 Oct 2018
+"84,000 ","Lot 4/81 Allingham Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,315m² ,10 Oct 2018
+"437,500 ","11/190 St Aidans Road,",KENNINGTON VIC 3550,Townhouse,3,2,2,257m² ,08 Oct 2018
+"229,500 ","10 Kendall St,",SPRING GULLY VIC 3550,Vacant land,0,0,0,833m² ,05 Oct 2018
+"94,000 ","Lot 1/81 Allingham Street,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,364m² ,04 Oct 2018
+"435,000 ","1/26A Smith Street,",NORTH BENDIGO VIC 3550,Townhouse,3,2,1,185m² ,20 Sep 2018
+"139,500 ","25 Loriini Place,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,560m² ,17 Sep 2018
+"159,400 ","Lot 1 Priest Street,",WHITE HILLS VIC 3550,Vacant land,0,0,0,586m² ,14 Sep 2018
+"325,000 ","20 Furness Street,",KANGAROO FLAT VIC 3555,Townhouse,3,2,1,360m² ,06 Sep 2018
+"312,500 ","1/24 James Street,",STRATHDALE VIC 3550,Apartment / Unit / Flat,2,1,2,382m² ,05 Sep 2018
+"114,590 ","5 Clarcoll Crescent South,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,363m² ,04 Sep 2018
+"114,590 ","7 Clarcoll Crescent South,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,356m² ,04 Sep 2018
+"183,000 ","2 Harpin Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,512m² ,04 Sep 2018
+"252,500 ","2/57 Weeroona Avenue,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,2,1,1,198m² ,30 Aug 2018
+"255,000 ","2/216 North Harley Street,",STRATHDALE VIC 3550,Vacant land,0,0,0,611m² ,27 Aug 2018
+"219,500 ","Lot 8 - 10 Kendall St,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"1,040m² ",26 Aug 2018
+"173,500 ","Lot 3 -10 Kendall St,",SPRING GULLY VIC 3550,Vacant land,0,0,0,650m² ,26 Aug 2018
+"229,500 ","Lot 11 - 10 Kendall St,",SPRING GULLY VIC 3550,Vacant land,0,0,0,"1,109m² ",26 Aug 2018
+"190,000 ","17 Bath Lane,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"2,251m² ",24 Aug 2018
+"190,000 ","17-21 Cross Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,"2,251m² ",24 Aug 2018
+"215,000","2/60-64 Strickland Road,",EAST BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,294m² ,22 Aug 2018
+"172,000 ","6 Benwerren Close,",STRATHDALE VIC 3550,Vacant land,0,0,0,476m² ,21 Aug 2018
+"125,000 ","40 Soldatos Drive,",GOLDEN SQUARE VIC 3555,Vacant land,0,0,0,687m² ,15 Aug 2018
+"217,000 ","56A Rohs Road,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"2,173m² ",31 Jul 2018
+"325,000 ","2/51A Ellis Street,",FLORA HILL VIC 3550,Apartment / Unit / Flat,2,1,2,315m² ,30 Jul 2018
+"215,000 ","16 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,914m² ,23 Jul 2018
+"244,000","2/7 Clarence Avenue,",KENNINGTON VIC 3550,Apartment / Unit / Flat,2,1,1,290m² ,20 Jul 2018
+"212,500 ","14 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,800m² ,20 Jul 2018
+"255,000 ","10/116 Holdsworth Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,294m² ,14 Jul 2018
+"199,500 ","18 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,760m² ,12 Jul 2018
+"268,000 ","4/451 Napier Street,",WHITE HILLS VIC 3550,Apartment / Unit / Flat,3,1,2,350m² ,12 Jul 2018
+"102,500 ","207 Aspinall Street,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,683m² ,09 Jul 2018
+"167,500 ","Lot 28 Tussock Drive,",WHITE HILLS VIC 3550,Vacant land,0,0,0,598m² ,08 Jul 2018
+"210,000 ","2/5 Bell Street,",IRONBARK VIC 3550,Apartment / Unit / Flat,3,1,1,212m² ,03 Jul 2018
+"191,500 ","6 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,720m² ,02 Jul 2018
+"187,000 ","4 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,803m² ,28 Jun 2018
+"214,500 ","15 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,813m² ,27 Jun 2018
+"200,000 ","Lot 3 McDowells Road,",EAST BENDIGO VIC 3550,Vacant land,0,0,0,"2,848m² ",25 Jun 2018
+"289,000 ","7B Inglewood Street,",GOLDEN SQUARE VIC 3555,Apartment / Unit / Flat,2,1,1,257m² ,25 Jun 2018
+"112,000 ","107 Lockwood Road,",KANGAROO FLAT VIC 3555,Vacant land,0,0,0,516m² ,25 Jun 2018
+"175,500 ","Lot 30 Tussock Drive,",WHITE HILLS VIC 3550,Vacant land,0,0,0,626m² ,24 Jun 2018
+"163,500 ","Lot 27 Tussock Drive,",WHITE HILLS VIC 3550,Vacant land,0,0,0,585m² ,24 Jun 2018
+"213,750 ","4/34 Prouses Road,",NORTH BENDIGO VIC 3550,Apartment / Unit / Flat,2,1,1,155m² ,22 Jun 2018
+"198,500 ","17 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,747m² ,21 Jun 2018
+"180,000 ","2 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,803m² ,20 Jun 2018
+"2,500,000 ","5 Friswell Avenue,",FLORA HILL VIC 3550,Vacant land,0,0,0,0,19 Jun 2018
+"101,500 ","1/27 Moran Street,",LONG GULLY VIC 3550,Vacant land,0,0,0,291m² ,19 Jun 2018
+"207,500 ","3/45 Church Street,",KANGAROO FLAT VIC 3555,Apartment / Unit / Flat,2,1,1,227m² ,18 Jun 2018
+"1,900,000 ","1-12/23 Hallam Street,",QUARRY HILL VIC 3550,Block of units,24,12,12,"1,412m² ",13 Jun 2018
+"162,500 ",,WHITE HILLS VIC 3550,Vacant land,0,0,0,586m² ,13 Jun 2018
+"220,000 ","13 Pendlebury Court,",SPRING GULLY VIC 3550,Vacant land,0,0,0,937m² ,09 Jun 2018
+"165,500 ",,WHITE HILLS VIC 3550,Vacant land,0,0,0,599m² ,08 Jun 2018
+"159,500 ","Lot 26 Tussock Drive,",WHITE HILLS VIC 3550,Vacant land,0,0,0,572m² ,08 Jun 2018

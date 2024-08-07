@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,000,000 ","24 St John Street,",ADELAIDE SA 5000,House,2,1,−,217m² ,2024
+"1,350,000 ","10 - 12 Hamilton Place,",ADELAIDE SA 5000,House,3,2,1,90m² ,19 Apr 2024
+"2,050,000 ","181 Sturt Street,",ADELAIDE SA 5000,House,4,3,3,217m² ,10 Apr 2024
+"1,010,000 ","18 Gladstone Street,",ADELAIDE SA 5000,House,3,2,1,103m² ,09 Apr 2024
+"1,880,000","126 Gilbert Street,",ADELAIDE SA 5000,House,5,1,6,461m² ,08 Apr 2024
+"976,000 ","22 Hallett Street,",ADELAIDE SA 5000,House,2,1,−,177m² ,04 Apr 2024
+"632,000","28 Vinrace Street,",ADELAIDE SA 5000,House,1,1,1,140m² ,02 Apr 2024
+"1,250,000 ","222-224 Gilles Street,",ADELAIDE SA 5000,House,3,2,1,239m² ,2024
+"1,360,000","407 Carrington Street,",ADELAIDE SA 5000,House,3,1,−,167m² ,2024
+"805,000 ","23A Blackburn Street,",ADELAIDE SA 5000,House,1,1,−,107m² ,2024
+"1,345,000 ","11 Castle Street,",ADELAIDE SA 5000,House,2,2,2,149m² ,2024
+"865,000","226 Frome Street,",ADELAIDE SA 5000,Villa,2,1,1,252m² ,28 Feb 2024
+"660,000 ","10 Vicars Lane,",ADELAIDE SA 5000,House,2,1,2,50m² ,15 Feb 2024
+"1,405,000 ","30 Little Sturt Street,",ADELAIDE SA 5000,House,3,2,1,186m² ,22 Jan 2024
+"752,000","293 Carrington Street,",ADELAIDE SA 5000,House,2,1,−,138m² ,15 Jan 2024
+"1,480,000","20 Blackburn Street,",ADELAIDE SA 5000,House,3,2,1,222m² ,12 Jan 2024
+"870,000 ","29 Chatham Street,",ADELAIDE SA 5000,House,3,1,1,190m² ,18 Dec 2023
+"900,000 ","305 Carrington Street,",ADELAIDE SA 5000,House,3,1,−,195m² ,2023
+"1,036,000","30 Little Gilbert Street,",ADELAIDE SA 5000,House,5,1,−,240m² ,27 Nov 2023
+"1,257,000 ","17 Stephens Street,",ADELAIDE SA 5000,House,3,2,−,126m² ,27 Nov 2023
+"2,970,000 ","360 Gilles Street,",ADELAIDE SA 5000,House,3,2,3,563m² ,2023
+"1,115,000","271 Angas Street,",ADELAIDE SA 5000,House,2,2,2,149m² ,2023
+"938,500","21 Blackburn Street,",ADELAIDE SA 5000,House,2,1,−,130m² ,14 Nov 2023
+"1,650,000 ","2 Albert Lane,",ADELAIDE SA 5000,House,3,3,4,458m² ,07 Nov 2023
+"585,000","18 Maxwell Street,",ADELAIDE SA 5000,Terrace,2,1,−,100m² ,2023
+"1,720,000","53 Byron Place,",ADELAIDE SA 5000,House,2,2,5,205m² ,01 Nov 2023
+"1,102,500 ","342 Gilles Street,",ADELAIDE SA 5000,House,2,1,2,173m² ,2023
+"792,000 ","24 Alfred Street,",ADELAIDE SA 5000,House,2,1,−,150m² ,19 Oct 2023
+"830,000 ","4 Allen Place,",ADELAIDE SA 5000,House,2,1,2,191m² ,28 Sep 2023
+"880,000","50 Alfred Street,",ADELAIDE SA 5000,House,2,1,1,140m² ,30 Aug 2023
+"667,000 ","275 Gilbert Street,",ADELAIDE SA 5000,House,2,1,1,155m² ,2023
+"765,000 ","11 Gladstone Street,",ADELAIDE SA 5000,House,2,1,1,107m² ,2023
+"700,000","16 Kate Court,",ADELAIDE SA 5000,House,1,1,2,130m² ,31 May 2023
+"945,000 ","61 Alfred Street,",ADELAIDE SA 5000,House,2,1,1,108m² ,2023
+"1,020,000 ","225 Gilles Street,",ADELAIDE SA 5000,House,2,2,2,209m² ,25 May 2023
+"1,100,000 ","71 South Terrace,",ADELAIDE SA 5000,House,3,2,2,157m² ,24 May 2023
+"845,000 ","347 Angas Street,",ADELAIDE SA 5000,House,2,1,1,113m² ,2023
+"856,000 ","27 Hallett Street,",ADELAIDE SA 5000,House,2,1,1,218m² ,03 Apr 2023
+"2,300,000 ","86 East Terrace,",ADELAIDE SA 5000,House,3,3,2,192m² ,03 Apr 2023
+"833,000","12a Hume Street,",ADELAIDE SA 5000,House,3,2,2,125m² ,01 Feb 2023
+"1,000,000 ","15 Gray Street,",ADELAIDE SA 5000,House,4,1,1,238m² ,30 Jan 2023
+"990,000","24 McLaren Street,",ADELAIDE SA 5000,House,2,1,−,169m² ,11 Jan 2023
+"690,000 ","102 Gray Street,",ADELAIDE SA 5000,House,3,1,1,107m² ,20 Dec 2022
+"1,420,000 ","350 Halifax Street,",ADELAIDE SA 5000,House,3,2,1,251m² ,2022
+"1,650,000","187-189 Hutt Street,",ADELAIDE SA 5000,House,2,1,4,478m² ,2022
+"1,155,000 ","7/414 Carrington Street,",ADELAIDE SA 5000,House,3,2,2,147m² ,01 Dec 2022
+"695,000 ","21A Kate Court,",ADELAIDE SA 5000,House,1,1,−,139m² ,2022
+"2,100,000","112-114 Gilles Street,",ADELAIDE SA 5000,House,3,1,4,460m² ,28 Oct 2022
+"735,000 ","28 Albert Street,",ADELAIDE SA 5000,House,2,1,−,191m² ,13 Oct 2022
+"1,432,000 ","21 North Street,",ADELAIDE SA 5000,House,3,3,2,129m² ,2022
+"633,000 ","52 Corryton Street,",ADELAIDE SA 5000,House,3,2,1,183m² ,23 Sep 2022
+"1,550,000 ","22 Royal Avenue,",ADELAIDE SA 5000,House,3,2,1,273m² ,2022
+"820,000 ","26 Vincent Street,",ADELAIDE SA 5000,House,2,1,−,119m² ,03 Aug 2022
+"853,000","27 Vincent Place,",ADELAIDE SA 5000,House,3,1,2,239m² ,01 Aug 2022
+"867,000","12 Owen Street,",ADELAIDE SA 5000,House,3,3,1,73m² ,22 Jul 2022
+"785,000 ","17 Marion Street,",ADELAIDE SA 5000,House,2,2,−,125m² ,2022
+"967,500 ","15 Little Gilbert Street,",ADELAIDE SA 5000,House,3,1,3,200m² ,2022
+"1,200,000","19 McLaren Street,",ADELAIDE SA 5000,House,3,2,−,135m² ,2 Jun 2022
+"1,280,000 ","239 Gilbert Street,",ADELAIDE SA 5000,House,3,2,2,301m² ,15 Jun 2022
+"601,000 ","16 Collins Street,",ADELAIDE SA 5000,House,2,1,2,118m² ,2022
+"772,000 ","290 Gilbert Street,",ADELAIDE SA 5000,House,2,1,−,170m² ,2022
+"663,000 ","28 Louisa Street,",ADELAIDE SA 5000,House,2,1,−,119m² ,17 May 2022
+"870,000 ","30 Marion Street,",ADELAIDE SA 5000,House,2,1,1,183m² ,2022
+"2,000,000","233 Gilles Street,",ADELAIDE SA 5000,House,5,3,4,371m² ,26 Apr 2022
+"855,000","79 McLaren Street,",ADELAIDE SA 5000,House,3,1,2,167m² ,08 Apr 2022
+"705,000","268 Wright Street,",ADELAIDE SA 5000,House,2,1,2,122m² ,06 Apr 2022
+"960,000 ","1/211 Gilles Street,",ADELAIDE SA 5000,House,3,2,2,140m² ,2022
+"1,350,000 ","346A Angas Street,",ADELAIDE SA 5000,House,3,3,1,132m² ,2022
+"735,000 ","13 Hobsons Place,",ADELAIDE SA 5000,House,2,2,2,117m² ,23 Mar 2022
+"705,000 ","24 Sturt Street,",ADELAIDE SA 5000,House,3,2,1,86m² ,23 Feb 2022
+"735,501 ","38 Tucker Street,",ADELAIDE SA 5000,House,2,1,1,162m² ,9 Feb 2022
+"1,005,000","55 Halifax Street,",ADELAIDE SA 5000,House,2,2,2,142m² ,7 Feb 2022
+"660,000 ","22 Surflen Street,",ADELAIDE SA 5000,House,2,1,−,109m² ,23 Jan 2022
+"2,350,000 ","5/30 Halifax Street,",ADELAIDE SA 5000,House,4,4,3,600m² ,18 Jan 2022
+"1,180,000 ","17 William Lane,",ADELAIDE SA 5000,House,2,2,2,113m² ,14 Jan 2022
+"1,150,000","25 Vincent Place,",ADELAIDE SA 5000,House,2,2,1,235m² ,2022
+"1,210,000","9 William Lane,",ADELAIDE SA 5000,House,3,2,2,138m² ,29 Dec 2021
+"920,000 ","365 Carrington Street,",ADELAIDE SA 5000,House,2,1,2,138m² ,27 Dec 2021
+"1,525,000","15 Charlotte Place,",ADELAIDE SA 5000,House,3,2,2,162m² ,23 Dec 2021
+"1,150,000","419 Carrington Street,",ADELAIDE SA 5000,House,3,1,1,250m² ,2021
+"1,650,000","116 East Terrace,",ADELAIDE SA 5000,House,3,2,2,330m² ,22 Dec 2021
+"835,000","15 Wilson Street,",ADELAIDE SA 5000,House,3,2,2,139m² ,2021
+"500,000 ","19 Hume Street,",ADELAIDE SA 5000,House,2,1,1,113m² ,20 Dec 2021
+"690,000","38 South Terrace,",ADELAIDE SA 5000,House,3,1,2,109m² ,14 Dec 2021
+"1,460,000","214 Carrington Street,",ADELAIDE SA 5000,House,3,1,1,158m² ,10 Dec 2021
+"740,000 ","37A Hallett Street,",ADELAIDE SA 5000,House,2,1,2,90m² ,21 Nov 2021
+"1,210,000 ","367 Halifax Street,",ADELAIDE SA 5000,House,4,1,2,258m² ,2021
+"650,000 ","22 Claxton Street,",ADELAIDE SA 5000,House,3,1,−,112m² ,2021
+"950,000 ","18 Ada Street,",ADELAIDE SA 5000,House,2,1,−,138m² ,2021
+"1,382,500 ","354 Halifax Street,",ADELAIDE SA 5000,House,4,1,2,301m² ,2021
+"1,400,000 ","64 McLaren Street,",ADELAIDE SA 5000,House,4,2,2,198m² ,2021
+"775,000 ","224 Frome Street,",ADELAIDE SA 5000,Villa,2,1,1,256m² ,9 Oct 2021
+"596,000","3/179 Sturt Street,",ADELAIDE SA 5000,House,2,2,1,102m² ,26 Oct 2021
+"741,000","19 Chatham Street,",ADELAIDE SA 5000,House,3,1,1,171m² ,2021
+"800,000 ","284 Carrington Street,",ADELAIDE SA 5000,House,3,1,1,130m² ,2021
+"605,000 ","25 Colby Place,",ADELAIDE SA 5000,House,2,1,2,56m² ,7 Sep 2021
+"1,261,000 ","28 Catherine Helen Spence Street,",ADELAIDE SA 5000,House,3,3,2,200m² ,24 Sep 2021
+"795,000 ","16 Dimora Court,",ADELAIDE SA 5000,House,3,1,2,118m² ,2021
+"1,410,000 ","17 Louisa Street,",ADELAIDE SA 5000,House,4,1,2,354m² ,2021
+"900,000 ","12A Stafford Street,",ADELAIDE SA 5000,House,3,3,1,82m² ,13 Sep 2021
+"690,000 ","14/211 Gilles Street,",ADELAIDE SA 5000,House,3,2,1,120m² ,03 Sep 2021
+"790,000 ","17 Chatham Street,",ADELAIDE SA 5000,House,5,1,1,179m² ,20 Aug 2021
+"965,000 ","11 Lowe Street,",ADELAIDE SA 5000,House,3,2,1,167m² ,11 Aug 2021
+"552,000 ","18 Maxwell Street,",ADELAIDE SA 5000,Terrace,2,1,−,120m² ,2021
+"1,400,000 ","16 Royal Avenue,",ADELAIDE SA 5000,House,4,2,−,250m² ,2021
+"800,000","51 Symonds Place,",ADELAIDE SA 5000,House,2,1,1,214m² ,26 Jul 2021
+"1,025,000 ","20 Russell Street,",ADELAIDE SA 5000,House,3,1,2,264m² ,2 Jul 2021
+"1,350,000","71 Regent Street South,",ADELAIDE SA 5000,House,2,3,2,167m² ,20 Jul 2021
+"850,000 ","18 Gladstone Street,",ADELAIDE SA 5000,House,3,2,1,103m² ,11 Jul 2021
+"600,000 ","12 Wright Court,",ADELAIDE SA 5000,House,2,1,−,75m² ,2021
+"1,610,000 ","37 Hurtle Square,",ADELAIDE SA 5000,House,3,2,1,176m² ,2021
+"950,000 ","26 Blackburn Street,",ADELAIDE SA 5000,House,3,2,1,114m² ,25 Jun 2021
+"450,000 ","18 Oakley Street,",ADELAIDE SA 5000,House,2,1,1,124m² ,2021
+"1,240,000 ","26 Wakeham Street,",ADELAIDE SA 5000,House,1,1,2,240m² ,16 Jun 2021
+"730,000 ","20 Gray Street,",ADELAIDE SA 5000,House,3,1,−,206m² ,2021
+"730,000 ","21 Chatham Street,",ADELAIDE SA 5000,House,3,1,1,186m² ,03 Jun 2021
+"875,000 ","256 Gilles Street,",ADELAIDE SA 5000,House,2,1,1,228m² ,2021
+"730,000 ","20 Cairns Street,",ADELAIDE SA 5000,House,3,1,−,184m² ,2021
+"787,000 ","12 Allen Place,",ADELAIDE SA 5000,House,3,1,1,175m² ,2021
+"755,000","11 Ada Street,",ADELAIDE SA 5000,House,2,1,2,252m² ,03 May 2021
+"910,000 ","234 Halifax Street,",ADELAIDE SA 5000,House,3,1,1,201m² ,3 Apr 2021
+"600,000 ","34 Hallett Street,",ADELAIDE SA 5000,House,2,1,−,116m² ,2021
+"695,000","11A Hume Street,",ADELAIDE SA 5000,House,3,1,1,130m² ,15 Apr 2021
+"610,000 ","54 Corryton Street,",ADELAIDE SA 5000,House,2,1,1,97m² ,13 Apr 2021
+"1,510,000","338-340 Halifax Street,",ADELAIDE SA 5000,House,4,2,−,369m² ,2021
+"620,000 ","7 Hume Street,",ADELAIDE SA 5000,House,3,2,1,82m² ,08 Apr 2021
+"627,250 ","16 Claxton Street,",ADELAIDE SA 5000,House,2,1,−,114m² ,29 Mar 2021
+"1,025,000 ","235 Gilbert Street,",ADELAIDE SA 5000,House,3,2,2,288m² ,08 Mar 2021
+"825,000","32 Claxton Street,",ADELAIDE SA 5000,House,3,1,2,241m² ,2021
+"566,000 ","17 Vinrace Street,",ADELAIDE SA 5000,House,2,2,2,112m² ,26 Feb 2021
+"745,500 ","15 Louisa Street,",ADELAIDE SA 5000,House,3,1,2,156m² ,24 Feb 2021
+"820,000","174 South Terrace,",ADELAIDE SA 5000,House,3,1,1,286m² ,22 Feb 2021
+"1,450,000","21 Bonython Close,",ADELAIDE SA 5000,House,3,2,2,280m² ,29 Jan 2021
+"835,000","117 Sturt Street,",ADELAIDE SA 5000,House,3,1,6,251m² ,29 Jan 2021
+"466,500","64 Corryton Street,",ADELAIDE SA 5000,House,1,1,−,95m² ,18 Jan 2021
+"610,000","10 Gladstone Street,",ADELAIDE SA 5000,House,2,1,−,109m² ,11 Jan 2021
+"750,000 ","252 Gilles Street,",ADELAIDE SA 5000,House,3,1,1,204m² ,2021
+"490,000","21 Claxton Street,",ADELAIDE SA 5000,House,2,2,−,129m² ,14 Dec 2020
+"1,013,000 ","29 Tomsey Street,",ADELAIDE SA 5000,House,3,1,2,323m² ,2020
+"760,000 ","15 Todd Place,",ADELAIDE SA 5000,House,3,1,2,59m² ,03 Dec 2020
+"515,000 ","16 Ehmckes Lane,",ADELAIDE SA 5000,House,2,1,1,118m² ,30 Nov 2020
+"820,000 ","344 Angas Street,",ADELAIDE SA 5000,House,3,1,1,132m² ,2020
+"1,385,000 ","55 Russell Street,",ADELAIDE SA 5000,House,3,2,2,202m² ,15 Nov 2020
+"535,000 ","184 Gilbert Street,",ADELAIDE SA 5000,House,2,1,−,113m² ,15 Nov 2020
+"638,000","314 Halifax Street,",ADELAIDE SA 5000,House,3,1,1,196m² ,2020
+"645,000 ","24 Hallett Street,",ADELAIDE SA 5000,Semi-detached,2,1,−,166m² ,28 Oct 2020
+"1,530,000","231 Carrington Street,",ADELAIDE SA 5000,House,3,2,2,209m² ,28 Oct 2020
+"515,000 ","14 Weil Street,",ADELAIDE SA 5000,House,2,1,−,133m² ,22 Oct 2020
+"1,020,000","357 Halifax Street,",ADELAIDE SA 5000,House,3,2,2,310m² ,21 Oct 2020
+"965,000 ","110 South Terrace,",ADELAIDE SA 5000,House,3,3,−,167m² ,2020
+"820,000 ","2 & 4 Sanders Place,",ADELAIDE SA 5000,House,3,2,1,199m² ,17 Sep 2020
+"615,000 ","26 Albert Street,",ADELAIDE SA 5000,House,2,1,−,184m² ,13 Sep 2020
+"475,000 ","4/15 Sydney Place,",ADELAIDE SA 5000,House,2,1,1,53m² ,02 Sep 2020
+"697,500 ","241 Carrington Street,",ADELAIDE SA 5000,House,2,1,2,201m² ,24 Aug 2020
+"1,050,000 ","321/323 Halifax Street,",ADELAIDE SA 5000,House,2,2,1,351m² ,29 Jul 2020
+"390,000 ","26 Byron Place,",ADELAIDE SA 5000,House,1,1,−,111m² ,2020
+"715,000 ","28 Howard Florey Street,",ADELAIDE SA 5000,House,2,1,2,110m² ,30 Jun 2020
+"520,000 ","12 Ehmckes Lane,",ADELAIDE SA 5000,House,2,1,1,119m² ,16 Jun 2020
+"1,200,000 ","356 Halifax Street,",ADELAIDE SA 5000,House,7,1,3,300m² ,12 Jun 2020
+"480,000 ","4 Allen Place,",ADELAIDE SA 5000,House,2,1,−,191m² ,2020
+"908,000 ","22 Albert Street,",ADELAIDE SA 5000,House,2,2,2,185m² ,15 Apr 2020
+"935,000 ","15 William Lane,",ADELAIDE SA 5000,House,3,2,2,134m² ,07 Apr 2020
+"767,500 ","12 McLaren Street,",ADELAIDE SA 5000,House,2,1,1,150m² ,05 Apr 2020
+"620,000 ","291 Gilles Street,",ADELAIDE SA 5000,House,2,1,1,127m² ,03 Apr 2020
+"419,000","64A Corryton Street,",ADELAIDE SA 5000,House,1,1,2,96m² ,23 Mar 2020
+"950,000 ","311 Gilles Street,",ADELAIDE SA 5000,House,3,1,2,182m² ,10 Mar 2020
+"1,400,000 ","307 Gilles Street,",ADELAIDE SA 5000,House,5,3,2,250m² ,02 Mar 2020
+"585,000","21a Wakeham Street,",ADELAIDE SA 5000,House,2,1,−,134m² ,17 Jan 2020
+"680,000","347 Angas Street,",ADELAIDE SA 5000,House,2,2,1,113m² ,2020
+"800,000 ","318 Halifax Street,",ADELAIDE SA 5000,House,2,1,1,210m² ,2020
+"634,000 ","295 Carrington Street,",ADELAIDE SA 5000,House,2,1,−,145m² ,11 Nov 2019
+"925,000","357 Halifax Street,",ADELAIDE SA 5000,House,3,2,−,310m² ,06 Nov 2019
+"484,000 ","256A Gilbert Street,",ADELAIDE SA 5000,House,1,1,−,112m² ,15 Oct 2019
+"550,000","19 Little Gilbert Street,",ADELAIDE SA 5000,House,2,1,1,121m² ,04 Oct 2019
+"1,300,000 ","27 Power Street,",ADELAIDE SA 5000,House,3,2,−,232m² ,02 Oct 2019
+"634,000 ","295 Carrington Street,",ADELAIDE SA 5000,House,2,1,−,145m² ,27 Sep 2019
+"1,195,000","12 Crowther Street,",ADELAIDE SA 5000,House,3,2,2,161m² ,25 Sep 2019
+"902,000 ","201 Gilbert Street,",ADELAIDE SA 5000,House,2,2,3,220m² ,2019
+"560,000 ","188 Gray Street,",ADELAIDE SA 5000,House,3,1,−,212m² ,18 Sep 2019
+"775,000 ","66 Alfred Street,",ADELAIDE SA 5000,House,4,1,2,131m² ,05 Sep 2019
+"565,000 ","18 Hume Street,",ADELAIDE SA 5000,Duplex,2,1,−,132m² ,04 Sep 2019
+"470,000 ","247 Carrington Street,",ADELAIDE SA 5000,House,1,1,2,117m² ,23 Aug 2019
+"500,000","293 Gilles Street,",ADELAIDE SA 5000,House,2,1,−,126m² ,18 Jul 2019
+"780,000 ","322 Halifax Street,",ADELAIDE SA 5000,House,2,1,1,207m² ,2019
+"955,000","340 Carrington Street,",ADELAIDE SA 5000,House,2,2,1,121m² ,28 Jun 2019
+"510,000 ","21 Little Gilbert Street,",ADELAIDE SA 5000,House,2,1,1,110m² ,14 Jun 2019
+"2,050,000 ","307 North Terrace,",ADELAIDE SA 5000,House,4,3,2,205m² ,23 May 2019
+"700,000 ","19 Vincent Street,",ADELAIDE SA 5000,House,2,1,−,158m² ,2019
+"780,000 ","81 McLaren Street,",ADELAIDE SA 5000,House,2,1,1,167m² ,15 May 2019
+"480,000 ","59 Alfred Street,",ADELAIDE SA 5000,House,2,1,−,90m² ,26 Apr 2019
+"694,000 ","224 Angas Street,",ADELAIDE SA 5000,House,2,1,1,296m² ,2019
+"826,000 ","261 Wright Street,",ADELAIDE SA 5000,House,3,1,1,232m² ,2019
+"1,200,000 ","309 Gilles Street,",ADELAIDE SA 5000,House,3,1,2,231m² ,2019
+"575,500","10 Wright Court,",ADELAIDE SA 5000,House,2,1,−,77m² ,28 Mar 2019
+"724,650 ","54 McLaren Street,",ADELAIDE SA 5000,House,2,1,2,167m² ,25 Feb 2019
+"744,000 ","230 Frome Street,",ADELAIDE SA 5000,House,2,1,1,255m² ,2019
+"900,000 ","350 Gilles Street,",ADELAIDE SA 5000,House,2,1,2,188m² ,01 Feb 2019
+"558,000","28 Kate Court,",ADELAIDE SA 5000,Semi-detached,2,1,1,208m² ,30 Jan 2019
+"1,590,000 ","23-25 Bonython Close,",ADELAIDE SA 5000,House,3,2,2,280m² ,14 Dec 2018
+"4,750,000","165 East Terrace,",ADELAIDE SA 5000,House,4,4,3,"1,614m² ",13 Dec 2018
+"691,500","17 Hamilton Place,",ADELAIDE SA 5000,House,3,1,2,250m² ,13 Dec 2018
+"1,105,000 ","358 Angas Street,",ADELAIDE SA 5000,House,4,3,2,167m² ,8 Nov 2018
+"605,000 ","30 Alfred Street,",ADELAIDE SA 5000,House,3,1,−,225m² ,28 Nov 2018
+"600,000","28 James Street,",ADELAIDE SA 5000,House,3,1,1,148m² ,19 Nov 2018
+"550,000 ","17 Wright Court,",ADELAIDE SA 5000,House,2,1,−,126m² ,18 Nov 2018
+"820,000 ","236 Halifax Street,",ADELAIDE SA 5000,House,3,1,1,198m² ,2018
+"560,000","12 Stephens Street,",ADELAIDE SA 5000,House,2,1,2,180m² ,07 Nov 2018
+"1,100,000 ","14 Tomsey Street,",ADELAIDE SA 5000,House,2,2,2,174m² ,11 Oct 2018
+"576,000 ","20 Cairns Street,",ADELAIDE SA 5000,House,2,1,1,193m² ,01 Sep 2018
+"604,000 ","11 Spence Place,",ADELAIDE SA 5000,House,2,2,1,78m² ,01 Aug 2018
+"359,000 ","242A Gilbert St,",ADELAIDE SA 5000,House,2,1,−,121m² ,2018
+"2,630,000 ","440 Gilles Street,",ADELAIDE SA 5000,House,4,4,3,"1,120m² ",09 Jul 2018
+"430,500 ","58 Corryton St,",ADELAIDE SA 5000,House,1,1,−,97m² ,25 Jun 2018
+"697,500 ","304 Gilles Street,",ADELAIDE SA 5000,House,3,1,1,160m² ,28 May 2018
+"594,000 ","17A Vincent Place,",ADELAIDE SA 5000,House,2,1,1,116m² ,2018
+"780,000 ","27 Little Sturt Street,",ADELAIDE SA 5000,House,3,1,2,237m² ,2018
+"410,000","12A Murrays Lane,",ADELAIDE SA 5000,House,1,1,−,121m² ,2018
+"410,000 ","12A Murrays Lane,",ADELAIDE SA 5000,House,1,1,−,121m² ,2018
+"515,000 ","28 Albert Street,",ADELAIDE SA 5000,House,2,1,−,191m² ,27 Feb 2018
+"511,000 ","18 Hobsons Place,",ADELAIDE SA 5000,House,2,1,2,55m² ,12 Feb 2018
+"916,000","110 South Terrace,",ADELAIDE SA 5000,House,3,3,−,167m² ,2018
+"571,000 ","22 Hallett St,",ADELAIDE SA 5000,House,2,1,−,170m² ,2017
+"1,000,000 ","350 Halifax Street,",ADELAIDE SA 5000,House,3,2,1,251m² ,2017
+"875,000 ","231 Carrington Street,",ADELAIDE SA 5000,House,4,1,−,393m² ,01 Dec 2017
+"950,000 ","20 Catherine Helen Spence Street,",ADELAIDE SA 5000,House,3,3,2,199m² ,1 Dec 2017
+"680,000","2/21 Harriett Street,",ADELAIDE SA 5000,House,2,1,1,124m² ,22 Nov 2017
+"610,000 ","17 Gray Court,",ADELAIDE SA 5000,House,2,1,2,128m² ,08 Nov 2017
+"1,450,000 ","73 South Terrace,",ADELAIDE SA 5000,House,3,2,3,177m² ,18 Jul 2017
+"702,500 ","334a Carrington Street,",ADELAIDE SA 5000,House,3,1,1,116m² ,8 Jun 2017
+"657,000 ","30 McLaren Street,",ADELAIDE SA 5000,House,2,1,1,158m² ,2017
+"473,000","30 Vincent Street,",ADELAIDE SA 5000,House,2,1,−,117m² ,1 May 2017
+"840,000 ","268 Gilbert Street,",ADELAIDE SA 5000,House,2,2,1,217m² ,2017
+"655,500","50 Alfred Street,",ADELAIDE SA 5000,House,2,1,1,140m² ,4 Apr 2017
+"550,000 ","8 Dimora Court,",ADELAIDE SA 5000,House,2,1,1,100m² ,03 Apr 2017
+"510,000 ","178 Gilbert Street,",ADELAIDE SA 5000,House,2,1,1,178m² ,2017
+"850,000 ","151 Gilbert Street,",ADELAIDE SA 5000,House,4,1,4,267m² ,14 Dec 2016
+"537,500 ","30 Delhi Street,",ADELAIDE SA 5000,House,2,2,1,122m² ,26 Oct 2016
+"565,000 ","40 Delhi Street,",ADELAIDE SA 5000,House,2,1,2,137m² ,10 Oct 2016
+"960,000 ","413 Carrington Street,",ADELAIDE SA 5000,House,3,2,1,167m² ,2016
+"921,000 ","11 Castle Street,",ADELAIDE SA 5000,House,2,2,1,149m² ,07 Sep 2016
+"580,600 ",,ADELAIDE SA 5000,House,2,1,1,141m² ,11 Aug 2016
+"672,000 ","8 Stafford Street,",ADELAIDE SA 5000,House,3,2,4,119m² ,11 Aug 2016
+"980,000 ","358 Angas Street,",ADELAIDE SA 5000,House,4,2,2,167m² ,05 Aug 2016
+"650,000 ","26 Castle Street,",ADELAIDE SA 5000,House,2,1,1,124m² ,27 Jul 2016
+"570,000 ","11 Little Gilbert Street,",ADELAIDE SA 5000,House,3,1,1,190m² ,22 Jul 2016
+"905,000","143 Gilbert Street,",ADELAIDE SA 5000,House,3,1,4,251m² ,2016
+"645,000 ","22-24 Stephens Street,",ADELAIDE SA 5000,House,2,1,−,295m² ,27 May 2016
+"480,000","18A Hamilton Place,",ADELAIDE SA 5000,House,2,1,1,125m² ,29 Jan 2016
+"476,000 ","18 Charlotte Street,",ADELAIDE SA 5000,Terrace,2,1,−,115m² ,25 Jan 2016
+"576,000 ","17 Gladstone Street,",ADELAIDE SA 5000,House,2,1,1,113m² ,18 Jan 2016
+"775,000 ","218 Halifax Street,",ADELAIDE SA 5000,House,3,1,−,311m² ,14 Dec 2015
+"651,000 ","30 Whitmore Square,",ADELAIDE SA 5000,House,3,2,1,162m² ,2015
+"720,000 ","13 Hamilton Place,",ADELAIDE SA 5000,House,3,1,4,250m² ,27 Nov 2015
+"540,000 ","17A Vincent Place,",ADELAIDE SA 5000,House,2,1,1,116m² ,13 Nov 2015
+"1,010,000 ","12 Crowther Street,",ADELAIDE SA 5000,House,3,2,2,161m² ,28 Sep 2015
+"701,000 ","19 Kate Court,",ADELAIDE SA 5000,House,3,1,−,255m² ,2015
+"480,000 ","22 Little Sturt Street,",ADELAIDE SA 5000,House,2,1,−,161m² ,17 Aug 2015
+"360,000 ","53 McLaren Street,",ADELAIDE SA 5000,House,1,1,−,92m² ,10 Aug 2015
+"547,000","362 Carrington Street,",ADELAIDE SA 5000,House,1,1,1,175m² ,2015
+"810,000 ","33 St. Helena Place,",ADELAIDE SA 5000,House,2,2,1,175m² ,15 Jun 2015
+"1,000,000","416 Carrington Street,",ADELAIDE SA 5000,House,4,3,2,218m² ,05 Jun 2015
+"950,000 ","380 Halifax Street,",ADELAIDE SA 5000,House,2,1,1,251m² ,2015
+"585,000","245 Carrington Street,",ADELAIDE SA 5000,House,2,2,−,149m² ,27 May 2015
+"710,000","254 Gilles Street,",ADELAIDE SA 5000,House,2,1,2,231m² ,2015
+"760,000","25 Royal Avenue,",ADELAIDE SA 5000,House,3,2,−,248m² ,16 Apr 2015
+"617,000 ","48 Gilles Street,",ADELAIDE SA 5000,House,2,1,2,65m² ,19 Mar 2015
+"700,000 ","24 Charlotte Place,",ADELAIDE SA 5000,House,2,1,1,179m² ,24 Feb 2015
+"422,500","14 Charlotte Street,",ADELAIDE SA 5000,House,2,1,−,106m² ,2015
+"660,000 ","236 Halifax Street,",ADELAIDE SA 5000,House,3,1,1,198m² ,22 Dec 2014
+"770,000 ","25 Vincent Place,",ADELAIDE SA 5000,House,2,2,1,235m² ,03 Dec 2014
+"1,700,000 ","142 South Terrace,",ADELAIDE SA 5000,House,4,2,2,420m² ,03 Dec 2014
+"2,450,000 ","101 Grote Street,",ADELAIDE SA 5000,House,5,4,10,877m² ,05 Nov 2014
+"380,000 ","17 Gladstone Street,",ADELAIDE SA 5000,House,1,1,−,113m² ,2014
+"695,000 ","14 Daly Street,",ADELAIDE SA 5000,House,3,2,2,62m² ,02 Sep 2014
+"658,250 ","13 Hamilton Place,",ADELAIDE SA 5000,House,3,1,2,250m² ,2014
+"648,000 ","15 Russell Street,",ADELAIDE SA 5000,House,3,1,1,178m² ,2014
+"792,000 ","285 Gilbert Street,",ADELAIDE SA 5000,House,3,2,2,175m² ,29 Jul 2014
+"462,000","28 Louisa Street,",ADELAIDE SA 5000,House,2,1,−,121m² ,2014
+"650,000","214 East Terrace,",ADELAIDE SA 5000,House,3,2,1,120m² ,20 Jun 2014
+"563,000","12 Kenton Street,",ADELAIDE SA 5000,House,2,1,1,249m² ,2014
+"642,500 ","38 McLaren Street,",ADELAIDE SA 5000,House,2,1,−,193m² ,2014
+"665,000 ","5 Southcott Walk,",ADELAIDE SA 5000,House,2,2,2,80m² ,2014
+"925,000","56 McLaren Street,",ADELAIDE SA 5000,House,3,2,1,154m² ,2013
+"488,000 ","15 Kenton Street,",ADELAIDE SA 5000,House,2,1,−,150m² ,10 Dec 2013
+"426,500","11 Sanders Place,",ADELAIDE SA 5000,House,2,1,−,139m² ,2013
+"720,888","17 Myers Lane,",ADELAIDE SA 5000,House,3,2,2,175m² ,12 Oct 2013
+"500,000","17 Chatham Street,",ADELAIDE SA 5000,House,3,1,1,179m² ,
+"845,000","5 Whitmore Square,",ADELAIDE SA 5000,House,3,1,3,309m² ,2013
+"584,000","14 Kenton Street,",ADELAIDE SA 5000,House,2,1,2,203m² ,2013
+"429,000 ","50 Alfred Street,",ADELAIDE SA 5000,House,2,1,1,140m² ,25 Jul 2012
+"496,000 ","261 Wright Street,",ADELAIDE SA 5000,House,2,1,−,232m² ,31 Mar 2012
+"475,000 ","240 Gilbert St,",ADELAIDE SA 5000,House,2,1,−,200m² ,01 Sep 2011
+"600,000 ","21 O Brien Street,",ADELAIDE SA 5000,House,4,2,2,273m² ,15 Sep 2010
+"975,000 ","53B Harris Road,",VALE PARK SA 5081,House,4,2,2,303m² ,26 Apr 2024
+"1,522,000 ","4a Webb Avenue,",GLENSIDE SA 5065,House,3,2,2,363m² ,2024
+"850,000 ","69 Coglin Street,",BROMPTON SA 5007,House,3,2,2,184m² ,2024
+"1,355,000 ","30 Kyle Street,",GLENSIDE SA 5065,House,3,1,1,378m² ,2024
+"884,000 ","28 Norma Street,",MILE END SA 5031,House,2,1,2,417m² ,2024
+"1,615,000 ","41 Cuming Street,",MILE END SA 5031,House,3,2,3,431m² ,2024
+"1,810,000 ","7 Cator Street,",GLENSIDE SA 5065,House,3,1,2,735m² ,2024
+"1,146,000 ","12 Louisa Street,",GOODWOOD SA 5034,House,3,1,2,445m² ,2024
+"1,370,000 ","6 Oxenbould Street,",PARKSIDE SA 5063,House,3,2,3,302m² ,0 Apr 2024
+"1,157,000 ","49 St James Boulevard,",BROMPTON SA 5007,House,4,2,2,377m² ,2024
+"2,590,000","28 Marlborough Street,",MALVERN SA 5061,House,5,2,2,893m² ,19 Apr 2024
+"625,250","36 Hocking Street,",BROMPTON SA 5007,House,2,1,1,143m² ,18 Apr 2024
+"1,296,000 ","2A Cleland Avenue,",DULWICH SA 5065,House,2,1,1,379m² ,8 Apr 2024
+"2,920,000","21 Medindie Lane,",MEDINDIE SA 5081,House,5,3,2,"1,013m² ",18 Apr 2024
+"870,000","6 Stacey Street,",NORWOOD SA 5067,House,2,1,1,181m² ,18 Apr 2024
+"1,600,000 ","59 Howard Street,",BEULAH PARK SA 5067,House,3,2,2,327m² ,2024
+"875,000 ","2 Fielding Road,",CLARENCE PARK SA 5034,House,3,1,2,506m² ,17 Apr 2024
+"1,820,000","13 Eton Street,",MALVERN SA 5061,House,3,1,2,746m² ,2024
+"2,205,000","105 Lansdowne Terrace,",VALE PARK SA 5081,House,4,2,4,"1,376m² ",17 Apr 2024
+"1,600,000 ","7 Burnell Street,",LINDEN PARK SA 5065,House,5,2,2,695m² ,2024
+"3,800,000","32 Fourth Avenue,",ST PETERS SA 5069,House,3,3,3,560m² ,16 Apr 2024
+"1,215,000","23 Avenue Road,",FREWVILLE SA 5063,House,3,1,3,416m² ,2024
+"2,705,500 ","67 Palmerston Road,",UNLEY SA 5061,House,3,1,3,766m² ,2024
+"1,700,000 ","13 Short Street,",WAYVILLE SA 5034,House,3,2,3,557m² ,2024
+"1,350,000 ","3 Cross Street,",WEST HINDMARSH SA 5007,House,4,2,2,580m² ,2024
+"1,000,000 ","53 Marion Street,",UNLEY SA 5061,House,3,1,2,374m² ,12 Apr 2024
+"1,751,000","122 Hewitt Avenue,",TOORAK GARDENS SA 5065,House,3,2,1,660m² ,11 Apr 2024
+"3,050,000","12 Lansdowne Terrace,",WALKERVILLE SA 5081,House,5,3,4,"1,200m² ",09 Apr 2024
+"2,210,000","27 Lily Street,",GOODWOOD SA 5034,House,3,2,6,587m² ,8 Apr 2024
+"1,250,000","114 Hill Street,",NORTH ADELAIDE SA 5006,House,3,1,−,207m² ,08 Apr 2024
+"1,075,000 ","14 Clisby Street,",VALE PARK SA 5081,House,3,2,2,408m² ,08 Apr 2024
+"1,100,000 ","25 Ilford Street,",VALE PARK SA 5081,House,3,2,1,539m² ,2024
+"1,600,000 ","1 Cator Street,",GLENSIDE SA 5065,House,3,1,4,608m² ,2024
+"1,300,000 ","31 Cator Street,",GLENSIDE SA 5065,House,2,1,3,633m² ,2024
+"895,000 ","38 William Street,",NORWOOD SA 5067,House,2,1,1,206m² ,2024
+"1,350,000 ","2A Randolph Avenue,",PARKSIDE SA 5063,House,3,2,2,277m² ,2024
+"1,270,000","2a Melrose Avenue,",BEULAH PARK SA 5067,House,3,2,4,390m² ,05 Apr 2024
+"2,310,000 ","37 Phillis Street,",MAYLANDS SA 5069,House,5,2,2,445m² ,05 Apr 2024
+"1,060,000 ","5 Dunks Street,",PARKSIDE SA 5063,House,2,1,−,210m² ,05 Apr 2024
+"2,580,000 ","154 Alexandra Avenue,",TOORAK GARDENS SA 5065,House,4,2,2,"1,456m² ",2024
+"1,532,000 ","29 Thomas Street,",UNLEY SA 5061,House,4,1,3,582m² ,05 Apr 2024
+"907,000","16 Ascot Avenue,",VALE PARK SA 5081,House,4,2,4,710m² ,05 Apr 2024
+"847,000 ","3A Darebin Street,",MILE END SA 5031,House,3,2,1,366m² ,04 Apr 2024
+"2,650,000","27 Queen Street,",UNLEY SA 5061,House,3,2,1,904m² ,04 Apr 2024
+"2,251,000","29 Frederick Street,",CLARENCE PARK SA 5034,House,4,2,6,696m² ,2024
+"1,670,000","7 White Avenue,",FULLARTON SA 5063,House,4,2,2,791m² ,03 Apr 2024
+"800,000 ","30 Laura Street,",STEPNEY SA 5069,House,2,1,−,197m² ,03 Apr 2024
+"2,000,000","18 Brandreth Street,",TUSMORE SA 5065,House,6,1,4,"1,170m² ",03 Apr 2024
+"1,330,000 ","13 Stanley Street,",KINGS PARK SA 5034,House,3,2,2,190m² ,02 Apr 2024
+"1,229,000 ","69 Mitchell Street,",MILLSWOOD SA 5034,House,3,2,2,464m² ,2024
+"860,000 ","6 Frasten Street,",TORRENSVILLE SA 5031,House,3,2,2,301m² ,30 Mar 2024
+"900,000 ","17 Colliver Street,",NORWOOD SA 5067,House,3,1,−,169m² ,29 Mar 2024
+"1,680,000 ","4 Mansfield Street,",GOODWOOD SA 5034,House,2,2,1,319m² ,28 Mar 2024
+"1,435,000 ","68 Queen Street,",NORWOOD SA 5067,House,2,1,2,539m² ,2024
+"2,275,000","6 Willis Street,",NORWOOD SA 5067,House,4,3,2,297m² ,28 Mar 2024
+"2,415,000","36 Fairford Street,",UNLEY SA 5061,House,4,2,1,743m² ,2024
+"715,000 ","4/1 John Hindmarsh Frontage,",BROMPTON SA 5007,House,3,1,2,177m² ,27 Mar 2024
+"1,600,000 ","101 Conyngham Street,",FREWVILLE SA 5063,House,3,2,2,411m² ,27 Mar 2024
+"1,885,000","8 Fifth Avenue,",ST PETERS SA 5069,House,4,2,2,557m² ,2024
+"2,032,000 ","5 John Street,",GOODWOOD SA 5034,House,4,3,3,545m² ,2024
+"1,105,000 ","9 Burnell Street,",LINDEN PARK SA 5065,House,3,2,1,362m² ,26 Mar 2024
+"1,277,000","181 Gover Street,",NORTH ADELAIDE SA 5006,House,3,1,−,262m² ,2024
+"1,341,000 ","8 Foster Street,",PARKSIDE SA 5063,House,3,1,1,345m² ,6 Mar 2024
+"1,290,000 ","4 Pine Street,",PARKSIDE SA 5063,House,3,2,1,301m² ,26 Mar 2024
+"895,000 ","54 Shipster Street,",TORRENSVILLE SA 5031,House,3,1,2,468m² ,2024
+"1,700,000 ","23 Glanton Street,",WEST HINDMARSH SA 5007,House,5,2,2,581m² ,26 Mar 2024
+"1,390,000 ","7 Filsell Street,",THEBARTON SA 5031,House,4,2,2,465m² ,2024
+"1,600,000 ","15 Barr-Smith Street,",TUSMORE SA 5065,House,3,2,2,590m² ,25 Mar 2024
+"1,625,000 ","31 Dixon Street,",CLARENCE PARK SA 5034,House,4,3,6,696m² ,2024
+"1,040,000 ","22 Langdon Avenue,",CLARENCE PARK SA 5034,House,3,2,4,344m² ,2024
+"910,000 ","19 Galway Avenue,",COLLINSWOOD SA 5081,House,3,2,2,470m² ,2024
+"803,500 ","10 Walter Street,",THEBARTON SA 5031,House,3,2,3,362m² ,2024
+"1,093,000 ","33 Bond Street,",WELLAND SA 5007,House,3,1,3,630m² ,2024
+"1,150,000 ","29 Windsor Road,",GLENSIDE SA 5065,House,3,1,2,383m² ,2024
+"1,515,000 ","50 East Avenue,",BLACK FOREST SA 5035,House,3,2,2,696m² ,1 Mar 2024
+"1,630,000 ","48 Hay Road,",LINDEN PARK SA 5065,House,4,1,1,587m² ,2024
+"1,012,000 ","76 North Parade,",TORRENSVILLE SA 5031,House,4,1,2,696m² ,2024
+"675,000 ","25 Everard Avenue,",ASHFORD SA 5035,House,3,1,1,577m² ,19 Mar 2024
+"1,407,500","1A Gilbert Street,",GOODWOOD SA 5034,House,3,2,2,340m² ,2024
+"1,820,000 ","17 Oxford Street,",HYDE PARK SA 5061,House,3,2,5,488m² ,19 Mar 2024
+"1,075,000 ","17C Fife Street,",VALE PARK SA 5081,House,4,2,2,350m² ,19 Mar 2024
+"1,210,000","41B Hawker Street,",BROMPTON SA 5007,House,4,3,5,407m² ,2024
+"1,117,000 ","43A William Street,",CLARENCE PARK SA 5034,House,3,2,1,353m² ,2024
+"1,151,000 ","29A Devon Street North,",GOODWOOD SA 5034,House,3,2,2,311m² ,18 Mar 2024
+"1,642,500","19 Lurline Street,",MILE END SA 5031,House,5,2,4,"1,031m² ",18 Mar 2024
+"2,160,000 ","18 Queen Street,",NORWOOD SA 5067,House,3,1,2,554m² ,2024
+"1,590,000 ","60 Ann Street,",STEPNEY SA 5069,House,3,2,2,327m² ,2024
+"3,030,000","9 View Street,",UNLEY PARK SA 5061,House,4,2,3,"1,179m² ",18 Mar 2024
+"970,000 ","104A East Street,",BROMPTON SA 5007,House,3,2,1,320m² ,2024
+"1,906,000 ","29 Watson Street,",FULLARTON SA 5063,House,4,2,2,904m² ,2024
+"1,392,000 ","11a Euston Avenue,",HIGHGATE SA 5063,House,4,2,1,479m² ,2024
+"845,000 ","27 Elizabeth Street,",TORRENSVILLE SA 5031,House,3,1,2,346m² ,2024
+"1,415,000 ","47 Rose Terrace,",WAYVILLE SA 5034,House,3,2,2,312m² ,2024
+"960,000","5 Cambridge Street,",HACKNEY SA 5069,House,3,1,4,489m² ,2024
+"2,120,000 ","1 West Terrace,",HIGHGATE SA 5063,House,3,2,2,615m² ,2024
+"1,388,000 ","21 Marion Road,",TORRENSVILLE SA 5031,House,5,3,6,914m² ,15 Mar 2024
+"770,000 ","33 Marion Road,",TORRENSVILLE SA 5031,House,3,2,2,672m² ,15 Mar 2024
+"1,470,000 ","22 Appelbee Crescent,",NORWOOD SA 5067,House,4,2,1,328m² ,14 Mar 2024
+"1,350,000","77 Leicester Street,",PARKSIDE SA 5063,House,3,1,2,425m² ,2024
+"1,346,625 ","2/51A Hay Road,",LINDEN PARK SA 5065,House,3,2,2,412m² ,13 Mar 2024
+"785,000","23 Smith Street,",THEBARTON SA 5031,House,2,1,−,214m² ,2024
+"1,350,000 ","9 Dimboola Street,",BEULAH PARK SA 5067,House,4,1,2,330m² ,2024
+"928,000 ","34 Charles Street,",FORESTVILLE SA 5035,House,2,1,−,301m² ,2024
+"1,701,000 ","5 Cranwell Street,",GLENSIDE SA 5065,House,2,1,1,836m² ,2024
+"2,445,000 ","9 Broughton Street,",GLENSIDE SA 5065,House,5,2,2,696m² ,2024
+"1,218,000 ","26 Castle Street,",PARKSIDE SA 5063,House,3,1,1,590m² ,2024
+"2,700,000 ","44 Palmerston Road,",UNLEY SA 5061,House,3,1,3,836m² ,2024
+"1,402,500 ","55 Arthur Street,",UNLEY SA 5061,House,4,2,3,464m² ,2024
+"1,228,000 ","17 Birks Street,",PARKSIDE SA 5063,House,3,1,2,650m² ,2024
+"1,400,000","28 Porter Street,",PARKSIDE SA 5063,House,3,2,1,350m² ,2024
+"940,000 ","7 Hocking Street,",BROMPTON SA 5007,House,1,1,4,376m² ,2024
+"1,600,000 ","14 Warrego Crescent,",LINDEN PARK SA 5065,House,3,1,2,836m² ,07 Mar 2024
+"895,000 ","3 Abbotsbury Place,",EVANDALE SA 5069,House,2,1,2,373m² ,06 Mar 2024
+"1,380,000 ","32 Nottage Terrace,",MEDINDIE GARDENS SA 5081,House,5,2,3,984m² ,06 Mar 2024
+"1,500,000 ","38 Falcon Avenue,",MILE END SA 5031,House,4,2,3,502m² ,2024
+"1,320,000","162 Wattle Street,",MALVERN SA 5061,House,5,2,1,497m² ,05 Mar 2024
+"3,311,111","50 Hewitt Avenue,",ROSE PARK SA 5067,House,5,2,2,696m² ,04 Mar 2024
+"1,906,000 ","6 Invergowrie Avenue,",HIGHGATE SA 5063,House,4,2,7,777m² ,2024
+"1,260,000 ","33 Tarragon Street,",MILE END SA 5031,House,5,1,4,836m² ,2024
+"2,851,000 ","41 Eighth Avenue,",ST PETERS SA 5069,House,3,1,2,"1,045m² ",2024
+"1,900,000 ","65 Marion Street,",UNLEY SA 5061,House,3,1,5,743m² ,2024
+"980,000 ","39 Kiln Drive,",BROMPTON SA 5007,House,3,2,2,279m² ,01 Mar 2024
+"1,305,000 ","49 William Street,",CLARENCE PARK SA 5034,House,3,2,2,464m² ,1 Mar 2024
+"1,350,000 ","45 Gordon Road,",CLARENCE PARK SA 5034,House,3,1,2,812m² ,01 Mar 2024
+"2,725,000","47 Palmerston Road,",UNLEY SA 5061,House,4,2,2,919m² ,2024
+"1,490,000 ","2C Jeffery Road,",VALE PARK SA 5081,House,4,3,4,307m² ,01 Mar 2024
+"467,500 ","7/8 Overbury Drive,",CLARENCE PARK SA 5034,House,2,1,1,97m² ,29 Feb 2024
+"1,520,000 ","129 Fisher Street,",FULLARTON SA 5063,House,3,1,4,839m² ,29 Feb 2024
+"2,000,000","16 Clyde Street,",PARKSIDE SA 5063,House,3,2,2,373m² ,29 Feb 2024
+"1,152,000","3 Gifford Street,",TORRENSVILLE SA 5031,House,3,1,2,670m² ,28 Feb 2024
+"2,350,000","24 George Street,",UNLEY PARK SA 5061,House,4,2,2,963m² ,2024
+"843,000 ","7/119 Melbourne Street,",NORTH ADELAIDE SA 5006,House,4,2,1,71m² ,26 Feb 2024
+"1,350,000 ","32 Elizabeth Street,",TORRENSVILLE SA 5031,House,5,2,2,"1,660m² ",26 Feb 2024
+"1,100,000 ","81 Frederick Street,",MAYLANDS SA 5069,House,4,1,1,488m² ,2024
+"3,150,000 ","25a River Street,",ST PETERS SA 5069,House,5,2,4,"1,184m² ",2024
+"2,230,000","90 Hill Street,",NORTH ADELAIDE SA 5006,House,3,2,1,414m² ,23 Feb 2024
+"1,850,000","23 Molesworth Street,",NORTH ADELAIDE SA 5006,House,3,2,3,496m² ,23 Feb 2024
+"4,000,000 ","207 King William Road,",HYDE PARK SA 5061,House,4,3,4,808m² ,22 Feb 2024
+"3,000,000","16 Elizabeth Street,",EASTWOOD SA 5063,House,5,2,2,"1,384m² ",2024
+"3,060,000 ","30 Malvern Avenue,",MALVERN SA 5061,House,4,2,2,845m² ,21 Feb 2024
+"2,715,000","41 Millswood Crescent,",MILLSWOOD SA 5034,House,4,2,2,696m² ,21 Feb 2024
+"1,723,000","1 Laurel Avenue,",LINDEN PARK SA 5065,House,4,2,2,764m² ,20 Feb 2024
+"925,000 ","7 East Street,",TORRENSVILLE SA 5031,House,3,1,2,528m² ,20 Feb 2024
+"745,000 ","10B Daringa Street,",MILE END SA 5031,House,3,1,2,280m² ,19 Feb 2024
+"1,550,000","13 Elizabeth Street,",NORWOOD SA 5067,House,3,1,2,457m² ,19 Feb 2024
+"1,050,000 ","118 West Street,",BROMPTON SA 5007,House,4,1,7,916m² ,2024
+"1,265,000 ","42 Rose Street,",MILE END SA 5031,House,3,2,1,417m² ,2024
+"1,288,000 ","162 Young Street,",PARKSIDE SA 5063,House,2,1,1,320m² ,2024
+"1,760,000 ","20 Lynington Street,",TUSMORE SA 5065,House,4,2,1,853m² ,2024
+"907,000 ","31 Neville Road,",THEBARTON SA 5031,House,3,1,1,407m² ,2024
+"3,450,000","29 Torrens Street,",COLLEGE PARK SA 5069,House,5,4,2,"1,400m² ",14 Feb 2024
+"930,000 ","49 Porter Street,",PARKSIDE SA 5063,House,3,1,1,301m² ,2024
+"688,000 ","53 Grey Avenue,",WELLAND SA 5007,House,3,1,1,245m² ,14 Feb 2024
+"1,935,000","1 Ormonde Avenue,",MILLSWOOD SA 5034,House,5,3,4,975m² ,12 Feb 2024
+"890,000 ","34 Elizabeth Street,",NORWOOD SA 5067,House,2,1,−,254m² ,09 Feb 2024
+"1,375,000","27 Phillis Street,",MAYLANDS SA 5069,House,3,1,1,457m² ,2024
+"1,358,000 ","46 Beatty Street,",LINDEN PARK SA 5065,House,3,1,3,471m² ,2024
+"1,395,000 ","27 First Avenue,",ST PETERS SA 5069,House,2,1,−,351m² ,2024
+"1,180,000 ","61 North Parade,",TORRENSVILLE SA 5031,House,4,3,4,560m² ,03 Feb 2024
+"1,416,000","9 Oakfield Avenue,",CLARENCE PARK SA 5034,House,4,2,6,727m² ,02 Feb 2024
+"4,750,000","44 Park Street,",HYDE PARK SA 5061,House,4,3,4,629m² ,2024
+"5,010,000 ","9 Elm Street,",UNLEY PARK SA 5061,House,4,2,8,840m² ,02 Feb 2024
+"1,980,000","24 Marleston Avenue,",ASHFORD SA 5035,House,10,10,10,"6,900m² ",31 Jan 2024
+"2,400,000","45 Frederick Street,",MAYLANDS SA 5069,House,3,2,6,"1,500m² ",31 Jan 2024
+"1,650,000","52 Wallis Street,",PARKSIDE SA 5063,House,3,2,2,654m² ,31 Jan 2024
+"1,895,000","18A Cleland Avenue,",DULWICH SA 5065,House,5,3,2,710m² ,2024
+"1,580,000","20 Cleland Avenue,",DULWICH SA 5065,House,4,1,1,535m² ,2024
+"1,483,000 ","312 Fullarton Road,",FULLARTON SA 5063,House,3,1,1,826m² ,30 Jan 2024
+"1,595,000","13 Alexander Street,",EVANDALE SA 5069,House,4,3,2,836m² ,29 Jan 2024
+"1,058,000","9 Linden Cres,",LINDEN PARK SA 5065,House,2,1,1,725m² ,29 Jan 2024
+"979,429","89A Hill Street,",NORTH ADELAIDE SA 5006,House,3,1,1,201m² ,29 Jan 2024
+"1,505,000 ","30 Chatsworth Grove,",TOORAK GARDENS SA 5065,House,3,2,2,432m² ,2024
+"1,513,000 ","59 Jervois Street,",TORRENSVILLE SA 5031,House,4,2,2,696m² ,2024
+"1,362,000","32 Duke Street,",BEULAH PARK SA 5067,House,3,1,2,605m² ,25 Jan 2024
+"2,505,000","26 L'estrange Street,",GLENSIDE SA 5065,House,6,3,3,"1,068m² ",25 Jan 2024
+"1,410,000","53 Frederick Street,",MAYLANDS SA 5069,House,4,2,2,417m² ,2024
+"757,000","2/187 Childers Street,",NORTH ADELAIDE SA 5006,House,2,1,1,180m² ,2024
+"1,320,000",,BOWDEN SA 5007,House,1,1,−,531m² ,24 Jan 2024
+"1,175,000","3 Austral Avenue,",LINDEN PARK SA 5065,House,3,1,1,326m² ,24 Jan 2024
+"860,000","11 Colliver Street,",NORWOOD SA 5067,House,3,1,−,160m² ,24 Jan 2024
+"1,165,000","18 Oxenbould Street,",PARKSIDE SA 5063,House,3,1,1,252m² ,24 Jan 2024
+"1,350,000","27A Torrens Street,",COLLEGE PARK SA 5069,House,2,2,2,302m² ,2024
+"1,549,000","29 Keyes Street,",LINDEN PARK SA 5065,House,3,1,2,836m² ,2024
+"1,760,000","41 Kennaway Street,",TUSMORE SA 5065,House,3,2,2,848m² ,2024
+"880,000","32 College Road,",KENT TOWN SA 5067,House,2,1,1,257m² ,19 Jan 2024
+"2,090,000 ","63 Cuming Street,",MILE END SA 5031,House,5,2,4,771m² ,18 Jan 2024
+"1,525,000","4 Warwick Avenue,",HYDE PARK SA 5061,House,3,1,2,613m² ,2024
+"1,193,000","41 Porter Street,",PARKSIDE SA 5063,House,3,1,2,482m² ,2024
+"1,540,000","95 Eighth Avenue,",ST PETERS SA 5069,House,3,2,2,530m² ,2024
+"3,275,800","15 Chatsworth Grove,",TOORAK GARDENS SA 5065,House,4,2,3,864m² ,16 Jan 2024
+"3,025,000","210 Young Street,",UNLEY SA 5061,House,4,2,2,557m² ,16 Jan 2024
+"2,725,000","8 Salisbury Terrace,",COLLINSWOOD SA 5081,House,5,4,4,"1,301m² ",15 Jan 2024
+"1,260,000","43A Charles Street,",NORWOOD SA 5067,House,3,2,2,235m² ,15 Jan 2024
+"1,220,000","10 Livingstone Street,",THEBARTON SA 5031,House,4,2,3,604m² ,2024
+"2,007,000","11-11A Glen Avenue,",UNLEY PARK SA 5061,House,3,2,2,929m² ,15 Jan 2024
+"800,000","13 Burley Griffin Boulevard,",BROMPTON SA 5007,House,3,1,2,275m² ,12 Jan 2024
+"4,360,000","59 Mills Terrace,",NORTH ADELAIDE SA 5006,House,8,4,3,"1,152m² ",2024
+"1,320,000","138 Cambridge Terrace,",MALVERN SA 5061,House,3,2,4,310m² ,11 Jan 2024
+"2,585,000 ","1 Seventh Avenue,",ST PETERS SA 5069,House,4,2,5,920m² ,09 Jan 2024
+"1,980,000","21 Gilbert Street,",GOODWOOD SA 5034,House,3,2,2,591m² ,8 Jan 2024
+"1,150,000 ","8 Bourn Avenue,",WEST HINDMARSH SA 5007,House,3,2,4,535m² ,08 Jan 2024
+"1,820,000 ","36 Donegal Street,",NORWOOD SA 5067,House,4,3,2,515m² ,07 Jan 2024
+"1,633,000 ","35 Fuller Street,",PARKSIDE SA 5063,House,5,2,3,501m² ,05 Jan 2024
+"1,265,000","20 Flora Street,",STEPNEY SA 5069,House,3,1,2,470m² ,5 Jan 2024
+"1,242,000 ","3 First Avenue,",ST PETERS SA 5069,House,3,1,1,361m² ,2024
+"1,689,000","5 Arthur Street,",FULLARTON SA 5063,House,4,2,2,641m² ,2024
+"1,301,000","16 Bond Street,",WEST HINDMARSH SA 5007,House,3,1,2,580m² ,29 Dec 2023
+"690,000 ","107A Torrens Road,",BROMPTON SA 5007,House,3,2,1,167m² ,27 Dec 2023
+"1,350,000","283 Fullarton Road,",PARKSIDE SA 5063,House,4,3,3,767m² ,27 Dec 2023
+"2,350,000 ","2/5 Ponder Avenue,",GILBERTON SA 5081,House,4,3,4,426m² ,23 Dec 2023
+"1,040,000","38 Ripon Road,",CLARENCE PARK SA 5034,House,3,2,2,232m² ,22 Dec 2023
+"1,700,000 ","37a Avenue Road,",HIGHGATE SA 5063,House,4,2,2,859m² ,22 Dec 2023
+"2,525,000","16 Esmond Street,",HYDE PARK SA 5061,House,5,2,2,565m² ,22 Dec 2023
+"2,000,000 ","67 Richmond Street,",COLLEGE PARK SA 5069,House,3,1,1,789m² ,21 Dec 2023
+"650,000 ","5/244 Cross Road,",KINGS PARK SA 5034,House,2,1,2,192m² ,21 Dec 2023
+"1,080,000","4/20 Randolph Avenue,",PARKSIDE SA 5063,House,3,2,2,178m² ,21 Dec 2023
+"1,550,000","268 Young Street,",WAYVILLE SA 5034,House,3,1,3,674m² ,21 Dec 2023
+"815,000 ","14 Jervois Avenue,",WEST HINDMARSH SA 5007,House,3,1,2,697m² ,21 Dec 2023
+"880,000 ","15 Kennington Avenue,",BROMPTON SA 5007,House,3,2,1,375m² ,20 Dec 2023
+"2,250,000","6 Williams Avenue,",DULWICH SA 5065,House,3,2,2,719m² ,2023
+"1,810,000 ","14 Beatty Street,",LINDEN PARK SA 5065,House,4,2,2,417m² ,2023
+"1,905,000","1 Clifton Street,",MILLSWOOD SA 5034,House,4,2,4,560m² ,20 Dec 2023
+"655,000 ","12a Bennett Street,",THEBARTON SA 5031,House,2,1,−,200m² ,20 Dec 2023
+"1,330,000","5B Hutton Street,",VALE PARK SA 5081,House,3,2,2,390m² ,20 Dec 2023
+"1,010,000","47 Second Street,",BROMPTON SA 5007,House,3,1,5,507m² ,2023
+"1,225,000","1 Edward Street,",EVANDALE SA 5069,House,3,1,2,553m² ,19 Dec 2023
+"950,000","14 Grace Street,",GOODWOOD SA 5034,House,3,1,1,297m² ,19 Dec 2023
+"1,800,000 ","7 Owen Street,",GOODWOOD SA 5034,House,3,1,3,613m² ,2023
+"643,000 ","1/2B Carlton Parade,",TORRENSVILLE SA 5031,House,2,1,1,200m² ,19 Dec 2023
+"1,405,000","27 Essex Street North,",GOODWOOD SA 5034,House,3,2,1,444m² ,18 Dec 2023
+"1,380,000","29 Devon Street North,",GOODWOOD SA 5034,House,3,1,2,312m² ,2023
+"3,000,000","22 Woodhurst Avenue,",HYDE PARK SA 5061,House,3,2,2,598m² ,2023
+"2,225,000","17 Mackinnon Parade,",NORTH ADELAIDE SA 5006,House,3,3,2,416m² ,18 Dec 2023
+"1,410,000 ","24 Birrell Street,",NORWOOD SA 5067,House,3,1,2,377m² ,2023
+"930,000 ","16 Francis Ridley Circuit,",BROMPTON SA 5007,House,3,2,4,195m² ,2023
+"787,000 ","5/147 Buxton Street,",NORTH ADELAIDE SA 5006,House,2,1,2,170m² ,2023
+"1,510,000","3A Verdun Street,",BEULAH PARK SA 5067,House,4,2,2,365m² ,15 Dec 2023
+"1,760,000 ","55 George Street,",CLARENCE PARK SA 5034,House,5,2,6,938m² ,2023
+"1,300,000","20 Grace Street,",GOODWOOD SA 5034,House,2,1,3,303m² ,2023
+"2,936,000","32 Oxenbould Street,",PARKSIDE SA 5063,House,5,1,2,"1,789m² ",15 Dec 2023
+"1,460,000 ","21B Sixth Avenue,",ST PETERS SA 5069,House,3,2,2,371m² ,15 Dec 2023
+"1,045,000","198 Cross Road,",UNLEY PARK SA 5061,House,4,1,2,654m² ,2023
+"630,000 ","39 Blight Street,",BROMPTON SA 5007,House,3,1,1,380m² ,14 Dec 2023
+"1,120,000 ","2 - 4 Cambridge Street,",HACKNEY SA 5069,House,3,1,2,490m² ,2023
+"1,305,000 ","25 Lurline Street,",MILE END SA 5031,House,5,5,2,860m² ,14 Dec 2023
+"1,860,000 ","42 Molesworth Street,",NORTH ADELAIDE SA 5006,House,3,2,2,446m² ,2023
+"1,900,000","28 Grant Avenue,",ROSE PARK SA 5067,House,4,2,2,557m² ,4 Dec 2023
+"1,400,000","14 Amber Woods Drive,",GLENSIDE SA 5065,House,3,2,2,510m² ,13 Dec 2023
+"4,600,000","39 Dutton Terrace,",MEDINDIE SA 5081,House,5,2,3,"1,669m² ",13 Dec 2023
+"1,240,000 ","34 Main Street,",EASTWOOD SA 5063,House,3,2,2,376m² ,12 Dec 2023
+"1,405,000 ","4, 4-6 Buckingham Street,",GILBERTON SA 5081,House,3,2,2,425m² ,12 Dec 2023
+"2,480,470","47A Church Terrace,",WALKERVILLE SA 5081,House,3,2,2,557m² ,12 Dec 2023
+"915,000 ","49 Sturdee Street,",LINDEN PARK SA 5065,House,2,1,1,367m² ,11 Dec 2023
+"2,050,000","45 Cremorne Street,",MALVERN SA 5061,House,4,2,2,729m² ,1 Dec 2023
+"1,230,000 ","9 Jeffery Road,",VALE PARK SA 5081,House,3,1,2,616m² ,11 Dec 2023
+"1,060,000 ","8 Palmyra Avenue,",TORRENSVILLE SA 5031,House,3,2,4,717m² ,2023
+"1,870,000 ","10 Alma Road,",FULLARTON SA 5063,House,3,1,2,783m² ,2023
+"1,040,000 ","35 North Parade,",TORRENSVILLE SA 5031,House,3,1,4,513m² ,2023
+"1,450,000 ","40 Rose Terrace,",WAYVILLE SA 5034,House,3,1,2,417m² ,2023
+"1,450,000","9 Weston Street,",GOODWOOD SA 5034,House,3,1,1,515m² ,2023
+"2,860,000","82 Hewitt Avenue,",ROSE PARK SA 5067,House,4,2,3,696m² ,2023
+"958,000","15 Oakington Street,",TORRENSVILLE SA 5031,House,3,1,1,648m² ,08 Dec 2023
+"3,200,000","50 Fairford Street,",UNLEY SA 5061,House,4,2,2,742m² ,08 Dec 2023
+"825,000 ","11 King Street,",MILE END SA 5031,House,4,1,1,320m² ,07 Dec 2023
+"1,030,000 ","12 Rankine Road,",TORRENSVILLE SA 5031,House,5,2,2,575m² ,07 Dec 2023
+"1,700,000 ","36 Angas Avenue,",VALE PARK SA 5081,House,3,2,−,840m² ,07 Dec 2023
+"1,027,500","27a Carlton Street,",HIGHGATE SA 5063,House,3,1,1,415m² ,06 Dec 2023
+"1,070,000 ","7 Lurline Street,",MILE END SA 5031,House,5,1,3,836m² ,06 Dec 2023
+"606,500 ","2/6 Davenport Terrace,",WAYVILLE SA 5034,House,3,1,1,85m² ,06 Dec 2023
+"1,106,000 ","87 West Street,",BROMPTON SA 5007,House,4,2,7,909m² ,05 Dec 2023
+"1,400,000","27 John Street,",EASTWOOD SA 5063,House,3,1,1,476m² ,05 Dec 2023
+"2,000,000","99 Grant Avenue,",TOORAK GARDENS SA 5065,House,4,1,1,855m² ,2023
+"1,122,000 ","73 Fairford Street,",UNLEY SA 5061,House,3,2,3,446m² ,04 Dec 2023
+"1,650,000 ","213 Jeffcott Street,",NORTH ADELAIDE SA 5006,House,4,2,2,464m² ,02 Dec 2023
+"1,150,000","31 Ballara Street,",MILE END SA 5031,House,3,1,2,879m² ,1 Dec 2023
+"2,515,000","54 Third Avenue,",ST PETERS SA 5069,House,5,3,2,"1,046m² ",01 Dec 2023
+"1,518,500 ","23A North Street,",FREWVILLE SA 5063,House,3,2,2,421m² ,0 Nov 2023
+"650,000","249 Portrush Road,",NORWOOD SA 5067,House,2,1,1,350m² ,30 Nov 2023
+"954,000 ","23 & 25 Margaret Street,",NORWOOD SA 5067,House,4,2,1,326m² ,2023
+"2,260,000","25 Swaine Avenue,",ROSE PARK SA 5067,House,4,1,2,557m² ,2023
+"2,450,000","165 Stephen Terrace,",WALKERVILLE SA 5081,House,5,3,2,"1,168m² ",30 Nov 2023
+"875,000 ","19 Burley Griffin Boulevard,",BROMPTON SA 5007,House,3,1,2,364m² ,28 Nov 2023
+"1,501,000 ","29 Albert Street,",DULWICH SA 5065,House,3,2,2,420m² ,28 Nov 2023
+"1,280,000 ","15 Hill Street,",PARKSIDE SA 5063,House,4,2,2,490m² ,8 Nov 2023
+"1,235,000 ","2 Elm Court,",VALE PARK SA 5081,House,3,2,2,850m² ,2023
+"1,820,000 ","5 View Road,",WALKERVILLE SA 5081,House,4,2,3,493m² ,28 Nov 2023
+"862,000 ","60 Second Street,",BROMPTON SA 5007,House,2,1,−,212m² ,2023
+"1,700,000","51 Gordon Road,",CLARENCE PARK SA 5034,House,4,2,4,812m² ,2023
+"915,000","1/286A Goodwood Road,",CLARENCE PARK SA 5034,House,3,2,2,400m² ,27 Nov 2023
+"1,792,000 ","19 King Street,",MILE END SA 5031,House,4,2,6,672m² ,2023
+"1,111,000 ","10 Ormonde Avenue,",MILLSWOOD SA 5034,House,3,1,1,528m² ,2023
+"870,000 ","96a George Street,",THEBARTON SA 5031,House,3,1,3,389m² ,2023
+"1,305,000 ","16 Mimosa Drive,",VALE PARK SA 5081,House,4,2,4,749m² ,24 Nov 2023
+"893,000 ",,BLACK FOREST SA 5035,House,3,1,3,431m² ,23 Nov 2023
+"1,410,000 ","14 Wellington Terrace,",FULLARTON SA 5063,House,3,2,1,445m² ,2023
+"1,900,000","57 Cremorne Street,",MALVERN SA 5061,House,3,2,2,664m² ,23 Nov 2023
+"2,650,000","31 Hewitt Avenue,",ROSE PARK SA 5067,House,4,2,2,696m² ,23 Nov 2023
+"890,000 ","6 Ascot Avenue,",VALE PARK SA 5081,House,3,1,3,738m² ,23 Nov 2023
+"1,125,000 ","197 Portrush Road,",MAYLANDS SA 5069,House,4,2,5,550m² ,22 Nov 2023
+"760,000 ","32C Hayward Avenue,",TORRENSVILLE SA 5031,House,3,2,1,269m² ,22 Nov 2023
+"1,605,000","5 Windsor Road,",GLENSIDE SA 5065,House,3,2,2,403m² ,20 Nov 2023
+"1,040,000","26 Ann Street,",STEPNEY SA 5069,House,2,1,2,267m² ,2023
+"2,960,000","112 Swaine Avenue,",TOORAK GARDENS SA 5065,House,5,3,2,"1,082m² ",2023
+"1,502,000 ","7 Langdon Avenue,",CLARENCE PARK SA 5034,House,4,3,4,748m² ,2023
+"1,601,000 ","53 Main Street,",EASTWOOD SA 5063,House,3,2,2,451m² ,2023
+"825,000 ","34 Young Avenue,",WEST HINDMARSH SA 5007,House,2,1,2,409m² ,18 Nov 2023
+"1,125,000","19 Tyson Street,",ASHFORD SA 5035,House,3,1,1,901m² ,17 Nov 2023
+"1,650,000","16 Osborn Avenue,",BEULAH PARK SA 5067,House,4,2,5,975m² ,17 Nov 2023
+"935,000 ","3A Hale Street,",EVERARD PARK SA 5035,House,4,2,2,374m² ,17 Nov 2023
+"3,150,000","46 Sheffield Street,",MALVERN SA 5061,House,4,2,5,975m² ,17 Nov 2023
+"646,000","55A Rose Street,",MILE END SA 5031,House,1,1,−,314m² ,17 Nov 2023
+"3,475,000 ","1A Westminster Street,",ST PETERS SA 5069,House,5,3,5,"1,554m² ",7 Nov 2023
+"2,100,000","69 Watson Avenue,",TOORAK GARDENS SA 5065,House,4,4,1,600m² ,17 Nov 2023
+"1,700,000 ","4B Rosemont Street,",NORWOOD SA 5067,House,3,3,2,314m² ,16 Nov 2023
+"872,000 ","22A Hughes Street,",UNLEY SA 5061,House,3,1,1,192m² ,16 Nov 2023
+"1,125,000 ","46B Harris Road,",VALE PARK SA 5081,House,3,2,2,335m² ,16 Nov 2023
+"1,650,000 ","1/5 Smith Street,",WALKERVILLE SA 5081,House,4,2,4,351m² ,16 Nov 2023
+"1,850,899","32 Foster Street,",PARKSIDE SA 5063,House,3,2,2,724m² ,5 Nov 2023
+"2,400,000","37 Ormond Grove,",TOORAK GARDENS SA 5065,House,4,1,2,828m² ,5 Nov 2023
+"2,088,000","31 Carlton Street,",HIGHGATE SA 5063,House,4,2,4,830m² ,2023
+"2,260,000","24 Roberts Street,",UNLEY SA 5061,House,4,2,2,907m² ,3 Nov 2023
+"637,500 ","115B North Parade,",TORRENSVILLE SA 5031,House,2,1,3,295m² ,2023
+"1,302,000 ","6 Paech Mews,",WALKERVILLE SA 5081,House,3,2,2,530m² ,2023
+"1,800,000 ","4a Barker Grove,",TOORAK GARDENS SA 5065,House,4,2,4,390m² ,10 Nov 2023
+"1,100,000 ","1 George Street,",VALE PARK SA 5081,House,2,1,4,690m² ,2023
+"3,008,000","6 Maud Street,",UNLEY SA 5061,House,4,3,2,745m² ,09 Nov 2023
+"1,035,000 ","22 Foundry Street,",GOODWOOD SA 5034,House,3,1,1,286m² ,2023
+"963,000 ","113 Leicester Street,",PARKSIDE SA 5063,House,3,1,−,367m² ,08 Nov 2023
+"970,000","5 Wainhouse Street,",TORRENSVILLE SA 5031,House,4,1,5,906m² ,08 Nov 2023
+"1,100,000 ","63 Rose Terrace,",WAYVILLE SA 5034,House,2,1,4,561m² ,08 Nov 2023
+"3,200,000 ","290 Magill Road,",BEULAH PARK SA 5067,House,6,3,4,947m² ,07 Nov 2023
+"1,950,000 ","11 Westbury Street,",HACKNEY SA 5069,House,4,1,2,820m² ,07 Nov 2023
+"1,460,000","71 Chief Street,",BROMPTON SA 5007,House,4,1,4,"1,098m² ",06 Nov 2023
+"1,500,000 ","32 Mann Terrace,",NORTH ADELAIDE SA 5006,House,3,2,2,300m² ,06 Nov 2023
+"1,360,000 ","8 Sheldon Street,",NORWOOD SA 5067,House,4,2,1,365m² ,2023
+"4,250,000","3 Thornber Street,",UNLEY PARK SA 5061,House,5,3,2,880m² ,06 Nov 2023
+"1,400,000 ","3 Thomas Street,",UNLEY SA 5061,House,3,1,1,361m² ,2023
+"860,000 ","23 Lorraine Avenue,",CLARENCE PARK SA 5034,House,3,1,1,440m² ,2023
+"1,300,000 ","3 Alfred Street,",PARKSIDE SA 5063,House,4,1,1,380m² ,03 Nov 2023
+"991,000 ","53 Wilpena Avenue,",VALE PARK SA 5081,House,3,1,2,590m² ,2023
+"1,007,000","4 Hutton Street,",VALE PARK SA 5081,House,3,1,4,696m² ,03 Nov 2023
+"981,000 ","23A Hauteville Terrace,",EASTWOOD SA 5063,House,3,1,2,327m² ,2023
+"1,250,000 ","15 Hauteville Terrace,",EASTWOOD SA 5063,House,3,2,3,404m² ,02 Nov 2023
+"1,350,000","16 Westbury Street,",HACKNEY SA 5069,House,2,1,1,338m² ,02 Nov 2023
+"890,000 ","22a Castle Street,",PARKSIDE SA 5063,House,2,1,1,201m² ,2023
+"1,680,000 ","57 Thomas Street,",UNLEY SA 5061,House,3,2,2,646m² ,2023
+"1,830,000","14 Seaview Street,",FULLARTON SA 5063,House,4,2,3,836m² ,01 Nov 2023
+"1,250,000 ","47 Tarragon Street,",MILE END SA 5031,House,4,2,2,696m² ,01 Nov 2023
+"1,560,000","35A Malcolm Street,",MILLSWOOD SA 5034,House,5,3,6,863m² ,01 Nov 2023
+"2,150,000","7 Yeo Avenue,",HIGHGATE SA 5063,House,4,2,2,580m² ,31 Oct 2023
+"895,000 ","44A Sydney Street,",GLENSIDE SA 5065,House,3,2,1,249m² ,2023
+"2,210,000 ","24 Hardy Street,",GOODWOOD SA 5034,House,3,2,3,469m² ,30 Oct 2023
+"3,306,500","227 Gover Street,",NORTH ADELAIDE SA 5006,House,3,2,2,599m² ,30 Oct 2023
+"740,000 ","22 Livingstone Street,",THEBARTON SA 5031,House,3,2,2,196m² ,30 Oct 2023
+"3,025,000","25 Ormond Grove,",TOORAK GARDENS SA 5065,House,4,2,2,893m² ,30 Oct 2023
+"2,760,000","7 Whistler Avenue,",UNLEY PARK SA 5061,House,3,2,2,"1,170m² ",30 Oct 2023
+"1,420,000 ","7 Dryden Road,",BLACK FOREST SA 5035,House,3,2,2,922m² ,2023
+"1,108,000 ","30 Ripon Road,",CLARENCE PARK SA 5034,House,3,2,2,404m² ,2023
+"905,000 ","3/21 Flemington Street,",GLENSIDE SA 5065,House,3,2,1,207m² ,2023
+"1,355,000 ","39 Flemington Street,",GLENSIDE SA 5065,House,3,2,1,365m² ,2023
+"1,540,000 ","36 Henley Street,",MILE END SA 5031,House,4,1,5,"1,114m² ",2023
+"1,410,000 ","77 West Street,",TORRENSVILLE SA 5031,House,4,3,4,426m² ,2023
+"1,485,000 ","6 Mimosa Drive,",VALE PARK SA 5081,House,4,2,1,740m² ,2023
+"2,850,000","102 Cheltenham Street,",MALVERN SA 5061,House,4,2,4,784m² ,7 Oct 2023
+"2,500,000 ","26 Childers Street,",NORTH ADELAIDE SA 5006,House,3,2,2,382m² ,2023
+"1,150,000 ","47 Margaret Street South,",NORTH ADELAIDE SA 5006,House,3,1,−,250m² ,26 Oct 2023
+"2,400,000","22 Queen Street,",NORWOOD SA 5067,House,3,2,2,668m² ,26 Oct 2023
+"2,705,000","49 Northumberland Street,",TUSMORE SA 5065,House,3,2,5,995m² ,26 Oct 2023
+"895,000 ","27 Frederick Street,",WELLAND SA 5007,House,4,2,2,928m² ,26 Oct 2023
+"1,225,000 ","5 North Terrace,",HIGHGATE SA 5063,House,3,2,1,435m² ,25 Oct 2023
+"1,020,000 ","2/37 Sheldon Street,",NORWOOD SA 5067,House,3,2,3,256m² ,2023
+"1,220,000 ","297 Greenhill Road,",TOORAK GARDENS SA 5065,House,3,2,2,864m² ,25 Oct 2023
+"1,135,000 ","4b Lansdowne Terrace,",WALKERVILLE SA 5081,House,3,2,2,378m² ,25 Oct 2023
+"785,500 ","10 Dew Street,",MILE END SA 5031,House,2,1,2,258m² ,4 Oct 2023
+"1,940,000","57 Sixth Avenue,",ST PETERS SA 5069,House,3,2,2,668m² ,2023
+"1,120,000","35A Ann Street,",STEPNEY SA 5069,House,3,2,2,239m² ,2023
+"1,450,000 ","28 Woodfield Avenue,",FULLARTON SA 5063,House,4,3,2,400m² ,22 Oct 2023
+"1,531,000 ","132 Kensington Road,",TOORAK GARDENS SA 5065,House,3,1,2,"1,000m² ",2023
+"790,000 ","1 Chapman Street,",TORRENSVILLE SA 5031,House,3,1,3,552m² ,2023
+"1,100,000 ","34 Frederick Street,",CLARENCE PARK SA 5034,House,3,1,2,349m² ,2023
+"1,667,000 ","15 Erskine Street,",GOODWOOD SA 5034,House,2,1,2,597m² ,2023
+"900,000 ","30A Norma Street,",MILE END SA 5031,House,2,1,2,418m² ,2023
+"825,000 ","22 Ebor Avenue,",MILE END SA 5031,House,3,2,5,418m² ,2023
+"1,820,000 ","29 Wells Street,",STEPNEY SA 5069,House,4,2,2,483m² ,2023
+"822,000 ","68 Hounslow Avenue,",TORRENSVILLE SA 5031,House,2,1,2,512m² ,1 Oct 2023
+"1,385,000 ","15 Queen Street,",UNLEY SA 5061,House,3,1,1,428m² ,2023
+"1,375,000 ","11A Mariner Street,",LINDEN PARK SA 5065,House,3,2,2,444m² ,2023
+"2,190,000 ","38 Nanthea Terrace North,",UNLEY PARK SA 5061,House,4,2,2,653m² ,18 Oct 2023
+"2,250,000","48 Essex Street South,",GOODWOOD SA 5034,House,5,2,3,766m² ,2023
+"1,210,000","52 Forest Avenue,",BLACK FOREST SA 5035,House,3,2,2,283m² ,6 Oct 2023
+"742,000","8 Thirteenth Street,",BOWDEN SA 5007,House,2,1,1,200m² ,2023
+"3,300,000","53 Malvern Avenue,",MALVERN SA 5061,House,3,2,2,605m² ,16 Oct 2023
+"1,500,000","2 Wilkinson Road,",PARKSIDE SA 5063,House,3,2,2,432m² ,16 Oct 2023
+"2,360,000","20 Birks Street,",PARKSIDE SA 5063,House,4,2,2,625m² ,2023
+"2,400,000","3 Brandreth Street,",TUSMORE SA 5065,House,4,2,1,836m² ,16 Oct 2023
+"805,000 ","2a Tenth Street,",BOWDEN SA 5007,House,3,1,1,431m² ,2023
+"1,566,000 ","24 Austral Avenue,",LINDEN PARK SA 5065,House,3,2,2,418m² ,2023
+"1,400,000 ","16 Foster Street,",NORWOOD SA 5067,House,3,1,1,348m² ,2023
+"2,975,000","21 Fashoda Street,",HYDE PARK SA 5061,House,3,2,2,558m² ,13 Oct 2023
+"620,000 ","2/1 Esmond Street,",HYDE PARK SA 5061,House,2,1,1,120m² ,13 Oct 2023
+"1,070,000 ","34 Stamford Street,",PARKSIDE SA 5063,House,3,1,3,336m² ,2023
+"1,040,000","14 Montpelier Street,",PARKSIDE SA 5063,House,2,1,2,257m² ,13 Oct 2023
+"1,660,000","3A Rivington Grove,",TUSMORE SA 5065,House,4,2,4,516m² ,2023
+"1,945,000","69 Northumberland Street,",TUSMORE SA 5065,House,4,2,2,771m² ,3 Oct 2023
+"1,400,000 ","244 Young Street,",UNLEY SA 5061,House,3,1,4,529m² ,3 Oct 2023
+"3,630,000 ","15 Whistler Avenue,",UNLEY PARK SA 5061,House,4,2,3,"1,581m² ",13 Oct 2023
+"1,150,000 ","14 Elizabeth Street,",EVANDALE SA 5069,House,5,3,3,557m² ,12 Oct 2023
+"1,400,000","18 Grace Street,",GOODWOOD SA 5034,House,3,1,1,293m² ,2023
+"1,356,000 ","58 Avenue Road,",HIGHGATE SA 5063,House,4,2,4,580m² ,11 Oct 2023
+"2,150,000 ","11 Oxford Street,",HYDE PARK SA 5061,House,3,2,3,487m² ,10 Oct 2023
+"3,000,000 ","36 Third Avenue,",ST PETERS SA 5069,House,8,8,8,"1,867m² ",10 Oct 2023
+"1,112,000 ","8 Northcote Street,",TORRENSVILLE SA 5031,House,3,1,4,696m² ,10 Oct 2023
+"1,700,000 ","2 High Street,",UNLEY PARK SA 5061,House,3,2,4,706m² ,10 Oct 2023
+"530,000 ","42 Everard Avenue,",KESWICK SA 5035,House,2,2,−,270m² ,09 Oct 2023
+"5,900,000","23 Stirling Street,",TUSMORE SA 5065,House,5,3,−,"2,068m² ",09 Oct 2023
+"1,020,000 ","3 Bristol Street,",EASTWOOD SA 5063,House,2,1,1,221m² ,2023
+"1,720,000 ","14 Essex Street North,",GOODWOOD SA 5034,House,4,1,4,758m² ,2023
+"2,480,000 ","29 Highgate Street,",HIGHGATE SA 5063,House,4,2,2,624m² ,2023
+"888,000 ","33 Torrens Street,",LINDEN PARK SA 5065,House,3,1,1,373m² ,2023
+"2,300,000 ","31 Avenue Street,",MILLSWOOD SA 5034,House,4,2,2,"1,045m² ",2023
+"1,090,000 ","30 Oxenbould Street,",PARKSIDE SA 5063,House,3,1,2,398m² ,2023
+"1,735,000 ","34 Sixth Avenue,",ST PETERS SA 5069,House,4,1,3,557m² ,2023
+"1,920,000 ","6A Player Avenue,",ST PETERS SA 5069,House,4,2,2,516m² ,2023
+"1,836,000","19 Devon Street North,",GOODWOOD SA 5034,House,4,2,4,766m² ,6 Oct 2023
+"1,805,000 ","60 Stanley Street,",NORTH ADELAIDE SA 5006,House,3,3,2,270m² ,2023
+"1,720,000","2a Smith Street,",WALKERVILLE SA 5081,House,3,2,2,503m² ,03 Oct 2023
+"1,430,000 ","14 Keyes Street,",LINDEN PARK SA 5065,House,4,2,1,576m² ,2023
+"2,300,000 ","12 Bolingbroke Grove,",TOORAK GARDENS SA 5065,House,3,1,4,864m² ,29 Sep 2023
+"600,000 ","1/58 Hayward Avenue,",TORRENSVILLE SA 5031,House,2,1,1,215m² ,29 Sep 2023
+"781,100 ","13 Foster Street,",FORESTVILLE SA 5035,House,2,2,1,222m² ,28 Sep 2023
+"2,965,000","47B Dutton Terrace,",MEDINDIE SA 5081,House,3,2,2,724m² ,2023
+"1,128,000 ","68 Castle Street,",PARKSIDE SA 5063,House,3,1,2,487m² ,2023
+"1,165,000 ","11 Wilkinson Road,",PARKSIDE SA 5063,House,2,1,2,431m² ,2023
+"3,050,000 ","11 Rayne Avenue,",LINDEN PARK SA 5065,House,5,3,2,747m² ,27 Sep 2023
+"1,500,000 ","15 Hart Street,",NORTH ADELAIDE SA 5006,House,4,2,−,309m² ,27 Sep 2023
+"1,280,000 ","17 Barr Smith Street,",TUSMORE SA 5065,House,3,1,4,613m² ,2023
+"1,870,000","14A Darling Street,",MEDINDIE SA 5081,House,5,2,2,497m² ,2023
+"3,100,000","76 Swaine Avenue,",TOORAK GARDENS SA 5065,House,4,2,2,603m² ,2023
+"1,828,000 ","13 Lanor Avenue,",MILLSWOOD SA 5034,House,4,1,2,808m² ,24 Sep 2023
+"1,600,000 ","14 Gurr Street,",GOODWOOD SA 5034,House,3,1,2,610m² ,2023
+"1,345,000 ","27 King Street,",MILE END SA 5031,House,3,1,3,743m² ,2023
+"1,095,000 ","30A Gladstone Road,",MILE END SA 5031,House,4,2,4,375m² ,2023
+"2,430,000 ","42 Edward Street,",NORWOOD SA 5067,House,7,3,3,930m² ,23 Sep 2023
+"1,972,000 ","21 Grant Avenue,",ROSE PARK SA 5067,House,3,1,4,557m² ,2023
+"1,453,000 ","10a Wallis Street,",PARKSIDE SA 5063,House,3,2,2,325m² ,2023
+"1,020,000 ","16 Fairford Street,",UNLEY SA 5061,House,3,1,2,258m² ,22 Sep 2023
+"711,000 ","1A Emerson Road,",BLACK FOREST SA 5035,House,3,1,4,683m² ,21 Sep 2023
+"1,238,000 ","19 Ashley Street,",NORTH ADELAIDE SA 5006,House,3,2,1,184m² ,21 Sep 2023
+"1,533,000","38 Byron Road,",BLACK FOREST SA 5035,House,4,2,4,812m² ,2023
+"1,070,000 ","14 Tarragon Street,",MILE END SA 5031,House,4,1,6,835m² ,20 Sep 2023
+"600,000 ","6C Howie Avenue,",TORRENSVILLE SA 5031,House,2,1,4,151m² ,19 Sep 2023
+"2,238,000","2 Brandreth Street,",TUSMORE SA 5065,House,4,2,3,574m² ,19 Sep 2023
+"1,300,000 ","3 Hindmarsh Avenue,",WEST HINDMARSH SA 5007,House,5,2,2,768m² ,19 Sep 2023
+"918,000 ","16A Aroha Terrace,",BLACK FOREST SA 5035,House,2,1,2,528m² ,18 Sep 2023
+"2,750,000","77 Winchester Street,",MALVERN SA 5061,House,4,2,2,808m² ,18 Sep 2023
+"1,010,000 ","173 Portrush Road,",MAYLANDS SA 5069,House,3,1,1,701m² ,18 Sep 2023
+"1,650,000","8 Henry Street,",NORWOOD SA 5067,House,3,2,2,371m² ,18 Sep 2023
+"1,902,000 ","8 Trinity Street,",COLLEGE PARK SA 5069,House,3,2,2,482m² ,2023
+"1,611,000 ","6 Ada Street,",GOODWOOD SA 5034,House,3,1,3,598m² ,2023
+"1,235,000 ","23 Parker Street,",MILE END SA 5031,House,3,1,2,695m² ,2023
+"1,400,000 ","139 Robsart Street,",PARKSIDE SA 5063,House,2,1,2,611m² ,2023
+"1,875,000 ","10 Hay Street,",WALKERVILLE SA 5081,House,3,1,2,710m² ,2023
+"1,510,500 ","36 Davenport Terrace,",WAYVILLE SA 5034,House,3,2,2,417m² ,2023
+"1,490,000","3 Parkstone Avenue,",DULWICH SA 5065,House,3,2,1,538m² ,2023
+"1,595,000","23 Cross Street,",FULLARTON SA 5063,House,4,2,2,525m² ,15 Sep 2023
+"1,455,000 ","6 Forest Avenue,",BLACK FOREST SA 5035,House,3,2,4,724m² ,14 Sep 2023
+"1,190,000","22 Elizabeth Street,",EVANDALE SA 5069,House,4,1,1,501m² ,2023
+"725,500 ","73 Jervois Avenue,",WEST HINDMARSH SA 5007,House,3,1,1,381m² ,11 Sep 2023
+"1,420,000 ","34 Salop Street,",BEULAH PARK SA 5067,House,4,3,3,522m² ,2023
+"1,600,000 ","14 Malvern Avenue,",MALVERN SA 5061,House,4,2,2,652m² ,2023
+"975,000 ","92 Kintore Street,",THEBARTON SA 5031,House,4,2,6,724m² ,2023
+"593,000 ","82a Kintore Street,",THEBARTON SA 5031,House,2,1,1,220m² ,2023
+"885,000","79 Alfred Street,",PARKSIDE SA 5063,House,3,1,1,216m² ,08 Sep 2023
+"1,175,000 ","4 Wallace Street,",VALE PARK SA 5081,House,3,1,2,741m² ,2023
+"1,900,000","33A Devonshire Street,",WALKERVILLE SA 5081,House,3,2,1,557m² ,2023
+"1,761,000","128 Kenilworth Road,",FULLARTON SA 5063,House,3,1,2,741m² ,07 Sep 2023
+"2,600,000","99 Leicester Street,",PARKSIDE SA 5063,House,4,3,3,487m² ,07 Sep 2023
+"970,000","23 Addison Road,",BLACK FOREST SA 5035,House,3,2,2,348m² ,2023
+"1,021,000 ","3 Cootra Avenue,",FULLARTON SA 5063,House,2,1,2,405m² ,04 Sep 2023
+"1,125,000 ","29 Torrens Avenue,",WEST HINDMARSH SA 5007,House,3,2,2,697m² ,2023
+"985,000","4 Carrondown Walk,",BROMPTON SA 5007,House,3,2,4,335m² ,2023
+"2,800,000","18 Valmai Avenue,",KINGS PARK SA 5034,House,4,2,3,"1,227m² ",2023
+"2,600,000","100 Rugby Street,",MALVERN SA 5061,House,4,2,2,578m² ,01 Sep 2023
+"2,725,000","31 Sturdee Street,",LINDEN PARK SA 5065,House,4,3,3,765m² ,31 Aug 2023
+"2,150,000","25 Cheltenham Street,",HIGHGATE SA 5063,House,4,3,2,789m² ,30 Aug 2023
+"785,000 ","82 Young Street,",PARKSIDE SA 5063,House,2,1,1,204m² ,29 Aug 2023
+"1,264,500","9 Rosslyn Avenue,",CLARENCE PARK SA 5034,House,3,3,2,708m² ,2023
+"1,905,000 ","267 Young Street,",WAYVILLE SA 5034,House,4,2,2,650m² ,28 Aug 2023
+"740,000 ","15 Osmond Terrace,",FULLARTON SA 5063,House,2,1,2,370m² ,2023
+"785,000 ","80 Young Street,",PARKSIDE SA 5063,House,2,1,1,204m² ,2023
+"1,700,000 ","63 Eighth Avenue,",ST PETERS SA 5069,House,4,2,3,696m² ,2023
+"1,645,000 ","61 Arthur Street,",UNLEY SA 5061,House,3,1,3,777m² ,2023
+"3,060,000","24 Dulwich Avenue,",DULWICH SA 5065,House,5,3,2,613m² ,2023
+"690,000","2A Dew Street,",MILE END SA 5031,House,2,1,−,240m² ,2023
+"1,385,000 ","39 Howard Street,",BEULAH PARK SA 5067,House,2,2,3,769m² ,23 Aug 2023
+"2,100,000","4 George Street,",CLARENCE PARK SA 5034,House,4,2,2,861m² ,2023
+"2,724,500","48 Westall Street,",UNLEY PARK SA 5061,House,5,4,1,595m² ,23 Aug 2023
+"1,900,000","8 Roseberry Avenue,",FULLARTON SA 5063,House,4,2,2,934m² ,22 Aug 2023
+"1,600,000 ","3 Hampstead Avenue,",HIGHGATE SA 5063,House,4,2,2,691m² ,22 Aug 2023
+"1,250,000","193 Gover Street,",NORTH ADELAIDE SA 5006,House,2,2,2,493m² ,21 Aug 2023
+"1,200,000","39 Wells Street,",STEPNEY SA 5069,House,4,2,1,483m² ,21 Aug 2023
+"2,500,000","222 Cross Road,",UNLEY PARK SA 5061,House,4,2,6,"2,350m² ",21 Aug 2023
+"1,205,000 ","18 Gilbert Street,",GOODWOOD SA 5034,House,3,1,3,589m² ,2023
+"1,800,000 ","2D North Terrace,",HIGHGATE SA 5063,House,3,2,2,405m² ,2023
+"2,000,000 ","42 Chatsworth Grove,",TOORAK GARDENS SA 5065,House,4,2,2,435m² ,2023
+"3,050,000","58 Ormond Grove,",TOORAK GARDENS SA 5065,House,3,2,3,"1,045m² ",17 Aug 2023
+"1,840,000 ","30 Augusta Street,",MAYLANDS SA 5069,House,3,1,−,650m² ,2023
+"1,820,000 ","37 Ormonde Avenue,",MILLSWOOD SA 5034,House,4,1,2,975m² ,15 Aug 2023
+"953,450 ","18 Winifred Avenue,",BLACK FOREST SA 5035,House,4,1,2,710m² ,14 Aug 2023
+"3,350,000","11 Frew Street,",FULLARTON SA 5063,House,4,3,4,"1,131m² ",14 Aug 2023
+"1,690,000 ","41 Fairford Street,",UNLEY SA 5061,House,2,1,2,744m² ,14 Aug 2023
+"980,000 ","11 Claremont Street,",MILE END SA 5031,House,3,1,1,669m² ,2023
+"1,090,000 ","10 Fuller Street,",PARKSIDE SA 5063,House,3,1,1,445m² ,2023
+"1,160,000 ","4 Eleventh Avenue,",ST PETERS SA 5069,House,3,1,2,300m² ,2023
+"1,106,000 ","39 Fife Street,",VALE PARK SA 5081,House,3,1,2,597m² ,2023
+"1,602,500 ","12 Rhyl Avenue,",WAYVILLE SA 5034,House,4,1,4,624m² ,12 Aug 2023
+"3,485,000","16 Northcote Terrace,",GILBERTON SA 5081,House,4,2,8,"2,820m² ",11 Aug 2023
+"2,950,000","19 Gertrude Street,",NORWOOD SA 5067,House,4,3,2,"1,714m² ",11 Aug 2023
+"735,000 ","15A Fife Street,",VALE PARK SA 5081,House,3,1,2,346m² ,11 Aug 2023
+"1,500,000","36 L'Estrange Street,",GLENSIDE SA 5065,House,3,2,1,730m² ,10 Aug 2023
+"2,140,000","75 Park Street,",HYDE PARK SA 5061,House,4,2,2,724m² ,2023
+"1,030,000","52 Chapel Street,",NORWOOD SA 5067,House,3,2,2,116m² ,10 Aug 2023
+"832,500 ","8 Nichols Street,",FORESTVILLE SA 5035,House,3,1,−,377m² ,08 Aug 2023
+"1,625,000","2 Salisbury Terrace,",COLLINSWOOD SA 5081,House,5,2,2,"1,109m² ",07 Aug 2023
+"1,310,000 ","6 Aroha Terrace,",FORESTVILLE SA 5035,House,3,2,2,505m² ,07 Aug 2023
+"4,950,000 ","222 Brougham Place,",NORTH ADELAIDE SA 5006,House,5,3,2,779m² ,07 Aug 2023
+"1,800,000","4 Trevelyan Street,",WAYVILLE SA 5034,House,4,1,4,940m² ,07 Aug 2023
+"735,000 ","110 Chief Street,",BROMPTON SA 5007,House,3,1,2,383m² ,2023
+"1,566,000","4 Stour Street,",GILBERTON SA 5081,House,3,1,−,600m² ,2023
+"800,000 ","25 Ebor Avenue,",MILE END SA 5031,House,4,1,2,446m² ,2023
+"1,810,000","17 Church Terrace,",WALKERVILLE SA 5081,House,4,2,2,416m² ,04 Aug 2023
+"1,550,000","19 Bond Street,",WEST HINDMARSH SA 5007,House,4,2,2,581m² ,04 Aug 2023
+"990,000","6 Ripon Road,",CLARENCE PARK SA 5034,House,3,2,2,464m² ,01 Aug 2023
+"3,240,000","50 Elizabeth Street,",NORWOOD SA 5067,House,4,3,3,"1,098m² ",01 Aug 2023
+"1,660,000","51a Arthur Street,",UNLEY SA 5061,House,3,2,4,309m² ,31 Jul 2023
+"1,565,000 ","105 Frederick Street,",EVANDALE SA 5069,House,4,2,2,673m² ,2023
+"1,320,000 ","57 Malvern Avenue,",MALVERN SA 5061,House,3,1,3,511m² ,2023
+"856,000 ","14 East Avenue,",BLACK FOREST SA 5035,House,3,1,2,461m² ,2023
+"1,501,060 ","18 Ascot Avenue,",DULWICH SA 5065,House,3,1,2,580m² ,28 Jul 2023
+"3,325,000 ","14 Park Crescent,",LINDEN PARK SA 5065,House,4,3,2,"1,410m² ",28 Jul 2023
+"1,790,000 ","4 Malvern Avenue,",MALVERN SA 5061,House,5,2,2,635m² ,28 Jul 2023
+"1,170,000","18 Thirteenth Street,",BOWDEN SA 5007,House,4,2,2,288m² ,2023
+"892,000 ","35B Kyle Street,",GLENSIDE SA 5065,House,3,1,1,348m² ,6 Jul 2023
+"2,250,000","72 Clifton Street,",MALVERN SA 5061,House,3,3,2,673m² ,2023
+"1,680,000","3 Evelyn Street,",VALE PARK SA 5081,House,5,4,2,442m² ,26 Jul 2023
+"980,000 ","23 Arundel Street,",VALE PARK SA 5081,House,3,2,1,700m² ,25 Jul 2023
+"960,000","47A Wakefield Street,",KENT TOWN SA 5067,House,2,2,2,406m² ,2023
+"1,062,000 ","31 Farnham Road,",KESWICK SA 5035,House,3,2,4,989m² ,24 Jul 2023
+"916,115","35 Fairfax Avenue,",MILLSWOOD SA 5034,House,3,1,2,466m² ,2023
+"1,330,000","9 Blyth Street,",PARKSIDE SA 5063,House,3,1,−,780m² ,2023
+"1,590,000 ","80a Church Terrace,",WALKERVILLE SA 5081,House,4,2,3,549m² ,2023
+"1,290,000 ","2A Darebin Street,",MILE END SA 5031,House,4,2,4,351m² ,22 Jul 2023
+"790,000 ","10a Loch Street,",STEPNEY SA 5069,House,2,1,2,325m² ,2023
+"730,000 ","1 Welland Avenue,",WELLAND SA 5007,House,4,2,2,168m² ,2023
+"1,256,000 ","3 Sturdee Street,",LINDEN PARK SA 5065,House,3,2,1,393m² ,21 Jul 2023
+"1,000,000 ","87 Tower Street North,",NORTH ADELAIDE SA 5006,House,3,1,−,204m² ,21 Jul 2023
+"1,220,000 ","18 Fisher Street,",NORWOOD SA 5067,House,3,2,2,395m² ,2023
+"1,952,000 ","14 Warwick Avenue,",TOORAK GARDENS SA 5065,House,2,1,5,947m² ,20 Jul 2023
+"1,900,000 ","8 Rutland Avenue,",UNLEY PARK SA 5061,House,3,2,2,696m² ,20 Jul 2023
+"1,450,000 ","12 Philip Street,",VALE PARK SA 5081,House,3,2,2,357m² ,20 Jul 2023
+"1,200,000 ","10 Ranelagh Street,",BROMPTON SA 5007,House,3,2,2,375m² ,9 Jul 2023
+"1,187,500","68 Cromer Parade,",MILLSWOOD SA 5034,House,3,1,3,690m² ,19 Jul 2023
+"905,000 ","9 O'Connell Street,",GOODWOOD SA 5034,House,2,1,1,261m² ,18 Jul 2023
+"850,000 ","14A Ballara Street,",MILE END SA 5031,House,2,1,1,362m² ,2023
+"966,000 ","2 Rhyl Avenue,",WAYVILLE SA 5034,House,2,1,1,296m² ,2023
+"1,332,500","5 Warwick Avenue,",HYDE PARK SA 5061,House,3,2,1,400m² ,17 Jul 2023
+"1,290,000 ","1 David Avenue,",BLACK FOREST SA 5035,House,3,2,1,395m² ,2023
+"1,525,000 ","2 North Terrace,",HIGHGATE SA 5063,House,4,2,2,550m² ,2023
+"850,000 ","10 Charlesworth Court,",MILE END SA 5031,House,3,2,1,249m² ,15 Jul 2023
+"1,690,125","66 Avenue Road,",HIGHGATE SA 5063,House,4,2,4,580m² ,14 Jul 2023
+"1,436,500 ","47 Hay Road,",LINDEN PARK SA 5065,House,3,1,2,694m² ,2023
+"1,080,000","34 Clifton Street,",MILLSWOOD SA 5034,House,3,1,6,473m² ,14 Jul 2023
+"1,061,000","5 Burnell Street,",LINDEN PARK SA 5065,House,3,1,1,358m² ,13 Jul 2023
+"708,000 ","5 John Street,",NORWOOD SA 5067,House,2,1,1,163m² ,13 Jul 2023
+"1,050,000","11 Hillsley Avenue,",EVERARD PARK SA 5035,House,3,1,3,710m² ,12 Jul 2023
+"925,000 ","1/34 North Street,",FREWVILLE SA 5063,House,3,1,3,270m² ,12 Jul 2023
+"1,500,000 ","6 Millswood Crescent,",MILLSWOOD SA 5034,House,4,2,2,650m² ,12 Jul 2023
+"1,350,000 ","13 Kelvin Avenue,",CLARENCE PARK SA 5034,House,5,2,2,892m² ,11 Jul 2023
+"670,000 ","1C Roebuck Street,",MILE END SA 5031,House,3,1,1,260m² ,10 Jul 2023
+"735,000 ","25 Clyde Street,",PARKSIDE SA 5063,House,2,1,−,176m² ,2023
+"1,150,000 ","1 Olive Street,",PARKSIDE SA 5063,House,3,1,4,371m² ,2023
+"1,400,000 ","8 Neville Road,",THEBARTON SA 5031,House,4,2,6,579m² ,2023
+"1,066,000 ","1 Ilford Street,",VALE PARK SA 5081,House,4,2,4,840m² ,2023
+"875,000 ","31 Kiln Drive,",BROMPTON SA 5007,House,3,2,2,220m² ,07 Jul 2023
+"1,745,000","29 Beatty Street,",LINDEN PARK SA 5065,House,4,1,4,"1,102m² ",2023
+"790,000","41B Cowra Street,",MILE END SA 5031,House,4,1,2,256m² ,7 Jul 2023
+"2,310,000","25 MacKinnon Parade,",NORTH ADELAIDE SA 5006,House,4,3,2,449m² ,07 Jul 2023
+"1,080,000 ","35 Byron Road,",BLACK FOREST SA 5035,House,5,2,1,812m² ,06 Jul 2023
+"1,155,000 ","10 Canterbury Terrace,",BLACK FOREST SA 5035,House,4,2,2,510m² ,06 Jul 2023
+"770,000 ","58 Ann Street,",STEPNEY SA 5069,House,3,1,−,470m² ,06 Jul 2023
+"1,050,000 ","8 Swift Avenue,",DULWICH SA 5065,House,2,1,1,295m² ,2023
+"1,090,000","12 Carr Avenue,",FREWVILLE SA 5063,House,2,1,2,353m² ,05 Jul 2023
+"1,835,000","17A Church Terrace,",WALKERVILLE SA 5081,House,3,2,2,415m² ,05 Jul 2023
+"960,000","54 Shipster Street,",TORRENSVILLE SA 5031,House,3,1,5,698m² ,03 Jul 2023
+"1,755,000 ","10 Parkstone Avenue,",DULWICH SA 5065,House,4,2,2,501m² ,2023
+"1,155,000","15 Stanley Street,",KINGS PARK SA 5034,House,3,2,2,319m² ,30 Jun 2023
+"960,000 ","D1/9 Rayne Ave,",LINDEN PARK SA 5065,House,4,3,2,423m² ,30 Jun 2023
+"1,450,000","15 Ramage Street,",UNLEY SA 5061,House,5,3,4,418m² ,30 Jun 2023
+"935,000","51B Ascot Avenue,",VALE PARK SA 5081,House,3,2,2,459m² ,30 Jun 2023
+"1,800,000","9/35 Commercial Road,",HYDE PARK SA 5061,House,5,3,2,393m² ,29 Jun 2023
+"1,230,000 ","24A Sturdee Street,",LINDEN PARK SA 5065,House,3,2,1,422m² ,29 Jun 2023
+"705,000 ","14 Union Street,",BEULAH PARK SA 5067,House,2,1,−,155m² ,28 Jun 2023
+"975,000 ","8 Holles Street,",BROMPTON SA 5007,House,4,2,6,419m² ,28 Jun 2023
+"1,186,000 ","37 Sturdee Street,",LINDEN PARK SA 5065,House,3,1,1,456m² ,28 Jun 2023
+"771,000 ","28a Rose Street,",MILE END SA 5031,Semi-detached,2,1,1,248m² ,28 Jun 2023
+"1,650,000 ","45 Grove Street,",UNLEY PARK SA 5061,House,4,2,2,586m² ,28 Jun 2023
+"852,000","3 Redford Street,",VALE PARK SA 5081,House,3,1,2,701m² ,28 Jun 2023
+"640,000 ","14/9 Eurilpa Avenue,",EVERARD PARK SA 5035,House,3,1,2,265m² ,27 Jun 2023
+"1,660,000","26 Lanor Avenue,",MILLSWOOD SA 5034,House,3,2,2,557m² ,2023
+"2,525,000","3 Second Avenue,",ST PETERS SA 5069,House,5,3,2,583m² ,2023
+"700,000 ","1/65 Ashley Street,",TORRENSVILLE SA 5031,House,3,1,2,268m² ,26 Jun 2023
+"2,605,000","15 High Street,",UNLEY PARK SA 5061,House,3,1,2,"1,002m² ",26 Jun 2023
+"920,000",,WELLAND SA 5007,House,3,1,2,680m² ,26 Jun 2023
+"1,307,500 ","35 Torrens Street,",LINDEN PARK SA 5065,House,3,2,3,431m² ,2023
+"1,350,000","12 Verdun Street,",BEULAH PARK SA 5067,House,3,2,2,320m² ,23 Jun 2023
+"1,106,000","18 Canterbury Terrace,",BLACK FOREST SA 5035,House,3,2,2,762m² ,2023
+"625,000 ","4/49 Green Street,",BROMPTON SA 5007,House,2,1,1,240m² ,23 Jun 2023
+"1,950,000","57 Mills Street,",CLARENCE PARK SA 5034,House,4,2,5,"1,034m² ",23 Jun 2023
+"1,270,000 ","79 Northumberland Street,",TUSMORE SA 5065,House,3,1,1,863m² ,2023
+"1,175,000 ","86 Coglin Street,",BROMPTON SA 5007,House,4,2,3,367m² ,21 Jun 2023
+"886,000 ","24 Henley Street,",MILE END SA 5031,House,2,1,3,533m² ,21 Jun 2023
+"775,000 ","18B Hamilton Street,",VALE PARK SA 5081,House,3,2,1,429m² ,21 Jun 2023
+"1,015,000","76 Rose Street,",MILE END SA 5031,House,4,1,2,485m² ,2023
+"920,000 ","22 Main Street,",EASTWOOD SA 5063,House,2,1,2,375m² ,2023
+"772,000","25 Halmon Avenue,",EVERARD PARK SA 5035,House,3,1,2,696m² ,2023
+"900,000 ","5 Ross Street,",THEBARTON SA 5031,House,4,1,3,613m² ,2023
+"1,950,000 ","3A Magdalen Street,",COLLEGE PARK SA 5069,House,3,1,2,627m² ,2023
+"1,003,000 ","5 Boothby Court,",UNLEY SA 5061,House,3,2,2,325m² ,2023
+"1,426,000","24 Ningana Avenue,",KINGS PARK SA 5034,House,4,1,2,817m² ,16 Jun 2023
+"1,980,888","59 Hawkers Road,",MEDINDIE SA 5081,House,3,2,3,948m² ,15 Jun 2023
+"1,300,000 ","36 Olive Street,",PARKSIDE SA 5063,House,4,2,3,408m² ,2023
+"1,510,000 ","64A Darebin Street,",MILE END SA 5031,House,4,3,2,391m² ,14 Jun 2023
+"1,010,000","56 Grant Avenue,",ROSE PARK SA 5067,House,2,1,1,334m² ,2023
+"2,058,000 ","6a Sturt Avenue,",TOORAK GARDENS SA 5065,House,3,3,4,450m² ,14 Jun 2023
+"1,120,000","51 Woodfield Avenue,",FULLARTON SA 5063,House,3,2,3,765m² ,13 Jun 2023
+"1,900,000 ","46A Wattle Street,",FULLARTON SA 5063,House,5,2,2,491m² ,13 Jun 2023
+"1,660,000","34A Malcolm Street,",MILLSWOOD SA 5034,House,3,1,2,580m² ,13 Jun 2023
+"1,000,000","34 Harris Road,",VALE PARK SA 5081,House,3,1,2,790m² ,13 Jun 2023
+"1,400,000","18 Broughton Street,",GLENSIDE SA 5065,House,4,2,2,700m² ,09 Jun 2023
+"1,960,000","24 North Terrace,",HIGHGATE SA 5063,House,5,2,4,713m² ,09 Jun 2023
+"1,280,000 ","10 Torrens Street,",LINDEN PARK SA 5065,House,3,2,4,677m² ,09 Jun 2023
+"1,203,000 ","17 Verdun Street,",BEULAH PARK SA 5067,House,3,1,2,494m² ,08 Jun 2023
+"1,280,000 ","6 Francis Street,",CLARENCE PARK SA 5034,House,3,2,4,877m² ,07 Jun 2023
+"1,080,000","36 Frederick Street,",MAYLANDS SA 5069,House,3,1,3,413m² ,07 Jun 2023
+"1,160,000","2 Macklin Street,",PARKSIDE SA 5063,House,3,2,2,176m² ,07 Jun 2023
+"3,800,000","60 Church Terrace,",WALKERVILLE SA 5081,House,4,2,3,"1,672m² ",07 Jun 2023
+"273,333","15 Coglin Street,",BROMPTON SA 5007,House,4,1,6,428m² ,06 Jun 2023
+"1,285,000","4 Clinton Avenue,",EVANDALE SA 5069,House,3,1,2,394m² ,2023
+"1,170,000 ","4 Beaconsfield Street,",FULLARTON SA 5063,House,3,1,1,446m² ,06 Jun 2023
+"1,275,000 ","75 Albert Street,",GOODWOOD SA 5034,House,3,1,2,328m² ,2023
+"1,300,000","17 Dover Street,",MAYLANDS SA 5069,House,4,2,1,377m² ,2023
+"740,000 ","5 Daringa Street,",MILE END SA 5031,House,3,1,3,703m² ,2023
+"840,000 ","47 Castle Street,",PARKSIDE SA 5063,House,2,1,−,362m² ,06 Jun 2023
+"1,500,000 ","10 Douglas Avenue,",BEULAH PARK SA 5067,House,3,1,3,572m² ,2023
+"1,450,000 ","22 Scott Street,",DULWICH SA 5065,House,4,2,2,475m² ,05 Jun 2023
+"800,000 ","2/54 Victoria Street,",FORESTVILLE SA 5035,House,2,1,−,208m² ,05 Jun 2023
+"1,270,000","18 Banksia Street,",GLENSIDE SA 5065,House,4,3,2,251m² ,2023
+"1,500,000","14 Ophir Street,",GOODWOOD SA 5034,House,3,1,1,592m² ,05 Jun 2023
+"920,000","1A College Road,",KENT TOWN SA 5067,House,3,2,2,146m² ,2023
+"825,000 ","5 Ross Street,",TORRENSVILLE SA 5031,House,3,1,2,740m² ,05 Jun 2023
+"1,151,000","70 Rose Terrace,",WAYVILLE SA 5034,House,3,1,2,557m² ,2023
+"2,575,000 ","18 Grant Avenue,",ROSE PARK SA 5067,House,4,2,2,696m² ,2023
+"3,250,000 ","60 Northgate Street,",UNLEY PARK SA 5061,House,4,3,2,817m² ,2023
+"1,155,000","16A Wooldridge Avenue,",MILLSWOOD SA 5034,House,2,1,2,400m² ,02 Jun 2023
+"935,000 ","65 Wilpena Avenue,",VALE PARK SA 5081,House,4,1,3,653m² ,02 Jun 2023
+"712,000","23 Green Street,",BROMPTON SA 5007,House,2,1,2,238m² ,01 Jun 2023
+"1,560,400 ","7 Aragon Street,",FULLARTON SA 5063,House,4,2,−,800m² ,01 Jun 2023
+"1,227,500","10 Gilbert Street,",NORWOOD SA 5067,House,3,2,2,326m² ,01 Jun 2023
+"1,730,000","41 Player Court,",ST PETERS SA 5069,House,4,2,6,659m² ,1 Jun 2023
+"2,700,000 ","18 Barr-Smith Street,",TUSMORE SA 5065,House,4,2,2,"1,560m² ",2023
+"2,300,000","5 Fisher Street,",TUSMORE SA 5065,House,4,3,2,848m² ,01 Jun 2023
+"1,200,000","16 Ware Street,",VALE PARK SA 5081,House,4,3,2,308m² ,2023
+"1,390,000","16 William Road,",VALE PARK SA 5081,House,4,2,1,876m² ,01 Jun 2023
+"630,000 ","10 Wadham Street,",BROMPTON SA 5007,House,2,1,2,231m² ,2023
+"780,000 ","36 William Street,",NORWOOD SA 5067,House,2,1,−,249m² ,31 May 2023
+"1,000,000 ",,TORRENSVILLE SA 5031,House,0,0,0,626m² ,31 May 2023
+"1,307,000 ","18 Stephens Avenue,",TORRENSVILLE SA 5031,House,4,1,6,"1,104m² ",31 May 2023
+"1,400,000","20 Dixon Street,",CLARENCE PARK SA 5034,House,4,2,2,669m² ,30 May 2023
+"880,000 ","81 Gladstone Road,",MILE END SA 5031,House,2,1,4,368m² ,0 May 2023
+"2,850,000","20A Edward Street,",NORWOOD SA 5067,House,4,2,4,560m² ,30 May 2023
+"1,189,000","24 Torrens Street,",TORRENSVILLE SA 5031,House,3,2,2,519m² ,30 May 2023
+"976,000 ","41 Charles Street,",FORESTVILLE SA 5035,House,2,1,1,304m² ,2023
+"1,890,000","71 Fairford Street,",UNLEY SA 5061,House,5,2,5,734m² ,29 May 2023
+"785,000 ","63 Wilpena Avenue,",VALE PARK SA 5081,House,3,2,2,675m² ,2023
+"1,250,000","7 Torrens Street,",LINDEN PARK SA 5065,House,3,2,2,446m² ,5 May 2023
+"641,000 ","26/52A Henry Street,",STEPNEY SA 5069,House,2,1,1,"121,405m² ",25 May 2023
+"4,000,000 ","129 Kensington Road,",NORWOOD SA 5067,House,4,4,10,"2,109m² ",24 May 2023

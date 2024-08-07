@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"515,000 ","1 King Street,",WODONGA VIC 3690,House,3,1,3,794m² ,25 Apr 2024
+"620,000 ","41 Jarrah Street,",WODONGA VIC 3690,House,4,3,2,678m² ,19 Apr 2024
+"380,000 ","99 Docking Street,",WODONGA VIC 3690,House,4,1,2,579m² ,13 Apr 2024
+"650,000 ","13 Derwent Way,",WODONGA VIC 3690,House,4,2,2,580m² ,12 Apr 2024
+"500,000 ","10 Amaroo Crescent,",WODONGA VIC 3690,House,4,2,2,769m² ,12 Apr 2024
+"575,000 ","1A Anne Street,",WODONGA VIC 3690,House,3,1,2,707m² ,09 Apr 2024
+"520,000 ","84 Mayfair Drive,",WODONGA VIC 3690,House,3,1,5,726m² ,05 Apr 2024
+"449,000 ","117 Marshall Street,",WODONGA VIC 3690,House,3,1,2,571m² ,03 Apr 2024
+"615,000 ","16 Joynt Way,",WODONGA VIC 3690,House,3,2,2,570m² ,03 Apr 2024
+"1,100,000 ","1/8 Caernarvon Court,",WODONGA VIC 3690,House,4,3,4,"1,365m² ",02 Apr 2024
+"615,000 ","25 Murray Way,",WODONGA VIC 3690,House,3,2,3,539m² ,28 Mar 2024
+"580,000 ","18 Hastings Way,",WODONGA VIC 3690,House,3,2,2,600m² ,26 Mar 2024
+"770,000 ","14 Argyle Way,",WODONGA VIC 3690,House,4,2,2,"1,201m² ",25 Mar 2024
+"433,000 ","29 Burnley Street,",WODONGA VIC 3690,House,3,1,2,625m² ,25 Mar 2024
+"549,000 ","14 Diamond Drive,",WODONGA VIC 3690,House,4,2,3,"1,117m² ",24 Mar 2024
+"521,000 ","13 McGeoch Court,",WODONGA VIC 3690,House,4,2,2,639m² ,23 Mar 2024
+"690,000","23 PEMBROKE CRESCENT,",WODONGA VIC 3690,House,4,2,4,541m² ,13 Mar 2024
+"522,500","33 Dundee Drive,",WODONGA VIC 3690,House,3,2,2,684m² ,12 Mar 2024
+"439,000 ","10 Gordon Street,",WODONGA VIC 3690,House,3,1,2,810m² ,09 Mar 2024
+"415,000 ","1 Hereford Street,",WODONGA VIC 3690,House,2,1,1,600m² ,07 Mar 2024
+"450,000","54 Anderson St,",WODONGA VIC 3690,House,3,1,3,553m² ,07 Mar 2024
+"600,000 ","82 Barton Street,",WODONGA VIC 3690,House,4,2,2,767m² ,05 Mar 2024
+"429,000 ","12 Hensley Court,",WODONGA VIC 3690,House,3,2,1,750m² ,05 Mar 2024
+"420,000 ","4 Noel Street,",WODONGA VIC 3690,House,3,1,3,676m² ,01 Mar 2024
+"1,182,000 ","4 Innisfree Drive,",WODONGA VIC 3690,House,4,2,4,"4,059m² ",01 Mar 2024
+"550,000 ","31 Peeler Street,",WODONGA VIC 3690,House,4,2,2,506m² ,29 Feb 2024
+"670,000 ","4 Green Court,",WODONGA VIC 3690,House,4,2,2,875m² ,27 Feb 2024
+"575,000 ","48 Hartwig Road,",WODONGA VIC 3690,House,3,2,2,"1,134m² ",26 Feb 2024
+"725,000 ","12 Partridge Way,",WODONGA VIC 3690,House,4,2,3,702m² ,26 Feb 2024
+"449,000 ","13 Tourmaline Drive,",WODONGA VIC 3690,House,4,1,1,724m² ,26 Feb 2024
+"569,000 ","12 Slice Court,",WODONGA VIC 3690,House,3,2,3,613m² ,26 Feb 2024
+"340,000 ","97 Docking Street,",WODONGA VIC 3690,House,3,1,1,616m² ,23 Feb 2024
+"549,000 ","85a Mitchell Street,",WODONGA VIC 3690,House,3,2,3,533m² ,23 Feb 2024
+"349,000","14 Page Court,",WODONGA VIC 3690,House,3,1,2,762m² ,23 Feb 2024
+"615,000 ","9 Scarborough Drive,",WODONGA VIC 3690,House,4,2,4,878m² ,22 Feb 2024
+"625,000","46 BADCOE AVENUE,",WODONGA VIC 3690,House,3,2,2,513m² ,21 Feb 2024
+"550,000 ","7 Tweed Way,",WODONGA VIC 3690,House,3,2,2,398m² ,20 Feb 2024
+"466,000 ","85 Chapple Street,",WODONGA VIC 3690,House,3,1,1,562m² ,20 Feb 2024
+"423,500 ","17 Jarrah Street,",WODONGA VIC 3690,House,3,1,2,646m² ,19 Feb 2024
+"565,000","15 Derwent Way,",WODONGA VIC 3690,House,4,2,2,580m² ,19 Feb 2024
+"485,000 ","2 Bruce Street,",WODONGA VIC 3690,House,4,1,3,711m² ,19 Feb 2024
+"749,000 ","3 Delaware Court,",WODONGA VIC 3690,House,4,2,4,"1,024m² ",19 Feb 2024
+"369,700","15 Swan Street,",WODONGA VIC 3690,House,3,1,2,563m² ,16 Feb 2024
+"490,000","2 DRAW COURT,",WODONGA VIC 3690,House,3,1,2,488m² ,16 Feb 2024
+"634,000 ","47 Awburn Street,",WODONGA VIC 3690,House,4,2,2,708m² ,15 Feb 2024
+"580,000 ","5 Newland Street,",WODONGA VIC 3690,House,5,2,3,648m² ,14 Feb 2024
+"580,000 ","8 Ovens Court,",WODONGA VIC 3690,House,3,2,2,682m² ,13 Feb 2024
+"420,000","10 BEARDMORE STREET,",WODONGA VIC 3690,House,3,2,3,656m² ,13 Feb 2024
+"575,000 ","13 Thrush Court,",WODONGA VIC 3690,House,4,2,2,800m² ,13 Feb 2024
+"425,000 ","6 Hardie Court,",WODONGA VIC 3690,House,3,1,2,704m² ,09 Feb 2024
+"228,000","2 Melgaard Court,",WODONGA VIC 3690,House,3,1,1,703m² ,09 Feb 2024
+"525,000 ","32 Sadlier Street,",WODONGA VIC 3690,House,3,2,2,477m² ,07 Feb 2024
+"530,000 ","28 Sapphire Circuit,",WODONGA VIC 3690,House,4,2,2,851m² ,07 Feb 2024
+"459,000 ","17 Wornes Drive,",WODONGA VIC 3690,House,3,1,5,614m² ,02 Feb 2024
+"556,000 ","46 Ruthven Circuit,",WODONGA VIC 3690,House,4,2,2,572m² ,02 Feb 2024
+"415,000 ","23 Gordon Street,",WODONGA VIC 3690,House,3,1,1,655m² ,01 Feb 2024
+"570,000 ","172 Lawrence Street,",WODONGA VIC 3690,House,4,1,3,695m² ,01 Feb 2024
+"515,000 ","70 Charles Street,",WODONGA VIC 3690,House,3,1,5,822m² ,01 Feb 2024
+"700,000 ","1 & 2/22 Charles Street,",WODONGA VIC 3690,House,6,3,4,812m² ,31 Jan 2024
+"650,000 ","7 Victoria Cross Parade,",WODONGA VIC 3690,House,4,2,2,607m² ,30 Jan 2024
+"500,000 ","14 Turton Court,",WODONGA VIC 3690,House,3,1,3,615m² ,29 Jan 2024
+"405,000","8 Elsa Court,",WODONGA VIC 3690,House,3,1,1,800m² ,29 Jan 2024
+"550,000 ","11 Newman Crescent,",WODONGA VIC 3690,House,4,2,3,826m² ,28 Jan 2024
+"620,000 ","34 Cutler Crescent,",WODONGA VIC 3690,House,4,2,2,531m² ,26 Jan 2024
+"485,000 ","4 Maneroo Court,",WODONGA VIC 3690,House,4,2,2,634m² ,24 Jan 2024
+"465,500","1 WARSAW CRESCENT,",WODONGA VIC 3690,House,3,1,2,643m² ,23 Jan 2024
+"455,000 ","6 Flower Place,",WODONGA VIC 3690,House,3,1,2,830m² ,23 Jan 2024
+"590,000 ","20 Castle Creek Road,",WODONGA VIC 3690,House,4,2,2,658m² ,22 Jan 2024
+"450,000","71 TRUDEWIND ROAD,",WODONGA VIC 3690,House,3,1,3,650m² ,18 Jan 2024
+"470,000 ","6 Nicholson Court,",WODONGA VIC 3690,House,4,1,2,588m² ,17 Jan 2024
+"765,000","6 KIRRIBILLI COURT,",WODONGA VIC 3690,House,4,2,2,"2,911m² ",16 Jan 2024
+"745,000 ","2 Fraser Court,",WODONGA VIC 3690,House,5,2,2,"1,181m² ",10 Jan 2024
+"520,000 ","85 William Street,",WODONGA VIC 3690,House,5,2,3,818m² ,09 Jan 2024
+"620,000 ","176 Lawrence Street,",WODONGA VIC 3690,House,4,1,1,560m² ,08 Jan 2024
+"400,000 ","119 Brockley Street,",WODONGA VIC 3690,House,3,1,2,676m² ,08 Jan 2024
+"530,000 ","5 Prunis Court,",WODONGA VIC 3690,House,4,1,3,611m² ,05 Jan 2024
+"665,000 ","7 Ashburton Circuit,",WODONGA VIC 3690,House,4,2,4,697m² ,03 Jan 2024
+"1,000,000","28 Tanner Terrace,",WODONGA VIC 3690,House,5,2,2,"2,378m² ",21 Dec 2023
+"450,000 ","3 Paris Court,",WODONGA VIC 3690,House,4,1,1,730m² ,20 Dec 2023
+"370,000 ","3 Rapsey Court,",WODONGA VIC 3690,House,3,1,1,809m² ,19 Dec 2023
+"215,000 ","95B Phillips Street,",WODONGA VIC 3690,House,2,1,1,353m² ,19 Dec 2023
+"750,000 ","11 Buckley Street,",WODONGA VIC 3690,House,3,2,3,697m² ,18 Dec 2023
+"440,000 ","215 Lawrence Street,",WODONGA VIC 3690,House,3,2,2,664m² ,18 Dec 2023
+"770,000 ","37 Ruthven Circuit,",WODONGA VIC 3690,House,5,2,2,600m² ,15 Dec 2023
+"550,000 ","33 Sadlier Street,",WODONGA VIC 3690,House,3,2,2,414m² ,12 Dec 2023
+"820,000 ","8 Warwick Road,",WODONGA VIC 3690,House,4,2,2,"1,407m² ",12 Dec 2023
+"630,000 ","4 Canary Court,",WODONGA VIC 3690,House,4,2,2,"1,082m² ",11 Dec 2023
+"625,000","3 BALMORAL DRIVE,",WODONGA VIC 3690,House,3,2,3,852m² ,11 Dec 2023
+"340,000 ","69 Trudewind Road,",WODONGA VIC 3690,House,3,1,5,692m² ,11 Dec 2023
+"640,000 ","6 Dunluce Place,",WODONGA VIC 3690,House,3,2,2,814m² ,09 Dec 2023
+"377,000 ","23 Belgrade Avenue,",WODONGA VIC 3690,House,3,1,2,583m² ,08 Dec 2023
+"563,000 ","6 Carlisle Crescent,",WODONGA VIC 3690,House,4,2,3,"1,087m² ",08 Dec 2023
+"360,000 ","5 Vienna Court,",WODONGA VIC 3690,House,3,1,2,604m² ,08 Dec 2023
+"558,000 ","14 Jacka Street,",WODONGA VIC 3690,House,4,2,2,541m² ,08 Dec 2023
+"850,000 ","9 Fenwick Court,",WODONGA VIC 3690,House,4,2,3,968m² ,06 Dec 2023
+"620,000","47 Memorial Drive,",WODONGA VIC 3690,House,3,2,2,692m² ,06 Dec 2023
+"658,000 ","82 William Street,",WODONGA VIC 3690,House,4,2,4,793m² ,05 Dec 2023
+"355,000 ","20 Lyndren Street,",WODONGA VIC 3690,House,2,1,2,691m² ,05 Dec 2023
+"550,000 ","7 Hartwig Road,",WODONGA VIC 3690,House,3,2,3,903m² ,05 Dec 2023
+"445,000","52A BROCKLEY STREET,",WODONGA VIC 3690,House,3,1,−,599m² ,03 Dec 2023
+"450,000","20 Poplar Street,",WODONGA VIC 3690,House,5,2,5,849m² ,2023
+"505,000 ","12 Topaz Court,",WODONGA VIC 3690,House,4,2,4,740m² ,30 Nov 2023
+"698,500 ","75 Axford Boulevard,",WODONGA VIC 3690,House,4,2,2,640m² ,29 Nov 2023
+"575,000 ","55 Leonard Street,",WODONGA VIC 3690,House,3,1,1,707m² ,29 Nov 2023
+"425,000 ","349 Lawrence Street,",WODONGA VIC 3690,House,3,1,3,716m² ,28 Nov 2023
+"685,000 ","64 Castle Creek Road,",WODONGA VIC 3690,House,4,2,2,829m² ,28 Nov 2023
+"910,000 ","15 Castle Creek Road,",WODONGA VIC 3690,House,5,2,3,"1,054m² ",27 Nov 2023
+"640,000 ","24 Jensen Crescent,",WODONGA VIC 3690,House,4,2,2,544m² ,22 Nov 2023
+"599,000 ","44 Memorial Drive,",WODONGA VIC 3690,House,4,2,2,647m² ,22 Nov 2023
+"1,150,000","29 Mcgaffins Road,",WODONGA VIC 3690,House,5,3,7,0,21 Nov 2023
+"645,000 ","12 Bisdee Court,",WODONGA VIC 3690,House,4,2,2,449m² ,20 Nov 2023
+"385,000 ","27 Hereford Street,",WODONGA VIC 3690,House,3,1,1,589m² ,15 Nov 2023
+"510,000 ","18 Bel-Air Street,",WODONGA VIC 3690,House,3,1,2,473m² ,15 Nov 2023
+"1,025,000 ","1A Avondale Drive,",WODONGA VIC 3690,House,4,2,4,"1,097m² ",13 Nov 2023
+"663,000 ","14 Ashburton Circuit,",WODONGA VIC 3690,House,4,2,2,770m² ,13 Nov 2023
+"450,000 ","2 Mirabelle Court,",WODONGA VIC 3690,House,3,2,3,811m² ,13 Nov 2023
+"310,000 ","4 Milend Street,",WODONGA VIC 3690,House,4,1,1,589m² ,10 Nov 2023
+"490,000","66 NIGHTINGALE AVENUE,",WODONGA VIC 3690,House,3,1,3,592m² ,10 Nov 2023
+"650,000","9 Warwick Road,",WODONGA VIC 3690,House,4,3,2,871m² ,09 Nov 2023
+"390,000","9 GILBERT STREET,",WODONGA VIC 3690,House,3,1,2,598m² ,08 Nov 2023
+"690,000","33 Jensen Crescent,",WODONGA VIC 3690,House,4,2,2,316m² ,08 Nov 2023
+"444,000 ","16 Smythe Street,",WODONGA VIC 3690,House,4,2,2,719m² ,2023
+"640,000 ","19 Cardiff Drive,",WODONGA VIC 3690,House,4,2,2,630m² ,07 Nov 2023
+"590,000 ","7 Silky Oak Avenue,",WODONGA VIC 3690,House,4,2,2,543m² ,06 Nov 2023
+"450,000 ","3 Aberdeen Drive,",WODONGA VIC 3690,House,3,1,2,795m² ,06 Nov 2023
+"548,000 ","21 Dundee Drive,",WODONGA VIC 3690,House,3,2,2,696m² ,04 Nov 2023
+"1,250,000","89 Huon Creek Road,",WODONGA VIC 3690,House,6,3,6,"2,548m² ",03 Nov 2023
+"440,000","19 JAMES STREET,",WODONGA VIC 3690,House,3,1,2,634m² ,03 Nov 2023
+"590,000","4 NORAH AVENUE,",WODONGA VIC 3690,House,4,2,2,696m² ,02 Nov 2023
+"1,035,888","18 Avondale Drive,",WODONGA VIC 3690,House,5,2,2,878m² ,01 Nov 2023
+"555,000","73 Lawrence Street,",WODONGA VIC 3690,House,3,2,2,885m² ,31 Oct 2023
+"855,000 ","14 Coverdale Drive,",WODONGA VIC 3690,House,4,2,4,701m² ,31 Oct 2023
+"775,000 ","65 Avondale Drive,",WODONGA VIC 3690,House,4,2,2,"1,082m² ",30 Oct 2023
+"437,000 ","61 Hereford Street,",WODONGA VIC 3690,House,3,1,2,555m² ,29 Oct 2023
+"580,000 ","14 Montclair Avenue,",WODONGA VIC 3690,House,4,2,2,660m² ,27 Oct 2023
+"410,000","118 Huons Hill Road,",WODONGA VIC 3690,House,3,1,1,828m² ,26 Oct 2023
+"749,000 ","39 Menzies Street,",WODONGA VIC 3690,House,4,2,4,967m² ,24 Oct 2023
+"585,000 ","9 Rosella Mews,",WODONGA VIC 3690,House,4,2,2,737m² ,24 Oct 2023
+"410,000 ","24 Pearce Street,",WODONGA VIC 3690,House,3,1,1,579m² ,23 Oct 2023
+"635,000 ","76 Barton Street,",WODONGA VIC 3690,House,4,2,2,715m² ,23 Oct 2023
+"985,000","3 Mcgaffins Road,",WODONGA VIC 3690,House,4,2,4,"6,343m² ",20 Oct 2023
+"485,000 ","14 Buckland Court,",WODONGA VIC 3690,House,3,1,2,859m² ,18 Oct 2023
+"1,240,000 ","16 Romsey Court,",WODONGA VIC 3690,House,5,2,3,"2,028m² ",17 Oct 2023
+"315,000 ","221 Lawrence Street,",WODONGA VIC 3690,House,3,1,1,367m² ,17 Oct 2023
+"560,000 ","39 Victoria Cross Parade,",WODONGA VIC 3690,House,3,2,2,512m² ,13 Oct 2023
+"555,000 ","4 Silky Oak Avenue,",WODONGA VIC 3690,House,3,2,2,639m² ,10 Oct 2023
+"549,000 ","4 Chapman Street,",WODONGA VIC 3690,House,2,1,2,528m² ,10 Oct 2023
+"585,000 ","144 Brockley Street,",WODONGA VIC 3690,House,4,2,4,727m² ,09 Oct 2023
+"770,000 ","7 Harkin Avenue,",WODONGA VIC 3690,House,3,2,2,723m² ,09 Oct 2023
+"590,000 ","3 Condamine Street,",WODONGA VIC 3690,House,4,2,2,541m² ,06 Oct 2023
+"670,000 ","16 Loames Street,",WODONGA VIC 3690,House,4,2,2,673m² ,06 Oct 2023
+"560,000 ","25 Hartwig Road,",WODONGA VIC 3690,House,4,2,2,"1,317m² ",06 Oct 2023
+"667,000 ","5 Fraser Court,",WODONGA VIC 3690,House,4,2,2,824m² ,05 Oct 2023
+"709,000","2 Bourke Crescent,",WODONGA VIC 3690,House,4,2,2,740m² ,04 Oct 2023
+"580,000 ","4 Hunt Street,",WODONGA VIC 3690,House,3,2,3,763m² ,04 Oct 2023
+"745,000 ","52 Ballara Drive,",WODONGA VIC 3690,House,5,3,2,746m² ,04 Oct 2023
+"455,000 ","42 Hereford Street,",WODONGA VIC 3690,House,3,1,2,537m² ,03 Oct 2023
+"438,000","29 MORRISON STREET,",WODONGA VIC 3690,House,3,1,3,665m² ,03 Oct 2023
+"600,000","52 William Street,",WODONGA VIC 3690,House,4,2,5,818m² ,02 Oct 2023
+"470,000 ","2 Twomey Court,",WODONGA VIC 3690,House,4,2,2,650m² ,02 Oct 2023
+"950,000 ","36 South Street,",WODONGA VIC 3690,House,3,2,4,800m² ,02 Oct 2023
+"357,500 ","52 Watson Street,",WODONGA VIC 3690,House,3,1,2,639m² ,28 Sep 2023
+"675,000","44 BADCOE AVENUE,",WODONGA VIC 3690,House,4,2,2,626m² ,28 Sep 2023
+"590,000 ","12 Burton Crescent,",WODONGA VIC 3690,House,4,2,2,558m² ,27 Sep 2023
+"505,000 ","14 Moonya Drive,",WODONGA VIC 3690,House,3,2,2,597m² ,27 Sep 2023
+"541,000","32 KOETONG CRESCENT,",WODONGA VIC 3690,House,3,1,2,776m² ,26 Sep 2023
+"670,000 ","9 Bassett Street,",WODONGA VIC 3690,House,3,1,4,802m² ,21 Sep 2023
+"475,000 ","32 Emerald Avenue,",WODONGA VIC 3690,House,3,1,8,919m² ,19 Sep 2023
+"415,000 ","12 Hague Road,",WODONGA VIC 3690,House,3,1,2,624m² ,19 Sep 2023
+"500,000","49 MITCHELL STREET,",WODONGA VIC 3690,House,3,1,2,"1,004m² ",18 Sep 2023
+"515,000 ","11 Gayview Drive,",WODONGA VIC 3690,House,4,2,2,756m² ,14 Sep 2023
+"1,350,000 ","58 Avondale Drive,",WODONGA VIC 3690,House,4,2,4,"1,275m² ",14 Sep 2023
+"480,000 ","55 Omeara Street,",WODONGA VIC 3690,House,3,2,2,270m² ,14 Sep 2023
+"550,000 ","61 Charles Street,",WODONGA VIC 3690,House,3,1,2,"1,157m² ",13 Sep 2023
+"425,000 ","12 Wagner Place,",WODONGA VIC 3690,House,3,1,2,445m² ,13 Sep 2023
+"850,000","7 Peregrine Place,",WODONGA VIC 3690,House,4,2,4,"1,284m² ",13 Sep 2023
+"760,000 ","12 Koendidda Court,",WODONGA VIC 3690,House,4,2,2,986m² ,12 Sep 2023
+"695,000","50 Sans Souci Drive,",WODONGA VIC 3690,House,4,2,3,"1,206m² ",12 Sep 2023
+"652,000 ","3 Dover Court,",WODONGA VIC 3690,House,4,2,2,604m² ,11 Sep 2023
+"1,375,000","6 Riversdale Place,",WODONGA VIC 3690,House,4,2,6,"5,868m² ",11 Sep 2023
+"455,000 ","27 Huon Street,",WODONGA VIC 3690,House,3,1,2,605m² ,08 Sep 2023
+"545,000 ","14 Kingfisher Drive,",WODONGA VIC 3690,House,3,2,2,864m² ,08 Sep 2023
+"350,000 ","3 Hunt Street,",WODONGA VIC 3690,House,1,1,−,755m² ,07 Sep 2023
+"642,000 ","348 Beechworth Road,",WODONGA VIC 3690,House,4,2,1,993m² ,05 Sep 2023
+"650,000","24 Dartnell Crescent,",WODONGA VIC 3690,House,4,2,2,609m² ,01 Sep 2023
+"412,000","23 TOURMALINE DRIVE,",WODONGA VIC 3690,House,3,1,1,716m² ,31 Aug 2023
+"700,000 ","21 Milos Boulevard,",WODONGA VIC 3690,House,4,2,5,"1,480m² ",29 Aug 2023
+"515,000 ","30 Inwood Crescent,",WODONGA VIC 3690,House,3,2,2,326m² ,29 Aug 2023
+"1,020,000","2 Powell Court,",WODONGA VIC 3690,House,6,4,3,"1,953m² ",28 Aug 2023
+"372,000 ","67 Hereford Street,",WODONGA VIC 3690,House,3,1,2,532m² ,28 Aug 2023
+"880,000 ","2 Lind Place,",WODONGA VIC 3690,House,4,3,2,620m² ,28 Aug 2023
+"499,000 ","22 Angus Avenue,",WODONGA VIC 3690,House,3,1,3,651m² ,23 Aug 2023
+"650,000 ","20 Keysor Way,",WODONGA VIC 3690,House,5,2,2,577m² ,23 Aug 2023
+"422,500 ","14 Prague Avenue,",WODONGA VIC 3690,House,3,1,3,634m² ,23 Aug 2023
+"645,000 ","22 Dartnell Circuit,",WODONGA VIC 3690,House,4,2,2,609m² ,22 Aug 2023
+"410,000 ","1 Gannon Court,",WODONGA VIC 3690,House,3,1,3,842m² ,21 Aug 2023
+"650,000 ","4 Willoughby Avenue,",WODONGA VIC 3690,House,4,2,2,972m² ,21 Aug 2023
+"475,000 ","3 Cardiff Drive,",WODONGA VIC 3690,House,3,1,1,451m² ,18 Aug 2023
+"623,000 ","29 Harkin Avenue,",WODONGA VIC 3690,House,3,2,2,723m² ,18 Aug 2023
+"780,000 ","12 McDougall Grove,",WODONGA VIC 3690,House,4,2,3,680m² ,18 Aug 2023
+"489,000 ","24 Magnolia Crescent,",WODONGA VIC 3690,House,4,2,2,769m² ,16 Aug 2023
+"530,000 ","23 Whernside Drive,",WODONGA VIC 3690,House,3,2,2,645m² ,16 Aug 2023
+"519,000 ","3 Billy Hughes Court,",WODONGA VIC 3690,House,3,1,2,802m² ,15 Aug 2023
+"629,000 ","8 Heidelberg Drive,",WODONGA VIC 3690,House,4,2,4,"1,196m² ",15 Aug 2023
+"440,000 ","105 Brockley Street,",WODONGA VIC 3690,House,3,2,3,545m² ,15 Aug 2023
+"580,000 ","31 Elmwood Circuit,",WODONGA VIC 3690,House,3,2,1,174m² ,14 Aug 2023
+"510,000 ","16 Gardner Street,",WODONGA VIC 3690,House,4,1,2,"1,078m² ",14 Aug 2023
+"565,500 ","6 Macquarie Road,",WODONGA VIC 3690,House,3,2,2,633m² ,14 Aug 2023
+"700,000 ","7 Cutler Crescent,",WODONGA VIC 3690,House,4,2,2,703m² ,12 Aug 2023
+"840,000","17 Clarendon Ave,",WODONGA VIC 3690,House,4,2,5,965m² ,09 Aug 2023
+"600,000","10 Ballara Drive,",WODONGA VIC 3690,House,4,2,2,"1,003m² ",07 Aug 2023
+"598,000 ","19 Iron Way,",WODONGA VIC 3690,House,3,2,2,708m² ,07 Aug 2023
+"855,000 ","19 Borland Circuit,",WODONGA VIC 3690,House,3,2,2,635m² ,07 Aug 2023
+"569,000 ","6 Lee Court,",WODONGA VIC 3690,House,4,2,2,980m² ,04 Aug 2023
+"620,000 ","44 Barton Street,",WODONGA VIC 3690,House,3,2,3,"1,059m² ",03 Aug 2023
+"555,000 ","11 Tweed Way,",WODONGA VIC 3690,House,3,2,2,366m² ,02 Aug 2023
+"500,000 ","15 Diamond Drive,",WODONGA VIC 3690,House,3,2,2,833m² ,01 Aug 2023
+"500,000","4 Bassett Street,",WODONGA VIC 3690,House,3,1,2,505m² ,01 Aug 2023
+"585,000","26 DAINTREE WAY,",WODONGA VIC 3690,House,4,2,2,604m² ,01 Aug 2023
+"285,000 ","12 Mann Street,",WODONGA VIC 3690,House,3,1,1,539m² ,31 Jul 2023
+"459,000","1/55 CHARLES STREET,",WODONGA VIC 3690,House,4,2,2,515m² ,28 Jul 2023
+"409,000 ","20 Healey Close,",WODONGA VIC 3690,House,3,1,3,966m² ,27 Jul 2023
+"452,500 ","14 Primrose Way,",WODONGA VIC 3690,House,3,1,2,572m² ,27 Jul 2023
+"1,130,000 ","13 Kestrel Circuit,",WODONGA VIC 3690,House,4,3,5,"1,032m² ",26 Jul 2023
+"566,000","14 GURNEY CRESCENT,",WODONGA VIC 3690,House,4,2,2,512m² ,25 Jul 2023
+"590,000","13 ROPER STREET,",WODONGA VIC 3690,House,4,2,2,558m² ,24 Jul 2023
+"1,000,000","9 Mcgaffins Road,",WODONGA VIC 3690,House,5,2,2,"4,868m² ",23 Jul 2023
+"590,000","10 Nightingale Avenue,",WODONGA VIC 3690,House,3,2,3,749m² ,21 Jul 2023
+"415,000 ","5 Healey Close,",WODONGA VIC 3690,House,3,1,1,653m² ,21 Jul 2023
+"629,000 ","49 Brewer Drive,",WODONGA VIC 3690,House,4,2,2,604m² ,21 Jul 2023
+"600,000","17 Middleton Crescent,",WODONGA VIC 3690,House,4,2,2,541m² ,20 Jul 2023
+"785,000","30 Lysterfield Lane,",WODONGA VIC 3690,House,4,2,6,"1,014m² ",19 Jul 2023
+"520,000 ","4 Jells Court,",WODONGA VIC 3690,House,3,2,2,539m² ,14 Jul 2023
+"671,000 ","18 Mitchell Street,",WODONGA VIC 3690,House,3,2,2,754m² ,12 Jul 2023
+"465,000","14 Waratah Way,",WODONGA VIC 3690,House,3,1,2,566m² ,12 Jul 2023
+"415,000 ","2 King Street,",WODONGA VIC 3690,House,3,1,1,410m² ,12 Jul 2023
+"340,000 ","237 Lawrence Street,",WODONGA VIC 3690,House,3,1,1,344m² ,10 Jul 2023
+"625,000 ","10 Grieve Way,",WODONGA VIC 3690,House,4,2,2,600m² ,07 Jul 2023
+"735,000 ","2 Armstrong Terrace,",WODONGA VIC 3690,House,4,2,3,"1,032m² ",06 Jul 2023
+"620,000 ","3 Binder Crescent,",WODONGA VIC 3690,House,4,2,2,901m² ,05 Jul 2023
+"385,000 ","14 McGeoch Court,",WODONGA VIC 3690,House,3,1,1,648m² ,05 Jul 2023
+"485,000 ","13 Macquarie Road,",WODONGA VIC 3690,House,3,2,2,323m² ,04 Jul 2023
+"425,000 ","392 Lawrence Street,",WODONGA VIC 3690,House,3,1,2,747m² ,03 Jul 2023
+"615,000","2 MELBA PLACE,",WODONGA VIC 3690,House,4,2,2,551m² ,30 Jun 2023
+"619,000 ","7 Dominic Drive,",WODONGA VIC 3690,House,4,2,2,"1,028m² ",28 Jun 2023
+"459,000 ","35 Dundee Drive,",WODONGA VIC 3690,House,3,2,2,682m² ,27 Jun 2023
+"509,000 ","8 Bourke Crescent,",WODONGA VIC 3690,House,3,2,2,794m² ,27 Jun 2023
+"700,000","8 AVENEL CIRCUIT,",WODONGA VIC 3690,House,4,2,2,625m² ,27 Jun 2023
+"710,000 ","27 Nordsvan Drive,",WODONGA VIC 3690,House,4,2,2,"1,433m² ",26 Jun 2023
+"445,000 ","12 Jarrah Street,",WODONGA VIC 3690,House,3,2,2,581m² ,26 Jun 2023
+"549,000","5 ELSA COURT,",WODONGA VIC 3690,House,4,3,2,791m² ,26 Jun 2023
+"590,000 ","19 Heidelberg Drive,",WODONGA VIC 3690,House,5,3,2,805m² ,23 Jun 2023
+"529,000 ","2 Hall Court,",WODONGA VIC 3690,House,4,2,2,727m² ,23 Jun 2023
+"440,000 ","4 Athol Street,",WODONGA VIC 3690,House,3,1,−,634m² ,21 Jun 2023
+"613,000","23 Stanley Street,",WODONGA VIC 3690,House,4,1,−,531m² ,2023
+"480,000 ","13 Sapphire Circuit,",WODONGA VIC 3690,House,3,2,2,695m² ,16 Jun 2023
+"440,000","106 Thomas Mitchell Drive,",WODONGA VIC 3690,House,3,2,1,594m² ,16 Jun 2023
+"750,000 ","11 Warwick Road,",WODONGA VIC 3690,House,4,3,2,770m² ,16 Jun 2023
+"582,000 ","20 Snowy Street,",WODONGA VIC 3690,House,3,2,2,576m² ,16 Jun 2023
+"600,000","9 Hartwig Road,",WODONGA VIC 3690,House,4,3,3,947m² ,15 Jun 2023
+"413,000 ","25 Anderson Street,",WODONGA VIC 3690,House,3,1,2,543m² ,15 Jun 2023
+"615,000 ","2 Evans Court,",WODONGA VIC 3690,House,4,2,2,837m² ,07 Jun 2023
+"590,000 ","12 Lowerson Way,",WODONGA VIC 3690,House,4,2,2,576m² ,06 Jun 2023
+"440,000 ","115 Huons Hill Road,",WODONGA VIC 3690,House,3,1,2,675m² ,06 Jun 2023
+"532,000 ","20 Billy Hughes Court,",WODONGA VIC 3690,House,3,2,4,895m² ,05 Jun 2023
+"375,000 ","11 Prague Avenue,",WODONGA VIC 3690,House,2,1,5,566m² ,01 Jun 2023
+"666,000 ","16 Throssell Crescent,",WODONGA VIC 3690,House,4,2,3,715m² ,30 May 2023
+"630,000 ","19 Parnaby Street,",WODONGA VIC 3690,House,4,2,2,600m² ,26 May 2023
+"1,225,000","65 Castle Creek Road,",WODONGA VIC 3690,House,4,2,2,"2,440m² ",26 May 2023
+"345,000 ","24 Schlink Street,",WODONGA VIC 3690,House,3,1,1,665m² ,26 May 2023
+"1,100,000 ","11 Sunningdale Street,",WODONGA VIC 3690,House,4,3,2,"1,919m² ",25 May 2023
+"570,000","19 MOONYA DRIVE,",WODONGA VIC 3690,House,4,2,2,"1,042m² ",25 May 2023
+"465,000","11 Milos Boulevard,",WODONGA VIC 3690,House,3,1,3,711m² ,23 May 2023
+"546,500","12 Silky Oak Avenue,",WODONGA VIC 3690,House,4,2,2,611m² ,23 May 2023
+"415,000 ","11 Hales Court,",WODONGA VIC 3690,House,3,1,1,556m² ,22 May 2023
+"940,000 ","36 Gratwick View,",WODONGA VIC 3690,House,4,3,3,839m² ,19 May 2023
+"342,000 ","36 Pearce Street,",WODONGA VIC 3690,House,3,1,2,566m² ,19 May 2023
+"260,000","3 Rapsey Court,",WODONGA VIC 3690,House,3,1,1,809m² ,18 May 2023
+"436,000 ","24 Zeinert Street,",WODONGA VIC 3690,House,3,1,3,603m² ,18 May 2023
+"565,000 ","4 Koendidda Court,",WODONGA VIC 3690,House,4,2,2,693m² ,18 May 2023
+"699,000","22 Firestone Way,",WODONGA VIC 3690,House,4,2,4,880m² ,17 May 2023
+"417,500 ","113 Docking Street,",WODONGA VIC 3690,House,2,1,4,455m² ,17 May 2023
+"495,000 ","2 McMahon Place,",WODONGA VIC 3690,House,3,1,2,802m² ,16 May 2023
+"441,000 ","380 Lawrence Street,",WODONGA VIC 3690,House,3,1,2,665m² ,15 May 2023
+"1,225,000","58 Clarendon Avenue,",WODONGA VIC 3690,House,4,3,2,"2,570m² ",15 May 2023
+"1,110,000 ","2 Chauncey Court,",WODONGA VIC 3690,House,4,2,4,"5,662m² ",15 May 2023
+"580,000","9 Sans Souci Drive,",WODONGA VIC 3690,House,4,2,2,734m² ,11 May 2023
+"563,000","24 O'Meara Street,",WODONGA VIC 3690,House,4,2,4,476m² ,11 May 2023
+"590,000 ","22 Parnaby Street,",WODONGA VIC 3690,House,3,2,2,693m² ,10 May 2023
+"425,000 ","8 Campbell Avenue,",WODONGA VIC 3690,House,3,1,2,619m² ,09 May 2023
+"475,000","18 McFarland Road,",WODONGA VIC 3690,House,3,2,2,730m² ,09 May 2023
+"495,000","26 McMahon Place,",WODONGA VIC 3690,House,3,1,2,665m² ,08 May 2023
+"555,000 ","18 Swift Court,",WODONGA VIC 3690,House,4,2,2,741m² ,05 May 2023
+"559,000","6 Blackwood Avenue,",WODONGA VIC 3690,House,3,2,2,558m² ,04 May 2023
+"450,000 ","9 Rubicon Street,",WODONGA VIC 3690,House,3,2,1,473m² ,04 May 2023
+"400,000 ","26 Wilson Street,",WODONGA VIC 3690,House,3,1,1,797m² ,2023
+"505,500","30 McMahon Place,",WODONGA VIC 3690,House,4,2,2,701m² ,01 May 2023
+"565,000 ","5 Montclair Avenue,",WODONGA VIC 3690,House,4,2,2,788m² ,01 May 2023
+"1,400,000 ","56 Coyles Road,",WODONGA VIC 3690,House,4,2,10,"39,500m² ",27 Apr 2023
+"1,200,000 ","23 Gratwick View,",WODONGA VIC 3690,House,5,3,2,902m² ,27 Apr 2023
+"420,000","8 Pollard Street,",WODONGA VIC 3690,House,3,2,2,620m² ,27 Apr 2023
+"655,000","7 LYTHAM COURT,",WODONGA VIC 3690,House,4,2,2,608m² ,26 Apr 2023
+"595,000 ","4 Ashburton Circuit,",WODONGA VIC 3690,House,4,2,2,613m² ,26 Apr 2023
+"515,000 ","6 Hamilton Place,",WODONGA VIC 3690,House,3,2,4,507m² ,21 Apr 2023
+"560,000","334 Beechworth Road,",WODONGA VIC 3690,House,3,1,1,836m² ,20 Apr 2023
+"390,000 ","17 Melgaard Court,",WODONGA VIC 3690,House,3,1,1,589m² ,20 Apr 2023
+"760,000 ","16 Whernside Drive,",WODONGA VIC 3690,House,4,2,2,891m² ,19 Apr 2023
+"417,500 ","4 Hague Road,",WODONGA VIC 3690,House,3,2,2,617m² ,17 Apr 2023
+"585,000","29 MENZIES STREET,",WODONGA VIC 3690,House,4,2,2,"1,006m² ",16 Apr 2023
+"600,000",,WODONGA VIC 3690,House,4,2,2,761m² ,14 Apr 2023
+"390,000 ","20 Hague Road,",WODONGA VIC 3690,House,3,1,1,591m² ,12 Apr 2023
+"403,500 ","53 Pearce Street,",WODONGA VIC 3690,House,3,1,1,634m² ,11 Apr 2023
+"435,000 ","374 Beechworth Road,",WODONGA VIC 3690,House,3,2,2,396m² ,07 Apr 2023
+"1,920,000 ","13 Archer Circuit,",WODONGA VIC 3690,House,4,3,6,"2,195m² ",06 Apr 2023
+"880,000","19 Balmoral Drive,",WODONGA VIC 3690,House,5,3,3,975m² ,05 Apr 2023
+"455,000 ","34 Ambrose Crescent,",WODONGA VIC 3690,House,4,1,1,519m² ,03 Apr 2023
+"513,000 ","21 Inwood Crescent,",WODONGA VIC 3690,House,4,2,2,523m² ,03 Apr 2023
+"696,000 ","17 Silky Oak Avenue,",WODONGA VIC 3690,House,4,2,2,838m² ,01 Apr 2023
+"367,500 ","192 Lawrence Street,",WODONGA VIC 3690,House,3,1,−,768m² ,29 Mar 2023
+"489,000 ","7 Saldaise Street,",WODONGA VIC 3690,House,3,1,6,703m² ,29 Mar 2023
+"1,200,000","6 Como Court,",WODONGA VIC 3690,House,5,3,8,"5,234m² ",28 Mar 2023
+"540,000 ","4 Middleton Crescent,",WODONGA VIC 3690,House,3,2,2,368m² ,27 Mar 2023
+"462,500 ","12 Gardner Street,",WODONGA VIC 3690,House,3,1,1,698m² ,23 Mar 2023
+"405,000 ","309 Beechworth Road,",WODONGA VIC 3690,House,3,1,2,651m² ,22 Mar 2023
+"675,500 ","88 Yarralumla Drive,",WODONGA VIC 3690,House,3,3,2,572m² ,20 Mar 2023
+"298,000 ","23 Ritter Road,",WODONGA VIC 3690,House,3,1,2,639m² ,20 Mar 2023
+"460,000 ","39 Nicole Crescent,",WODONGA VIC 3690,House,4,2,1,555m² ,17 Mar 2023
+"780,000 ","8 Willow Parade,",WODONGA VIC 3690,House,4,2,5,"1,280m² ",17 Mar 2023
+"615,000","7 NORDSVAN DRIVE,",WODONGA VIC 3690,House,4,2,3,"1,072m² ",17 Mar 2023
+"400,000 ","6 Pickering Place,",WODONGA VIC 3690,House,2,1,1,470m² ,14 Mar 2023
+"480,000 ","8 Flag Place,",WODONGA VIC 3690,House,3,2,2,580m² ,13 Mar 2023
+"499,000 ","14 Scullin Court,",WODONGA VIC 3690,House,3,2,2,702m² ,11 Mar 2023
+"592,000 ","26 Haley Crescent,",WODONGA VIC 3690,House,4,2,3,909m² ,10 Mar 2023
+"570,000","8 Condamine Street,",WODONGA VIC 3690,House,4,2,2,577m² ,09 Mar 2023
+"500,000","38 Castleton Street,",WODONGA VIC 3690,House,4,2,2,448m² ,08 Mar 2023
+"430,000 ","42 Thomas Mitchell Drive,",WODONGA VIC 3690,House,3,1,2,850m² ,08 Mar 2023
+"565,000 ","15 Wren Court,",WODONGA VIC 3690,House,4,2,2,643m² ,07 Mar 2023
+"520,000 ","58 Menzies Street,",WODONGA VIC 3690,House,3,2,3,871m² ,06 Mar 2023
+"1,245,000 ","47 Clarendon Avenue,",WODONGA VIC 3690,House,4,2,2,"1,084m² ",2023
+"625,000 ","9 Helm Court,",WODONGA VIC 3690,House,4,2,2,817m² ,03 Mar 2023
+"635,000 ","9 Delaware Court,",WODONGA VIC 3690,House,3,2,2,937m² ,02 Mar 2023
+"625,000 ","7 Cottlesloe Court,",WODONGA VIC 3690,House,4,2,2,723m² ,02 Mar 2023
+"465,000 ","2 O'Meara Street,",WODONGA VIC 3690,House,3,2,2,491m² ,02 Mar 2023
+"381,000 ","3 Glasgow Street,",WODONGA VIC 3690,House,3,1,2,539m² ,02 Mar 2023
+"520,000 ","418 Lawrence Street,",WODONGA VIC 3690,House,3,2,2,760m² ,02 Mar 2023
+"640,000 ","11 Teal Court,",WODONGA VIC 3690,House,4,2,4,707m² ,01 Mar 2023
+"589,000","126 HUME STREET,",WODONGA VIC 3690,House,3,1,2,571m² ,28 Feb 2023
+"510,000 ","21 Isdell Place,",WODONGA VIC 3690,House,3,2,2,452m² ,28 Feb 2023
+"636,000 ","25 Cutler Crescent,",WODONGA VIC 3690,House,4,2,2,622m² ,27 Feb 2023
+"562,000","4 Prendergast Street,",WODONGA VIC 3690,House,3,2,2,980m² ,27 Feb 2023
+"432,000 ","46 Vermont Street,",WODONGA VIC 3690,House,2,1,1,731m² ,24 Feb 2023
+"495,000 ","84 Mitchell Street,",WODONGA VIC 3690,House,3,1,6,787m² ,24 Feb 2023
+"465,000 ","14 Inwood Crescent,",WODONGA VIC 3690,House,3,2,2,400m² ,24 Feb 2023
+"418,000 ","26 Hague Road,",WODONGA VIC 3690,House,3,1,2,622m² ,22 Feb 2023
+"415,000","338 Beechworth Road,",WODONGA VIC 3690,House,2,1,4,781m² ,22 Feb 2023
+"650,000","12 Tanner Terrace,",WODONGA VIC 3690,House,4,2,2,811m² ,21 Feb 2023
+"735,000 ","8 Cole Court,",WODONGA VIC 3690,House,5,2,4,980m² ,2023
+"490,000 ","23 Sadlier Street,",WODONGA VIC 3690,House,3,2,2,414m² ,16 Feb 2023
+"605,000 ","8 Derrick Street,",WODONGA VIC 3690,House,4,2,2,613m² ,16 Feb 2023
+"475,000 ","10 Holmes Court,",WODONGA VIC 3690,House,3,1,3,"1,100m² ",15 Feb 2023
+"620,000 ","1 Berkeley Close,",WODONGA VIC 3690,House,4,2,2,713m² ,14 Feb 2023
+"406,000 ","1 Iona Court,",WODONGA VIC 3690,House,4,1,1,785m² ,13 Feb 2023
+"740,000 ","3 Toy Court,",WODONGA VIC 3690,House,4,2,2,841m² ,13 Feb 2023
+"449,000 ","55 Nightingale Avenue,",WODONGA VIC 3690,House,3,1,1,440m² ,11 Feb 2023
+"655,000","13 Hawk Place,",WODONGA VIC 3690,House,4,2,2,838m² ,10 Feb 2023
+"725,000","35 GRATWICK VIEW,",WODONGA VIC 3690,House,4,2,2,633m² ,10 Feb 2023
+"415,000","34 MCFARLAND ROAD,",WODONGA VIC 3690,House,3,1,1,637m² ,08 Feb 2023
+"422,500 ","25 Dick Street,",WODONGA VIC 3690,House,2,1,2,777m² ,06 Feb 2023
+"550,000 ","3 Mirabelle Court,",WODONGA VIC 3690,House,3,2,2,880m² ,05 Feb 2023
+"540,000 ","7 Park View Close,",WODONGA VIC 3690,House,4,3,1,773m² ,03 Feb 2023
+"575,000 ","8 Athol Street,",WODONGA VIC 3690,House,3,2,2,548m² ,03 Feb 2023
+"770,000 ","28 Church Street,",WODONGA VIC 3690,House,4,2,2,946m² ,01 Feb 2023
+"580,000 ","3 Stapleton Court,",WODONGA VIC 3690,House,4,2,2,981m² ,31 Jan 2023
+"840,000 ","16 Borland Circuit,",WODONGA VIC 3690,House,4,3,2,602m² ,31 Jan 2023
+"480,000 ","3 Teal Court,",WODONGA VIC 3690,House,3,1,1,633m² ,31 Jan 2023
+"455,000 ","21 Kelliher Avenue,",WODONGA VIC 3690,House,3,1,2,240m² ,30 Jan 2023
+"560,000","14 Saunders Crescent,",WODONGA VIC 3690,House,3,2,5,812m² ,30 Jan 2023
+"398,000","83 Gordon Street,",WODONGA VIC 3690,House,2,1,1,648m² ,27 Jan 2023
+"620,000","4 ROPER STREET,",WODONGA VIC 3690,House,4,2,2,526m² ,27 Jan 2023
+"470,000 ","116 Tarakan Street,",WODONGA VIC 3690,House,5,2,4,760m² ,27 Jan 2023
+"430,000 ","49 Melrose Drive,",WODONGA VIC 3690,House,3,1,1,697m² ,27 Jan 2023
+"416,000 ","40 Wornes Drive,",WODONGA VIC 3690,House,3,1,2,513m² ,27 Jan 2023
+"462,000 ","6 Lowanna Street,",WODONGA VIC 3690,House,3,1,1,660m² ,20 Jan 2023
+"650,000 ","2 Kite Place,",WODONGA VIC 3690,House,4,2,2,608m² ,17 Jan 2023
+"625,000 ","28 Dalton Avenue,",WODONGA VIC 3690,House,7,2,2,856m² ,16 Jan 2023
+"572,000 ","1 Hilltop Court,",WODONGA VIC 3690,House,4,2,2,840m² ,13 Jan 2023
+"475,000","37 Peeler Street,",WODONGA VIC 3690,House,4,2,2,480m² ,10 Jan 2023
+"532,000 ","17 Fisher Court,",WODONGA VIC 3690,House,4,2,2,805m² ,09 Jan 2023
+"459,000 ","405 Lawrence Street,",WODONGA VIC 3690,House,3,1,3,692m² ,09 Jan 2023
+"625,000 ","7 Royce Court,",WODONGA VIC 3690,House,3,2,6,809m² ,09 Jan 2023
+"720,000 ","25 Proctor Street,",WODONGA VIC 3690,House,4,2,3,803m² ,30 Dec 2022
+"650,000","9 Carlisle Crescent,",WODONGA VIC 3690,House,4,3,1,797m² ,23 Dec 2022
+"548,500 ","53 Inwood Crescent,",WODONGA VIC 3690,House,3,2,2,463m² ,22 Dec 2022
+"1,060,000","21 Jeffries Rise,",WODONGA VIC 3690,House,3,2,2,959m² ,22 Dec 2022
+"498,500","73 MARSHALL STREET,",WODONGA VIC 3690,House,3,1,2,689m² ,21 Dec 2022
+"525,000 ","130 Brockley Street,",WODONGA VIC 3690,House,3,2,3,639m² ,21 Dec 2022
+"450,000","19 Pitmedden Drive,",WODONGA VIC 3690,House,3,1,2,545m² ,21 Dec 2022
+"555,000 ",,WODONGA VIC 3690,House,3,2,2,540m² ,20 Dec 2022
+"439,888 ","16 Edinburgh Circuit,",WODONGA VIC 3690,House,3,2,2,869m² ,19 Dec 2022
+"480,000 ","8 Flower Place,",WODONGA VIC 3690,House,4,2,2,"1,276m² ",19 Dec 2022
+"775,000 ","12 Mitchell Street,",WODONGA VIC 3690,House,4,2,2,912m² ,19 Dec 2022
+"485,000 ","38 Peeler Street,",WODONGA VIC 3690,House,3,2,2,512m² ,17 Dec 2022
+"575,000",,WODONGA VIC 3690,House,4,2,2,882m² ,16 Dec 2022
+"545,000 ","30 Ashburton Circuit,",WODONGA VIC 3690,House,3,2,2,501m² ,14 Dec 2022
+"695,000","8 LYTHAM COURT,",WODONGA VIC 3690,House,4,2,2,788m² ,13 Dec 2022
+"620,000 ","5 Mackey Street,",WODONGA VIC 3690,House,4,2,2,541m² ,12 Dec 2022
+"419,000 ","46 O'Meara Street,",WODONGA VIC 3690,House,3,2,2,270m² ,12 Dec 2022
+"539,000 ","58 Mayfair Drive,",WODONGA VIC 3690,House,3,2,1,884m² ,12 Dec 2022
+"610,050 ","8 Darling Street,",WODONGA VIC 3690,House,4,2,2,527m² ,12 Dec 2022
+"549,000 ","2 Eleanore Court,",WODONGA VIC 3690,House,4,1,1,934m² ,09 Dec 2022
+"800,000 ","8 Warwick Road,",WODONGA VIC 3690,House,4,2,3,"1,407m² ",09 Dec 2022
+"557,000 ","20 Mashie Way,",WODONGA VIC 3690,House,3,2,4,766m² ,09 Dec 2022
+"555,000 ","8 Anglesey Street,",WODONGA VIC 3690,House,4,2,2,724m² ,08 Dec 2022
+"620,000","3 Royce Court,",WODONGA VIC 3690,House,4,2,3,907m² ,2022
+"620,000 ","7 Bugden Street,",WODONGA VIC 3690,House,4,2,2,529m² ,07 Dec 2022
+"430,000","19 Garnet Circuit,",WODONGA VIC 3690,House,3,1,4,691m² ,05 Dec 2022
+"625,000 ","5 Player Court,",WODONGA VIC 3690,House,4,2,2,858m² ,05 Dec 2022
+"812,000","30 BREWER DRIVE,",WODONGA VIC 3690,House,4,2,3,"1,220m² ",02 Dec 2022
+"550,000","20 Firestone Way,",WODONGA VIC 3690,House,3,2,2,780m² ,02 Dec 2022
+"358,000 ","12 Wornes Dr,",WODONGA VIC 3690,House,3,1,2,585m² ,29 Nov 2022
+"730,000 ","5 Willoughby Avenue,",WODONGA VIC 3690,House,4,2,3,779m² ,29 Nov 2022
+"630,000","9 Maygar Avenue,",WODONGA VIC 3690,House,4,2,2,591m² ,29 Nov 2022
+"475,000","10 Butterworth Place,",WODONGA VIC 3690,House,3,1,2,420m² ,28 Nov 2022
+"820,000 ","5 Anglesey Street,",WODONGA VIC 3690,House,4,2,2,777m² ,24 Nov 2022
+"505,750","12 Coventry Court,",WODONGA VIC 3690,House,3,2,3,925m² ,24 Nov 2022
+"1,289,000 ","9 Brewer Drive,",WODONGA VIC 3690,House,5,2,5,"3,862m² ",24 Nov 2022
+"535,000 ","9 Wattle Court,",WODONGA VIC 3690,House,4,3,2,918m² ,24 Nov 2022
+"462,000","10 Moonya Drive,",WODONGA VIC 3690,House,4,1,3,699m² ,24 Nov 2022
+"520,000 ","32 McMahon Place,",WODONGA VIC 3690,House,3,1,4,795m² ,23 Nov 2022
+"505,000","3 MARSHALL STREET,",WODONGA VIC 3690,House,3,2,4,801m² ,22 Nov 2022
+"432,500 ","79 Mitchell Street,",WODONGA VIC 3690,House,3,1,1,962m² ,21 Nov 2022
+"670,000","8 Helm Court,",WODONGA VIC 3690,House,4,2,3,728m² ,18 Nov 2022
+"500,000 ","15 Maitland Crescent,",WODONGA VIC 3690,House,3,2,2,309m² ,18 Nov 2022
+"670,000 ","5 Singh Court,",WODONGA VIC 3690,House,4,2,2,657m² ,17 Nov 2022
+"435,000 ","116 Colman Street,",WODONGA VIC 3690,House,3,1,3,754m² ,16 Nov 2022
+"465,000 ","5 Ian Court,",WODONGA VIC 3690,House,3,1,1,939m² ,14 Nov 2022
+"350,000 ","18 Skitch Street,",WODONGA VIC 3690,House,3,1,2,734m² ,12 Nov 2022
+"540,000 ","3 Newman Crescent,",WODONGA VIC 3690,House,3,1,5,794m² ,11 Nov 2022
+"360,000","116 DOCKING STREET,",WODONGA VIC 3690,House,3,1,1,608m² ,11 Nov 2022
+"460,000 ","2 Harris Court,",WODONGA VIC 3690,House,3,1,3,702m² ,09 Nov 2022
+"480,000","16 Marie Drive,",WODONGA VIC 3690,House,5,2,2,597m² ,09 Nov 2022
+"840,000 ","210 Beechworth Road,",WODONGA VIC 3690,House,2,1,6,"1,211m² ",09 Nov 2022
+"619,000 ","22 Craig Circuit,",WODONGA VIC 3690,House,4,2,2,543m² ,08 Nov 2022
+"450,000","11 Oleander Court,",WODONGA VIC 3690,House,4,2,2,592m² ,08 Nov 2022
+"360,000 ","7 Healey Close,",WODONGA VIC 3690,House,3,1,1,602m² ,08 Nov 2022
+"639,000 ","23 Ziebell Circuit,",WODONGA VIC 3690,House,3,2,2,402m² ,08 Nov 2022
+"568,000 ","4 Grange Close,",WODONGA VIC 3690,House,3,2,2,428m² ,04 Nov 2022
+"525,000 ","39 Dalton Avenue,",WODONGA VIC 3690,House,3,1,2,908m² ,04 Nov 2022
+"505,000 ","4 Brolga Court,",WODONGA VIC 3690,House,4,2,2,893m² ,04 Nov 2022
+"619,000 ","4 Nordsvan Drive,",WODONGA VIC 3690,House,4,2,2,805m² ,02 Nov 2022
+"405,000 ","4 Schlink Street,",WODONGA VIC 3690,House,3,1,1,735m² ,01 Nov 2022
+"509,000 ","7 Tweed Way,",WODONGA VIC 3690,House,3,2,2,400m² ,01 Nov 2022
+"489,000 ","54 Stanley Street,",WODONGA VIC 3690,House,3,2,2,772m² ,01 Nov 2022
+"325,000 ","1 Black Street,",WODONGA VIC 3690,House,3,1,2,596m² ,31 Oct 2022
+"570,000 ","44 Rogers Avenue,",WODONGA VIC 3690,House,4,2,2,381m² ,31 Oct 2022
+"510,000 ","416 Lawrence Street,",WODONGA VIC 3690,House,3,2,2,805m² ,31 Oct 2022
+"450,000 ","22 Buckland Court,",WODONGA VIC 3690,House,3,1,2,721m² ,31 Oct 2022
+"442,500 ","7 Castleton Street,",WODONGA VIC 3690,House,3,2,2,457m² ,28 Oct 2022
+"640,000","4 Cardiff Drive,",WODONGA VIC 3690,House,3,2,2,583m² ,28 Oct 2022
+"515,000","3 IRON CLOSE,",WODONGA VIC 3690,House,2,1,1,353m² ,27 Oct 2022
+"545,000 ","13 Silky Oak Avenue,",WODONGA VIC 3690,House,4,2,2,610m² ,27 Oct 2022
+"486,500 ","6 Azure Drive,",WODONGA VIC 3690,House,3,2,2,780m² ,27 Oct 2022
+"501,000 ","25 Azure Drive,",WODONGA VIC 3690,House,3,2,1,593m² ,26 Oct 2022
+"1,078,000","15-17 Church Street,",WODONGA VIC 3690,House,1,1,−,"2,800m² ",25 Oct 2022
+"950,000","7 Toy Court,",WODONGA VIC 3690,House,4,2,7,"1,180m² ",25 Oct 2022
+"505,000","2 GEORGINA STREET,",WODONGA VIC 3690,House,3,2,2,433m² ,25 Oct 2022
+"451,500 ","109 Tarakan Street,",WODONGA VIC 3690,House,3,1,6,726m² ,24 Oct 2022
+"790,000","10 HALEY CRESCENT,",WODONGA VIC 3690,House,4,2,3,"1,444m² ",24 Oct 2022
+"570,000 ","29 Marshall Street,",WODONGA VIC 3690,House,4,2,2,808m² ,24 Oct 2022
+"810,000 ","3 Haldon Court,",WODONGA VIC 3690,House,5,3,2,"1,095m² ",24 Oct 2022
+"509,000","25 Stapleton Court,",WODONGA VIC 3690,House,3,1,2,807m² ,24 Oct 2022
+"935,000","20 Willow Parade,",WODONGA VIC 3690,House,4,2,4,"1,876m² ",22 Oct 2022
+"429,000 ","3 Riga Court,",WODONGA VIC 3690,House,3,1,3,726m² ,21 Oct 2022
+"615,000 ","1 Middleton Crescent,",WODONGA VIC 3690,House,4,2,2,475m² ,21 Oct 2022
+"392,000 ","3 Sutton Court,",WODONGA VIC 3690,House,3,1,1,575m² ,21 Oct 2022
+"408,500","15 James Street,",WODONGA VIC 3690,House,3,1,1,633m² ,21 Oct 2022
+"401,000 ","8 Hereford Street,",WODONGA VIC 3690,House,3,1,2,650m² ,20 Oct 2022
+"370,000 ","83 Tarakan Street,",WODONGA VIC 3690,House,3,1,2,722m² ,12 Oct 2022
+"357,000 ","74 Wilson Street,",WODONGA VIC 3690,House,3,1,6,674m² ,12 Oct 2022
+"480,000 ","22 Mactier Avenue,",WODONGA VIC 3690,House,4,2,2,419m² ,11 Oct 2022
+"470,000 ","9 Howqua Circuit,",WODONGA VIC 3690,House,3,1,2,646m² ,11 Oct 2022
+"860,000 ","11 Memorial Drive,",WODONGA VIC 3690,House,4,2,2,869m² ,11 Oct 2022
+"450,000 ","1 Borthwick Court,",WODONGA VIC 3690,House,3,1,3,627m² ,11 Oct 2022
+"821,000 ","16 Cole Court,",WODONGA VIC 3690,House,4,3,2,904m² ,2022
+"522,500 ","100 Tarakan Street,",WODONGA VIC 3690,House,3,1,4,579m² ,2022
+"455,000 ","6 Glenairne Street,",WODONGA VIC 3690,House,3,1,2,709m² ,06 Oct 2022
+"510,000 ","27 Vermont Street,",WODONGA VIC 3690,House,3,1,1,784m² ,06 Oct 2022
+"460,000","9 Glenairne Street,",WODONGA VIC 3690,House,4,1,2,698m² ,06 Oct 2022
+"641,000 ","51 Maygar Avenue,",WODONGA VIC 3690,House,3,2,2,572m² ,05 Oct 2022
+"648,000 ","13 Bisdee Court,",WODONGA VIC 3690,House,4,2,2,449m² ,05 Oct 2022
+"515,000","1 VICTORIA CROSS PARADE,",WODONGA VIC 3690,House,3,2,2,634m² ,04 Oct 2022
+"365,000 ","55 Elm Street,",WODONGA VIC 3690,House,3,1,3,729m² ,03 Oct 2022
+"600,000 ","5 Grieve Way,",WODONGA VIC 3690,House,3,2,2,623m² ,03 Oct 2022
+"411,000 ","78 McFarland Road,",WODONGA VIC 3690,House,3,1,1,727m² ,03 Oct 2022
+"605,000","41 Hartwig Road,",WODONGA VIC 3690,House,4,1,1,"1,017m² ",30 Sep 2022
+"680,000 ","55 Golflinks Avenue,",WODONGA VIC 3690,House,4,2,2,629m² ,28 Sep 2022
+"485,000 ","8 Inwood Crescent,",WODONGA VIC 3690,House,4,2,2,481m² ,28 Sep 2022
+"920,000 ","3 Griffith Street,",WODONGA VIC 3690,House,5,3,1,996m² ,26 Sep 2022
+"455,000 ","2 Jarrah Street,",WODONGA VIC 3690,House,3,1,2,708m² ,26 Sep 2022
+"625,000 ","6 McDougall Grove,",WODONGA VIC 3690,House,4,2,3,680m² ,26 Sep 2022
+"540,000 ","2 Scarborough Drive,",WODONGA VIC 3690,House,3,2,2,852m² ,21 Sep 2022
+"509,500","1 Hardie Court,",WODONGA VIC 3690,House,3,2,4,700m² ,20 Sep 2022
+"540,000 ","17 Koetong Crescent,",WODONGA VIC 3690,House,3,2,2,629m² ,19 Sep 2022
+"520,000 ","2 Skipton Court,",WODONGA VIC 3690,House,4,1,2,951m² ,14 Sep 2022
+"365,000 ","54 Hereford Street,",WODONGA VIC 3690,House,3,1,1,531m² ,13 Sep 2022
+"805,000 ","5 The Court,",WODONGA VIC 3690,House,4,2,4,"1,043m² ",12 Sep 2022
+"1,260,000 ","46A Avondale Drive,",WODONGA VIC 3690,House,5,3,3,"1,044m² ",12 Sep 2022
+"465,000 ","47 Azure Drive,",WODONGA VIC 3690,House,3,1,1,643m² ,12 Sep 2022
+"588,000","9 Griffith Street,",WODONGA VIC 3690,House,3,1,2,930m² ,09 Sep 2022
+"510,000 ","23 Inwood Crescent,",WODONGA VIC 3690,House,4,2,2,667m² ,08 Sep 2022
+"800,000 ","3 Chenery Street,",WODONGA VIC 3690,House,4,2,3,"1,043m² ",05 Sep 2022
+"570,000 ","16 Nelson Court,",WODONGA VIC 3690,House,3,2,2,813m² ,04 Sep 2022
+"380,000 ","12 Ballard Street,",WODONGA VIC 3690,House,3,1,−,562m² ,03 Sep 2022
+"595,000 ","251 Beechworth Road,",WODONGA VIC 3690,House,3,1,1,691m² ,2022
+"295,000","57 William Street,",WODONGA VIC 3690,House,2,1,1,401m² ,03 Sep 2022
+"350,000 ","8 Noel Street,",WODONGA VIC 3690,House,2,1,2,658m² ,02 Sep 2022
+"615,000","9 Mackey Street,",WODONGA VIC 3690,House,4,2,2,540m² ,2022
+"615,000","9 Mackey Street,",WODONGA VIC 3690,House,4,2,2,540m² ,2022
+"500,000 ","32 Hartwig Road,",WODONGA VIC 3690,House,4,2,2,709m² ,31 Aug 2022
+"770,000 ","3 Inverness Street,",WODONGA VIC 3690,House,5,2,2,791m² ,30 Aug 2022
+"825,000 ","18 Tower Street,",WODONGA VIC 3690,House,4,1,2,"1,097m² ",29 Aug 2022
+"650,000","12 FIVEFIELDS ROAD,",WODONGA VIC 3690,House,4,2,2,612m² ,29 Aug 2022
+"460,000 ","18 Campbell Avenue,",WODONGA VIC 3690,House,3,1,2,663m² ,27 Aug 2022
+"620,000 ","36 Victoria Cross Parade,",WODONGA VIC 3690,House,4,2,2,512m² ,27 Aug 2022
+"659,000","43 STREETS ROAD,",WODONGA VIC 3690,House,4,2,2,736m² ,25 Aug 2022
+"330,000 ","9 McIntyre Court,",WODONGA VIC 3690,House,3,1,1,642m² ,23 Aug 2022
+"370,000 ","49 Anderson Street,",WODONGA VIC 3690,House,4,1,1,647m² ,22 Aug 2022
+"565,000 ","22 McAuliffe Street,",WODONGA VIC 3690,House,4,2,2,540m² ,22 Aug 2022
+"515,000 ","7 Merion Court,",WODONGA VIC 3690,House,4,2,2,763m² ,22 Aug 2022
+"580,000 ","11 Huon Street,",WODONGA VIC 3690,House,3,2,2,616m² ,22 Aug 2022
+"515,000 ","50 Victoria Cross Parade,",WODONGA VIC 3690,House,3,2,2,450m² ,19 Aug 2022
+"720,000 ","31 Erlandsen Circuit,",WODONGA VIC 3690,House,4,2,2,648m² ,17 Aug 2022
+"425,000 ","7 Sutton Court,",WODONGA VIC 3690,House,3,1,2,580m² ,17 Aug 2022
+"575,000 ","6 Sexton Place,",WODONGA VIC 3690,House,4,2,2,570m² ,16 Aug 2022
+"575,000 ","5 Keighran Avenue,",WODONGA VIC 3690,House,4,2,2,512m² ,16 Aug 2022
+"799,000 ","11 Pinkerton Court,",WODONGA VIC 3690,House,4,2,4,"1,436m² ",16 Aug 2022
+"440,000 ","17 Wornes Drive,",WODONGA VIC 3690,House,3,1,4,614m² ,15 Aug 2022
+"619,000 ","41 Rogers Avenue,",WODONGA VIC 3690,House,4,2,2,648m² ,15 Aug 2022
+"495,000 ","12 Iron Way,",WODONGA VIC 3690,House,3,2,2,658m² ,13 Aug 2022
+"440,000 ","19 Buckland Court,",WODONGA VIC 3690,House,3,1,2,828m² ,09 Aug 2022
+"1,000,000 ","8 Beard Crescent,",WODONGA VIC 3690,House,5,3,6,"1,721m² ",09 Aug 2022
+"465,000 ","34 Menzies Street,",WODONGA VIC 3690,House,3,2,2,741m² ,08 Aug 2022
+"850,000 ","53 Ballara Drive,",WODONGA VIC 3690,House,3,2,2,"2,126m² ",08 Aug 2022
+"619,000","28 HALEY CRESCENT,",WODONGA VIC 3690,House,4,3,5,"1,000m² ",05 Aug 2022
+"510,000 ","19 O'Meara Street,",WODONGA VIC 3690,House,4,2,2,480m² ,05 Aug 2022
+"349,000 ","2 Zircon Court,",WODONGA VIC 3690,House,3,1,1,915m² ,04 Aug 2022
+"289,000 ","72 Lawrence Street,",WODONGA VIC 3690,House,3,1,1,312m² ,04 Aug 2022
+"542,000 ","10 Lavender Street,",WODONGA VIC 3690,House,3,2,2,663m² ,03 Aug 2022
+"468,000 ","68 Brockley Street,",WODONGA VIC 3690,House,3,2,8,721m² ,02 Aug 2022
+"725,000 ","33 Harkin Avenue,",WODONGA VIC 3690,House,4,2,2,601m² ,01 Aug 2022
+"459,000 ","3 Ellison Court,",WODONGA VIC 3690,House,3,1,3,712m² ,01 Aug 2022
+"455,000 ","25 Dick Street,",WODONGA VIC 3690,House,2,1,2,761m² ,30 Jul 2022
+"625,000","3 COULSTON STREET,",WODONGA VIC 3690,House,4,2,2,725m² ,29 Jul 2022
+"449,000 ","3 Marigold Court,",WODONGA VIC 3690,House,3,1,2,647m² ,29 Jul 2022
+"385,000 ","111 Tarakan Street,",WODONGA VIC 3690,House,3,1,2,680m² ,28 Jul 2022
+"395,000","25 Maxwell Drive,",WODONGA VIC 3690,House,2,1,1,338m² ,26 Jul 2022
+"420,000 ","156 Brockley Street,",WODONGA VIC 3690,House,4,2,2,791m² ,26 Jul 2022
+"730,000 ","4 Toy Court,",WODONGA VIC 3690,House,4,2,2,881m² ,25 Jul 2022
+"508,000",,WODONGA VIC 3690,House,3,2,2,640m² ,20 Jul 2022
+"595,000 ","19 Montclair Avenue,",WODONGA VIC 3690,House,4,2,2,641m² ,19 Jul 2022
+"890,000 ","24 Beard Crescent,",WODONGA VIC 3690,House,4,2,4,"1,718m² ",19 Jul 2022
+"780,000 ","37 Sanctuary Boulevard,",WODONGA VIC 3690,House,5,2,3,963m² ,19 Jul 2022
+"760,000","7 Vining Court,",WODONGA VIC 3690,House,4,2,2,923m² ,18 Jul 2022
+"575,000 ","8 Helsingor Avenue,",WODONGA VIC 3690,House,4,2,2,860m² ,18 Jul 2022
+"598,000 ","31 Willoughby Avenue,",WODONGA VIC 3690,House,4,2,2,796m² ,15 Jul 2022
+"473,000 ","18 Omeara Street,",WODONGA VIC 3690,House,3,2,2,512m² ,15 Jul 2022
+"460,000 ","37 Anderson Street,",WODONGA VIC 3690,House,3,2,2,540m² ,14 Jul 2022
+"455,000 ","15 Page Court,",WODONGA VIC 3690,House,3,2,2,779m² ,14 Jul 2022
+"780,000","65 Avondale Drive,",WODONGA VIC 3690,House,4,2,2,"1,082m² ",12 Jul 2022
+"557,500 ","22 Castleton Street,",WODONGA VIC 3690,House,3,2,2,480m² ,11 Jul 2022
+"685,000 ","74 LAWRENCE STREET,",WODONGA VIC 3690,Duplex,4,3,2,605m² ,11 Jul 2022
+"569,000 ","1A Clarendon Avenue,",WODONGA VIC 3690,House,3,2,2,401m² ,11 Jul 2022
+"540,000 ","70 William Street,",WODONGA VIC 3690,House,3,1,2,823m² ,11 Jul 2022
+"507,000 ","13 Heckendorf Road,",WODONGA VIC 3690,House,3,2,2,809m² ,11 Jul 2022
+"1,050,000","2 Wilson Street,",WODONGA VIC 3690,House,5,3,6,846m² ,2022
+"490,000 ","9 Loames Street,",WODONGA VIC 3690,House,2,1,1,501m² ,08 Jul 2022
+"650,000 ","3 Fenwick Court,",WODONGA VIC 3690,House,6,2,2,995m² ,08 Jul 2022
+"502,500","8 BUGDEN STREET,",WODONGA VIC 3690,House,3,2,2,448m² ,07 Jul 2022
+"402,750 ","13 Wiltshire Crescent,",WODONGA VIC 3690,House,3,1,2,624m² ,06 Jul 2022
+"579,000 ","109 Yarralumla Drive,",WODONGA VIC 3690,House,3,2,2,402m² ,01 Jul 2022
+"640,000 ","18 Lowerson Street,",WODONGA VIC 3690,House,4,2,2,577m² ,30 Jun 2022
+"550,000","77 Lawrence Street,",WODONGA VIC 3690,House,4,2,2,843m² ,8 Jun 2022
+"543,000 ","8 Elmslie Circuit,",WODONGA VIC 3690,House,4,2,2,772m² ,27 Jun 2022
+"415,000 ","32 Wilson Street,",WODONGA VIC 3690,House,2,1,2,509m² ,24 Jun 2022
+"470,000 ","3 Hartwig Road,",WODONGA VIC 3690,House,3,1,2,866m² ,24 Jun 2022
+"380,000 ","9 London Road,",WODONGA VIC 3690,House,3,1,1,588m² ,24 Jun 2022
+"789,000 ","12 McAuliffe Street,",WODONGA VIC 3690,House,4,2,2,839m² ,22 Jun 2022
+"405,000","26 Belgrade Avenue,",WODONGA VIC 3690,House,3,1,3,668m² ,22 Jun 2022
+"563,000","23 Murray Way,",WODONGA VIC 3690,House,3,2,2,593m² ,22 Jun 2022
+"545,000","16 Primrose Way,",WODONGA VIC 3690,House,3,2,2,666m² ,20 Jun 2022
+"1,140,000 ","13 Tanner Terrace,",WODONGA VIC 3690,House,6,3,3,920m² ,20 Jun 2022
+"554,000 ","20 Stapleton Court,",WODONGA VIC 3690,House,4,2,2,797m² ,20 Jun 2022
+"680,000 ","38 Hartwig Road,",WODONGA VIC 3690,House,3,2,2,984m² ,20 Jun 2022
+"417,500","49 NIGHTINGALE AVENUE,",WODONGA VIC 3690,House,3,1,−,336m² ,20 Jun 2022
+"465,000 ","16 Birdie Street,",WODONGA VIC 3690,House,3,1,2,644m² ,19 Jun 2022
+"1,185,000","14 Innisfree Drive,",WODONGA VIC 3690,House,4,2,5,"9,946m² ",17 Jun 2022
+"410,500","29 HEREFORD STREET,",WODONGA VIC 3690,House,3,1,2,600m² ,17 Jun 2022
+"442,000 ","22 Pearce Street,",WODONGA VIC 3690,House,3,1,1,602m² ,16 Jun 2022
+"430,000 ","7 Schultz Court,",WODONGA VIC 3690,House,3,1,1,622m² ,16 Jun 2022
+"430,000 ","27 Mayfair Drive,",WODONGA VIC 3690,House,3,1,1,651m² ,14 Jun 2022
+"465,000 ","58 Campaspe Street,",WODONGA VIC 3690,House,3,1,4,716m² ,13 Jun 2022
+"435,000 ","6 Baelon Street,",WODONGA VIC 3690,House,3,2,2,725m² ,09 Jun 2022
+"490,000 ","35 Kenna Street,",WODONGA VIC 3690,House,4,2,3,476m² ,08 Jun 2022
+"819,000 ","9 Fenwick Court,",WODONGA VIC 3690,House,4,2,3,968m² ,08 Jun 2022
+"370,000 ","17 Jarrah Street,",WODONGA VIC 3690,House,3,1,2,647m² ,07 Jun 2022
+"630,000 ","90 Yarralumla Drive,",WODONGA VIC 3690,House,4,2,2,564m² ,07 Jun 2022
+"675,000 ","10 Havelock Street,",WODONGA VIC 3690,House,3,1,2,895m² ,2022
+"525,000 ","24 Milos Boulevard,",WODONGA VIC 3690,House,4,2,5,760m² ,03 Jun 2022
+"450,000","1/30 THORNEYCROFT AVENUE,",WODONGA VIC 3690,House,3,2,1,472m² ,03 Jun 2022
+"465,000 ","3 Waratah Way,",WODONGA VIC 3690,House,4,2,2,673m² ,03 Jun 2022
+"518,000 ","326 Beechworth Road,",WODONGA VIC 3690,House,3,1,2,828m² ,02 Jun 2022
+"752,500 ","55 Maygar Avenue,",WODONGA VIC 3690,House,4,2,2,508m² ,02 Jun 2022
+"393,000 ","29 Belgrade Avenue,",WODONGA VIC 3690,House,3,1,1,639m² ,01 Jun 2022
+"417,000 ","16 Nicole Crescent,",WODONGA VIC 3690,House,3,1,1,594m² ,30 May 2022
+"845,000 ","4 Warrina Court,",WODONGA VIC 3690,House,4,2,4,"1,259m² ",30 May 2022
+"475,000","5 Coventry Court,",WODONGA VIC 3690,House,3,2,1,801m² ,30 May 2022
+"300,000 ","5 Spring Avenue,",WODONGA VIC 3690,House,3,1,−,625m² ,2022
+"530,000 ","5 Anne Street,",WODONGA VIC 3690,House,3,1,1,740m² ,2022
+"710,000","5 Chapman Street,",WODONGA VIC 3690,House,3,1,2,703m² ,2022
+"610,000","6 Dunluce Place,",WODONGA VIC 3690,House,3,2,2,814m² ,2022
+"1,250,000 ","10 Parkfield Drive,",WODONGA VIC 3690,House,4,2,3,"1,960m² ",27 May 2022
+"599,000","19 SHIELS COURT,",WODONGA VIC 3690,House,4,2,2,812m² ,27 May 2022
+"780,000 ","20 Windsor Street,",WODONGA VIC 3690,House,5,2,2,717m² ,27 May 2022
+"447,000 ","18 Holmes Court,",WODONGA VIC 3690,House,3,1,3,730m² ,27 May 2022
+"830,000","25 Golflinks Avenue,",WODONGA VIC 3690,House,3,2,2,"1,013m² ",26 May 2022
+"675,000 ","18 Park View Close,",WODONGA VIC 3690,House,5,3,2,799m² ,25 May 2022
+"615,000 ","11 Middleton Crescent,",WODONGA VIC 3690,House,4,2,2,540m² ,25 May 2022
+"749,150 ","3 Elmslie Close,",WODONGA VIC 3690,House,4,2,3,"1,354m² ",24 May 2022
+"635,000 ","6 Oatlands Fairway,",WODONGA VIC 3690,House,4,2,2,880m² ,23 May 2022
+"539,200 ","5 Omeara Street,",WODONGA VIC 3690,House,4,2,2,579m² ,23 May 2022
+"555,000 ","6 Lavender Street,",WODONGA VIC 3690,House,3,1,6,685m² ,20 May 2022
+"460,000","8 NEWMAN CRESCENT,",WODONGA VIC 3690,House,3,1,1,720m² ,18 May 2022
+"575,300","20 Dalton Avenue,",WODONGA VIC 3690,House,4,2,2,783m² ,18 May 2022
+"640,000 ","91 Barton Street,",WODONGA VIC 3690,House,4,2,2,633m² ,16 May 2022
+"440,000 ","13 Pitmedden Drive,",WODONGA VIC 3690,House,3,2,2,571m² ,14 May 2022
+"620,000 ","11 Park Lane,",WODONGA VIC 3690,House,3,2,2,581m² ,2022
+"355,000 ","8 Hague Road,",WODONGA VIC 3690,House,3,1,2,540m² ,13 May 2022
+"605,000 ","1 Heron Court,",WODONGA VIC 3690,House,4,2,2,728m² ,13 May 2022
+"560,000 ","40 Campaspe Street,",WODONGA VIC 3690,House,3,1,3,662m² ,13 May 2022
+"369,000 ","6 Glasgow Street,",WODONGA VIC 3690,House,3,1,2,587m² ,13 May 2022
+"601,500 ","8 Eagle Court,",WODONGA VIC 3690,House,4,2,4,934m² ,12 May 2022
+"558,000 ","34 Falcon Court,",WODONGA VIC 3690,House,3,1,5,802m² ,10 May 2022
+"496,700 ","13 Batt Avenue,",WODONGA VIC 3690,House,2,1,1,723m² ,0 May 2022
+"895,000 ","52 Huon Creek Road,",WODONGA VIC 3690,House,4,2,2,"2,109m² ",2022
+"600,000 ","13 Gurney Crescent,",WODONGA VIC 3690,House,4,2,2,544m² ,09 May 2022
+"479,000","14 HUNT STREET,",WODONGA VIC 3690,House,2,1,4,736m² ,06 May 2022
+"850,000 ","3 Lorikeet Street,",WODONGA VIC 3690,House,4,2,3,"1,867m² ",06 May 2022
+"460,000 ","24 Hereford Street,",WODONGA VIC 3690,House,3,1,2,655m² ,02 May 2022
+"650,000 ","27 Streets Road,",WODONGA VIC 3690,House,4,2,2,748m² ,02 May 2022
+"422,500 ","7 Samantha Terrace,",WODONGA VIC 3690,House,2,1,1,416m² ,02 May 2022
+"490,000 ","16 William Street,",WODONGA VIC 3690,House,2,1,2,650m² ,01 May 2022
+"515,000 ","12 Georgina Street,",WODONGA VIC 3690,House,3,2,2,581m² ,30 Apr 2022
+"549,000 ","48 Brockley Street,",WODONGA VIC 3690,House,3,2,3,836m² ,29 Apr 2022
+"575,000 ","1 Service Court,",WODONGA VIC 3690,House,4,2,2,700m² ,29 Apr 2022
+"530,000 ","9 Donelan Court,",WODONGA VIC 3690,House,3,2,4,695m² ,28 Apr 2022
+"500,000 ","11 Arnold Place,",WODONGA VIC 3690,House,3,2,1,656m² ,26 Apr 2022
+"575,000 ","43 Menzies Street,",WODONGA VIC 3690,House,4,2,2,871m² ,26 Apr 2022
+"865,000 ","19 Willow Parade,",WODONGA VIC 3690,House,4,2,4,"1,949m² ",26 Apr 2022
+"520,000","5A Batt Avenue,",WODONGA VIC 3690,House,3,1,1,506m² ,24 Apr 2022
+"775,000 ","10 Irvine Court,",WODONGA VIC 3690,House,3,2,2,762m² ,21 Apr 2022
+"520,000 ","12 Schubert Crescent,",WODONGA VIC 3690,House,3,2,2,619m² ,2022
+"397,000 ","1 Pyke Court,",WODONGA VIC 3690,House,3,1,1,568m² ,19 Apr 2022
+"440,000 ","17 Anderson Street,",WODONGA VIC 3690,House,3,1,2,530m² ,19 Apr 2022
+"870,000 ","8 McSwiney Court,",WODONGA VIC 3690,House,3,2,2,760m² ,14 Apr 2022
+"421,000 ","7 Gardner Street,",WODONGA VIC 3690,House,3,2,2,668m² ,14 Apr 2022
+"450,000 ","47 Pearce Street,",WODONGA VIC 3690,House,3,1,1,608m² ,13 Apr 2022
+"511,000","44 CAMPASPE STREET,",WODONGA VIC 3690,House,3,1,3,633m² ,12 Apr 2022
+"450,000","20 INWOOD CRESCENT,",WODONGA VIC 3690,House,3,2,2,478m² ,12 Apr 2022
+"521,000","8 BURTON CRESCENT,",WODONGA VIC 3690,House,4,2,2,507m² ,12 Apr 2022
+"395,000 ","17 Carkeek Street,",WODONGA VIC 3690,House,3,1,2,555m² ,11 Apr 2022
+"620,000 ","32 Ruthven Circuit,",WODONGA VIC 3690,House,4,2,2,512m² ,11 Apr 2022
+"627,500 ","3 Harkin Avenue,",WODONGA VIC 3690,House,4,2,2,693m² ,11 Apr 2022
+"501,000 ","44 Derwent Way,",WODONGA VIC 3690,House,3,2,2,583m² ,11 Apr 2022
+"530,000 ","6 Firestone Way,",WODONGA VIC 3690,House,3,1,2,717m² ,11 Apr 2022
+"525,000 ","4 Prunis Court,",WODONGA VIC 3690,House,3,2,2,701m² ,08 Apr 2022
+"665,000","22 WATSON STREET,",WODONGA VIC 3690,House,3,1,1,971m² ,2022
+"748,500 ","18 Argyle Way,",WODONGA VIC 3690,House,3,2,2,"1,139m² ",08 Apr 2022
+"465,000 ","11 Ruby Road,",WODONGA VIC 3690,House,3,1,3,730m² ,08 Apr 2022
+"470,000 ","8 Baelon Street,",WODONGA VIC 3690,House,3,1,2,739m² ,07 Apr 2022
+"1,125,000","96 Huon Creek Road,",WODONGA VIC 3690,House,4,3,2,"4,508m² ",07 Apr 2022
+"460,000 ","13 Marshall Street,",WODONGA VIC 3690,House,4,1,2,767m² ,06 Apr 2022
+"455,000 ","34 Jarrah Street,",WODONGA VIC 3690,House,3,1,4,748m² ,04 Apr 2022
+"465,000 ","3 Campbell Avenue,",WODONGA VIC 3690,House,3,1,3,601m² ,04 Apr 2022
+"568,000 ","17 Campaspe Street,",WODONGA VIC 3690,House,3,2,2,705m² ,04 Apr 2022
+"555,000 ","14 Anne Street,",WODONGA VIC 3690,House,3,1,1,817m² ,04 Apr 2022
+"469,000 ","12 Kingsbury Court,",WODONGA VIC 3690,House,4,2,2,683m² ,31 Mar 2022
+"475,000","7 WILSON STREET,",WODONGA VIC 3690,House,3,1,3,611m² ,2022
+"515,000 ","9 Sapphire Circuit,",WODONGA VIC 3690,House,3,2,2,655m² ,31 Mar 2022
+"439,000 ","27 Belgrade Avenue,",WODONGA VIC 3690,House,3,1,2,566m² ,31 Mar 2022
+"412,500 ","8 Lawry Street,",WODONGA VIC 3690,House,3,1,4,663m² ,31 Mar 2022
+"486,000 ","31 Birdie Street,",WODONGA VIC 3690,House,3,1,2,621m² ,29 Mar 2022
+"450,000 ","3 Costa Court,",WODONGA VIC 3690,House,3,1,2,786m² ,29 Mar 2022
+"440,000","5 SADLIER STREET,",WODONGA VIC 3690,House,3,1,1,412m² ,28 Mar 2022
+"620,000 ","5 Ahern Court,",WODONGA VIC 3690,House,3,2,2,588m² ,28 Mar 2022
+"585,000 ","11 Anglesey Street,",WODONGA VIC 3690,House,4,2,2,901m² ,28 Mar 2022
+"571,000 ","8 Berkeley Close,",WODONGA VIC 3690,House,4,2,2,665m² ,25 Mar 2022
+"865,000","102 Huon Creek Road,",WODONGA VIC 3690,House,3,2,2,"2,777m² ",5 Mar 2022
+"448,000 ","1 Clover Avenue,",WODONGA VIC 3690,House,3,1,2,629m² ,25 Mar 2022
+"385,000 ","12 Borthwick Court,",WODONGA VIC 3690,House,4,1,2,679m² ,25 Mar 2022
+"550,000 ","100 Yarralumla Drive,",WODONGA VIC 3690,House,4,2,2,545m² ,25 Mar 2022
+"632,500 ","30 Ruthven Circuit,",WODONGA VIC 3690,House,4,2,2,576m² ,25 Mar 2022
+"628,000 ","68 Castle Creek Road,",WODONGA VIC 3690,House,4,2,2,881m² ,24 Mar 2022
+"1,020,000","15 Thomas Mitchell Drive,",WODONGA VIC 3690,House,4,2,2,654m² ,24 Mar 2022
+"845,000 ","39 Gratwick View,",WODONGA VIC 3690,House,4,2,2,583m² ,22 Mar 2022
+"560,000 ","2 Canary Court,",WODONGA VIC 3690,House,3,1,2,983m² ,21 Mar 2022
+"675,000 ","3 Keysor Way,",WODONGA VIC 3690,House,4,2,2,605m² ,21 Mar 2022
+"490,000 ","7 Mulqueeney Street,",WODONGA VIC 3690,House,3,1,2,806m² ,18 Mar 2022
+"470,000 ","11 Gordon Street,",WODONGA VIC 3690,House,3,1,1,809m² ,18 Mar 2022
+"420,000","2 TEMPLETON PLACE,",WODONGA VIC 3690,House,3,1,2,601m² ,18 Mar 2022
+"595,000","13 FITZROY STREET,",WODONGA VIC 3690,House,4,2,2,591m² ,17 Mar 2022
+"665,000","7 Killarney Court,",WODONGA VIC 3690,House,4,2,2,656m² ,17 Mar 2022
+"1,200,000","18 Kite Place,",WODONGA VIC 3690,House,4,2,2,"1,554m² ",16 Mar 2022
+"401,000 ","6 Strathmore Street,",WODONGA VIC 3690,House,3,1,2,729m² ,15 Mar 2022
+"380,000 ","75 Hereford Street,",WODONGA VIC 3690,House,3,1,2,622m² ,15 Mar 2022
+"500,000 ","5 Brolga Court,",WODONGA VIC 3690,House,3,1,2,835m² ,14 Mar 2022
+"420,000 ","9 Maxwell Drive,",WODONGA VIC 3690,House,3,1,2,631m² ,11 Mar 2022
+"820,000","30 SILKY OAK AVENUE,",WODONGA VIC 3690,House,4,2,2,"1,117m² ",11 Mar 2022
+"450,000 ","19 Waratah Way,",WODONGA VIC 3690,House,4,1,2,666m² ,10 Mar 2022
+"601,000","40 MURRAY WAY,",WODONGA VIC 3690,House,3,2,2,566m² ,08 Mar 2022
+"508,500 ","20 Kyle Court,",WODONGA VIC 3690,House,3,1,4,768m² ,07 Mar 2022
+"515,000","1 HALL COURT,",WODONGA VIC 3690,House,4,2,2,679m² ,04 Mar 2022
+"450,000 ","112 Colman Street,",WODONGA VIC 3690,House,3,2,3,760m² ,03 Mar 2022
+"422,000 ","27 Anderson Street,",WODONGA VIC 3690,House,3,1,3,539m² ,03 Mar 2022
+"765,000","24 Cummings Street,",WODONGA VIC 3690,House,3,2,4,"1,109m² ",02 Mar 2022
+"618,000 ","15 Grieve Way,",WODONGA VIC 3690,House,3,2,2,565m² ,01 Mar 2022
+"772,000 ","13 Argyle Way,",WODONGA VIC 3690,House,4,2,4,"1,245m² ",28 Feb 2022
+"425,000 ","13 Jamieson Court,",WODONGA VIC 3690,House,3,1,2,668m² ,25 Feb 2022
+"1,200,000 ","54 Avondale Drive,",WODONGA VIC 3690,House,4,3,2,"1,390m² ",5 Feb 2022
+"365,000","5 Glenview Avenue,",WODONGA VIC 3690,House,2,1,8,653m² ,25 Feb 2022
+"580,000","47 MEMORIAL DRIVE,",WODONGA VIC 3690,House,3,2,2,692m² ,22 Feb 2022
+"1,240,000 ","85 Huon Creek Road,",WODONGA VIC 3690,House,3,2,3,"2,300m² ",21 Feb 2022
+"760,000 ","10 Gillman Terrace,",WODONGA VIC 3690,House,3,2,2,679m² ,2022
+"608,000 ","13 Nilmar Avenue,",WODONGA VIC 3690,House,3,1,1,770m² ,2022
+"665,000 ","28 Clarendon Avenue,",WODONGA VIC 3690,House,4,2,2,821m² ,18 Feb 2022
+"380,000 ","47 McFarland Road,",WODONGA VIC 3690,House,3,1,2,728m² ,18 Feb 2022
+"591,000 ","32 Memorial Drive,",WODONGA VIC 3690,House,4,2,2,754m² ,17 Feb 2022
+"490,000 ","20 Ambrose Crescent,",WODONGA VIC 3690,House,3,2,2,622m² ,17 Feb 2022
+"381,000 ","21 Melgaard Court,",WODONGA VIC 3690,House,3,1,3,576m² ,16 Feb 2022
+"995,000 ","9 Golflinks Avenue,",WODONGA VIC 3690,House,4,2,2,"1,081m² ",15 Feb 2022
+"458,000 ","1/24 Charles Street,",WODONGA VIC 3690,House,3,2,2,360m² ,15 Feb 2022
+"415,000 ","13 Hereford Street,",WODONGA VIC 3690,House,3,1,2,589m² ,15 Feb 2022
+"820,000 ","7 Howse Crescent,",WODONGA VIC 3690,House,5,2,2,702m² ,15 Feb 2022
+"520,000 ","10 Swan Street,",WODONGA VIC 3690,House,3,2,1,345m² ,14 Feb 2022
+"711,000","12 MacKenzie Crescent,",WODONGA VIC 3690,House,4,2,2,908m² ,14 Feb 2022
+"500,000 ","2/29 Brockley Street,",WODONGA VIC 3690,House,3,2,2,176m² ,14 Feb 2022
+"380,000 ","89 Tarakan Street,",WODONGA VIC 3690,House,3,1,2,701m² ,2022
+"570,000 ","332 Beechworth Road,",WODONGA VIC 3690,House,3,2,4,833m² ,11 Feb 2022
+"925,000 ","7 Batt Avenue,",WODONGA VIC 3690,House,4,2,2,680m² ,2022
+"540,000 ","17 Rubicon Street,",WODONGA VIC 3690,House,4,2,2,506m² ,11 Feb 2022
+"785,000","7 Merlinda Court,",WODONGA VIC 3690,House,4,2,4,"1,785m² ",2022
+"350,000 ","105 Mitchell Street,",WODONGA VIC 3690,House,3,1,4,442m² ,09 Feb 2022
+"443,500","11 SHIELS COURT,",WODONGA VIC 3690,House,3,1,2,739m² ,09 Feb 2022
+"455,000 ","29 Castleton Street,",WODONGA VIC 3690,House,3,2,2,589m² ,09 Feb 2022
+"715,000 ","13 Toy Court,",WODONGA VIC 3690,House,4,2,2,946m² ,08 Feb 2022
+"499,000 ","10 Lysterfield Lane,",WODONGA VIC 3690,House,3,2,2,480m² ,08 Feb 2022
+"355,000","12 SINNETT COURT,",WODONGA VIC 3690,House,3,2,4,619m² ,08 Feb 2022
+"475,000 ","4 Hodson Place,",WODONGA VIC 3690,House,3,1,3,867m² ,08 Feb 2022
+"639,000 ","3/16 Woodland Street,",WODONGA VIC 3690,House,3,2,3,259m² ,08 Feb 2022
+"655,000 ","19 Keysor Way,",WODONGA VIC 3690,House,4,2,2,576m² ,08 Feb 2022
+"429,000","1/4-6 WILSON STREET,",WODONGA VIC 3690,House,3,2,1,355m² ,07 Feb 2022
+"460,000 ","10 Colombera Circuit,",WODONGA VIC 3690,House,3,2,2,502m² ,02 Feb 2022
+"468,000 ","1 Cook Place,",WODONGA VIC 3690,House,3,2,3,930m² ,01 Feb 2022
+"580,000 ","24 Church Street,",WODONGA VIC 3690,House,3,1,1,981m² ,1 Feb 2022
+"790,000","51 Huon Creek Road,",WODONGA VIC 3690,House,4,2,4,"2,290m² ",31 Jan 2022
+"521,000 ","117 Chapple Street,",WODONGA VIC 3690,House,4,2,3,605m² ,30 Jan 2022
+"480,000","57 Omeara Street,",WODONGA VIC 3690,House,4,3,2,270m² ,29 Jan 2022
+"850,000 ","9 Sanctuary Boulevard,",WODONGA VIC 3690,House,4,2,2,"1,403m² ",28 Jan 2022
+"390,000 ","45 London Road,",WODONGA VIC 3690,House,3,1,1,574m² ,28 Jan 2022
+"570,000 ","6 Maygar Avenue,",WODONGA VIC 3690,House,5,2,2,546m² ,27 Jan 2022
+"455,000 ","12 Charles Street,",WODONGA VIC 3690,House,3,2,2,841m² ,25 Jan 2022
+"475,000","14 MCMAHON PLACE,",WODONGA VIC 3690,House,3,1,2,769m² ,25 Jan 2022
+"445,000 ","1 Teal Court,",WODONGA VIC 3690,House,3,2,1,719m² ,25 Jan 2022
+"620,000 ","12 Scarborough Drive,",WODONGA VIC 3690,House,4,3,2,"1,072m² ",24 Jan 2022
+"392,000 ","105 Gralen Street,",WODONGA VIC 3690,House,3,1,4,602m² ,22 Jan 2022
+"495,000 ","1 Batt Avenue,",WODONGA VIC 3690,House,3,1,1,565m² ,20 Jan 2022
+"1,000,000","7 Powell Court,",WODONGA VIC 3690,House,5,3,2,"2,267m² ",20 Jan 2022
+"651,000 ","18 Barton Street,",WODONGA VIC 3690,House,4,2,2,"1,004m² ",18 Jan 2022
+"560,000 ","5 Balmoral Drive,",WODONGA VIC 3690,House,3,2,2,877m² ,17 Jan 2022
+"511,500 ","17 Murray Way,",WODONGA VIC 3690,House,4,2,2,520m² ,17 Jan 2022
+"415,000 ","13 Dick Street,",WODONGA VIC 3690,House,3,1,2,552m² ,14 Jan 2022
+"565,000","18 Lysterfield Lane,",WODONGA VIC 3690,House,3,2,2,602m² ,13 Jan 2022
+"560,000 ","27 Inwood Crescent,",WODONGA VIC 3690,House,4,2,2,503m² ,13 Jan 2022
+"575,000","20 Gurney Crescent,",WODONGA VIC 3690,House,4,2,4,653m² ,13 Jan 2022
+"445,000 ","10 Heidelberg Drive,",WODONGA VIC 3690,House,4,2,3,914m² ,11 Jan 2022
+"790,000 ","33 Sanctuary Boulevard,",WODONGA VIC 3690,House,5,2,2,"1,101m² ",11 Jan 2022
+"652,000","7 FYFE COURT,",WODONGA VIC 3690,House,4,2,2,903m² ,11 Jan 2022
+"393,200 ","3 Nicole Crescent,",WODONGA VIC 3690,House,3,1,4,554m² ,10 Jan 2022
+"437,500 ","11 Deakin Court,",WODONGA VIC 3690,House,3,1,2,"1,045m² ",09 Jan 2022
+"529,000","21 Nordsvan Drive,",WODONGA VIC 3690,House,4,2,3,"1,017m² ",07 Jan 2022
+"650,000 ","45 Jarrah Street,",WODONGA VIC 3690,House,4,2,2,827m² ,07 Jan 2022
+"300,000 ","54 Wigg Street,",WODONGA VIC 3690,House,3,1,2,644m² ,05 Jan 2022
+"610,000 ","6 Kerferd Court,",WODONGA VIC 3690,House,4,2,1,763m² ,31 Dec 2021
+"426,000 ","12 Colombo Court,",WODONGA VIC 3690,House,3,2,2,572m² ,21 Dec 2021
+"575,000","77 William Street,",WODONGA VIC 3690,House,4,2,2,804m² ,21 Dec 2021
+"365,000 ","35 Nicole Crescent,",WODONGA VIC 3690,House,3,1,2,619m² ,21 Dec 2021
+"465,000 ","3 Brassie Street,",WODONGA VIC 3690,House,3,1,2,749m² ,20 Dec 2021
+"405,000","32 MENZIES STREET,",WODONGA VIC 3690,House,3,1,1,744m² ,20 Dec 2021
+"460,000 ","19 Lindsay Street,",WODONGA VIC 3690,House,3,1,−,630m² ,20 Dec 2021
+"365,000","107 COLMAN STREET,",WODONGA VIC 3690,House,4,1,−,805m² ,19 Dec 2021
+"455,000 ","1 Quail Court,",WODONGA VIC 3690,House,3,1,2,738m² ,18 Dec 2021
+"460,000 ","59 Nightingale Avenue,",WODONGA VIC 3690,House,4,1,2,643m² ,18 Dec 2021
+"535,000 ","9 Anne Street,",WODONGA VIC 3690,House,3,1,−,750m² ,17 Dec 2021
+"250,000","120 Tarakan Street,",WODONGA VIC 3690,House,2,1,−,737m² ,17 Dec 2021
+"490,000","87 Mitchell Street,",WODONGA VIC 3690,House,3,1,2,597m² ,17 Dec 2021
+"500,000","118 Tarakan Street,",WODONGA VIC 3690,House,3,2,2,727m² ,17 Dec 2021
+"590,000","5 Bent Place,",WODONGA VIC 3690,House,4,2,2,900m² ,17 Dec 2021
+"448,000","16 Milos Boulevard,",WODONGA VIC 3690,House,3,1,2,745m² ,16 Dec 2021
+"755,000 ","21 Thorneycroft Avenue,",WODONGA VIC 3690,House,4,2,2,855m² ,16 Dec 2021
+"542,000","5 Tanner Terrace,",WODONGA VIC 3690,House,3,2,3,526m² ,16 Dec 2021
+"1,170,000","504 Castle Creek Road,",WODONGA VIC 3690,House,4,2,4,"30,000m² ",16 Dec 2021
+"470,000","4 REX COURT,",WODONGA VIC 3690,House,4,2,2,816m² ,16 Dec 2021
+"515,000 ","143 Hume Street,",WODONGA VIC 3690,House,3,1,2,923m² ,16 Dec 2021
+"525,000","17 William Street,",WODONGA VIC 3690,House,3,2,2,660m² ,14 Dec 2021
+"425,000 ","16 Kelly Street,",WODONGA VIC 3690,House,2,2,2,577m² ,14 Dec 2021
+"625,000 ","27 Castleton Street,",WODONGA VIC 3690,House,4,2,2,590m² ,13 Dec 2021
+"410,000 ","20 Wilkinson Drive,",WODONGA VIC 3690,House,3,1,2,661m² ,13 Dec 2021
+"1,350,000 ","1 Donnington Drive,",WODONGA VIC 3690,House,5,3,4,"1,559m² ",2021
+"640,000 ","3 Pembroke Crescent,",WODONGA VIC 3690,House,4,2,2,626m² ,2021
+"450,000 ","7 Marie Drive,",WODONGA VIC 3690,House,3,2,2,902m² ,10 Dec 2021
+"480,000 ","374 Lawrence Street,",WODONGA VIC 3690,House,4,2,3,627m² ,10 Dec 2021
+"816,000 ","4 Johneva Avenue,",WODONGA VIC 3690,House,4,3,4,"1,000m² ",10 Dec 2021
+"445,000 ","28 Riverview Terrace,",WODONGA VIC 3690,House,4,2,2,684m² ,10 Dec 2021
+"372,000 ","31 Wornes Drive,",WODONGA VIC 3690,House,3,1,2,562m² ,10 Dec 2021
+"520,000","11 Inwood Crescent,",WODONGA VIC 3690,House,4,2,2,413m² ,09 Dec 2021
+"500,000 ","8 Brown Court,",WODONGA VIC 3690,House,3,2,2,706m² ,07 Dec 2021
+"360,000 ","4 Beardmore Street,",WODONGA VIC 3690,House,3,1,1,614m² ,06 Dec 2021
+"900,000","7 AUHL COURT,",WODONGA VIC 3690,House,3,2,6,"4,193m² ",06 Dec 2021
+"595,000","3 Nelson Court,",WODONGA VIC 3690,House,4,2,2,878m² ,05 Dec 2021
+"440,000 ","2 Lawson Street,",WODONGA VIC 3690,House,3,1,2,849m² ,05 Dec 2021
+"481,000 ","1/266 Beechworth Road,",WODONGA VIC 3690,House,3,1,2,472m² ,2021
+"519,000 ","15 Victoria Cross Parade,",WODONGA VIC 3690,House,3,2,2,592m² ,03 Dec 2021
+"1,440,000","24 GLEN AVON TERRACE,",WODONGA VIC 3690,House,6,2,4,"2,363m² ",03 Dec 2021
+"425,000 ","3 Kookaburra Place,",WODONGA VIC 3690,House,3,1,1,685m² ,01 Dec 2021
+"1,125,000","102 HUME STREET,",WODONGA VIC 3690,House,4,1,12,"1,187m² ",2021
+"388,000","79 Gordon Street,",WODONGA VIC 3690,House,2,1,1,731m² ,30 Nov 2021
+"514,000","15 Amaroo Crescent,",WODONGA VIC 3690,House,4,2,2,752m² ,30 Nov 2021
+"467,500","13 Highland Crescent,",WODONGA VIC 3690,House,3,1,3,707m² ,30 Nov 2021
+"520,000 ","97 Mitchell Street,",WODONGA VIC 3690,House,3,1,6,887m² ,29 Nov 2021
+"470,000","31 KOETONG CRESCENT,",WODONGA VIC 3690,House,3,1,6,701m² ,29 Nov 2021
+"360,000 ","1/138 Brockley Street,",WODONGA VIC 3690,House,2,1,1,319m² ,25 Nov 2021
+"425,000 ","22 Gayview Drive,",WODONGA VIC 3690,House,3,1,5,713m² ,25 Nov 2021
+"575,000","19 Scarborough Drive,",WODONGA VIC 3690,House,5,2,4,801m² ,25 Nov 2021
+"382,500 ","25 Gayview Drive,",WODONGA VIC 3690,House,3,1,2,689m² ,25 Nov 2021
+"525,000 ","11 Wattle Court,",WODONGA VIC 3690,House,3,2,2,612m² ,25 Nov 2021
+"425,000","32 Kelly Street,",WODONGA VIC 3690,House,3,1,3,600m² ,24 Nov 2021
+"505,000 ","5 Milend Street,",WODONGA VIC 3690,House,4,2,2,545m² ,24 Nov 2021
+"597,000","15 LOWERSON WAY,",WODONGA VIC 3690,House,4,2,2,648m² ,24 Nov 2021
+"553,000","28 Rogers Avenue,",WODONGA VIC 3690,House,4,2,2,559m² ,23 Nov 2021
+"588,000 ","21 Lawson Street,",WODONGA VIC 3690,House,4,2,2,866m² ,20 Nov 2021
+"499,510 ","43 Axford Boulevard,",WODONGA VIC 3690,House,4,2,2,512m² ,19 Nov 2021
+"790,000 ","19 Binder Crescent,",WODONGA VIC 3690,House,4,2,2,"1,332m² ",18 Nov 2021
+"409,000 ","2 Jade Court,",WODONGA VIC 3690,House,3,1,2,705m² ,16 Nov 2021
+"550,000 ","378 Beechworth Road,",WODONGA VIC 3690,House,4,2,2,512m² ,16 Nov 2021
+"699,000 ","5 Ballyneal Terrace,",WODONGA VIC 3690,House,4,2,2,841m² ,15 Nov 2021
+"555,000 ","38 Leonard Street,",WODONGA VIC 3690,House,3,1,2,970m² ,2021
+"620,000 ","8 Central Place,",WODONGA VIC 3690,House,4,2,3,855m² ,2021
+"360,000 ","85C Marshall Street,",WODONGA VIC 3690,House,2,1,2,592m² ,12 Nov 2021
+"397,600","3 PROSPER COURT,",WODONGA VIC 3690,House,3,1,2,743m² ,12 Nov 2021
+"445,000 ","47 Gardner Street,",WODONGA VIC 3690,House,3,2,1,712m² ,11 Nov 2021
+"460,000 ","1 Lynch Court,",WODONGA VIC 3690,House,3,2,2,796m² ,11 Nov 2021
+"500,000 ","18 Milos Boulevard,",WODONGA VIC 3690,House,4,2,2,767m² ,10 Nov 2021
+"437,500 ","11 Deakin Court,",WODONGA VIC 3690,House,3,1,2,"1,045m² ",10 Nov 2021
+"565,000 ","25 Lightwood Drive,",WODONGA VIC 3690,House,4,2,2,833m² ,09 Nov 2021
+"535,000","15 MIDDLETON CRESCENT,",WODONGA VIC 3690,House,4,2,2,481m² ,09 Nov 2021
+"366,000 ","60 Nordsvan Drive,",WODONGA VIC 3690,House,3,1,1,506m² ,09 Nov 2021
+"490,000 ","75 Lawrence Street,",WODONGA VIC 3690,House,3,1,1,930m² ,08 Nov 2021
+"551,000","44 KELLIHER AVENUE,",WODONGA VIC 3690,House,3,2,2,660m² ,08 Nov 2021
+"645,000 ","8 Coulston Street,",WODONGA VIC 3690,House,5,2,3,891m² ,2021
+"335,000 ","17 Glenview Avenue,",WODONGA VIC 3690,House,3,1,2,636m² ,05 Nov 2021
+"370,000 ","10 Collins Street,",WODONGA VIC 3690,House,3,1,2,645m² ,04 Nov 2021
+"690,000 ","30 Erlandsen Circuit,",WODONGA VIC 3690,House,4,2,2,703m² ,04 Nov 2021
+"496,000 ","7 Hartwig Road,",WODONGA VIC 3690,House,3,2,3,903m² ,02 Nov 2021
+"695,000","8 Kestrel Circuit,",WODONGA VIC 3690,House,4,2,3,793m² ,29 Oct 2021
+"387,500 ","5 Fern Avenue,",WODONGA VIC 3690,House,3,1,1,583m² ,28 Oct 2021
+"495,000","18 ELMWOOD CIRCUIT,",WODONGA VIC 3690,House,3,2,2,182m² ,28 Oct 2021
+"345,000","17 HEREFORD STREET,",WODONGA VIC 3690,House,3,1,5,585m² ,28 Oct 2021
+"462,500 ","11 Mashie Way,",WODONGA VIC 3690,House,5,2,2,593m² ,28 Oct 2021
+"256,000 ","1/275 Lawrence Street,",WODONGA VIC 3690,House,2,1,1,146m² ,27 Oct 2021
+"595,000","140 DRAGE ROAD,",WODONGA VIC 3690,House,4,2,2,965m² ,26 Oct 2021
+"649,000 ","3 Grieve Way,",WODONGA VIC 3690,House,4,2,2,634m² ,25 Oct 2021
+"452,000 ","7 Holmes Court,",WODONGA VIC 3690,House,4,2,2,765m² ,25 Oct 2021
+"500,000 ","7 Niblick Street,",WODONGA VIC 3690,House,4,2,2,794m² ,23 Oct 2021
+"520,000 ","3 Fussel Court,",WODONGA VIC 3690,House,4,2,4,665m² ,23 Oct 2021
+"510,000 ","33 Leonard Street,",WODONGA VIC 3690,House,3,1,4,915m² ,22 Oct 2021
+"1,150,000","9 PEREGRINE PLACE,",WODONGA VIC 3690,House,6,2,5,"1,182m² ",22 Oct 2021
+"420,000 ","9 Sans Souci Drive,",WODONGA VIC 3690,House,4,2,2,734m² ,21 Oct 2021
+"810,000","2 Francis Court,",WODONGA VIC 3690,House,4,2,4,"1,991m² ",21 Oct 2021
+"530,000","31 Inwood Crescent,",WODONGA VIC 3690,House,3,2,2,479m² ,20 Oct 2021
+"425,000 ","3 Beryl Court,",WODONGA VIC 3690,House,4,1,2,917m² ,19 Oct 2021
+"2,000,000","6 Caernarvon Court,",WODONGA VIC 3690,House,5,5,4,"10,000m² ",19 Oct 2021
+"2,000,000 ","6 Caernarvon Court,",WODONGA VIC 3690,House,5,5,3,0,19 Oct 2021
+"393,000 ","5 Twomey Court,",WODONGA VIC 3690,House,3,2,3,658m² ,18 Oct 2021
+"502,000 ","23 Omeara Street,",WODONGA VIC 3690,House,4,2,2,451m² ,18 Oct 2021
+"435,000 ","34 Milos Boulevard,",WODONGA VIC 3690,House,3,1,1,699m² ,2021
+"1,150,000","92 Huon Creek Road,",WODONGA VIC 3690,House,4,3,3,"4,272m² ",5 Oct 2021
+"560,000 ","13 Lingford Court,",WODONGA VIC 3690,House,3,2,2,886m² ,15 Oct 2021
+"480,000 ","82 William Street,",WODONGA VIC 3690,House,4,2,2,793m² ,14 Oct 2021
+"530,000","5 Gurney Crescent,",WODONGA VIC 3690,House,4,2,2,475m² ,14 Oct 2021
+"430,000 ","4 Fade Court,",WODONGA VIC 3690,House,3,1,4,629m² ,13 Oct 2021
+"651,000 ","10 Hallawell Crescent,",WODONGA VIC 3690,House,4,2,5,"1,000m² ",13 Oct 2021
+"395,000","31 McFarland Road,",WODONGA VIC 3690,House,3,1,1,661m² ,12 Oct 2021
+"430,000","2 Mayfair Drive,",WODONGA VIC 3690,House,3,2,4,847m² ,12 Oct 2021
+"855,000","14 Romsey Court,",WODONGA VIC 3690,House,4,2,2,"2,200m² ",12 Oct 2021
+"468,000","9 Hogan Court,",WODONGA VIC 3690,House,3,1,2,746m² ,11 Oct 2021
+"351,000 ","3 Anderson Street,",WODONGA VIC 3690,House,3,1,1,600m² ,10 Oct 2021
+"326,000","2 Ballard Street,",WODONGA VIC 3690,House,3,1,3,629m² ,08 Oct 2021
+"380,000 ","1/47 Stanley Street,",WODONGA VIC 3690,House,3,1,2,459m² ,07 Oct 2021
+"510,000","8 Condamine Street,",WODONGA VIC 3690,House,4,2,2,577m² ,07 Oct 2021
+"435,000 ","5 Marie Drive,",WODONGA VIC 3690,House,3,1,1,590m² ,2021
+"1,100,000","23 Lambourn Drive,",WODONGA VIC 3690,House,4,2,2,"4,775m² ",06 Oct 2021
+"465,000 ","6 Cole Court,",WODONGA VIC 3690,House,3,2,2,747m² ,05 Oct 2021
+"579,000","20 Isdell Place,",WODONGA VIC 3690,House,4,2,2,600m² ,05 Oct 2021
+"409,000 ","7 Fletcher Court,",WODONGA VIC 3690,House,3,1,3,643m² ,05 Oct 2021
+"391,500 ","27 Lawrence Street,",WODONGA VIC 3690,House,3,1,1,790m² ,01 Oct 2021
+"501,000 ","123 Hume Street,",WODONGA VIC 3690,House,3,1,3,616m² ,2021
+"699,000 ","11 Millar Court,",WODONGA VIC 3690,House,4,3,4,840m² ,30 Sep 2021
+"425,000 ","12 Topaz Court,",WODONGA VIC 3690,House,4,2,4,740m² ,30 Sep 2021
+"710,000","8 Lingford Court,",WODONGA VIC 3690,House,4,2,4,"1,739m² ",30 Sep 2021
+"585,000","2 LUCAS COURT,",WODONGA VIC 3690,House,4,2,2,770m² ,30 Sep 2021
+"470,000 ","16 Poplar Street,",WODONGA VIC 3690,House,4,2,2,762m² ,30 Sep 2021
+"435,000 ","9 Eltham Court,",WODONGA VIC 3690,House,3,2,2,638m² ,29 Sep 2021
+"960,000 ","50 Huon Creek Road,",WODONGA VIC 3690,House,5,3,3,"2,170m² ",29 Sep 2021
+"435,000","3 MCDERMOTT COURT,",WODONGA VIC 3690,House,3,1,1,971m² ,28 Sep 2021
+"362,500","26 Fulford St,",WODONGA VIC 3690,House,3,1,3,571m² ,28 Sep 2021
+"511,000 ","21 Central Place,",WODONGA VIC 3690,House,3,2,1,529m² ,27 Sep 2021
+"379,000","75 Mayfair Drive,",WODONGA VIC 3690,House,4,1,2,692m² ,23 Sep 2021
+"360,000 ","102 Thomas Mitchell Drive,",WODONGA VIC 3690,House,3,2,2,793m² ,23 Sep 2021
+"630,000 ","8 Donnington Drive,",WODONGA VIC 3690,House,3,2,3,884m² ,22 Sep 2021
+"426,000","18 Derrick Street,",WODONGA VIC 3690,House,3,2,1,262m² ,22 Sep 2021
+"349,000 ","3 Bartel Court,",WODONGA VIC 3690,House,3,1,1,587m² ,21 Sep 2021
+"600,000 ","15 Tanner Terrace,",WODONGA VIC 3690,House,5,3,2,935m² ,21 Sep 2021
+"435,000 ","13 Primrose Way,",WODONGA VIC 3690,House,4,2,2,677m² ,18 Sep 2021
+"322,000 ","8 Milan Court,",WODONGA VIC 3690,House,3,1,1,687m² ,17 Sep 2021
+"899,000","13 Kestrel Circuit,",WODONGA VIC 3690,House,4,3,5,"1,032m² ",17 Sep 2021
+"359,000 ","2/5 Milos Boulevard,",WODONGA VIC 3690,House,3,1,2,440m² ,16 Sep 2021
+"350,000 ","1 Fulford Street,",WODONGA VIC 3690,House,3,1,1,617m² ,15 Sep 2021
+"482,500 ","4 Anglesey Street,",WODONGA VIC 3690,House,3,2,2,344m² ,14 Sep 2021
+"360,000 ","3 Mylon Court,",WODONGA VIC 3690,House,3,1,2,747m² ,14 Sep 2021
+"390,000 ",,WODONGA VIC 3690,House,3,2,2,400m² ,13 Sep 2021
+"499,000 ","29 Hartwig Road,",WODONGA VIC 3690,House,4,2,2,"1,329m² ",13 Sep 2021
+"519,000 ","1 Porta Court,",WODONGA VIC 3690,House,4,2,2,766m² ,10 Sep 2021
+"480,000 ","4 Nordsvan Drive,",WODONGA VIC 3690,House,4,2,1,805m² ,09 Sep 2021
+"545,000 ",,WODONGA VIC 3690,House,4,2,2,859m² ,09 Sep 2021
+"400,000","9 Dundee Drive,",WODONGA VIC 3690,House,3,1,2,849m² ,06 Sep 2021
+"475,000 ","44 Gordon Street,",WODONGA VIC 3690,House,5,2,2,673m² ,06 Sep 2021
+"575,000 ","2 Ballara Drive,",WODONGA VIC 3690,House,4,2,2,905m² ,03 Sep 2021
+"530,000 ","13 Cottlesloe Court,",WODONGA VIC 3690,House,3,2,2,434m² ,03 Sep 2021
+"540,000","6 Cardiff Drive,",WODONGA VIC 3690,House,4,2,3,612m² ,03 Sep 2021
+"440,000 ","3 Samantha Terrace,",WODONGA VIC 3690,House,3,2,4,415m² ,02 Sep 2021
+"500,000 ","72 Barton Street,",WODONGA VIC 3690,House,4,2,2,699m² ,30 Aug 2021
+"930,000","132 Lawrence Street,",WODONGA VIC 3690,House,5,2,4,"1,616m² ",30 Aug 2021
+"609,000","26 Blue Bonnet Way,",WODONGA VIC 3690,House,4,2,2,773m² ,27 Aug 2021
+"415,000","37 Wilson Street,",WODONGA VIC 3690,House,3,1,1,809m² ,2021
+"350,000 ","1/38 Brockley Street,",WODONGA VIC 3690,House,3,1,2,518m² ,26 Aug 2021
+"411,000 ","4 Lynch Court,",WODONGA VIC 3690,House,4,2,2,769m² ,23 Aug 2021
+"365,000 ","2 Thomas Place,",WODONGA VIC 3690,House,3,1,2,568m² ,23 Aug 2021
+"565,000","4 Swansea Close,",WODONGA VIC 3690,House,4,2,3,707m² ,20 Aug 2021
+"595,000 ","11 Derrick Street,",WODONGA VIC 3690,House,4,2,4,640m² ,20 Aug 2021
+"428,000","13 Kelliher Avenue,",WODONGA VIC 3690,House,3,2,2,360m² ,19 Aug 2021
+"420,000","390 Lawrence Street,",WODONGA VIC 3690,House,4,1,2,747m² ,18 Aug 2021
+"435,000","29 AMBROSE CRESCENT,",WODONGA VIC 3690,House,3,2,2,416m² ,18 Aug 2021
+"401,000 ","13 Ruby Road,",WODONGA VIC 3690,House,3,2,2,633m² ,18 Aug 2021
+"395,000 ","11 Wagner Place,",WODONGA VIC 3690,House,3,1,5,443m² ,18 Aug 2021
+"647,000","10 Bremer Avenue,",WODONGA VIC 3690,House,4,2,2,651m² ,16 Aug 2021
+"470,000 ","20 lloyd St,",WODONGA VIC 3690,House,4,2,4,779m² ,16 Aug 2021
+"521,500","9 Kennedy Court,",WODONGA VIC 3690,House,3,2,2,950m² ,16 Aug 2021
+"639,000 ","23 Yarralumla Drive,",WODONGA VIC 3690,House,5,2,3,"1,048m² ",15 Aug 2021
+"500,000","3 Grange Close,",WODONGA VIC 3690,House,3,2,2,429m² ,13 Aug 2021
+"430,000 ","1 Lanark Court,",WODONGA VIC 3690,House,4,2,3,780m² ,13 Aug 2021
+"520,000","26 BLACKWOOD AVENUE,",WODONGA VIC 3690,House,4,2,2,546m² ,13 Aug 2021
+"321,000","16 HEREFORD STREET,",WODONGA VIC 3690,House,3,1,−,633m² ,12 Aug 2021
+"680,000","12 Warwick Road,",WODONGA VIC 3690,House,3,2,2,"1,144m² ",12 Aug 2021
+"360,000","37 NICOLE CRESCENT,",WODONGA VIC 3690,House,3,1,3,609m² ,12 Aug 2021
+"590,000","5 Harkin Street,",WODONGA VIC 3690,House,4,2,2,714m² ,10 Aug 2021
+"425,000 ","2 Anglesey Street,",WODONGA VIC 3690,House,3,2,2,345m² ,09 Aug 2021
+"299,000 ","103 Tarakan Street,",WODONGA VIC 3690,House,3,1,1,486m² ,07 Aug 2021
+"621,500 ","4 McGrath Court,",WODONGA VIC 3690,House,4,2,2,"1,145m² ",2021
+"690,000","1 Pem Cove,",WODONGA VIC 3690,House,4,2,3,625m² ,06 Aug 2021
+"410,000","53 Menzies Street,",WODONGA VIC 3690,House,3,1,2,829m² ,06 Aug 2021
+"369,000","10 Wattle Court,",WODONGA VIC 3690,House,3,1,2,634m² ,06 Aug 2021

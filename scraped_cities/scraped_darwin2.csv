@@ -1,0 +1,931 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"277,500 ","514/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,17 Apr 2024
+"235,000 ","307/3-5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,51m² ,05 Apr 2024
+"727,000 ","129/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,167m² ,4 Apr 2024
+"350,000 ","11/4 Foelsche Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,116m² ,28 Mar 2024
+"415,000 ","1308/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,107m² ,26 Mar 2024
+"460,000 ","304/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,74m² ,19 Mar 2024
+"496,000 ","38/96 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,194m² ,13 Mar 2024
+"447,500 ","57/93 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,101m² ,11 Mar 2024
+"480,000 ","6701/7 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,82m² ,1 Mar 2024
+"510,000 ","301/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,74m² ,07 Mar 2024
+"670,000 ","20/29 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,264m² ,28 Feb 2024
+"330,000 ","907/79 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,23 Feb 2024
+"489,000 ","14/12 Dashwood Place,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,185m² ,12 Feb 2024
+"415,000 ","58/5 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,174m² ,09 Feb 2024
+"385,000 ","40/108 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,152m² ,07 Feb 2024
+"374,000 ","6/110 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,61m² ,03 Jan 2024
+"520,000 ","48/8 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,138m² ,22 Dec 2023
+"293,000 ","403/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,89m² ,22 Dec 2023
+"435,000 ","710/12 Harvey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,129m² ,15 Dec 2023
+"960,000 ","20/84 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,185m² ,15 Dec 2023
+"870,000 ","121/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,167m² ,13 Dec 2023
+"315,000 ","610/79 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,05 Dec 2023
+"420,000 ","902/24 Litchfield Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,115m² ,04 Dec 2023
+"870,000 ","13/13 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,215m² ,01 Dec 2023
+"475,000 ","1409/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,110m² ,21 Nov 2023
+"620,000 ","220/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,166m² ,20 Nov 2023
+"540,000 ","42/96 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,197m² ,14 Nov 2023
+"440,000 ","13/107 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,195m² ,13 Nov 2023
+"285,000 ","33/7 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,60m² ,11 Nov 2023
+"400,000 ","29/3 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,144m² ,06 Nov 2023
+"575,000 ","10/8 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,1,209m² ,25 Oct 2023
+"450,000 ","21/1 Buffalo Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,114m² ,23 Oct 2023
+"375,000 ","602/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,115m² ,19 Oct 2023
+"200,000 ","20/79 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,54m² ,19 Oct 2023
+"255,000 ","1114/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,65m² ,13 Oct 2023
+"320,000","1204/16 Harvey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,85m² ,13 Oct 2023
+"313,500 ","1006/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,88m² ,12 Oct 2023
+"335,000 ","4/6 Shepherd Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,76m² ,10 Oct 2023
+"435,000 ","9/6 Foelsche Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,157m² ,05 Oct 2023
+"276,000 ","1306/6 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,64m² ,22 Sep 2023
+"405,000 ","8/130 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,142m² ,19 Sep 2023
+"220,000 ","604/6 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,54m² ,15 Sep 2023
+"440,000 ","8/8 Mauna Loa Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,145m² ,14 Sep 2023
+"410,000 ","67/5 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,144m² ,12 Sep 2023
+"770,000 ","203/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,242m² ,11 Sep 2023
+"430,000","1305/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,116m² ,07 Sep 2023
+"170,000 ","34/115-117 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,72m² ,05 Sep 2023
+"270,000 ","605/24 Litchfield Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,94m² ,23 Aug 2023
+"305,000 ","13/5 Harriet Place,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,83m² ,11 Aug 2023
+"440,000 ","601/24 Litchfield Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,137m² ,11 Aug 2023
+"400,000 ","9/14 Dashwood Place,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,171m² ,24 Jul 2023
+"360,000 ","7/27 Mcminn Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,120m² ,05 Jul 2023
+"210,000 ","412/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,50m² ,04 Jul 2023
+"450,000 ","6207/7 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,81m² ,29 Jun 2023
+"425,000","502/29 Daly Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,124m² ,27 Jun 2023
+"600,000 ","12/3 Harvey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,4,2,2,256m² ,23 Jun 2023
+"475,000 ","26/144 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,171m² ,20 Jun 2023
+"330,000 ","1307/16 Harvey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,85m² ,11 Jun 2023
+"515,000 ","37/10 Doctors Gully Road,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,113m² ,08 Jun 2023
+"455,000 ","8/107 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,192m² ,30 May 2023
+"540,000 ","8/44 McLachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,196m² ,29 May 2023
+"412,000 ","19/101 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,163m² ,23 May 2023
+"447,500 ",,DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,1,165m² ,22 May 2023
+"600,000 ","5104/5 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,119m² ,16 May 2023
+"425,000 ","203/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,2,86m² ,27 Apr 2023
+"419,000 ","605/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,114m² ,21 Apr 2023
+"292,000 ","3053/55 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,95m² ,17 Apr 2023
+"465,000 ","1209/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,107m² ,13 Apr 2023
+"445,000 ","1002/24 Litchfield Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,115m² ,28 Mar 2023
+"219,000 ","33/117 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,73m² ,23 Mar 2023
+"775,000 ","1832/27 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,218m² ,20 Mar 2023
+"160,000 ","85/21 Cavenagh Street,",DARWIN CITY NT 0800,Studio,1,1,1,52m² ,19 Mar 2023
+"230,000","514/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,02 Mar 2023
+"490,000 ","904/16 Harvey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,158m² ,26 Feb 2023
+"760,000 ","108/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,241m² ,23 Feb 2023
+"199,000 ","509/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,50m² ,15 Feb 2023
+"755,000 ","2007/43E Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,224m² ,03 Feb 2023
+"830,000 ","313/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,250m² ,02 Feb 2023
+"505,555 ","605/29 Daly Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,144m² ,16 Jan 2023
+"600,000","5204/5 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,119m² ,10 Jan 2023
+"470,000","1101/24 Litchfield Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,132m² ,22 Dec 2022
+"625,000","4106/3 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,147m² ,15 Dec 2022
+"435,000 ","3/107 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,192m² ,29 Nov 2022
+"390,000 ","37/3 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,263m² ,28 Nov 2022
+"380,000 ","33/3 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,153m² ,22 Nov 2022
+"480,000 ","359/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,85m² ,2022
+"482,000 ","708/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,101m² ,22 Nov 2022
+"260,000 ","3056/55 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,100m² ,10 Nov 2022
+"355,000 ","15/4 McMinn Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,154m² ,04 Nov 2022
+"900,000 ","115/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,−,160m² ,31 Oct 2022
+"320,000 ","709/79 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,24 Oct 2022
+"375,000 ","1310/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,−,93m² ,21 Oct 2022
+"940,000 ","231/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,160m² ,21 Oct 2022
+"730,000 ","341/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,130m² ,04 Oct 2022
+"297,500 ","304/79 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,29 Sep 2022
+"385,000 ","18/43-45 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,147m² ,27 Sep 2022
+"425,000 ","301/39 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,114m² ,26 Sep 2022
+"240,100 ","1513/43 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,65m² ,23 Sep 2022
+"520,000","1607/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,117m² ,20 Sep 2022
+"435,000 ","11/3 Mauna Loa Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,151m² ,06 Sep 2022
+"315,000","17/91 McMinn Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,137m² ,05 Sep 2022
+"465,000 ","1/32 Mclachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,205m² ,31 Aug 2022
+"534,000","24/1 Dashwood Place,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,"776,996m² ",30 Aug 2022
+"950,500 ","424/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,236m² ,23 Aug 2022
+"360,000 ","6/9 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,138m² ,15 Aug 2022
+"485,000 ","3/32 McLachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,179m² ,15 Aug 2022
+"480,000 ","25/3 Manton Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,132m² ,12 Aug 2022
+"180,000 ","38/117 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,52m² ,12 Aug 2022
+"375,000 ","9/144 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,158m² ,11 Aug 2022
+"975,000 ","329/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,165m² ,05 Aug 2022
+"250,000","7/117 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,2,136m² ,05 Aug 2022
+"775,000","35/24 Harry Chan Avenue,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,3,4,340m² ,02 Aug 2022
+"475,000 ","126/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,93m² ,29 Jul 2022
+"180,000 ","38/117 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,52m² ,25 Jul 2022
+"1,020,000","34/15 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,223m² ,14 Jul 2022
+"390,000 ","24/144 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,156m² ,14 Jul 2022
+"487,000 ","1/2 Lindsay Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,181m² ,14 Jun 2022
+"310,000 ","707/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,−,92m² ,27 May 2022
+"285,000 ","1711/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,65m² ,25 May 2022
+"257,000 ","1009/55 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,95m² ,20 May 2022
+"222,000 ","1006/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,62m² ,19 May 2022
+"472,500 ","7/3 Mauna Loa Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,173m² ,18 May 2022
+"422,500 ","2/3 Manton Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,112m² ,10 May 2022
+"215,000","910/3-5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,50m² ,06 May 2022
+"185,000 ","913/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,51m² ,06 May 2022
+"347,500 ","50/5 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,141m² ,29 Apr 2022
+"340,000 ","310/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,74m² ,29 Apr 2022
+"380,000 ","802/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,111m² ,22 Apr 2022
+"850,000 ","426/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,237m² ,20 Apr 2022
+"440,000 ","32/28-30 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,118m² ,13 Apr 2022
+"470,000 ","11/2 Manton Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,174m² ,11 Apr 2022
+"660,000 ","323/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,125m² ,2022
+"495,000 ","1/3 Mauna Loa Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,173m² ,08 Apr 2022
+"315,000","805/79 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,30 Mar 2022
+"310,000","4/6 Shepherd Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,76m² ,25 Mar 2022
+"395,000 ","904/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,100m² ,18 Mar 2022
+"402,000 ","82/9 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,177m² ,14 Mar 2022
+"331,000 ","8/88 Woods Street,",DARWIN CITY NT 0800,Townhouse,2,1,1,111m² ,10 Mar 2022
+"1,300,000 ","2802/43E Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,3,2,341m² ,07 Mar 2022
+"290,000 ","37/9 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,2,112m² ,07 Mar 2022
+"1,985,000 ","39 McMinn Street,",DARWIN CITY NT 0800,Townhouse,12,8,4,919m² ,07 Mar 2022
+"875,000 ","335/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,− 0,− 0,2,158m² ,03 Mar 2022
+"243,000 ","713/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,65m² ,28 Feb 2022
+"575,000 ","12/7 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,181m² ,15 Feb 2022
+"710,000 ","1/17 Gardens Hill Crescent,",DARWIN CITY NT 0800,Townhouse,3,2,2,319m² ,11 Feb 2022
+"300,000 ","84/9 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,2,112m² ,10 Feb 2022
+"720,000","702/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,116m² ,10 Feb 2022
+"445,000 ","1510/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,110m² ,01 Feb 2022
+"495,000 ","1007/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,119m² ,31 Jan 2022
+"569,000 ","2601/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,123m² ,21 Jan 2022
+"265,000 ","604/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,98m² ,21 Jan 2022
+"351,000 ","1601/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,−,105m² ,20 Jan 2022
+"290,000","717/6 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,61m² ,11 Jan 2022
+"875,000","116/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,243m² ,07 Jan 2022
+"365,000","8/91 McMinn Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,137m² ,05 Jan 2022
+"360,000 ","11/1 Buffalo Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,102m² ,04 Jan 2022
+"375,000 ","901/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,97m² ,23 Dec 2021
+"415,500","2/18 Harry Chan Avenue,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,149m² ,13 Dec 2021
+"495,000 ","9/3 Mauna Loa Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,169m² ,07 Dec 2021
+"669,000 ","320/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,130m² ,2021
+"340,000 ","701/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,97m² ,23 Nov 2021
+"525,000 ","31/8 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,1,178m² ,17 Nov 2021
+"255,000 ","404/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,98m² ,10 Nov 2021
+"460,000 ","5/32 McLachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,175m² ,02 Nov 2021
+"320,000 ","801/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,97m² ,01 Nov 2021
+"390,000 ","6/43 McLachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,154m² ,25 Oct 2021
+"329,000 ","1418/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,−,105m² ,18 Oct 2021
+"195,000 ","611/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,50m² ,15 Oct 2021
+"575,000 ","2503/43E Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,3,2,185m² ,12 Oct 2021
+"260,000 ","3044/55 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,100m² ,11 Oct 2021
+"762,500","105/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,240m² ,06 Oct 2021
+"400,000 ","6/8 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,136m² ,01 Oct 2021
+"285,000 ","1717/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,−,85m² ,01 Oct 2021
+"284,000 ","5/9 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,2,112m² ,29 Sep 2021
+"182,500 ","26/117 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,− 0,1,1,51m² ,24 Sep 2021
+"920,000 ","6/84 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,205m² ,22 Sep 2021
+"517,500 ","705/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,111m² ,21 Sep 2021
+"760,000 ","109/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,237m² ,08 Sep 2021
+"395,000 ","18/9 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,138m² ,06 Sep 2021
+"800,000 ","209/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,242m² ,03 Sep 2021
+"440,000 ","13/7 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,164m² ,03 Sep 2021
+"760,000 ","208/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,3,164m² ,02 Sep 2021
+"690,000 ","2001/43E Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,3,2,312m² ,02 Sep 2021
+"291,000 ","310/79 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,25 Aug 2021
+"335,000","7/3 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,142m² ,24 Aug 2021
+"630,000 ","2406/43E Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,203m² ,20 Aug 2021
+"190,000","909/3-5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,50m² ,12 Aug 2021
+"170,000 ","21/117 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,51m² ,04 Aug 2021
+"510,000","43/8 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,1,178m² ,04 Aug 2021
+"260,000 ","508/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,99m² ,28 Jul 2021
+"900,000 ","413/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,242m² ,26 Jul 2021
+"405,000 ","13/107 woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,195m² ,22 Jul 2021
+"300,000","8/110 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,61m² ,19 Jul 2021
+"270,000 ","42/1 Buffalo Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,− 0,1,1,55m² ,24 Jun 2021
+"530,000","27/29 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,186m² ,24 Jun 2021
+"435,000 ","2104/43E Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,144m² ,22 Jun 2021
+"430,000 ","13/96 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,197m² ,28 May 2021
+"400,000 ","703/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,172m² ,24 May 2021
+"230,000 ","408/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,99m² ,2021
+"392,500 ","1103/6 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,137m² ,2021
+"930,000 ","321/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,−,249m² ,31 Mar 2021
+"270,000 ","707/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,74m² ,23 Mar 2021
+"730,000 ","211/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,246m² ,22 Mar 2021
+"648,000 ","6506/7 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,102m² ,18 Mar 2021
+"750,000 ","215/130 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,241m² ,12 Mar 2021
+"355,000 ","3/18 Harry Chan Avenue,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,"2,663m² ",10 Mar 2021
+"482,500 ","39/96 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,195m² ,04 Mar 2021
+"590,000 ","330/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,125m² ,17 Feb 2021
+"305,000 ","15/30 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,117m² ,05 Feb 2021
+"200,000","7/86 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,100m² ,04 Feb 2021
+"550,000 ","8012/27 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,210m² ,28 Jan 2021
+"430,000","20/43 McLachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,193m² ,22 Jan 2021
+"347,000 ","706/24 Litchfield Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,133m² ,24 Dec 2020
+"365,000 ","9/2 Lindsay Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,−,169m² ,21 Dec 2020
+"750,000","271/8A Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,4,2,2,258m² ,07 Dec 2020
+"250,000 ","45/9 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,2,114m² ,25 Nov 2020
+"318,000 ","4/9 Carey St,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,178m² ,12 Nov 2020
+"335,000 ","202/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,2,83m² ,26 Oct 2020
+"219,000 ","1102/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,−,62m² ,23 Oct 2020
+"250,000 ","12/94 Woods Street,",DARWIN CITY NT 0800,Townhouse,2,1,1,115m² ,16 Oct 2020
+"640,000","22/29 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,244m² ,27 Aug 2020
+"560,000 ","6205/7 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,103m² ,24 Aug 2020
+"235,000","102/44 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,113m² ,30 Jul 2020
+"505,000 ","106/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,167m² ,08 Jul 2020
+"247,000","16/24 Harvey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,134m² ,03 Jul 2020
+"106,000 ","1/86 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,57m² ,03 Jul 2020
+"635,000 ","1219/27 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,219m² ,12 Jun 2020
+"210,000 ","606/6 Carey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,64m² ,12 Jun 2020
+"255,000","25/93 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,101m² ,04 Jun 2020
+"660,000 ","367/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,169m² ,01 Jun 2020
+"690,000 ","2612/31 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,3,2,330m² ,14 May 2020
+"300,000 ","62/5 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,145m² ,08 May 2020
+"720,000 ","370/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,169m² ,23 Apr 2020
+"190,000 ","1001/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,84m² ,23 Apr 2020
+"670,000 ","1423/27 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,221m² ,14 Feb 2020
+"222,500 ","6/78 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,114m² ,16 Dec 2019
+"357,000 ","12/39 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,1,120m² ,06 Dec 2019
+"375,000","48/108 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,173m² ,28 Nov 2019
+"200,000","6/124 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,96m² ,06 Nov 2019
+"400,000 ","130/19B Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,93m² ,06 Nov 2019
+"250,000 ","1518/43B Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,−,105m² ,06 Nov 2019
+"510,000 ","117/19 Kitchener Drive,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,167m² ,29 Oct 2019
+"450,000 ","38/96 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,194m² ,17 Oct 2019
+"350,000 ","23/43 McLachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,153m² ,04 Oct 2019
+"215,000 ","2/7 Finniss Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,−,54m² ,18 Sep 2019
+"263,000 ","27/30 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,132m² ,13 Sep 2019
+"245,000 ","2/43 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,149m² ,29 Aug 2019
+"370,000","15/101 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,150m² ,07 Aug 2019
+"330,000 ","1/80 Woods Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,169m² ,24 Jul 2019
+"190,000","1/6 Shepherd Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,76m² ,24 Jun 2019
+"365,000 ","27/1 Buffalo Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,1,114m² ,24 Jun 2019
+"173,000","44/79 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,54m² ,31 May 2019
+"1,150,000 ","92 Woods Street,",DARWIN CITY NT 0800,Block of units,9,8,8,876m² ,2019
+"400,000","84/5 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,420m² ,07 May 2019
+"405,000 ","8/7 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,183m² ,02 May 2019
+"243,000 ","310/79 Smith Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,66m² ,01 May 2019
+"280,000 ","1110/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,74m² ,26 Apr 2019
+"305,000 ","2/69 McMinn Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,183m² ,09 Apr 2019
+"189,000 ","409/5 Gardiner Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,50m² ,05 Apr 2019
+"560,000","4106/3 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,147m² ,05 Apr 2019
+"185,000 ","30/1 Buffalo Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,− 0,1,1,55m² ,08 Mar 2019
+"99,000","2030/55 Cavenagh Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,77m² ,24 Dec 2018
+"870,000","1102/102 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,145m² ,30 Nov 2018
+"430,000 ","6/99 Gardens Road,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,2,2,183m² ,16 Nov 2018
+"320,000","35/3 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,249m² ,09 Nov 2018
+"405,000 ","6802/7 Anchorage Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,77m² ,15 Oct 2018
+"340,000 ","14/3 Cardona Court,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,195m² ,25 Sep 2018
+"400,000 ","1/2 Manton Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,1,336m² ,07 Sep 2018
+"875,000 ","47/15 Esplanade,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,2,218m² ,27 Jun 2018
+"215,000","1/51 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,1,1,1,80m² ,05 Jun 2018
+"405,000 ","30/101 Mitchell Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,151m² ,23 May 2018
+"295,000 ","1/46 McLachlan Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,1,1,273m² ,10 May 2018
+"467,500 ","22/8 Knuckey Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,3,2,1,212m² ,09 Apr 2018
+"280,000 ","6/91 McMinn Street,",DARWIN CITY NT 0800,Apartment / Unit / Flat,2,2,2,136m² ,29 Mar 2018
+"480,000 ","2/10 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,246m² ,24 Apr 2024
+"741,000 ","1/52 Bayview Boulevard,",BAYVIEW NT 0820,Townhouse,3,2,2,374m² ,2024
+"520,000 ","1/59 Bayview Boulevard,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,221m² ,19 Apr 2024
+"310,000 ","25/10 Doctors Gully Road,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,1,1,1,81m² ,10 Apr 2024
+"860,000 ","4/14 Bayview Street,",FANNIE BAY NT 0820,Townhouse,4,3,2,449m² ,09 Apr 2024
+"582,000 ","3/21 George Crescent,",FANNIE BAY NT 0820,Townhouse,3,1,2,300m² ,7 Apr 2024
+"500,000 ","26/58 Bayview Boulevard,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,172m² ,28 Mar 2024
+"420,000 ","23/3 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,159m² ,28 Mar 2024
+"775,000 ","9/4 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,258m² ,27 Mar 2024
+"370,000 ","59 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,660m² ,7 Mar 2024
+"469,000 ","1/12 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,224m² ,26 Mar 2024
+"333,000 ","5/11 Queen Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,139m² ,5 Mar 2024
+"730,000 ","1/17 Gardens Hill Crescent,",THE GARDENS NT 0820,Apartment / Unit / Flat,3,2,2,319m² ,25 Mar 2024
+"397,500 ","14/16-18 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,178m² ,22 Mar 2024
+"502,000 ","62 O'Ferrals Road,",BAYVIEW NT 0820,Vacant land,0,0,0,752m² ,18 Mar 2024
+"900,000","30/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,4,252m² ,15 Mar 2024
+"770,000 ","17/3 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,213m² ,4 Mar 2024
+"750,000 ","4/1 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,342m² ,13 Mar 2024
+"700,000 ","44/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,319m² ,12 Mar 2024
+"472,500 ","18/7 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,156m² ,12 Mar 2024
+"1,075,000 ","3/32 George Crescent,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,2,2,233m² ,09 Mar 2024
+"325,000 ","5105/4 Kurringal Court,",FANNIE BAY NT 0820,Apartment / Unit / Flat,1,1,1,76m² ,05 Mar 2024
+"740,000 ","7/4 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,252m² ,05 Mar 2024
+"385,000 ","9/9 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,150m² ,28 Feb 2024
+"715,000 ","2/2 Graham Street,",STUART PARK NT 0820,Townhouse,4,2,5,323m² ,23 Feb 2024
+"370,000 ","73/32 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,116m² ,15 Feb 2024
+"555,000 ","5/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,169m² ,08 Feb 2024
+"289,000 ","65/23 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,07 Feb 2024
+"770,000","1/3 Mccoll Street,",FANNIE BAY NT 0820,Townhouse,5,4,3,685m² ,05 Feb 2024
+"725,000 ","5 Goldsmith Street,",FANNIE BAY NT 0820,Vacant land,0,0,0,"1,050m² ",2024
+"425,000 ","5/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,172m² ,25 Jan 2024
+"662,750 ","10/17 Dinah Court,",STUART PARK NT 0820,Townhouse,3,3,2,186m² ,22 Jan 2024
+"325,000 ","9/16 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,1,76m² ,17 Jan 2024
+"470,000 ","22/5 Brewery,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,173m² ,16 Jan 2024
+"338,000 ","7/1 Morinda Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,940m² ,12 Jan 2024
+"485,000 ","1/5 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,200m² ,10 Jan 2024
+"330,000 ","1/16 Henry Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,4,273m² ,18 Dec 2023
+"640,000","4/2 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,3,405m² ,11 Dec 2023
+"1,050,000 ","3/25 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,3,2,362m² ,07 Dec 2023
+"370,000 ","54/3 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,2,2,2,148m² ,06 Dec 2023
+"382,000 ","15/60 East Point Road,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,2,125m² ,06 Dec 2023
+"405,000 ","6/14 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,138m² ,06 Dec 2023
+"375,000 ","49/3 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,2,2,2,187m² ,04 Dec 2023
+"740,000","15/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,203m² ,04 Dec 2023
+"440,000 ","4/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,328m² ,01 Dec 2023
+"323,000 ","5203/4 Kurringal Court,",FANNIE BAY NT 0820,Apartment / Unit / Flat,1,1,1,77m² ,01 Dec 2023
+"640,000 ","2/3 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,214m² ,30 Nov 2023
+"305,000 ","16/6 Drysdale Street,",PARAP NT 0820,Townhouse,2,2,1,94m² ,29 Nov 2023
+"675,000","6/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,3,2,205m² ,3 Nov 2023
+"440,000 ","5/5 Lambell Terrace,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,163m² ,17 Nov 2023
+"615,000 ","2/39 Bermingham Crescent,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,3,338m² ,10 Nov 2023
+"410,000 ","9/3 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,176m² ,10 Nov 2023
+"415,000 ","12/37 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,"1,520m² ",10 Nov 2023
+"412,500 ","23/4 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,157m² ,08 Nov 2023
+"430,000 ","17/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,181m² ,07 Nov 2023
+"420,000 ","12/9 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,168m² ,06 Nov 2023
+"568,000 ","6/6 Stoddart Drive,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,299m² ,01 Nov 2023
+"400,000 ","62/30 Parap Road,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,152m² ,01 Nov 2023
+"340,000 ","56/32 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,86m² ,31 Oct 2023
+"685,000 ","1/27 Fanning Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,440m² ,30 Oct 2023
+"299,500 ","21/23 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,27 Oct 2023
+"395,000 ","19/31 Gardens Hill CR,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,1,2,223m² ,25 Oct 2023
+"600,000 ","4/5 Duke Street,",STUART PARK NT 0820,Townhouse,3,2,2,380m² ,19 Oct 2023
+"255,000 ","8/26 Nudl Street,",STUART PARK NT 0820,Apartment / Unit / Flat,1,1,1,52m² ,17 Oct 2023
+"650,000 ","4/15 Packard Street,",LARRAKEYAH NT 0820,Townhouse,3,2,2,366m² ,13 Oct 2023
+"595,000 ","47/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,327m² ,0 Oct 2023
+"267,000 ","92/16 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,06 Oct 2023
+"580,000 ","2/55 Stoddart Dr,",BAYVIEW NT 0820,Townhouse,3,2,2,309m² ,05 Oct 2023
+"630,000 ","42/20 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,2,136m² ,05 Oct 2023
+"295,500 ","4/124 Mitchell Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,101m² ,05 Oct 2023
+"420,000 ","6/6 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,158m² ,04 Oct 2023
+"449,000 ","12/7 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,178m² ,28 Sep 2023
+"527,000 ","4/2 Dinah Court,",STUART PARK NT 0820,Townhouse,3,2,2,287m² ,12 Sep 2023
+"520,000 ","5/4 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,227m² ,07 Sep 2023
+"450,000 ","2/3 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,216m² ,07 Sep 2023
+"350,000 ","398/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,121m² ,06 Sep 2023
+"720,000 ","6/53 Bayview Boulevard,",BAYVIEW NT 0820,Townhouse,3,2,2,344m² ,04 Sep 2023
+"1,130,000 ","4/17 Packard Street,",LARRAKEYAH NT 0820,Townhouse,3,3,4,419m² ,04 Sep 2023
+"680,000 ","3/78 O'ferrals Road,",BAYVIEW NT 0820,Townhouse,3,2,2,432m² ,30 Aug 2023
+"400,000 ","6/7 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,2,127m² ,30 Aug 2023
+"685,000 ","1/14 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,2,2,435m² ,29 Aug 2023
+"470,000 ","1/3 Queen Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,153m² ,24 Aug 2023
+"525,000","9/41 Bermingham Crescent,",BAYVIEW NT 0820,Townhouse,3,3,2,271m² ,18 Aug 2023
+"330,000 ","4/17 Bayview Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,132m² ,18 Aug 2023
+"365,000 ","10/7 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,149m² ,18 Aug 2023
+"450,000 ","25/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,182m² ,17 Aug 2023
+"440,000 ","64/32 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,1,1,86m² ,14 Aug 2023
+"480,000 ","502B/2 Mauna Loa Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,112m² ,11 Aug 2023
+"465,000 ","5/9 Drysdale Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,166m² ,11 Aug 2023
+"760,000 ","8/4 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,252m² ,09 Aug 2023
+"576,000 ","8/6 Stoddart Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,296m² ,08 Aug 2023
+"680,000 ","3/10 Bambra Crescent,",LARRAKEYAH NT 0820,Townhouse,3,2,2,376m² ,07 Aug 2023
+"865,000 ","1/1 D'Ambrosio Court,",PARAP NT 0820,Townhouse,3,2,4,422m² ,31 Jul 2023
+"330,000 ","12/5 Manila Place,",WOOLNER NT 0820,Apartment / Unit / Flat,2,2,2,122m² ,27 Jul 2023
+"485,000 ","9/63 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,161m² ,26 Jul 2023
+"387,000 ","2/12 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,159m² ,26 Jul 2023
+"447,500 ","5/11 Malabar Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,142m² ,19 Jul 2023
+"530,000 ","8/63 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,162m² ,12 Jul 2023
+"479,000 ","4/3 Queen Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,"1,109m² ",11 Jul 2023
+"340,000 ","8/11 Chong Wee Avenue,",WOOLNER NT 0820,Apartment / Unit / Flat,2,1,2,136m² ,11 Jul 2023
+"580,000 ","16/16 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,222m² ,10 Jul 2023
+"250,000 ","12/16-18 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,79m² ,10 Jul 2023
+"750,000","12/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,200m² ,10 Jul 2023
+"395,000 ","3/16 Stokes Street Street,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,"1,990m² ",06 Jul 2023
+"500,000 ","17/22 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,178m² ,28 Jun 2023
+"492,500 ","4/15 Philip Street,",FANNIE BAY NT 0820,Townhouse,2,1,1,239m² ,27 Jun 2023
+"750,000 ","1/5 Pope Court,",BAYVIEW NT 0820,Townhouse,3,2,2,442m² ,23 Jun 2023
+"520,000 ","9/4 Annear Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,312m² ,23 Jun 2023
+"400,000 ","7/29 Gardens Hill,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,1,2,215m² ,13 Jun 2023
+"1,200,000","4/15 Bayview St,",FANNIE BAY NT 0820,Townhouse,4,3,2,357m² ,07 Jun 2023
+"295,000 ","427/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,80m² ,06 Jun 2023
+"390,000 ","62/3 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,2,2,2,159m² ,05 Jun 2023
+"690,000 ","6/27 Fanning Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,404m² ,01 Jun 2023
+"289,000 ","6/3 Banyan Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,2,74m² ,19 May 2023
+"920,000 ","1/8 Manoora Street,",LARRAKEYAH NT 0820,Townhouse,5,3,3,423m² ,15 May 2023
+"485,000 ","1/6 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,228m² ,15 May 2023
+"525,000 ","5/7 St John Court,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,2,2,225m² ,11 May 2023
+"575,000 ","42 Charles Street,",STUART PARK NT 0820,Vacant land,− 0,− 0,2,"1,201m² ",09 May 2023
+"426,000 ","18/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,219m² ,08 May 2023
+"1,250,000","5/25 Philip Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,4,3,2,400m² ,05 May 2023
+"363,000","5/5 Tsolos Place,",THE NARROWS NT 0820,Apartment / Unit / Flat,2,1,2,237m² ,05 May 2023
+"525,000","1/41 Bermingham Crescent,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,3,2,282m² ,28 Apr 2023
+"500,000 ","1/22 Philip Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,3,244m² ,27 Apr 2023
+"460,000","1/13 Hinkler Crescent,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,2,2,237m² ,26 Apr 2023
+"520,000 ","5/12 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,224m² ,24 Apr 2023
+"421,500 ","6/24 George Crescent,",FANNIE BAY NT 0820,Townhouse,2,1,1,115m² ,2023
+"575,000 ","4/13 Charlotte Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,2,2,131m² ,12 Apr 2023
+"370,000","12/6 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,2,134m² ,05 Apr 2023
+"1,050,000 ","3/8 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,358m² ,05 Apr 2023
+"780,000","2/7 Fanning Drive,",BAYVIEW NT 0820,Townhouse,4,3,2,497m² ,2023
+"660,000 ","4/1 St John Court,",THE GARDENS NT 0820,Townhouse,3,2,2,332m² ,27 Mar 2023
+"437,000 ","5/3 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,216m² ,24 Mar 2023
+"462,700 ","2/13 Somerville Gardens,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,865m² ,23 Mar 2023
+"425,000 ","28/6 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,137m² ,21 Mar 2023
+"432,500 ","11/3 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,195m² ,16 Mar 2023
+"387,000 ","8/6 Philip Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,125m² ,14 Mar 2023
+"618,000 ","4/75 Cullen Bay Crescent,",LARRAKEYAH NT 0820,Townhouse,3,2,3,312m² ,13 Mar 2023
+"400,000 ","5/180 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,1,146m² ,28 Feb 2023
+"550,000 ","439/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,1,136m² ,28 Feb 2023
+"473,700 ","3/10 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,267m² ,21 Feb 2023
+"430,000 ","3/19 Queen Street,",STUART PARK NT 0820,Townhouse,3,1,2,235m² ,16 Feb 2023
+"646,000 ","1/1 St John Court,",THE GARDENS NT 0820,Townhouse,3,2,2,353m² ,09 Feb 2023
+"450,000 ","94/5 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,183m² ,31 Jan 2023
+"535,000","3/61 Stoddart Drive,",BAYVIEW NT 0820,Apartment / Unit / Flat,2,1,2,415m² ,20 Jan 2023
+"600,000 ","2/2 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,288m² ,20 Jan 2023
+"550,000","4/6 Hinkler Crescent,",FANNIE BAY NT 0820,Townhouse,3,1,2,284m² ,18 Jan 2023
+"420,000 ","1C/30 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,205m² ,17 Jan 2023
+"475,000 ","28/17 Geranium Street,",THE GARDENS NT 0820,Apartment / Unit / Flat,3,2,2,138m² ,17 Jan 2023
+"350,000 ","3/16 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,1,76m² ,13 Jan 2023
+"250,000","7/26 Nudl Street,",STUART PARK NT 0820,Apartment / Unit / Flat,1,1,1,52m² ,12 Jan 2023
+"610,000 ","17/18 Annear Court,",STUART PARK NT 0820,Townhouse,3,3,2,284m² ,21 Dec 2022
+"332,000 ","20/26 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,1,1,82m² ,20 Dec 2022
+"750,000 ","27/40 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,3,2,364m² ,16 Dec 2022
+"655,000 ","4/188 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,193m² ,15 Dec 2022
+"455,000 ","6/4 Voyager Street,",STUART PARK NT 0820,Townhouse,2,1,1,84m² ,13 Dec 2022
+"560,000 ","5A/30 Duke Street,",STUART PARK NT 0820,Townhouse,3,2,4,343m² ,08 Dec 2022
+"180,000","2/3 Montoro Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,66m² ,06 Dec 2022
+"560,000 ","23/22 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,184m² ,06 Dec 2022
+"570,000 ","2/18 Annear Court,",STUART PARK NT 0820,Townhouse,3,3,3,309m² ,06 Dec 2022
+"525,000 ","3/5 St John Court,",THE GARDENS NT 0820,Townhouse,3,2,2,274m² ,06 Dec 2022
+"340,000 ","40/10 Doctors Gully Road,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,1,1,1,81m² ,05 Dec 2022
+"735,000 ","1/24 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,302m² ,02 Dec 2022
+"285,000 ","18/156 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,135m² ,02 Dec 2022
+"451,000 ","1/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,188m² ,29 Nov 2022
+"435,000 ","36/6 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,136m² ,21 Nov 2022
+"1,650,000 ","121 & 123 Playford Street,",PARAP NT 0820,Block of units,18,8,8,"1,708m² ",21 Nov 2022
+"830,000 ","4/3 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,314m² ,18 Nov 2022
+"915,000 ","1/9 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,391m² ,17 Nov 2022
+"770,000 ","1/48 O'Ferrals Road,",BAYVIEW NT 0820,Townhouse,3,2,2,431m² ,10 Nov 2022
+"799,000 ","4/6 Winston Avenue,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,264m² ,04 Nov 2022
+"250,000 ","12/18 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,79m² ,03 Nov 2022
+"482,000 ","17/3 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,182m² ,03 Nov 2022
+"455,000 ","16/6 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,139m² ,31 Oct 2022
+"325,000 ","11/16 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,1,136m² ,31 Oct 2022
+"325,000 ","12/8-10 Philip Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,70m² ,28 Oct 2022
+"440,000 ","44/6 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,137m² ,28 Oct 2022
+"805,000 ","2/3 D'Ambrosio Court,",PARAP NT 0820,Townhouse,3,2,2,388m² ,28 Oct 2022
+"440,000 ","22/26 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,1,98m² ,26 Oct 2022
+"340,000 ","3/33 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,2,190m² ,21 Oct 2022
+"620,000 ","8/41 Bermingham Crescent,",BAYVIEW NT 0820,Townhouse,3,3,2,275m² ,20 Oct 2022
+"427,500 ","80/5 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,"3,610m² ",19 Oct 2022
+"440,000 ","43/6 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,144m² ,19 Oct 2022
+"884,000 ","3/8 Gardens Road,",THE GARDENS NT 0820,Townhouse,4,3,3,357m² ,19 Oct 2022
+"495,000 ","7/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,177m² ,17 Oct 2022
+"265,000 ","3/2 James Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,74m² ,13 Oct 2022
+"250,000 ","7/1 Morinda Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,70m² ,12 Oct 2022
+"385,000 ","3/7 May Street,",LUDMILLA NT 0820,Apartment / Unit / Flat,2,1,1,239m² ,05 Oct 2022
+"585,000 ","2/1 Brewery Place,",WOOLNER NT 0820,Townhouse,3,2,2,283m² ,28 Sep 2022
+"595,000 ","7/40 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,195m² ,27 Sep 2022
+"670,000 ","36/20 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,159m² ,27 Sep 2022
+"500,000","13/7 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,189m² ,27 Sep 2022
+"450,000","6/11 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,153m² ,27 Sep 2022
+"455,000 ","4/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,193m² ,16 Sep 2022
+"1,200,000 ","11 Winston Ave,",STUART PARK NT 0820,Block of units,11,8,9,"1,550m² ",16 Sep 2022
+"329,000 ","61/23 Hudson Fysh Avenue,",PARAP NT 0820,Block of units,2,1,2,69m² ,15 Sep 2022
+"555,000 ","3/5 Voyager Street,",STUART PARK NT 0820,Townhouse,3,2,2,323m² ,15 Sep 2022
+"610,000","8/18 Annear Court,",STUART PARK NT 0820,Townhouse,3,3,3,334m² ,15 Sep 2022
+"515,000 ","6/6 Mangola Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,166m² ,14 Sep 2022
+"535,000 ","4/18 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,198m² ,12 Sep 2022
+"405,000 ","11 Bradhurst Court,",BAYVIEW NT 0820,Vacant land,0,0,0,820m² ,10 Sep 2022
+"500,000 ","18/4 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,187m² ,09 Sep 2022
+"1,130,000","7/2 Annear Court,",STUART PARK NT 0820,Apartment / Unit / Flat,4,2,2,498m² ,09 Sep 2022
+"530,000 ","14/33 George Crescent,",FANNIE BAY NT 0820,Townhouse,2,1,2,160m² ,07 Sep 2022
+"437,500 ","106/2 Elsey Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,125m² ,07 Sep 2022
+"280,000 ","4/125 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,99m² ,04 Sep 2022
+"613,000 ","3/6 Stoddart Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,323m² ,02 Sep 2022
+"462,500","5/10 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,165m² ,2022
+"530,000 ","3/68 Stoddart Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,334m² ,26 Aug 2022
+"770,000","20 Allen St,",FANNIE BAY NT 0820,Vacant land,0,0,0,"1,170m² ",2022
+"259,000","5/26 Nudl Street,",STUART PARK NT 0820,Apartment / Unit / Flat,1,1,1,124m² ,15 Aug 2022
+"675,000 ","5/27 Fanning Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,361m² ,12 Aug 2022
+"275,000 ","2/3 Beagle Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,796m² ,10 Aug 2022
+"665,720 ","9/38 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,2,3,283m² ,09 Aug 2022
+"427,500","2/73C Ruddick Circuit,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,208m² ,05 Aug 2022
+"360,000 ","6/9 Fleming Street,",THE NARROWS NT 0820,Apartment / Unit / Flat,2,1,2,203m² ,04 Aug 2022
+"735,000","2/7 Margaret Street,",STUART PARK NT 0820,Townhouse,3,2,2,330m² ,
+"285,000 ","7/8 Banyan Street,",FANNIE BAY NT 0820,Block of units,2,1,1,84m² ,25 Jul 2022
+"450,000 ","14/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,158m² ,19 Jul 2022
+"600,000 ","304/29 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,217m² ,2022
+"475,000 ","3/35 Eden Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,2,345m² ,15 Jul 2022
+"775,000 ","41 Eden Street,",STUART PARK NT 0820,Block of units,10,6,10,"1,180m² ",11 Jul 2022
+"360,000 ","4/37 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,154m² ,05 Jul 2022
+"330,000 ","2/38 George Crescent,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,118m² ,04 Jul 2022
+"242,000 ","43/23 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,04 Jul 2022
+"529,000","3/18 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,268m² ,30 Jun 2022
+"410,000 ","316/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,123m² ,27 Jun 2022
+"480,000","1/3 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,189m² ,24 Jun 2022
+"445,000 ","2/9 Drysdale Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,166m² ,20 Jun 2022
+"535,000 ","9/3 Queen Street,",STUART PARK NT 0820,New apartments / off the plan,3,2,2,153m² ,17 Jun 2022
+"540,000 ","33/58 Bayview Boulevard,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,192m² ,10 Jun 2022
+"485,000 ","13/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,185m² ,09 Jun 2022
+"460,000 ","15/3 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,154m² ,09 Jun 2022
+"443,500","10/3 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,153m² ,09 Jun 2022
+"490,000 ","2/43 Duke Street,",STUART PARK NT 0820,Townhouse,3,2,2,255m² ,03 Jun 2022
+"450,000","6/13 Somerville Gardens,",PARAP NT 0820,Block of units,2,2,2,864m² ,02 Jun 2022
+"395,000 ","7/15 Somerville Gardens,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,153m² ,02 Jun 2022
+"499,000 ","25/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,182m² ,31 May 2022
+"440,000 ","19/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,159m² ,31 May 2022
+"315,000 ","12/13 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,3,1,1,114m² ,25 May 2022
+"457,000 ","1/3 Queen Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,153m² ,16 May 2022
+"270,000 ","3/7 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,96m² ,13 May 2022
+"280,000 ","14/156 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,−,127m² ,12 May 2022
+"555,000 ","1/14 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,203m² ,12 May 2022
+"346,000 ","2/23 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,154m² ,12 May 2022
+"725,000","38/1 Daly Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,200m² ,11 May 2022
+"456,000 ","17/9 Manila Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,177m² ,06 May 2022
+"350,000","11/16 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,122m² ,04 May 2022
+"264,000 ","6/4 Wells Street,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,95m² ,29 Apr 2022
+"297,000 ","5/16 Westralia Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,84m² ,22 Apr 2022
+"710,000 ","3/9 Philip Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,2,4,244m² ,19 Apr 2022
+"345,000 ","67/17 May Street,",LUDMILLA NT 0820,Apartment / Unit / Flat,3,1,2,280m² ,19 Apr 2022
+"840,000","1/2 D'Ambrosio Court,",PARAP NT 0820,Townhouse,3,2,2,389m² ,13 Apr 2022
+"460,000 ","11/14 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,177m² ,12 Apr 2022
+"785,000 ","26/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,3,248m² ,08 Apr 2022
+"890,000 ","2/46 East Point Road,",FANNIE BAY NT 0820,Townhouse,3,2,2,367m² ,04 Apr 2022
+"590,000 ","14/16 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,216m² ,04 Apr 2022
+"319,000 ","101/16 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,01 Apr 2022
+"567,500 ","7/18 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,215m² ,31 Mar 2022
+"440,000 ","19/6 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,− 0,−,161m² ,30 Mar 2022
+"435,000 ","3/6 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,142m² ,28 Mar 2022
+"350,000 ","21/9 May Street,",LUDMILLA NT 0820,Apartment / Unit / Flat,3,1,2,213m² ,25 Mar 2022
+"685,000 ","6/27 Fanning Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,404m² ,14 Mar 2022
+"325,000 ","1/12 Somerville Gardens,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,146m² ,14 Mar 2022
+"470,000","8/5 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,191m² ,11 Mar 2022
+"365,000 ","4/4 Voyager Street,",STUART PARK NT 0820,Townhouse,2,1,1,98m² ,08 Mar 2022
+"415,000 ","11/6 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,155m² ,04 Mar 2022
+"122,500 ","16/52 Gregory Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,58m² ,25 Feb 2022
+"750,000 ","11/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,253m² ,25 Feb 2022
+"990,000 ","3/25 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,3,2,362m² ,23 Feb 2022
+"608,500","5/6 Voyager Street,",STUART PARK NT 0820,Townhouse,2,3,3,240m² ,22 Feb 2022
+"285,000 ","4/2 Fleming Street,",THE NARROWS NT 0820,Apartment / Unit / Flat,2,1,2,168m² ,17 Feb 2022
+"350,000 ","49/26 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,3,125m² ,07 Feb 2022
+"1,270,000 ","1/32 George Crescent,",FANNIE BAY NT 0820,Townhouse,4,2,2,313m² ,03 Feb 2022
+"280,000 ","7/13 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,83m² ,28 Jan 2022
+"725,000 ","2/42 Bayview Boulevard,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,3,3,368m² ,25 Jan 2022
+"883,500 ","3/12 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,2,2,533m² ,21 Jan 2022
+"450,000 ","11/73D Ruddick Circuit,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,191m² ,18 Jan 2022
+"620,000 ","4/8 Melville Street,",THE GARDENS NT 0820,Townhouse,3,2,2,283m² ,18 Jan 2022
+"699,000","14/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,3,274m² ,12 Jan 2022
+"415,000 ","18/21 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,158m² ,12 Jan 2022
+"755,100","18/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,3,242m² ,12 Jan 2022
+"600,000 ","26/1 Daly Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,185m² ,23 Dec 2021
+"420,000 ","9/12 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,170m² ,15 Dec 2021
+"770,000","16/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,249m² ,13 Dec 2021
+"570,000 ","1 & 4/162 Smith St,",LARRAKEYAH NT 0820,Townhouse,2,1,1,162m² ,07 Dec 2021
+"301,000","8/17 Bayview Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,103m² ,06 Dec 2021
+"455,000 ","10/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,181m² ,03 Dec 2021
+"585,000 ","5/55 Stoddart Dr,",BAYVIEW NT 0820,Townhouse,3,2,2,336m² ,03 Dec 2021
+"270,000 ","19/12 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,2,94m² ,02 Dec 2021
+"390,000 ","4 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,451m² ,30 Nov 2021
+"530,000 ","53/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,246m² ,29 Nov 2021
+"430,000","5/9 Drysdale Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,166m² ,23 Nov 2021
+"480,000","1/16 Queen Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,2,223m² ,23 Nov 2021
+"510,000 ","7/12 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,221m² ,23 Nov 2021
+"234,000 ","41/23 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,22 Nov 2021
+"1,200,000 ","10/184 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,260m² ,19 Nov 2021
+"770,000","20/17 Dinah Court,",STUART PARK NT 0820,Townhouse,3,2,2,244m² ,18 Nov 2021
+"421,000 ","5/148 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,187m² ,17 Nov 2021
+"780,000","7/57 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,3,3,378m² ,16 Nov 2021
+"545,000","2/7 King Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,3,276m² ,10 Nov 2021
+"490,000","4/6 Mangola Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,168m² ,02 Nov 2021
+"490,000 ","8/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,186m² ,02 Nov 2021
+"450,000 ","18/5 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,173m² ,29 Oct 2021
+"830,000 ","8 Marella Street,",LARRAKEYAH NT 0820,Vacant land,0,0,0,"1,010m² ",28 Oct 2021
+"765,000","27/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,3,243m² ,27 Oct 2021
+"295,000","20/9 Manila Place,",WOOLNER NT 0820,Apartment / Unit / Flat,2,1,2,"542,278m² ",27 Oct 2021
+"800,000 ","11/18 Annear Court,",STUART PARK NT 0820,Townhouse,3,3,3,379m² ,20 Oct 2021
+"686,000 ","7/3 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,204m² ,14 Oct 2021
+"297,500 ","1/160 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,87m² ,14 Oct 2021
+"400,000 ","31/26 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,1,102m² ,14 Oct 2021
+"635,000 ","2/56 Bayview Boulevard,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,3,2,288m² ,12 Oct 2021
+"299,000 ","9/8 Banyan Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,81m² ,12 Oct 2021
+"315,000","45/23 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,11 Oct 2021
+"850,000 ","1/3A Gardens Hill Crescent,",THE GARDENS NT 0820,Apartment / Unit / Flat,4,3,3,380m² ,08 Oct 2021
+"800,000 ","3/16 Margaret Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,243m² ,04 Oct 2021
+"410,000","11/31 Gardens Hill Crescent,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,1,1,228m² ,27 Sep 2021
+"500,000 ","1/58 Bayview Boulevard,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,188m² ,24 Sep 2021
+"410,000 ","5/7 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,2,126m² ,24 Sep 2021
+"440,000 ","206/2 Elsey Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,125m² ,24 Sep 2021
+"650,000 ","23/6 Stoddart Drive,",BAYVIEW NT 0820,Townhouse,3,2,4,568m² ,21 Sep 2021
+"362,500 ","4 Sleigh Place,",STUART PARK NT 0820,Vacant land,0,0,0,451m² ,21 Sep 2021
+"405,000 ","11/33 Duke Street,",STUART PARK NT 0820,Townhouse,2,1,2,184m² ,20 Sep 2021
+"490,000 ","204/29 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,217m² ,20 Sep 2021
+"875,000 ","2/5 D'Ambrosio Court,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,518m² ,17 Sep 2021
+"495,000 ","3/15 Charles Street,",STUART PARK NT 0820,Townhouse,3,2,2,252m² ,17 Sep 2021
+"485,000 ","7/148 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,203m² ,14 Sep 2021
+"250,000 ","9/126 Mitchell Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,1,1,1,84m² ,10 Sep 2021
+"260,000 ","6/33 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,100m² ,10 Sep 2021
+"390,000 ","2/30C Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,184m² ,10 Sep 2021
+"495,000 ","11 Gardens Hill Crescent,",THE GARDENS NT 0820,Vacant land,0,0,0,"1,150m² ",08 Sep 2021
+"363,500 ","1/2 Beagle Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,152m² ,03 Sep 2021
+"440,000","6/10 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,180m² ,27 Aug 2021
+"1,060,000 ","1/6 schultze Street,",LARRAKEYAH NT 0820,Townhouse,4,2,2,291m² ,23 Aug 2021
+"482,000 ","37/6 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,2,137m² ,20 Aug 2021
+"320,000","2/4 Armidale Street,",STUART PARK NT 0820,Townhouse,2,1,1,108m² ,13 Aug 2021
+"571,000 ","16/7 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,178m² ,12 Aug 2021
+"950,000 ","2/6 Schultze Street,",LARRAKEYAH NT 0820,Townhouse,3,2,2,194m² ,11 Aug 2021
+"290,000","8/16 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,1,75m² ,03 Aug 2021
+"600,000 ","27 Charles Street,",STUART PARK NT 0820,Block of units,4,2,4,"1,030m² ",30 Jul 2021
+"618,000 ","9/188 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,224m² ,27 Jul 2021
+"383,000 ","12/32 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,1,102m² ,22 Jul 2021
+"620,000 ","7/75 Cullen Bay Crescent,",LARRAKEYAH NT 0820,Townhouse,3,2,2,354m² ,22 Jul 2021
+"1,300,000 ","2/34 George Crescent,",FANNIE BAY NT 0820,Townhouse,4,3,2,244m² ,21 Jul 2021
+"450,000 ","19/8 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,200m² ,21 Jul 2021
+"335,000","5/16 Henry Street,",STUART PARK NT 0820,Townhouse,2,1,2,253m² ,15 Jul 2021
+"640,000 ","4/1 Bambra Crescent,",LARRAKEYAH NT 0820,Townhouse,3,2,2,173m² ,13 Jul 2021
+"392,500 ","4/1 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,175m² ,13 Jul 2021
+"242,000","6/124 Mitchell Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,96m² ,12 Jul 2021
+"438,000 ","9/2 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,173m² ,12 Jul 2021
+"494,500 ","12/16 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,2,206m² ,09 Jul 2021
+"400,000 ","2/3 Morinda Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,133m² ,30 Jun 2021
+"610,000 ","30/20 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,161m² ,25 Jun 2021
+"475,000 ","20 O'Ferrals Road,",BAYVIEW NT 0820,Vacant land,0,0,0,867m² ,21 Jun 2021
+"605,000 ","13/14 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,190m² ,10 Jun 2021
+"452,000 ","7/6 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,156m² ,07 Jun 2021
+"460,000 ","11/22 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,206m² ,07 Jun 2021
+"645,000 ","1/56 Bayview Boulevard,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,224m² ,04 Jun 2021
+"530,000","8/5 St John Court,",THE GARDENS NT 0820,Townhouse,3,2,2,269m² ,02 Jun 2021
+"550,000","12/148 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,223m² ,01 Jun 2021
+"340,000 ","2/35 Gardens Hill Crescent,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,1,1,67m² ,27 May 2021
+"520,000","2/21 Hinkler Crescent,",FANNIE BAY NT 0820,Townhouse,3,2,2,263m² ,17 May 2021
+"485,000","18/40 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,230m² ,13 May 2021
+"407,000 ","12/12 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,168m² ,12 May 2021
+"395,000 ","443/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,112m² ,06 May 2021
+"380,000","337/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,166m² ,30 Apr 2021
+"305,000 ","14/5 Manila Place,",WOOLNER NT 0820,Apartment / Unit / Flat,2,2,2,125m² ,30 Apr 2021
+"375,000 ","2/27 Hinkler Crescent,",FANNIE BAY NT 0820,Townhouse,3,1,1,217m² ,16 Apr 2021
+"387,500 ","8/10 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,77m² ,05 Apr 2021
+"710,000 ","25/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,3,227m² ,29 Mar 2021
+"675,000 ","7/35 Paspaley Place,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,267m² ,19 Mar 2021
+"355,000 ","11 Bradhurst Court,",BAYVIEW NT 0820,Vacant land,0,0,0,820m² ,15 Mar 2021
+"350,000","5/3 Mauna Loa Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,152m² ,15 Mar 2021
+"1,020,000 ","1/23 Paspaley Place,",LARRAKEYAH NT 0820,Townhouse,4,2,2,448m² ,15 Mar 2021
+"450,000","2/6 Voyager Street,",STUART PARK NT 0820,Townhouse,2,3,2,201m² ,26 Feb 2021
+"460,000 ","26/3 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,156m² ,26 Feb 2021
+"398,000 ","62 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,649m² ,22 Feb 2021
+"1,030,000 ","2/7 Annear Court,",STUART PARK NT 0820,Townhouse,3,3,3,452m² ,19 Feb 2021
+"360,000 ","10 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,452m² ,17 Feb 2021
+"355,000 ","2/6 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,1,138m² ,16 Feb 2021
+"220,000 ","81/16 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,12 Feb 2021
+"300,000","7/16 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,1,76m² ,10 Feb 2021
+"610,000","6/35 George Crescent,",FANNIE BAY NT 0820,Townhouse,3,3,1,311m² ,2021
+"450,000 ","11/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,187m² ,08 Feb 2021
+"400,000 ","27/3 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,204m² ,08 Feb 2021
+"335,000 ","1/5 Mangola Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,189m² ,04 Feb 2021
+"325,000 ","5/26 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,106m² ,01 Feb 2021
+"590,000 ","2/18 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,275m² ,15 Jan 2021
+"461,000","2/8 Melville Street,",THE GARDENS NT 0820,Apartment / Unit / Flat,3,2,2,296m² ,13 Jan 2021
+"700,000 ","21/17 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,207m² ,24 Dec 2020
+"520,000 ","3/48 Bayview Boulevard,",BAYVIEW NT 0820,Townhouse,3,2,3,333m² ,30 Nov 2020
+"440,000 ","66 O'Ferrals Road,",BAYVIEW NT 0820,Vacant land,0,0,0,751m² ,26 Nov 2020
+"365,000 ","6/13 Hinkler Crescent,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,2,2,125m² ,25 Nov 2020
+"639,500 ","2/9 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,358m² ,24 Nov 2020
+"615,000 ","4/42 Bayview Boulevard,",BAYVIEW NT 0820,Townhouse,3,2,3,327m² ,23 Nov 2020
+"344,000 ","10/3 Lambell Terrace,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,206m² ,23 Nov 2020
+"210,000 ","5/3 Beagle Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,796m² ,23 Nov 2020
+"360,000 ","7/6 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,153m² ,17 Nov 2020
+"1,020,000","1/7 Annear Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,3,3,478m² ,16 Nov 2020
+"610,000","6/27 Fanning Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,"1,634,929m² ",06 Nov 2020
+"320,000 ","23/16 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,122m² ,06 Nov 2020
+"225,000","9/15 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,1,2,110m² ,02 Nov 2020
+"455,000 ","29 Henry Street,",STUART PARK NT 0820,Vacant land,0,0,0,"1,110m² ",23 Oct 2020
+"400,000 ","8/4 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,212m² ,08 Oct 2020
+"265,000 ","9/26 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,83m² ,02 Oct 2020
+"558,000 ","4/10 Winston Avenue,",STUART PARK NT 0820,Townhouse,3,1,2,286m² ,23 Sep 2020
+"290,000","Unit 72/32 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,203m² ,21 Sep 2020
+"585,000 ","11/3 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,214m² ,17 Sep 2020
+"380,000","349/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,1,163m² ,14 Sep 2020
+"336,000 ","1/3 Mangola Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,157m² ,11 Sep 2020
+"265,000","30/1 Queen Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,75m² ,11 Sep 2020
+"699,000 ","1/14 Annear Court,",STUART PARK NT 0820,Townhouse,4,2,2,561m² ,11 Sep 2020
+"396,000","20 Duke Street,",STUART PARK NT 0820,Vacant land,0,0,0,453m² ,09 Sep 2020
+"660,000 ","1/10 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,2,2,351m² ,28 Aug 2020
+"260,000 ","12/38 George Crescent,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,1,1,129m² ,2020
+"385,000 ","13/43 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,1,219m² ,25 Aug 2020
+"355,000 ","6/9 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,290m² ,24 Aug 2020
+"728,000 ","3/3 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,325m² ,21 Aug 2020
+"750,000","1/2 Pope Court,",BAYVIEW NT 0820,Townhouse,4,3,4,627m² ,2020
+"639,500 ","1/9 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,391m² ,10 Aug 2020
+"570,000 ","68/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,247m² ,07 Aug 2020
+"412,500 ","4/6 Montoro Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,152m² ,29 Jul 2020
+"335,000 ","4/4A Bishop Street,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,227m² ,17 Jul 2020
+"425,000 ","2/39 Westralia Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,617m² ,24 Jun 2020
+"290,000","15/73D Ruddick Circuit,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,182m² ,18 Jun 2020
+"300,000 ","39/3 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,176m² ,12 Jun 2020
+"300,000 ","39/3 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,176m² ,12 Jun 2020
+"520,000 ","2/3A Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,3,2,247m² ,08 Jun 2020
+"195,000 ","7/18 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,78m² ,28 May 2020
+"410,000 ","19/6 Stoddart Drive,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,294m² ,25 May 2020
+"330,000 ","1/9 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,265m² ,08 Apr 2020
+"288,000","3/14 Melville Street,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,1,1,167m² ,08 Apr 2020
+"452,000 ","2/8 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,4,3,2,312m² ,07 Apr 2020
+"515,000 ","1/21 Fanning Drive,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,438m² ,30 Mar 2020
+"890,000","6/81 O'ferrals Road,",BAYVIEW NT 0820,Apartment / Unit / Flat,4,3,2,387m² ,23 Mar 2020
+"530,000 ","4/3 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,204m² ,04 Mar 2020
+"180,000 ","4/12 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,110m² ,26 Feb 2020
+"380,000 ","26 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,545m² ,12 Feb 2020
+"530,000 ","1/6 Manoora Street,",LARRAKEYAH NT 0820,Townhouse,4,3,3,400m² ,11 Feb 2020
+"431,000 ","1/5 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,200m² ,03 Feb 2020
+"405,000","7/2 Dinah Court,",STUART PARK NT 0820,Townhouse,3,2,2,214m² ,03 Feb 2020
+"399,000 ","15/11 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,189m² ,03 Feb 2020
+"420,000","15/2 Mitaroas Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,181m² ,28 Jan 2020
+"400,000 ","15/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,184m² ,24 Jan 2020
+"390,000 ","14/5 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,173m² ,21 Jan 2020
+"503,500 ","17/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,250m² ,07 Jan 2020
+"330,000 ","3/8 Barossa Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,2,245m² ,06 Jan 2020
+"380,000 ","27/5 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,180m² ,31 Dec 2019
+"1,030,000 ","3/6 Schultze Street,",LARRAKEYAH NT 0820,Townhouse,4,2,2,311m² ,16 Dec 2019
+"400,000 ","11/6 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,276m² ,12 Dec 2019
+"145,000 ","9/32 Marina Boulevard,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,1,1,2,89m² ,2019
+"505,000 ","3/15 Gardens Hill Crescent,",THE GARDENS NT 0820,Apartment / Unit / Flat,3,2,2,282m² ,02 Dec 2019
+"320,000","11/16 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,122m² ,06 Nov 2019
+"182,000 ","22/23 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,28 Oct 2019
+"525,000 ","67/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,231m² ,14 Oct 2019
+"390,000 ","14/4 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,158m² ,11 Oct 2019
+"315,000","5 Gunbar Street,",BAYVIEW NT 0820,Vacant land,0,0,0,801m² ,09 Oct 2019
+"622,500 ","3/12 Barossa Street,",LARRAKEYAH NT 0820,Townhouse,3,3,2,379m² ,04 Oct 2019
+"245,000","3/6 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,2,2,2,167m² ,23 Sep 2019
+"574,000 ","6/3 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,204m² ,04 Sep 2019
+"395,000 ","1/7 St John Court,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,2,2,368m² ,04 Sep 2019
+"170,000 ","20/32 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,1,1,1,70m² ,26 Aug 2019
+"300,000 ","6/12-14 MacKillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,154m² ,19 Aug 2019
+"205,000 ","7/13 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,83m² ,14 Aug 2019
+"185,000 ","86/16 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,29 Jul 2019
+"250,000 ","15/37 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,138m² ,27 Jun 2019
+"365,000","6/33 George Crescent,",FANNIE BAY NT 0820,Townhouse,2,1,2,198m² ,24 Jun 2019
+"180,000 ","11/60 East Point Road,",FANNIE BAY NT 0820,Apartment / Unit / Flat,1,1,2,82m² ,19 Jun 2019
+"327,500 ","26/3 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,3,204m² ,14 May 2019
+"450,000","2 O'Ferrals Road,",BAYVIEW NT 0820,Vacant land,0,0,0,802m² ,07 May 2019
+"450,000","2 O'Ferrals Road,",BAYVIEW NT 0820,Vacant land,0,0,0,802m² ,07 May 2019
+"305,000 ","1/6 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,222m² ,07 May 2019
+"465,000","1/6 St John Court,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,2,2,405m² ,26 Apr 2019
+"220,000 ","5/41 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,2,114m² ,24 Apr 2019
+"335,000 ","1/3 Mangola Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,157m² ,15 Apr 2019
+"500,000 ","11/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,257m² ,15 Apr 2019
+"425,000","2/2 Coronation Drive,",STUART PARK NT 0820,Townhouse,3,1,2,270m² ,08 Apr 2019
+"343,500","4/3 Mangola Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,157m² ,02 Apr 2019
+"440,000 ","7/1 Tipperary Court,",STUART PARK NT 0820,Townhouse,3,2,2,273m² ,26 Mar 2019
+"260,000 ","9/20 Somerville Gardens,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,212m² ,08 Mar 2019
+"186,500","8/124 Mitchell Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,96m² ,27 Feb 2019
+"400,000 ","62 O'Ferrals Road,",BAYVIEW NT 0820,Vacant land,0,0,0,752m² ,11 Jan 2019
+"467,500","4/5 McColl Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,2,2,257m² ,2019
+"275,000 ","2/7 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,156m² ,09 Jan 2019
+"420,000 ","4/6 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,2,140m² ,14 Dec 2018
+"340,000","2/5 Lambell Terrace,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,164m² ,03 Dec 2018
+"217,000 ","1/125 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,99m² ,30 Nov 2018
+"415,000 ","7/7 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,186m² ,29 Nov 2018
+"483,000","18/6 Stoddart Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,293m² ,28 Nov 2018
+"445,000 ","9/4 Annear Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,201m² ,26 Nov 2018
+"387,500 ","60/32 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,1,102m² ,19 Nov 2018
+"460,000","1/6 Stoddart Drive,",BAYVIEW NT 0820,Townhouse,3,2,2,301m² ,07 Nov 2018
+"355,000 ","2/9 Hinkler Crescent,",FANNIE BAY NT 0820,Townhouse,2,1,1,307m² ,31 Oct 2018
+"358,000 ","1/3 Mangola Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,157m² ,28 Sep 2018
+"1,200,000 ","5 Hickey Court,",CULLEN BAY NT 0820,Vacant land,0,0,0,"1,040m² ",2018
+"710,000 ","1/12 Hinkler Crescent,",FANNIE BAY NT 0820,Townhouse,3,2,2,250m² ,23 Sep 2018
+"605,000","1/19 Bayview Street,",FANNIE BAY NT 0820,Townhouse,3,1,2,295m² ,10 Sep 2018
+"1,000,000","17 Paspaley Place,",CULLEN BAY NT 0820,Vacant land,0,0,0,844m² ,05 Sep 2018
+"435,000 ","2/5 Annear Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,305m² ,30 Aug 2018
+"345,000 ","1/3 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,153m² ,06 Aug 2018
+"580,000 ","2/35 Paspaley Place,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,140m² ,20 Jul 2018
+"600,000 ","1/5 O'Ferrals Road,",BAYVIEW NT 0820,Townhouse,4,2,2,351m² ,06 Jul 2018
+"660,000 ","1/12 Banyan Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,329m² ,01 Jun 2018
+"675,000 ","1/10 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,517m² ,24 May 2018
+"450,000","8 Bradhurst Court,",BAYVIEW NT 0820,Vacant land,0,0,0,"1,390m² ",1 May 2018
+"582,000 ","39/1 Daly Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,151m² ,10 May 2018
+"400,000","31/10 Doctors Gully Road,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,111m² ,30 Apr 2018
+"400,000 ","450/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,1,114m² ,23 Apr 2018
+"875,000","5/15 Bayview Street,",FANNIE BAY NT 0820,Townhouse,3,3,2,473m² ,12 Apr 2018
+"285,000 ","10/8 Banyan Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,81m² ,20 Mar 2018
+"410,000 ","452/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,1,114m² ,17 Jan 2018
+"275,000 ","2/41 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,2,116m² ,12 Jan 2018
+"540,000","6/1 Daly Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,183m² ,08 Jan 2018
+"460,000 ","2/7 Eden Street,",STUART PARK NT 0820,Block of units,3,1,2,360m² ,20 Dec 2017
+"485,000 ","15/33 George Crescent,",FANNIE BAY NT 0820,Townhouse,2,1,2,191m² ,11 Dec 2017
+"670,000 ","2/45 O'Ferrals Road,",BAYVIEW NT 0820,Townhouse,3,3,3,429m² ,22 Nov 2017
+"440,000 ","62/30 Parap Road,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,152m² ,20 Nov 2017
+"590,000 ","3/22 Philip Street,",FANNIE BAY NT 0820,Block of units,3,1,2,410m² ,18 Nov 2017
+"490,000 ","1/2 Kent Court,",STUART PARK NT 0820,Townhouse,2,2,2,247m² ,30 Oct 2017
+"845,000 ","3/8 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,358m² ,17 Oct 2017
+"445,000","1/11 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,308m² ,02 Oct 2017
+"675,000 ","2/2 Bradhurst Court,",BAYVIEW NT 0820,Townhouse,4,2,2,580m² ,22 Sep 2017
+"320,000 ","1/5 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,154m² ,20 Sep 2017
+"410,000","35 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,598m² ,29 Aug 2017
+"625,000 ","13 Bayview Boulevard,",BAYVIEW NT 0820,Vacant land,0,0,0,975m² ,25 Aug 2017
+"786,500","2/6 Packard Street,",LARRAKEYAH NT 0820,Townhouse,3,2,3,274m² ,23 Aug 2017
+"380,000","14/3 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,2,2,2,130m² ,14 Aug 2017
+"709,000","16/12 Paspaley Place,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,193m² ,10 Aug 2017
+"505,000 ","11/5 Lambell Terrace,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,240m² ,10 Aug 2017
+"300,000","3/7 May Street,",LUDMILLA NT 0820,Apartment / Unit / Flat,2,1,1,239m² ,08 Aug 2017
+"400,000","17/3 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,204m² ,30 Jun 2017
+"338,000 ","10/7 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,149m² ,27 Jun 2017
+"525,000 ","2/65 Stoddart Drive,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,288m² ,21 Jun 2017
+"830,000","2/16 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,284m² ,24 May 2017
+"259,000","6/8 Banyan Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,65m² ,19 May 2017
+"485,000","9/6 Warrego Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,157m² ,19 May 2017
+"920,000","24/4 Myilly Terrace,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,197m² ,16 May 2017
+"770,000 ","2/10 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,4,3,2,404m² ,12 May 2017
+"540,000 ","2/9 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,290m² ,08 May 2017
+"420,000","2/9 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,205m² ,03 May 2017
+"415,000","9/11 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,153m² ,24 Mar 2017
+"420,000 ","403/12 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,1,119m² ,2017
+"720,000","57/6 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,3,2,287m² ,16 Mar 2017
+"440,000 ","1/36 Coronation Drive,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,288m² ,15 Mar 2017
+"285,000","1/4 Barossa Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,1,1,−,212m² ,10 Mar 2017
+"660,000 ","35/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,250m² ,22 Feb 2017
+"285,000 ","3/126 Mitchell Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,1,1,1,87m² ,13 Feb 2017
+"380,000 ","9/3 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,172m² ,13 Feb 2017
+"485,000 ","1/5 Annear Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,382m² ,23 Jan 2017
+"850,000 ","3/16 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,2,2,313m² ,21 Dec 2016
+"415,000 ","11/39 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,197m² ,02 Dec 2016
+"563,000 ","3/20 Barossa Street,",LARRAKEYAH NT 0820,Townhouse,4,2,2,312m² ,01 Dec 2016
+"350,000","13/5 Manila Place,",WOOLNER NT 0820,Apartment / Unit / Flat,2,2,2,124m² ,25 Nov 2016
+"400,000","1/73B Ruddick Circuit,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,197m² ,24 Nov 2016
+"475,000 ","12/3 Manila Place,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,181m² ,10 Nov 2016
+"535,000 ","3/4 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,2,2,292m² ,09 Nov 2016
+"485,000 ","57 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,689m² ,04 Nov 2016
+"298,500 ","12/16 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,79m² ,01 Sep 2016
+"660,000 ","9/1 Brewery Place,",WOOLNER NT 0820,Apartment / Unit / Flat,4,2,2,529m² ,31 Aug 2016
+"385,000 ","10/8 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,1,163m² ,16 Aug 2016
+"700,000 ","1/46 East Point Road,",FANNIE BAY NT 0820,Townhouse,3,2,2,410m² ,18 Jul 2016
+"490,000 ","7/3 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,257m² ,18 Jul 2016
+"403,000","3/35 Eden Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,2,345m² ,06 Jul 2016
+"390,000","3/6 Houston Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,189m² ,21 Jun 2016
+"620,000","15 Notley Place,",PARAP NT 0820,Vacant land,0,0,0,809m² ,01 Jun 2016
+"715,000","14/17 Dinah Crt,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,201m² ,23 May 2016
+"304,500 ","20/16 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,1,1,1,79m² ,16 May 2016
+"417,000 ","5/18 Charles Street,",STUART PARK NT 0820,Townhouse,2,1,2,209m² ,26 Apr 2016
+"730,000 ","19/12 Paspaley Place,",CULLEN BAY NT 0820,Apartment / Unit / Flat,3,2,2,193m² ,13 Apr 2016
+"700,000 ","18 Muzzell Street,",BAYVIEW NT 0820,Vacant land,0,0,0,"1,100m² ",10 Mar 2016
+"400,000 ","5/2 Tsolos Place,",THE NARROWS NT 0820,Apartment / Unit / Flat,2,1,1,268m² ,18 Feb 2016
+"1,300,000 ","1/23 Paspaley Place,",CULLEN BAY NT 0820,Townhouse,4,2,2,448m² ,15 Jan 2016
+"442,500 ","13/6 Marina Blvd,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,2,136m² ,18 Dec 2015
+"325,000 ","3/124 Mitchell Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,96m² ,18 Nov 2015
+"538,000","7/7 St John Court,",THE GARDENS NT 0820,Apartment / Unit / Flat,2,2,2,310m² ,16 Nov 2015
+"780,000","3/23 Packard St,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,376m² ,30 Jun 2015
+"325,000","2/4 Barossa Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,1,1,−,145m² ,26 May 2015
+"525,000 ","15/3 Dinah court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,197m² ,08 May 2015
+"830,000 ","2/44 O'Ferrals Road,",BAYVIEW NT 0820,Townhouse,3,2,4,440m² ,10 Apr 2015
+"537,500 ","2/23 Bayview Street,",FANNIE BAY NT 0820,Townhouse,2,2,1,228m² ,24 Mar 2015
+"650,000 ","3/22 Philip Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,1,2,410m² ,20 Mar 2015
+"725,000 ","4/45 O'Ferrals Road,",BAYVIEW NT 0820,Townhouse,3,3,3,429m² ,17 Mar 2015
+"412,000","20 Duke Street,",STUART PARK NT 0820,Vacant land,0,0,0,453m² ,06 Mar 2015
+"412,000","20 Duke Street,",STUART PARK NT 0820,Vacant land,0,0,0,453m² ,06 Mar 2015
+"770,000 ","1/8 Melville Street,",THE GARDENS NT 0820,Townhouse,3,2,2,337m² ,17 Feb 2015
+"670,000 ","2/8 Pope Place,",BAYVIEW NT 0820,Townhouse,3,2,2,367m² ,2015
+"480,000 ","26 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,545m² ,29 Jan 2015
+"482,500 ","12/29 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,2,1,2,198m² ,22 Dec 2014
+"325,000 ","59 Flinders Drive,",STUART PARK NT 0820,Vacant land,0,0,0,815m² ,2014
+"547,000 ","1/22 Tipperary Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,299m² ,13 Nov 2014
+"640,000 ","5/18 Annear Court,",STUART PARK NT 0820,Townhouse,3,3,3,303m² ,31 Oct 2014
+"687,000 ","3/75 Cullen Bay Crescent,",CULLEN BAY NT 0820,Townhouse,3,2,3,350m² ,23 Oct 2014
+"763,000 ","4/9 Philip Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,2,2,241m² ,14 Oct 2014
+"485,000 ","5/73A Ruddick Circuit,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,164m² ,09 Oct 2014
+"750,000 ","6/8 Annear Court,",STUART PARK NT 0820,Townhouse,3,2,2,295m² ,24 Sep 2014
+"625,000 ","4/15 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,2,2,379m² ,15 Sep 2014
+"555,000 ","25/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,182m² ,29 Aug 2014
+"520,000","8/4A Bishop Street,",WOOLNER NT 0820,Apartment / Unit / Flat,3,2,2,161m² ,14 Aug 2014
+"495,000 ","3/7 Weddell Street,",PARAP NT 0820,Townhouse,2,1,1,220m² ,18 Jul 2014
+"697,000 ","1/38 Fanning Drive,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,3,390m² ,16 Jul 2014
+"635,000 ","30/2 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,170m² ,01 Jul 2014
+"315,000 ","4/7 Montoro Court,",LARRAKEYAH NT 0820,Studio,− 0,1,2,72m² ,18 Jun 2014
+"455,000 ","9/7 Montoro Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,2,149m² ,23 May 2014
+"790,000 ","2/30 George Crescent,",FANNIE BAY NT 0820,Apartment / Unit / Flat,3,3,2,278m² ,07 Apr 2014
+"578,500 ","10/1 Michie Court,",BAYVIEW NT 0820,Apartment / Unit / Flat,3,2,2,181m² ,03 Apr 2014
+"730,000 ","3/4 Annear Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,385m² ,02 Apr 2014
+"420,000 ","1/5 Fleming Street,",THE NARROWS NT 0820,Apartment / Unit / Flat,2,1,2,243m² ,26 Mar 2014
+"370,000 ","71/23 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,18 Feb 2014
+"700,000 ","22/2 Mitaros Place,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,195m² ,13 Feb 2014
+"685,000 ","3/81 Cullen Bay Crescent,",CULLEN BAY NT 0820,Townhouse,3,2,2,343m² ,12 Feb 2014
+"722,500 ","10/12 Paspaley Place,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,223m² ,22 Jan 2014
+"408,000 ","60/17 May Street,",LUDMILLA NT 0820,Apartment / Unit / Flat,3,1,1,167m² ,13 Jan 2014
+"631,000 ","1/17 Westralia Street,",STUART PARK NT 0820,Apartment / Unit / Flat,3,1,2,303m² ,06 Jan 2014
+"442,500 ","2/127 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,2,124m² ,09 Dec 2013
+"365,000 ","12 Ruddick Circuit,",STUART PARK NT 0820,Vacant land,0,0,0,453m² ,09 Dec 2013
+"365,000 ","2/17 Bayview Street,",FANNIE BAY NT 0820,Apartment / Unit / Flat,2,1,1,133m² ,03 Dec 2013
+"820,000","1/14 Philip Street,",FANNIE BAY NT 0820,Townhouse,3,− 0,3,429m² ,29 Nov 2013
+"705,000 ","3/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,310m² ,29 Nov 2013
+"777,500 ","2/46 East Point Road,",FANNIE BAY NT 0820,Townhouse,3,2,2,367m² ,27 Nov 2013
+"520,000 ","3/31 Coronation Drive,",STUART PARK NT 0820,Townhouse,2,2,2,248m² ,22 Nov 2013
+"755,000 ","3/17 Gardens Hill Crescent,",THE GARDENS NT 0820,Townhouse,3,3,2,281m² ,11 Nov 2013
+"470,000 ","11 Bradhurst,",BAYVIEW NT 0820,Vacant land,0,0,0,808m² ,01 Nov 2013
+"465,000 ","5/35 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,160m² ,01 Oct 2013
+"830,000 ","16/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,2,240m² ,30 Sep 2013
+"990,000 ","2/15 Tipperary Court,",STUART PARK NT 0820,Townhouse,3,2,2,338m² ,23 Sep 2013
+"710,000 ","4/8 Melville Street,",THE GARDENS NT 0820,Townhouse,3,2,2,283m² ,05 Sep 2013
+"659,000 ","39/1 Daly Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,151m² ,06 Aug 2013
+"661,000 ","13/148 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,205m² ,03 Jul 2013
+"598,000 ","1/4 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,181m² ,27 Jun 2013
+"680,000 ","4/44 Bayview Boulevard,",BAYVIEW NT 0820,Townhouse,3,2,2,258m² ,20 Jun 2013
+"635,000 ","1/3 Lambell Terrace,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,4,494m² ,06 Jun 2013
+"595,000 ","11/63 Marina Boulevard,",CULLEN BAY NT 0820,Apartment / Unit / Flat,2,2,2,145m² ,29 May 2013
+"670,000 ","4/75 Cullen Bay Crescent,",CULLEN BAY NT 0820,Townhouse,3,2,2,312m² ,16 May 2013
+"1,100,000 ","2 George Crescent,",FANNIE BAY NT 0820,Vacant land,0,0,0,"1,160m² ",2013
+"1,100,000 ","1/15 Hinkler Crescent,",FANNIE BAY NT 0820,Townhouse,4,3,2,439m² ,14 May 2013
+"515,000 ","75/14 Salonika Street,",PARAP NT 0820,Apartment / Unit / Flat,3,2,3,279m² ,02 May 2013
+"515,000 ","2/30C Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,2,2,184m² ,02 May 2013
+"2,900,000 ","10 Duke Street,",STUART PARK NT 0820,Vacant land,0,0,0,"1,850m² ",05 Apr 2013
+"490,000 ","4/27 Hinkler Crescent,",FANNIE BAY NT 0820,Townhouse,3,1,1,228m² ,26 Mar 2013
+"795,000 ","2/36 Armidale Street,",STUART PARK NT 0820,Townhouse,3,2,2,318m² ,26 Mar 2013
+"415,000 ","7/6 Beagle Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,108m² ,05 Mar 2013
+"507,000 ","2/3 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,3,2,2,158m² ,04 Mar 2013
+"382,000 ","11/15 Duke Street,",STUART PARK NT 0820,Apartment / Unit / Flat,2,1,1,79m² ,22 Feb 2013
+"520,000","1 Notley Place,",PARAP NT 0820,Vacant land,0,0,0,868m² ,21 Feb 2013
+"387,000 ","7/11 Barossa Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,1,64m² ,17 Jan 2013
+"407,500 ","2/7 Merkur Court,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,2,127m² ,10 Jan 2013
+"450,000 ","6/127 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,1,2,124m² ,20 Dec 2012
+"497,500 ","20/7 Manila Place,",WOOLNER NT 0820,Apartment / Unit / Flat,2,2,2,131m² ,14 Dec 2012
+"475,000 ","13/12 MacKillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,122m² ,07 Dec 2012
+"475,000 ","7/16 Mackillop Street,",PARAP NT 0820,Apartment / Unit / Flat,2,2,2,198m² ,02 Nov 2012
+"533,000 ","4/10 Henry Street,",STUART PARK NT 0820,Townhouse,3,2,2,198m² ,01 Nov 2012
+"335,000 ","76/16 Hudson Fysh Avenue,",PARAP NT 0820,Apartment / Unit / Flat,2,1,1,69m² ,19 Oct 2012
+"539,000 ","4/6 Dinah Court,",STUART PARK NT 0820,Apartment / Unit / Flat,3,2,2,268m² ,01 Oct 2012
+"440,000 ","7/127 Smith Street,",LARRAKEYAH NT 0820,Apartment / Unit / Flat,2,2,2,130m² ,24 Aug 2012
+"510,000","3 Notley Place,",PARAP NT 0820,Vacant land,0,0,0,932m² ,14 May 2012
+"520,000","5 Notley Place,",PARAP NT 0820,Vacant land,0,0,0,839m² ,16 Mar 2012
+"577,500","11 Notley Place,",PARAP NT 0820,Vacant land,0,0,0,872m² ,11 Nov 2011

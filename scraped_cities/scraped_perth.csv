@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,778,000 ","184 Lake Street,",PERTH WA 6000,House,3,2,2,200m² ,11 Apr 2024
+"370,000 ","211/112 Mounts Bay Road,",PERTH WA 6000,House,2,1,2,114m² ,13 Mar 2024
+"805,000 ","24 Ruth Street,",PERTH WA 6000,House,3,1,−,171m² ,02 Feb 2024
+"360,000 ","301/112 Mounts Bay Road,",PERTH WA 6000,House,2,1,2,112m² ,02 Feb 2024
+"1,425,000 ","32 Brookman Street,",PERTH WA 6000,House,4,1,1,301m² ,14 Jan 2024
+"399,000 ","6/71 Parry Street,",PERTH WA 6000,House,2,1,1,98m² ,10 Jan 2024
+"965,000 ","226 Brisbane Street,",PERTH WA 6000,Semi-detached,3,1,1,176m² ,23 Dec 2023
+"1,165,000 ","10 Moir Street,",PERTH WA 6000,House,3,1,1,301m² ,05 Dec 2023
+"860,000 ","234 Lord Street,",PERTH WA 6000,House,3,3,4,170m² ,04 Dec 2023
+"1,330,000 ","50 Randell Street,",PERTH WA 6000,House,4,2,2,607m² ,29 Nov 2023
+"880,000 ","13/45-47 Stuart Street,",PERTH WA 6000,House,3,2,2,244m² ,28 Nov 2023
+"829,000 ","2/127 Lake Street,",PERTH WA 6000,House,2,2,1,172m² ,17 Nov 2023
+"1,220,000 ","11 Moir Street,",PERTH WA 6000,House,3,2,2,284m² ,07 Nov 2023
+"1,150,000 ","254 Lake Street,",PERTH WA 6000,House,2,1,1,226m² ,01 Nov 2023
+"1,080,000 ","2/45-47 Stuart Street,",PERTH WA 6000,House,3,2,2,247m² ,26 Oct 2023
+"545,000 ","11 Primrose Street,",PERTH WA 6000,House,2,1,−,144m² ,2023
+"930,000 ","125 Lincoln Street,",PERTH WA 6000,House,2,1,−,304m² ,19 Oct 2023
+"1,060,000 ","11 Orange Avenue,",PERTH WA 6000,House,2,1,2,220m² ,22 Sep 2023
+"1,580,000 ","7 McCarthy Street,",PERTH WA 6000,House,3,2,2,306m² ,11 Aug 2023
+"906,800 ","53 Lindsay Street,",PERTH WA 6000,House,4,1,2,359m² ,26 Jul 2023
+"955,000 ","143 Bulwer Street,",PERTH WA 6000,House,3,1,3,385m² ,21 Jul 2023
+"948,000 ","10 Knebworth Avenue,",PERTH WA 6000,House,3,2,2,364m² ,13 Jul 2023
+"360,000 ","42/569 Wellington Street,",PERTH WA 6000,House,1,2,−,94m² ,23 Jun 2023
+"903,000 ","19 Marlborough Street,",PERTH WA 6000,House,3,1,−,498m² ,20 Jun 2023
+"2,120,000 ","46 Money Street,",PERTH WA 6000,House,10,4,4,486m² ,20 Jun 2023
+"1,290,000 ","19 Moir Street,",PERTH WA 6000,House,5,2,−,286m² ,15 Jun 2023
+"970,000 ","28A Windsor Street,",PERTH WA 6000,House,2,2,3,242m² ,03 May 2023
+"1,675,000 ","60 Randell Street,",PERTH WA 6000,House,2,2,−,162m² ,17 Apr 2023
+"1,310,000 ","21 Moir Street,",PERTH WA 6000,House,4,2,1,279m² ,19 Mar 2023
+"850,000 ","256 Bulwer Street,",PERTH WA 6000,House,2,1,1,203m² ,13 Mar 2023
+"1,200,000 ","5 Glendower Street,",PERTH WA 6000,House,3,2,2,301m² ,23 Jan 2023
+"1,370,000 ","232 Lake Street,",PERTH WA 6000,House,3,2,2,378m² ,16 Dec 2022
+"975,000 ","18 Church Street,",PERTH WA 6000,House,2,1,1,176m² ,12 Dec 2022
+"330,000 ","23/250 Beaufort Street,",PERTH WA 6000,House,1,1,1,79m² ,28 Nov 2022
+"845,000 ","15 Lane Street,",PERTH WA 6000,House,2,1,−,198m² ,27 Nov 2022
+"840,000 ","16 Lacey Street,",PERTH WA 6000,House,3,1,−,304m² ,17 Nov 2022
+"1,210,000 ","9 Grant Street,",PERTH WA 6000,House,3,1,−,317m² ,08 Nov 2022
+"790,000 ","9 Lincoln Street,",PERTH WA 6000,House,2,1,1,222m² ,03 Oct 2022
+"925,000 ","129 Lake Street,",PERTH WA 6000,House,3,2,−,196m² ,29 Sep 2022
+"1,200,000 ","158 Lake Street,",PERTH WA 6000,House,3,2,−,201m² ,31 Aug 2022
+"1,150,000 ","58 Palmerston Street,",PERTH WA 6000,House,5,1,4,443m² ,16 Aug 2022
+"880,000 ","58 Bulwer Street,",PERTH WA 6000,House,2,1,2,296m² ,20 Jul 2022
+"1,325,000 ","56 Randell Street,",PERTH WA 6000,House,3,1,2,607m² ,12 Jul 2022
+"1,450,000 ","39 Marlborough Street,",PERTH WA 6000,House,3,2,2,498m² ,12 Jul 2022
+"1,300,000 ","179 Lake Street,",PERTH WA 6000,House,3,2,1,343m² ,06 Jul 2022
+"930,000 ","204 Bulwer Street,",PERTH WA 6000,House,2,1,2,405m² ,30 Jun 2022
+"880,000 ","99 Glendower Street,",PERTH WA 6000,House,2,1,1,180m² ,18 May 2022
+"920,000 ","311 Bulwer Street,",PERTH WA 6000,House,3,2,1,304m² ,18 May 2022
+"892,000 ","254 Bulwer Street,",PERTH WA 6000,House,3,1,−,262m² ,28 Apr 2022
+"1,005,000 ","23 Brookman Street,",PERTH WA 6000,House,3,1,1,304m² ,26 Apr 2022
+"1,450,000 ","166 Lake Street,",PERTH WA 6000,House,3,2,1,197m² ,21 Mar 2022
+"828,000 ","7/63 Palmerston Street,",PERTH WA 6000,House,4,2,2,270m² ,16 Mar 2022
+"729,000 ",,PERTH WA 6000,House,2,1,−,195m² ,11 Mar 2022
+"838,000 ","7 Primrose Street,",PERTH WA 6000,House,2,2,2,178m² ,16 Feb 2022
+"1,250,000 ","91 Glendower Street,",PERTH WA 6000,House,4,2,1,167m² ,11 Feb 2022
+"412,000 ","61/99 Palmerston Street,",PERTH WA 6000,House,1,1,1,88m² ,06 Feb 2022
+"1,002,000 ","3 Pisconeri Street,",PERTH WA 6000,House,3,2,2,378m² ,25 Jan 2022
+"810,000 ","3 McCarthy Street,",PERTH WA 6000,House,5,2,−,306m² ,22 Oct 2021
+"1,150,000 ","123A Glendower Street,",PERTH WA 6000,House,4,2,3,278m² ,20 Oct 2021
+"790,000 ","46 Palmerston Street,",PERTH WA 6000,House,3,1,−,343m² ,13 Oct 2021
+"1,400,000 ","29 Windsor Street,",PERTH WA 6000,House,3,1,3,"1,162m² ",27 Sep 2021
+"680,000 ","13 Chapman Street,",PERTH WA 6000,House,2,1,2,222m² ,23 Sep 2021
+"915,000 ","2A Hope Street,",PERTH WA 6000,House,3,2,2,196m² ,14 Sep 2021
+"1,100,000 ","13 Lindsay Street,",PERTH WA 6000,House,3,2,3,262m² ,19 Aug 2021
+"1,050,000 ","172 Lake Street,",PERTH WA 6000,House,3,2,−,198m² ,08 Jun 2021
+"1,000,000 ","392 Beaufort Street,",PERTH WA 6000,House,3,2,5,385m² ,20 Apr 2021
+"860,000 ","195 Lake Street,",PERTH WA 6000,House,3,1,2,268m² ,19 Jan 2021
+"975,000 ","123 Glendower Street,",PERTH WA 6000,House,4,2,2,278m² ,18 Dec 2020
+"1,350,000 ","79 Glendower Street,",PERTH WA 6000,House,3,3,2,196m² ,02 Dec 2020
+"895,000 ","3 Brookman Street,",PERTH WA 6000,House,4,1,2,302m² ,29 Oct 2020
+"712,500 ","154a Lake Street,",PERTH WA 6000,House,3,2,1,189m² ,04 Oct 2020
+"735,000 ","23 Knebworth Avenue,",PERTH WA 6000,House,2,1,−,263m² ,01 Oct 2020
+"790,000 ","14 Hope Street,",PERTH WA 6000,House,2,1,2,409m² ,14 Sep 2020
+"820,000 ","193 Lake Street,",PERTH WA 6000,House,3,1,−,273m² ,26 Aug 2020
+"810,000 ","10 Church Street,",PERTH WA 6000,House,3,2,1,144m² ,17 Jun 2020
+"1,000,000 ","166 Lake Street,",PERTH WA 6000,House,3,2,1,197m² ,10 Apr 2020
+"615,000 ","27 Lane Street,",PERTH WA 6000,House,2,1,−,197m² ,09 Mar 2020
+"620,000 ","43 West Parade,",PERTH WA 6000,Semi-detached,2,1,2,233m² ,11 Feb 2020
+"880,000 ","10 Robinson Avenue,",PERTH WA 6000,House,2,2,2,241m² ,09 Feb 2020
+"940,000 ","200 Bulwer Street,",PERTH WA 6000,House,3,2,8,405m² ,22 Dec 2019
+"660,000 ","21 Brookman Street,",PERTH WA 6000,House,3,1,1,301m² ,02 Dec 2019
+"845,000 ","16 Hope Street,",PERTH WA 6000,House,3,1,2,403m² ,15 Oct 2019
+"800,000 ","39 Ruth Street,",PERTH WA 6000,House,3,1,−,339m² ,28 Jul 2019
+"695,000 ","20A Windsor Street,",PERTH WA 6000,House,3,1,2,205m² ,03 May 2019
+"315,000 ","9/87 Bulwer Street,",PERTH WA 6000,House,1,1,1,78m² ,20 Nov 2018
+"950,000 ","117A Summers Street,",PERTH WA 6000,House,4,3,2,310m² ,15 Nov 2018
+"770,000 ","115A Summers Street,",PERTH WA 6000,House,3,2,2,274m² ,11 Nov 2018
+"430,000 ","9/252 Bulwer Street,",PERTH WA 6000,House,2,1,1,84m² ,04 Jul 2018
+"590,000 ","10 Wade Street,",PERTH WA 6000,House,3,2,2,148m² ,06 Jun 2018
+"675,000 ","5 Lincoln Street,",PERTH WA 6000,House,0,0,0,435m² ,11 May 2018
+"840,000 ","123 Lincoln Street,",PERTH WA 6000,House,2,1,1,303m² ,14 Mar 2018
+"830,000 ","13 Brookman Street,",PERTH WA 6000,House,4,1,−,323m² ,07 Mar 2018
+"835,000 ","39 Knebworth Avenue,",PERTH WA 6000,House,3,2,2,222m² ,18 Jan 2018
+"910,000 ","314A Bulwer Street,",PERTH WA 6000,House,4,3,2,313m² ,03 Dec 2017
+"784,000 ","2/111 Summers Street,",PERTH WA 6000,House,4,2,2,265m² ,26 Sep 2017
+"780,000 ","48A Bulwer Street,",PERTH WA 6000,House,3,2,2,238m² ,07 Sep 2017
+"835,000 ","57 Lindsay Street,",PERTH WA 6000,House,4,2,1,298m² ,19 Aug 2017
+"700,000 ","2/18 Robinson Avenue,",PERTH WA 6000,House,3,2,2,203m² ,13 Jul 2017
+"1,025,000 ","18 Stuart Street,",PERTH WA 6000,House,4,2,1,433m² ,20 Feb 2017
+"770,000 ","41 Monger,",PERTH WA 6000,House,3,1,3,324m² ,21 Jul 2016
+"660,000 ","12 Brisbane Terrace,",PERTH WA 6000,House,2,1,−,166m² ,03 Nov 2015
+"960,000 ","30 Lane Street,",PERTH WA 6000,House,3,2,1,395m² ,05 Nov 2014
+"398,000 ","Lot 2/23 Chapman Street,",PERTH WA 6000,House,0,0,0,206m² ,27 Mar 2014
+"616,000 ","7 Grant,",PERTH WA 6000,House,3,1,2,261m² ,25 Jun 2012
+"2,000,000 ","57 Bradford Street,",MENORA WA 6050,House,5,2,2,802m² ,26 Apr 2024
+"1,300,000 ","78 Vincent Street,",MOUNT LAWLEY WA 6050,House,3,1,1,569m² ,24 Apr 2024
+"1,888,888 ","90 Lawley Crescent,",MOUNT LAWLEY WA 6050,House,3,1,6,999m² ,23 Apr 2024
+"2,080,000 ","47 Verdun Street,",NEDLANDS WA 6009,House,4,3,2,315m² ,23 Apr 2024
+"1,400,000 ","8 Freedman Road,",MENORA WA 6050,House,4,2,2,809m² ,22 Apr 2024
+"1,457,000 ","107A Forrest Street,",NORTH PERTH WA 6006,House,3,3,2,210m² ,22 Apr 2024
+"1,410,000 ","60 Redfern Street,",NORTH PERTH WA 6006,House,2,1,2,566m² ,19 Apr 2024
+"2,600,000 ","26 Leon Road,",DALKEITH WA 6009,House,4,3,2,"1,012m² ",16 Apr 2024
+"2,620,000 ","8 Ruby Street,",NORTH PERTH WA 6006,House,5,4,4,613m² ,15 Apr 2024
+"1,300,000 ","11 Cavendish Street,",HIGHGATE WA 6003,House,3,1,−,346m² ,08 Apr 2024
+"1,660,000 ","66 First Avenue,",MOUNT LAWLEY WA 6050,House,4,2,4,600m² ,05 Apr 2024
+"2,700,000 ","43 Hartwell Street,",COOLBINIA WA 6050,House,4,3,2,"1,378m² ",02 Apr 2024
+"1,950,000 ","19 Armadale Crescent,",COOLBINIA WA 6050,House,4,2,2,799m² ,30 Mar 2024
+"1,540,000 ","28 Norfolk Street,",MOUNT LAWLEY WA 6050,House,4,1,2,"7,942m² ",27 Mar 2024
+"2,350,000 ","57 Napier Street,",NEDLANDS WA 6009,House,4,2,3,696m² ,27 Mar 2024
+"1,277,000 ","1 Norham Street,",NORTH PERTH WA 6006,House,4,2,2,205m² ,27 Mar 2024
+"1,400,000 ","129A West Parade,",MOUNT LAWLEY WA 6050,House,3,3,2,280m² ,26 Mar 2024
+"1,670,000 ","107 Hardy Road,",NEDLANDS WA 6009,House,4,1,2,491m² ,25 Mar 2024
+"925,000 ","1/45 Barlee Street,",MOUNT LAWLEY WA 6050,House,3,3,2,195m² ,22 Mar 2024
+"1,700,000 ","33 Everett Street,",CRAWLEY WA 6009,House,4,2,2,683m² ,19 Mar 2024
+"1,050,000 ","47 Douglas Avenue,",SOUTH PERTH WA 6151,House,4,3,2,347m² ,19 Mar 2024
+"1,255,000 ","10 Farr Avenue,",NORTH PERTH WA 6006,House,3,1,3,486m² ,18 Mar 2024
+"1,960,000 ","34 Burt Street,",MOUNT LAWLEY WA 6050,House,4,2,2,453m² ,17 Mar 2024
+"1,525,000 ","180 Vincent Street,",NORTH PERTH WA 6006,House,4,2,2,511m² ,14 Mar 2024
+"830,000 ","2/207 Walcott Street,",NORTH PERTH WA 6006,House,3,2,2,190m² ,13 Mar 2024
+"630,000 ","408/8 Adelaide Terrace,",EAST PERTH WA 6004,House,2,2,1,133m² ,12 Mar 2024
+"2,550,000 ","1 Granby Crescent,",NEDLANDS WA 6009,House,5,2,2,999m² ,12 Mar 2024
+"1,050,000 ","1B Second Avenue,",MOUNT LAWLEY WA 6050,House,4,1,3,404m² ,11 Mar 2024
+"940,000 ","127 Douglas Avenue,",SOUTH PERTH WA 6151,House,3,1,2,307m² ,11 Mar 2024
+"1,258,000 ","106 Williams Road,",NEDLANDS WA 6009,House,2,2,2,343m² ,08 Mar 2024
+"1,550,000 ","52 Clarence Street,",MOUNT LAWLEY WA 6050,House,3,2,2,230m² ,07 Mar 2024
+"1,185,000 ","7 Pansy Street,",NORTH PERTH WA 6006,House,3,2,−,220m² ,05 Mar 2024
+"1,320,000 ","5 Fifth Avenue,",KENSINGTON WA 6151,House,5,3,5,770m² ,01 Mar 2024
+"3,700,000 ","64 Queens Crescent,",MOUNT LAWLEY WA 6050,House,5,4,4,"1,113m² ",29 Feb 2024
+"1,330,000 ","24 Wittenoom Street,",EAST PERTH WA 6004,House,3,3,2,234m² ,28 Feb 2024
+"1,300,000 ","17 Haynes Street,",NORTH PERTH WA 6006,House,3,1,4,501m² ,28 Feb 2024
+"1,275,000 ","76 Lansdowne Road,",KENSINGTON WA 6151,House,3,1,1,815m² ,27 Feb 2024
+"1,490,000 ","31 Meriwa Street,",NEDLANDS WA 6009,House,2,1,3,455m² ,27 Feb 2024
+"1,390,000 ","59 Douglas Ave,",SOUTH PERTH WA 6151,House,4,2,4,307m² ,27 Feb 2024
+"1,350,000 ","58 Chatsworth Road,",HIGHGATE WA 6003,House,4,1,−,316m² ,26 Feb 2024
+"685,000 ","7/6 Strickland Street,",SOUTH PERTH WA 6151,Villa,2,1,2,85m² ,25 Feb 2024
+"8,250,000 ","144A Victoria Avenue,",DALKEITH WA 6009,House,4,4,3,"1,267m² ",23 Feb 2024
+"1,280,000 ","6 Cadney Lane,",MOUNT LAWLEY WA 6050,House,3,2,4,201m² ,21 Feb 2024
+"1,298,800 ","7/20 Stone Street,",SOUTH PERTH WA 6151,House,3,2,2,298m² ,20 Feb 2024
+"1,020,000 ","90A Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,310m² ,19 Feb 2024
+"1,880,000 ","112 Hensman Street,",SOUTH PERTH WA 6151,House,3,2,3,713m² ,19 Feb 2024
+"500,000 ","4/17 Adair Parade,",COOLBINIA WA 6050,House,2,2,1,91m² ,16 Feb 2024
+"2,650,000 ","92 Archdeacon Street,",NEDLANDS WA 6009,House,5,3,2,809m² ,16 Feb 2024
+"765,000 ","6/34 Martin Avenue,",NEDLANDS WA 6009,House,3,2,1,175m² ,15 Feb 2024
+"1,800,000 ","123 Raglan Road,",NORTH PERTH WA 6006,House,4,2,2,577m² ,15 Feb 2024
+"1,447,000 ","43 Fifth Avenue,",MOUNT LAWLEY WA 6050,House,3,1,2,539m² ,14 Feb 2024
+"1,185,000 ","106A Joel Terrace,",MOUNT LAWLEY WA 6050,House,4,3,2,339m² ,13 Feb 2024
+"2,580,000 ","31 Martin Avenue,",NEDLANDS WA 6009,House,4,3,2,"1,012m² ",13 Feb 2024
+"2,650,000 ","47 Melvista Avenue,",NEDLANDS WA 6009,House,3,2,2,716m² ,12 Feb 2024
+"740,000 ","64A London Street,",NORTH PERTH WA 6006,House,3,1,1,263m² ,12 Feb 2024
+01 ,"31 Brandon Street,",SOUTH PERTH WA 6151,House,4,2,2,491m² ,12 Feb 2024
+"1,351,000 ","49 David Street,",KENSINGTON WA 6151,House,3,2,2,806m² ,11 Feb 2024
+"3,500,000 ","33 Circe Circle,",DALKEITH WA 6009,House,3,2,2,"1,012m² ",10 Feb 2024
+"325,000 ","106/29 Melville Parade,",SOUTH PERTH WA 6151,House,1,1,1,73m² ,09 Feb 2024
+"2,100,000 ","8-10 Altona Street,",WEST PERTH WA 6005,House,4,1,5,653m² ,09 Feb 2024
+"587,000 ","3/49 Fourth Avenue,",MOUNT LAWLEY WA 6050,Villa,2,1,1,88m² ,08 Feb 2024
+"1,530,000 ","22 Kanimbla Road,",NEDLANDS WA 6009,House,3,1,2,490m² ,08 Feb 2024
+"1,125,000 ",,NEDLANDS WA 6009,House,3,2,2,250m² ,07 Feb 2024
+"2,650,000 ","17 Thomas Street,",NEDLANDS WA 6009,House,4,2,4,"1,012m² ",06 Feb 2024
+"900,000 ","13 Green Street,",NORTH PERTH WA 6006,House,3,2,2,393m² ,06 Feb 2024
+"1,700,000 ","87 Strickland Street,",SOUTH PERTH WA 6151,House,4,2,2,788m² ,05 Feb 2024
+"680,000 ","21/21 Altona Street,",WEST PERTH WA 6005,House,2,2,1,107m² ,03 Feb 2024
+"3,400,000 ","29 Dumbarton Crescent,",MENORA WA 6050,House,5,3,2,766m² ,31 Jan 2024
+"2,000,000 ","30A Williams Road,",NEDLANDS WA 6009,House,4,3,4,342m² ,30 Jan 2024
+"1,100,000 ","2 Elma Street,",NORTH PERTH WA 6006,House,2,1,1,496m² ,30 Jan 2024
+"2,755,000 ","18 Warralong Crescent,",COOLBINIA WA 6050,House,4,4,2,880m² ,29 Jan 2024
+"2,050,000 ",,NEDLANDS WA 6009,House,5,2,2,696m² ,29 Jan 2024
+"1,335,000 ","49 Clifton Street,",NEDLANDS WA 6009,House,3,1,2,455m² ,29 Jan 2024
+"1,825,000 ","140 Vincent St,",NORTH PERTH WA 6006,House,4,2,2,493m² ,29 Jan 2024
+"1,170,000 ","13 Westbury Road,",SOUTH PERTH WA 6151,House,2,1,2,519m² ,25 Jan 2024
+"1,850,000 ","9 Neville Road,",DALKEITH WA 6009,House,3,2,2,585m² ,2024
+"3,850,000 ","65 Tyrell Street,",NEDLANDS WA 6009,House,5,3,2,"1,012m² ",24 Jan 2024
+"1,050,000 ","4 Venn Street,",NORTH PERTH WA 6006,House,3,1,2,493m² ,24 Jan 2024
+"1,150,000 ","15A Selden Street,",NORTH PERTH WA 6006,House,3,1,2,386m² ,23 Jan 2024
+"5,300,000 ","87 Stanley Street,",NEDLANDS WA 6009,House,6,4,4,"1,012m² ",22 Jan 2024
+"1,520,000 ","51 View Street,",NORTH PERTH WA 6006,House,3,1,2,486m² ,22 Jan 2024
+"2,200,000 ","109 Fifth Avenue,",MOUNT LAWLEY WA 6050,House,4,3,3,632m² ,21 Jan 2024
+"1,650,000 ","26 Marmion Street,",NORTH PERTH WA 6006,House,3,1,1,"1,012m² ",19 Jan 2024
+"1,730,000 ","30 Venn Street,",NORTH PERTH WA 6006,House,5,2,2,607m² ,19 Jan 2024
+"2,200,000 ","386 Walcott St,",COOLBINIA WA 6050,House,6,5,10,"1,670m² ",18 Jan 2024
+"1,080,000 ","1A Alexander Drive,",MENORA WA 6050,House,3,1,2,"1,012m² ",18 Jan 2024
+"1,200,000 ","566 Newcastle Street,",WEST PERTH WA 6005,House,3,1,4,683m² ,18 Jan 2024
+"3,590,000 ","114 Waratah Avenue,",DALKEITH WA 6009,House,4,2,5,"1,012m² ",16 Jan 2024
+"1,100,000 ","8A Queens Crescent,",MOUNT LAWLEY WA 6050,House,4,2,2,521m² ,16 Jan 2024
+"1,081,000 ","492 Newcastle Street,",WEST PERTH WA 6005,House,3,1,−,696m² ,2024
+"1,050,000 ","8 Venn Street,",NORTH PERTH WA 6006,House,4,1,1,501m² ,15 Jan 2024
+"1,320,000 ","67 Chatsworth Road,",HIGHGATE WA 6003,House,3,1,1,336m² ,14 Jan 2024
+"1,730,000 ","1/29 Strickland Street,",SOUTH PERTH WA 6151,House,3,2,2,308m² ,14 Jan 2024
+"2,504,000 ","45 Forrest Street,",MOUNT LAWLEY WA 6050,House,3,2,3,557m² ,12 Jan 2024
+"1,900,000 ","1 Melrose Crescent,",MENORA WA 6050,House,4,3,3,"1,315m² ",11 Jan 2024
+"975,000 ","51 Wickham Street,",EAST PERTH WA 6004,House,2,1,1,508m² ,10 Jan 2024
+"1,035,000 ","1 Little Russell Street,",NORTH PERTH WA 6006,House,4,2,2,294m² ,10 Jan 2024
+"950,000 ","155 & 157 Alma Road,",NORTH PERTH WA 6006,Semi-detached,4,2,2,564m² ,10 Jan 2024
+"1,360,000 ","86 Smith Street,",MOUNT LAWLEY WA 6050,House,3,2,2,152m² ,08 Jan 2024
+"1,330,000 ","173 Central Avenue,",MOUNT LAWLEY WA 6050,House,4,2,2,281m² ,05 Jan 2024
+"850,000 ","27A Harold Street,",MOUNT LAWLEY WA 6050,House,3,1,2,206m² ,05 Jan 2024
+"1,325,000 ","26 Paddington Street,",NORTH PERTH WA 6006,House,3,1,3,789m² ,05 Jan 2024
+"1,605,000 ","42 Kanimbla Road,",NEDLANDS WA 6009,House,3,2,4,490m² ,03 Jan 2024
+"565,000 ","8/169 Canning Highway,",SOUTH PERTH WA 6151,Villa,3,1,1,243m² ,01 Jan 2024
+"1,695,000 ","56 Alma Road,",MOUNT LAWLEY WA 6050,House,4,2,2,602m² ,27 Dec 2023
+"665,000 ","14B First Avenue,",KENSINGTON WA 6151,House,3,1,1,260m² ,24 Dec 2023
+"1,670,000 ","10 Market Street,",KENSINGTON WA 6151,House,5,2,2,407m² ,22 Dec 2023
+"1,170,000 ","17 Elizabeth Street,",NORTH PERTH WA 6006,House,3,2,2,490m² ,22 Dec 2023
+"1,320,000 ","57 Eton Street,",NORTH PERTH WA 6006,House,4,1,2,675m² ,22 Dec 2023
+"780,000 ","13/69 Malcolm Street,",WEST PERTH WA 6005,House,3,2,2,174m² ,22 Dec 2023
+"1,777,300 ","114 Brandon Street,",KENSINGTON WA 6151,House,4,2,2,769m² ,21 Dec 2023
+"1,085,000 ","136A London Street,",NORTH PERTH WA 6006,House,4,2,3,284m² ,20 Dec 2023
+"1,135,000 ","39 Douglas Avenue,",SOUTH PERTH WA 6151,House,3,2,−,308m² ,20 Dec 2023
+"1,700,000 ","75 Second Avenue,",MOUNT LAWLEY WA 6050,House,3,1,2,880m² ,19 Dec 2023
+"1,250,000 ","372 Walcott Street,",COOLBINIA WA 6050,House,3,2,3,769m² ,18 Dec 2023
+"2,050,000 ","16 Pitt Street,",KENSINGTON WA 6151,House,5,3,4,797m² ,18 Dec 2023
+"1,375,000 ","61 Forrest Street,",MOUNT LAWLEY WA 6050,House,3,1,2,304m² ,18 Dec 2023
+"1,290,000 ","20 Victoria Street,",SOUTH PERTH WA 6151,House,3,1,2,304m² ,18 Dec 2023
+"2,250,000 ","23 Portland Street,",NEDLANDS WA 6009,House,3,2,4,905m² ,16 Dec 2023
+"1,250,000 ","26A Vincent Street,",MOUNT LAWLEY WA 6050,House,3,2,2,198m² ,15 Dec 2023
+"3,000,000 ","60 Bruce Street,",NEDLANDS WA 6009,House,5,3,2,880m² ,15 Dec 2023
+"955,000 ","170 Hensman Street,",KENSINGTON WA 6151,House,3,1,3,493m² ,14 Dec 2023
+"2,670,000 ","29 Clark Street,",NEDLANDS WA 6009,House,6,4,5,911m² ,14 Dec 2023
+"3,950,000 ","8 Cygnet Crescent,",DALKEITH WA 6009,House,5,3,4,"1,093m² ",13 Dec 2023
+"1,300,000 ","9B Princess Road,",CRAWLEY WA 6009,House,4,1,2,374m² ,12 Dec 2023
+"1,950,000 ","20 Richmond Street,",NORTH PERTH WA 6006,House,4,2,2,500m² ,12 Dec 2023
+"1,415,000 ","115 Second Avenue,",MOUNT LAWLEY WA 6050,House,3,2,3,376m² ,10 Dec 2023
+"1,700,000 ","60 Monmouth Street,",MOUNT LAWLEY WA 6050,House,5,2,2,"1,000m² ",08 Dec 2023
+"1,650,000 ","100A Smyth Road,",NEDLANDS WA 6009,House,3,2,2,307m² ,08 Dec 2023
+"1,250,000 ","14 Campsie Street,",NORTH PERTH WA 6006,House,3,2,1,436m² ,08 Dec 2023
+"1,421,000 ","10 Coode Street,",MOUNT LAWLEY WA 6050,House,3,1,1,607m² ,07 Dec 2023
+"1,615,000 ","6 Nova Lane,",NORTH PERTH WA 6006,House,4,2,2,528m² ,05 Dec 2023
+"590,000 ","8/337 Lord Street,",HIGHGATE WA 6003,House,2,2,2,148m² ,04 Dec 2023
+"1,703,500 ","92 Williams Road,",NEDLANDS WA 6009,House,3,2,4,470m² ,04 Dec 2023
+"2,300,000 ","6 Scenic Crescent,",SOUTH PERTH WA 6151,House,9,3,8,850m² ,01 Dec 2023
+"1,910,000 ","55 Third Avenue,",MOUNT LAWLEY WA 6050,House,5,2,2,594m² ,30 Nov 2023
+"1,100,000 ","55 Bradford Street,",MENORA WA 6050,House,2,1,1,802m² ,28 Nov 2023
+"1,780,000 ","16 Wattle Street,",SOUTH PERTH WA 6151,House,3,2,2,546m² ,28 Nov 2023
+"1,555,000 ","4 Chatsworth Road,",HIGHGATE WA 6003,House,3,1,2,314m² ,27 Nov 2023
+"1,400,000 ","32 Cavendish Street,",HIGHGATE WA 6003,House,3,1,1,359m² ,27 Nov 2023
+"1,576,000 ","15 Woodroyd Street,",MOUNT LAWLEY WA 6050,House,2,1,3,"1,019m² ",27 Nov 2023
+"1,900,000 ","55 Bruce Street,",NEDLANDS WA 6009,House,3,2,2,814m² ,27 Nov 2023
+"5,250,000 ","84 Watkins Road,",DALKEITH WA 6009,House,4,4,2,736m² ,24 Nov 2023
+"2,010,000 ","76 Gladstone Avenue,",SOUTH PERTH WA 6151,House,4,2,2,521m² ,22 Nov 2023
+"3,800,000 ","14 Garland Road,",DALKEITH WA 6009,House,4,3,2,"1,083m² ",20 Nov 2023
+"1,475,000 ","13 Braeside Road,",MOUNT LAWLEY WA 6050,House,4,2,2,306m² ,20 Nov 2023
+"1,900,000 ","316 Mill Point Road,",SOUTH PERTH WA 6151,House,4,3,4,855m² ,19 Nov 2023
+"1,540,000 ","134 Second Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,509m² ,17 Nov 2023
+"805,000 ","329 Walcott Street,",COOLBINIA WA 6050,House,2,1,2,343m² ,16 Nov 2023
+"2,250,000 ","8 Mignonette Street,",NORTH PERTH WA 6006,House,4,2,2,597m² ,14 Nov 2023
+"1,525,000 ","62 Sydney Street,",NORTH PERTH WA 6006,House,4,2,1,680m² ,14 Nov 2023
+"1,620,000 ","69 Meriwa Street,",NEDLANDS WA 6009,House,3,2,1,683m² ,13 Nov 2023
+"1,200,000 ","128A Raglan Road,",NORTH PERTH WA 6006,House,3,2,2,307m² ,13 Nov 2023
+"1,563,000 ","12 Carey Street,",KENSINGTON WA 6151,House,5,3,1,418m² ,09 Nov 2023
+"1,090,000 ","51 Gladstone Avenue,",SOUTH PERTH WA 6151,House,2,1,1,438m² ,09 Nov 2023
+"1,805,000 ","63 Second Avenue,",MOUNT LAWLEY WA 6050,House,3,2,3,541m² ,07 Nov 2023
+"1,470,000 ","101 Central Avenue,",MOUNT LAWLEY WA 6050,House,5,2,3,571m² ,06 Nov 2023
+"2,200,000 ","8 Carr Street,",SOUTH PERTH WA 6151,House,4,3,2,525m² ,06 Nov 2023
+"6,500,000 ","141 Victoria Avenue,",DALKEITH WA 6009,House,5,5,3,"1,012m² ",03 Nov 2023
+"1,500,000 ","27 Plantation Street,",MENORA WA 6050,House,4,3,2,711m² ,03 Nov 2023
+"1,500,000 ","27 Plantation Street,",MENORA WA 6050,House,4,3,2,711m² ,03 Nov 2023
+"2,077,000 ","2 Hopetoun St,",SOUTH PERTH WA 6151,House,4,2,4,607m² ,03 Nov 2023
+"2,340,000 ","82 Tyrell Street,",NEDLANDS WA 6009,House,4,3,2,809m² ,02 Nov 2023
+"836,000 ","140 Charles Street,",WEST PERTH WA 6005,House,3,1,2,362m² ,02 Nov 2023
+"750,000 ","12 Freedman Road,",MENORA WA 6050,Duplex,3,1,2,"1,051m² ",01 Nov 2023
+"1,260,000 ","1 Barnet Street,",NORTH PERTH WA 6006,House,3,1,3,491m² ,01 Nov 2023
+"2,000,000 ","62 Williams Road,",NEDLANDS WA 6009,House,5,3,3,455m² ,31 Oct 2023
+"2,300,000 ","15 Ellesmere Road,",MOUNT LAWLEY WA 6050,House,6,6,6,"1,214m² ",30 Oct 2023
+"1,230,000 ","59 Paddington Street,",NORTH PERTH WA 6006,House,3,2,3,557m² ,30 Oct 2023
+"907,500 ","81 Auckland Street,",NORTH PERTH WA 6006,House,3,2,2,259m² ,30 Oct 2023
+"1,860,000 ","33 Hensman Street,",SOUTH PERTH WA 6151,House,4,2,2,542m² ,29 Oct 2023
+"3,825,000 ","22 First Avenue,",MOUNT LAWLEY WA 6050,House,5,5,4,"1,200m² ",25 Oct 2023
+"1,300,000 ","20A Banksia Terrace,",SOUTH PERTH WA 6151,House,4,2,6,516m² ,24 Oct 2023
+"3,500,000 ","29 Colin Street,",DALKEITH WA 6009,House,4,2,2,875m² ,20 Oct 2023
+"1,310,000 ","68 Holmfirth Street,",COOLBINIA WA 6050,House,3,1,2,771m² ,19 Oct 2023
+"1,685,000 ","77 Collins Street,",KENSINGTON WA 6151,House,4,2,2,655m² ,19 Oct 2023
+"1,650,000 ","54A Norfolk Street,",MOUNT LAWLEY WA 6050,House,3,3,3,879m² ,18 Oct 2023
+"1,854,000 ","11 Albert Street,",SOUTH PERTH WA 6151,House,4,3,2,354m² ,18 Oct 2023
+"2,165,000 ","14 Hartwell Street,",COOLBINIA WA 6050,House,5,2,2,733m² ,17 Oct 2023
+"2,165,000 ","14 Hartwell Street,",COOLBINIA WA 6050,House,5,2,2,733m² ,17 Oct 2023
+"2,308,000 ","47 Taylor Road,",NEDLANDS WA 6009,House,5,2,2,923m² ,17 Oct 2023
+"1,120,000 ","1/8 Philip Road,",DALKEITH WA 6009,Retirement Living,2,2,1,307m² ,16 Oct 2023
+"2,300,000 ","12 Robinson Street,",NEDLANDS WA 6009,House,4,2,2,696m² ,16 Oct 2023
+"1,500,000 ","1/37 Elizabeth Street,",SOUTH PERTH WA 6151,House,3,1,2,335m² ,15 Oct 2023
+"1,600,000 ","82A Monmouth Street,",MOUNT LAWLEY WA 6050,House,4,3,3,462m² ,13 Oct 2023
+"1,062,500 ","35 Deague Court,",NORTH PERTH WA 6006,House,4,1,5,501m² ,11 Oct 2023
+"1,275,000 ","64 Auckland Street,",NORTH PERTH WA 6006,House,3,1,2,675m² ,11 Oct 2023
+"880,000 ","157 Carr Street,",WEST PERTH WA 6005,House,3,1,2,308m² ,11 Oct 2023
+"1,690,000 ","58 Williams Road,",NEDLANDS WA 6009,House,5,2,1,455m² ,10 Oct 2023
+"1,670,000 ","43 Kadina Street,",NORTH PERTH WA 6006,House,4,3,2,392m² ,10 Oct 2023
+"980,000 ","154 Chelmsford Road,",NORTH PERTH WA 6006,House,2,1,2,164m² ,10 Oct 2023
+"1,370,000 ","13 Royal Street,",EAST PERTH WA 6004,House,4,3,2,203m² ,09 Oct 2023
+"1,500,000 ","32 Woodroyd Street,",MOUNT LAWLEY WA 6050,House,4,2,2,626m² ,09 Oct 2023
+"2,400,000 ","75 Melvista Avenue,",NEDLANDS WA 6009,House,4,2,1,"1,012m² ",09 Oct 2023
+"800,000 ","264A Charles Street,",NORTH PERTH WA 6006,House,3,2,1,193m² ,07 Oct 2023
+"958,000 ","5 Deague Court,",NORTH PERTH WA 6006,House,3,1,1,316m² ,2023
+"1,175,000 ","56A Burt Street,",NORTH PERTH WA 6006,House,3,3,2,202m² ,06 Oct 2023
+"1,425,000 ","32 Sandgate Street,",SOUTH PERTH WA 6151,House,2,1,3,741m² ,06 Oct 2023
+"1,850,000 ","76 Brandon Street,",KENSINGTON WA 6151,House,4,2,2,678m² ,05 Oct 2023
+"1,000,000 ","86C Labouchere Road,",SOUTH PERTH WA 6151,House,3,1,2,268m² ,04 Oct 2023
+"1,150,000 ","6 Market Street,",KENSINGTON WA 6151,House,4,3,2,429m² ,02 Oct 2023
+"1,950,000 ","35 Waroonga Road,",NEDLANDS WA 6009,House,3,1,3,750m² ,02 Oct 2023
+"1,700,000 ","170 Alma Road,",NORTH PERTH WA 6006,House,3,1,2,895m² ,01 Oct 2023
+"1,450,000 ","111 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,5,423m² ,30 Sep 2023
+"1,565,000 ","134 Third Avenue,",MOUNT LAWLEY WA 6050,House,4,2,2,514m² ,29 Sep 2023
+"2,000,000 ","124 Hensman Street,",SOUTH PERTH WA 6151,House,5,3,2,746m² ,26 Sep 2023
+"2,150,000 ","87 Forrest Street,",SOUTH PERTH WA 6151,House,4,2,4,956m² ,25 Sep 2023
+"1,050,000 ","30A Woodville Street,",NORTH PERTH WA 6006,House,3,2,2,311m² ,23 Sep 2023
+"385,000 ","38/1 Bourke Street,",NORTH PERTH WA 6006,House,1,1,1,84m² ,22 Sep 2023
+"1,170,000 ","69 Mabel Street,",NORTH PERTH WA 6006,House,3,1,−,491m² ,22 Sep 2023
+"1,628,000 ","48A Clarence Street,",MOUNT LAWLEY WA 6050,House,4,2,2,230m² ,20 Sep 2023
+"2,000,000 ","29 Hill View Road,",MOUNT LAWLEY WA 6050,House,3,2,2,675m² ,20 Sep 2023
+"570,000 ","7/45 Ord Street,",WEST PERTH WA 6005,House,2,2,−,165m² ,19 Sep 2023
+"720,000 ","135A Railway Parade,",MOUNT LAWLEY WA 6050,House,3,2,3,209m² ,18 Sep 2023
+"1,190,000 ","174 Douglas Avenue,",KENSINGTON WA 6151,House,4,2,1,440m² ,13 Sep 2023
+"1,270,000 ","54 Jack Marks Lane,",MOUNT LAWLEY WA 6050,House,3,2,2,217m² ,12 Sep 2023
+"670,000 ","21/83 Walcott Street,",MOUNT LAWLEY WA 6050,House,2,2,2,154m² ,12 Sep 2023
+"1,252,000 ","1 Pinaster Street,",MENORA WA 6050,House,4,2,4,690m² ,10 Sep 2023
+"950,000 ","34 Summers Street,",EAST PERTH WA 6004,House,2,1,1,491m² ,08 Sep 2023
+"1,290,000 ","27 Forrest Street,",MOUNT LAWLEY WA 6050,House,4,2,3,390m² ,08 Sep 2023
+"2,240,000 ","136 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,4,2,2,630m² ,08 Sep 2023
+"1,605,000 ","14 Old Belvidere Promenade,",EAST PERTH WA 6004,House,3,2,2,180m² ,07 Sep 2023
+"1,590,000 ","23 Boronia Avenue,",NEDLANDS WA 6009,House,3,2,2,797m² ,04 Sep 2023
+"2,800,000 ","27 Archdeacon Street,",NEDLANDS WA 6009,House,5,3,2,809m² ,04 Sep 2023
+"1,422,500 ","44 View Street,",NORTH PERTH WA 6006,House,4,3,2,327m² ,04 Sep 2023
+"2,100,000 ","67 Hensman Street,",SOUTH PERTH WA 6151,House,4,2,2,572m² ,03 Sep 2023
+"1,050,000 ","148 Hensman Street,",KENSINGTON WA 6151,House,3,2,3,625m² ,01 Sep 2023
+"1,375,000 ","25 Oxford Street,",KENSINGTON WA 6151,House,3,2,4,797m² ,01 Sep 2023
+"1,800,000 ","55 Clarence Street,",MOUNT LAWLEY WA 6050,House,3,2,1,473m² ,01 Sep 2023
+"2,400,000 ","69 Bradford Street,",MENORA WA 6050,House,6,3,2,"1,186m² ",31 Aug 2023
+"760,000 ","427 Walcott Street,",NORTH PERTH WA 6006,House,3,2,2,251m² ,31 Aug 2023
+"3,300,000 ","2 Regent Street,",MOUNT LAWLEY WA 6050,House,4,3,2,891m² ,30 Aug 2023
+"1,740,000 ","12 Nova Lane,",NORTH PERTH WA 6006,House,4,2,2,241m² ,30 Aug 2023
+"1,111,111 ","182 Walcott Street,",MOUNT LAWLEY WA 6050,House,4,2,2,840m² ,28 Aug 2023
+"1,150,000 ","5 Hanover Place,",NORTH PERTH WA 6006,House,4,2,2,207m² ,27 Aug 2023
+"1,150,000 ","94 Banksia Terrace,",KENSINGTON WA 6151,House,4,2,2,782m² ,24 Aug 2023
+"995,000 ","17B Knutsford Street,",NORTH PERTH WA 6006,House,3,2,2,290m² ,23 Aug 2023
+"2,900,000 ","54 Florence Road,",NEDLANDS WA 6009,House,5,2,2,"1,012m² ",17 Aug 2023
+"1,388,000 ","53C First Avenue,",MOUNT LAWLEY WA 6050,House,4,3,2,271m² ,15 Aug 2023
+"1,070,000 ","4 Hobart Street,",NORTH PERTH WA 6006,House,3,2,2,338m² ,14 Aug 2023
+"945,000 ","131A Railway Parade,",MOUNT LAWLEY WA 6050,House,3,2,2,232m² ,09 Aug 2023
+"1,075,000 ","15 Albert St,",SOUTH PERTH WA 6151,House,2,2,2,354m² ,08 Aug 2023
+"1,440,000 ","6 Vine Street,",NORTH PERTH WA 6006,House,3,1,2,493m² ,2023
+"1,330,000 ","46 Eton Street,",NORTH PERTH WA 6006,House,3,1,1,438m² ,04 Aug 2023
+"2,450,000 ","30 Neville Road,",DALKEITH WA 6009,House,3,1,2,"1,012m² ",03 Aug 2023
+"1,320,000 ","79 Norfolk Street,",NORTH PERTH WA 6006,House,2,1,3,694m² ,03 Aug 2023
+"3,100,000 ","103 Victoria Avenue,",DALKEITH WA 6009,House,5,2,2,"1,113m² ",02 Aug 2023
+"1,035,000 ","7 Daphne Street,",NORTH PERTH WA 6006,House,3,1,1,341m² ,02 Aug 2023
+"1,500,000 ","23 Norfolk Street,",NORTH PERTH WA 6006,House,5,1,1,559m² ,02 Aug 2023
+"2,300,000 ","111 Forrest Street,",NORTH PERTH WA 6006,House,3,2,3,"1,014m² ",02 Aug 2023
+"1,750,000 ","12 Burwood Street,",NEDLANDS WA 6009,House,2,1,3,"1,113m² ",01 Aug 2023
+"495,000 ","3/1 Sydney Street,",NORTH PERTH WA 6006,Villa,2,1,1,77m² ,01 Aug 2023
+"1,580,000 ","3 Woodroyd Street,",MOUNT LAWLEY WA 6050,House,3,2,5,"1,009m² ",31 Jul 2023
+"893,000 ","92 Carr Street,",WEST PERTH WA 6005,House,2,1,−,214m² ,25 Jul 2023
+"1,150,000 ","57 Railway Parade,",MOUNT LAWLEY WA 6050,House,4,1,2,688m² ,24 Jul 2023
+"1,400,000 ","41 Venn Street,",NORTH PERTH WA 6006,House,3,1,1,678m² ,2023
+"930,000 ","404 Walcott Street,",COOLBINIA WA 6050,House,4,1,3,799m² ,23 Jul 2023
+"3,298,000 ","22 Hill View Road,",MOUNT LAWLEY WA 6050,House,5,2,10,"1,012m² ",21 Jul 2023
+"925,000 ","4 Hardy Street,",NORTH PERTH WA 6006,House,3,1,3,305m² ,20 Jul 2023
+"1,325,000 ","133 Second Avenue,",MOUNT LAWLEY WA 6050,House,4,2,2,653m² ,19 Jul 2023
+"537,000 ","195 Vincent Street,",WEST PERTH WA 6005,House,2,1,1,167m² ,19 Jul 2023
+"880,000 ","23 Deague Court,",NORTH PERTH WA 6006,House,3,1,1,369m² ,18 Jul 2023
+"1,230,000 ","18A Hyde Street,",MOUNT LAWLEY WA 6050,House,3,2,2,280m² ,17 Jul 2023
+"2,750,000 ","18 Burwood Street,",NEDLANDS WA 6009,House,4,2,4,"1,113m² ",17 Jul 2023
+"1,030,000 ","56 Collins Street,",KENSINGTON WA 6151,House,2,1,1,470m² ,11 Jul 2023
+"1,380,000 ","166A Alma Road,",NORTH PERTH WA 6006,House,4,2,3,400m² ,10 Jul 2023
+"849,000 ","113 West Parade,",MOUNT LAWLEY WA 6050,House,2,1,3,336m² ,09 Jul 2023
+"1,250,000 ","60 Douglas Avenue,",SOUTH PERTH WA 6151,House,3,2,5,437m² ,08 Jul 2023
+"630,000 ","1/64 Forrest Street,",MOUNT LAWLEY WA 6050,Villa,2,1,1,267m² ,04 Jul 2023
+"1,053,000 ","17 Kingston Avenue,",WEST PERTH WA 6005,House,3,1,1,360m² ,04 Jul 2023
+"2,400,000 ","69 Bradford Street,",MENORA WA 6050,House,6,3,2,"1,186m² ",03 Jul 2023
+"2,006,000 ","34 Clark Street,",NEDLANDS WA 6009,House,4,2,3,776m² ,03 Jul 2023
+"1,300,000 ","68a Redfern Street,",NORTH PERTH WA 6006,House,3,2,4,348m² ,03 Jul 2023
+"1,170,000 ","29 Plunkett Street,",HIGHGATE WA 6003,House,3,2,2,205m² ,28 Jun 2023
+"1,238,000 ","151 Central Avenue,",MOUNT LAWLEY WA 6050,House,5,3,2,632m² ,23 Jun 2023
+"1,200,000 ","14 Union Street,",NORTH PERTH WA 6006,House,3,2,2,240m² ,22 Jun 2023
+"1,075,001 ","21A Cavendish Street,",HIGHGATE WA 6003,House,2,1,1,179m² ,21 Jun 2023
+"1,900,000 ","135 Angelo Street,",SOUTH PERTH WA 6151,House,6,4,6,878m² ,21 Jun 2023
+"2,375,000 ","18 Elizabeth Street,",SOUTH PERTH WA 6151,House,4,3,3,850m² ,21 Jun 2023
+"1,400,000 ","41 Campbell Street,",KENSINGTON WA 6151,House,4,2,1,506m² ,20 Jun 2023
+"1,610,000 ","32 Hobart Street,",NORTH PERTH WA 6006,House,4,2,−,463m² ,20 Jun 2023
+"1,250,000 ","10 Ellesmere Street,",NORTH PERTH WA 6006,House,3,2,2,449m² ,19 Jun 2023
+"995,000 ","57 Auckland Street,",NORTH PERTH WA 6006,House,3,1,1,546m² ,19 Jun 2023
+"910,000 ","1/140 Gwenyfred Road,",KENSINGTON WA 6151,House,4,2,2,456m² ,14 Jun 2023
+"2,150,000 ","3 Quadrangle Place,",NEDLANDS WA 6009,House,4,3,2,396m² ,14 Jun 2023
+"1,905,000 ","63 Meriwa Street,",NEDLANDS WA 6009,House,4,3,3,455m² ,14 Jun 2023
+"900,500 ","10 Clieveden Street,",NORTH PERTH WA 6006,House,3,1,2,360m² ,14 Jun 2023
+"1,700,000 ","38 Ardross Crescent,",COOLBINIA WA 6050,House,4,2,2,890m² ,12 Jun 2023
+"1,550,000 ","27 Vista Street,",KENSINGTON WA 6151,House,4,2,2,424m² ,12 Jun 2023
+"930,000 ","4/5 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,220m² ,12 Jun 2023
+"912,500 ","9A Norfolk Street,",NORTH PERTH WA 6006,House,3,2,2,256m² ,12 Jun 2023
+"1,200,000 ","148 Carr Street,",WEST PERTH WA 6005,House,4,2,1,328m² ,08 Jun 2023
+"955,000 ","77 Carr Street,",WEST PERTH WA 6005,House,3,1,2,239m² ,08 Jun 2023
+"930,000 ","29 Pakenham Street,",MOUNT LAWLEY WA 6050,House,2,1,3,554m² ,07 Jun 2023
+"1,145,000 ","13 Market Street,",KENSINGTON WA 6151,House,4,2,−,440m² ,06 Jun 2023
+"1,280,000 ","46 Emmerson Street,",NORTH PERTH WA 6006,House,4,1,1,562m² ,06 Jun 2023
+"2,900,000 ","117 Waratah Avenue,",DALKEITH WA 6009,House,4,2,1,"1,163m² ",02 Jun 2023
+"755,000 ","135B Railway Parade,",MOUNT LAWLEY WA 6050,House,3,2,2,177m² ,02 Jun 2023
+"1,200,000 ","27 Meriwa Street,",NEDLANDS WA 6009,House,2,1,2,455m² ,02 Jun 2023
+"1,150,000 ","15 First Avenue,",KENSINGTON WA 6151,House,4,2,4,519m² ,01 Jun 2023
+"1,442,000 ","22 Seventh Avenue,",KENSINGTON WA 6151,House,3,2,3,780m² ,01 Jun 2023
+"610,000 ","11/64 First Avenue,",MOUNT LAWLEY WA 6050,House,3,2,1,163m² ,01 Jun 2023
+"700,000 ","2 Venn Street,",NORTH PERTH WA 6006,House,3,1,2,501m² ,31 May 2023
+"925,000 ","1 Hilda Street,",NORTH PERTH WA 6006,House,2,2,2,160m² ,31 May 2023
+"1,450,000 ","60 Kingston Avenue,",WEST PERTH WA 6005,House,3,2,4,670m² ,30 May 2023
+"1,800,000 ","78 Farnley Street,",MOUNT LAWLEY WA 6050,House,3,1,2,653m² ,29 May 2023
+"1,750,000 ","86 Banksia Terrace,",KENSINGTON WA 6151,House,4,3,2,749m² ,28 May 2023
+"1,451,000 ","52 Clifton Crescent,",MOUNT LAWLEY WA 6050,House,4,2,2,456m² ,26 May 2023
+"1,680,000 ","62 Gladstone Avenue,",SOUTH PERTH WA 6151,House,5,2,4,521m² ,26 May 2023
+"1,075,000 ","13 Coode Street,",MOUNT LAWLEY WA 6050,House,3,2,2,387m² ,23 May 2023
+"795,000 ","532 Charles Street,",NORTH PERTH WA 6006,House,3,2,1,460m² ,23 May 2023
+"1,015,000 ","13 Kingston Avenue,",WEST PERTH WA 6005,House,3,1,2,545m² ,23 May 2023
+"615,000 ","1/78 Whatley Crescent,",MOUNT LAWLEY WA 6050,House,3,2,3,120m² ,22 May 2023
+"1,875,000 ","15 Waugh Street,",NORTH PERTH WA 6006,House,4,2,2,490m² ,22 May 2023
+"895,000 ","68 Arlington Avenue,",SOUTH PERTH WA 6151,House,2,1,1,438m² ,19 May 2023
+"885,000 ","20 Lincoln Street,",HIGHGATE WA 6003,House,3,1,1,249m² ,18 May 2023
+"1,380,000 ","13 Gordon Street,",NEDLANDS WA 6009,House,3,2,2,354m² ,16 May 2023
+"960,000 ","177 Central Avenue,",MOUNT LAWLEY WA 6050,House,3,2,4,389m² ,15 May 2023
+"2,700,000 ","2 Karella Street,",NEDLANDS WA 6009,House,5,3,4,509m² ,15 May 2023
+"1,700,000 ","88 Smyth Road,",NEDLANDS WA 6009,House,4,2,2,908m² ,15 May 2023
+"910,000 ","22 York Street,",NORTH PERTH WA 6006,House,4,1,2,411m² ,14 May 2023
+"1,225,000 ","34 Second Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,"1,163m² ",11 May 2023
+"2,980,000 ","18 Nardina Crescent,",DALKEITH WA 6009,House,5,3,1,"1,171m² ",10 May 2023
+"1,250,000 ","25 Campbell Street,",KENSINGTON WA 6151,House,4,1,2,506m² ,10 May 2023
+"1,250,000 ","24 Gladstone Avenue,",SOUTH PERTH WA 6151,House,3,1,1,521m² ,10 May 2023
+"3,200,000 ","52 Farnley Street,",MOUNT LAWLEY WA 6050,House,4,2,4,860m² ,09 May 2023
+"1,825,000 ","39 Wiluna Street,",COOLBINIA WA 6050,House,4,2,2,809m² ,08 May 2023
+"2,920,000 ","100 Hensman Street,",SOUTH PERTH WA 6151,House,4,2,2,736m² ,06 May 2023
+"2,020,000 ","35 Stanley Street,",NEDLANDS WA 6009,House,2,1,2,"1,012m² ",05 May 2023
+"1,160,000 ","168 Loftus Street,",NORTH PERTH WA 6006,House,4,1,3,873m² ,05 May 2023
+"1,640,000 ","4 Persimmon Street,",NORTH PERTH WA 6006,House,4,2,2,443m² ,05 May 2023
+"795,000 ","58 Lincoln Street,",HIGHGATE WA 6003,House,3,1,−,205m² ,04 May 2023
+"2,925,000 ","39B The Avenue,",NEDLANDS WA 6009,House,4,3,4,572m² ,02 May 2023
+"1,785,000 ","2 Tyrell Street,",NEDLANDS WA 6009,House,5,2,2,809m² ,02 May 2023
+"1,000,000 ","27 Renwick Street,",SOUTH PERTH WA 6151,House,3,1,2,369m² ,02 May 2023
+"2,400,000 ","74 Albert Street,",NORTH PERTH WA 6006,House,4,2,4,386m² ,29 Apr 2023
+"1,150,000 ","33 Hovia Terrace,",KENSINGTON WA 6151,House,4,2,2,221m² ,28 Apr 2023
+"1,415,000 ","22 Holmfirth Street,",MENORA WA 6050,House,3,2,−,766m² ,28 Apr 2023
+"2,000,000 ","100 Dalkeith Road,",NEDLANDS WA 6009,House,4,2,2,979m² ,28 Apr 2023
+"445,000 ","2/54 First Avenue,",MOUNT LAWLEY WA 6050,House,2,1,1,128m² ,27 Apr 2023
+"2,270,000 ","42 Woodsome Street,",MOUNT LAWLEY WA 6050,House,5,3,4,946m² ,27 Apr 2023
+"5,750,000 ","189 Mill Point Road,",SOUTH PERTH WA 6151,House,6,3,3,680m² ,27 Apr 2023
+"1,300,000 ","1A Burwood Street,",NEDLANDS WA 6009,House,3,2,2,484m² ,25 Apr 2023
+"2,600,000 ","14A Genesta Crescent,",DALKEITH WA 6009,House,3,3,2,236m² ,22 Apr 2023
+"5,750,000 ","30 Jutland Parade,",DALKEITH WA 6009,House,2,2,2,810m² ,22 Apr 2023
+"1,400,000 ","32 Ardross Crescent,",COOLBINIA WA 6050,House,4,1,1,991m² ,21 Apr 2023
+"830,000 ","1/50 Coode Street,",SOUTH PERTH WA 6151,House,3,2,2,219m² ,21 Apr 2023
+"2,725,000 ","39 Webster Street,",NEDLANDS WA 6009,House,5,3,2,"1,012m² ",19 Apr 2023
+"3,398,888 ","2A Adams Road,",DALKEITH WA 6009,House,4,4,5,738m² ,18 Apr 2023
+"1,630,000 ","31 Gwenyfred Road,",KENSINGTON WA 6151,House,5,3,4,543m² ,18 Apr 2023
+"495,000 ","4/140 Gwenyfred Road,",KENSINGTON WA 6151,Villa,3,1,2,251m² ,17 Apr 2023
+"980,000 ","9 Pinaster Street,",MENORA WA 6050,House,3,2,3,711m² ,17 Apr 2023
+"1,500,000 ","232 Walcott Street,",MENORA WA 6050,House,5,2,6,"1,051m² ",17 Apr 2023
+"980,000 ","2/82 Strickland Street,",SOUTH PERTH WA 6151,House,3,2,2,272m² ,16 Apr 2023
+"480,000 ","4/23 Alvan Street,",MOUNT LAWLEY WA 6050,Villa,2,1,1,75m² ,15 Apr 2023
+"1,140,000 ","5 Farmer Street,",NORTH PERTH WA 6006,House,4,1,2,402m² ,14 Apr 2023
+"1,320,000 ","147 Gwenyfred Road,",KENSINGTON WA 6151,House,4,2,2,676m² ,13 Apr 2023
+"290,000 ","24/269 Hay Street,",EAST PERTH WA 6004,House,1,1,1,93m² ,12 Apr 2023
+"1,020,000 ","55 Bradford Street,",MENORA WA 6050,House,2,1,1,802m² ,12 Apr 2023
+"732,000 ","42 Chapman Street,",HIGHGATE WA 6003,House,2,1,1,233m² ,11 Apr 2023
+"810,000 ","49A Vincent Street,",MOUNT LAWLEY WA 6050,House,2,1,1,220m² ,11 Apr 2023
+"770,000 ","97 Harold Street,",MOUNT LAWLEY WA 6050,House,2,1,2,243m² ,08 Apr 2023
+"1,312,000 ","10 Richmond Street,",NORTH PERTH WA 6006,House,3,2,2,338m² ,06 Apr 2023
+"1,430,123 ","17 Bourke Street,",NORTH PERTH WA 6006,House,3,2,3,529m² ,06 Apr 2023
+"860,000 ","81 North Street,",MOUNT LAWLEY WA 6050,House,3,1,2,405m² ,04 Apr 2023
+"1,000,000 ","130 London Street,",NORTH PERTH WA 6006,House,4,2,2,768m² ,04 Apr 2023
+"1,330,000 ","125 Raglan Road,",NORTH PERTH WA 6006,House,3,1,2,577m² ,04 Apr 2023
+"1,600,000 ","39 Meriwa Street,",NEDLANDS WA 6009,House,4,2,3,455m² ,03 Apr 2023
+"2,750,000 ","31 Viewway,",NEDLANDS WA 6009,House,4,2,2,880m² ,30 Mar 2023
+"1,210,000 ","24 Raglan Road,",MOUNT LAWLEY WA 6050,House,3,1,2,604m² ,29 Mar 2023
+"1,800,000 ","25 Second Avenue,",MOUNT LAWLEY WA 6050,House,4,4,6,"1,214m² ",29 Mar 2023
+"1,650,000 ","89 Railway Parade,",MOUNT LAWLEY WA 6050,House,4,2,6,873m² ,29 Mar 2023
+"1,500,000 ","8/33 Angelo Street,",SOUTH PERTH WA 6151,House,4,3,1,354m² ,29 Mar 2023
+"775,000 ","12 Carr Street,",WEST PERTH WA 6005,House,3,1,4,273m² ,29 Mar 2023
+"790,000 ","560 Charles Street,",NORTH PERTH WA 6006,House,3,1,3,460m² ,28 Mar 2023
+"1,000,000 ","3/27 Baird Avenue,",NEDLANDS WA 6009,House,3,2,2,201m² ,27 Mar 2023
+"1,275,000 ","1/25 King Edward Street,",SOUTH PERTH WA 6151,House,3,2,2,448m² ,26 Mar 2023
+"2,008,000 ","70 Williams Road,",NEDLANDS WA 6009,House,4,2,2,455m² ,25 Mar 2023
+"1,160,000 ","382 Mill Point Road,",SOUTH PERTH WA 6151,House,3,2,11,627m² ,21 Mar 2023
+"1,975,000 ","101 Rookwood Street,",MENORA WA 6050,House,5,3,4,754m² ,20 Mar 2023
+"1,920,000 ","29 Farnley Street,",MOUNT LAWLEY WA 6050,House,4,2,2,539m² ,20 Mar 2023
+"770,000 ","5 Cowle Street,",WEST PERTH WA 6005,House,2,1,−,134m² ,20 Mar 2023
+"1,180,000 ","39 Doris Street,",NORTH PERTH WA 6006,House,4,2,1,460m² ,17 Mar 2023
+"832,000 ","86 North Street,",MOUNT LAWLEY WA 6050,House,3,2,2,240m² ,16 Mar 2023
+"900,000 ","7a Highlands Road,",NORTH PERTH WA 6006,House,3,1,2,406m² ,15 Mar 2023
+"725,000 ","182 Douglas Avenue,",KENSINGTON WA 6151,House,2,1,1,454m² ,14 Mar 2023
+"2,280,000 ","132 Angelo Street,",SOUTH PERTH WA 6151,House,4,2,4,589m² ,14 Mar 2023
+"2,300,000 ","38 York Street,",SOUTH PERTH WA 6151,House,4,2,2,683m² ,12 Mar 2023
+"1,800,000 ","5 Dalkeith Road,",NEDLANDS WA 6009,House,5,2,2,"1,012m² ",11 Mar 2023
+"1,515,000 ","10 Karoo Street,",SOUTH PERTH WA 6151,House,3,2,2,411m² ,11 Mar 2023
+"1,350,000 ","8 Learoyd Street,",MOUNT LAWLEY WA 6050,House,3,3,2,751m² ,09 Mar 2023
+"825,000 ","3 Oxford Street,",KENSINGTON WA 6151,House,3,1,2,452m² ,08 Mar 2023
+"1,210,000 ","1B Alexander Drive,",MENORA WA 6050,House,3,2,6,948m² ,08 Mar 2023
+"1,300,000 ","149 Bradford Street,",COOLBINIA WA 6050,House,2,1,1,809m² ,07 Mar 2023
+"875,000 ","13 King Street,",KENSINGTON WA 6151,House,3,1,2,442m² ,07 Mar 2023
+"1,800,000 ","18 Westbury Road,",SOUTH PERTH WA 6151,House,4,3,2,551m² ,07 Mar 2023
+"1,775,000 ","8A Swan Street,",SOUTH PERTH WA 6151,House,4,3,2,209m² ,07 Mar 2023
+"1,305,000 ","43 Barnet St,",NORTH PERTH WA 6006,House,3,1,2,695m² ,06 Mar 2023
+"1,430,000 ","78 Arlington Avenue,",SOUTH PERTH WA 6151,House,3,2,2,438m² ,05 Mar 2023
+"1,200,000 ","44 Chelmsford Road,",MOUNT LAWLEY WA 6050,House,3,1,4,450m² ,03 Mar 2023
+"1,700,000 ","18 Norham Street,",NORTH PERTH WA 6006,House,4,2,2,506m² ,03 Mar 2023
+"1,950,000 ","35 Taylor Road,",NEDLANDS WA 6009,House,3,1,3,923m² ,02 Mar 2023
+"2,920,000 ","48 Florence Road,",NEDLANDS WA 6009,House,5,3,4,"1,012m² ",02 Mar 2023
+"1,450,000 ","5 Haig Park Circle,",EAST PERTH WA 6004,House,3,2,2,225m² ,01 Mar 2023
+"1,200,000 ","126 Eton Street,",NORTH PERTH WA 6006,House,3,1,2,809m² ,01 Mar 2023
+"2,300,000 ","8A Bedford Street,",NEDLANDS WA 6009,House,5,3,4,506m² ,27 Feb 2023
+"845,000 ","26 Vincent Street,",MOUNT LAWLEY WA 6050,House,3,1,2,260m² ,24 Feb 2023
+"730,000 ","5 Emmerson Street,",NORTH PERTH WA 6006,House,2,1,2,233m² ,24 Feb 2023
+"1,335,000 ","65 Redfern Street,",NORTH PERTH WA 6006,House,3,1,1,482m² ,24 Feb 2023
+"1,362,500 ","62 Ruby Street,",NORTH PERTH WA 6006,House,4,2,2,491m² ,23 Feb 2023
+"1,410,000 ","9/219 Mill Point Road,",SOUTH PERTH WA 6151,House,3,2,2,132m² ,23 Feb 2023
+"2,640,000 ","41 Elizabeth Street,",SOUTH PERTH WA 6151,House,5,4,4,911m² ,22 Feb 2023
+"1,040,000 ","118 Banksia Terrace,",KENSINGTON WA 6151,House,2,1,6,739m² ,21 Feb 2023
+"2,900,000 ","4B Alexander Road,",DALKEITH WA 6009,House,3,3,4,506m² ,20 Feb 2023
+"980,000 ","6 Sixth Avenue,",KENSINGTON WA 6151,House,3,2,2,809m² ,20 Feb 2023
+"1,582,000 ","12 Carrington Street,",NORTH PERTH WA 6006,House,4,2,2,466m² ,20 Feb 2023
+"2,550,000 ","45 North Street,",MOUNT LAWLEY WA 6050,House,6,3,2,870m² ,19 Feb 2023
+"940,000 ","7 Paddington Street,",NORTH PERTH WA 6006,House,3,1,2,334m² ,17 Feb 2023
+"2,750,000 ","3 Granby Crescent,",NEDLANDS WA 6009,House,2,1,1,"1,019m² ",15 Feb 2023
+"1,015,000 ","12 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,1,2,339m² ,14 Feb 2023
+"1,200,000 ","71 Gwenyfred Road,",KENSINGTON WA 6151,House,3,2,2,544m² ,11 Feb 2023
+"1,800,000 ","52 Tareena Street,",NEDLANDS WA 6009,House,4,3,2,501m² ,11 Feb 2023
+"865,000 ","5 Green Street,",NORTH PERTH WA 6006,House,3,2,2,437m² ,11 Feb 2023
+"955,000 ","50 Sandgate Street,",SOUTH PERTH WA 6151,House,3,1,2,345m² ,10 Feb 2023
+"1,225,000 ","56 Campbell Street,",KENSINGTON WA 6151,House,3,2,−,506m² ,09 Feb 2023
+"1,270,000 ","7 Redfern Street,",NORTH PERTH WA 6006,House,4,3,2,289m² ,09 Feb 2023
+"880,000 ","12 Gill Street,",NORTH PERTH WA 6006,House,2,1,2,539m² ,08 Feb 2023
+"385,000 ","6/6 Field Street,",MOUNT LAWLEY WA 6050,Villa,2,1,1,67m² ,07 Feb 2023
+"2,250,000 ","20B Dalkeith Road,",NEDLANDS WA 6009,House,4,2,4,518m² ,06 Feb 2023
+"815,000 ","29A Hovia Terrace,",KENSINGTON WA 6151,House,3,2,2,167m² ,05 Feb 2023
+"1,628,500 ","2 Learoyd Street,",MOUNT LAWLEY WA 6050,House,4,2,5,900m² ,01 Feb 2023
+"3,300,000 ","13 Hobbs Avenue,",DALKEITH WA 6009,House,4,3,−,"1,086m² ",31 Jan 2023
+"850,000 ","368 Lord Street,",HIGHGATE WA 6003,House,3,1,2,556m² ,31 Jan 2023
+"1,230,000 ","72 Brandon Street,",KENSINGTON WA 6151,House,3,2,2,678m² ,30 Jan 2023
+"1,150,000 ","18 Forrest Street,",MOUNT LAWLEY WA 6050,House,2,2,2,592m² ,30 Jan 2023
+"2,300,000 ","23 Florence Road,",NEDLANDS WA 6009,House,5,2,4,"1,012m² ",30 Jan 2023
+"1,800,000 ","92 King George Street,",KENSINGTON WA 6151,House,6,2,3,693m² ,27 Jan 2023
+"1,020,000 ","260 Walcott Street,",MENORA WA 6050,House,3,2,7,792m² ,27 Jan 2023
+"1,325,000 ","15 Hutt Street,",MOUNT LAWLEY WA 6050,House,3,2,2,219m² ,27 Jan 2023
+"920,000 ","163A Walcott Street,",MOUNT LAWLEY WA 6050,House,2,2,2,344m² ,24 Jan 2023
+"1,320,000 ","2 Waverley Street,",SOUTH PERTH WA 6151,House,3,2,2,241m² ,18 Jan 2023
+"1,200,000 ","135 Fifth Avenue,",MOUNT LAWLEY WA 6050,House,3,1,−,632m² ,17 Jan 2023
+"949,000 ","93a Fourth Avenue,",MOUNT LAWLEY WA 6050,House,2,2,2,419m² ,17 Jan 2023
+"1,800,000 ","113 Bradford Street,",COOLBINIA WA 6050,House,4,2,6,759m² ,16 Jan 2023
+"840,000 ","2/112 Waratah Avenue,",DALKEITH WA 6009,Retirement Living,2,2,1,212m² ,16 Jan 2023
+"4,600,000 ","191 Mill Point Road,",SOUTH PERTH WA 6151,House,3,3,1,680m² ,16 Jan 2023
+"1,000,000 ","32 Victoria Street,",SOUTH PERTH WA 6151,House,2,1,2,253m² ,13 Jan 2023
+"2,175,000 ","20A Dalkeith Road,",NEDLANDS WA 6009,House,4,2,2,518m² ,10 Jan 2023
+"1,300,000 ","50 Hensman Street,",SOUTH PERTH WA 6151,House,2,2,2,465m² ,10 Jan 2023
+"985,000 ","32 Fifth Avenue,",MOUNT LAWLEY WA 6050,House,3,1,2,539m² ,09 Jan 2023
+"1,730,000 ","54 Wasley Street,",NORTH PERTH WA 6006,House,4,2,2,506m² ,09 Jan 2023
+"1,320,000 ","13 Mabel Street,",NORTH PERTH WA 6006,House,4,2,2,270m² ,09 Jan 2023
+"2,100,000 ","11 Gladstone Avenue,",SOUTH PERTH WA 6151,House,4,3,2,438m² ,09 Jan 2023
+"865,000 ","7 Plunkett Street,",HIGHGATE WA 6003,House,3,2,2,230m² ,06 Jan 2023
+"810,000 ","132a London Street,",NORTH PERTH WA 6006,House,3,2,2,394m² ,06 Jan 2023
+"1,600,000 ","116 Banksia Terrace,",KENSINGTON WA 6151,House,5,3,2,741m² ,02 Jan 2023
+"1,050,000 ","33A Hovia Terrace,",KENSINGTON WA 6151,House,4,3,2,263m² ,30 Dec 2022
+"1,445,000 ","109 Rookwood Street,",MENORA WA 6050,House,4,2,2,761m² ,29 Dec 2022
+"2,350,000 ","4 Archdeacon Street,",NEDLANDS WA 6009,House,5,3,3,809m² ,28 Dec 2022
+"900,000 ","3/8 Wingfield Avenue,",CRAWLEY WA 6009,House,3,2,2,210m² ,26 Dec 2022
+"2,180,000 ","73 Webster Street,",NEDLANDS WA 6009,House,3,1,2,"1,012m² ",24 Dec 2022
+"1,310,000 ","27 Cowle Street,",WEST PERTH WA 6005,House,4,1,3,380m² ,22 Dec 2022
+"1,160,000 ","79 Clifton Crescent,",MOUNT LAWLEY WA 6050,House,3,2,2,351m² ,21 Dec 2022
+"1,157,000 ","12A Farr Avenue,",NORTH PERTH WA 6006,House,3,2,2,346m² ,20 Dec 2022
+"920,000 ","2 Anzac Road,",NORTH PERTH WA 6006,House,3,2,2,283m² ,20 Dec 2022
+"830,000 ","29 Violet Street,",WEST PERTH WA 6005,House,3,1,1,234m² ,20 Dec 2022
+"1,420,000 ","1 Weld Street,",NEDLANDS WA 6009,House,3,1,2,696m² ,19 Dec 2022
+"3,200,000 ","31 Leon Road,",DALKEITH WA 6009,House,5,3,4,"1,012m² ",17 Dec 2022
+"620,000 ","353 Walcott Street,",COOLBINIA WA 6050,House,2,1,3,248m² ,16 Dec 2022
+"4,600,000 ","78 Philip Road,",DALKEITH WA 6009,House,5,5,6,"1,163m² ",15 Dec 2022
+"970,000 ","140 Walcott Street,",MOUNT LAWLEY WA 6050,House,4,2,4,966m² ,15 Dec 2022
+"980,000 ","109 Alma Road,",NORTH PERTH WA 6006,House,3,1,2,273m² ,13 Dec 2022
+"905,000 ","22 Coode Street,",MOUNT LAWLEY WA 6050,House,2,1,1,337m² ,12 Dec 2022
+"3,150,000 ","85 Archdeacon Street,",NEDLANDS WA 6009,House,4,2,4,809m² ,12 Dec 2022
+"860,000 ","4 Hobart Street,",NORTH PERTH WA 6006,House,3,2,1,338m² ,09 Dec 2022
+"1,160,000 ","12 Third Avenue,",MOUNT LAWLEY WA 6050,House,2,1,2,524m² ,07 Dec 2022
+"2,226,000 ","18 Ord Street,",NEDLANDS WA 6009,House,6,3,4,696m² ,07 Dec 2022
+"849,000 ","210 Charles Street,",NORTH PERTH WA 6006,House,3,1,2,268m² ,07 Dec 2022
+"650,000 ","199A Central Avenue,",MOUNT LAWLEY WA 6050,House,2,1,2,260m² ,06 Dec 2022
+"2,275,000 ","4 Broome Street,",NEDLANDS WA 6009,House,5,2,2,"1,012m² ",06 Dec 2022
+"3,500,000 ",,NEDLANDS WA 6009,House,5,2,2,880m² ,06 Dec 2022
+"2,250,000 ","23 Rose Avenue,",SOUTH PERTH WA 6151,House,5,3,2,517m² ,06 Dec 2022
+"810,000 ","32 Burt Street,",MOUNT LAWLEY WA 6050,House,2,1,2,238m² ,05 Dec 2022
+"960,000 ","11 Union Street,",NORTH PERTH WA 6006,House,3,2,4,197m² ,03 Dec 2022
+"1,175,000 ","197 Douglas Avenue,",KENSINGTON WA 6151,House,4,2,4,612m² ,02 Dec 2022
+"2,300,000 ","22 North Street,",MOUNT LAWLEY WA 6050,House,5,2,2,918m² ,02 Dec 2022
+"760,000 ","11 Oxford Street,",KENSINGTON WA 6151,House,2,1,1,604m² ,01 Dec 2022
+"930,000 ","5 Raglan Road,",MOUNT LAWLEY WA 6050,House,2,1,2,291m² ,01 Dec 2022
+"3,640,000 ","106 Forrest Street,",SOUTH PERTH WA 6151,House,4,4,2,"1,012m² ",2022
+"1,250,000 ","224 Douglas Avenue,",KENSINGTON WA 6151,House,4,3,4,698m² ,30 Nov 2022
+"500,000 ","4/23 Lawley Crescent,",MOUNT LAWLEY WA 6050,House,2,1,1,89m² ,30 Nov 2022
+"2,650,000 ","40 Roseberry Avenue,",SOUTH PERTH WA 6151,House,4,3,2,521m² ,30 Nov 2022
+"2,600,000 ","15 York Street + 28 Angelo Street,",SOUTH PERTH WA 6151,House,3,1,4,"1,115m² ",30 Nov 2022
+"1,080,000 ","78 Eton Street,",NORTH PERTH WA 6006,House,3,1,2,848m² ,29 Nov 2022
+"997,500 ","232 Charles Street,",NORTH PERTH WA 6006,House,4,1,2,912m² ,29 Nov 2022
+"1,300,000 ","7 Knutsford Street,",NORTH PERTH WA 6006,House,3,1,2,519m² ,29 Nov 2022
+"815,000 ","5a Redfern Street,",NORTH PERTH WA 6006,House,3,2,2,173m² ,29 Nov 2022
+"1,520,000 ","186 Vincent Street,",NORTH PERTH WA 6006,House,4,2,2,511m² ,29 Nov 2022
+"3,500,000 ","111 Victoria Avenue,",DALKEITH WA 6009,House,5,3,4,923m² ,28 Nov 2022
+"950,000 ","18 Clark Street,",NEDLANDS WA 6009,House,2,1,3,266m² ,28 Nov 2022
+"900,000 ","333 Fitzgerald Street,",NORTH PERTH WA 6006,House,3,2,2,291m² ,28 Nov 2022
+"1,700,000 ","494 Fitzgerald Street,",NORTH PERTH WA 6006,House,3,1,1,"1,067m² ",28 Nov 2022
+"1,120,000 ","46 Paddington Street,",NORTH PERTH WA 6006,House,4,1,1,557m² ,25 Nov 2022
+"861,000 ","82 Forrest Street,",NORTH PERTH WA 6006,House,2,1,1,254m² ,25 Nov 2022
+"865,000 ","3/727 Beaufort Street,",MOUNT LAWLEY WA 6050,House,4,2,2,203m² ,24 Nov 2022
+"1,500,000 ","25 Weld Street,",NEDLANDS WA 6009,House,3,1,1,696m² ,23 Nov 2022
+"3,400,000 ","84 Thomas Street,",NEDLANDS WA 6009,House,4,4,6,"1,012m² ",22 Nov 2022
+"2,000,000 ","36 Jewell Lane,",EAST PERTH WA 6004,House,4,2,2,192m² ,21 Nov 2022
+"800,000 ","176B Harold Street,",MOUNT LAWLEY WA 6050,House,2,1,2,291m² ,20 Nov 2022
+"1,350,000 ","73 Raglan Road,",MOUNT LAWLEY WA 6050,House,4,2,2,261m² ,19 Nov 2022
+"1,850,000 ","95 Rookwood Street,",MENORA WA 6050,House,5,2,2,670m² ,17 Nov 2022
+"1,450,000 ","7 Cavendish Street,",HIGHGATE WA 6003,House,3,1,2,347m² ,16 Nov 2022
+"2,150,000 ","96 Coode Street,",SOUTH PERTH WA 6151,House,4,3,3,594m² ,16 Nov 2022
+"1,375,000 ","4 Sixth Avenue,",KENSINGTON WA 6151,House,4,2,2,809m² ,15 Nov 2022
+"1,100,000 ","45 Chelmsford Road,",MOUNT LAWLEY WA 6050,House,3,1,1,453m² ,15 Nov 2022
+"830,000 ","131 West Parade,",MOUNT LAWLEY WA 6050,House,3,1,2,327m² ,14 Nov 2022
+"645,000 ","163 Vincent Street,",WEST PERTH WA 6005,House,3,1,2,312m² ,14 Nov 2022
+"2,900,000 ","84 Webster Street,",NEDLANDS WA 6009,House,7,3,4,"1,012m² ",13 Nov 2022
+"1,190,000 ","7 Ruby Street,",NORTH PERTH WA 6006,House,3,2,2,356m² ,13 Nov 2022
+"2,000,000 ","62 Viewway,",NEDLANDS WA 6009,House,4,2,4,911m² ,07 Nov 2022
+"1,275,000 ","121 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,3,401m² ,04 Nov 2022
+"1,000,000 ","76 Forrest Street,",MOUNT LAWLEY WA 6050,House,3,2,2,354m² ,04 Nov 2022
+"1,200,000 ","16 Norham Street,",NORTH PERTH WA 6006,House,3,1,2,506m² ,04 Nov 2022
+"1,200,000 ","10 York Street,",NORTH PERTH WA 6006,House,5,2,2,425m² ,02 Nov 2022
+"2,400,000 ","44 Woodroyd Street,",MOUNT LAWLEY WA 6050,House,4,3,7,946m² ,01 Nov 2022
+"3,400,000 ","2 Philip Road,",DALKEITH WA 6009,House,3,1,1,943m² ,31 Oct 2022
+"2,885,000 ","37 Beatrice road,",DALKEITH WA 6009,House,5,2,2,"1,047m² ",31 Oct 2022
+"1,195,000 ","22 Hartwell Street,",COOLBINIA WA 6050,House,3,1,2,817m² ,2022
+"1,800,000 ","52 Wasley Street,",NORTH PERTH WA 6006,House,3,1,2,"1,012m² ",28 Oct 2022
+"1,100,000 ","8-10 Lawley Street,",WEST PERTH WA 6005,House,4,2,2,498m² ,27 Oct 2022
+"940,000 ","184 Hensman Street,",KENSINGTON WA 6151,House,3,1,3,512m² ,25 Oct 2022
+"3,000,000 ","25 Taylor Road,",NEDLANDS WA 6009,House,5,2,5,923m² ,25 Oct 2022
+"2,050,000 ","14A-14B Clark Street,",NEDLANDS WA 6009,Duplex,2,1,2,911m² ,25 Oct 2022
+"2,000,000 ","18 Davies Road,",DALKEITH WA 6009,House,2,1,1,956m² ,24 Oct 2022
+"1,630,000 ","97 Fifth Avenue,",MOUNT LAWLEY WA 6050,House,4,2,1,632m² ,24 Oct 2022
+"3,700,000 ","86 Webster Street,",NEDLANDS WA 6009,House,5,3,6,"1,012m² ",24 Oct 2022
+"720,000 ","37 Chamberlain Street,",NORTH PERTH WA 6006,House,3,2,2,278m² ,24 Oct 2022
+"1,900,000 ","45 Kadina Street,",NORTH PERTH WA 6006,House,4,3,2,392m² ,23 Oct 2022
+"870,000 ","105 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,1,2,255m² ,21 Oct 2022
+"1,600,000 ","26 Ord Street,",NEDLANDS WA 6009,House,3,1,2,696m² ,21 Oct 2022
+"1,960,000 ","12 Loftus Street,",NEDLANDS WA 6009,House,5,2,2,696m² ,18 Oct 2022
+"1,355,000 ","63 Hensman Street,",SOUTH PERTH WA 6151,House,4,2,3,572m² ,18 Oct 2022
+"1,930,000 ","28 Victory Terrace,",EAST PERTH WA 6004,House,4,2,4,305m² ,17 Oct 2022
+"1,200,000 ","48 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,1,2,604m² ,14 Oct 2022
+"1,200,000 ","36 Emmerson Street,",NORTH PERTH WA 6006,House,4,1,2,468m² ,14 Oct 2022
+"1,030,000 ","82 Sydney Street,",NORTH PERTH WA 6006,House,3,2,2,308m² ,12 Oct 2022
+"3,420,000 ","36 Milson Street,",SOUTH PERTH WA 6151,House,4,3,4,911m² ,12 Oct 2022
+"1,070,000 ","72 Burt Street,",NORTH PERTH WA 6006,House,4,2,3,438m² ,11 Oct 2022
+"1,195,000 ","37 Coode Street,",SOUTH PERTH WA 6151,House,3,2,2,192m² ,07 Oct 2022
+"885,000 ","54 Mabel Street,",NORTH PERTH WA 6006,House,3,1,−,490m² ,06 Oct 2022
+"1,830,000 ","28 Burt Street,",MOUNT LAWLEY WA 6050,House,4,3,4,533m² ,05 Oct 2022
+"1,910,000 ","1 Kinninmont Avenue,",NEDLANDS WA 6009,House,4,3,2,502m² ,05 Oct 2022
+"1,110,000 ","195 Walcott Street,",MOUNT LAWLEY WA 6050,House,3,2,6,401m² ,04 Oct 2022
+"975,000 ","25 Haynes Street,",NORTH PERTH WA 6006,House,3,1,1,506m² ,04 Oct 2022
+"1,800,000 ","20 Beacon Terrace,",EAST PERTH WA 6004,House,5,2,2,209m² ,03 Oct 2022
+"1,150,000 ","114 Walcott Street,",MOUNT LAWLEY WA 6050,House,4,1,4,759m² ,03 Oct 2022
+"1,200,000 ","9 Mitchell Street,",MOUNT LAWLEY WA 6050,House,4,2,1,411m² ,30 Sep 2022
+"1,005,000 ","3B Hardy Street,",NORTH PERTH WA 6006,House,4,2,3,392m² ,28 Sep 2022
+"1,700,000 ","59 Farnley Street,",MOUNT LAWLEY WA 6050,House,4,1,4,860m² ,27 Sep 2022
+"920,000 ","27A Fourth Avenue,",MOUNT LAWLEY WA 6050,House,5,3,2,307m² ,26 Sep 2022
+"1,500,000 ","50 Raglan Road,",MOUNT LAWLEY WA 6050,House,3,1,4,607m² ,22 Sep 2022
+"2,610,000 ","9 Lawley Crescent,",MOUNT LAWLEY WA 6050,House,5,4,2,"1,138m² ",21 Sep 2022
+"925,000 ","14 Woodville Street,",NORTH PERTH WA 6006,House,2,1,2,382m² ,2022
+"1,600,000 ","126 Joel Terrace,",MOUNT LAWLEY WA 6050,House,3,2,2,319m² ,20 Sep 2022
+"1,650,000 ","102 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,1,630m² ,19 Sep 2022
+"1,500,000 ","165 Joel Terrace,",MOUNT LAWLEY WA 6050,House,4,3,4,527m² ,19 Sep 2022
+"1,620,000 ","14A Karella Street,",NEDLANDS WA 6009,House,4,2,3,427m² ,19 Sep 2022
+"1,000,000 ","44A Emmerson Street,",NORTH PERTH WA 6006,House,3,2,2,295m² ,19 Sep 2022
+"1,210,000 ","17 Gerald Street,",MOUNT LAWLEY WA 6050,House,6,4,2,306m² ,18 Sep 2022
+"1,100,000 ","61 Lawler Street,",NORTH PERTH WA 6006,House,3,1,2,438m² ,18 Sep 2022
+"775,000 ","212 Loftus Street,",NORTH PERTH WA 6006,House,3,1,2,386m² ,14 Sep 2022
+"400,000 ","3/929 Wellington Street,",WEST PERTH WA 6005,House,2,2,1,110m² ,14 Sep 2022
+"1,000,000 ","238 Vincent Street,",NORTH PERTH WA 6006,House,1,1,−,774m² ,13 Sep 2022
+"805,000 ","20A Albert Street,",NORTH PERTH WA 6006,House,3,2,2,359m² ,13 Sep 2022
+"407,000 ","38/30 Bishops Row,",EAST PERTH WA 6004,House,2,1,1,116m² ,12 Sep 2022
+"945,000 ","68 Banksia Terrace,",KENSINGTON WA 6151,House,3,1,4,794m² ,12 Sep 2022
+"2,680,000 ","80 Webster Street,",NEDLANDS WA 6009,House,4,2,4,"1,012m² ",12 Sep 2022
+"1,040,000 ","170 Harold Street,",MOUNT LAWLEY WA 6050,House,4,2,1,460m² ,11 Sep 2022
+"900,000 ","36A Third Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,367m² ,09 Sep 2022
+"1,172,750 ","127 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,1,2,401m² ,06 Sep 2022
+"1,570,000 ","5A Campsie Street,",NORTH PERTH WA 6006,House,3,2,2,275m² ,06 Sep 2022
+"725,000 ","23 Scarborough Beach Road,",NORTH PERTH WA 6006,House,2,1,1,488m² ,05 Sep 2022
+"1,190,000 ","8 Morriston St,",NORTH PERTH WA 6006,House,4,2,2,285m² ,04 Sep 2022
+"860,000 ","19 Pakenham Street,",MOUNT LAWLEY WA 6050,House,5,1,3,654m² ,02 Sep 2022
+"1,140,000 ","14 Mitchell Street,",MOUNT LAWLEY WA 6050,House,3,2,1,550m² ,02 Sep 2022
+"1,500,000 ","5 Campsie Street,",NORTH PERTH WA 6006,House,3,2,2,275m² ,01 Sep 2022
+"1,875,000 ","37 Wiluna Street,",COOLBINIA WA 6050,House,3,2,2,809m² ,2022
+"1,650,000 ","32 Henry Lawson Walk,",EAST PERTH WA 6004,House,3,2,2,165m² ,29 Aug 2022
+"1,370,000 ","74 Clieveden Street,",NORTH PERTH WA 6006,House,4,3,2,253m² ,29 Aug 2022
+"631,000 ","128A Stirling Highway,",NEDLANDS WA 6009,House,2,1,1,218m² ,28 Aug 2022
+"222,000 ","29/26 Stanley Street,",MOUNT LAWLEY WA 6050,House,2,1,1,58m² ,26 Aug 2022
+"680,000 ","385 Charles Street,",NORTH PERTH WA 6006,House,3,2,2,280m² ,26 Aug 2022
+"479,000 ","Villa 7/55 Alexander Drive,",MENORA WA 6050,Retirement Living,2,1,1,210m² ,25 Aug 2022
+"520,000 ","1/132 Carr Street,",WEST PERTH WA 6005,Villa,2,1,1,171m² ,25 Aug 2022
+"580,000 ","203B Central Avenue,",MOUNT LAWLEY WA 6050,House,3,1,1,205m² ,24 Aug 2022
+"2,250,000 ","24 Clive Road,",MOUNT LAWLEY WA 6050,House,5,2,6,829m² ,24 Aug 2022
+"1,550,000 ","9 Hardy Street,",NORTH PERTH WA 6006,House,4,2,2,513m² ,24 Aug 2022
+"920,000 ","67 Barlee Street,",MOUNT LAWLEY WA 6050,House,3,2,1,264m² ,22 Aug 2022
+"3,650,000 ",,NEDLANDS WA 6009,House,5,4,6,"1,057m² ",22 Aug 2022
+"2,300,000 ","47 Louise Street,",NEDLANDS WA 6009,House,4,1,3,"1,055m² ",22 Aug 2022
+"3,300,000 ","69 Waratah Avenue,",DALKEITH WA 6009,House,5,4,2,"1,103m² ",19 Aug 2022
+"1,161,000 ","74 Whatley Crescent,",MOUNT LAWLEY WA 6050,House,4,2,3,889m² ,18 Aug 2022
+"470,000 ","5/2 Field Street,",MOUNT LAWLEY WA 6050,Villa,2,1,1,146m² ,17 Aug 2022
+"1,100,000 ","48 Campbell Street,",KENSINGTON WA 6151,House,2,2,2,506m² ,16 Aug 2022
+"880,000 ","321 Fitzgerald Street,",NORTH PERTH WA 6006,House,3,1,2,233m² ,13 Aug 2022
+"723,000 ","443 Walcott Street,",NORTH PERTH WA 6006,House,2,1,2,594m² ,12 Aug 2022
+"1,210,000 ","14 Clieveden Street,",NORTH PERTH WA 6006,House,3,2,2,491m² ,12 Aug 2022
+"658,000 ","81 Lawler Street,",NORTH PERTH WA 6006,House,3,2,2,156m² ,12 Aug 2022
+"1,155,000 ","26 Lawler Street,",NORTH PERTH WA 6006,House,3,2,2,465m² ,11 Aug 2022
+"1,925,000 ","22 Carnarvon Crescent,",COOLBINIA WA 6050,House,4,2,4,878m² ,10 Aug 2022
+"1,800,000 ","87 Armadale Crescent,",COOLBINIA WA 6050,House,6,3,2,946m² ,08 Aug 2022
+"559,000 ","Villa 80/55 Alexander Drive,",MENORA WA 6050,Retirement Living,2,2,2,220m² ,08 Aug 2022
+"3,250,000 ","6 Storthes Street,",MOUNT LAWLEY WA 6050,House,4,4,4,"1,002m² ",08 Aug 2022
+"1,700,000 ","66 Williams Road,",NEDLANDS WA 6009,House,3,2,3,455m² ,08 Aug 2022
+"1,365,000 ","122 Alma Road,",NORTH PERTH WA 6006,House,4,3,2,256m² ,08 Aug 2022
+"559,000 ","91/55 Alexander Drive,",MENORA WA 6050,Retirement Living,2,2,2,220m² ,03 Aug 2022
+"1,040,000 ","12 Viva Lane,",NORTH PERTH WA 6006,House,3,2,2,223m² ,03 Aug 2022
+"1,979,500 ","6 Tyrell Street,",NEDLANDS WA 6009,House,3,2,1,809m² ,02 Aug 2022
+"685,000 ","535 Charles Street,",NORTH PERTH WA 6006,House,3,2,3,366m² ,31 Jul 2022
+"655,000 ","205A Walcott Street,",NORTH PERTH WA 6006,House,3,2,2,291m² ,28 Jul 2022
+"1,615,000 ","52A Vincent Street,",MOUNT LAWLEY WA 6050,House,4,2,2,252m² ,27 Jul 2022
+"1,840,000 ","18 Edward Street,",NEDLANDS WA 6009,House,4,2,2,809m² ,27 Jul 2022
+"1,450,000 ","43 Roseberry Avenue,",SOUTH PERTH WA 6151,House,3,2,2,521m² ,26 Jul 2022
+"2,150,000 ","9 Murchison St,",COOLBINIA WA 6050,House,5,2,2,885m² ,25 Jul 2022
+"2,900,000 ","64 Waratah Avenue,",DALKEITH WA 6009,House,2,1,1,"1,012m² ",25 Jul 2022
+"1,700,000 ","35 Rockton Road,",NEDLANDS WA 6009,House,3,2,1,459m² ,25 Jul 2022
+"4,900,000 ","37 Browne Avenue,",DALKEITH WA 6009,House,5,3,4,"1,151m² ",24 Jul 2022
+"3,400,000 ","48 Minora Road,",DALKEITH WA 6009,House,5,4,4,"1,052m² ",23 Jul 2022
+"1,436,000 ","140 EAST PARADE,",EAST PERTH WA 6004,House,3,2,2,572m² ,23 Jul 2022
+"1,510,000 ","4 Wareana Street,",MENORA WA 6050,House,5,3,6,708m² ,22 Jul 2022
+"695,000 ","44 North Street,",MOUNT LAWLEY WA 6050,House,3,1,2,216m² ,2022
+"1,150,000 ","3 Toorak Rise,",NORTH PERTH WA 6006,House,3,2,2,240m² ,21 Jul 2022
+"2,400,000 ","26 Namur Street,",NORTH PERTH WA 6006,House,3,2,2,"1,012m² ",21 Jul 2022
+"1,060,000 ","83 Smith Street,",HIGHGATE WA 6003,House,2,1,1,314m² ,19 Jul 2022
+"860,000 ","524 Charles Street,",NORTH PERTH WA 6006,House,3,1,2,459m² ,19 Jul 2022
+"761,000 ","15 Carrington Street,",NORTH PERTH WA 6006,House,3,3,2,240m² ,18 Jul 2022
+"820,000 ","52 Alma Road,",MOUNT LAWLEY WA 6050,House,2,1,1,306m² ,15 Jul 2022
+"907,000 ","57B Wittenoom Street,",EAST PERTH WA 6004,House,3,2,2,145m² ,14 Jul 2022
+"1,300,000 ","13 Woodlands Street,",MENORA WA 6050,House,4,2,2,739m² ,10 Jul 2022
+"3,000,000 ","75 Tyrell Street,",NEDLANDS WA 6009,House,4,3,4,"1,004m² ",08 Jul 2022
+"910,000 ","11 Gwenyfred Road,",KENSINGTON WA 6151,House,2,1,−,544m² ,06 Jul 2022
+"1,220,000 ","31 Leake Street,",NORTH PERTH WA 6006,House,3,1,4,503m² ,06 Jul 2022
+"2,050,000 ","37 Verdun Street,",NEDLANDS WA 6009,House,4,3,2,334m² ,01 Jul 2022
+"900,000 ","457 Charles Street,",NORTH PERTH WA 6006,House,2,1,3,682m² ,01 Jul 2022
+"705,000 ","269 Walcott St,",NORTH PERTH WA 6006,House,2,1,2,433m² ,01 Jul 2022
+"955,000 ","31 Howlett Street,",NORTH PERTH WA 6006,House,3,1,2,443m² ,30 Jun 2022
+"1,250,000 ","62 Strickland Street,",SOUTH PERTH WA 6151,House,3,2,2,827m² ,30 Jun 2022
+"757,500 ","1/3 Mitchell Street,",MOUNT LAWLEY WA 6050,House,3,2,2,141m² ,29 Jun 2022
+"1,200,000 ","58 Ruby Street,",NORTH PERTH WA 6006,House,3,1,3,615m² ,29 Jun 2022
+"1,375,000 ","20 Ruby Street,",NORTH PERTH WA 6006,House,4,1,2,491m² ,29 Jun 2022
+"2,650,000 ","94 Kingsway,",NEDLANDS WA 6009,House,4,2,3,908m² ,24 Jun 2022
+"1,350,000 ","77 Meriwa Street,",NEDLANDS WA 6009,House,3,2,3,468m² ,24 Jun 2022
+"900,000 ","29 Eton Street,",NORTH PERTH WA 6006,House,6,2,2,297m² ,24 Jun 2022
+"875,000 ","101 Brandon St,",KENSINGTON WA 6151,House,3,1,5,736m² ,23 Jun 2022
+"1,140,000 ","51 Vincent Street,",MOUNT LAWLEY WA 6050,House,2,2,2,180m² ,23 Jun 2022
+"390,000 ","1/143 Railway Parade,",MOUNT LAWLEY WA 6050,House,2,1,1,72m² ,21 Jun 2022
+"2,100,000 ","1 Leslie Street,",MOUNT LAWLEY WA 6050,House,4,2,4,881m² ,20 Jun 2022
+"690,000 ","3/3 Doonan Road,",NEDLANDS WA 6009,House,2,1,1,174m² ,20 Jun 2022
+"2,115,000 ","28 Archdeacon Street,",NEDLANDS WA 6009,House,4,3,2,809m² ,20 Jun 2022
+"1,214,400 ","105A Angove Street,",NORTH PERTH WA 6006,House,4,2,2,385m² ,19 Jun 2022
+"3,819,000 ","77 Tyrell Street,",NEDLANDS WA 6009,House,5,3,2,"1,012m² ",17 Jun 2022
+"1,510,000 ","14 Fifth Avenue,",MOUNT LAWLEY WA 6050,House,4,2,2,540m² ,16 Jun 2022
+"1,420,000 ","26 Gardiner Street,",EAST PERTH WA 6004,House,4,2,−,678m² ,15 Jun 2022
+"2,500,000 ","45 North Street,",MOUNT LAWLEY WA 6050,House,5,3,3,870m² ,14 Jun 2022
+"1,460,000 ","24 Pennant Street,",NORTH PERTH WA 6006,House,4,2,2,405m² ,14 Jun 2022
+"2,900,000 ","17 York Street,",SOUTH PERTH WA 6151,House,4,3,6,680m² ,14 Jun 2022
+"4,350,000 ","13 Nardina Crescent,",DALKEITH WA 6009,House,5,5,4,"1,378m² ",10 Jun 2022
+"3,200,000 ","22 Henry Lawson Walk,",EAST PERTH WA 6004,House,5,3,3,312m² ,10 Jun 2022
+"1,150,000 ","59 Kingston Avenue,",WEST PERTH WA 6005,House,3,2,−,354m² ,09 Jun 2022
+"775,000 ","6/89 Smith Street,",HIGHGATE WA 6003,House,3,2,4,200m² ,06 Jun 2022
+"2,800,000 ","32 Victory Terrace,",EAST PERTH WA 6004,House,5,4,4,882m² ,02 Jun 2022
+"2,600,000 ","9 Lupin Hill Grove,",NEDLANDS WA 6009,House,4,3,2,710m² ,01 Jun 2022
+"1,275,000 ","121 Brandon Street,",KENSINGTON WA 6151,House,4,1,4,761m² ,31 May 2022
+"880,000 ","51 Wickham Street,",EAST PERTH WA 6004,House,2,1,1,508m² ,27 May 2022
+"1,225,000 ","36A Walcott Street,",MOUNT LAWLEY WA 6050,House,3,1,4,537m² ,27 May 2022
+"1,250,000 ","12 Roy Street,",MOUNT LAWLEY WA 6050,House,3,1,5,470m² ,26 May 2022
+"1,150,000 ","17 Grosvenor Road,",MOUNT LAWLEY WA 6050,House,3,1,1,450m² ,24 May 2022
+"1,250,000 ","76 Clieveden Street,",NORTH PERTH WA 6006,House,4,3,2,301m² ,24 May 2022
+"1,120,000 ","1 Carrington Street,",NORTH PERTH WA 6006,House,4,3,2,329m² ,24 May 2022
+"1,000,000 ","148 Hensman Street,",KENSINGTON WA 6151,House,3,2,2,625m² ,23 May 2022
+"900,000 ","3 Carrington Street,",NORTH PERTH WA 6006,House,3,2,1,319m² ,23 May 2022
+"1,300,000 ","1/2A Regent Street West,",MOUNT LAWLEY WA 6050,House,4,3,2,261m² ,22 May 2022
+"1,150,000 ","34 Plantation Street,",MENORA WA 6050,House,3,1,3,713m² ,19 May 2022
+"1,475,000 ","57 View Street,",NORTH PERTH WA 6006,House,3,2,4,220m² ,19 May 2022
+"1,345,000 ","41 Chelmsford Road,",MOUNT LAWLEY WA 6050,House,3,1,2,455m² ,17 May 2022
+"1,250,000 ","42A Langham Street,",NEDLANDS WA 6009,House,2,2,2,452m² ,17 May 2022
+"825,000 ","50 Carr Street,",WEST PERTH WA 6005,House,2,1,−,177m² ,17 May 2022
+"2,330,000 ","84 Bruce Street,",NEDLANDS WA 6009,House,5,2,4,885m² ,12 May 2022
+"1,575,000 ","68 Paddington Street,",NORTH PERTH WA 6006,House,3,1,4,835m² ,12 May 2022
+"1,330,000 ","26 Kayle Street,",NORTH PERTH WA 6006,House,4,2,3,321m² ,11 May 2022
+"950,000 ","151 Gwenyfred Street,",KENSINGTON WA 6151,House,3,2,5,675m² ,10 May 2022
+"1,350,000 ","18 Fifth Avenue,",MOUNT LAWLEY WA 6050,House,5,2,2,809m² ,10 May 2022
+"1,400,000 ","99 Raglan Road,",MOUNT LAWLEY WA 6050,House,3,2,4,577m² ,10 May 2022
+"960,000 ","132 LONDON STREET,",NORTH PERTH WA 6006,House,4,3,2,375m² ,10 May 2022
+"1,500,000 ","5 Vista Street,",KENSINGTON WA 6151,House,4,2,2,444m² ,09 May 2022
+"635,000 ","167 Douglas Avenue,",KENSINGTON WA 6151,House,2,1,3,258m² ,09 May 2022
+"1,225,000 ","1 Hyde Street,",MOUNT LAWLEY WA 6050,House,4,1,2,363m² ,09 May 2022
+"720,000 ","6/6 Tennivale Place,",NORTH PERTH WA 6006,Villa,3,1,2,302m² ,08 May 2022
+"1,610,000 ","23 Dumbarton Crescent,",MENORA WA 6050,House,3,1,−,764m² ,6 May 2022
+"1,965,000 ",,SOUTH PERTH WA 6151,House,8,4,4,809m² ,06 May 2022
+"3,850,000 ","3 Neville Road,",DALKEITH WA 6009,House,5,3,2,"1,012m² ",04 May 2022
+"735,000 ","10 Freedman Road,",MENORA WA 6050,House,3,1,2,420m² ,03 May 2022
+"1,480,000 ","50 Walcott Street,",MOUNT LAWLEY WA 6050,House,4,3,4,505m² ,03 May 2022
+"425,000 ","2/54 First Avenue,",MOUNT LAWLEY WA 6050,Villa,2,1,1,128m² ,02 May 2022
+"4,350,000 ","105 Victoria Avenue,",DALKEITH WA 6009,House,5,4,5,"1,391m² ",29 Apr 2022
+"1,355,000 ","19 Daphne Street,",NORTH PERTH WA 6006,House,3,1,2,341m² ,29 Apr 2022
+"6,250,000 ","11 Jutland Parade,",DALKEITH WA 6009,House,5,4,6,"1,012m² ",27 Apr 2022
+"1,375,000 ","8 Woodlands Street,",MENORA WA 6050,House,3,1,2,779m² ,26 Apr 2022
+"1,100,000 ","2 Sabina Street,",MENORA WA 6050,House,4,1,2,812m² ,26 Apr 2022
+"1,470,000 ","1 Mignonette Street,",NORTH PERTH WA 6006,House,4,2,1,428m² ,26 Apr 2022
+"429,000 ","5/56 Third Avenue,",MOUNT LAWLEY WA 6050,Villa,2,1,2,66m² ,22 Apr 2022
+"1,625,000 ","43 Kadina Street,",NORTH PERTH WA 6006,House,4,2,2,392m² ,22 Apr 2022
+"1,810,000 ","27 Second Avenue,",MOUNT LAWLEY WA 6050,House,4,2,2,807m² ,21 Apr 2022
+"1,465,000 ","17 Selden Street,",NORTH PERTH WA 6006,House,4,2,2,775m² ,2022
+"860,000 ","134A London Street,",NORTH PERTH WA 6006,House,4,2,2,390m² ,21 Apr 2022
+"1,154,800 ","502 William Street,",HIGHGATE WA 6003,House,3,1,2,347m² ,19 Apr 2022
+"1,671,000 ","28 Ruby Street,",NORTH PERTH WA 6006,House,4,2,2,"5,025m² ",19 Apr 2022
+"2,600,000 ","21 Elma Street,",COOLBINIA WA 6050,House,6,3,2,759m² ,16 Apr 2022
+"1,095,000 ","301 Fitzgerald Street,",WEST PERTH WA 6005,House,4,1,4,354m² ,14 Apr 2022
+"910,000 ","296 Walcott Street,",MENORA WA 6050,House,3,1,2,779m² ,12 Apr 2022
+"1,975,000 ","27 Robinson Street,",NEDLANDS WA 6009,House,3,2,4,696m² ,12 Apr 2022
+"1,345,000 ","38 Lawler Street,",NORTH PERTH WA 6006,House,4,2,2,455m² ,11 Apr 2022
+"1,750,000 ","10 Marmion Street,",NORTH PERTH WA 6006,House,4,2,2,506m² ,10 Apr 2022
+"1,260,000 ","68 Lawler Street,",SOUTH PERTH WA 6151,House,4,3,2,304m² ,09 Apr 2022
+"1,950,000 ","112A Forrest Street,",SOUTH PERTH WA 6151,House,1,1,−,675m² ,06 Apr 2022
+"1,410,000 ","19 Second Avenue,",KENSINGTON WA 6151,House,5,3,3,519m² ,05 Apr 2022
+"1,106,000 ","5 Morriston Street,",NORTH PERTH WA 6006,House,3,2,2,320m² ,05 Apr 2022
+"1,465,000 ","37 Victory Terrace,",EAST PERTH WA 6004,House,4,3,2,222m² ,04 Apr 2022
+"1,200,000 ","3 Third Avenue,",MOUNT LAWLEY WA 6050,House,3,2,4,578m² ,03 Apr 2022
+"2,720,000 ","50 Doonan Road,",NEDLANDS WA 6009,House,4,3,1,994m² ,03 Apr 2022
+"3,050,000 ","1 Tweed Crescent,",COOLBINIA WA 6050,House,4,3,6,878m² ,02 Apr 2022
+"1,175,000 ","133A Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,512m² ,01 Apr 2022
+"1,355,000 ","53 Clarence Street,",MOUNT LAWLEY WA 6050,House,3,1,2,473m² ,01 Apr 2022
+"910,000 ","47 Gwenyfred Road,",KENSINGTON WA 6151,House,2,1,−,543m² ,29 Mar 2022
+"1,270,000 ","7A Ellesmere Street,",NORTH PERTH WA 6006,House,3,2,2,413m² ,29 Mar 2022
+"1,240,000 ","8 Carey Street,",KENSINGTON WA 6151,House,4,2,2,418m² ,26 Mar 2022
+"1,225,000 ","26 Haig Park Circle,",EAST PERTH WA 6004,House,3,2,2,205m² ,25 Mar 2022
+"1,256,000 ","29 Haynes Street,",NORTH PERTH WA 6006,House,2,2,2,506m² ,24 Mar 2022
+"2,650,000 ","33 Learoyd Street,",MOUNT LAWLEY WA 6050,House,4,2,2,890m² ,23 Mar 2022
+"2,715,000 ","28 Stanley Street,",NEDLANDS WA 6009,House,5,3,2,"1,012m² ",22 Mar 2022
+"1,350,000 ","63 Coode Street,",SOUTH PERTH WA 6151,House,3,1,1,660m² ,22 Mar 2022
+"1,249,000 ","48 Chelmsford Road,",MOUNT LAWLEY WA 6050,House,3,2,2,450m² ,16 Mar 2022
+"2,350,000 ","137 Melvista Avenue,",NEDLANDS WA 6009,House,3,1,1,809m² ,16 Mar 2022
+"1,080,000 ","366 Stirling Street,",HIGHGATE WA 6003,House,3,1,1,448m² ,14 Mar 2022
+"1,400,000 ","159 Bradford Street,",COOLBINIA WA 6050,House,3,1,1,873m² ,2022
+"2,300,000 ","33 Ridge Street,",SOUTH PERTH WA 6151,House,2,1,1,"1,019m² ",11 Mar 2022
+"700,000 ","323 Walcott Street,",COOLBINIA WA 6050,House,2,1,2,312m² ,10 Mar 2022
+"1,025,000 ","27 Forrest Street,",MOUNT LAWLEY WA 6050,House,4,2,4,389m² ,10 Mar 2022
+"1,210,000 ","17 Anthony Street,",SOUTH PERTH WA 6151,House,3,1,2,450m² ,05 Mar 2022
+"1,164,000 ","244 Loftus Street,",NORTH PERTH WA 6006,House,4,2,2,384m² ,04 Mar 2022
+"978,000 ","81B Redfern Street,",NORTH PERTH WA 6006,House,3,2,2,227m² ,04 Mar 2022
+"1,970,000 ","64 Clieveden Street,",NORTH PERTH WA 6006,House,4,3,2,604m² ,27 Feb 2022
+"2,650,000 ","- Expressions of Interest,",DALKEITH WA 6009,House,4,3,2,509m² ,25 Feb 2022
+"3,275,000 ","22 Neville Road,",DALKEITH WA 6009,House,4,2,3,"1,012m² ",25 Feb 2022
+"3,900,000 ","107 Victoria Avenue,",DALKEITH WA 6009,House,6,4,3,835m² ,2022
+"2,500,000 ","18 Neville Road,",DALKEITH WA 6009,House,3,2,2,"1,012m² ",25 Feb 2022
+"1,322,500 ","22 Haynes Street,",NORTH PERTH WA 6006,House,3,2,2,438m² ,25 Feb 2022
+"1,025,000 ","9 Second Avenue,",MOUNT LAWLEY WA 6050,House,2,1,5,452m² ,24 Feb 2022
+"1,100,000 ","53A Aberdare Road,",NEDLANDS WA 6009,House,3,2,2,356m² ,24 Feb 2022
+"1,120,000 ","79 Gladstone Avenue,",SOUTH PERTH WA 6151,House,3,2,2,438m² ,24 Feb 2022
+"2,450,000 ","15 Ferrar Street,",MENORA WA 6050,House,5,2,3,860m² ,23 Feb 2022
+"1,560,000 ","9 Ambon Street,",KENSINGTON WA 6151,House,5,3,2,769m² ,22 Feb 2022
+"1,030,000 ","23 Commonwealth Avenue,",NORTH PERTH WA 6006,House,2,2,−,384m² ,22 Feb 2022
+"1,288,000 ","127 Railway Parade,",MOUNT LAWLEY WA 6050,House,4,3,3,819m² ,21 Feb 2022
+"1,115,000 ","54 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,496m² ,21 Feb 2022
+"1,400,000 ","28 Kanimbla Road,",NEDLANDS WA 6009,House,3,2,1,491m² ,21 Feb 2022
+"950,000 ","17 Kennard Street,",KENSINGTON WA 6151,House,3,1,1,766m² ,20 Feb 2022
+"969,000 ","64 Elizabeth Street,",NORTH PERTH WA 6006,House,3,1,1,488m² ,20 Feb 2022
+"1,400,000 ","143 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,585m² ,17 Feb 2022
+"1,155,000 ","1 Warralong Crescent,",COOLBINIA WA 6050,House,4,2,2,"1,022m² ",16 Feb 2022
+"1,015,000 ","22 Walcott Street,",MOUNT LAWLEY WA 6050,House,3,1,2,673m² ,15 Feb 2022
+"1,285,000 ","41 Coronation Street,",NORTH PERTH WA 6006,House,3,1,3,375m² ,15 Feb 2022
+"1,350,000 ","60 Wittenoom Street,",EAST PERTH WA 6004,House,4,3,2,206m² ,14 Feb 2022
+"715,000 ","546 Charles Street,",NORTH PERTH WA 6006,House,3,1,1,460m² ,14 Feb 2022
+"1,075,000 ","58 Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,373m² ,12 Feb 2022
+"1,200,000 ","34A Second Avenue,",MOUNT LAWLEY WA 6050,House,4,2,4,646m² ,12 Feb 2022
+"1,410,000 ","163 Chelmsford Road,",NORTH PERTH WA 6006,House,4,1,2,607m² ,2022
+"6,350,000 ","42A Jutland Parade,",DALKEITH WA 6009,House,4,2,4,919m² ,11 Feb 2022
+"900,000 ","83 Alma Road,",MOUNT LAWLEY WA 6050,House,2,1,1,309m² ,10 Feb 2022
+"4,400,000 ","150 Adelma Road,",DALKEITH WA 6009,House,3,2,2,"1,012m² ",09 Feb 2022
+"805,000 ","1/33 Baird Avenue,",NEDLANDS WA 6009,House,3,2,2,282m² ,09 Feb 2022
+"1,468,000 ","74 Chelmsford Road,",MOUNT LAWLEY WA 6050,House,3,2,2,453m² ,08 Feb 2022
+"1,380,000 ","32 Megalong St,",NEDLANDS WA 6009,House,3,2,1,491m² ,07 Feb 2022
+"1,100,000 ","5 Magnolia Street,",NORTH PERTH WA 6006,House,3,2,2,461m² ,07 Feb 2022
+"2,425,000 ","74 Coode Street,",SOUTH PERTH WA 6151,House,4,2,3,812m² ,05 Feb 2022
+"2,640,000 ","75 Forrest Street,",MOUNT LAWLEY WA 6050,House,4,3,2,308m² ,31 Jan 2022
+"3,250,000 ","63 Thomas Street,",NEDLANDS WA 6009,House,5,2,2,"1,012m² ",31 Jan 2022
+"1,825,000 ","63 Clieveden Street,",NORTH PERTH WA 6006,House,5,2,2,556m² ,31 Jan 2022
+"1,550,000 ","22B Strickland Street,",SOUTH PERTH WA 6151,House,4,3,2,751m² ,30 Jan 2022
+"1,812,500 ","80 Lansdowne Road,",KENSINGTON WA 6151,House,6,3,3,"1,088m² ",29 Jan 2022
+"1,135,000 ","57 Sydney Street,",NORTH PERTH WA 6006,House,3,1,2,529m² ,28 Jan 2022
+"2,650,000 ","3 Beatrice Road,",DALKEITH WA 6009,House,5,2,2,806m² ,25 Jan 2022
+"4,180,000 ","89 Thomas Street,",NEDLANDS WA 6009,House,5,4,2,"1,012m² ",25 Jan 2022
+"955,000 ","169 Walcott Street,",MOUNT LAWLEY WA 6050,House,3,2,−,371m² ,23 Jan 2022
+"956,000 ","132 Gwenyfred Road,",KENSINGTON WA 6151,House,2,1,3,911m² ,22 Jan 2022
+"1,130,000 ","22 Longroyd Street,",MOUNT LAWLEY WA 6050,House,4,2,2,599m² ,21 Jan 2022
+"1,110,000 ","10 Persimmon Street,",NORTH PERTH WA 6006,House,3,2,2,226m² ,21 Jan 2022
+"1,005,000 ","58 Douglas Avenue,",SOUTH PERTH WA 6151,House,3,3,2,438m² ,21 Jan 2022
+"940,000 ","19 Forrest Avenue,",EAST PERTH WA 6004,House,3,3,2,237m² ,20 Jan 2022
+"865,000 ","90b Labouchere Road,",SOUTH PERTH WA 6151,House,3,2,4,358m² ,18 Jan 2022
+"1,450,000 ","8 Haig Park Circle,",EAST PERTH WA 6004,House,3,2,2,200m² ,17 Jan 2022
+"990,000 ","1D Scott Street,",SOUTH PERTH WA 6151,House,3,2,4,251m² ,17 Jan 2022
+"1,400,000 ","51 Douglas Avenue,",SOUTH PERTH WA 6151,House,5,2,2,612m² ,15 Jan 2022
+"1,375,000 ","10 Meenaar Crescent,",COOLBINIA WA 6050,House,5,2,1,847m² ,14 Jan 2022
+"1,400,000 ","3 Pine Street,",MENORA WA 6050,House,3,1,2,832m² ,14 Jan 2022
+"1,810,000 ","19 Learoyd Street,",MOUNT LAWLEY WA 6050,House,5,3,4,898m² ,14 Jan 2022
+"900,000 ","142 Walcott Street,",MOUNT LAWLEY WA 6050,House,3,2,4,943m² ,12 Jan 2022
+"2,750,000 ","42 Doonan Road,",NEDLANDS WA 6009,House,5,3,4,997m² ,12 Jan 2022
+"1,109,500 ","45 Commonwealth Avenue,",NORTH PERTH WA 6006,House,3,1,2,384m² ,12 Jan 2022
+"415,000 ","114A Loftus Street,",NORTH PERTH WA 6006,Villa,3,1,1,180m² ,12 Jan 2022
+"2,050,000 ","102 Third Avenue,",MOUNT LAWLEY WA 6050,House,4,3,3,880m² ,11 Jan 2022
+"1,430,000 ","20 Broad Street,",KENSINGTON WA 6151,House,4,2,2,520m² ,10 Jan 2022
+"1,420,000 ","178 Walcott Street,",MOUNT LAWLEY WA 6050,House,4,2,2,711m² ,10 Jan 2022
+"1,550,000 ","2/15 Mountjoy Road,",NEDLANDS WA 6009,House,4,3,2,280m² ,10 Jan 2022
+"3,110,000 ","64 Louise Street,",NEDLANDS WA 6009,House,5,3,4,"1,012m² ",10 Jan 2022
+"1,420,000 ","18 Paddington Street,",NORTH PERTH WA 6006,House,4,3,−,696m² ,10 Jan 2022
+"1,425,000 ","33 Richmond Street,",NORTH PERTH WA 6006,House,2,1,−,814m² ,06 Jan 2022
+"533,000 ","19/68 Coode Street,",SOUTH PERTH WA 6151,Villa,2,1,1,161m² ,04 Jan 2022
+"790,000 ","403 Charles Street,",NORTH PERTH WA 6006,House,3,1,1,597m² ,03 Jan 2022
+"1,890,000 ","42 Arden Street,",EAST PERTH WA 6004,House,4,2,2,216m² ,31 Dec 2021
+"1,300,000 ","103 Chelmsford Road,",MOUNT LAWLEY WA 6050,House,3,1,4,463m² ,31 Dec 2021
+"5,900,000 ","18 Jubilee Street,",SOUTH PERTH WA 6151,House,2,2,2,650m² ,31 Dec 2021
+"935,000 ","34 Bradford Street,",MENORA WA 6050,House,3,2,3,792m² ,30 Dec 2021
+"1,430,000 ","45 Bradford Street,",MENORA WA 6050,House,4,1,1,"1,047m² ",29 Dec 2021
+"1,410,000 ","160 Grosvenor Road,",NORTH PERTH WA 6006,House,3,2,2,363m² ,29 Dec 2021
+"1,425,000 ","6 Camelia Street,",NORTH PERTH WA 6006,House,4,2,2,528m² ,28 Dec 2021
+"535,000 ","13/6 Tennivale Place,",NORTH PERTH WA 6006,Villa,3,1,2,231m² ,23 Dec 2021
+"1,420,000 ","95 Winthrop Avenue,",NEDLANDS WA 6009,House,4,2,2,483m² ,20 Dec 2021
+"1,470,000 ","49 Sydney Street,",NORTH PERTH WA 6006,House,5,2,2,529m² ,20 Dec 2021
+"980,000 ","61 Monmouth Street,",MOUNT LAWLEY WA 6050,House,3,2,2,229m² ,19 Dec 2021
+"1,050,000 ","129a Fourth Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,354m² ,18 Dec 2021
+"1,260,000 ","5 Leura Street,",NEDLANDS WA 6009,House,2,1,1,918m² ,17 Dec 2021
+"660,000 ","58 Auckland Street,",NORTH PERTH WA 6006,House,3,1,1,298m² ,17 Dec 2021
+"1,760,000 ","85 First Avenue,",MOUNT LAWLEY WA 6050,House,3,2,3,919m² ,16 Dec 2021
+"899,000 ","400 Lord Street,",MOUNT LAWLEY WA 6050,House,2,1,−,496m² ,15 Dec 2021
+"3,400,000 ","51 The Avenue,",NEDLANDS WA 6009,House,5,3,3,"1,012m² ",15 Dec 2021
+"1,650,000 ","49 Tareena Street,",NEDLANDS WA 6009,House,4,2,4,483m² ,15 Dec 2021
+"1,675,000 ","118 Chelmsford Road,",NORTH PERTH WA 6006,House,4,2,1,460m² ,14 Dec 2021
+"2,100,000 ","7B Karoo Street,",SOUTH PERTH WA 6151,House,4,3,2,462m² ,14 Dec 2021
+"875,000 ","65A Third Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,243m² ,11 Dec 2021
+"1,335,000 ","11 Arundel Street,",KENSINGTON WA 6151,House,4,2,2,511m² ,09 Dec 2021
+"1,760,000 ","45 Norfolk Street,",NORTH PERTH WA 6006,House,4,3,−,454m² ,09 Dec 2021
+"1,550,000 ","31 Camelia Street,",NORTH PERTH WA 6006,House,4,2,2,395m² ,09 Dec 2021
+"1,005,000 ","41 Dyson Street,",KENSINGTON WA 6151,House,4,1,1,615m² ,2021
+"1,170,000 ","53 Lawler Street,",NORTH PERTH WA 6006,House,3,1,2,460m² ,08 Dec 2021
+"1,010,000 ","29 Forrest Street,",MOUNT LAWLEY WA 6050,House,3,2,2,380m² ,07 Dec 2021
+"810,000 ","7B Campsie Street,",NORTH PERTH WA 6006,House,3,1,2,260m² ,07 Dec 2021
+"940,000 ","134A Third Avenue,",MOUNT LAWLEY WA 6050,House,3,2,2,366m² ,05 Dec 2021
+"1,300,000 ","11 Mullewa Crescent,",COOLBINIA WA 6050,House,3,1,1,971m² ,03 Dec 2021
+"1,165,000 ","45 Ruby Street,",NORTH PERTH WA 6006,House,3,1,1,490m² ,03 Dec 2021
+"1,150,000 ","25 Alma Road,",MOUNT LAWLEY WA 6050,House,3,2,2,200m² ,30 Nov 2021
+"1,830,000 ","100 Third Avenue,",MOUNT LAWLEY WA 6050,House,4,3,3,880m² ,30 Nov 2021
+"3,150,000 ","110 Melvista Avenue,",DALKEITH WA 6009,House,6,3,2,"1,004m² ",29 Nov 2021
+"650,000 ","81 Broome Street,",HIGHGATE WA 6003,House,3,1,1,278m² ,29 Nov 2021
+"2,005,000 ","8 Victory Terrace,",EAST PERTH WA 6004,House,5,3,3,200m² ,28 Nov 2021
+"799,000 ","167 Gwenyfred Road,",KENSINGTON WA 6151,House,2,1,1,676m² ,26 Nov 2021
+"1,250,000 ","51 Chelmsford Road,",MOUNT LAWLEY WA 6050,House,3,1,1,483m² ,26 Nov 2021
+"1,950,000 ","1 Elizabeth Street,",SOUTH PERTH WA 6151,House,3,3,2,302m² ,25 Nov 2021
+"1,100,000 ","22 Sandgate Street,",SOUTH PERTH WA 6151,House,3,2,2,463m² ,25 Nov 2021
+"1,440,000 ","42 Commonwealth Avenue,",NORTH PERTH WA 6006,House,4,3,5,382m² ,24 Nov 2021
+"1,450,000 ","54 Lawler Street,",NORTH PERTH WA 6006,House,3,2,2,455m² ,23 Nov 2021
+"1,500,000 ","45 Lawler Street,",NORTH PERTH WA 6006,House,3,2,2,460m² ,23 Nov 2021
+"902,000 ","123 Walcott Street,",MOUNT LAWLEY WA 6050,House,3,1,4,498m² ,22 Nov 2021
+"2,200,000 ","12 Carrington Street,",NEDLANDS WA 6009,House,4,2,2,"1,012m² ",22 Nov 2021
+"1,350,000 ","12A Elizabeth Street,",SOUTH PERTH WA 6151,House,3,2,2,433m² ,22 Nov 2021
+"1,180,000 ","388 Walcott Street,",COOLBINIA WA 6050,House,5,1,6,835m² ,21 Nov 2021
+"1,410,000 ","41 Hensman Street,",SOUTH PERTH WA 6151,House,3,2,2,612m² ,20 Nov 2021
+"1,715,000 ","46 Adair Parade,",COOLBINIA WA 6050,House,4,2,2,809m² ,19 Nov 2021
+"3,700,000 ","87 Beatrice Road,",DALKEITH WA 6009,House,5,4,4,951m² ,19 Nov 2021
+"4,400,000 ","75 The Avenue,",NEDLANDS WA 6009,House,5,6,3,"1,012m² ",19 Nov 2021
+"1,910,000 ","21 Dumbarton Crescent,",MENORA WA 6050,House,5,3,−,761m² ,18 Nov 2021
+"415,000 ","4/56 Third Avenue,",MOUNT LAWLEY WA 6050,House,2,1,2,66m² ,18 Nov 2021
+"1,500,000 ","10 Toorak Rise,",NORTH PERTH WA 6006,House,3,2,2,222m² ,18 Nov 2021
+"836,000 ","24 Mabel Street,",NORTH PERTH WA 6006,House,3,2,2,313m² ,17 Nov 2021
+"710,000 ","12 Bramall Street,",EAST PERTH WA 6004,House,3,1,2,385m² ,16 Nov 2021
+"1,500,000 ","50 Clarence Street,",MOUNT LAWLEY WA 6050,House,4,2,2,231m² ,16 Nov 2021

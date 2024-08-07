@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"390,000","705/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,58m² ,21 Mar 2024
+"935,000 ","1602/92-100 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,122m² ,19 Mar 2024
+"590,000 ","24/446 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,106m² ,16 Mar 2024
+"3,550,000 ","412/30 Macrossan Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,5,315m² ,02 Mar 2024
+"376,000 ","1005/151 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,68m² ,29 Feb 2024
+"377,500 ","81/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,62m² ,27 Feb 2024
+"390,000 ","92/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,69m² ,26 Feb 2024
+"355,000 ","1402/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,21 Feb 2024
+"670,000 ","1107/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,87m² ,20 Feb 2024
+"2,500,000 ","8803/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,3,3,258m² ,20 Feb 2024
+"425,000 ","35/482 Upper Roma Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,71m² ,14 Feb 2024
+"620,000 ","2104/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,109m² ,14 Feb 2024
+"773,000 ","L46/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,89m² ,02 Feb 2024
+"472,000 ","1711/111 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,58m² ,29 Jan 2024
+"365,000 ","2502/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,24 Jan 2024
+"723,000 ","6913/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,64m² ,20 Jan 2024
+"393,000 ","Lvl 3/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,65m² ,11 Jan 2024
+"487,400 ","1504/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,61m² ,09 Jan 2024
+"518,000 ","2701/128 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,70m² ,08 Jan 2024
+"304,000 ","T3/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,2,−,66m² ,08 Jan 2024
+"518,000 ","3302/92 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,86m² ,26 Dec 2023
+"794,600 ","57/35 Howard Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,78m² ,26 Dec 2023
+"550,000 ","7511/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,24 Dec 2023
+"310,000 ","13/436 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,52m² ,18 Dec 2023
+"635,000 ","289/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,84m² ,13 Dec 2023
+"1,000,000 ","7506/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,104m² ,12 Dec 2023
+"558,800","1205/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,63m² ,09 Dec 2023
+"1,100,001 ","402/140 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,2,69m² ,08 Dec 2023
+"390,000 ","904/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,74m² ,07 Dec 2023
+"450,000 ","1506/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,59m² ,06 Dec 2023
+"730,000 ","6404/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,105m² ,05 Dec 2023
+"1,800,000 ","30/501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,151m² ,04 Dec 2023
+"1,150,000 ","L20/501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,118m² ,01 Dec 2023
+"410,000 ","1201/570 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,69m² ,23 Nov 2023
+"370,000 ","331/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,64m² ,21 Nov 2023
+"495,000 ","3108/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,67m² ,15 Nov 2023
+"675,000 ","177/26 Felix street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,89m² ,15 Nov 2023
+"645,000 ","97/26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,92m² ,13 Nov 2023
+"408,000 ","1907/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,73m² ,08 Nov 2023
+"598,000 ","4/301 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,74m² ,06 Nov 2023
+"462,500 ","2407/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,67m² ,02 Nov 2023
+"1,900,000","46/208 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,134m² ,01 Nov 2023
+"435,000 ","206-207/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,82m² ,31 Oct 2023
+"415,000 ","2504/212 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,68m² ,31 Oct 2023
+"640,000 ","L41/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,86m² ,30 Oct 2023
+"1,300,000 ","2907/111 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,101m² ,28 Oct 2023
+"720,000 ","1501/212 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,111m² ,26 Oct 2023
+"1,255,000 ","3507/111 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,101m² ,26 Oct 2023
+"400,000 ","1607/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,73m² ,24 Oct 2023
+"430,000 ","32/436 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,72m² ,24 Oct 2023
+"691,000 ","4603/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,117m² ,21 Oct 2023
+"655,000 ","L47/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,93m² ,17 Oct 2023
+"385,000 ","1304/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,56m² ,12 Oct 2023
+"414,000 ","2204/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,65m² ,11 Oct 2023
+"355,000 ","162/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,09 Oct 2023
+"570,000 ","501/347 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,110m² ,06 Oct 2023
+"610,000 ","3703/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,96m² ,03 Oct 2023
+"340,000 ","904/212 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,68m² ,03 Oct 2023
+"729,500 ","802/550 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,81m² ,29 Sep 2023
+"420,000 ","L3/53-61 Edward Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,69m² ,26 Sep 2023
+"265,000 ","82/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,26 Sep 2023
+"370,000 ","1305/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,78m² ,25 Sep 2023
+"530,000 ","704/111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,74m² ,22 Sep 2023
+"785,000 ","3808/550 QUEEN STREET,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,84m² ,16 Sep 2023
+"1,800,000 ","L9/501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,151m² ,14 Sep 2023
+"380,000 ","804/111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,71m² ,06 Sep 2023
+"1,600,000 ","40/208 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,141m² ,02 Sep 2023
+"395,000","23/540 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,75m² ,24 Aug 2023
+"335,000 ","205/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,52m² ,22 Aug 2023
+"880,000 ","L7/229 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,101m² ,12 Aug 2023
+"550,000 ","607/108 Albert St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,87m² ,09 Aug 2023
+"287,500 ","65/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,52m² ,08 Aug 2023
+"616,000 ","96/26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,97m² ,07 Aug 2023
+"270,000 ","194/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,03 Aug 2023
+"502,000 ","403/111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,87m² ,01 Aug 2023
+"566,000 ","297/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,80m² ,28 Jul 2023
+"585,000 ","56/540 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,115m² ,24 Jul 2023
+"340,000","1105/347 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,77m² ,22 Jul 2023
+"560,000 ","258/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,77m² ,20 Jul 2023
+"382,000 ","1411/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,58m² ,20 Jul 2023
+"648,000 ","5405/43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,110m² ,20 Jul 2023
+"997,500 ","5302/501B Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,109m² ,17 Jul 2023
+"330,000 ","183/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,66m² ,17 Jul 2023
+"679,000 ",,BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,81m² ,12 Jul 2023
+"270,000 ","222/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,03 Jul 2023
+"265,000 ","92/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,30 Jun 2023
+"5,600,000","8801/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,5,5,4,704m² ,29 Jun 2023
+"382,500 ","2709/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,68m² ,27 Jun 2023
+"245,000 ","53/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,2,−,66m² ,27 Jun 2023
+"1,600,000 ","L12/501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,151m² ,22 Jun 2023
+"350,000 ","2604/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,63m² ,19 Jun 2023
+"1,660,000 ","L9/229 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,180m² ,31 May 2023
+"1,500,000 ","8/32 Macrossan Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,151m² ,29 May 2023
+"653,000 ","5003/501b Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,111m² ,27 May 2023
+"382,000 ","1308/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,73m² ,18 May 2023
+"445,000 ","402/6 Exford Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,82m² ,17 May 2023
+"755,000 ","243/30 Macrossan Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,94m² ,10 May 2023
+"480,000 ","L33/222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,67m² ,10 May 2023
+"499,000 ","1702/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,04 May 2023
+"670,000 ","4903/43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,119m² ,2023
+"875,000 ","301/229 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,100m² ,26 Apr 2023
+"700,000 ","6402/43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,112m² ,23 Apr 2023
+"660,000 ","34/482 Upper Roma Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,141m² ,22 Apr 2023
+"540,000 ","268/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,86m² ,20 Apr 2023
+"329,000 ","1404/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,62m² ,19 Apr 2023
+"645,000 ","323/26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,95m² ,18 Apr 2023
+"650,000 ","601/120 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,117m² ,17 Apr 2023
+"630,000 ","209/82 Boundary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,82m² ,14 Apr 2023
+"2,350,000 ","3601/111 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,3,2,217m² ,12 Apr 2023
+"505,000 ","2502/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,05 Apr 2023
+"350,000 ","L3/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,74m² ,04 Apr 2023
+"720,000 ","216/26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,95m² ,03 Apr 2023
+"620,000 ","L55/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,93m² ,24 Mar 2023
+"285,000 ","175/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,61m² ,20 Mar 2023
+"231,000 ","92/160 Roma Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,52m² ,16 Mar 2023
+"399,000 ","3204/128 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,66m² ,08 Mar 2023
+"344,000 ","26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,62m² ,03 Mar 2023
+"740,000 ","L62/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,89m² ,01 Mar 2023
+"740,000 ","L48/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,89m² ,28 Feb 2023
+"480,000 ","73/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,27 Feb 2023
+"358,000 ","2/446 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,92m² ,25 Feb 2023
+"520,000 ","15/482-488 Upper Roma Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,111m² ,24 Feb 2023
+"590,000 ","186/26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,95m² ,23 Feb 2023
+"325,000 ","2508/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,64m² ,21 Feb 2023
+"300,000 ","1701/95 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,64m² ,21 Feb 2023
+"302,000","801/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,63m² ,03 Feb 2023
+"735,000 ","L63 501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,88m² ,03 Feb 2023
+"995,000","3508/111 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,94m² ,01 Feb 2023
+"435,000 ","53-61 Edward Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,76m² ,25 Jan 2023
+"510,000 ","147/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,80m² ,17 Jan 2023
+"435,000 ","3907/43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,73m² ,2023
+"318,800 ","1107/550 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,57m² ,20 Dec 2022
+"350,000 ","501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,55m² ,19 Dec 2022
+"300,000 ","183/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,66m² ,14 Dec 2022
+"592,000 ","2808/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,91m² ,06 Dec 2022
+"285,000 ","154/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,51m² ,02 Dec 2022
+"280,000 ","402/111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,56m² ,01 Dec 2022
+"465,000","2509 /92 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,101m² ,28 Nov 2022
+"775,000 ","229 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,104m² ,23 Nov 2022
+"375,000 ","40/482 Upper Roma Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,80m² ,14 Nov 2022
+"735,000 ","6201/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,88m² ,28 Oct 2022
+"495,000 ","128 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,27 Oct 2022
+"335,000 ","111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,57m² ,25 Oct 2022
+"400,000","UNIT 3103/70 MARY STREET,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,79m² ,
+"400,000","3103/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,79m² ,19 Oct 2022
+"242,000 ","57/160 Roma street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,50m² ,06 Oct 2022
+"295,000 ","705/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,58m² ,04 Oct 2022
+"285,000 ","702/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,04 Sep 2022
+"640,000 ","4505/501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,108m² ,24 Aug 2022
+"940,000","15/7 Boundary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,104m² ,16 Aug 2022
+"975,000 ","806/132 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,120m² ,13 Aug 2022
+"692,500 ","32/540 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,135m² ,12 Aug 2022
+"407,500 ","73/540 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,71m² ,12 Aug 2022
+"480,000 ","550 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,56m² ,08 Aug 2022
+"855,000 ","3032/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,101m² ,22 Jul 2022
+"645,000 ","550 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,82m² ,18 Jul 2022
+"985,000 ","55/35 Howard Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,146m² ,11 Jul 2022
+"690,000 ","550 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,84m² ,08 Jul 2022
+"455,000 ","505/6 Exford Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,98m² ,07 Jul 2022
+"630,000 ","4004/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,106m² ,27 Jun 2022
+"330,000 ","1006/127 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,54m² ,22 Jun 2022
+"305,000 ","5/460 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,55m² ,21 Jun 2022
+"345,000 ","501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,55m² ,17 Jun 2022
+"315,000 ","501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,61m² ,16 Jun 2022
+"460,000 ","111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,106m² ,14 Jun 2022
+"1,401,000 ","4020/4 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,186m² ,14 Jun 2022
+"430,000 ","612/6 Exford Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,04 Jun 2022
+"325,000 ","232/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,69m² ,03 Jun 2022
+"615,000 ","445/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,92m² ,02 Jun 2022
+"560,000","2301/120 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,118m² ,01 Jun 2022
+"920,000","25/501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,131m² ,27 May 2022
+"347,500","3501/128 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,59m² ,20 May 2022
+"342,500","2504/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,65m² ,12 May 2022
+"318,000 ","111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,56m² ,09 May 2022
+"440,000 ","222 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,65m² ,06 May 2022
+"480,000","79/540 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,114m² ,28 Apr 2022
+"545,000 ","16/446 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,117m² ,26 Apr 2022
+"356,000","2004/151 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,70m² ,24 Apr 2022
+"1,060,000 ","2301/140 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,97m² ,15 Apr 2022
+"389,000 ","501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,89m² ,13 Apr 2022
+"321,000 ","135/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,51m² ,04 Apr 2022
+"470,000 ","243/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,103m² ,04 Apr 2022
+"350,000 ","501 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,55m² ,04 Apr 2022
+"1,750,000 ","4704/71 Eagle Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,183m² ,30 Mar 2022
+"320,000 ","1001/570 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,69m² ,30 Mar 2022
+"728,000 ","2704/550 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,75m² ,29 Mar 2022
+"600,000 ","1/482 Upper Roma Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,150m² ,29 Mar 2022
+"950,000 ","82 Boundary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,113m² ,28 Mar 2022
+"650,000 ","3301/43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,102m² ,19 Mar 2022
+"375,000 ","6 Exford Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,85m² ,18 Mar 2022
+"745,000 ","1709/100 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,218m² ,16 Mar 2022
+"310,000 ","706/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,64m² ,16 Mar 2022
+"630,000","211/6 Exford Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,105m² ,15 Mar 2022
+"388,500 ","255 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,73m² ,09 Mar 2022
+"425,000 ","111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,96m² ,21 Feb 2022
+"305,000 ","2106/70 Mary St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,64m² ,18 Feb 2022
+"631,000 ","426/420 Queen St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,107m² ,15 Feb 2022
+"285,000 ","2102/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,10 Feb 2022
+"2,555,000 ","151/35 Howard Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,4,2,2,244m² ,2022
+"550,000 ","127 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,85m² ,18 Jan 2022
+"695,000 ","56/26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,209m² ,14 Jan 2022
+"455,000 ","2605 & 2606/570 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,104m² ,24 Dec 2021
+"317,000 ","28/540 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,75m² ,20 Dec 2021
+"607,000 ","234/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,20 Dec 2021
+"545,000","13/482 Upper Roma Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,121m² ,21 Nov 2021
+"300,000 ","1701/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,63m² ,08 Nov 2021
+"490,000 ","488/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,86m² ,01 Nov 2021
+"345,000 ","193/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,66m² ,06 Oct 2021
+"560,000 ","106/201 Edward Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,2,1,81m² ,28 Sep 2021
+"580,000 ","151 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,93m² ,27 Sep 2021
+"300,000 ","3106/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,63m² ,24 Sep 2021
+"285,000 ","163/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,66m² ,13 Sep 2021
+"405,550 ","82/255 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,70m² ,03 Sep 2021
+"310,000 ","92/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,69m² ,31 Aug 2021
+"645,000 ","43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,105m² ,20 Aug 2021
+"850,000 ","501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,116m² ,18 Aug 2021
+"765,000 ","3707/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,143m² ,17 Aug 2021
+"950,000 ","589/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,151m² ,11 Aug 2021
+"330,000 ","508/301 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,59m² ,11 Aug 2021
+"1,360,000 ","4051/4 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,198m² ,10 Aug 2021
+"1,570,000 ","501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,151m² ,06 Aug 2021
+"550,000 ","1307/92 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,120m² ,04 Aug 2021
+"310,000","907/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,75m² ,26 Jul 2021
+"650,000 ","550 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,83m² ,26 Jul 2021
+"695,000","2807/92 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,127m² ,18 Jul 2021
+"335,000 ","341/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,64m² ,05 Jul 2021
+"445,000 ","258/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,77m² ,02 Jul 2021
+"395,000","3504/151 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,84m² ,19 Jun 2021
+"220,000 ","102/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,51m² ,08 Jun 2021
+"315,000 ","2306/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,70m² ,04 Jun 2021
+"755,000 ","1503/151 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,99m² ,08 May 2021
+"755,000 ","1503/151 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,99m² ,08 May 2021
+"687,500 ","3082/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,129m² ,23 Apr 2021
+"555,000 ","5704/501B Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,103m² ,23 Apr 2021
+"840,000 ","501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,131m² ,19 Apr 2021
+"749,500 ","3046/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,126m² ,15 Apr 2021
+"479,000","5407/43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,06 Apr 2021
+"215,000 ","202/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,06 Apr 2021
+"535,000","332/26 Felix Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,89m² ,26 Mar 2021
+"270,000 ","135/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,51m² ,05 Mar 2021
+"465,000 ","2403/120 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,102m² ,01 Mar 2021
+"1,725,000","150/35 Howard Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,230m² ,20 Feb 2021
+"340,000 ","2505/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,66m² ,18 Feb 2021
+"700,000 ","7003/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,124m² ,29 Jan 2021
+"305,000","2801/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,63m² ,29 Jan 2021
+"425,000 ","16/540 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,112m² ,23 Dec 2020
+"650,000 ","7040/ 7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,108m² ,02 Dec 2020
+"360,000 ","1504/128 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,65m² ,21 Nov 2020
+"370,000","2203/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,79m² ,18 Nov 2020
+"275,000 ","604/570 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,72m² ,11 Nov 2020
+"275,000 ","604/570 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,72m² ,11 Nov 2020
+"560,000","4402/43 Herschel Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,107m² ,07 Nov 2020
+"322,500 ","906/127 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,54m² ,01 Oct 2020
+"1,200,000 ","501 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,183m² ,21 Jul 2020
+"365,000 ","1902/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,76m² ,29 Jun 2020
+"385,000 ","2102/70 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,72m² ,07 Apr 2020
+"415,000","80/204 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,"5,485m² ",2020
+"530,000 ","156/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,109m² ,23 Mar 2020
+"1,350,000 ","6005/6 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,4,2,2,186m² ,02 Mar 2020
+"435,000 ","197/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,84m² ,17 Feb 2020
+"1,790,000 ","2102/140 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,160m² ,21 Nov 2019
+"520,000 ","22/446 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,117m² ,18 Nov 2019
+"605,000 ","53/30 Macrossan Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,94m² ,23 Oct 2019
+"695,500 ","32/29 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,"2,403m² ",2019
+"530,000","2801/127 Charlotte St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,85m² ,08 Oct 2019
+"660,000 ","7046/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,108m² ,02 Oct 2019
+"439,000 ","233/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,113m² ,05 Sep 2019
+"439,000 ","233/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,113m² ,05 Sep 2019
+"480,000 ","2608/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,91m² ,04 Sep 2019
+"370,000 ","2003/212 Margaret Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,70m² ,16 Jul 2019
+"515,000 ","1003/30 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,125m² ,12 Jun 2019
+"310,000 ","2602-2603/570 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,79m² ,31 May 2019
+"205,000 ","143/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,2,1,66m² ,23 Apr 2019
+"222,500 ","3025/255 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,12 Mar 2019
+"215,000 ","163/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,2,1,66m² ,11 Mar 2019
+"1,100,000 ","704/140 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,114m² ,19 Feb 2019
+"786,000 ","6019/6 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,133m² ,08 Feb 2019
+"1,260,000 ","313/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,3,220m² ,06 Feb 2019
+"465,000 ","509/6 Exford Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,91m² ,21 Jan 2019
+"1,225,000","403/140 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,155m² ,2018
+"625,000 ","Level 44, 4405/128 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,96m² ,2018
+"1,010,000 ","Level 12, 1203/140 Alice Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,112m² ,12 Apr 2018
+"265,000 ","3025/255 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,21 Mar 2018
+"905,000","7114/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,155m² ,12 Mar 2018
+"445,000 ","2503/79 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,96m² ,02 Mar 2018
+"440,000 ","12/208 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,67m² ,13 Feb 2018
+"650,000","3098/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,109m² ,01 Feb 2018
+"460,000 ","358/420 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,86m² ,07 Dec 2017
+"500,000","23/29 George St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,129m² ,22 Oct 2017
+"380,000","2804/92 Quay St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,95m² ,17 Jul 2017
+"2,520,000","4903/71 Eagle Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,3,2,331m² ,07 Jun 2017
+"649,000 ","7005/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,149m² ,31 Mar 2017
+"569,000 ","1306/443 Queen Street,",BRISBANE CITY QLD 4000,New apartments / off the plan,1,1,−,73m² ,24 Mar 2017
+"987,500 ","3501/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,3,2,180m² ,16 Jan 2017
+"650,000 ","3036/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,128m² ,06 Jan 2017
+"1,000,000 ","4051/3-7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,198m² ,09 Dec 2016
+"365,000 ","1032-3/255 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,73m² ,27 Oct 2016
+"830,000 ","4065/4 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,143m² ,29 Sep 2016
+"347,500","162/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,74m² ,23 Jul 2016
+"315,000 ","2102/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,11 Jul 2016
+"742,000 ","7066/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,155m² ,08 Jul 2016
+"715,000 ","3031/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,126m² ,05 Jul 2016
+"1,400,000 ","5006/5 Parkland Boulevard,",BRISBANE CITY QLD 4000,Townhouse,3,2,2,330m² ,09 Jun 2016
+"475,000 ","7079/7 Parkland Blvd,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,84m² ,09 May 2016
+"1,300,000","7082/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,215m² ,16 Apr 2016
+"590,000 ","801/30 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,93m² ,01 Apr 2016
+"460,000 ","7073/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,84m² ,24 Mar 2016
+"625,000 ","6037/6 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,2,2,115m² ,23 Mar 2016
+"658,000 ","7070/7 Parkland Blvd,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,108m² ,14 Mar 2016
+"525,000 ","3118/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,91m² ,14 Mar 2016
+"525,000","2304/120 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,106m² ,09 Mar 2016
+"1,025,000 ","4016/4 Parkland Blvd,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,184m² ,07 Mar 2016
+"440,000 ","45/289 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,−,70m² ,15 Feb 2016
+"630,000 ","7044/7 Parkland Blvd,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,108m² ,03 Feb 2016
+"602,000 ","2504/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,113m² ,29 Jan 2016
+"642,000 ","4001/4 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,159m² ,17 Jan 2016
+"995,000 ","10/208 Adelaide Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,124m² ,2015
+"355,000 ","1708/95 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,64m² ,05 Nov 2015
+"475,000 ","6/111 Quay Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,83m² ,02 Oct 2015
+"493,000 ","289/420 Queen St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,84m² ,22 Sep 2015
+"395,000","312/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,69m² ,15 Sep 2015
+"650,000 ","3023/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,106m² ,12 Sep 2015
+"620,000 ","3056/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,124m² ,11 Sep 2015
+"510,000 ","403/6 Exford Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,99m² ,09 Sep 2015
+"740,000 ","4021/4 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,118m² ,04 Aug 2015
+"700,000 ","3062/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,126m² ,30 Jul 2015
+"855,000 ","6019/6 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,133m² ,08 Jul 2015
+"645,000 ","3124/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,132m² ,22 Apr 2015
+"850,000 ","7078/7 Parkland Blvd,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,151m² ,09 Apr 2015
+"620,000 ","4005/4 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,116m² ,24 Mar 2015
+"675,000 ","3055/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,123m² ,21 Mar 2015
+"500,000 ","24/446 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,106m² ,18 Mar 2015
+"309,000 ","1303/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,20 Feb 2015
+"655,000","7057/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,108m² ,19 Feb 2015
+"519,000 ","223/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,03 Feb 2015
+"855,000 ","7096/7 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,135m² ,22 Jan 2015
+"282,000 ","175/293 North Quay,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,52m² ,16 Jan 2015
+"800,000 ","6002/6 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,164m² ,21 Dec 2014
+"550,000","Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,1,110m² ,05 Dec 2014
+"500,000 ","1304/21 Mary St,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,109m² ,28 Nov 2014
+"546,000 ","16/446 Ann Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,117m² ,16 Oct 2014
+"308,000 ","1302/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,−,60m² ,24 Sep 2014
+"670,000 ","601/229 Queen Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,100m² ,2014
+"634,000 ","3034/3 Parkland Blvd,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,109m² ,15 Aug 2014
+"411,000 ","61/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,1,−,76m² ,2014
+"722,500","3103/151 George Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,105m² ,26 Jul 2014
+"620,000 ","3303/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,3,1,119m² ,13 May 2014
+"475,000","508/108 Albert Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,87m² ,08 May 2014
+"630,000 ","3098/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,108m² ,15 Apr 2014
+"880,000 ","324/18 Tank Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,2,144m² ,2014
+"595,000","341/21 Mary Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,120m² ,15 Nov 2013
+"1,030,000","244 Petrie Terrace,",BRISBANE CITY QLD 4000,Townhouse,3,2,2,196m² ,04 Nov 2013
+"615,000 ","3082/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,131m² ,08 Oct 2013
+"880,000","93/35 Howard Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,129m² ,2013
+"1,110,000 ","35 Howard Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,150m² ,27 May 2013
+"615,000 ","3084/3 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,109m² ,29 Apr 2013
+"1,050,000 ","6005/6 Parkland Boulevard,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,2,2,184m² ,22 Mar 2013
+"410,000 ","1504/128 Charlotte Street,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,1,1,1,63m² ,08 Feb 2013
+"1,150,000","4077/4 Parkland Blvd,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,3,3,2,239m² ,20 Mar 2012
+"519,999","112/82 Boundary Road,",BRISBANE CITY QLD 4000,Apartment / Unit / Flat,2,2,1,113m² ,24 Nov 2011
+"3,050,000 ","17 Geelong Street,",EAST BRISBANE QLD 4169,Block of units,9,5,8,707m² ,2024
+"650,000 ","83/592 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,156m² ,26 Apr 2024
+"650,000 ","83/592 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,156m² ,26 Apr 2024
+"775,000 ","22/70 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,115m² ,26 Apr 2024
+"603,000 ","19/38 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,114m² ,23 Apr 2024
+"1,325,000 ","1/57 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,257m² ,22 Apr 2024
+"930,000 ","1/85 Lower Cairns Terrace,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,2,2,129m² ,14 Apr 2024
+"385,000 ","32511/191 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,56m² ,11 Apr 2024
+"840,000 ","14A Wight Street,",MILTON QLD 4064,Vacant land,0,0,0,450m² ,11 Apr 2024
+"601,750 ","31301/191 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,84m² ,10 Apr 2024
+"415,000 ","1406/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,56m² ,09 Apr 2024
+"553,500 ","5/5 Bristol Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,1,1,809m² ,09 Apr 2024
+"762,000 ","11/10 Carlow Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,1,1,99m² ,2024
+"500,000 ","21007/11-15 Beesley Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,70m² ,2024
+"645,000 ","8/48 Cintra Road,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,90m² ,02 Apr 2024
+"477,000 ","806/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,1,1,58m² ,2024
+"785,000 ","20609/33 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,86m² ,28 Mar 2024
+"680,000 ","2204/19 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,1,1,62m² ,28 Mar 2024
+"445,000 ","302/14 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,62m² ,2024
+"780,000 ","40507/50 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,106m² ,2024
+"850,000 ","63/26 Donkin Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,2,103m² ,2024
+"545,000 ","1005/179 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,66m² ,27 Mar 2024
+"1,085,000 ","59 Fleming Road,",HERSTON QLD 4006,Townhouse,3,2,2,210m² ,26 Mar 2024
+"470,000 ","402/17 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,65m² ,26 Mar 2024
+"517,500 ","2/83 Baines Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,602m² ,25 Mar 2024
+"765,000 ","11202/7 Chester Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,92m² ,25 Mar 2024
+"440,000 ","1513/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,50m² ,22 Mar 2024
+"450,000 ","1417/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,1,54m² ,2024
+"725,000 ","707/458 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,83m² ,21 Mar 2024
+"775,000 ","104/18 Duke Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,167m² ,2024
+"2,000,000 ","11 Emma Street,",MILTON QLD 4064,Block of units,7,3,2,804m² ,2024
+"710,000 ","1703/141 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,3,2,4,115m² ,19 Mar 2024
+"580,000 ","613/82 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,2,83m² ,19 Mar 2024
+"422,000 ","1004/218 Vulture Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,−,62m² ,2024
+"480,000 ","712/111 Melbourne Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,51m² ,18 Mar 2024
+"980,000 ","401/25 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,2,119m² ,2024
+"525,000 ","28/2 Berwick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,104m² ,16 Mar 2024
+"578,000 ","Level 5/50 Connor Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,81m² ,13 Mar 2024
+"465,000 ","1204/16 Ramsgate Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,68m² ,13 Mar 2024
+"525,000 ","1508/141 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,108m² ,11 Mar 2024
+"555,000 ","36/260 Vulture Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,83m² ,11 Mar 2024
+"460,000 ","20/27 Manning Street,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,1,69m² ,08 Mar 2024
+"583,000 ","908/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,74m² ,08 Mar 2024
+"815,000 ","11/24 Arthur Terrace,",RED HILL QLD 4059,Townhouse,2,2,1,173m² ,07 Mar 2024
+"501,000 ","1911/19 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,58m² ,07 Mar 2024
+"722,000 ","83/26 Donkin Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,85m² ,2024
+"645,000 ","320/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,110m² ,06 Mar 2024
+"400,000 ","1010/959 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,50m² ,06 Mar 2024
+"735,000 ","L5/45 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,93m² ,06 Mar 2024
+"455,000 ","409/19 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,73m² ,2024
+"575,000 ","217/83 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,120m² ,04 Mar 2024
+"549,000 ","6/44 Herston Road,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,173m² ,4 Mar 2024
+"690,000","108/21 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,93m² ,04 Mar 2024
+"380,000 ","1814/179 Alfred St,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,51m² ,03 Mar 2024
+"563,000 ","136/83 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,101m² ,01 Mar 2024
+"476,000 ","24/40 Ramsgate Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,83m² ,01 Mar 2024
+"412,500 ","707/191 Constance Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,60m² ,27 Feb 2024
+"460,000 ","303/56 Prospect Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,99m² ,27 Feb 2024
+"740,000 ","709/232 Wellington Road,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,85m² ,2024
+"1,950,000 ","1112/45 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,3,2,2,188m² ,2024
+"749,999 ","804/18 Duke Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,88m² ,24 Feb 2024
+"809,000","20/19 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,2,184m² ,24 Feb 2024
+"465,000 ","1401/365 Saint Pauls Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,63m² ,22 Feb 2024
+"875,000 ","325/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,3,2,1,126m² ,21 Feb 2024
+"525,500 ","1301/128 Brookes Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,65m² ,21 Feb 2024
+"1,615,000 ","13105/1 Cordelia Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,3,2,2,136m² ,21 Feb 2024
+"540,000 ","30 West Street,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,2,1,1,67m² ,20 Feb 2024
+"725,000 ","303/66 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,78m² ,19 Feb 2024
+"775,000 ","404/36 Macdonald Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,126m² ,19 Feb 2024
+"1,725,000 ","1/29 Jordan Terrace,",BOWEN HILLS QLD 4006,Townhouse,3,2,2,197m² ,17 Feb 2024
+"1,875,000 ","24A Lorimer Terrace,",KELVIN GROVE QLD 4059,Block of units,5,4,5,"1,318m² ",16 Feb 2024
+"665,000 ","104/70-78 Victoria Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,78m² ,16 Feb 2024
+"405,000 ","805/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,57m² ,15 Feb 2024
+"582,000 ","515/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,99m² ,15 Feb 2024
+"400,000 ","1010/167 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,52m² ,15 Feb 2024
+"750,000 ","102/18 Duke Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,148m² ,2024
+"432,000 ","609/19 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,72m² ,2024
+"683,000","1084/36 Evelyn Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,68m² ,14 Feb 2024
+"683,000","1084/36 Evelyn Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,68m² ,14 Feb 2024
+"918,000 ","902/60 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,106m² ,12 Feb 2024
+"1,125,000 ","22/1 Alexandra Street,",PADDINGTON QLD 4064,Apartment / Unit / Flat,3,2,2,125m² ,11 Feb 2024
+"400,000","1091/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,09 Feb 2024
+"393,500 ","717/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,1,54m² ,09 Feb 2024
+"410,000 ","706/8 Hurworth Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,75m² ,2024
+"905,000 ","301/100 Bowen Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,93m² ,08 Feb 2024
+"490,000 ","1601/275 Wickham Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,58m² ,06 Feb 2024
+"338,000 ","1311/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,55m² ,05 Feb 2024
+"347,000 ","1807/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,56m² ,05 Feb 2024
+"420,000 ","1405/8 Church Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,57m² ,05 Feb 2024
+"510,000 ","603/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,62m² ,31 Jan 2024
+"1,005,000 ","175A Latrobe Terrace,",PADDINGTON QLD 4064,Vacant land,0,0,0,407m² ,31 Jan 2024
+"400,000 ","L4/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,30 Jan 2024
+"860,000 ","10603/19 Wilson Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,100m² ,2024
+"1,100,000 ","L16/12 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,105m² ,29 Jan 2024
+"1,000,000 ","3/43 Fernberg Road,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,2,2,180m² ,29 Jan 2024
+"667,500 ","1609/25 Connor Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,82m² ,26 Jan 2024
+"650,000 ","1204/18 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,98m² ,2024
+"638,000 ","502/31 Bank Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,84m² ,2024
+"1,350,000 ","113 Gray Road,",WEST END QLD 4101,Vacant land,0,0,0,430m² ,25 Jan 2024
+"548,000","2602/55 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,2,65m² ,24 Jan 2024
+"360,000 ","214/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,−,55m² ,24 Jan 2024
+"350,000 ",,BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,63m² ,23 Jan 2024
+"389,000 ","9/69 Burlington Street,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,1,1,1,75m² ,23 Jan 2024
+"380,000 ","206/128 Brookes Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,52m² ,23 Jan 2024
+"420,000 ","1111/348 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,59m² ,22 Jan 2024
+"1,180,000 ","135 Rockbourne Terrace,",PADDINGTON QLD 4064,Townhouse,3,2,3,365m² ,22 Jan 2024
+"903,000 ","1403/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,111m² ,19 Jan 2024
+"905,000 ","9 Victoria Terrace,",BOWEN HILLS QLD 4006,Vacant land,0,0,0,254m² ,18 Jan 2024
+"1,580,000 ","37 Glassey Street,",RED HILL QLD 4059,Vacant land,0,0,0,632m² ,18 Jan 2024
+"435,000 ","1110/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,1,60m² ,18 Jan 2024
+"675,000 ","314/21 Buchanan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,85m² ,18 Jan 2024
+"475,000 ","753/1000 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,90m² ,16 Jan 2024
+"620,000 ","8/44 Gordon Street,",MILTON QLD 4064,Apartment / Unit / Flat,2,2,1,86m² ,16 Jan 2024
+"615,000 ","515/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,138m² ,11 Jan 2024
+"673,000 ","5/391 Gregory Terrace,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,1,−,95m² ,1 Jan 2024
+"370,000 ","1812/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,57m² ,09 Jan 2024
+"350,000 ","L8/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,55m² ,09 Jan 2024
+"627,500 ","1100/36 King Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,90m² ,09 Jan 2024
+"1,425,000 ","136 Warren Street,",FORTITUDE VALLEY QLD 4006,Vacant land,0,0,0,405m² ,09 Jan 2024
+"510,000 ","1006/9 Edmondstone Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,95m² ,2024
+"430,000 ","2906/167 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,08 Jan 2024
+"556,000 ","1905/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,83m² ,03 Jan 2024
+"365,000 ","1056/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,55m² ,02 Jan 2024
+"2,083,000 ","35/89 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,4,2,2,476m² ,02 Jan 2024
+"495,000","17/24 Brookes Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,−,75m² ,22 Dec 2023
+"385,000 ","203/16 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,66m² ,22 Dec 2023
+"592,000 ","6/14 Ricardo Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,2,2,125m² ,20 Dec 2023
+"410,000 ","1301/55 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,−,62m² ,19 Dec 2023
+"535,000 ","4/191 Gladstone Road,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,2,1,2,113m² ,18 Dec 2023
+"642,000","102/21 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,92m² ,18 Dec 2023
+"385,000 ","703/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,57m² ,15 Dec 2023
+"920,000 ","6/17 Arthur Terrace,",RED HILL QLD 4059,Townhouse,2,2,1,147m² ,14 Dec 2023
+"775,000 ","1304/18 Duke Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,2,98m² ,11 Dec 2023
+"416,500 ","1503/67 Linton Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,70m² ,1 Dec 2023
+"1,950,000 ","23003 & 23004/28 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,4,3,3,182m² ,11 Dec 2023
+"396,000","25/91 Herston Road,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,80m² ,09 Dec 2023
+"380,000 ","118/41 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,64m² ,08 Dec 2023
+"770,000 ","1207/14 Ella Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,92m² ,07 Dec 2023
+"3,000,000 ","2/248 Wellington Road,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,4,3,2,209m² ,05 Dec 2023
+"1,450,000 ","24 Archibald Street,",WEST END QLD 4101,Vacant land,0,0,0,405m² ,05 Dec 2023
+"400,000 ","9/65 Berwick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,85m² ,04 Dec 2023
+"430,000 ","607/167 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,88m² ,01 Dec 2023
+"2,895,000 ","447 Montague Road,",WEST END QLD 4101,Block of units,10,8,2,810m² ,01 Dec 2023
+"2,895,000 ","447 Montague Road,",WEST END QLD 4101,Block of units,10,8,2,810m² ,01 Dec 2023
+"350,000 ","203/959 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,59m² ,30 Nov 2023
+"470,000","503/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,61m² ,29 Nov 2023
+"470,000","503/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,62m² ,29 Nov 2023
+"1,800,000 ","48/26 Lower River Terrace,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,3,2,2,153m² ,8 Nov 2023
+"819,000 ","4/70 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,196m² ,28 Nov 2023
+"790,000 ","4034/41 Austin Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,112m² ,27 Nov 2023
+"588,000 ","41306/1033 Ann Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,74m² ,27 Nov 2023
+"550,000 ","726/1000 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,96m² ,26 Nov 2023
+"855,000 ","26/165 Main Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,147m² ,24 Nov 2023
+"605,000 ","304/14 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,86m² ,2023
+"380,000 ","207/16 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,61m² ,22 Nov 2023
+"490,000 ","1207/44 Ferry Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,69m² ,21 Nov 2023
+"460,000 ","1/7 Mowbray Terrace,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,2,1,1,75m² ,20 Nov 2023
+"750,000 ","29/26 Rosetta Street,",FORTITUDE VALLEY QLD 4006,Townhouse,3,2,1,147m² ,20 Nov 2023
+"750,000 ","25/38 Buchanan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,138m² ,20 Nov 2023
+"530,000","20505/1055 Ann Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,84m² ,18 Nov 2023
+"472,000","1305/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,63m² ,17 Nov 2023
+"645,000 ","2109/25 Connor Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,82m² ,16 Nov 2023
+"650,000 ","21312/37 Kyabra Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,97m² ,16 Nov 2023
+"512,000 ","21/592 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,2,113m² ,15 Nov 2023
+"615,000 ","4/79 Berwick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,111m² ,14 Nov 2023
+"515,000 ","1/62 Bromley Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,100m² ,14 Nov 2023
+"675,000","3/81 Guthrie Street,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,2,1,138m² ,13 Nov 2023
+"715,000 ","5/46 Arthur Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,2,117m² ,2023
+"395,000 ","L12/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,56m² ,10 Nov 2023
+"415,000 ","911/348 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,59m² ,10 Nov 2023
+"750,000 ","69 Kingfisher Lane,",EAST BRISBANE QLD 4169,Vacant land,0,0,0,247m² ,09 Nov 2023
+"972,000 ","6/12 Colton Street,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,3,2,1,146m² ,08 Nov 2023
+"995,000","1/24 Maud Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,127m² ,08 Nov 2023
+"487,000","1001/7 CHESTER STREET,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,62m² ,08 Nov 2023
+"825,000 ","4/55 Howard Street,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,2,1,128m² ,08 Nov 2023
+"500,000 ","613/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,64m² ,07 Nov 2023
+"510,000 ","35/46 Arthur Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,2,82m² ,03 Nov 2023
+"575,000 ","507/14 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,78m² ,03 Nov 2023
+"392,000 ","605/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,1,54m² ,03 Nov 2023
+"390,000 ","1301/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,59m² ,2023
+"580,000 ","902/8 Church Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,89m² ,01 Nov 2023
+"651,000 ","20203/60 Rogers Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,103m² ,1 Nov 2023
+"570,000","309/18 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,94m² ,31 Oct 2023
+"850,000 ","401/93 Baines Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,3,2,2,113m² ,1 Oct 2023
+"730,000 ","508/30 Festival Place,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,121m² ,29 Oct 2023
+"745,000 ","15/4 Cowlishaw Street,",BOWEN HILLS QLD 4006,Townhouse,2,2,1,123m² ,2023
+"621,555 ","19 Beaconsfield Street,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,2,1,2,95m² ,28 Oct 2023
+"750,000 ","30/73 Victoria Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,110m² ,28 Oct 2023
+"733,000 ","909/458 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,82m² ,27 Oct 2023
+"990,000","20 Drynan Street,",PADDINGTON QLD 4064,Vacant land,0,0,0,304m² ,26 Oct 2023
+"550,000 ","2212/25 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,2,81m² ,25 Oct 2023
+"830,000 ","412/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,115m² ,25 Oct 2023
+"470,000 ","1709/27 Cordelia Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,58m² ,25 Oct 2023
+"610,000 ","201/24 Bromley Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,92m² ,24 Oct 2023
+"390,000 ","1902/25 Connor Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,20 Oct 2023
+"789,000 ","L1/9 Pidgeon Close,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,90m² ,20 Oct 2023
+"360,000 ","310/9 Machinery Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,66m² ,9 Oct 2023
+"810,000 ","506/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,133m² ,19 Oct 2023
+"569,000 ","7/29 Gordon Street,",MILTON QLD 4064,Apartment / Unit / Flat,2,2,1,103m² ,19 Oct 2023
+"425,000 ","1109/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,53m² ,19 Oct 2023
+"725,000 ","32/38 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,3,2,1,113m² ,17 Oct 2023
+"420,000 ","20609/37 Kyabra Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,17 Oct 2023
+"1,760,000 ","1407/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,202m² ,16 Oct 2023
+"500,000 ","11107/88 Doggett St,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,63m² ,13 Oct 2023
+"445,888 ","Apartment 40909/1033 Ann Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,58m² ,13 Oct 2023
+"527,000 ","702/8 Jeays Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,80m² ,12 Oct 2023
+"1,240,000","807/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,124m² ,12 Oct 2023
+"470,000 ","1205/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,63m² ,12 Oct 2023
+"378,000 ","1802/338 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,58m² ,11 Oct 2023
+"495,500 ","231/24 Wyatt Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,67m² ,11 Oct 2023
+"550,000 ","3/7 Norwood Terrace,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,1,1,129m² ,11 Oct 2023
+"565,000 ","2004/179 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,78m² ,10 Oct 2023
+"350,000 ","501/348 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,60m² ,09 Oct 2023
+"395,000 ","613/148 Victoria Park Road,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,69m² ,08 Oct 2023
+"604,000 ","26/161 Main Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,97m² ,06 Oct 2023
+"475,000 ","1021/9 Edmondstone Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,75m² ,06 Oct 2023
+"637,000 ","366/1000 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,109m² ,05 Oct 2023
+"4,250,000 ","107/8 Goodwin Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,3,3,3,461m² ,05 Oct 2023
+"549,000 ","213/6 Victoria Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,2,1,93m² ,05 Oct 2023
+"417,500 ","308/28 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,69m² ,05 Oct 2023
+"965,000 ","51/20 Newstead Terrace,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,118m² ,05 Oct 2023
+"430,000","36/49 Russell Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,74m² ,2023
+"630,000 ","1210/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,1,1,78m² ,04 Oct 2023
+"403,000 ","22/198-204 Wellington Road,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,1,1,1,89m² ,03 Oct 2023
+"890,000 ","2201/25 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,106m² ,30 Sep 2023
+"335,000","2209/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,57m² ,29 Sep 2023
+"365,000 ","1501/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,50m² ,29 Sep 2023
+"1,442,000","6/22 Lisburn Street,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,3,2,2,572m² ,29 Sep 2023
+"352,500 ","804/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,57m² ,28 Sep 2023
+"611,000 ","29/50 Anderson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,172m² ,28 Sep 2023
+"700,000 ","806/458 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,82m² ,27 Sep 2023
+"370,000","1408/338 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,60m² ,27 Sep 2023
+"435,000 ","17/89 Scott Road,",HERSTON QLD 4006,Apartment / Unit / Flat,2,1,1,97m² ,27 Sep 2023
+"644,121 ","2/55 Aberleigh Road,",HERSTON QLD 4006,Townhouse,3,1,2,109m² ,25 Sep 2023
+"330,000 ","702/10 Trinity Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,54m² ,22 Sep 2023
+"640,000 ","1011/19 McDougall Street,",MILTON QLD 4064,Apartment / Unit / Flat,2,1,1,61m² ,22 Sep 2023
+"1,410,000","906/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,171m² ,22 Sep 2023
+"695,000 ","709/30 Festival Place,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,116m² ,21 Sep 2023
+"425,000 ","706/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,52m² ,21 Sep 2023
+"925,000 ","2411/25 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,106m² ,20 Sep 2023
+"675,000 ","301/66 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,83m² ,18 Sep 2023
+"389,450 ","1110/348 Water St,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,59m² ,17 Sep 2023
+"685,000 ","10411/19 Wilson Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,84m² ,7 Sep 2023
+"630,000 ","2107/55 Forbes Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,127m² ,5 Sep 2023
+"590,000 ","11 Carriage Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,92m² ,13 Sep 2023
+"377,000","44/59 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,95m² ,12 Sep 2023
+"695,000","113/71 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,94m² ,12 Sep 2023
+"1,149,999 ","133 Lytton Road,",EAST BRISBANE QLD 4169,Block of units,6,3,3,607m² ,10 Sep 2023
+"413,000 ","20708/63 Blamey Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,66m² ,08 Sep 2023
+"912,500 ","49 Clyde Road,",HERSTON QLD 4006,Vacant land,0,0,0,455m² ,07 Sep 2023
+"500,000","1062/9 Edmondstone Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,2,69m² ,07 Sep 2023
+"634,000 ","7101/55 Forbes Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,104m² ,2023
+"393,000 ","409/9 Machinery Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,65m² ,06 Sep 2023
+"840,000 ","4/21 Manning Street,",MILTON QLD 4064,Apartment / Unit / Flat,3,2,1,115m² ,05 Sep 2023
+"1,625,000 ","171 Kennedy Terrace,",PADDINGTON QLD 4064,Vacant land,0,0,0,710m² ,04 Sep 2023
+"1,087,500 ","33 Glassey Street,",RED HILL QLD 4059,Vacant land,0,0,0,409m² ,04 Sep 2023
+"1,295,000 ","4/133 Dornoch Terrace,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,4,2,2,316m² ,02 Sep 2023
+"625,000 ","2703/167 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,76m² ,01 Sep 2023
+"890,000 ","2507/25 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,104m² ,01 Sep 2023
+"365,000 ","416/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,53m² ,31 Aug 2023
+"458,000 ","21402/37 Kyabra Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,71m² ,31 Aug 2023
+"615,000 ","112/8 Musgrave Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,99m² ,2023
+"445,000 ","1312/19 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,58m² ,30 Aug 2023
+"495,000 ","3/47 Llewellyn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,104m² ,28 Aug 2023
+"306,000 ","2051/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,55m² ,25 Aug 2023
+"732,000 ","17/22 Arthur Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,126m² ,23 Aug 2023
+"375,000 ","403/24 Brewers Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,61m² ,22 Aug 2023
+"668,000 ","11601/22 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,85m² ,22 Aug 2023
+"670,000 ","30107/40 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,96m² ,2023
+"781,000 ","207/10 Pidgeon Close,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,110m² ,22 Aug 2023
+"1,365,000 ","22/1 Newstead Avenue,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,250m² ,21 Aug 2023
+"440,000 ","7/243 Kelvin Grove Road,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,87m² ,20 Aug 2023
+"497,000 ","202/82 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,83m² ,18 Aug 2023
+"395,000","33004/191 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,57m² ,18 Aug 2023
+"770,000 ","105/50 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,121m² ,8 Aug 2023
+"395,000 ","Level 9, 905/348 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,62m² ,17 Aug 2023
+"376,000 ","1102/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,53m² ,15 Aug 2023
+"645,000 ","1801/19 McDougall Street,",MILTON QLD 4064,Apartment / Unit / Flat,2,1,1,64m² ,14 Aug 2023
+"530,000 ","10710/19 Wilson Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,68m² ,0 Aug 2023
+"550,000 ","1203/25 Connor Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,80m² ,09 Aug 2023
+"470,000 ","220/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,63m² ,08 Aug 2023
+"605,000 ","307/18 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,106m² ,08 Aug 2023
+"392,000","30/13 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,1,62m² ,08 Aug 2023
+"420,000 ","21211/1055 Ann Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,53m² ,07 Aug 2023
+"525,000 ","406/158 Victoria Park Road,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,91m² ,04 Aug 2023
+"400,000 ","749/1000 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,65m² ,03 Aug 2023
+"372,000","1701/365 Saint Pauls Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,63m² ,03 Aug 2023
+"465,000 ","3/20 Franklin Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,94m² ,03 Aug 2023
+"507,000","106/21 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,87m² ,03 Aug 2023
+"1,020,000","1205/20 Wyandra Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,101m² ,03 Aug 2023
+"420,000 ","1009/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,53m² ,03 Aug 2023
+"430,000 ","30801/40 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,65m² ,2023
+"780,000 ","11 Pidgeon Close,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,90m² ,03 Aug 2023
+"545,000 ","18 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,95m² ,02 Aug 2023
+"660,000","4/29 Gordon Street,",MILTON QLD 4064,Apartment / Unit / Flat,2,2,1,162m² ,02 Aug 2023
+"725,000 ","2/6 Lemnos Street,",RED HILL QLD 4059,Townhouse,3,2,2,153m² ,02 Aug 2023
+"875,000 ","22/9 Doggett Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,138m² ,01 Aug 2023
+"730,000 ","40110/50 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,105m² ,2023
+"715,000","12/165 Main Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,92m² ,31 Jul 2023
+"370,000 ","1013/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,50m² ,28 Jul 2023
+"540,000 ","706/398 Saint Pauls Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,74m² ,27 Jul 2023
+"302,000 ","906/338 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,50m² ,27 Jul 2023
+"530,000 ","20506/19 Wilson Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,67m² ,7 Jul 2023
+"385,000","505/8 Church Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,56m² ,26 Jul 2023
+"450,000","19/46 Arthur Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,92m² ,25 Jul 2023
+"435,000 ","3305/19 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,64m² ,25 Jul 2023
+"610,000","804/616 Main Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,85m² ,25 Jul 2023
+"760,000 ","111/25 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,2,122m² ,5 Jul 2023
+"397,000 ","1204/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,62m² ,21 Jul 2023
+"405,000","403/19 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,65m² ,21 Jul 2023
+"770,000 ","97/170 Leichhardt Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,3,2,2,144m² ,21 Jul 2023
+"860,000 ","105/21 Buchanan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,102m² ,19 Jul 2023
+"565,000 ","1511/275 Wickham Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,78m² ,18 Jul 2023
+"1,015,000 ","4/35 Ozanne Street,",PADDINGTON QLD 4064,Townhouse,3,2,2,177m² ,18 Jul 2023
+"380,000 ","103/158 Victoria Park Road,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,70m² ,17 Jul 2023
+"1,550,000","173 Kennedy Terrace,",PADDINGTON QLD 4064,Vacant land,0,0,0,744m² ,15 Jul 2023
+"480,000 ","36/78 Brookes Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,"2,692m² ",14 Jul 2023
+"480,000 ","4/85 Dornoch Terrace,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,1,1,1,85m² ,14 Jul 2023
+"770,000 ","104/9 Christie Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,97m² ,4 Jul 2023
+"385,000 ","514/77 Victoria Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,63m² ,2023
+"1,050,000","606/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,2,193m² ,12 Jul 2023
+"400,000 ","803/56 Prospect Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,65m² ,12 Jul 2023
+"1,200,000 ","39/46 Arthur Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,3,2,2,229m² ,11 Jul 2023
+"881,000","901/60 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,94m² ,11 Jul 2023
+"472,500 ","38/78 Brookes Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,116m² ,10 Jul 2023
+"735,000 ","38 Victoria Street,",KELVIN GROVE QLD 4059,Vacant land,0,0,0,263m² ,10 Jul 2023
+"620,000 ","15/16 Ricardo Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,2,125m² ,10 Jul 2023
+"667,000 ","49/69 Leichhardt Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,3,2,2,170m² ,10 Jul 2023
+"530,000 ","15/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,−,94m² ,10 Jul 2023
+"530,000 ","58-61/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,−,94m² ,10 Jul 2023
+"521,000 ","206/50 Connor Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,72m² ,08 Jul 2023
+"650,000","504/66 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,79m² ,08 Jul 2023
+"3,600,000 ","185 Vulture Street,",SOUTH BRISBANE QLD 4101,Block of units,9,9,4,478m² ,2023
+"495,000","1/2 Scott Road,",HERSTON QLD 4006,Townhouse,2,1,1,148m² ,07 Jul 2023
+"1,050,000","1102/20 Wyandra Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,115m² ,01 Jul 2023
+"1,300,000 ","18/50 Lower River Terrace,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,3,2,2,183m² ,0 Jun 2023
+"390,000 ","208/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,53m² ,30 Jun 2023
+"315,000 ","1056/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,55m² ,29 Jun 2023
+"430,000 ","8/26 Blamey Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,105m² ,28 Jun 2023
+"556,000 ","11105/30 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,71m² ,8 Jun 2023
+"724,000 ","808/49 Cordelia Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,96m² ,27 Jun 2023
+"417,500 ","8/243 Kelvin Grove Road,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,80m² ,26 Jun 2023
+"440,000 ","2067/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,67m² ,23 Jun 2023
+"471,000 ","11-15 Beesley Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,69m² ,22 Jun 2023
+"1,670,000 ","608/21 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,3,2,2,154m² ,2023
+"450,000 ","21004/60 Rogers Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,65m² ,2023
+"396,500 ","104/491 Wickham Terrace,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,1,−,96m² ,21 Jun 2023
+"440,000 ","102/58 Manilla Street,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,1,1,1,64m² ,19 Jun 2023
+"425,000 ","1056/18 Manning Street,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,1,67m² ,17 Jun 2023
+"665,000 ","2/33 Hoogley St,",WEST END QLD 4101,Apartment / Unit / Flat,3,1,1,108m² ,7 Jun 2023
+"660,000","704/66 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,79m² ,16 Jun 2023
+"495,000 ","2056/36 Evelyn Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,66m² ,16 Jun 2023
+"605,000","330/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,110m² ,15 Jun 2023
+"820,000 ","1075/36 Evelyn Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,101m² ,14 Jun 2023
+"420,000 ","1707/510 Saint Pauls Terrace,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,63m² ,13 Jun 2023
+"410,000 ","17/63 Vale Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,2,1,99m² ,13 Jun 2023
+"530,000 ","Level 4, 405/398 St Pauls Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,84m² ,09 Jun 2023
+"400,000","30911/191 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,53m² ,08 Jun 2023
+"365,000 ","510/348 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,58m² ,08 Jun 2023
+"951,000 ","303/8 Musgrave Street,",WEST END QLD 4101,Townhouse,3,3,2,163m² ,2023
+"475,000 ","401/56 Prospect Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,82m² ,07 Jun 2023
+"325,000 ","205/959 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,51m² ,07 Jun 2023
+"650,000 ","703/66 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,79m² ,2023
+"445,000 ","702/18 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,67m² ,7 Jun 2023
+"395,000 ","6/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,2,1,−,77m² ,07 Jun 2023
+"395,000 ","48/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,2,1,−,77m² ,07 Jun 2023
+"410,000","9/2 Berwick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,98m² ,06 Jun 2023
+"610,500 ","415/19 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,85m² ,06 Jun 2023
+"680,000 ","33/26 Glenrosa Road,",RED HILL QLD 4059,Townhouse,2,2,2,128m² ,06 Jun 2023
+"1,525,000 ","1007/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,188m² ,05 Jun 2023
+"460,000 ","22403/28 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,56m² ,05 Jun 2023
+"550,000 ","1303/31 Musk Avenue,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,75m² ,04 Jun 2023
+"435,500 ","21606/1055 Ann Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,68m² ,03 Jun 2023
+"739,000 ","747/1000 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,3,2,1,108m² ,02 Jun 2023
+"1,275,000 ","505/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,152m² ,02 Jun 2023
+"2,950,000","11 Agars Street,",PADDINGTON QLD 4064,Vacant land,0,0,0,748m² ,02 Jun 2023
+"1,150,000 ","407/20 Festival Place,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,81m² ,01 Jun 2023
+"852,500 ","101/14 Brereton Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,3,2,2,113m² ,01 Jun 2023
+"1,230,000","24 Hall Street,",PADDINGTON QLD 4064,Vacant land,0,0,0,455m² ,2023
+"350,000 ","1706/37 Mayne Road,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,65m² ,30 May 2023
+"386,000 ","4/19 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,−,66m² ,30 May 2023
+"630,000 ","616/17 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,83m² ,30 May 2023
+"1,919,000 ","1414/45 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,3,2,2,188m² ,30 May 2023
+"3,250,000 ","1001/9 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,4,3,3,273m² ,2023
+"586,500 ","18/32 Newstead Terrace,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,100m² ,28 May 2023
+"370,000 ","1507/348 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,50m² ,26 May 2023
+"456,000 ","705/82 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,2,85m² ,25 May 2023
+"407,500 ","601/338 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,60m² ,25 May 2023
+"585,000 ","L23/58 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,1,1,69m² ,25 May 2023
+"360,000 ","2084/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,54m² ,24 May 2023
+"451,065","805/42 Wyandra St,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,59m² ,24 May 2023
+"660,000 ","30707/40 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,"5,500m² ",4 May 2023
+"393,000 ","2108/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,23 May 2023
+"510,000 ","1501/338 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,76m² ,23 May 2023
+"360,000 ","7/19 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,−,66m² ,23 May 2023
+"640,000 ","4/106 Fernberg Road,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,2,1,127m² ,23 May 2023
+"485,000 ","6/3 Norman Street,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,2,1,1,111m² ,22 May 2023
+"455,000 ","606/8 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,74m² ,22 May 2023
+"645,000 ","410/20 Wyandra Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,73m² ,22 May 2023
+"550,000","31502/191 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,83m² ,19 May 2023
+"430,000","5/15 Saint James Street,",PETRIE TERRACE QLD 4000,Apartment / Unit / Flat,2,1,1,64m² ,18 May 2023
+"850,000","26/92 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,126m² ,17 May 2023
+"815,000 ","201/93 Baines Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,3,2,2,113m² ,17 May 2023
+"372,555 ","315/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,53m² ,16 May 2023
+"518,000 ","25/454 Upper Edward St,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,2,1,107m² ,15 May 2023
+"458,050 ","6/10 Wight Street,",MILTON QLD 4064,Apartment / Unit / Flat,3,1,1,160m² ,12 May 2023
+"5,050,000 ","2301/20 Festival Place,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,4,2,4,260m² ,12 May 2023
+"900,000 ","1213/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,95m² ,11 May 2023
+"356,000","1111/348 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,59m² ,10 May 2023
+"450,000","10811/1 Cordelia Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,61m² ,09 May 2023
+"605,000 ","402/9 Kurilpa Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,91m² ,09 May 2023
+"595,000 ","11/41-45 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,3,2,1,131m² ,08 May 2023
+"520,000 ","603/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,2,1,69m² ,07 May 2023
+"505,000 ","701/45 Wellington Road,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,2,1,1,83m² ,05 May 2023
+"1,650,000","1/19 Arthur Street,",FORTITUDE VALLEY QLD 4006,Townhouse,3,2,2,125m² ,05 May 2023
+"580,000 ","1103/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,63m² ,05 May 2023
+"395,000 ","906/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,51m² ,05 May 2023
+"655,000 ","520/16 Beesley Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,92m² ,03 May 2023
+"385,000 ","1402/25 Connor Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,54m² ,02 May 2023
+"839,000 ",,MILTON QLD 4064,New apartments / off the plan,2,2,1,80m² ,02 May 2023
+"839,000 ",,MILTON QLD 4064,New apartments / off the plan,2,1,1,64m² ,02 May 2023
+"1,290,000 ","1307/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,116m² ,02 May 2023
+"900,000 ","1312/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,95m² ,01 May 2023
+"570,000 ","604/29 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,94m² ,26 Apr 2023
+"410,000 ","506/66 Manning Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,52m² ,26 Apr 2023
+"875,000 ","1003/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,110m² ,25 Apr 2023
+"450,000 ","6/16 Wren Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,100m² ,24 Apr 2023
+"495,000 ","168/170 Leichhardt Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,1,1,90m² ,24 Apr 2023
+"505,000 ","56/101 Bowen Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,2,1,96m² ,24 Apr 2023
+"325,000","1315/128 Brookes Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,51m² ,20 Apr 2023
+"465,000 ","1067/58 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,2,79m² ,20 Apr 2023
+"550,000 ","2612/59 Blamey Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,2,1,112m² ,19 Apr 2023
+"365,000 ","307/50 McLachlan Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,58m² ,18 Apr 2023
+"750,000","205/100 Bowen Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,123m² ,17 Apr 2023
+"450,000 ","107/42 Wyandra Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,101m² ,2023
+"460,000 ","1310/338 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,77m² ,13 Apr 2023
+"410,000 ","803/95 Linton Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,58m² ,13 Apr 2023
+"375,000 ","23/27 Manning Street,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,1,59m² ,13 Apr 2023
+"410,000 ","611/338 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,61m² ,11 Apr 2023
+"488,000","9/27 School Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,2,1,95m² ,08 Apr 2023
+"628,000 ","2404/11 Cordelia Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,2,114m² ,08 Apr 2023
+"422,000 ","102/42 Wyandra St,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,70m² ,06 Apr 2023
+"810,000 ","313/60 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,101m² ,05 Apr 2023
+"777,000","307/60 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,101m² ,05 Apr 2023
+"495,000","201/32 Leichhardt Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,1,1,104m² ,
+"675,000 ","507/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,148m² ,04 Apr 2023
+"430,000 ","703/45 Wellington Road,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,1,1,1,65m² ,03 Apr 2023
+"427,500","607/66 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,55m² ,03 Apr 2023
+"740,000 ","1507/14 Ella Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,92m² ,02 Apr 2023
+"365,000","1312/55 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,−,62m² ,01 Apr 2023
+"365,000 ","1312/55 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,−,62m² ,01 Apr 2023
+"481,800 ","30/24 Brookes Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,78m² ,31 Mar 2023
+"637,500 ","38/57 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,133m² ,31 Mar 2023
+"407,000 ","406/45 Boundary Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,70m² ,31 Mar 2023
+"630,000","40/9 Doggett Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,98m² ,30 Mar 2023
+"626,000 ","307/41-45 Boundary Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,91m² ,2023
+"625,000 ","206/16 Beesley Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,89m² ,30 Mar 2023
+"516,000","1305/25 Connor Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,81m² ,28 Mar 2023
+"470,000","1506/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,71m² ,28 Mar 2023
+"1,201,000","401/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,150m² ,28 Mar 2023
+"455,000 ","15/32-38 Newstead Terrace,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,75m² ,28 Mar 2023
+"2,400,000 ","1601/7 Chester Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,4,3,3,265m² ,28 Mar 2023
+"454,000 ","2/36 Collingwood Street,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,1,1,98m² ,28 Mar 2023
+"565,000 ","L15/58 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,1,1,69m² ,27 Mar 2023
+"395,000","205/28 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,68m² ,25 Mar 2023
+"295,000 ","1408/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,63m² ,24 Mar 2023
+"425,000 ","10902/88 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,62m² ,23 Mar 2023
+"475,000 ","6/205 Baroona Road,",PADDINGTON QLD 4064,Apartment / Unit / Flat,2,1,1,96m² ,23 Mar 2023
+"700,000 ","15/28 McDougall Street,",MILTON QLD 4064,Apartment / Unit / Flat,2,2,2,163m² ,21 Mar 2023
+"1,105,000 ","6 Thorn Street,",RED HILL QLD 4059,Vacant land,0,0,0,352m² ,19 Mar 2023
+"345,000 ","1121/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,17 Mar 2023
+"685,000 ","521/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,122m² ,16 Mar 2023
+"725,000 ","401/71 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,106m² ,16 Mar 2023
+"320,000 ","203/333 Water Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,62m² ,15 Mar 2023
+"440,000 ","501/9-11 Walden Lane,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,75m² ,14 Mar 2023
+"356,000","804/56 Prospect Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,65m² ,13 Mar 2023
+"927,000 ","168 Kelvin Grove Road,",KELVIN GROVE QLD 4059,Vacant land,0,0,0,304m² ,13 Mar 2023
+"740,000 ","21 Walsh Street,",MILTON QLD 4064,Townhouse,2,2,2,164m² ,13 Mar 2023
+"220,000 ","807/35 Peel Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,−,51m² ,2023
+"1,250,000 ","607/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,116m² ,10 Mar 2023
+"715,000 ","809/458 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,76m² ,08 Mar 2023
+"560,000","401/31 Musk Ave,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,2,1,89m² ,08 Mar 2023
+"390,000 ","705/31 Musk Avenue,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,63m² ,06 Mar 2023
+"315,000","2/9 Picot Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,67m² ,06 Mar 2023
+"1,060,000 ","913/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,156m² ,06 Mar 2023
+"860,000 ","1/9 Doggett Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,4,2,2,131m² ,03 Mar 2023
+"1,565,000 ","31/28 McDougall Street,",MILTON QLD 4064,Apartment / Unit / Flat,3,2,2,285m² ,03 Mar 2023
+"440,000 ","305/16 Merivale St,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,87m² ,2023
+"345,000","403/128 Brookes Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,56m² ,27 Feb 2023
+"1,095,800 ","1408/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,116m² ,27 Feb 2023
+"420,000 ","214/42 Wyandra St,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,62m² ,27 Feb 2023
+"1,075,000 ","56 Fleming Road,",HERSTON QLD 4006,Townhouse,3,3,2,118m² ,26 Feb 2023
+"295,000 ","319/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,52m² ,25 Feb 2023
+"747,000 ","2603/55 Railway Terrace,",MILTON QLD 4064,Apartment / Unit / Flat,3,2,1,91m² ,24 Feb 2023
+"635,000 ","21/16-24 Lower Clifton Terrace,",RED HILL QLD 4059,Apartment / Unit / Flat,2,2,1,97m² ,24 Feb 2023
+"550,000 ","2007/9 Edmondstone Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,1,1,80m² ,24 Feb 2023
+"465,000 ","132/454 Upper Edward Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,2,1,1,76m² ,24 Feb 2023
+"535,000 ","2110/25 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,99m² ,23 Feb 2023
+"1,135,000","61 Rockbourne Terrace,",PADDINGTON QLD 4064,Vacant land,0,0,0,405m² ,23 Feb 2023
+"650,000 ","21104/28 Merivale Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,94m² ,23 Feb 2023
+"725,000 ","3/53 Aberleigh Road,",HERSTON QLD 4006,Townhouse,3,2,1,151m² ,22 Feb 2023
+"381,000 ","406/27 Russell Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,65m² ,22 Feb 2023
+"305,000 ","90/586 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,70m² ,21 Feb 2023
+"680,000 ","608/71 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,88m² ,20 Feb 2023
+"700,000 ","210/25 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,2,102m² ,2023
+"719,000 ","108/21 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,132m² ,15 Feb 2023
+"699,500 ","110/77 Jane Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,125m² ,14 Feb 2023
+"480,000 ","309/82 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,96m² ,13 Feb 2023
+"530,000 ","301/8 Church Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,81m² ,10 Feb 2023
+"340,000 ","1113/510 St Pauls Terrace,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,63m² ,09 Feb 2023
+"3,600,000 ","240 Vulture Street,",SOUTH BRISBANE QLD 4101,Block of units,11,6,7,809m² ,2023
+"410,000 ","419/21 Buchanan Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,62m² ,08 Feb 2023
+"1,280,000 ","1/10 Amersham St,",WEST END QLD 4101,Apartment / Unit / Flat,3,2,2,186m² ,2023
+"600,000 ","9/141 Dornoch Terrace,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,2,2,1,97m² ,06 Feb 2023
+"655,000 ","404/45 Wellington Road,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,2,2,2,98m² ,03 Feb 2023
+"476,000 ","16/92 Robertson Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,1,90m² ,03 Feb 2023
+"532,000 ","801/5 Folkestone Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,86m² ,02 Feb 2023
+"675,000 ","205/18 Duke Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,2,138m² ,01 Feb 2023
+"408,000 ","711/36 King Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,58m² ,31 Jan 2023
+"700,000 ","55/50 Mollison Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,119m² ,31 Jan 2023
+"430,000 ","8610/43 Forbes Street,",WEST END QLD 4101,Apartment / Unit / Flat,1,1,1,83m² ,1 Jan 2023
+"565,000 ","315/21 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,87m² ,2023
+"650,000 ","1508/45 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,2,107m² ,2023
+"270,000 ","Level 8, 1086/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,56m² ,30 Jan 2023
+"320,000 ","16/24 Brookes Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,61m² ,29 Jan 2023
+"440,000 ","1084/18 Manning Street,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,1,91m² ,28 Jan 2023
+"490,000","UNIT 1/39 MONRO STREET,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,104m² ,
+"288,000 ","207/455 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,53m² ,23 Jan 2023
+"430,000 ","214/50 Connor Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,72m² ,23 Jan 2023
+"750,000 ","6/13 Tank Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,3,2,2,148m² ,23 Jan 2023
+"582,000 ","7/32 Ryan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,1,1,"1,553m² ",20 Jan 2023
+"539,000 ","502/398 St Pauls Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,91m² ,19 Jan 2023
+"590,000","1109/18 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,94m² ,19 Jan 2023
+"430,000 ","2043/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,1,1,68m² ,18 Jan 2023
+"950,000 ","1/36 Berry Street,",SPRING HILL QLD 4000,Townhouse,3,2,2,179m² ,18 Jan 2023
+"350,000 ","602/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,−,51m² ,17 Jan 2023
+"300,000 ","11/88 Isaac Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,1,60m² ,16 Jan 2023
+"370,000 ","206/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,71m² ,13 Jan 2023
+"377,000 ","5/29 Gibb Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,2,1,1,79m² ,13 Jan 2023
+"277,000","910/35 Campbell Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,−,64m² ,10 Jan 2023
+"400,000 ","2710/191 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,51m² ,10 Jan 2023
+"385,000","911/167 Alfred Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,54m² ,09 Jan 2023
+"1,150,000 ","106/8 Colton Street,",HIGHGATE HILL QLD 4101,Apartment / Unit / Flat,3,3,2,134m² ,2023
+"410,000 ","1035/18 Manning Street,",MILTON QLD 4064,Apartment / Unit / Flat,1,1,1,"3,640m² ",09 Jan 2023
+"675,000 ","303/28 Masters Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,102m² ,09 Jan 2023
+"690,000 ","1 Cordelia Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,2,2,1,90m² ,08 Jan 2023
+"460,000","28/44 Brookes Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,95m² ,05 Jan 2023
+"340,000 ","12/27 Ballow Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,−,60m² ,04 Jan 2023
+"460,000 ","305/50 McLachlan Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,81m² ,04 Jan 2023
+"330,000 ","104/9-11 Walden Lane,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,89m² ,03 Jan 2023
+"377,500 ","31311/191 Brunswick Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,57m² ,03 Jan 2023
+"401,888 ","30/49 Russell Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,80m² ,03 Jan 2023
+"500,000 ","16/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,−,97m² ,03 Jan 2023
+"500,000 ","8-11/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,−,97m² ,03 Jan 2023
+"580,000 ","9/48 Cintra Road,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,90m² ,21 Dec 2022
+"2,440,000 ","1605/7 Chester Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,4,3,2,265m² ,21 Dec 2022
+"1,045,000 ","1208/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,116m² ,20 Dec 2022
+"590,000 ","32/89 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,2,141m² ,19 Dec 2022
+"735,000 ","1510/14 Ella Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,90m² ,19 Dec 2022
+"500,000 ","31309/24 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,75m² ,19 Dec 2022
+"895,000 ","U5/63 Charlotte Street,",PADDINGTON QLD 4064,Townhouse,3,3,2,150m² ,2022
+"370,000 ","6/461 Gregory Terrace,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,1,−,74m² ,18 Dec 2022
+"435,000","2001/9 Edmondstone Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,68m² ,17 Dec 2022
+"1,705,000 ","1208/23 McDougall Street,",MILTON QLD 4064,New apartments / off the plan,3,3,2,152m² ,16 Dec 2022
+"575,000 ","1211/23 McDougall Street,",MILTON QLD 4064,New apartments / off the plan,2,1,1,61m² ,16 Dec 2022
+"882,500 ","907/60 Doggett Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,104m² ,15 Dec 2022
+"825,000 ","513/18 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,1,92m² ,15 Dec 2022
+"1,035,000 ","37/89 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,3,2,2,278m² ,14 Dec 2022
+"405,000 ","1102/49 Cordelia Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,62m² ,2022
+"550,000 ","15/42 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,101m² ,2022
+"705,000 ","102/66 Lambert Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,95m² ,13 Dec 2022
+"505,000 ","28/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,2,1,1,97m² ,13 Dec 2022
+"505,000 ","22-25/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,2,1,1,97m² ,13 Dec 2022
+"470,000 ","3201/19 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,67m² ,12 Dec 2022
+"1,100,000 ","503/12 Bailey Street,",WEST END QLD 4101,Apartment / Unit / Flat,3,2,4,164m² ,12 Dec 2022
+"500,000 ","2144/38 Hope Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,1,62m² ,10 Dec 2022
+"1,020,000 ","806/8 Donkin Street,",WEST END QLD 4101,Apartment / Unit / Flat,3,2,2,115m² ,2022
+"417,500 ","603/18 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,79m² ,09 Dec 2022
+"350,000 ","912/977 Ann Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,1,1,1,50m² ,08 Dec 2022
+"839,000 ","38/35 Buchanan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,128m² ,2022
+"415,500 ","103/6 Victoria Street,",KELVIN GROVE QLD 4059,Apartment / Unit / Flat,1,1,1,115m² ,07 Dec 2022
+"1,125,000 ","4/179 Baroona Road,",PADDINGTON QLD 4064,Townhouse,3,2,2,234m² ,07 Dec 2022
+"830,000 ","1/12 Fleming Road,",HERSTON QLD 4006,Townhouse,3,2,1,152m² ,03 Dec 2022
+"940,000","12/16 Bright Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,138m² ,01 Dec 2022
+"1,216,000 ","36 Drury Street,",WEST END QLD 4101,Vacant land,0,0,0,404m² ,2022
+"380,000 ","912/510 St Pauls Terrace,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,1,1,1,63m² ,29 Nov 2022
+"700,000 ","511/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,134m² ,29 Nov 2022
+"1,075,000 ","43/7 Boyd Street,",BOWEN HILLS QLD 4006,Townhouse,3,2,2,240m² ,28 Nov 2022
+"655,000 ","306/46 Newstead Terrace,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,2,98m² ,28 Nov 2022
+"380,000 ","1205/477 Boundary Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,1,53m² ,28 Nov 2022
+"440,000 ","506/24 Brewers Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,1,1,81m² ,25 Nov 2022
+"500,000 ","35/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,1,94m² ,25 Nov 2022
+"500,000 ","35/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,1,94m² ,25 Nov 2022
+"500,000 ","404/18 Thorn Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,99m² ,24 Nov 2022
+"815,000 ","2/36 Belleview Parade,",PADDINGTON QLD 4064,Townhouse,3,2,2,237m² ,2022
+"3,500,000 ","311/51 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,5,3,3,261m² ,2022
+"2,825,000 ","301/241 Wellington Road,",EAST BRISBANE QLD 4169,Apartment / Unit / Flat,3,2,2,237m² ,2022
+"290,000 ","15/179 Kennigo Street,",SPRING HILL QLD 4000,Apartment / Unit / Flat,1,1,1,62m² ,23 Nov 2022
+"503,750 ","502/8 Church Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,89m² ,22 Nov 2022
+"866,000","105/42-46 Newstead Terrace,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,119m² ,22 Nov 2022
+"845,000 ","6/20 Newstead terace,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,2,2,2,158m² ,22 Nov 2022
+"750,000 ","1305/45 Duncan Street,",WEST END QLD 4101,Apartment / Unit / Flat,2,2,1,128m² ,2022
+"502,000","613/275 Wickham Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,78m² ,19 Nov 2022
+"480,000","1606/10 Stratton Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,71m² ,18 Nov 2022
+"312,500","2/23 Quinton Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,77m² ,17 Nov 2022
+"2,350,000 ","5 Ricardo Street,",KELVIN GROVE QLD 4059,Block of units,12,6,8,845m² ,2022
+"400,000 ","11211/88 Doggett,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,1,1,1,55m² ,17 Nov 2022
+"440,000","10908/25 Bouquet Street,",SOUTH BRISBANE QLD 4101,Apartment / Unit / Flat,1,1,2,65m² ,17 Nov 2022
+"510,000 ","37/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,−,94m² ,17 Nov 2022
+"510,000 ","90-93/14 Ferry Road,",WEST END QLD 4101,Apartment / Unit / Flat,4,1,−,94m² ,17 Nov 2022
+"770,000 ","23/165 Main Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,3,2,2,136m² ,16 Nov 2022
+"500,000 ","29 Bell Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,1,1,96m² ,16 Nov 2022
+"453,000","14/16 Wren Street,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,117m² ,15 Nov 2022
+"500,000 ","508/232 Wellington Road,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,1,1,1,68m² ,14 Nov 2022
+"780,000 ","604/38 Warner Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,2,188m² ,2022
+"575,000","2109/25 Connor Street,",FORTITUDE VALLEY QLD 4006,Apartment / Unit / Flat,2,2,1,82m² ,11 Nov 2022
+"615,000 ","4501/15 Anderson Street,",KANGAROO POINT QLD 4169,Apartment / Unit / Flat,2,2,1,79m² ,11 Nov 2022
+"1,300,000 ","301/70 Longland Street,",NEWSTEAD QLD 4006,Apartment / Unit / Flat,3,2,2,126m² ,11 Nov 2022
+"624,500 ","2103/361 Turbot St,",SPRING HILL QLD 4000,Apartment / Unit / Flat,3,2,1,118m² ,11 Nov 2022
+"450,000 ","1017/16 Hamilton Place,",BOWEN HILLS QLD 4006,Apartment / Unit / Flat,2,2,1,109m² ,10 Nov 2022

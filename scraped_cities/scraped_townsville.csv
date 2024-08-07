@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"295,365 ","706/84-106 Denham Street,",TOWNSVILLE CITY QLD 4810,House,1,1,1,125m² ,10 Apr 2024
+"365,000 ","25/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,2,2,1,93m² ,20 Feb 2024
+"2,350,000","14/48-55 Sir Leslie Theiss Drive,",TOWNSVILLE CITY QLD 4810,House,3,3,2,414m² ,10 Nov 2023
+"325,000","7 Hamilton Street,",TOWNSVILLE CITY QLD 4810,House,2,1,−,"1,012m² ",13 Oct 2023
+"900,000 ","13 Melton Terrace,",TOWNSVILLE CITY QLD 4810,House,8,4,2,898m² ,26 Sep 2023
+"810,000 ","41 HALE STREET,",TOWNSVILLE CITY QLD 4810,House,3,2,3,779m² ,12 Jun 2023
+"1,250,000 ","3/419-433 Flinders Street,",TOWNSVILLE CITY QLD 4810,House,3,2,3,416m² ,07 Jun 2023
+"2,150,000 ","13/48 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,House,3,3,2,414m² ,02 Jun 2023
+"441,000 ","124/330-348 Sturt Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,168m² ,17 Apr 2023
+"475,000 ","7/1 The Strand,",TOWNSVILLE CITY QLD 4810,House,2,2,1,149m² ,12 Apr 2023
+"550,000 ","804/151-173 Sturt Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,200m² ,13 Mar 2023
+"240,000 ","35/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,1,1,1,72m² ,09 Mar 2023
+"784,000","8 Murray Street,",TOWNSVILLE CITY QLD 4810,House,4,2,2,476m² ,11 Dec 2022
+"2,000,000","14/48-55 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,House,3,3,2,414m² ,23 Nov 2022
+"270,000 ","20/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,2,2,1,85m² ,28 Sep 2022
+"285,000 ","25/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,2,2,1,93m² ,26 Jul 2022
+"1,050,000 ","33 Hale Street,",TOWNSVILLE CITY QLD 4810,House,4,2,2,521m² ,26 Jul 2022
+"495,000 ","502/151-173 Sturt Street,",TOWNSVILLE CITY QLD 4810,House,3,2,1,167m² ,18 Jul 2022
+"550,000 ","2/408 Walker Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,210m² ,20 Jun 2022
+"420,000 ","76/2-4 Kingsway Place,",TOWNSVILLE CITY QLD 4810,House,2,2,1,90m² ,26 May 2022
+"1,970,000 ","29-31 Hale Street,",TOWNSVILLE CITY QLD 4810,House,5,3,4,"1,366m² ",10 May 2022
+"605,000 ","19/7 Mariners Drive,",TOWNSVILLE CITY QLD 4810,House,2,2,1,140m² ,08 Apr 2022
+"520,000 ","902/151-173 Sturt Street,",TOWNSVILLE CITY QLD 4810,House,3,2,1,172m² ,07 Apr 2022
+"415,000 ","9/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,114m² ,05 Apr 2022
+"1,400,000","7 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,House,5,3,2,898m² ,19 Mar 2022
+"239,000 ","16/86-124 Ogden Street,",TOWNSVILLE CITY QLD 4810,House,2,2,2,90m² ,10 Mar 2022
+"287,000","21 Fletcher Street,",TOWNSVILLE CITY QLD 4810,House,2,1,1,172m² ,14 Feb 2022
+"312,500 ","12/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,3,2,1,122m² ,11 Jan 2022
+"200,000 ","44/11-17 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,1,1,1,72m² ,09 Nov 2021
+"1,318,000 ","15 Hillside Crescent,",TOWNSVILLE CITY QLD 4810,House,4,2,2,"1,012m² ",03 Nov 2021
+"615,000 ","24 Willmett Street,",TOWNSVILLE CITY QLD 4810,House,3,1,1,454m² ,0 Oct 2021
+"239,000 ","35/86-124 Ogden Street,",TOWNSVILLE CITY QLD 4810,House,2,2,2,86m² ,18 Oct 2021
+"632,500 ","1605/6 Mariners Drive,",TOWNSVILLE CITY QLD 4810,House,2,2,2,118m² ,06 Oct 2021
+"595,000 ","10 Knapp Street,",TOWNSVILLE CITY QLD 4810,House,3,1,1,428m² ,20 Sep 2021
+"680,000 ","273 Walker Street,",TOWNSVILLE CITY QLD 4810,House,3,1,1,635m² ,13 Sep 2021
+"755,000 ","250 WILLS STREET,",TOWNSVILLE CITY QLD 4810,House,4,2,2,"1,012m² ",03 Jun 2021
+"740,000 ","6 Stanton Terrace,",TOWNSVILLE CITY QLD 4810,House,3,1,−,"1,012m² ",26 May 2021
+"1,750,000 ","13/48-55 Sir Leslie Thiess Drive,",TOWNSVILLE CITY QLD 4810,House,3,3,2,414m² ,29 Mar 2021
+"495,000 ","45 Hale Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,429m² ,09 Mar 2021
+"525,000","24 Willmett Street,",TOWNSVILLE CITY QLD 4810,House,3,1,1,454m² ,03 Dec 2020
+"403,500","465 Sturt Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,981m² ,04 Aug 2020
+"352,000","246 Wills Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,506m² ,08 Nov 2019
+"495,000","8 Murray Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,476m² ,15 Mar 2018
+"1,900,000","26 Cleveland Terrace,",TOWNSVILLE CITY QLD 4810,House,5,2,3,"1,879m² ",07 Mar 2018
+"700,000 ","17 Hillside Crescent,",TOWNSVILLE CITY QLD 4810,House,4,2,2,607m² ,05 Dec 2017
+"685,000 ","18 Hale Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,809m² ,30 Nov 2017
+"555,000","26 Willmett Street,",TOWNSVILLE CITY QLD 4810,House,2,1,1,942m² ,16 Mar 2017
+"378,000","38 Hale Street,",TOWNSVILLE CITY QLD 4810,House,3,2,2,506m² ,19 Aug 2016
+"348,000 ","419 Walker Street,",TOWNSVILLE CITY QLD 4810,House,3,1,1,281m² ,20 Jun 2016
+"1,600,000","1 Herbert Street,",TOWNSVILLE CITY QLD 4810,House,4,2,3,684m² ,06 Jun 2016
+"625,000 ","30 Victoria Street,",TOWNSVILLE CITY QLD 4810,House,5,2,2,809m² ,2016
+"470,000 ","414 Walker Street,",TOWNSVILLE CITY QLD 4810,House,2,2,1,508m² ,14 Feb 2016
+"665,000 ","14 Victoria Street,",TOWNSVILLE CITY QLD 4810,House,5,3,4,"1,012m² ",09 Feb 2016
+"250,000 ","393 Walker Street,",TOWNSVILLE CITY QLD 4810,House,2,1,−,587m² ,28 Sep 2015
+"310,000","17 Fletcher Street,",TOWNSVILLE CITY QLD 4810,House,2,1,2,253m² ,28 Sep 2015
+"645,000","42 Stokes Street,",TOWNSVILLE CITY QLD 4810,House,4,1,1,582m² ,02 Aug 2015
+"680,000 ","15 Melton Terrace,",TOWNSVILLE CITY QLD 4810,House,4,1,2,895m² ,03 Jul 2015
+"370,000 ","11 Knapp Street,",TOWNSVILLE CITY QLD 4810,House,2,1,−,650m² ,29 Apr 2015
+"780,000 ","7 Melton Tce,",TOWNSVILLE CITY QLD 4810,House,6,3,−,778m² ,15 Apr 2015
+"370,000 ",,TOWNSVILLE CITY QLD 4810,House,4,2,2,450m² ,22 Sep 2014
+"2,250,000 ","5C/6 Mariners Drive,",TOWNSVILLE CITY QLD 4810,House,3,3,2,295m² ,14 Feb 2014
+"575,000","18 Hale Street,",TOWNSVILLE CITY QLD 4810,House,3,2,4,809m² ,23 Nov 2013
+"500,000","40 Stokes street,",TOWNSVILLE CITY QLD 4810,House,3,1,−,572m² ,19 Jul 2013
+"1,085,000 ","21-23 Hale Street,",TOWNSVILLE CITY QLD 4810,House,11,5,−,"1,812m² ",16 Apr 2013
+"375,000","16 Hale Street,",TOWNSVILLE CITY QLD 4810,House,3,2,−,779m² ,06 Feb 2013
+"1,100,000","15 Hillside Crescent,",TOWNSVILLE CITY QLD 4810,House,4,2,2,"1,012m² ",23 Aug 2012
+"335,000","39 Hale St,",TOWNSVILLE CITY QLD 4810,House,2,1,1,"1,244m² ",25 Jun 2012
+"860,000","395 Sturt Street,",TOWNSVILLE CITY QLD 4810,House,3,2,3,"1,012m² ",08 May 2012
+"950,000","9 Stanton Tce,",TOWNSVILLE CITY QLD 4810,House,4,2,2,627m² ,31 Aug 2011
+"509,000 ","46 TWINVIEW TERRACE,",TOWNSVILLE CITY QLD 4810,House,5,2,2,640m² ,21 Jun 2011
+"458,000","244 Wills St,",TOWNSVILLE CITY QLD 4810,House,3,1,2,506m² ,22 May 2011
+"325,000","1/51-69 Stanley Street,",TOWNSVILLE CITY QLD 4810,House,3,2,1,144m² ,2011
+"625,000 ","7 Victoria St,,",TOWNSVILLE CITY QLD 4810,House,4,2,1,574m² ,07 May 2010
+"345,000",,TOWNSVILLE CITY QLD 4810,House,3,1,1,"1,012m² ",17 Nov 2009
+"475,000 ","2 Humphrey Street,",WEST END QLD 4810,House,2,1,1,506m² ,16 Apr 2024
+"795,000 ","3 Parry Street,",BELGIAN GARDENS QLD 4810,House,4,3,4,905m² ,2024
+"720,000 ","22A Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,4,2,2,607m² ,05 Apr 2024
+"375,000 ","2/5A Church Street,",WEST END QLD 4810,House,3,2,1,254m² ,04 Apr 2024
+"370,000 ","32 Buoro Street,",BALL BAY QLD 4741,House,2,1,2,607m² ,02 Apr 2024
+"253,000 ",,YALBOROO QLD 4741,House,3,1,−,"1,300m² ",02 Apr 2024
+"570,000 ","35 Davidson Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,"1,012m² ",01 Apr 2024
+"498,000 ","97 Kippen Drive,",BALL BAY QLD 4741,House,4,1,2,"8,240m² ",28 Mar 2024
+"575,000 ","38 Gargett-Mia Mia Road,",GARGETT QLD 4741,House,6,3,5,"4,338m² ",26 Mar 2024
+"690,000 ","25 Evans Street,",BELGIAN GARDENS QLD 4810,House,3,1,4,801m² ,22 Mar 2024
+"680,000 ","42 Seventh Street,",RAILWAY ESTATE QLD 4810,House,7,3,1,668m² ,21 Mar 2024
+"345,000","68 Todd Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,372m² ,18 Mar 2024
+"590,000 ","122 Bundock Street,",BELGIAN GARDENS QLD 4810,House,3,2,6,999m² ,15 Mar 2024
+"800,000","129 Eyre Street,",NORTH WARD QLD 4810,House,3,2,2,498m² ,13 Mar 2024
+"650,000 ","1 Chubb Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,"1,012m² ",11 Mar 2024
+"550,000 ","56 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,11 Mar 2024
+"600,000 ","6 Havana Street,",ROWES BAY QLD 4810,House,3,1,2,809m² ,11 Mar 2024
+"265,000 ","6/48-54 Mitchell Street,",NORTH WARD QLD 4810,House,1,1,1,64m² ,08 Mar 2024
+"610,000 ","53 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,581m² ,07 Mar 2024
+"830,000 ","56 William Street,",WEST END QLD 4810,House,4,2,2,"1,012m² ",06 Mar 2024
+"995,000 ","23 Mitchell Street,",NORTH WARD QLD 4810,House,3,2,2,839m² ,2024
+"840,000 ","12 Rose Street,",NORTH WARD QLD 4810,House,4,2,2,693m² ,05 Mar 2024
+"416,000 ","18 Edwards Street,",WEST END QLD 4810,House,2,1,1,601m² ,29 Feb 2024
+"480,000 ","19 Anzac Lane,",RAILWAY ESTATE QLD 4810,House,2,1,2,352m² ,26 Feb 2024
+"749,000","285 Riley Road,",CAPE CLEVELAND QLD 4810,House,4,2,10,0,23 Feb 2024
+"2,300,000","48 Palm Street,",ROWES BAY QLD 4810,House,4,2,2,805m² ,23 Feb 2024
+"540,000 ","4 Price Street,",BELGIAN GARDENS QLD 4810,House,3,2,3,809m² ,22 Feb 2024
+"456,000 ","11 Queens Road,",RAILWAY ESTATE QLD 4810,House,4,1,2,797m² ,21 Feb 2024
+"1,050,000 ","9 Potts Street,",BELGIAN GARDENS QLD 4810,House,5,3,5,"1,012m² ",20 Feb 2024
+"715,000 ","61 Alexandra Street,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",20 Feb 2024
+"270,000 ","61 Robertson Street,",RAILWAY ESTATE QLD 4810,House,2,1,4,"1,239m² ",20 Feb 2024
+"453,000 ","51 Ralston Street,",WEST END QLD 4810,House,3,1,1,446m² ,20 Feb 2024
+"267,000 ","6/25 Bundock Street,",BELGIAN GARDENS QLD 4810,House,2,1,1,89m² ,19 Feb 2024
+"1,650,000 ","5 Kensington Court,",CASTLE HILL QLD 4810,House,5,3,2,"1,021m² ",14 Feb 2024
+"550,000 ","15 Church Street,",WEST END QLD 4810,House,3,1,2,506m² ,14 Feb 2024
+"380,000 ","62 Mcgills Road,",KUTTABUL QLD 4741,House,3,1,5,0,13 Feb 2024
+"1,500,000 ","795 Mackay Eungella Road,",PLEYSTOWE QLD 4741,House,4,2,9,0,13 Feb 2024
+"510,000 ","20 Martin Street,",SOUTH TOWNSVILLE QLD 4810,House,2,2,1,506m² ,13 Feb 2024
+"300,000","109A Perkins Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,−,304m² ,13 Feb 2024
+"930,000","13 Stanton Terrace,",NORTH WARD QLD 4810,House,3,2,2,"1,012m² ",11 Feb 2024
+"640,000 ","61 First Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,"1,308m² ",08 Feb 2024
+"360,000 ","17 Johnson Avenue,",SEAFORTH QLD 4741,House,3,1,2,800m² ,07 Feb 2024
+"600,000 ","37 Wackett Street,",PALLARENDA QLD 4810,House,3,2,2,708m² ,06 Feb 2024
+"1,700,000 ","347 Stanley Street,",NORTH WARD QLD 4810,House,5,3,3,"1,110m² ",01 Feb 2024
+"829,000 ","78 Railway Avenue,",RAILWAY ESTATE QLD 4810,House,5,3,3,966m² ,01 Feb 2024
+"400,000 ","14 Fourth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,2,2,−,506m² ,31 Jan 2024
+"450,000 ","5 Cape Street,",SOUTH TOWNSVILLE QLD 4810,House,4,1,2,607m² ,31 Jan 2024
+"585,000 ","1 & 2/12 Tuffley Street,",WEST END QLD 4810,Duplex,4,2,2,805m² ,30 Jan 2024
+"328,000 ","13/18-22 Martinez Avenue,",WEST END QLD 4810,House,3,2,1,131m² ,30 Jan 2024
+"840,000 ","5 Queens Road,",RAILWAY ESTATE QLD 4810,House,6,2,4,948m² ,29 Jan 2024
+"550,000 ","26 Cape Hillsborough Road,",SEAFORTH QLD 4741,House,2,1,4,0,24 Jan 2024
+"611,000 ","196 Boundary Street,",RAILWAY ESTATE QLD 4810,House,3,2,2,607m² ,21 Jan 2024
+"905,000 ","24 Sheehan Street,",BELGIAN GARDENS QLD 4810,House,5,2,2,"1,012m² ",2024
+"449,000 ","23A Railway Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,2,837m² ,17 Jan 2024
+"293,000","22375 Peak Downs Highway,",HAZLEDEAN QLD 4741,House,3,2,−,"4,046m² ",16 Jan 2024
+"520,000 ","17 Primrose Street,",NORTH WARD QLD 4810,House,3,1,1,498m² ,15 Jan 2024
+"570,000 ","34 Sixth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,5,4,3,"1,002m² ",15 Jan 2024
+"775,000 ","18 Eden Street,",BELGIAN GARDENS QLD 4810,House,3,2,1,481m² ,12 Jan 2024
+"550,000 ","3 Gilbert Crescent,",CASTLE HILL QLD 4810,House,2,1,2,407m² ,12 Jan 2024
+"620,000 ","102 Perkins Street West,",RAILWAY ESTATE QLD 4810,House,5,2,6,594m² ,12 Jan 2024
+"1,000,000 ","32 Stanton Terrace,",NORTH WARD QLD 4810,House,5,3,2,605m² ,10 Jan 2024
+"390,000 ","8 Mill Street,",NORTH ETON QLD 4741,House,3,1,4,"1,200m² ",09 Jan 2024
+"1,210,000 ","16 Alexandra Street,",NORTH WARD QLD 4810,House,5,3,4,"1,012m² ",09 Jan 2024
+"470,000 ","185 Bundock Street,",WEST END QLD 4810,House,3,2,2,362m² ,03 Jan 2024
+"975,000","36 Alexandra Street,",NORTH WARD QLD 4810,House,6,3,2,"1,012m² ",01 Jan 2024
+"793,000 ","38 Stanton Street,",BELGIAN GARDENS QLD 4810,House,4,2,3,809m² ,28 Dec 2023
+"1,076,000 ","68 YARRAWONGA DRIVE,",CASTLE HILL QLD 4810,House,4,3,2,706m² ,22 Dec 2023
+"336,000 ","20/40-48 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,143m² ,22 Dec 2023
+"850,000 ","38 Cook Street,",NORTH WARD QLD 4810,House,4,2,4,863m² ,21 Dec 2023
+"381,000 ","1/3 Barron Street,",WEST END QLD 4810,House,2,1,1,331m² ,21 Dec 2023
+"735,000 ","365 Stanley Street,",NORTH WARD QLD 4810,House,4,1,2,613m² ,20 Dec 2023
+"872,000 ","59 Rose Street,",NORTH WARD QLD 4810,House,4,2,2,"1,012m² ",19 Dec 2023
+"357,000","7 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,553m² ,19 Dec 2023
+"475,000 ","1003/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,House,2,2,1,117m² ,19 Dec 2023
+"489,000 ","10 Chidlow Street,",FARLEIGH QLD 4741,House,3,2,1,"1,012m² ",18 Dec 2023
+"480,000 ","7 Murphy Street,",SEAFORTH QLD 4741,House,2,2,2,802m² ,18 Dec 2023
+"505,000 ","284 Boundary Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,5,713m² ,15 Dec 2023
+"360,000 ","6 Castling Street,",WEST END QLD 4810,House,2,1,1,"1,012m² ",15 Dec 2023
+"415,000 ","85 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,−,809m² ,14 Dec 2023
+"805,000 ","961 Mackay-Eungella Road,",PLEYSTOWE QLD 4741,House,3,1,6,0,12 Dec 2023
+"620,000 ","39 Macrossan Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,"1,012m² ",11 Dec 2023
+"740,000 ","32 Saint James Drive,",BELGIAN GARDENS QLD 4810,House,3,3,4,767m² ,08 Dec 2023
+"275,000 ","10 Ford Court,",SEAFORTH QLD 4741,House,0,0,0,"1,235m² ",06 Dec 2023
+"651,000 ","6 Morrell Street,",PALLARENDA QLD 4810,House,4,2,3,708m² ,05 Dec 2023
+"480,000","20 Third Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,809m² ,05 Dec 2023
+"746,000 ","10 Hooper Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,"1,094m² ",01 Dec 2023
+"567,000 ","4 Feetham Court,",BELGIAN GARDENS QLD 4810,House,4,1,2,762m² ,8 Nov 2023
+"235,000","1 Hill Street,",ETON QLD 4741,House,3,1,−,"2,023m² ",28 Nov 2023
+"586,000","17 Sallows Street,",PALLARENDA QLD 4810,House,5,2,3,708m² ,28 Nov 2023
+"449,000 ","5 Garrick Street,,",WEST END QLD 4810,House,2,1,1,607m² ,27 Nov 2023
+"379,000 ","60 Seventh Street,",RAILWAY ESTATE QLD 4810,House,3,2,1,647m² ,23 Nov 2023
+"452,000","41 Allen Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,357m² ,
+"850,000 ","91 Robertson Street,",RAILWAY ESTATE QLD 4810,House,5,3,1,809m² ,21 Nov 2023
+"422,000 ","51A Ralston Street,",WEST END QLD 4810,House,4,2,2,566m² ,20 Nov 2023
+"1,600,000 ","9 Cottesmore Crescent,",CASTLE HILL QLD 4810,House,4,2,3,"1,070m² ",19 Nov 2023
+"1,200,000 ","31 Balmoral Drive,",CASTLE HILL QLD 4810,House,4,3,2,809m² ,16 Nov 2023
+"490,000 ","2188 Yakapari-Seaforth Road,",SEAFORTH QLD 4741,House,3,2,4,"1,000m² ",15 Nov 2023
+"730,000 ","47 Primrose Street,",BELGIAN GARDENS QLD 4810,House,6,3,3,"1,012m² ",11 Nov 2023
+"1,180,000 ","40 Stuart Street,",NORTH WARD QLD 4810,House,4,3,4,473m² ,11 Nov 2023
+"370,000 ","146 Perkins Street West,",RAILWAY ESTATE QLD 4810,House,3,1,1,809m² ,10 Nov 2023
+"1,370,000 ","38 Saint James Drive,",BELGIAN GARDENS QLD 4810,House,4,3,5,739m² ,07 Nov 2023
+"615,000 ","95 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,1,455m² ,07 Nov 2023
+"535,000 ","2 Third Street,",RAILWAY ESTATE QLD 4810,House,3,1,6,809m² ,06 Nov 2023
+"490,000 ","50 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,2,403m² ,06 Nov 2023
+"1,100,000 ","370 Kinchant Dam Road,",KINCHANT DAM QLD 4741,House,5,2,9,"9,077m² ",03 Nov 2023
+"665,000","34 Cook Street,",NORTH WARD QLD 4810,House,3,2,2,427m² ,03 Nov 2023
+"420,000 ","74B Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,1,472m² ,03 Nov 2023
+"450,000 ","12 Townsville Street,",WEST END QLD 4810,House,3,1,2,607m² ,03 Nov 2023
+"327,000 ","69A Todd Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,428m² ,01 Nov 2023
+"450,000 ","15 Murphy Street,",SEAFORTH QLD 4741,House,3,2,−,880m² ,30 Oct 2023
+"570,000 ","22 Dyer Street,",PALLARENDA QLD 4810,House,3,1,1,809m² ,27 Oct 2023
+"1,200,000","36 Poinciana Avenue,",SEAFORTH QLD 4741,House,3,2,4,607m² ,27 Oct 2023
+"1,475,000","24 Alexandra Street,",NORTH WARD QLD 4810,House,6,4,1,"1,012m² ",2023
+"250,000 ","504/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,House,1,1,1,77m² ,21 Oct 2023
+"850,000 ","30 Stagpole Street,",WEST END QLD 4810,House,5,3,2,"1,012m² ",2023
+"290,000 ","36 Buoro Street,",BALL BAY QLD 4741,House,2,1,−,607m² ,20 Oct 2023
+"750,000 ","39 Shackleton Road,",OAKENDEN QLD 4741,House,5,2,6,0,19 Oct 2023
+"419,000 ","63 Robertson Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,809m² ,19 Oct 2023
+"390,000 ","26 Montgomery St,",WEST END QLD 4810,House,3,1,4,809m² ,16 Oct 2023
+"470,000 ","10 Doorey Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,"1,004m² ",13 Oct 2023
+"300,000 ","21 Flaggy Rock Road,",CLAIRVIEW QLD 4741,House,1,1,−,0,12 Oct 2023
+"320,000 ","73 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,411m² ,12 Oct 2023
+"415,000 ","1/24 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,2,343m² ,10 Oct 2023
+"530,000 ","147 Harold Street,",WEST END QLD 4810,House,4,2,2,498m² ,10 Oct 2023
+"380,000 ","139 Bundock Street,",BELGIAN GARDENS QLD 4810,House,2,2,2,603m² ,09 Oct 2023
+"340,000 ","972 Bruce Highway,",FARLEIGH QLD 4741,House,3,1,5,"1,765m² ",09 Oct 2023
+"615,000 ","406 Yakapari-Seaforth Road,",KUTTABUL QLD 4741,House,3,1,3,0,09 Oct 2023
+"1,710,000","6 Roper Court,",CASTLE HILL QLD 4810,House,5,4,2,602m² ,06 Oct 2023
+"650,000 ","41 Macrossan Street,",SOUTH TOWNSVILLE QLD 4810,House,5,3,3,"1,012m² ",06 Oct 2023
+"283,000 ","162 Boundary Street,",RAILWAY ESTATE QLD 4810,House,3,1,2,607m² ,03 Oct 2023
+"350,000 ","42 Henry Street,",WEST END QLD 4810,House,2,1,1,425m² ,03 Oct 2023
+"405,000 ","122 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,4,809m² ,02 Oct 2023
+"605,000","45 Primrose Street,",BELGIAN GARDENS QLD 4810,House,2,1,2,"1,012m² ",01 Oct 2023
+"850,000 ","23490 Peak Downs Highway,",ETON QLD 4741,House,5,2,5,0,28 Sep 2023
+"460,000 ","24 Murphy Street,",SEAFORTH QLD 4741,House,2,2,2,800m² ,28 Sep 2023
+"425,000","67 Primrose Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,615m² ,2023
+"510,000 ","84 Stagpole Street,",WEST END QLD 4810,House,4,1,2,"1,012m² ",2023
+"500,000 ","1 Macrossan Street,",SOUTH TOWNSVILLE QLD 4810,House,4,2,2,377m² ,19 Sep 2023
+"900,000 ","18 Grange Court,",CASTLE HILL QLD 4810,House,4,3,2,775m² ,18 Sep 2023
+"750,000 ","1 Primrose Street,",NORTH WARD QLD 4810,House,3,2,2,"1,115m² ",18 Sep 2023
+"1,250,000 ","350 Stanley Street,",NORTH WARD QLD 4810,House,4,2,3,"1,012m² ",15 Sep 2023
+"345,000 ","7 Clark Street,",SEAFORTH QLD 4741,House,2,1,−,800m² ,15 Sep 2023
+"400,000 ","55 Stagpole Street,",WEST END QLD 4810,House,3,1,−,"1,012m² ",15 Sep 2023
+"430,000 ","105 Boundary Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,741m² ,13 Sep 2023
+"560,000 ","10 Primrose Street,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",12 Sep 2023
+"745,000 ","239-247 Oakenden Sarina Road,",OAKENDEN QLD 4741,House,8,4,8,0,12 Sep 2023
+"195,000 ","3/28 Second Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,488m² ,12 Sep 2023
+"662,000 ","326 Cape Hillsborough Road,",BALL BAY QLD 4741,House,3,1,6,0,11 Sep 2023
+"565,000 ","12 Primrose Street,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",11 Sep 2023
+"350,000 ","20 Flowers Street,",RAILWAY ESTATE QLD 4810,House,3,1,2,878m² ,11 Sep 2023
+"690,000 ","11 Anderson Street,",RAILWAY ESTATE QLD 4810,House,4,2,2,"1,012m² ",11 Sep 2023
+"385,000 ","3/33 The Strand,",NORTH WARD QLD 4810,House,2,2,1,99m² ,10 Sep 2023
+"750,000 ","11 Grange Court,",CASTLE HILL QLD 4810,House,3,1,2,"1,116m² ",08 Sep 2023
+"560,000 ","18 Margaret Street,",WEST END QLD 4810,House,3,1,1,607m² ,08 Sep 2023
+"332,000 ","26 Kinchant Dam Road,",NORTH ETON QLD 4741,House,2,1,1,872m² ,07 Sep 2023
+"800,000 ","59 William Street,",WEST END QLD 4810,House,4,2,1,"1,012m² ",06 Sep 2023
+"215,000 ","4/105 Francis Street,",WEST END QLD 4810,House,2,1,1,112m² ,06 Sep 2023
+"590,000 ","148A Eyre Street,",NORTH WARD QLD 4810,House,2,2,2,511m² ,04 Sep 2023
+"1,700,000 ","18 Murray Street,",NORTH WARD QLD 4810,House,4,3,2,627m² ,2023
+"440,000 ","88 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,648m² ,04 Sep 2023
+"790,000","2/35 McKinley Street,",NORTH WARD QLD 4810,House,4,2,2,251m² ,03 Sep 2023
+"375,000 ","51 Doorey Street,",RAILWAY ESTATE QLD 4810,House,3,2,2,405m² ,2023
+"492,000 ","9 Helens Court,",HAMPDEN QLD 4741,House,4,2,5,0,01 Sep 2023
+"580,000 ","9 Humphrey Street,",WEST END QLD 4810,House,6,2,2,810m² ,01 Sep 2023
+"777,000 ","39 William Street,",WEST END QLD 4810,House,3,3,4,"1,012m² ",30 Aug 2023
+"650,000 ","390 Kinchant Dam Road,",KINCHANT DAM QLD 4741,House,3,1,6,"9,177m² ",2023
+"230,000 ","259 Boundary Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,583m² ,28 Aug 2023
+"625,000 ","3 Old Common Road,",BELGIAN GARDENS QLD 4810,House,4,2,7,"1,014m² ",25 Aug 2023
+"573,500 ","7 Garrick Street,",WEST END QLD 4810,House,3,2,1,607m² ,25 Aug 2023
+"640,000","11 Mount Ossa School Road,",MOUNT OSSA QLD 4741,House,3,2,6,0,24 Aug 2023
+"1,055,000 ","71 Rose Street,",NORTH WARD QLD 4810,House,3,2,2,"1,012m² ",22 Aug 2023
+"400,000 ","192 Boundary Street,",RAILWAY ESTATE QLD 4810,House,2,1,1,607m² ,21 Aug 2023
+"710,000 ","76 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,4,"1,055m² ",20 Aug 2023
+"400,000 ","4 Fifth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,"1,012m² ",17 Aug 2023
+"805,000","65 Potts Street,",BELGIAN GARDENS QLD 4810,House,3,2,2,"1,012m² ",16 Aug 2023
+"415,000 ","73 Robertson Street,",RAILWAY ESTATE QLD 4810,House,3,2,2,809m² ,16 Aug 2023
+"460,000 ","17 Springcliffe Drive,",SEAFORTH QLD 4741,House,3,1,4,800m² ,15 Aug 2023
+"535,000 ","30 Church Street,",WEST END QLD 4810,House,3,1,4,708m² ,15 Aug 2023
+"920,000 ","26 Gilbert Crescent,",CASTLE HILL QLD 4810,House,4,2,1,670m² ,14 Aug 2023
+"685,000","9 Mitchell Street,",NORTH WARD QLD 4810,House,3,2,1,996m² ,14 Aug 2023
+"365,000 ","10 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,2,405m² ,14 Aug 2023
+"390,000","73 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,2,539m² ,12 Aug 2023
+"550,000 ","20 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,2,607m² ,09 Aug 2023
+"525,000 ","104 Stagpole Street,",WEST END QLD 4810,House,4,1,2,"1,232m² ",08 Aug 2023
+"410,000 ","72 First Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,533m² ,07 Aug 2023
+"530,000 ","47 Seventh Street,",RAILWAY ESTATE QLD 4810,House,4,1,2,607m² ,07 Aug 2023
+"500,000","6 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,607m² ,07 Aug 2023
+"605,000 ","106 Colonial Drive,",CLAIRVIEW QLD 4741,House,2,1,2,"1,020m² ",04 Aug 2023
+"840,000 ","25 Queen Street,",NORTH WARD QLD 4810,House,4,2,2,524m² ,04 Aug 2023
+"220,000 ","15/48-54 Mitchell Street,",NORTH WARD QLD 4810,House,1,1,1,56m² ,02 Aug 2023
+"330,000 ","159 Boundary Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,455m² ,02 Aug 2023
+"1,250,000 ","5 Hampton Court,",CASTLE HILL QLD 4810,House,3,2,2,791m² ,01 Aug 2023
+"340,000 ","33 Henry Street,",WEST END QLD 4810,House,2,1,2,607m² ,01 Aug 2023
+"375,000 ","34 Townsville Street,",WEST END QLD 4810,House,3,1,2,"1,024m² ",01 Aug 2023
+"285,000 ","20 Martin Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,−,506m² ,31 Jul 2023
+"360,000 ","1/5 Xavier Court,",RAILWAY ESTATE QLD 4810,House,3,2,1,264m² ,28 Jul 2023
+"1,230,000 ","169 Wainai Road,",FARLEIGH QLD 4741,House,4,2,2,"9,364m² ",26 Jul 2023
+"447,000 ","13 Helens Court,",HAMPDEN QLD 4741,House,3,1,6,0,21 Jul 2023
+"710,000 ","13 Carrington Street,",WEST END QLD 4810,House,4,2,2,819m² ,21 Jul 2023
+"530,000 ","3 Gilbert Crescent,",CASTLE HILL QLD 4810,House,2,1,2,407m² ,17 Jul 2023
+"450,000 ","38 Brooks Street,",RAILWAY ESTATE QLD 4810,House,5,2,2,401m² ,15 Jul 2023
+"508,000 ","240 Oakenden Rd,",OAKENDEN QLD 4741,House,3,2,8,"2,226m² ",12 Jul 2023
+"390,000 ","9 Plant Street,",WEST END QLD 4810,Duplex,4,2,2,810m² ,12 Jul 2023
+"190,000 ","3/16 Ralston Street,",WEST END QLD 4810,House,2,1,1,80m² ,12 Jul 2023
+"880,000 ","148 Eyre Street,",NORTH WARD QLD 4810,House,3,3,2,501m² ,11 Jul 2023
+"348,000 ","18 Milkins Street,",BALL BAY QLD 4741,House,3,2,2,645m² ,05 Jul 2023
+"580,000 ","99 Sorensens Road,",KUTTABUL QLD 4741,House,3,2,3,0,05 Jul 2023
+"750,000 ","13 McClelland Street,",WEST END QLD 4810,House,3,2,2,810m² ,03 Jul 2023
+"455,000 ","20 Estate Street,",WEST END QLD 4810,House,3,2,1,405m² ,01 Jul 2023
+"850,000","53 The Esplanade,",PALLARENDA QLD 4810,House,3,1,4,756m² ,30 Jun 2023
+"620,000 ","4 Sixth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,7,3,4,"1,012m² ",29 Jun 2023
+"320,000 ","67 Kinchant Dam Road,",ETON QLD 4741,House,2,1,2,799m² ,26 Jun 2023
+"950,000 ","70 Wackett Street,",PALLARENDA QLD 4810,House,5,3,2,726m² ,20 Jun 2023
+"655,000 ","65 Primrose Street,",BELGIAN GARDENS QLD 4810,House,4,2,3,632m² ,15 Jun 2023
+"1,920,000 ","8 Yongala Court,",CASTLE HILL QLD 4810,House,4,3,3,995m² ,14 Jun 2023
+"490,000 ","93 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,3,809m² ,14 Jun 2023
+"450,000 ","111 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,3,809m² ,13 Jun 2023
+"450,000 ","69 Morey Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,506m² ,12 Jun 2023
+"460,000 ","96 Colonial Drive,",CLAIRVIEW QLD 4741,House,2,1,2,455m² ,06 Jun 2023
+"560,000","86 Todd Street,",RAILWAY ESTATE QLD 4810,House,3,3,2,809m² ,04 Jun 2023
+"452,500 ","55 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,7,2,1,262m² ,02 Jun 2023
+"1,215,000 ","28 Highview Close,",FARLEIGH QLD 4741,House,3,2,7,0,30 May 2023
+"400,000 ","3 Bundock Street,",NORTH WARD QLD 4810,House,3,1,2,"1,012m² ",30 May 2023
+"1,498,000 ","88 The Esplanade,",BELGIAN GARDENS QLD 4810,House,5,3,3,"1,012m² ",29 May 2023
+"650,000 ","88 Todd Street,",RAILWAY ESTATE QLD 4810,House,4,2,2,809m² ,29 May 2023
+"841,000","5 Woodlands Court,",CASTLE HILL QLD 4810,House,5,2,2,"1,021m² ",26 May 2023
+"452,000 ","305/72-74 The Strand,",NORTH WARD QLD 4810,House,2,2,2,140m² ,26 May 2023
+"385,000 ","9 McBride Street,",ETON QLD 4741,House,5,1,3,"1,012m² ",24 May 2023
+"470,000 ","479 Oakenden Sarina Road,",OAKENDEN QLD 4741,House,3,1,1,"2,932m² ",18 May 2023
+"400,500 ","1 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,−,810m² ,17 May 2023
+"400,000 ","32 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,486m² ,17 May 2023
+"442,000 ","70 Francis Street,",WEST END QLD 4810,House,3,2,1,313m² ,17 May 2023
+"200,000 ","16 Johnson Ave,",SEAFORTH QLD 4741,House,1,1,2,791m² ,16 May 2023
+"520,000 ","20 Hubert Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,"1,012m² ",16 May 2023
+"710,000 ","19 Dyer Street,",PALLARENDA QLD 4810,House,3,1,2,"1,402m² ",09 May 2023
+"475,500 ","125 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,2,2,2,809m² ,08 May 2023
+"730,000 ","7 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,4,3,2,711m² ,05 May 2023
+"563,250 ","61 Francis Street,",WEST END QLD 4810,House,4,2,3,"1,012m² ",05 May 2023
+"500,000 ","44 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,04 May 2023
+"450,000 ","48 Seventh Street,",RAILWAY ESTATE QLD 4810,House,3,1,2,602m² ,04 May 2023
+"620,000 ","16 Leigh Street,",WEST END QLD 4810,House,4,2,−,810m² ,03 May 2023
+"1,005,000 ","8 Cottesmore Crescent,",CASTLE HILL QLD 4810,House,3,2,2,740m² ,29 Apr 2023
+"370,000 ","55 Railway Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,572m² ,27 Apr 2023
+"450,000 ","8 Third St,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,25 Apr 2023
+"370,000 ","45 Griffith Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,2,506m² ,21 Apr 2023
+"298,000","1/79 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,371m² ,20 Apr 2023
+"555,000 ","2 Springcliffe Drive,",SEAFORTH QLD 4741,House,4,2,3,767m² ,18 Apr 2023
+"785,000 ","7 McKillop Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,809m² ,17 Apr 2023
+"2,400,000 ","37 Victoria Street,",NORTH WARD QLD 4810,House,6,4,5,"1,612m² ",14 Apr 2023
+"405,000 ","1/22 Stanton Terrace,",NORTH WARD QLD 4810,House,2,1,1,223m² ,14 Apr 2023
+"520,000","18 Seaward Crescent,",PALLARENDA QLD 4810,House,4,2,2,607m² ,14 Apr 2023
+"390,000 ","2114 Yakapari Seaforth Road,",SEAFORTH QLD 4741,House,3,1,3,"1,000m² ",14 Apr 2023
+"1,084,500 ","156 Jensens Road,",FARLEIGH QLD 4741,House,5,3,2,0,11 Apr 2023
+"238,000 ","1/32-34 Second Street,",RAILWAY ESTATE QLD 4810,House,2,1,1,91m² ,09 Apr 2023
+"342,000 ","1/66 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,4,400m² ,06 Apr 2023
+"430,000","50 Hooper Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,801m² ,05 Apr 2023
+"205,000 ","260 Boundary Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,488m² ,04 Apr 2023
+"465,000 ","2162 Yakapari Seaforth Road,",SEAFORTH QLD 4741,House,4,2,1,"1,000m² ",03 Apr 2023
+"317,500 ","66 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,405m² ,29 Mar 2023
+"255,000 ","10 Second Street,",RAILWAY ESTATE QLD 4810,House,0,0,0,"1,012m² ",28 Mar 2023
+"650,000 ","149 Eyre Street,",NORTH WARD QLD 4810,House,3,2,2,506m² ,27 Mar 2023
+"480,000 ","100A Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,2,603m² ,26 Mar 2023
+"965,000 ","25 Stanton Terrace,",NORTH WARD QLD 4810,House,6,3,2,"1,012m² ",25 Mar 2023
+"530,000 ","46 Bundock Street,",BELGIAN GARDENS QLD 4810,House,4,3,1,"1,129m² ",23 Mar 2023
+"615,000 ","399 Kinchant Dam Road,",KINCHANT DAM QLD 4741,House,3,1,4,0,23 Mar 2023
+"600,000 ","46 Primrose St,",BELGIAN GARDENS QLD 4810,House,3,1,3,"1,012m² ",22 Mar 2023
+"790,000 ","69 Rose Street,",NORTH WARD QLD 4810,House,2,1,1,"1,012m² ",20 Mar 2023
+"447,500 ","11/1-7 Gregory Street,",NORTH WARD QLD 4810,House,3,2,1,153m² ,17 Mar 2023
+"745,000 ","3 Second Avenue,",RAILWAY ESTATE QLD 4810,House,5,2,4,650m² ,16 Mar 2023
+"610,000 ","146 Jensens Road,",FARLEIGH QLD 4741,House,3,1,4,0,15 Mar 2023
+"595,000 ","300 Pleystowe School Road,",PLEYSTOWE QLD 4741,House,4,2,8,"7,284m² ",14 Mar 2023
+"457,000 ","12 Ernest St,",WEST END QLD 4810,House,3,1,1,506m² ,10 Mar 2023
+"365,000 ","57 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,809m² ,08 Mar 2023
+"615,000","399 Kinchant Dam Road,",KINCHANT DAM QLD 4741,House,3,1,4,0,06 Mar 2023
+"440,000","3 Bell Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,−,"1,012m² ",06 Mar 2023
+"340,000","60 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,2,405m² ,03 Mar 2023
+"470,000 ","44 Primrose Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,"1,012m² ",02 Mar 2023
+"1,405,000","40 Paxton Street,",NORTH WARD QLD 4810,House,4,3,3,"1,518m² ",01 Mar 2023
+"560,000","14 Sallows Street,",PALLARENDA QLD 4810,House,3,2,3,607m² ,01 Mar 2023
+"350,000 ","13 Fifteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,617m² ,01 Mar 2023
+"585,000 ","21 Pilchowski Street,",SEAFORTH QLD 4741,House,3,2,4,607m² ,01 Mar 2023
+"316,000 ","2 Lowther Street,",ETON QLD 4741,House,3,1,4,"2,294m² ",28 Feb 2023
+"320,000 ","3945 Mackay Eungella Rd,",GARGETT QLD 4741,House,3,1,1,"2,023m² ",21 Feb 2023
+"635,000","6 Sallows Street,",PALLARENDA QLD 4810,Semi-detached,5,2,−,607m² ,16 Feb 2023
+"590,000 ","13 First Avenue,",RAILWAY ESTATE QLD 4810,House,6,3,4,"1,012m² ",2023
+"545,000 ","2 William Street,",WEST END QLD 4810,House,3,1,2,"1,012m² ",14 Feb 2023
+"485,000 ","83 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,4,809m² ,2023
+"319,892 ","119 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,−,304m² ,10 Feb 2023
+"1,450,000 ","14 Kennedy Street,",NORTH WARD QLD 4810,House,6,3,2,"1,012m² ",08 Feb 2023
+"385,000 ","13 Townsville Street,",WEST END QLD 4810,House,3,1,1,405m² ,08 Feb 2023
+"350,000 ","32A Ralston Street,",WEST END QLD 4810,House,3,1,1,468m² ,08 Feb 2023
+"290,000 ","952 Marian Eton Road,",NORTH ETON QLD 4741,House,2,2,3,700m² ,06 Feb 2023
+"555,000 ","28 Green St,",WEST END QLD 4810,House,3,2,2,"1,012m² ",04 Feb 2023
+"508,000 ","48 Warburton Street,",CASTLE HILL QLD 4810,House,3,1,2,809m² ,01 Feb 2023
+"1,998,000 ","13 Clifton Street,",NORTH WARD QLD 4810,House,7,5,14,"1,214m² ",30 Jan 2023
+"605,000 ","16 Townsville Street,",WEST END QLD 4810,House,4,2,2,810m² ,27 Jan 2023
+"450,000 ","12 Garrick Street,",WEST END QLD 4810,House,3,1,3,607m² ,24 Jan 2023
+"841,000","5 Second Avenue,",RAILWAY ESTATE QLD 4810,House,6,2,6,"1,012m² ",23 Jan 2023
+"525,000 ","5 Beaufort Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,711m² ,21 Jan 2023
+"830,000 ","128 Mitchell Street,",NORTH WARD QLD 4810,House,3,2,3,604m² ,21 Jan 2023
+"420,000 ","5 Mackay Street,",ETON QLD 4741,House,3,2,4,"2,023m² ",13 Jan 2023
+"310,000 ","2158 Yakapari Seaforth Road,",SEAFORTH QLD 4741,House,3,1,3,"1,000m² ",13 Jan 2023
+"735,000 ","41 Zunkers Road,",HAMPDEN QLD 4741,House,6,3,9,0,12 Jan 2023
+"330,000 ","10/78 Eyre Street,",NORTH WARD QLD 4810,House,2,1,1,109m² ,10 Jan 2023
+"340,000 ","18 Flowers Street,",RAILWAY ESTATE QLD 4810,House,2,1,1,711m² ,06 Jan 2023
+"333,000 ","25 Murphy Street,",SEAFORTH QLD 4741,House,3,2,4,819m² ,2023
+"370,000 ","41 Stanton Street,",BELGIAN GARDENS QLD 4810,House,2,1,1,"1,012m² ",23 Dec 2022
+"330,000 ","18 Macrossan Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,−,766m² ,21 Dec 2022
+"1,000,000 ","22 Stanton Street,",BELGIAN GARDENS QLD 4810,House,6,2,3,809m² ,20 Dec 2022
+"525,000 ","2/6 Grange Court,",CASTLE HILL QLD 4810,House,3,2,2,496m² ,16 Dec 2022
+"385,000","17 First Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,4,"1,012m² ",16 Dec 2022
+"583,000 ","53 Cook Street,",NORTH WARD QLD 4810,House,3,1,2,450m² ,14 Dec 2022
+"270,000 ","2/10 Tuffley Street,",WEST END QLD 4810,House,2,1,3,411m² ,13 Dec 2022
+"650,000 ","27 Estate Street,",WEST END QLD 4810,House,3,1,1,810m² ,12 Dec 2022
+"570,000 ","6 Old Common Road,",BELGIAN GARDENS QLD 4810,House,3,1,1,617m² ,09 Dec 2022
+"390,000 ","65 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,09 Dec 2022
+"339,000 ","52 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,1,809m² ,09 Dec 2022
+"515,000 ","60 William Street,",WEST END QLD 4810,House,3,2,4,"1,012m² ",09 Dec 2022
+"780,000 ","7 Fifth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,3,3,6,"1,012m² ",08 Dec 2022
+"906,500 ","38 Rose Street,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",07 Dec 2022
+"489,000 ","15A Seventh Street,",RAILWAY ESTATE QLD 4810,House,4,2,2,405m² ,06 Dec 2022
+"400,000 ","33 Hugh Street,",WEST END QLD 4810,House,4,1,2,"1,012m² ",06 Dec 2022
+"188,000 ","1/31 Queens Road,",RAILWAY ESTATE QLD 4810,House,2,1,1,111m² ,05 Dec 2022
+"395,000 ","809/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,House,2,2,1,112m² ,05 Dec 2022
+"555,000 ","36 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,3,"1,012m² ",2022
+"488,000 ","1 Hugh Street,",WEST END QLD 4810,House,3,2,4,798m² ,05 Dec 2022
+"690,000 ","139 Harold Street,",WEST END QLD 4810,House,4,2,2,585m² ,04 Dec 2022
+"347,000","57 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,450m² ,29 Nov 2022
+"670,000 ","16 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,4,1,4,810m² ,28 Nov 2022
+"627,500 ","41 Martinez Avenue,",WEST END QLD 4810,House,5,2,2,"1,069m² ",28 Nov 2022
+"560,000 ","10 Aviland Drive,",SEAFORTH QLD 4741,House,4,2,5,903m² ,27 Nov 2022
+"635,000 ","73 Stagpole Street,",WEST END QLD 4810,House,4,2,2,"1,012m² ",27 Nov 2022
+"154,000","4/7 Seventh Street,",RAILWAY ESTATE QLD 4810,House,2,1,1,81m² ,25 Nov 2022
+"390,000 ","4 John Temple Drive,",ETON QLD 4741,House,3,2,2,0,24 Nov 2022
+"154,000","3/7 Seventh Street,",RAILWAY ESTATE QLD 4810,House,2,1,−,81m² ,24 Nov 2022
+"290,000","34 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,1,810m² ,24 Nov 2022
+"325,000 ","18 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,2,304m² ,24 Nov 2022
+"355,000 ","79 Todd Street,",RAILWAY ESTATE QLD 4810,House,3,1,3,809m² ,23 Nov 2022
+"750,000 ","18 Eden Street,",BELGIAN GARDENS QLD 4810,House,3,2,1,481m² ,21 Nov 2022
+"1,225,000 ","7 Toorak Place,",CASTLE HILL QLD 4810,House,4,2,2,625m² ,19 Nov 2022
+"556,750 ","38 Doorey Street,",RAILWAY ESTATE QLD 4810,House,5,3,2,350m² ,18 Nov 2022
+"775,000 ","22 Kuttabul Mount Jukes Road,,",KUTTABUL QLD 4741,House,4,2,5,0,15 Nov 2022
+"425,000 ","22 North Street,",WEST END QLD 4810,House,3,2,2,496m² ,13 Nov 2022
+"490,000 ","58 Hooper Street,",BELGIAN GARDENS QLD 4810,House,4,1,4,809m² ,10 Nov 2022
+"851,000 ","466 Kinchant Dam Road,",KINCHANT DAM QLD 4741,House,4,2,5,"9,002m² ",07 Nov 2022
+"430,000 ","158 Bundock Street,",WEST END QLD 4810,House,2,1,2,784m² ,07 Nov 2022
+"420,000 ","52 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,2,403m² ,05 Nov 2022
+"670,000 ","11 Esk Street,",ROWES BAY QLD 4810,House,3,2,3,809m² ,05 Nov 2022
+"385,000 ","27 Hubert Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,986m² ,02 Nov 2022
+"400,000 ","2 Mill Street,",NORTH ETON QLD 4741,House,3,2,7,"1,882m² ",01 Nov 2022
+"785,000 ","12 Rose Street,",NORTH WARD QLD 4810,House,4,2,2,693m² ,01 Nov 2022
+"540,000 ","102 Pyms Road,",HAMPDEN QLD 4741,House,3,1,2,"11,331m² ",31 Oct 2022
+"315,000 ","62 Robertson Street,",RAILWAY ESTATE QLD 4810,House,2,1,−,809m² ,31 Oct 2022
+"441,000 ","8a Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,1,405m² ,27 Oct 2022
+"835,000 ","9 Stanton Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,"1,012m² ",2022
+"885,000 ","80 Eyre Street,",NORTH WARD QLD 4810,House,3,1,2,"1,012m² ",24 Oct 2022
+"535,000 ","8 Wackett Street,",PALLARENDA QLD 4810,House,3,1,2,708m² ,24 Oct 2022
+"479,000 ","19 Leigh Street,",WEST END QLD 4810,House,3,1,4,716m² ,24 Oct 2022
+"289,000 ","8 Lowther Street,",ETON QLD 4741,House,3,1,2,"1,047m² ",21 Oct 2022
+"742,500 ","243 Wainai Road,",FARLEIGH QLD 4741,House,4,2,2,0,21 Oct 2022
+"350,000 ","7 Edwards Street,",WEST END QLD 4810,House,3,1,4,405m² ,21 Oct 2022
+"265,000 ","8 Barrier Street,",ETON QLD 4741,House,2,1,3,"1,012m² ",20 Oct 2022
+"385,000 ","2B Bell Street,",SOUTH TOWNSVILLE QLD 4810,House,7,2,−,"1,012m² ",20 Oct 2022
+"360,500 ","22 Buoro Street,",BALL BAY QLD 4741,House,3,1,2,607m² ,18 Oct 2022
+"900,000 ","3 Short Street,",BELGIAN GARDENS QLD 4810,House,5,3,4,"1,012m² ",2022
+"900,000 ","104A The Strand,",NORTH WARD QLD 4810,House,4,2,3,708m² ,18 Oct 2022
+"480,000 ","89 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,18 Oct 2022
+"465,000 ","35 First Avenue,",RAILWAY ESTATE QLD 4810,House,4,3,4,766m² ,17 Oct 2022
+"291,000 ","73 Todd Street,",RAILWAY ESTATE QLD 4810,House,2,1,2,405m² ,13 Oct 2022
+"425,000 ","29 Henry Street,",WEST END QLD 4810,Semi-detached,4,2,2,810m² ,11 Oct 2022
+"360,000 ","25 Buoro Street,",BALL BAY QLD 4741,House,2,1,−,607m² ,10 Oct 2022
+"170,000 ","4/6 Crauford Street,",WEST END QLD 4810,House,2,1,1,90m² ,07 Oct 2022
+"355,000 ","15 Estate St,",WEST END QLD 4810,House,3,1,1,405m² ,07 Oct 2022
+"295,000 ","303/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,House,2,2,2,90m² ,06 Oct 2022
+"665,000 ","4 Buckby Street,",PALLARENDA QLD 4810,House,3,2,2,809m² ,06 Oct 2022
+"620,000 ","23 Edwards Street,",WEST END QLD 4810,House,3,2,4,810m² ,06 Oct 2022
+"691,500 ","64 Bundock Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,619m² ,04 Oct 2022
+"400,000 ","2 Plant Street,",WEST END QLD 4810,House,3,2,3,350m² ,03 Oct 2022
+"600,000 ","52 Warburton Street,",CASTLE HILL QLD 4810,House,3,2,2,809m² ,30 Sep 2022
+"915,000","33 McKinley Street,",NORTH WARD QLD 4810,House,3,2,6,507m² ,30 Sep 2022
+"725,000 ","36 rose Street,",NORTH WARD QLD 4810,House,3,2,4,603m² ,26 Sep 2022
+"1,034,500 ","344 Stanley Street,",NORTH WARD QLD 4810,House,4,2,2,"1,012m² ",26 Sep 2022
+"377,500 ","291 Boundary Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,793m² ,26 Sep 2022
+"306,000 ","28/12-18 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,1,140m² ,26 Sep 2022
+"260,000 ","32 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,449m² ,19 Sep 2022
+"385,000 ","14 Sidney Street,",WEST END QLD 4810,House,3,1,1,506m² ,19 Sep 2022
+"465,000 ","93 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,2,809m² ,13 Sep 2022
+"415,000 ","170 Boundary Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,607m² ,13 Sep 2022
+"345,000","26 Queens Road,",RAILWAY ESTATE QLD 4810,House,4,1,2,769m² ,13 Sep 2022
+"680,000","21 Stanton Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,"1,012m² ",12 Sep 2022
+"2,200,000 ","31 Stanton Terrace,",NORTH WARD QLD 4810,House,5,4,5,"1,012m² ",12 Sep 2022
+"390,000 ","18 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,4,1,2,405m² ,12 Sep 2022
+"965,000 ","200 Denham Street,",NORTH WARD QLD 4810,House,3,3,2,506m² ,10 Sep 2022
+"415,000","383 Cape Hillsborough Road,",BALL BAY QLD 4741,House,3,1,2,"6,070m² ",09 Sep 2022
+"1,760,000 ","347 Stanley Street,",NORTH WARD QLD 4810,House,5,3,3,"1,110m² ",09 Sep 2022
+"417,000 ","63 Robertson Street,",RAILWAY ESTATE QLD 4810,House,4,1,1,809m² ,09 Sep 2022
+"540,000 ","23 Margaret Street,",WEST END QLD 4810,House,3,1,3,875m² ,09 Sep 2022
+"670,000 ","238 Cape Hillsborough Road,",BALL BAY QLD 4741,House,2,1,1,0,07 Sep 2022
+"362,000 ","10 LEIGH STREET,",WEST END QLD 4810,House,3,2,1,559m² ,07 Sep 2022
+"450,000 ","9 Seaward Crescent,",PALLARENDA QLD 4810,House,3,1,1,607m² ,06 Sep 2022
+"485,000 ","1A Leigh Street,",WEST END QLD 4810,House,3,2,−,"1,012m² ",02 Sep 2022
+"200,000","10 Echlin Street,",WEST END QLD 4810,House,2,1,1,405m² ,01 Sep 2022
+"449,000 ","39 Nix Street,",WEST END QLD 4810,House,3,2,2,810m² ,01 Sep 2022
+"465,000 ","61 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,2022
+"365,000 ","4 Barrier Street,",ETON QLD 4741,House,4,2,5,"1,012m² ",29 Aug 2022
+"491,000 ","14 Shaw Street,",WEST END QLD 4810,House,3,2,2,659m² ,29 Aug 2022
+"750,000 ","145 Royston Park Drive,",KUTTABUL QLD 4741,House,3,1,10,0,26 Aug 2022
+"650,000 ","766 Mackay-Eungella Road,",PLEYSTOWE QLD 4741,House,3,2,5,"2,142m² ",26 Aug 2022
+"475,000","3 Robinson Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,508m² ,25 Aug 2022
+"590,000","264 Owens Creek Loop Road,",GARGETT QLD 4741,House,4,2,10,0,22 Aug 2022
+"530,000 ","48 Second Street,",RAILWAY ESTATE QLD 4810,House,3,2,2,"1,012m² ",22 Aug 2022
+"350,000 ","2 Barrier Street,",ETON QLD 4741,House,3,1,8,"1,315m² ",18 Aug 2022
+"1,830,000 ","105 Eyre Street,",NORTH WARD QLD 4810,House,7,4,4,"1,012m² ",18 Aug 2022
+"400,000","10 Stagpole Street,",WEST END QLD 4810,House,2,1,2,"1,012m² ",18 Aug 2022
+"465,000 ","1 Harold Street,",WEST END QLD 4810,House,3,2,2,506m² ,18 Aug 2022
+"326,000 ","6 Plant Street,",WEST END QLD 4810,House,3,1,1,405m² ,17 Aug 2022
+"200,000 ","302/167-173 Bundock Street,",BELGIAN GARDENS QLD 4810,House,1,1,1,64m² ,16 Aug 2022
+"325,000 ","16 Railway Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,1,390m² ,16 Aug 2022
+"558,000 ","43 William Street,",WEST END QLD 4810,House,4,2,2,"1,012m² ",16 Aug 2022
+"920,000 ","148 Mitchell Street,",NORTH WARD QLD 4810,House,5,2,3,"1,012m² ",15 Aug 2022
+"550,000 ","29 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,2,"1,012m² ",15 Aug 2022
+"448,000 ","10 Old Common Road,",BELGIAN GARDENS QLD 4810,House,3,1,1,878m² ,12 Aug 2022
+"650,000","15 Chubb Street,",BELGIAN GARDENS QLD 4810,House,3,2,1,"1,004m² ",11 Aug 2022
+"540,000 ","10 Stuart Street,",NORTH WARD QLD 4810,House,3,1,1,506m² ,11 Aug 2022
+"370,000 ","85 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,3,809m² ,10 Aug 2022
+"890,000 ","24 Anna Court,",OAKENDEN QLD 4741,House,5,2,8,"20,234m² ",08 Aug 2022
+"215,000 ","79 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,−,304m² ,08 Aug 2022
+"420,000 ","7 Henry Street,",WEST END QLD 4810,House,3,1,−,860m² ,08 Aug 2022
+"605,000 ","56 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,−,674m² ,07 Aug 2022
+"450,000 ","1123 Bruce Highway,",FARLEIGH QLD 4741,House,3,2,3,801m² ,05 Aug 2022
+"580,000 ","6 Morrell Street,",PALLARENDA QLD 4810,House,4,2,3,708m² ,04 Aug 2022
+"900,000 ","47 The Esplanade,",PALLARENDA QLD 4810,House,6,3,2,708m² ,2022
+"380,000","39 Evans Avenue,",SEAFORTH QLD 4741,House,3,1,2,663m² ,02 Aug 2022
+"567,500 ","382 Cape Hillsborough Road,",BALL BAY QLD 4741,House,3,2,7,0,01 Aug 2022
+"550,000 ","56 McIlwraith Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,−,519m² ,01 Aug 2022
+"415,000 ","50 Henry Street,",WEST END QLD 4810,House,2,1,1,401m² ,01 Aug 2022
+"520,000 ","179 Harold Street,",WEST END QLD 4810,House,3,1,2,875m² ,01 Aug 2022
+"491,000 ","4 Yates Street,",RAILWAY ESTATE QLD 4810,House,3,1,5,809m² ,31 Jul 2022
+"290,000 ","1/5A CHURCH STREET,",WEST END QLD 4810,House,3,2,1,217m² ,29 Jul 2022
+"790,000 ","122 Mitchell Street,",NORTH WARD QLD 4810,House,3,2,4,506m² ,28 Jul 2022
+"325,000 ","96 Livingstone Street,",WEST END QLD 4810,House,2,1,−,462m² ,28 Jul 2022
+"325,000 ","3/15 Cleveland Terrace,",NORTH WARD QLD 4810,House,2,2,1,71m² ,26 Jul 2022
+"470,000 ","155 Harold Street,",WEST END QLD 4810,House,3,2,2,"1,012m² ",25 Jul 2022
+"455,000 ","32 Ralston Street,",WEST END QLD 4810,House,4,2,2,546m² ,22 Jul 2022
+"310,000 ","10 Ernest Street,",WEST END QLD 4810,House,3,1,1,506m² ,21 Jul 2022
+"323,000 ","5 Ninth Street,",RAILWAY ESTATE QLD 4810,House,2,1,1,809m² ,18 Jul 2022
+"310,000","4 Second Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,1,627m² ,16 Jul 2022
+"400,000 ","44 Murphy Street,",SEAFORTH QLD 4741,House,2,1,5,800m² ,15 Jul 2022
+"299,000 ","40 Third Street,",RAILWAY ESTATE QLD 4810,House,2,1,1,943m² ,14 Jul 2022
+"165,000 ","3/105 Livingstone Street,",WEST END QLD 4810,House,2,1,1,87m² ,14 Jul 2022
+"660,000","298 Stanley Street,",NORTH WARD QLD 4810,House,4,3,2,449m² ,12 Jul 2022
+"430,000 ","69 Morey Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,506m² ,12 Jul 2022
+"435,000 ","78B Stagpole Street,",WEST END QLD 4810,House,3,1,1,"1,012m² ",12 Jul 2022
+"645,000","150 Kippen Drive,",BALL BAY QLD 4741,House,4,2,6,"7,689m² ",
+"510,000","1 Buoro Street,",BALL BAY QLD 4741,House,3,1,2,728m² ,11 Jul 2022
+"450,000 ","151 Kippen Drive,",BALL BAY QLD 4741,House,3,1,7,"5,372m² ",11 Jul 2022
+"925,000 ","102A The Strand,",NORTH WARD QLD 4810,House,3,2,2,708m² ,11 Jul 2022
+"355,000 ","44 Seventh St,",RAILWAY ESTATE QLD 4810,House,3,1,1,602m² ,11 Jul 2022
+"245,000 ","32 Montgomery Street,",WEST END QLD 4810,House,3,1,−,989m² ,11 Jul 2022
+"275,000 ","9 Echlin St,",WEST END QLD 4810,House,3,1,2,949m² ,08 Jul 2022
+"360,000 ","8 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,525m² ,06 Jul 2022
+"642,500 ","1/72a Cook Street,",NORTH WARD QLD 4810,House,3,2,1,485m² ,04 Jul 2022
+"590,000 ","100 Martinez Ave,",WEST END QLD 4810,House,4,2,2,"1,848m² ",29 Jun 2022
+"300,000","7 Musgrave Street,",WEST END QLD 4810,House,3,1,−,405m² ,28 Jun 2022
+"395,000 ","17 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,405m² ,27 Jun 2022
+"385,000","20 Ball St,",HAZLEDEAN QLD 4741,House,2,1,6,"8,095m² ",24 Jun 2022
+"578,000 ","26 Parramatta Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,675m² ,23 Jun 2022
+"340,000","66 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,405m² ,19 Jun 2022
+"361,500","60 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,−,506m² ,19 Jun 2022
+"470,000","40 Macrossan Street,",SOUTH TOWNSVILLE QLD 4810,House,6,3,3,607m² ,16 Jun 2022
+"4,500,000 ","48 Victoria Street,",NORTH WARD QLD 4810,House,6,5,4,"1,530m² ",15 Jun 2022
+"422,000 ","15 Taylor Street,",BELGIAN GARDENS QLD 4810,House,5,2,2,506m² ,14 Jun 2022
+"315,000 ","13 Murphy Street,",SEAFORTH QLD 4741,House,3,1,4,800m² ,14 Jun 2022
+"430,000 ","3 Margaret Street,",WEST END QLD 4810,House,3,1,1,607m² ,14 Jun 2022
+"480,000 ","48 Ralston Street,",WEST END QLD 4810,House,3,2,2,405m² ,12 Jun 2022
+"510,000","148 Eyre Street,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",11 Jun 2022
+"500,000 ","28 Bell Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,3,"1,012m² ",11 Jun 2022
+"1,470,000","2 Orana Court,",CASTLE HILL QLD 4810,House,4,3,2,637m² ,
+"865,000 ","45 Gilbert Crescent,",CASTLE HILL QLD 4810,House,3,2,2,647m² ,09 Jun 2022
+"1,100,000 ","77 Eyre Street,",NORTH WARD QLD 4810,House,6,4,1,506m² ,07 Jun 2022
+"565,000 ","61 First Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,"1,308m² ",2022
+"965,000 ","78 Primrose Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,"1,021m² ",03 Jun 2022
+"375,000 ","8B Fourth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,2,1,2,536m² ,03 Jun 2022
+"725,000 ","31A Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,4,2,2,546m² ,02 Jun 2022
+"416,000","50 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,2,2,1,778m² ,01 Jun 2022
+"350,000 ","68 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,3,809m² ,31 May 2022
+"650,000 ","19A Margaret Street,",WEST END QLD 4810,House,4,2,2,664m² ,30 May 2022
+"385,000 ","15a Estate Street,",WEST END QLD 4810,House,3,1,2,405m² ,30 May 2022
+"651,500 ","11 Anderson Street,",RAILWAY ESTATE QLD 4810,House,4,2,2,"1,012m² ",27 May 2022
+"815,000 ","165 Eyre St,",NORTH WARD QLD 4810,House,4,2,1,"1,012m² ",25 May 2022
+"880,000 ","25 Gilbert Crescent,",CASTLE HILL QLD 4810,House,4,2,3,599m² ,23 May 2022
+"386,000 ","69 Seventh Street,",RAILWAY ESTATE QLD 4810,House,3,1,2,607m² ,20 May 2022
+"375,000 ","144 Francis Street,",WEST END QLD 4810,House,2,1,1,592m² ,16 May 2022
+"615,000 ","939 Marian Eton Road,",NORTH ETON QLD 4741,House,4,2,10,"3,022m² ",13 May 2022
+"550,000 ","34 Cook Street,",NORTH WARD QLD 4810,House,3,2,2,427m² ,12 May 2022
+"515,000 ","16 Baxter Street,",WEST END QLD 4810,House,3,1,1,607m² ,11 May 2022
+"1,030,000 ","23 Potts Street,",BELGIAN GARDENS QLD 4810,House,6,4,3,580m² ,0 May 2022
+"474,000 ","47 Wackett Street,",PALLARENDA QLD 4810,House,3,1,2,701m² ,10 May 2022
+"495,000","78 Livingstone Street,",WEST END QLD 4810,House,4,2,3,409m² ,
+"485,000","12 Aviland Drive,",SEAFORTH QLD 4741,House,4,2,3,874m² ,06 May 2022
+"555,000 ","76 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,4,809m² ,2022
+"1,150,000 ","3 Cottesmore Crescent,",CASTLE HILL QLD 4810,House,4,3,2,913m² ,02 May 2022
+"350,000","155 Harold Street,",WEST END QLD 4810,House,2,1,2,"1,012m² ",02 May 2022
+"660,000","157 Francis Street,",WEST END QLD 4810,House,4,2,2,610m² ,30 Apr 2022
+"922,733 ","105 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,3,2,2,804m² ,28 Apr 2022
+"240,000 ","3/135 Eyre Street,",NORTH WARD QLD 4810,House,2,1,1,81m² ,28 Apr 2022
+"550,000 ","68 Stagpole Street,",WEST END QLD 4810,House,3,2,2,"1,012m² ",28 Apr 2022
+"750,000","84 Poinciana Avenue,",SEAFORTH QLD 4741,House,3,2,2,"2,023m² ",27 Apr 2022
+"1,350,000","34 Balmoral Drive,",CASTLE HILL QLD 4810,House,4,3,3,863m² ,24 Apr 2022
+"455,000 ","69 Bell Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,415m² ,22 Apr 2022
+"350,000 ","5 Lowther Street,",ETON QLD 4741,House,3,1,6,"1,012m² ",21 Apr 2022
+"1,920,000","52 Palm Street,",ROWES BAY QLD 4810,House,6,3,2,805m² ,21 Apr 2022
+"1,525,000 ","7 Grange Court,",CASTLE HILL QLD 4810,House,9,5,2,638m² ,20 Apr 2022
+"577,000 ","77 Todd Street,",RAILWAY ESTATE QLD 4810,House,4,2,3,809m² ,19 Apr 2022
+"340,000 ","7 Maryvale Street,",WEST END QLD 4810,House,3,1,−,253m² ,19 Apr 2022
+"325,000 ","35 Sixth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,501m² ,14 Apr 2022
+"201,000 ","17 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,House,1,1,−,513m² ,12 Apr 2022
+"275,000 ","19 Joe Johnson Street,",SEAFORTH QLD 4741,House,2,1,2,808m² ,11 Apr 2022
+"695,000 ","55 Bell Street,",SOUTH TOWNSVILLE QLD 4810,House,6,2,4,"1,012m² ",11 Apr 2022
+"420,000 ","106 Bundock Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,"1,012m² ",10 Apr 2022
+"800,000 ","51 Gilbert Crescent,",CASTLE HILL QLD 4810,House,4,3,2,954m² ,06 Apr 2022
+"1,218,000 ","8 Balmoral Place,",CASTLE HILL QLD 4810,House,4,2,5,"1,028m² ",06 Apr 2022
+"239,000 ","204/2 Dibbs Street,",SOUTH TOWNSVILLE QLD 4810,House,1,1,1,"3,614m² ",04 Apr 2022
+"215,000","7 Henry Street,",WEST END QLD 4810,House,3,1,1,809m² ,4 Apr 2022
+"412,000 ","15 First Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,"1,012m² ",31 Mar 2022
+"475,000 ","425 Pinnacle-Septimus Road,",PINNACLE QLD 4741,House,3,1,2,0,29 Mar 2022
+"390,000 ","6a Doorey Street,",RAILWAY ESTATE QLD 4810,House,3,2,1,402m² ,29 Mar 2022
+"440,000 ","21A Leigh Street,",WEST END QLD 4810,House,3,1,1,759m² ,28 Mar 2022
+"1,000,000 ","32 Poinciana Avenue,",SEAFORTH QLD 4741,House,3,3,3,607m² ,25 Mar 2022
+"450,000 ","36 Stagpole Street,",WEST END QLD 4810,House,3,1,1,"1,012m² ",25 Mar 2022
+"1,300,000 ","38 Saint James Drive,",BELGIAN GARDENS QLD 4810,House,4,3,5,739m² ,24 Mar 2022
+"175,000 ","4/30 Landsborough Street,",NORTH WARD QLD 4810,House,2,1,1,70m² ,23 Mar 2022
+"545,000 ","3 Dyer Street,",PALLARENDA QLD 4810,House,3,1,4,708m² ,22 Mar 2022
+"468,000 ","31 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,810m² ,22 Mar 2022
+"430,000 ","4 Robinson Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,632m² ,21 Mar 2022
+"442,000 ","18 Queens Road,",RAILWAY ESTATE QLD 4810,House,4,2,2,"1,002m² ",21 Mar 2022
+"520,000 ","14 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,4,607m² ,19 Mar 2022
+"399,000 ","18 Fifth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,4,2,1,"1,002m² ",18 Mar 2022
+"435,000 ","38 Wackett Street,",PALLARENDA QLD 4810,House,3,2,2,708m² ,17 Mar 2022
+"345,000 ","91 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,2,760m² ,16 Mar 2022
+"750,000 ","15 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,4,2,2,713m² ,16 Mar 2022
+"620,000 ","3 James Street,",WEST END QLD 4810,House,4,1,1,"1,012m² ",16 Mar 2022
+"330,000 ","7 Humphrey Street,",WEST END QLD 4810,House,2,2,1,405m² ,15 Mar 2022
+"260,000 ","3a Barron Street,",WEST END QLD 4810,House,2,1,1,443m² ,15 Mar 2022
+"355,000 ","32 Garrick Street,",WEST END QLD 4810,House,2,2,1,506m² ,15 Mar 2022
+"389,000 ","73 Robertson Street,",RAILWAY ESTATE QLD 4810,House,3,2,1,809m² ,14 Mar 2022
+"270,000 ","5/78 Eyre Street,",NORTH WARD QLD 4810,House,2,1,1,109m² ,11 Mar 2022
+"1,770,000 ","2 Panorama Court,",NORTH WARD QLD 4810,House,4,3,2,418m² ,11 Mar 2022
+"315,000 ","20 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,1,405m² ,09 Mar 2022
+"596,000","15 Seaward Crescent,",PALLARENDA QLD 4810,House,3,2,2,607m² ,08 Mar 2022
+"400,000 ","55C Railway Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,3,572m² ,08 Mar 2022
+"319,000 ","19/38 Morehead Street,",SOUTH TOWNSVILLE QLD 4810,House,2,2,1,119m² ,07 Mar 2022
+"450,000 ","13 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,713m² ,07 Mar 2022
+"285,000 ","57 NINTH AVENUE,",RAILWAY ESTATE QLD 4810,House,2,2,2,895m² ,06 Mar 2022
+"735,000 ","1 Primrose Street,",NORTH WARD QLD 4810,House,4,2,5,"1,115m² ",03 Mar 2022
+"460,000 ","21 Seaward Crescent,",PALLARENDA QLD 4810,House,3,1,7,607m² ,02 Mar 2022
+"340,000","27 Evans Avenue,",SEAFORTH QLD 4741,House,3,1,4,792m² ,
+"349,000 ","29 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,2,607m² ,02 Mar 2022
+"560,000 ","25 Leigh Street,",WEST END QLD 4810,House,3,3,2,506m² ,01 Mar 2022
+"500,000 ","3 Chubb Street,",BELGIAN GARDENS QLD 4810,House,3,1,3,"1,012m² ",28 Feb 2022
+"1,050,000 ","1 Eden Street,",BELGIAN GARDENS QLD 4810,House,6,4,2,801m² ,5 Feb 2022
+"395,000 ","75 Todd Street,",RAILWAY ESTATE QLD 4810,House,3,1,2,801m² ,25 Feb 2022
+"500,000","29 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,4,810m² ,25 Feb 2022
+"400,000 ","54 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,6,6,2,"1,012m² ",22 Feb 2022
+"478,000 ","8 Humphrey Street,",WEST END QLD 4810,House,4,2,2,506m² ,21 Feb 2022
+"239,000 ","5 Colonial Drive,",CLAIRVIEW QLD 4741,House,2,1,1,405m² ,18 Feb 2022
+"177,500 ","2/15 Gregory Street,",NORTH WARD QLD 4810,House,2,1,1,74m² ,18 Feb 2022
+"1,925,000 ","8 Panorama Court,",NORTH WARD QLD 4810,House,4,3,2,644m² ,17 Feb 2022
+"706,000 ","60 Robertson Street,",RAILWAY ESTATE QLD 4810,House,4,3,5,809m² ,17 Feb 2022
+"830,000 ","23 First Avenue,",RAILWAY ESTATE QLD 4810,House,4,3,5,"1,012m² ",17 Feb 2022
+"1,150,000 ","20 Palm Street,",ROWES BAY QLD 4810,House,3,2,2,809m² ,17 Feb 2022
+"440,000 ","21 Garrick Street,",WEST END QLD 4810,House,2,1,1,526m² ,17 Feb 2022
+"225,000 ","34 Brooks Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,365m² ,16 Feb 2022
+"340,000 ","18 Edwards Street,",WEST END QLD 4810,House,2,1,1,601m² ,16 Feb 2022
+"174,000 ","6/317 Stanley Street West,",NORTH WARD QLD 4810,House,1,1,1,82m² ,14 Feb 2022
+"210,000 ","40 Seventh Street,",RAILWAY ESTATE QLD 4810,House,2,1,2,759m² ,14 Feb 2022
+"410,000 ","6 JOHNSON AVE,",SEAFORTH QLD 4741,House,3,3,2,800m² ,14 Feb 2022
+"200,000 ","35/16 Old Common Rd,",BELGIAN GARDENS QLD 4810,House,2,1,1,106m² ,11 Feb 2022
+"1,250,000 ","56 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,4,1,4,"1,052m² ",11 Feb 2022
+"501,000 ","47 Seventh Street,",RAILWAY ESTATE QLD 4810,House,4,1,2,607m² ,2022
+"285,000 ","1/14 Brooks Street,",RAILWAY ESTATE QLD 4810,House,4,1,2,503m² ,11 Feb 2022
+"620,000 ","3454 Mirani-Mount Ossa Road,",MOUNT OSSA QLD 4741,House,4,2,2,0,09 Feb 2022
+"1,155,000 ","361 Stanley Street,",NORTH WARD QLD 4810,House,5,2,2,"1,012m² ",07 Feb 2022
+"586,000 ","56 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,5,809m² ,07 Feb 2022
+"430,000 ","7 Allen Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,506m² ,05 Feb 2022
+"347,000",,WEST END QLD 4810,Duplex,5,3,−,600m² ,04 Feb 2022
+"382,000","34 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,−,342m² ,03 Feb 2022
+"382,000","34 Perkins Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,−,342m² ,03 Feb 2022
+"299,000","6 Church Street,",WEST END QLD 4810,House,2,1,−,725m² ,03 Feb 2022
+"970,000 ","13 Taylor Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,"1,012m² ",02 Feb 2022
+"335,000 ","1 Humphrey Street,",WEST END QLD 4810,House,3,1,2,607m² ,02 Feb 2022
+"540,000 ","10 Mary St,",WEST END QLD 4810,House,4,2,12,"1,214m² ",02 Feb 2022
+"388,000 ","140 BUNDOCK STREET,",BELGIAN GARDENS QLD 4810,House,3,1,2,964m² ,31 Jan 2022
+"1,100,000 ","3 Burke Street,",NORTH WARD QLD 4810,House,4,2,4,809m² ,31 Jan 2022
+"445,000 ","27 Seaward Crescent,",PALLARENDA QLD 4810,House,4,2,4,607m² ,31 Jan 2022
+"420,000 ","34a Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,2,486m² ,31 Jan 2022
+"342,500 ","33 Evans Avenue,",SEAFORTH QLD 4741,House,3,2,4,660m² ,30 Jan 2022
+"230,000 ","9 Ford Court,",SEAFORTH QLD 4741,House,− 0,1,8,"1,511m² ",2022
+"298,000","22 Railway Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,405m² ,29 Jan 2022
+"1,300,000","21 Hooper Street,",BELGIAN GARDENS QLD 4810,House,5,3,4,809m² ,28 Jan 2022
+"1,450,000","3 Yongala Court,",CASTLE HILL QLD 4810,House,4,3,3,931m² ,28 Jan 2022
+"1,340,000 ","4 Kensington Court,",CASTLE HILL QLD 4810,House,4,3,2,901m² ,25 Jan 2022
+"1,470,000 ","43 Victoria Street,",NORTH WARD QLD 4810,House,6,3,4,630m² ,25 Jan 2022
+"510,000 ","1 Second Street,",RAILWAY ESTATE QLD 4810,House,3,2,4,810m² ,25 Jan 2022
+"800,000","55 Rose Street,",NORTH WARD QLD 4810,House,4,3,3,"1,012m² ",24 Jan 2022
+"345,000 ","185 Bundock Street,",WEST END QLD 4810,House,3,1,2,"1,012m² ",24 Jan 2022
+"460,000","39 Buoro Street,",BALL BAY QLD 4741,House,3,1,2,607m² ,22 Jan 2022
+"765,000 ","31 Parry Street,",BELGIAN GARDENS QLD 4810,House,4,2,2,667m² ,21 Jan 2022
+"550,000 ","30 Shaw Street,",WEST END QLD 4810,House,3,1,8,"1,012m² ",19 Jan 2022
+"1,335,000 ","14 Stirling Drive,",CASTLE HILL QLD 4810,House,4,3,2,911m² ,18 Jan 2022
+"530,000","50 Mount Pelion Road,",MOUNT PELION QLD 4741,House,5,2,2,0,14 Jan 2022
+"725,000 ","7 McClelland Street,",WEST END QLD 4810,House,4,3,2,607m² ,14 Jan 2022
+"520,000 ","22 Leigh Street,",WEST END QLD 4810,House,3,1,1,691m² ,13 Jan 2022
+"419,000 ","109 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,12 Jan 2022
+"800,000 ","49 The Esplanade,",PALLARENDA QLD 4810,House,2,1,1,774m² ,11 Jan 2022
+"300,000 ","2124 Yakapari Seaforth Road,",SEAFORTH QLD 4741,House,3,1,2,"1,000m² ",11 Jan 2022
+"410,000 ","73 Bell Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,1,405m² ,10 Jan 2022
+"750,000 ","15 Ryan Street,",NORTH WARD QLD 4810,House,3,1,2,"1,528m² ",09 Jan 2022
+"585,000 ","38 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,810m² ,06 Jan 2022
+"460,000 ","9 Paskins Road,",YALBOROO QLD 4741,House,4,2,3,0,05 Jan 2022
+"545,000","28 Hill Street,",ETON QLD 4741,House,4,2,3,"2,023m² ",04 Jan 2022
+"590,000","5 Ward Esplanade,",BALL BAY QLD 4741,House,4,2,8,"2,017m² ",31 Dec 2021
+"300,000 ","95 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,455m² ,24 Dec 2021
+"1,050,000 ","85 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,4,2,2,834m² ,22 Dec 2021
+"1,360,000 ","63 Burke Street,",NORTH WARD QLD 4810,House,5,3,2,"1,012m² ",22 Dec 2021
+"380,000 ","124 Bundock St,",BELGIAN GARDENS QLD 4810,House,3,1,2,450m² ,21 Dec 2021
+"630,000 ","62 William Street,",WEST END QLD 4810,House,3,1,2,"1,012m² ",21 Dec 2021
+"500,000","19 Bogga Road,",MOUNT PELION QLD 4741,House,3,1,7,0,20 Dec 2021
+"400,000 ","132 Edmonds Road,",KUTTABUL QLD 4741,House,3,1,4,0,17 Dec 2021
+"360,000 ","32 Kinchant Dam Rd,",NORTH ETON QLD 4741,House,4,2,4,869m² ,17 Dec 2021
+"950,000 ","1 Rowland Street,",NORTH WARD QLD 4810,House,5,3,3,690m² ,17 Dec 2021
+"1,000,000 ","37 ALEXANDRA STREET,",NORTH WARD QLD 4810,House,4,3,1,"1,012m² ",17 Dec 2021
+"500,000 ","51 Henry Street,",WEST END QLD 4810,House,3,2,5,835m² ,17 Dec 2021
+"590,000 ","17 Potts Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,"1,012m² ",16 Dec 2021
+"335,000 ","6 - 8 First St,",RAILWAY ESTATE QLD 4810,Duplex,4,2,2,"1,144m² ",2021
+"285,000 ","7 Garrick Street,",WEST END QLD 4810,House,3,2,2,607m² ,14 Dec 2021
+"550,000","12/177 Mitchell Street,",NORTH WARD QLD 4810,House,3,3,−,268m² ,13 Dec 2021
+"730,000 ","78 Stagpole Street,",WEST END QLD 4810,House,5,2,2,"1,012m² ",13 Dec 2021
+"300,000 ","6 Prospect Street,",ETON QLD 4741,House,3,1,2,"1,012m² ",11 Dec 2021
+"287,000","3 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,−,810m² ,2021
+"642,000 ","47 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,5,3,1,"1,012m² ",11 Dec 2021
+"393,000 ","34 Putt Street,",RAILWAY ESTATE QLD 4810,House,3,1,2,809m² ,10 Dec 2021
+"367,500 ","24 Lamington Road,",WEST END QLD 4810,House,3,1,1,405m² ,10 Dec 2021
+"280,000","81 Todd Street,",RAILWAY ESTATE QLD 4810,House,2,1,1,809m² ,08 Dec 2021
+"625,000 ","20 Stanton Terrace,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",2021
+"280,000 ","8/78 Eyre Street,",NORTH WARD QLD 4810,House,2,1,1,105m² ,06 Dec 2021
+"680,000 ","1914 Yakapari Seaforth Road,",SEAFORTH QLD 4741,House,3,2,10,0,06 Dec 2021
+"550,000 ","20 Eden Street,",BELGIAN GARDENS QLD 4810,Duplex,4,2,2,481m² ,03 Dec 2021
+"380,000 ","250 Boundary Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,3,491m² ,03 Dec 2021
+"350,000 ","11 Eighth Ave,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,"1,004m² ",2 Dec 2021
+"765,000 ","22 & 26 Perkins Street West,",RAILWAY ESTATE QLD 4810,House,10,4,14,"1,818m² ",01 Dec 2021
+"380,000","27 Sixth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,2,1,3,501m² ,30 Nov 2021
+"290,000 ","72 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,1,809m² ,2021
+"950,000 ","68 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,4,3,2,706m² ,26 Nov 2021
+"360,000 ","29 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,3,455m² ,26 Nov 2021
+"410,000 ","37 Echlin Street,",WEST END QLD 4810,House,3,2,1,506m² ,26 Nov 2021
+"265,000 ","2/3 Falcon Street,",ROWES BAY QLD 4810,House,2,1,1,78m² ,25 Nov 2021
+"320,000 ","30 Crauford St,",WEST END QLD 4810,House,3,1,1,506m² ,24 Nov 2021
+"2,010,000","18 Palm Street,",ROWES BAY QLD 4810,House,5,3,2,802m² ,23 Nov 2021
+"275,000 ","28 Sixth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,502m² ,23 Nov 2021
+"565,000 ","53 Hugh Street,",WEST END QLD 4810,House,5,3,1,458m² ,22 Nov 2021
+"985,000 ","6 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,5,2,3,784m² ,15 Nov 2021
+"1,140,000","288 Stanley Street,",NORTH WARD QLD 4810,House,4,2,2,810m² ,15 Nov 2021
+"700,000","16 Macrossan Street,",SOUTH TOWNSVILLE QLD 4810,House,4,2,2,751m² ,13 Nov 2021
+"532,500 ","25 Estate Street,",WEST END QLD 4810,House,3,1,2,810m² ,12 Nov 2021
+"394,000 ","135 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,4,809m² ,11 Nov 2021
+"317,400 ","3 Pascoe Street,",RAILWAY ESTATE QLD 4810,House,3,1,2,607m² ,09 Nov 2021
+"500,000","5 Flowers Street,",RAILWAY ESTATE QLD 4810,House,5,3,2,683m² ,09 Nov 2021
+"1,015,000 ","7 Toorak Place,",CASTLE HILL QLD 4810,House,4,2,2,625m² ,2021
+"615,000 ","11 Maskell Street,",PALLARENDA QLD 4810,House,6,2,2,607m² ,08 Nov 2021
+"350,000","1 Seventh Street,",RAILWAY ESTATE QLD 4810,House,3,2,2,810m² ,06 Nov 2021
+"320,000 ","63 First Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,3,592m² ,06 Nov 2021
+"345,000 ","15 Edwards Street,",WEST END QLD 4810,House,3,1,1,607m² ,04 Nov 2021
+"1,350,000 ","8 Glamis Court,",CASTLE HILL QLD 4810,House,5,3,4,997m² ,03 Nov 2021
+"695,000 ","39 Rose Street,",NORTH WARD QLD 4810,House,4,2,2,506m² ,03 Nov 2021
+"523,000 ","13 Leigh Street,",WEST END QLD 4810,House,3,2,1,506m² ,02 Nov 2021
+"430,000 ","71 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,304m² ,01 Nov 2021
+"670,000 ","139 Harold Street,",WEST END QLD 4810,House,4,2,2,585m² ,01 Nov 2021
+"690,000","200 Ball Bay Road,",BALL BAY QLD 4741,House,4,1,5,0,29 Oct 2021
+"1,150,000 ","26 Alexandra Street,",NORTH WARD QLD 4810,House,6,3,2,"1,012m² ",29 Oct 2021
+"425,000 ","2 First Street,",RAILWAY ESTATE QLD 4810,House,3,1,−,427m² ,9 Oct 2021
+"925,000 ","5 Evans Street,",BELGIAN GARDENS QLD 4810,House,5,3,4,"1,012m² ",2021
+"850,000 ","31 Queen Street,",NORTH WARD QLD 4810,House,2,1,1,685m² ,28 Oct 2021
+"650,000 ","59 Dyer Street,",PALLARENDA QLD 4810,House,4,2,3,701m² ,27 Oct 2021
+"438,000 ","74A Stagpole Street,",WEST END QLD 4810,House,4,2,2,542m² ,27 Oct 2021
+"315,000 ","11 Seventh Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,405m² ,26 Oct 2021
+"399,000 ","73 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,2,527m² ,25 Oct 2021
+"400,000 ","56-58 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,7,4,−,"3,037m² ",22 Oct 2021
+"435,000 ","14A Maryvale Street,",WEST END QLD 4810,House,4,2,2,405m² ,22 Oct 2021
+"415,000 ","2180 Yakapari Seaforth Road,",SEAFORTH QLD 4741,House,3,2,2,"1,000m² ",21 Oct 2021
+"360,000 ","12 Buoro Street,",BALL BAY QLD 4741,House,3,2,2,607m² ,20 Oct 2021
+"290,000 ","7 Alec Dick Court,",SEAFORTH QLD 4741,House,2,1,1,877m² ,18 Oct 2021
+"625,800 ","81A Cook Street,",NORTH WARD QLD 4810,House,4,2,2,594m² ,2021
+"375,000 ","18 Milkins Street,",BALL BAY QLD 4741,House,3,2,2,645m² ,15 Oct 2021
+"1,140,000 ","870 Mackay Eungella Road,",PLEYSTOWE QLD 4741,House,3,3,10,"29,000m² ",15 Oct 2021
+"335,000 ","3 Second Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,810m² ,14 Oct 2021
+"462,000 ","516 Yakapari-Seaforth Road,",KUTTABUL QLD 4741,House,3,1,4,"2,291m² ",12 Oct 2021
+"490,000 ","11 Redcliffe Avenue,",SEAFORTH QLD 4741,House,2,2,2,607m² ,12 Oct 2021
+"360,000 ","18 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,Semi-detached,5,2,2,"1,012m² ",2021
+"722,000 ","7 Fourth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,3,2,2,"1,176m² ",2021
+"350,000 ","112 Colonial Drive,",CLAIRVIEW QLD 4741,House,2,1,1,486m² ,08 Oct 2021
+"880,000","289 Stanley Street,",NORTH WARD QLD 4810,House,3,2,2,736m² ,08 Oct 2021
+"810,000 ","4 Short Street,",BELGIAN GARDENS QLD 4810,House,5,3,5,"1,012m² ",07 Oct 2021
+"829,000","54 Paxton Street,",NORTH WARD QLD 4810,House,3,2,5,"1,518m² ",07 Oct 2021
+"300,000","33 Third Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,549m² ,07 Oct 2021
+"535,000 ","33 Cape Hillsborough Road,",SEAFORTH QLD 4741,House,5,2,2,0,7 Oct 2021
+"340,000 ","18 Chidlow Street,",FARLEIGH QLD 4741,House,2,1,5,"1,012m² ",05 Oct 2021
+"440,000 ","19 Leigh Street,",WEST END QLD 4810,House,3,1,2,716m² ,05 Oct 2021
+"236,000 ","69 Bell Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,415m² ,30 Sep 2021
+"1,150,000 ","5 Grange Court,",CASTLE HILL QLD 4810,House,4,2,2,"1,161m² ",28 Sep 2021
+"380,000 ","61 Owens Creek Loop Road,",GARGETT QLD 4741,House,3,1,5,"1,480m² ",24 Sep 2021
+"1,025,000 ","344 Stanley Street,",NORTH WARD QLD 4810,House,4,2,2,"1,012m² ",24 Sep 2021
+"365,000 ","1 Finlayson Street,",SEAFORTH QLD 4741,House,3,1,2,759m² ,24 Sep 2021
+"440,000 ","28 Brooks Street,",RAILWAY ESTATE QLD 4810,House,3,1,4,809m² ,23 Sep 2021
+"510,000 ","23 Seventh Street,",RAILWAY ESTATE QLD 4810,House,3,2,2,810m² ,2021
+"878,000 ","9 Kensington Court,",CASTLE HILL QLD 4810,House,4,2,2,885m² ,22 Sep 2021
+"660,000 ","1/97 The Strand,",NORTH WARD QLD 4810,House,3,2,1,163m² ,22 Sep 2021
+"330,000","6A Norman Street,",WEST END QLD 4810,House,3,2,1,405m² ,22 Sep 2021
+"450,000","26 Flowers Street,",RAILWAY ESTATE QLD 4810,House,5,3,3,458m² ,20 Sep 2021
+"370,500","75 Allen Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,850m² ,20 Sep 2021
+"355,000","11 Ninth Ave,",RAILWAY ESTATE QLD 4810,House,3,1,1,405m² ,17 Sep 2021
+"335,000 ","25A Brooks Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,455m² ,16 Sep 2021
+"772,000","54 Hooper Street,",BELGIAN GARDENS QLD 4810,House,5,2,2,809m² ,15 Sep 2021
+"490,000 ","8 Plant Street,",WEST END QLD 4810,House,3,1,3,810m² ,15 Sep 2021
+"415,000 ","2 Parramatta Street,",BELGIAN GARDENS QLD 4810,House,2,1,2,669m² ,14 Sep 2021
+"1,500,000 ","45 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,6,3,2,603m² ,14 Sep 2021
+"1,600,000","18 Gilbert Crescent,",CASTLE HILL QLD 4810,House,5,2,2,789m² ,14 Sep 2021
+"420,000 ","5 Bishop Street,",BELGIAN GARDENS QLD 4810,House,3,1,1,549m² ,13 Sep 2021
+"710,000 ","181 Graham Road,",OAKENDEN QLD 4741,House,5,2,5,"20,000m² ",10 Sep 2021
+"460,000 ","111 Bundock Street,",BELGIAN GARDENS QLD 4810,House,3,2,3,567m² ,09 Sep 2021
+"1,230,000 ","21 Alexandra Street,",NORTH WARD QLD 4810,House,4,3,4,"1,012m² ",09 Sep 2021
+"395,000 ","12 Kippen Drive,",BALL BAY QLD 4741,House,2,1,33,"8,339m² ",08 Sep 2021
+"680,000 ","508 Marian-Hampden Road,",HAMPDEN QLD 4741,House,3,2,8,0,07 Sep 2021
+"1,150,000 ","382b Stanley Street,",CASTLE HILL QLD 4810,House,4,3,2,600m² ,06 Sep 2021
+"305,000","38 Sixth Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,331m² ,06 Sep 2021
+"480,000","46 Stanton Street,",BELGIAN GARDENS QLD 4810,House,3,1,4,809m² ,04 Sep 2021
+"770,000 ","145 Mitchell Street,",NORTH WARD QLD 4810,House,4,2,1,"1,012m² ",03 Sep 2021
+"420,000 ","8 Joe Johnson Street,",SEAFORTH QLD 4741,House,3,2,6,769m² ,02 Sep 2021
+"385,000","24 Archer Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,2,336m² ,02 Sep 2021
+"1,250,000 ","389 Stanley Street,",NORTH WARD QLD 4810,House,4,3,2,"1,012m² ",31 Aug 2021
+"574,000 ","115 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,2,809m² ,31 Aug 2021
+"300,000 ","78 Eleventh Ave,",RAILWAY ESTATE QLD 4810,House,2,1,1,809m² ,31 Aug 2021
+"450,000 ","122 Bundock Street,",BELGIAN GARDENS QLD 4810,House,3,2,4,999m² ,30 Aug 2021
+"432,500 ","32 Estate Street,",WEST END QLD 4810,House,3,1,1,438m² ,30 Aug 2021
+"360,000 ","29 Greenslade Street,",WEST END QLD 4810,House,3,1,2,465m² ,30 Aug 2021
+"950,000 ","36 Gilbert Crescent,",CASTLE HILL QLD 4810,House,4,2,2,665m² ,29 Aug 2021
+"817,000 ","8 Parramatta Street,",BELGIAN GARDENS QLD 4810,House,5,4,2,560m² ,27 Aug 2021
+"480,000 ","108 Eleventh Ave,",RAILWAY ESTATE QLD 4810,House,4,2,6,809m² ,27 Aug 2021
+"1,006,000","80 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,4,3,2,789m² ,26 Aug 2021
+"475,000 ","3/3 Cook Street,",NORTH WARD QLD 4810,Villa,3,2,2,183m² ,26 Aug 2021
+"320,000 ","21 Colonial Drive,",CLAIRVIEW QLD 4741,House,2,1,2,845m² ,25 Aug 2021
+"450,000 ","16 Colonial Drive,",CLAIRVIEW QLD 4741,House,3,1,6,541m² ,24 Aug 2021
+"290,000 ","68A Todd Street,",RAILWAY ESTATE QLD 4810,House,3,1,1,437m² ,23 Aug 2021
+"270,000 ","80/34 Bundock Street,",BELGIAN GARDENS QLD 4810,House,3,1,1,125m² ,21 Aug 2021
+"280,000 ","112 Francis Street,",WEST END QLD 4810,House,2,1,−,810m² ,2021
+"950,000 ","51 Alexandra Street,",NORTH WARD QLD 4810,House,3,2,2,"1,012m² ",20 Aug 2021
+"280,000 ","30 Gargett Mia Mia Road,",GARGETT QLD 4741,House,2,1,4,"1,596m² ",18 Aug 2021
+"369,000 ","7 Helens Court,",HAMPDEN QLD 4741,House,2,1,5,0,17 Aug 2021
+"400,000","21 Evans Avenue,",SEAFORTH QLD 4741,House,3,2,2,607m² ,13 Aug 2021
+"250,000 ","13 McBride Street,",ETON QLD 4741,House,3,1,2,"2,023m² ",12 Aug 2021
+"175,000 ","3/8 Queens Road,",RAILWAY ESTATE QLD 4810,House,2,1,1,104m² ,12 Aug 2021
+"279,000 ","42 Henry St,",WEST END QLD 4810,House,2,1,2,"1,012m² ",12 Aug 2021
+"420,000 ","92 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,4,809m² ,11 Aug 2021
+"415,000 ","10 Railway Avenue,",RAILWAY ESTATE QLD 4810,House,4,1,4,422m² ,10 Aug 2021
+"310,000 ","1/5 Tuffley Street,",WEST END QLD 4810,House,3,1,1,293m² ,09 Aug 2021
+"410,000 ","142 Francis Street,",WEST END QLD 4810,House,2,1,3,723m² ,06 Aug 2021
+"322,500","9 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,2,382m² ,02 Aug 2021
+"630,000 ","55 Primrose Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,"1,012m² ",1 Aug 2021
+"725,000","Heatleys Parade,",BELGIAN GARDENS QLD 4810,House,4,3,4,688m² ,30 Jul 2021
+"515,000 ","34 Wackett Street,",PALLARENDA QLD 4810,House,4,3,3,708m² ,30 Jul 2021
+"258,000 ","81 Colonial Drive,",CLAIRVIEW QLD 4741,House,1,1,−,455m² ,29 Jul 2021
+"541,000 ","21 Rose Street,",NORTH WARD QLD 4810,House,3,1,2,506m² ,29 Jul 2021
+"507,000 ","49 Martinez Avenue,",WEST END QLD 4810,House,4,2,2,893m² ,29 Jul 2021
+"425,000 ","54 Johnsons Road,",MOUNT OSSA QLD 4741,House,3,2,7,0,21 Jul 2021
+"236,000 ","77 Tenth Ave,",RAILWAY ESTATE QLD 4810,House,3,1,4,809m² ,20 Jul 2021
+"425,000","10 Sallows Street,",PALLARENDA QLD 4810,House,3,2,2,607m² ,19 Jul 2021
+"370,000 ","5 Church Street,",WEST END QLD 4810,House,3,1,1,374m² ,19 Jul 2021
+"360,000 ","3A Seventh Street,",RAILWAY ESTATE QLD 4810,House,4,1,1,405m² ,16 Jul 2021
+"199,000 ","28 Fifth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,2,1,−,502m² ,16 Jul 2021
+"410,000 ","71 Stagpole Street,",WEST END QLD 4810,House,3,1,2,"1,012m² ",14 Jul 2021
+"430,000","65 Wackett Street,",PALLARENDA QLD 4810,House,3,2,1,708m² ,12 Jul 2021
+"1,100,000 ","199A Denham Street,",NORTH WARD QLD 4810,House,4,2,2,506m² ,07 Jul 2021
+"320,000","78 First Avenue,",RAILWAY ESTATE QLD 4810,House,2,1,1,850m² ,07 Jul 2021
+"800,000 ","74 Primrose Street,",BELGIAN GARDENS QLD 4810,House,4,2,4,"1,003m² ",6 Jul 2021
+"220,000 ","8 Prospect Street,",ETON QLD 4741,House,2,1,3,"2,023m² ",06 Jul 2021
+"442,000 ","12 Dyer Street,",PALLARENDA QLD 4810,House,4,2,2,809m² ,06 Jul 2021
+"600,000 ","17 Brangus Court,",KUTTABUL QLD 4741,House,5,1,4,"10,200m² ",30 Jun 2021
+"245,000","103 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,−,304m² ,30 Jun 2021
+"2,000,000","5A Glamis Court,",CASTLE HILL QLD 4810,House,4,4,2,600m² ,29 Jun 2021
+"605,000 ","40 Edwards Street,",WEST END QLD 4810,House,4,2,2,860m² ,25 Jun 2021
+"508,000","17 Stanton Street,",BELGIAN GARDENS QLD 4810,House,2,1,2,"1,012m² ",
+"420,000 ","28 Giumellis Road,",HAMPDEN QLD 4741,House,3,2,6,"7,366m² ",24 Jun 2021
+"650,000 ","66 Todd Street,",RAILWAY ESTATE QLD 4810,House,6,4,5,809m² ,24 Jun 2021
+"345,000 ","8 Owens Creek Loop Road,",GARGETT QLD 4741,House,3,2,2,981m² ,23 Jun 2021
+"355,000 ","1 & 2/115 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,Duplex,4,2,2,809m² ,23 Jun 2021
+"558,000 ","53 Cook Street,",NORTH WARD QLD 4810,House,3,1,3,450m² ,22 Jun 2021
+"780,000 ","66 Allen Street,",SOUTH TOWNSVILLE QLD 4810,House,5,3,4,733m² ,21 Jun 2021
+"409,000 ","17 Nelson Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,"1,012m² ",20 Jun 2021
+"1,200,000 ","87 Cook Street,",NORTH WARD QLD 4810,House,4,3,4,"1,004m² ",18 Jun 2021
+"550,000 ","7 Buckby Street,",PALLARENDA QLD 4810,House,5,2,2,708m² ,16 Jun 2021
+"615,000","12656 Peak Downs Highway,",COPPABELLA QLD 4741,House,8,2,2,0,15 Jun 2021
+"361,000","25 Ninth Avenue,",RAILWAY ESTATE QLD 4810,House,4,1,−,810m² ,15 Jun 2021
+"280,000","18 Sixth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,452m² ,15 Jun 2021
+"160,000 ","1 Barrier Street,",ETON QLD 4741,House,4,1,2,"1,315m² ",14 Jun 2021
+"350,000 ","1 Harold Street,",WEST END QLD 4810,House,3,1,1,506m² ,11 Jun 2021
+"409,000 ","19a Humphrey Street,",WEST END QLD 4810,House,3,2,1,496m² ,11 Jun 2021
+"300,000","69A Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,1,353m² ,07 Jun 2021
+"410,000","13 Pilchowski Street,",SEAFORTH QLD 4741,House,4,2,2,607m² ,07 Jun 2021
+"920,000 ","1 The Esplanade,",PALLARENDA QLD 4810,House,3,2,2,"2,072m² ",05 Jun 2021
+"325,000 ","11 Hill Street,",ETON QLD 4741,House,3,2,3,"2,023m² ",04 Jun 2021
+"285,000 ","18 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,4,1,2,405m² ,03 Jun 2021
+"1,500,000 ","4 Arundel Court,",CASTLE HILL QLD 4810,House,5,2,5,"1,239m² ",02 Jun 2021
+"340,000 ","1 Ernest Street,",WEST END QLD 4810,House,3,1,1,355m² ,02 Jun 2021
+"530,000 ","103 Bundock Street,",BELGIAN GARDENS QLD 4810,House,3,3,3,"1,036m² ",31 May 2021
+"340,000 ","4 Fifth Avenue,",SOUTH TOWNSVILLE QLD 4810,House,3,1,2,"1,012m² ",29 May 2021
+"328,000 ","1953 Mirani-Eton Road,",BRIGHTLY QLD 4741,House,3,1,2,"10,100m² ",28 May 2021
+"799,000 ","1/39 Yarrawonga Drive,",CASTLE HILL QLD 4810,Semi-detached,2,1,2,"1,009m² ",28 May 2021
+"950,000 ","95 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,3,2,2,954m² ,27 May 2021
+"475,000 ","9 Austin Drive,",ETON QLD 4741,House,4,1,4,"10,000m² ",27 May 2021
+"800,000 ","4 Queens Road,",RAILWAY ESTATE QLD 4810,House,7,6,8,"1,037m² ",26 May 2021
+"740,000 ","26 Murray Street,",NORTH WARD QLD 4810,House,3,1,1,607m² ,25 May 2021
+"187,500 ","22 Twelfth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,600m² ,25 May 2021
+"370,000","73 Colonial Drive,",CLAIRVIEW QLD 4741,House,2,1,3,455m² ,24 May 2021
+"280,000 ","16 Brooks Street,",RAILWAY ESTATE QLD 4810,House,3,2,1,971m² ,24 May 2021
+"370,000 ","17 Shaw Street,",WEST END QLD 4810,House,3,1,3,449m² ,21 May 2021
+"410,000","117 Kippen Drive,",BALL BAY QLD 4741,House,4,1,4,"10,500m² ",20 May 2021
+"375,000 ","12/30-32 Martinez Avenue,",WEST END QLD 4810,House,3,2,2,234m² ,20 May 2021
+"535,000","49 Rose Street,",NORTH WARD QLD 4810,House,3,2,1,"1,012m² ",19 May 2021
+"1,607,000 ","348 Stanley Street,",NORTH WARD QLD 4810,House,5,3,1,"1,012m² ",19 May 2021
+"475,000 ","19 Second Street,",RAILWAY ESTATE QLD 4810,House,4,1,1,670m² ,19 May 2021
+"490,000 ","98 Stagpole Street,",WEST END QLD 4810,House,3,1,2,"1,012m² ",19 May 2021
+"340,000","14 Hill Street,",ETON QLD 4741,House,4,2,8,"1,012m² ",17 May 2021
+"450,000 ","1A Leigh Street,",WEST END QLD 4810,House,3,2,−,"1,012m² ",14 May 2021
+"320,000 ","13 Hubert Street,",SOUTH TOWNSVILLE QLD 4810,House,3,1,1,"1,012m² ",2021
+"635,000 ","128 Mitchell Street,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",2021
+"710,000 ","34 Howitt Street,",NORTH WARD QLD 4810,House,3,2,4,609m² ,11 May 2021
+"3,200,000 ","33 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,5,2,2,"1,023m² ",08 May 2021
+"650,000 ","10 Gilbert Crescent,",CASTLE HILL QLD 4810,House,3,2,2,807m² ,06 May 2021
+"200,000","118 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,4,2,1,968m² ,06 May 2021
+"828,000 ","178 Stoney Creek Road,",ETON QLD 4741,House,4,2,8,0,05 May 2021
+"438,000 ","171 Francis Street,",WEST END QLD 4810,House,2,2,3,"1,012m² ",04 May 2021
+"1,125,000 ","60 Yarrawonga Drive,",CASTLE HILL QLD 4810,House,4,2,3,701m² ,03 May 2021
+"281,000 ","5 Margaret Street,",WEST END QLD 4810,House,3,1,2,607m² ,03 May 2021
+"510,000 ","43 First Avenue,",RAILWAY ESTATE QLD 4810,House,3,2,2,"1,146m² ",2021
+"1,095,000 ","4 Ascot Place,",CASTLE HILL QLD 4810,House,4,2,4,795m² ,28 Apr 2021
+"415,000 ","28 Royston Park Drive,",KUTTABUL QLD 4741,House,3,1,4,"31,680m² ",27 Apr 2021
+"430,000","9 Seventh Avenue,",SOUTH TOWNSVILLE QLD 4810,House,4,1,2,"1,012m² ",27 Apr 2021
+"445,000 ","7 Mia Mia Street,",PINNACLE QLD 4741,House,2,1,4,"112,600m² ",23 Apr 2021
+"695,000 ","18 Pleystowe School Road,",PLEYSTOWE QLD 4741,House,4,2,5,"2,851m² ",23 Apr 2021
+"325,000 ","139 Bundock Street,",BELGIAN GARDENS QLD 4810,House,2,2,2,603m² ,22 Apr 2021
+"305,000 ","24 Chidlow Street,",FARLEIGH QLD 4741,House,3,1,2,800m² ,21 Apr 2021
+"430,000 ","2/44 Hubert Street,",SOUTH TOWNSVILLE QLD 4810,House,3,2,2,193m² ,20 Apr 2021
+"750,000 ","22 Potts Street,",BELGIAN GARDENS QLD 4810,House,4,3,3,809m² ,19 Apr 2021
+"385,000","23 BAY STREET,",PALLARENDA QLD 4810,House,3,1,2,809m² ,16 Apr 2021
+"475,000 ","45 RILEY ROAD,",CAPE CLEVELAND QLD 4810,House,3,1,8,0,13 Apr 2021
+"280,000","6 Clarke Street,",ETON QLD 4741,House,4,1,−,"1,012m² ",12 Apr 2021
+"415,000","107 Hudsons Road,",KUTTABUL QLD 4741,House,4,1,3,"21,800m² ",12 Apr 2021
+"600,000 ","Lot 409 Poinciana Avenue,",SEAFORTH QLD 4741,House,1,1,10,"2,023m² ",12 Apr 2021
+"530,000","293 Stanley Street,",NORTH WARD QLD 4810,House,3,1,2,797m² ,09 Apr 2021
+"1,195,000 ","125 Royston Park Drive,",KUTTABUL QLD 4741,House,7,5,2,0,08 Apr 2021
+"860,000 ","639 Mackay-Eungella Road,",PLEYSTOWE QLD 4741,House,4,3,8,"2,475m² ",08 Apr 2021
+"279,000 ","43 Allen Street,",SOUTH TOWNSVILLE QLD 4810,House,2,1,1,253m² ,08 Apr 2021
+"255,000 ","7/12 Old Common Road,",BELGIAN GARDENS QLD 4810,House,3,1,1,172m² ,01 Apr 2021
+"399,000","298a Stanley Street,",NORTH WARD QLD 4810,House,3,1,4,563m² ,01 Apr 2021
+"402,500","2 Robinson Street,",BELGIAN GARDENS QLD 4810,House,3,1,2,587m² ,31 Mar 2021
+"356,000","15 Seventh Street,",RAILWAY ESTATE QLD 4810,House,2,1,3,405m² ,31 Mar 2021
+"240,000 ","4/105 Tully Street,",SOUTH TOWNSVILLE QLD 4810,House,2,2,1,101m² ,31 Mar 2021
+"316,000 ","108A FRANCIS STREET,",WEST END QLD 4810,House,4,1,1,607m² ,31 Mar 2021
+"497,500 ","65 Robertson Street,",RAILWAY ESTATE QLD 4810,House,5,2,2,809m² ,30 Mar 2021
+"430,000 ","4B Doorey Street,",RAILWAY ESTATE QLD 4810,House,4,2,2,472m² ,30 Mar 2021
+"290,000 ","18 Estate Street,",WEST END QLD 4810,House,3,1,1,810m² ,30 Mar 2021
+"470,000 ","59 Dyer Street,",PALLARENDA QLD 4810,House,3,2,3,701m² ,26 Mar 2021
+"395,000","53 Colonial Drive,",CLAIRVIEW QLD 4741,House,3,1,4,455m² ,25 Mar 2021
+"329,000 ","8 Clarke Street,",ETON QLD 4741,House,3,1,2,"1,012m² ",23 Mar 2021
+"600,000","12 Evans Street,",BELGIAN GARDENS QLD 4810,House,3,2,1,"1,012m² ",22 Mar 2021
+"320,000 ","90 Thirteenth Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,−,809m² ,22 Mar 2021
+"220,000 ","39 Montgomery Street,",WEST END QLD 4810,House,2,1,2,809m² ,22 Mar 2021
+"560,000","23380 Peak Downs Highway,",ETON QLD 4741,House,2,2,8,0,21 Mar 2021
+"325,000 ","647 Mackay-Eungella Road,",PLEYSTOWE QLD 4741,House,3,2,2,"1,171m² ",19 Mar 2021
+"265,000 ","54-54A Morris Street,",WEST END QLD 4810,Semi-detached,2,1,−,506m² ,18 Mar 2021
+"620,000 ","1 Scully Street,",WEST END QLD 4810,House,3,1,3,489m² ,17 Mar 2021
+"330,000 ","23 Jim Moule Stree,",GARGETT QLD 4741,House,4,2,4,"1,351m² ",16 Mar 2021
+"960,000","5 St James Drive,",BELGIAN GARDENS QLD 4810,House,4,3,3,817m² ,14 Mar 2021
+"453,000 ","146A Francis Street,",WEST END QLD 4810,House,4,2,2,657m² ,13 Mar 2021
+"493,000 ","23 Evans Street,",BELGIAN GARDENS QLD 4810,House,2,2,1,496m² ,12 Mar 2021
+"580,000 ","302 Stanley Street,",NORTH WARD QLD 4810,House,3,1,1,"1,012m² ",12 Mar 2021
+"337,500","62 Eleventh Avenue,",RAILWAY ESTATE QLD 4810,House,3,1,1,526m² ,12 Mar 2021
+"207,000 ","9 MURPHY ST,,",SEAFORTH QLD 4741,House,5,2,−,791m² ,12 Mar 2021
+"549,999 ","7 Plant Street,",WEST END QLD 4810,House,5,2,2,810m² ,0 Mar 2021
+"432,500 ","11A Hubert Street,",SOUTH TOWNSVILLE QLD 4810,House,4,1,1,536m² ,08 Mar 2021
+"880,000 ","27 Cook Street,",NORTH WARD QLD 4810,House,3,2,2,"1,012m² ",3 Mar 2021
+"270,000","30 Putt Street,",RAILWAY ESTATE QLD 4810,House,4,2,2,809m² ,02 Mar 2021
+"360,000","57 Tenth Avenue,",RAILWAY ESTATE QLD 4810,House,4,1,2,809m² ,02 Mar 2021
+"270,000 ","2 Clarke Street,",ETON QLD 4741,House,2,2,2,"1,009m² ",01 Mar 2021
+"335,000 ","43 Kuttabul Mount Jukes Road,",KUTTABUL QLD 4741,House,1,1,−,"40,468m² ",26 Feb 2021
+"240,000 ","6 Perkins Street West,",RAILWAY ESTATE QLD 4810,House,3,1,2,462m² ,25 Feb 2021
+"1,800,000","3 Victoria Street,",NORTH WARD QLD 4810,House,4,4,4,"1,670m² ",24 Feb 2021
+"380,000 ","69 Wackett Street,",PALLARENDA QLD 4810,House,3,1,2,708m² ,24 Feb 2021
+"515,000","2 Fifth Street,",RAILWAY ESTATE QLD 4810,House,4,2,5,"1,012m² ",24 Feb 2021
+"590,000 ","39 Ritchies Road,",PLEYSTOWE QLD 4741,House,4,2,7,"51,600m² ",23 Feb 2021
+"239,000 ","1/7 Tuffley Street,",WEST END QLD 4810,House,2,1,1,345m² ,22 Feb 2021
+"467,500 ","26 Murphy Street,",SEAFORTH QLD 4741,House,3,2,5,800m² ,18 Feb 2021
+"412,000 ","15 Henry Street,",WEST END QLD 4810,House,3,2,2,"1,012m² ",18 Feb 2021
+"575,000 ","61 Royston Park Drive,",KUTTABUL QLD 4741,House,3,1,5,"19,800m² ",16 Feb 2021
+"966,000 ","25 Ryan Street,",NORTH WARD QLD 4810,House,4,3,3,"1,012m² ",16 Feb 2021
+"585,000 ","13 Stemm Court,",ETON QLD 4741,House,3,2,6,0,15 Feb 2021

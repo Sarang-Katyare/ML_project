@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"375,000 ","705/347 Ann Street,",BRISBANE CITY QLD 4000,House,1,1,−,77m² ,17 Jan 2024
+"310,000 ","706/108 Albert Street,",BRISBANE CITY QLD 4000,House,1,1,−,62m² ,27 Sep 2022
+"774,000 ","45 Quay Street,",BRISBANE CITY QLD 4000,House,4,1,2,304m² ,2018
+"1,392,000","56 Mountjoy Street,",BRISBANE CITY QLD 4000,House,4,3,2,253m² ,2014
+"662,000","50 Belgrave St,",BRISBANE CITY QLD 4000,House,3,2,1,190m² ,2013
+"1,030,000","33 Mountjoy Street,",BRISBANE CITY QLD 4000,House,3,1,−,339m² ,24 Feb 2013
+"770,000","37 Belgrave Street,",BRISBANE CITY QLD 4000,House,3,2,1,177m² ,19 Feb 2013
+"1,382,000","40 Mountjoy Street,",BRISBANE CITY QLD 4000,House,4,4,4,253m² ,15 Feb 2013
+"1,960,000 ","16 Cranmore Street,",RED HILL QLD 4059,House,4,1,2,758m² ,24 Apr 2024
+"1,560,000 ","9 Ambleside Street,",WEST END QLD 4101,House,3,1,3,283m² ,23 Apr 2024
+"1,760,000 ","20 Glenrosa Road,",RED HILL QLD 4059,House,4,2,2,647m² ,2024
+"3,100,000 ","149 Gregory Terrace,",SPRING HILL QLD 4000,House,4,3,2,202m² ,17 Apr 2024
+"1,405,000 ","16 Pascal Street,",RED HILL QLD 4059,House,2,1,2,407m² ,15 Apr 2024
+"1,150,000 ","15 Phipps Street,",EAST BRISBANE QLD 4169,House,2,1,1,405m² ,2024
+"1,355,000 ","564 Vulture Street East,",EAST BRISBANE QLD 4169,House,5,2,1,539m² ,2024
+"1,300,000 ","38 Wight Street,",MILTON QLD 4064,House,4,2,2,200m² ,05 Apr 2024
+"1,441,000 ","31 Stafford Street,",EAST BRISBANE QLD 4169,House,2,1,2,354m² ,2 Apr 2024
+"1,350,000 ","5 Franklin Street,",KELVIN GROVE QLD 4059,House,4,2,2,303m² ,02 Apr 2024
+"1,320,500 ","11 Chapel Street,",PETRIE TERRACE QLD 4000,House,3,1,2,183m² ,02 Apr 2024
+"1,690,000 ","7 Spring Street,",WEST END QLD 4101,House,3,1,1,455m² ,26 Mar 2024
+"1,440,000 ","39 Macartney Street,",PADDINGTON QLD 4064,House,2,1,3,405m² ,25 Mar 2024
+"1,681,000 ","59 Geelong Street,",EAST BRISBANE QLD 4169,House,4,2,2,354m² ,2024
+"4,360,000 ","30 Collingwood Street,",PADDINGTON QLD 4064,House,6,3,2,845m² ,2024
+"1,550,000 ","68 Arthur Terrace,",RED HILL QLD 4059,House,3,2,2,405m² ,3 Mar 2024
+"1,210,000 ","43 Charlotte Street,",PADDINGTON QLD 4064,House,3,1,2,178m² ,20 Mar 2024
+"2,050,000 ","22 Jason Street,",RED HILL QLD 4059,House,4,2,2,405m² ,2024
+"1,250,000 ","48 Vale Street,",KELVIN GROVE QLD 4059,House,3,1,1,253m² ,5 Mar 2024
+"1,550,000 ","86 Charlotte Street,",PADDINGTON QLD 4064,House,4,1,1,450m² ,15 Mar 2024
+"1,800,000 ","33 Kinross Street,",SPRING HILL QLD 4000,House,4,2,2,250m² ,14 Mar 2024
+"1,980,000 ","8 Moreton Street,",PADDINGTON QLD 4064,House,3,1,2,906m² ,13 Mar 2024
+"1,225,000 ","41 Gibb Street,",KELVIN GROVE QLD 4059,House,2,1,1,430m² ,12 Mar 2024
+"1,175,000","16 Dowse Street,",PADDINGTON QLD 4064,House,2,1,1,261m² ,11 Mar 2024
+"2,575,000 ","137 Arthur Terrace,",RED HILL QLD 4059,House,4,2,2,409m² ,2024
+"1,280,000 ","5a Franklin Street,",KELVIN GROVE QLD 4059,House,3,2,1,338m² ,06 Mar 2024
+"2,280,000 ","36 Stevenson Street,",PADDINGTON QLD 4064,House,6,3,2,422m² ,06 Mar 2024
+"1,350,000 ","39 Granville Street,",WEST END QLD 4101,House,2,2,2,271m² ,2024
+"1,450,000 ","40 Annie Street,",PADDINGTON QLD 4064,House,3,1,2,405m² ,2024
+"2,620,000 ","28 Crown Street,",SOUTH BRISBANE QLD 4101,House,5,3,3,425m² ,2024
+"3,200,000 ","23 Fraser Terrace,",HIGHGATE HILL QLD 4101,House,4,3,2,425m² ,01 Mar 2024
+"1,420,000 ","35 Guildford Street,",KELVIN GROVE QLD 4059,House,4,2,2,301m² ,27 Feb 2024
+"2,230,000 ","39 Hetherington Street,",HERSTON QLD 4006,House,5,3,2,549m² ,2024
+"1,935,000 ","58 Gertrude Street,",HIGHGATE HILL QLD 4101,House,4,2,2,438m² ,2024
+"1,775,000","37 Castlemaine Street,",MILTON QLD 4064,House,5,3,6,683m² ,24 Feb 2024
+"1,687,000 ","222 Baroona Road,",PADDINGTON QLD 4064,House,3,2,1,405m² ,22 Feb 2024
+"1,520,000 ","35 Lintern Street,",RED HILL QLD 4059,House,3,1,1,526m² ,20 Feb 2024
+"1,200,000 ","61 Geelong Street,",EAST BRISBANE QLD 4169,House,2,2,1,354m² ,2024
+"1,450,000 ","22 Mannion Street,",RED HILL QLD 4059,House,3,2,1,261m² ,19 Feb 2024
+"2,500,000 ","8 Hill Street,",SPRING HILL QLD 4000,House,6,2,4,544m² ,19 Feb 2024
+"1,650,000 ","10 Terrace Street,",PADDINGTON QLD 4064,House,2,2,1,405m² ,2024
+"2,700,000","37 Guthrie Street,",PADDINGTON QLD 4064,House,4,3,3,405m² ,14 Feb 2024
+"2,045,000 ","15 Cameron Street,",SOUTH BRISBANE QLD 4101,House,5,2,3,405m² ,2024
+"1,663,000 ","98 Arthur Terrace,",RED HILL QLD 4059,House,4,3,1,405m² ,12 Feb 2024
+"1,730,000 ","147 Princess Street,",KANGAROO POINT QLD 4169,House,4,2,1,355m² ,2024
+"1,565,000 ","63 Withington Street,",EAST BRISBANE QLD 4169,House,3,2,1,395m² ,2024
+"1,525,000 ","12 Rosary Crescent,",HIGHGATE HILL QLD 4101,House,3,2,1,410m² ,10 Feb 2024
+"2,265,000 ","59 Park Street,",KELVIN GROVE QLD 4059,House,4,3,2,405m² ,2024
+"2,950,000","9 Bass Street,",PADDINGTON QLD 4064,House,4,2,2,404m² ,09 Feb 2024
+"1,410,000 ","124 Arthur Terrace,",RED HILL QLD 4059,House,3,1,2,467m² ,09 Feb 2024
+"1,150,000 ","11 Caswell Street,",EAST BRISBANE QLD 4169,House,3,2,1,405m² ,08 Feb 2024
+"2,700,000 ","15 Hall Street,",PADDINGTON QLD 4064,House,4,3,2,405m² ,08 Feb 2024
+"1,480,000 ","6 High Street,",HIGHGATE HILL QLD 4101,House,3,1,2,483m² ,07 Feb 2024
+"1,155,000 ","16 Federal Street,",RED HILL QLD 4059,House,3,1,3,263m² ,06 Feb 2024
+"2,320,000","5 Sackville Street,",MILTON QLD 4064,House,4,4,2,253m² ,01 Feb 2024
+"1,340,000","47 Fisher Street,",EAST BRISBANE QLD 4169,House,4,2,1,263m² ,31 Jan 2024
+"1,400,000 ","13 Fagan Road,",HERSTON QLD 4006,House,4,2,2,589m² ,31 Jan 2024
+"1,255,000 ","129 Baroona Road,",PADDINGTON QLD 4064,House,3,2,2,593m² ,31 Jan 2024
+"1,105,000 ","12 Waterworks Road,",RED HILL QLD 4059,House,3,1,1,607m² ,31 Jan 2024
+"1,198,000 ","17 Bramston Terrace,",HERSTON QLD 4006,House,2,2,3,405m² ,2024
+"1,800,000 ","3 Bramble Terrace,",RED HILL QLD 4059,House,6,2,2,"1,280m² ",30 Jan 2024
+"2,800,000 ","60 Ryan Street,",WEST END QLD 4101,House,4,2,5,810m² ,29 Jan 2024
+"2,500,000","127 Rockbourne Terrace,",PADDINGTON QLD 4064,House,4,2,2,780m² ,26 Jan 2024
+"2,030,000","23 Hove Street,",HIGHGATE HILL QLD 4101,House,4,3,2,215m² ,25 Jan 2024
+"1,361,000 ","21 Bellavista Terrace,",PADDINGTON QLD 4064,House,3,1,1,506m² ,25 Jan 2024
+"1,510,000 ","36 Withington Street,",EAST BRISBANE QLD 4169,House,3,2,2,405m² ,2024
+"1,325,000 ","13 Egbert Street,",WEST END QLD 4101,House,3,1,3,304m² ,2024
+"1,910,000 ","81 Gloucester Street,",SOUTH BRISBANE QLD 4101,House,3,2,4,405m² ,2024
+"1,010,000 ","2 Moreton Street,",PADDINGTON QLD 4064,House,3,1,2,516m² ,22 Dec 2023
+"1,700,000 ","19 Chorlton Street,",EAST BRISBANE QLD 4169,House,3,2,3,399m² ,21 Dec 2023
+"1,800,000 ","38 Gordon Street,",PADDINGTON QLD 4064,House,4,2,2,400m² ,21 Dec 2023
+"1,400,000 ","9 Bousfield Street,",PADDINGTON QLD 4064,House,3,1,1,433m² ,21 Dec 2023
+"1,350,000 ","27 Forbes Street,",WEST END QLD 4101,House,2,1,2,405m² ,18 Dec 2023
+"1,555,000 ","21 Monro Street,",KELVIN GROVE QLD 4059,House,4,3,2,300m² ,2023
+"2,925,000","194 Latrobe Terrace,",PADDINGTON QLD 4064,House,4,2,2,843m² ,16 Dec 2023
+"1,310,000","4 Dorchester Street,",SOUTH BRISBANE QLD 4101,House,3,1,3,359m² ,2023
+"1,290,000 ","125 Fortescue Street,",SPRING HILL QLD 4000,House,2,1,4,207m² ,2023
+"1,585,000","12 Imperial Terrace,",PADDINGTON QLD 4064,House,3,3,2,300m² ,15 Dec 2023
+"1,205,000 ","14 Stafford Street,",EAST BRISBANE QLD 4169,House,3,2,1,354m² ,2023
+"5,800,000 ","28 Upper Cairns Terrace,",PADDINGTON QLD 4064,House,5,4,3,445m² ,08 Dec 2023
+"1,685,000 ","92 Beck Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,08 Dec 2023
+"2,030,000","44 Garrick Tce,",HERSTON QLD 4006,House,4,2,2,810m² ,07 Dec 2023
+"3,815,000 ","25 Hazlewood Street,",PADDINGTON QLD 4064,House,5,3,2,520m² ,06 Dec 2023
+"2,475,000 ","41 Reading Street,",PADDINGTON QLD 4064,House,4,2,2,405m² ,06 Dec 2023
+"2,000,000 ","21A Didsbury Street,",EAST BRISBANE QLD 4169,House,4,3,2,405m² ,05 Dec 2023
+"1,910,000 ","32 Glassey Street,",RED HILL QLD 4059,House,4,3,3,747m² ,05 Dec 2023
+"1,552,500 ","62 Granville Street,",WEST END QLD 4101,House,4,3,2,272m² ,05 Dec 2023
+"1,881,000","37 Hove Street,",HIGHGATE HILL QLD 4101,House,3,2,2,430m² ,2023
+"1,900,000","39 Royal Street,",PADDINGTON QLD 4064,House,4,2,2,513m² ,02 Dec 2023
+"1,950,000 ","20 Princess Street,",PADDINGTON QLD 4064,House,4,2,1,455m² ,01 Dec 2023
+"1,270,000 ","6 Chapel Street,",PETRIE TERRACE QLD 4000,House,3,2,3,362m² ,01 Dec 2023
+"1,925,000 ","38 Glenrosa Road,",RED HILL QLD 4059,House,5,2,2,519m² ,01 Dec 2023
+"1,300,000 ","19 Normanby Terrace,",KELVIN GROVE QLD 4059,House,6,2,2,405m² ,30 Nov 2023
+"1,150,000","31 Ross Street,",PADDINGTON QLD 4064,House,3,2,2,328m² ,2023
+"1,675,000 ","18 Eskgrove Street,",EAST BRISBANE QLD 4169,House,3,2,1,455m² ,9 Nov 2023
+"1,810,500","10 West Street,",HIGHGATE HILL QLD 4101,House,5,2,1,405m² ,28 Nov 2023
+"1,850,000","33 Stafford Street,",PADDINGTON QLD 4064,House,3,2,2,405m² ,
+"2,500,000 ","127 Lambert Street,",KANGAROO POINT QLD 4169,House,3,1,2,642m² ,27 Nov 2023
+"2,200,000","23 Wedd Street,",SPRING HILL QLD 4000,House,4,3,3,455m² ,27 Nov 2023
+"1,330,000","15 Fisher Street,",EAST BRISBANE QLD 4169,House,3,2,2,253m² ,25 Nov 2023
+"1,260,000 ","13 Little Street,",KELVIN GROVE QLD 4059,House,3,1,1,405m² ,25 Nov 2023
+"2,650,000 ","51 Stephens Road,",SOUTH BRISBANE QLD 4101,House,4,3,2,764m² ,2023
+"1,300,000 ","9 Love Street,",SPRING HILL QLD 4000,House,2,2,2,171m² ,22 Nov 2023
+"2,410,000","111 Kennedy Terrace,",PADDINGTON QLD 4064,House,4,1,1,810m² ,20 Nov 2023
+"1,815,000","15 Colville Street,",HIGHGATE HILL QLD 4101,House,4,2,2,526m² ,18 Nov 2023
+"1,600,000 ","70 Victoria Street,",KELVIN GROVE QLD 4059,House,3,3,3,407m² ,18 Nov 2023
+"1,815,000 ","124 Kennigo Street,",SPRING HILL QLD 4000,House,3,2,3,202m² ,2023
+"1,320,000 ","21 Fleming Road,",HERSTON QLD 4006,House,2,1,1,746m² ,17 Nov 2023
+"3,595,455","27 Great George Street,",PADDINGTON QLD 4064,House,5,3,4,569m² ,17 Nov 2023
+"1,150,000","9 Laurel Street,",HIGHGATE HILL QLD 4101,House,3,1,1,407m² ,16 Nov 2023
+"1,270,000","8 Rusden Street,",KELVIN GROVE QLD 4059,House,3,2,2,202m² ,15 Nov 2023
+"2,150,000 ","4A Bousfield Street,",PADDINGTON QLD 4064,House,3,3,2,382m² ,15 Nov 2023
+"1,100,000 ","95 Princess Street,",PETRIE TERRACE QLD 4000,House,3,1,−,185m² ,2023
+"2,350,000 ","67 Lockerbie Street,",KANGAROO POINT QLD 4169,House,4,3,3,531m² ,2023
+"1,060,000","17 Rosina Street,",KANGAROO POINT QLD 4169,House,3,2,2,427m² ,2023
+"1,455,000 ","42 Vale Street,",KELVIN GROVE QLD 4059,House,4,3,1,253m² ,13 Nov 2023
+"2,300,000 ","70 Barker Street,",EAST BRISBANE QLD 4169,House,4,2,2,491m² ,2023
+"2,250,000 ","31 Rosary Crescent,",HIGHGATE HILL QLD 4101,House,4,2,2,612m² ,09 Nov 2023
+"2,400,000 ","28 Glenrosa Road,",RED HILL QLD 4059,House,4,3,2,647m² ,08 Nov 2023
+"1,250,000 ","51 Lintern Street,",RED HILL QLD 4059,House,2,1,−,405m² ,07 Nov 2023
+"1,340,000 ","11a Latrobe Street,",EAST BRISBANE QLD 4169,House,3,2,3,531m² ,06 Nov 2023
+"1,895,000 ","16 Stafford Street,",EAST BRISBANE QLD 4169,House,4,2,2,354m² ,2023
+"1,600,000","33 Prospect Terrace,",HIGHGATE HILL QLD 4101,House,4,2,3,413m² ,2023
+"1,405,000 ","22 Scott Street,",RED HILL QLD 4059,House,3,2,2,372m² ,03 Nov 2023
+"1,659,000 ","19 Bellavista Terrace,",PADDINGTON QLD 4064,House,4,2,2,506m² ,01 Nov 2023
+"1,170,000 ","15 Eva Street,",RED HILL QLD 4059,House,4,1,1,253m² ,31 Oct 2023
+"3,350,000 ","33 Enoggera Terrace,",RED HILL QLD 4059,House,5,3,2,"1,184m² ",30 Oct 2023
+"2,388,000 ","37 Edmondstone Street,",SOUTH BRISBANE QLD 4101,House,4,1,1,685m² ,27 Oct 2023
+"1,600,000 ","4 Bridge Street,",RED HILL QLD 4059,House,5,3,1,403m² ,26 Oct 2023
+"2,230,000 ","17 Bernhard Street,",PADDINGTON QLD 4064,House,4,3,2,405m² ,25 Oct 2023
+"1,475,000 ","35 Zig Zag Street,",RED HILL QLD 4059,House,3,1,1,430m² ,2023
+"1,229,000 ","1/535 Vulture Street East,",EAST BRISBANE QLD 4169,House,4,2,2,289m² ,2023
+"1,851,000 ","30 Blakeney Street,",HIGHGATE HILL QLD 4101,House,3,1,1,405m² ,2023
+"3,150,000 ","52 Bromley Street,",KANGAROO POINT QLD 4169,House,13,11,5,885m² ,21 Oct 2023
+"1,105,000 ","52 Glen Street,",KELVIN GROVE QLD 4059,House,3,1,1,212m² ,21 Oct 2023
+"1,726,000 ","19 Daventry Street,",WEST END QLD 4101,House,3,1,2,521m² ,20 Oct 2023
+"1,336,000 ","28 Exeter Street,",WEST END QLD 4101,House,2,1,2,266m² ,2023
+"3,375,000 ","3 Wellington Road,",RED HILL QLD 4059,House,4,4,3,502m² ,16 Oct 2023
+"1,718,000 ","71 Gray Road,",WEST END QLD 4101,House,6,2,2,405m² ,16 Oct 2023
+"1,372,000","54 Glen Street,",KELVIN GROVE QLD 4059,House,4,3,2,212m² ,4 Oct 2023
+"1,850,000","16 Club Street,",PADDINGTON QLD 4064,House,4,2,1,405m² ,2023
+"1,600,000 ","47 Garrick Terrace,",HERSTON QLD 4006,House,8,4,7,792m² ,13 Oct 2023
+"1,300,000 ","12 Hipwood Street,",SPRING HILL QLD 4000,House,2,1,3,237m² ,13 Oct 2023
+"1,840,000 ","214 Kennedy Terrace,",PADDINGTON QLD 4064,House,3,2,2,754m² ,12 Oct 2023
+"1,700,000 ","261 Boundary Street,",WEST END QLD 4101,House,5,3,−,455m² ,2023
+"1,300,000","91 Fernberg Road,",PADDINGTON QLD 4064,House,3,3,2,405m² ,11 Oct 2023
+"1,075,000 ","10 Bancroft Street,",KELVIN GROVE QLD 4059,House,2,1,2,405m² ,2023
+"1,125,000 ","30 Federal Street,",RED HILL QLD 4059,House,3,1,2,263m² ,2023
+"1,900,000","40 Hetherington Street,",HERSTON QLD 4006,House,5,2,2,739m² ,06 Oct 2023
+"1,835,000 ","48 Guthrie Street,",PADDINGTON QLD 4064,House,4,4,4,738m² ,06 Oct 2023
+"1,300,000 ","55 Park Street,",KELVIN GROVE QLD 4059,House,2,2,2,405m² ,05 Oct 2023
+"2,105,000 ","11 Atkins Street,",RED HILL QLD 4059,House,3,2,2,728m² ,02 Oct 2023
+"1,600,000 ","17 Cameron Street,",SOUTH BRISBANE QLD 4101,House,4,1,2,405m² ,2023
+"1,170,000 ","584A Vulture Street,",EAST BRISBANE QLD 4169,House,3,1,2,506m² ,29 Sep 2023
+"4,500,000","26 Thornbury Street,",SPRING HILL QLD 4000,House,6,3,4,885m² ,28 Sep 2023
+"1,237,000 ","17 Dunsmore Street,",KELVIN GROVE QLD 4059,House,4,2,2,317m² ,7 Sep 2023
+"2,200,000 ","15 Bramble Terrace,",RED HILL QLD 4059,House,5,2,2,500m² ,27 Sep 2023
+"1,550,000 ","24 Thorn Street,",RED HILL QLD 4059,House,5,4,2,429m² ,27 Sep 2023
+"1,200,000 ","53 Windsor Road,",RED HILL QLD 4059,House,3,1,1,662m² ,26 Sep 2023
+"1,250,000 ","53 Didsbury Street,",EAST BRISBANE QLD 4169,House,3,1,2,405m² ,2023
+"1,150,000 ","25 Neville Street,",KANGAROO POINT QLD 4169,House,2,1,2,228m² ,25 Sep 2023
+"2,500,000 ","14 Paton Street,",KANGAROO POINT QLD 4169,House,5,3,3,481m² ,25 Sep 2023
+"1,250,000 ","35 Herston Road,",KELVIN GROVE QLD 4059,House,4,2,2,427m² ,2023
+"1,550,000 ","16 Balmain Terrace,",RED HILL QLD 4059,House,4,2,1,506m² ,2023
+"1,275,000","5 Plunkett Street,",PADDINGTON QLD 4064,House,3,1,2,455m² ,2023
+"2,715,000","43 Wellington Street,",PETRIE TERRACE QLD 4000,House,4,3,3,253m² ,21 Sep 2023
+"2,460,000 ","31 Primrose Terrace,",RED HILL QLD 4059,House,5,3,3,713m² ,21 Sep 2023
+"576,000 ","326/585 Wickham Street,",FORTITUDE VALLEY QLD 4006,House,2,2,1,94m² ,19 Sep 2023
+"6,150,000","56 View Street,",PADDINGTON QLD 4064,House,6,3,4,579m² ,17 Sep 2023
+"1,460,000 ","16 Wolseley Street,",PADDINGTON QLD 4064,House,4,2,1,304m² ,2023
+"2,150,000 ","27 Guthrie Street,",PADDINGTON QLD 4064,House,4,2,2,405m² ,15 Sep 2023
+"2,725,000 ","43 Alma Street,",PADDINGTON QLD 4064,House,4,3,1,602m² ,15 Sep 2023
+"3,450,000 ","6 Early Lane,",WEST END QLD 4101,House,5,3,3,506m² ,15 Sep 2023
+"1,490,000 ","47 Geelong Street,",EAST BRISBANE QLD 4169,House,3,1,1,354m² ,4 Sep 2023
+"1,520,000 ","35 Kennedy Terrace,",PADDINGTON QLD 4064,House,4,2,2,586m² ,14 Sep 2023
+"2,330,000","7 Gulliver Street,",PADDINGTON QLD 4064,House,5,4,2,588m² ,12 Sep 2023
+"1,850,000 ","26 Franklin Street,",HIGHGATE HILL QLD 4101,House,6,2,3,405m² ,11 Sep 2023
+"3,850,000","15 Prospect Terrace,",HIGHGATE HILL QLD 4101,House,7,4,6,728m² ,07 Sep 2023
+"1,911,000","17A Morris Street,",PADDINGTON QLD 4064,House,4,3,2,404m² ,05 Sep 2023
+"1,355,000 ","46 Rockbourne Terrace,",PADDINGTON QLD 4064,House,3,2,2,309m² ,2023
+"2,970,000 ","18 Hoogley Street,",WEST END QLD 4101,House,14,5,6,809m² ,04 Sep 2023
+"2,010,000","5 Martha Street,",PADDINGTON QLD 4064,House,4,2,2,262m² ,02 Sep 2023
+"405,000 ","30104/67 Blamey Street,",KELVIN GROVE QLD 4059,House,1,1,1,71m² ,01 Sep 2023
+"1,620,000 ","29 Devon Street,",RED HILL QLD 4059,House,3,2,1,410m² ,01 Sep 2023
+"1,710,000 ","86 Ryan Street,",WEST END QLD 4101,House,4,2,2,473m² ,01 Sep 2023
+"850,000 ","304 Kelvin Grove Rd,",KELVIN GROVE QLD 4059,House,5,1,3,390m² ,30 Aug 2023
+"1,390,000 ","92 Windsor Road,",RED HILL QLD 4059,House,4,3,2,263m² ,30 Aug 2023
+"960,000","179 Gladstone Road,",HIGHGATE HILL QLD 4101,House,3,1,3,577m² ,29 Aug 2023
+"2,800,000 ","12 Patrick Street,",MILTON QLD 4064,House,5,3,2,506m² ,29 Aug 2023
+"2,450,000 ","6 Hall Street,",PADDINGTON QLD 4064,House,5,2,2,455m² ,29 Aug 2023
+"3,330,000 ","225 Baroona Road,",PADDINGTON QLD 4064,House,6,3,2,506m² ,28 Aug 2023
+"2,200,000 ","9 Heath Street,",EAST BRISBANE QLD 4169,House,4,1,2,910m² ,2023
+"1,400,000 ","36 Turin Street,",WEST END QLD 4101,House,4,1,−,271m² ,2023
+"1,165,000 ","14 Lutwyche Street,",PETRIE TERRACE QLD 4000,House,2,1,1,354m² ,25 Aug 2023
+"1,538,000 ","41 Haughton Street,",RED HILL QLD 4059,House,3,2,2,405m² ,25 Aug 2023
+"1,825,000","17 Bayswater Street,",PADDINGTON QLD 4064,House,4,2,5,405m² ,24 Aug 2023
+"1,025,000 ","31 Victoria Street,",KELVIN GROVE QLD 4059,House,2,1,−,304m² ,23 Aug 2023
+"2,475,000","215 Given Terrace,",PADDINGTON QLD 4064,House,1,1,−,556m² ,22 Aug 2023
+"1,250,000 ","54 Franklin Street,",KELVIN GROVE QLD 4059,House,3,2,2,356m² ,2023
+"1,780,000 ","44 Laidlaw Parade,",EAST BRISBANE QLD 4169,House,2,1,2,362m² ,2023
+"2,325,000 ","46 Northcote Street,",EAST BRISBANE QLD 4169,House,5,3,2,529m² ,2023
+"1,190,000 ","17 Woolcock Street,",RED HILL QLD 4059,House,3,2,−,276m² ,2023
+"2,255,000 ","241 Baroona Road,",PADDINGTON QLD 4064,House,5,3,2,505m² ,16 Aug 2023
+"975,000 ","53 Walmsley Street,",KANGAROO POINT QLD 4169,House,3,1,2,450m² ,15 Aug 2023
+"1,475,000 ","47 Walmsley Street,",KANGAROO POINT QLD 4169,House,4,2,2,"1,052m² ",15 Aug 2023
+"1,185,000 ","22a Harriet Street,",WEST END QLD 4101,House,3,2,1,232m² ,15 Aug 2023
+"1,510,000 ","37 Bramston Terrace,",HERSTON QLD 4006,House,4,2,2,539m² ,2023
+"1,360,000","22 Evelyn Street,",PADDINGTON QLD 4064,House,3,1,1,354m² ,12 Aug 2023
+"1,253,000 ","52 Rusden Street,",KELVIN GROVE QLD 4059,House,3,1,1,304m² ,2023
+"1,110,000 ","12 Cranmore Street,",RED HILL QLD 4059,House,3,1,1,379m² ,11 Aug 2023
+"1,345,000 ","14 Errard Street,",KELVIN GROVE QLD 4059,House,3,2,3,463m² ,9 Aug 2023
+"1,800,108 ","22 Armstrong Terrace,",PADDINGTON QLD 4064,House,3,3,2,405m² ,09 Aug 2023
+"1,090,000","28 Picot Street,",KELVIN GROVE QLD 4059,House,2,1,2,360m² ,08 Aug 2023
+"1,280,000 ","19 Overend Street,",EAST BRISBANE QLD 4169,House,3,1,3,430m² ,07 Aug 2023
+"1,960,000 ","96 Kennedy Terrace,",PADDINGTON QLD 4064,House,4,2,4,792m² ,7 Aug 2023
+"2,050,000 ","161 Mowbray Terrace,",EAST BRISBANE QLD 4169,House,4,2,2,610m² ,1 Aug 2023
+"2,150,000 ","38 Salstone Street,",KANGAROO POINT QLD 4169,House,2,1,2,810m² ,2023
+"3,300,000 ","23 Audenshaw Street,",HIGHGATE HILL QLD 4101,House,5,4,3,728m² ,2023
+"1,910,000 ","98 Beck Street,",PADDINGTON QLD 4064,House,3,2,2,405m² ,2023
+"1,306,000 ","53 Thomas Street,",WEST END QLD 4101,House,2,1,3,334m² ,2023
+"1,570,000 ","36 Moy Street,",KELVIN GROVE QLD 4059,House,4,2,2,562m² ,2023
+"2,150,000 ","8 Ross Street,",PADDINGTON QLD 4064,House,4,3,2,348m² ,21 Jul 2023
+"1,259,000 ","62 Victoria Street,",KELVIN GROVE QLD 4059,House,5,3,2,412m² ,20 Jul 2023
+"1,120,000 ","25A Heussler Terrace,",MILTON QLD 4064,House,3,2,5,253m² ,19 Jul 2023
+"2,900,000 ","5 Moore Street,",MILTON QLD 4064,House,5,3,2,393m² ,19 Jul 2023
+"1,340,000","55 Princess Street,",PETRIE TERRACE QLD 4000,House,3,1,2,182m² ,19 Jul 2023
+"1,211,000 ","32 Mein Street,",SPRING HILL QLD 4000,House,3,1,2,253m² ,17 Jul 2023
+"1,470,000 ","52 Northcote Street,",EAST BRISBANE QLD 4169,House,3,2,2,407m² ,2023
+"2,012,000 ","19 Brook Street,",HIGHGATE HILL QLD 4101,House,4,3,3,607m² ,2023
+"1,230,000 ","12 More Street,",KELVIN GROVE QLD 4059,House,3,2,1,405m² ,2023
+"1,100,000 ","42 Jason Street,",RED HILL QLD 4059,House,6,2,3,771m² ,14 Jul 2023
+"1,410,000 ","50 Daventry Street,",WEST END QLD 4101,House,3,2,2,329m² ,2 Jul 2023
+"1,550,000 ","62 Bristol Street,",WEST END QLD 4101,House,3,1,1,435m² ,12 Jul 2023
+"1,110,000 ","23 Elfin Street,",EAST BRISBANE QLD 4169,House,3,1,1,405m² ,11 Jul 2023
+"1,730,000","18 Ada Street,",PADDINGTON QLD 4064,House,4,2,2,420m² ,08 Jul 2023
+"1,200,000 ","213 Shafston Ave,",KANGAROO POINT QLD 4169,House,5,2,5,506m² ,07 Jul 2023
+"1,200,000 ","231 Shafston Ave,",KANGAROO POINT QLD 4169,House,4,2,3,476m² ,07 Jul 2023
+"982,700","28 Victoria Street,",KELVIN GROVE QLD 4059,House,4,1,−,263m² ,07 Jul 2023
+"3,300,197 ","116 Enoggera Terrace,",PADDINGTON QLD 4064,House,6,3,6,642m² ,07 Jul 2023
+"1,050,000","84 Butterfield Street,",HERSTON QLD 4006,House,3,1,2,405m² ,2023
+"2,500,000 ","45 Prince Street,",PADDINGTON QLD 4064,House,5,2,2,516m² ,01 Jul 2023
+"1,207,000 ","73 Arthur Terrace,",RED HILL QLD 4059,House,3,2,2,422m² ,30 Jun 2023
+"2,650,000 ","2 Moore Street,",MILTON QLD 4064,House,3,2,2,537m² ,28 Jun 2023
+"3,050,000 ","25 Garfield Drive,",PADDINGTON QLD 4064,House,4,3,2,569m² ,26 Jun 2023
+"2,000,000 ","41 Tooth Avenue,",PADDINGTON QLD 4064,House,4,2,1,374m² ,26 Jun 2023
+"1,280,000","106 Warry Street,",FORTITUDE VALLEY QLD 4006,House,4,1,4,293m² ,23 Jun 2023
+"1,280,000 ","77 Kennigo Street,",SPRING HILL QLD 4000,House,3,2,2,352m² ,19 Jun 2023
+"1,100,000 ","23 Saint James Street,",PETRIE TERRACE QLD 4000,House,4,1,2,253m² ,18 Jun 2023
+"810,000 ","294 Milton Road,",MILTON QLD 4064,House,3,2,2,739m² ,2023
+"1,100,000 ","23 Mannion Street,",RED HILL QLD 4059,House,2,1,−,367m² ,17 Jun 2023
+"3,125,000","40 Kinross Street,",SPRING HILL QLD 4000,House,4,3,2,668m² ,17 Jun 2023
+"1,456,000 ","28 Mein Street,",SPRING HILL QLD 4000,House,2,1,5,379m² ,17 Jun 2023
+"1,305,000 ","35 Bayswater Street,",PADDINGTON QLD 4064,House,3,2,3,342m² ,16 Jun 2023
+"1,705,000 ","2 Harriet Street,",RED HILL QLD 4059,House,4,2,3,435m² ,15 Jun 2023
+"6,500,000 ","127 Ryan Street,",WEST END QLD 4101,House,5,3,4,"1,846m² ",15 Jun 2023
+"1,150,000","6 Phipps Street,",EAST BRISBANE QLD 4169,House,3,2,2,200m² ,14 Jun 2023
+"2,800,000","449 Gregory Terrace,",SPRING HILL QLD 4000,House,6,2,6,731m² ,14 Jun 2023
+"2,400,000","134 Kennedy Terrace,",PADDINGTON QLD 4064,House,5,2,2,584m² ,13 Jun 2023
+"1,650,000 ","49 Kennedy Terrace,",PADDINGTON QLD 4064,House,4,2,2,360m² ,2023
+"1,200,000 ","50 Wellington Street,",PETRIE TERRACE QLD 4000,House,2,2,3,235m² ,13 Jun 2023
+"1,610,000 ","29 Walmsley Street,",KANGAROO POINT QLD 4169,House,4,1,2,417m² ,2 Jun 2023
+"1,250,000 ","27 Sexton Street,",PETRIE TERRACE QLD 4000,House,4,2,1,159m² ,06 Jun 2023
+"3,100,000 ","19 Cameron Street,",SOUTH BRISBANE QLD 4101,House,4,4,2,604m² ,03 Jun 2023
+"1,100,000 ","31 Garrick Terrace,",HERSTON QLD 4006,House,3,2,2,277m² ,0 May 2023
+"1,290,000 ","62 Herbert Street,",PADDINGTON QLD 4064,House,2,1,2,405m² ,29 May 2023
+"1,270,000 ","112 Gray Road,",WEST END QLD 4101,House,2,1,1,276m² ,29 May 2023
+"1,750,000 ","89 Sinclair Street,",KANGAROO POINT QLD 4169,House,5,2,1,405m² ,25 May 2023
+"1,447,000 ","32 Windsor Road,",RED HILL QLD 4059,House,3,2,2,417m² ,5 May 2023
+"995,000 ","104 Butterfield Street,",HERSTON QLD 4006,House,4,3,2,491m² ,24 May 2023
+"880,000 ","15A Winship Street,",RED HILL QLD 4059,House,2,1,1,195m² ,23 May 2023
+"1,990,000 ","7 Loch Street,",WEST END QLD 4101,House,3,2,2,367m² ,23 May 2023
+"2,540,000","15A Annie Street,",PADDINGTON QLD 4064,House,4,2,2,405m² ,22 May 2023
+"730,000","1/33 Baroona Road,",MILTON QLD 4064,Duplex,2,1,2,111m² ,19 May 2023
+"1,250,000 ","26 Confederate Street,",RED HILL QLD 4059,House,3,1,2,263m² ,19 May 2023
+"1,607,500 ","54 Beck Street,",PADDINGTON QLD 4064,House,4,2,2,579m² ,18 May 2023
+"1,800,000 ","50 Douglas Street,",SPRING HILL QLD 4000,House,3,3,2,290m² ,17 May 2023
+"1,750,000 ","50 Terrace Street,",PADDINGTON QLD 4064,House,3,2,2,516m² ,16 May 2023
+"1,413,500 ","33 Sedgebrook Street,",SPRING HILL QLD 4000,House,4,2,4,430m² ,15 May 2023
+"1,470,000 ","47 Norman Street,",EAST BRISBANE QLD 4169,House,4,2,2,599m² ,2023
+"1,580,000","21 McNab Street,",PADDINGTON QLD 4064,House,3,3,1,405m² ,14 May 2023
+"1,275,000 ","24 Stanley Terrace,",EAST BRISBANE QLD 4169,House,5,2,2,433m² ,2023
+"1,333,333 ","7 Jumna Street,",WEST END QLD 4101,House,4,1,1,402m² ,12 May 2023
+"1,375,000","33 Ashfield Street,",EAST BRISBANE QLD 4169,House,4,2,2,420m² ,11 May 2023
+"1,750,000 ","52 Franklin Street,",KELVIN GROVE QLD 4059,House,4,3,2,282m² ,08 May 2023
+"1,700,000 ","51 Sedgebrook Street,",SPRING HILL QLD 4000,House,4,3,2,304m² ,08 May 2023
+"1,200,000 ","35 Allenby Street,",SPRING HILL QLD 4000,House,3,2,2,146m² ,05 May 2023
+"3,050,000 ","70 Upper Cairns Terrace,",PADDINGTON QLD 4064,House,4,3,3,506m² ,03 May 2023
+"3,200,000","118 Brookes Street,",FORTITUDE VALLEY QLD 4006,House,2,2,6,215m² ,02 May 2023
+"1,086,000","1 Kennedy Terrace,",EAST BRISBANE QLD 4169,House,3,1,1,506m² ,2023
+"1,475,000 ","38 Gebbie Street,",KELVIN GROVE QLD 4059,House,3,3,3,405m² ,29 Apr 2023
+"2,360,000 ","63 Moreton Street,",PADDINGTON QLD 4064,House,4,2,2,400m² ,2023
+"984,500 ","11 McLeod Street,",HERSTON QLD 4006,House,3,1,4,916m² ,26 Apr 2023
+"3,500,000 ","133 Ryan Street,",WEST END QLD 4101,House,5,3,2,835m² ,2023
+"1,220,000 ","17 Quinton Street,",KANGAROO POINT QLD 4169,House,3,1,3,326m² ,2023
+"4,250,000 ","28 Ozanne Street,",PADDINGTON QLD 4064,House,5,4,3,505m² ,2 Apr 2023
+"2,000,000","47 Gloucester Street,",HIGHGATE HILL QLD 4101,House,4,1,2,"1,006m² ",21 Apr 2023
+"1,695,000","24 Park Street,",KELVIN GROVE QLD 4059,House,5,3,1,450m² ,21 Apr 2023
+"462,000 ","1417/977 Ann Street,",FORTITUDE VALLEY QLD 4006,House,2,1,1,76m² ,20 Apr 2023
+"1,410,000","76 Beck Street,",PADDINGTON QLD 4064,House,3,3,2,405m² ,16 Apr 2023
+"1,315,000","49 Eureka St,",KELVIN GROVE QLD 4059,House,3,1,2,405m² ,2023
+"2,200,000","5 Hall Street,",PADDINGTON QLD 4064,House,3,2,2,455m² ,15 Apr 2023
+"2,200,000","5 Hall Street,",PADDINGTON QLD 4064,House,5,3,2,455m² ,15 Apr 2023
+"1,400,000","21 Clifton Street,",PETRIE TERRACE QLD 4000,House,3,2,3,307m² ,
+"1,710,000 ","33 White Street,",KELVIN GROVE QLD 4059,House,3,2,2,326m² ,11 Apr 2023
+"1,850,000","114 Elizabeth Street,",PADDINGTON QLD 4064,House,3,2,1,405m² ,11 Apr 2023
+"1,657,500 ","11 Skinner Street,",WEST END QLD 4101,House,3,1,1,526m² ,11 Apr 2023
+"2,125,000 ","5 Armstrong Terrace,",PADDINGTON QLD 4064,House,4,3,1,405m² ,06 Apr 2023
+"991,000 ","21 Latrobe Street,",EAST BRISBANE QLD 4169,House,3,1,2,354m² ,05 Apr 2023
+"1,600,000","187 Gladstone Road,",HIGHGATE HILL QLD 4101,House,5,2,1,582m² ,05 Apr 2023
+"404,000 ","30811/67 Blamey Street,",KELVIN GROVE QLD 4059,House,1,1,−,70m² ,05 Apr 2023
+"975,000 ","27 Sheriff Street,",PETRIE TERRACE QLD 4000,House,4,2,1,228m² ,05 Apr 2023
+"1,820,000 ","21 Geelong Street,",EAST BRISBANE QLD 4169,House,4,2,3,354m² ,2023
+"1,375,000 ","36 Kennedy Terrace,",PADDINGTON QLD 4064,House,3,1,2,347m² ,03 Apr 2023
+"1,755,555 ","18 Broadhurst Street,",KELVIN GROVE QLD 4059,House,4,3,2,519m² ,01 Apr 2023
+"1,400,000 ","62 Gray Road,",WEST END QLD 4101,House,4,2,2,425m² ,2023
+"1,615,000 ","34 Geelong Street,",EAST BRISBANE QLD 4169,House,3,1,1,708m² ,31 Mar 2023
+"1,349,000","51 Ellena Street,",PADDINGTON QLD 4064,House,3,1,−,405m² ,31 Mar 2023
+"3,550,000 ","46 Garfield Drive,",PADDINGTON QLD 4064,House,4,3,2,630m² ,30 Mar 2023
+"1,365,000 ","151 Baines Street,",KANGAROO POINT QLD 4169,House,3,1,2,405m² ,28 Mar 2023
+"1,775,000 ","32 Zig Zag Street,",RED HILL QLD 4059,House,3,2,3,447m² ,27 Mar 2023
+"1,850,000 ","323 Boundary Street,",WEST END QLD 4101,House,4,2,−,521m² ,2023
+"1,200,000 ","57 Norman Street,",EAST BRISBANE QLD 4169,House,3,1,3,405m² ,24 Mar 2023
+"1,400,000 ","26 Latrobe Street,",EAST BRISBANE QLD 4169,House,8,2,2,708m² ,21 Mar 2023
+"2,900,000","32 Prince Street,",PADDINGTON QLD 4064,House,4,3,3,491m² ,21 Mar 2023
+"1,040,000","23 Norman Street,",EAST BRISBANE QLD 4169,House,3,1,2,405m² ,2023
+"1,060,000 ","13 Burlington Street,",EAST BRISBANE QLD 4169,House,2,2,−,405m² ,2023
+"1,500,000 ","14 Colville Street,",HIGHGATE HILL QLD 4101,House,3,1,2,392m² ,16 Mar 2023
+"1,820,000 ","7 Cordeaux Street,",WEST END QLD 4101,House,4,2,3,405m² ,16 Mar 2023
+"1,215,000 ","35 Vale Street,",KELVIN GROVE QLD 4059,House,3,1,1,503m² ,15 Mar 2023
+"1,350,000","7 Walter Avenue,",EAST BRISBANE QLD 4169,House,4,2,2,227m² ,14 Mar 2023
+"1,245,000 ","36 Bowler Street,",PADDINGTON QLD 4064,House,3,2,2,302m² ,13 Mar 2023
+"1,575,000 ","47 Kennigo Street,",SPRING HILL QLD 4000,House,2,1,2,527m² ,13 Mar 2023
+"1,975,000","76 Rockbourne Terrace,",PADDINGTON QLD 4064,House,4,3,2,384m² ,12 Mar 2023
+"1,175,000 ","48 Heath Street,",EAST BRISBANE QLD 4169,House,2,1,2,448m² ,11 Mar 2023
+"1,340,000","24 Fernberg Road,",PADDINGTON QLD 4064,House,4,2,2,445m² ,11 Mar 2023
+"1,450,000","30 Frith Street,",SOUTH BRISBANE QLD 4101,House,3,2,2,339m² ,2023
+"1,105,000 ","9 Fagan Road,",HERSTON QLD 4006,House,4,2,2,"1,113m² ",10 Mar 2023
+"1,105,000 ","9 Fagan Road,",HERSTON QLD 4006,House,4,2,2,"1,113m² ",10 Mar 2023
+"1,175,000 ","118 Arthur Terrace,",RED HILL QLD 4059,House,3,2,4,443m² ,10 Mar 2023
+"900,000","183 Gladstone Road,",HIGHGATE HILL QLD 4101,House,3,1,1,260m² ,06 Mar 2023
+"1,115,000 ","8 Brindle Street,",PADDINGTON QLD 4064,House,2,1,1,354m² ,06 Mar 2023
+"1,250,000 ","75 Gray Road,",WEST END QLD 4101,House,2,1,1,405m² ,2023
+"1,300,000","43 Burlington Street,",EAST BRISBANE QLD 4169,House,3,2,3,405m² ,03 Mar 2023
+"1,100,000 ","15 Dalley Street,",KELVIN GROVE QLD 4059,House,4,2,2,402m² ,03 Mar 2023
+"2,375,000","4 Daintree Street,",PADDINGTON QLD 4064,House,4,2,2,634m² ,03 Mar 2023
+"1,001,000","29 Bernhard Street,",PADDINGTON QLD 4064,House,2,1,1,405m² ,28 Feb 2023
+"1,850,000","15 Colville Street,",HIGHGATE HILL QLD 4101,House,4,2,3,526m² ,27 Feb 2023
+"1,575,000 ","13 Hall Street,",PADDINGTON QLD 4064,House,3,2,2,405m² ,27 Feb 2023
+"3,000,000","11 Annie Street,",PADDINGTON QLD 4064,House,5,3,2,496m² ,26 Feb 2023
+"1,702,000","310 Given Terrace,",PADDINGTON QLD 4064,House,3,2,2,240m² ,25 Feb 2023
+"1,345,000 ","45 Normanby Terrace,",KELVIN GROVE QLD 4059,House,4,2,2,405m² ,24 Feb 2023
+"2,350,000 ","17 Park Street,",SPRING HILL QLD 4000,House,5,3,2,313m² ,23 Feb 2023
+"1,475,000","95 Guthrie Street,",PADDINGTON QLD 4064,House,2,1,−,544m² ,22 Feb 2023
+"2,300,000 ","12 Burlington Street,",EAST BRISBANE QLD 4169,House,4,3,2,405m² ,2023
+"1,450,000 ","25 Balmoral Terrace,",EAST BRISBANE QLD 4169,House,3,2,2,502m² ,18 Feb 2023
+"4,450,000","98 Howard Street,",PADDINGTON QLD 4064,House,5,3,2,405m² ,2023
+"1,838,000 ","17 Errard Street,",KELVIN GROVE QLD 4059,House,3,1,1,"1,002m² ",17 Feb 2023
+"980,000","7 Bates Court,",EAST BRISBANE QLD 4169,House,3,1,−,374m² ,2023
+"1,825,000","22 Copeland Street,",MILTON QLD 4064,House,4,2,3,384m² ,13 Feb 2023
+"1,520,000 ","1 Ashfield Street,",EAST BRISBANE QLD 4169,House,5,2,2,417m² ,2023
+"1,200,000 ","10 High Street,",HIGHGATE HILL QLD 4101,House,3,1,1,420m² ,2023
+"2,550,000","42 Mowbray Terrace,",EAST BRISBANE QLD 4169,House,4,3,3,981m² ,09 Feb 2023
+"1,385,000 ","79 Arthur Street,",FORTITUDE VALLEY QLD 4006,House,5,2,2,465m² ,09 Feb 2023
+"2,270,000","31 Julia Street,",HIGHGATE HILL QLD 4101,House,5,2,2,650m² ,08 Feb 2023
+"1,700,000","31 Fernberg Road,",PADDINGTON QLD 4064,House,4,3,2,541m² ,08 Feb 2023
+"1,005,000 ","29 Tait Street,",KELVIN GROVE QLD 4059,House,4,2,1,627m² ,07 Feb 2023
+"1,225,000 ","18 Hipwood Street,",SPRING HILL QLD 4000,House,2,1,2,239m² ,07 Feb 2023
+"1,150,000 ","63 Wedd Street,",SPRING HILL QLD 4000,House,3,1,1,455m² ,2023
+"1,085,000 ","10 Gibb Street,",KELVIN GROVE QLD 4059,House,3,2,2,405m² ,03 Feb 2023
+"1,285,000 ","21 Bond Street,",WEST END QLD 4101,House,3,1,2,271m² ,03 Feb 2023
+"910,000 ","53 Glen Street,",KELVIN GROVE QLD 4059,House,2,1,1,253m² ,02 Feb 2023
+"1,620,000 ","41 Thomas Street,",KANGAROO POINT QLD 4169,House,3,1,2,448m² ,31 Jan 2023
+"1,090,000","5 Bousfield Street,",PADDINGTON QLD 4064,House,2,1,2,420m² ,28 Jan 2023
+"1,446,000 ","32 Crown Street,",SOUTH BRISBANE QLD 4101,House,4,2,4,425m² ,28 Jan 2023
+"1,377,500 ","47 Didsbury Street,",EAST BRISBANE QLD 4169,House,5,2,2,405m² ,27 Jan 2023
+"4,000,000 ","11 Avebury Street,",WEST END QLD 4101,House,5,3,3,536m² ,24 Jan 2023
+"1,125,000 ","49 Hetherington Street,",HERSTON QLD 4006,House,3,1,2,521m² ,23 Jan 2023
+"2,300,000 ","14 Addison Street,",RED HILL QLD 4059,House,5,3,2,405m² ,23 Jan 2023
+"900,000 ","41 Glen Street,",KELVIN GROVE QLD 4059,House,2,1,3,253m² ,21 Jan 2023
+"900,000 ","164A Kelvin Grove Road,",KELVIN GROVE QLD 4059,House,3,2,1,188m² ,17 Jan 2023
+"1,292,500 ","30 Addison Street,",RED HILL QLD 4059,House,3,1,1,405m² ,11 Jan 2023
+"1,100,000 ","8 Charteris Street,",PADDINGTON QLD 4064,House,3,1,−,387m² ,10 Jan 2023
+"1,370,000 ","39 Stafford Street,",EAST BRISBANE QLD 4169,House,3,2,2,354m² ,07 Jan 2023
+"1,150,000 ","15 End Street,",HIGHGATE HILL QLD 4101,House,3,1,2,420m² ,07 Jan 2023
+"1,290,000 ","48 Victoria Street,",KELVIN GROVE QLD 4059,House,3,2,2,316m² ,06 Jan 2023
+"1,700,000","7 Royal Street,",PADDINGTON QLD 4064,House,4,2,4,698m² ,30 Dec 2022
+"1,225,000 ","32 Haughton Street,",RED HILL QLD 4059,House,3,1,1,504m² ,30 Dec 2022
+"1,364,000 ","34 GERTRUDE STREET,",HIGHGATE HILL QLD 4101,House,3,2,1,295m² ,29 Dec 2022
+"1,020,000 ","12 Saint Barnabas Place,",RED HILL QLD 4059,House,3,1,2,304m² ,20 Dec 2022
+"4,750,000 ","41 Carrington Street,",PADDINGTON QLD 4064,House,1,1,2,"1,214m² ",19 Dec 2022
+"1,180,000 ","22 Blackall Terrace,",EAST BRISBANE QLD 4169,House,3,1,1,506m² ,2022
+"1,850,000 ","26 Charlotte Street,",PADDINGTON QLD 4064,House,3,2,2,450m² ,16 Dec 2022
+"1,250,000 ","80 Sinclair Street,",KANGAROO POINT QLD 4169,House,2,2,1,364m² ,15 Dec 2022
+"1,300,000 ","56 Norman Street,",EAST BRISBANE QLD 4169,House,3,1,1,473m² ,2022
+"1,680,000 ","22 Dean Street,",RED HILL QLD 4059,House,4,2,2,405m² ,14 Dec 2022
+"1,575,000 ","13 Raven Street,",WEST END QLD 4101,House,3,1,1,503m² ,13 Dec 2022
+"510,000 ","1302/67 Linton Street,",KANGAROO POINT QLD 4169,House,2,2,1,88m² ,12 Dec 2022
+"990,000","30 Charlotte Street,",PADDINGTON QLD 4064,House,2,1,1,226m² ,2022
+"1,550,000 ","23 Warmington Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,09 Dec 2022
+"1,260,000","227 Latrobe Terrace,",PADDINGTON QLD 4064,House,3,2,2,445m² ,08 Dec 2022
+"1,450,000","140A Kennedy Terrace,",PADDINGTON QLD 4064,House,4,3,2,420m² ,08 Dec 2022
+"2,425,000 ","4 Bellavista Terrace,",PADDINGTON QLD 4064,House,4,4,4,493m² ,2022
+"1,300,000 ","38 Exeter Street,",WEST END QLD 4101,House,3,1,2,266m² ,06 Dec 2022
+"920,000 ","45 Didsbury Street,",EAST BRISBANE QLD 4169,House,3,2,2,405m² ,05 Dec 2022
+"1,575,000","15 Bass Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,01 Dec 2022
+"1,180,000 ","10 Franklin Street,",KELVIN GROVE QLD 4059,House,3,2,2,604m² ,30 Nov 2022
+"1,300,000 ","12 Hipwood Street,",SPRING HILL QLD 4000,House,2,1,3,237m² ,30 Nov 2022
+"850,000 ","14 Ella Street,",RED HILL QLD 4059,House,3,1,1,252m² ,29 Nov 2022
+"1,850,000","32 Woodcock Street,",PADDINGTON QLD 4064,House,3,2,2,610m² ,28 Nov 2022
+"1,270,000 ","98 Arthur Terrace,",RED HILL QLD 4059,House,3,3,1,405m² ,28 Nov 2022
+"3,660,000 ","91 Mowbray Terrace,",EAST BRISBANE QLD 4169,House,5,1,2,"1,518m² ",2022
+"2,125,000","19 Woodcock Street,",PADDINGTON QLD 4064,House,4,3,2,405m² ,2022
+"1,310,000 ","17 Heussler Terrace,",MILTON QLD 4064,House,3,2,4,455m² ,25 Nov 2022
+"1,015,000 ","40 Didsbury Street,",EAST BRISBANE QLD 4169,House,3,1,2,405m² ,2022
+"915,000","306 Kelvin Grove Road,",KELVIN GROVE QLD 4059,House,4,1,2,425m² ,24 Nov 2022
+"3,075,000 ","43 Wilden Street,",PADDINGTON QLD 4064,House,4,2,2,405m² ,24 Nov 2022
+"3,200,000","11 Dudley Street,",HIGHGATE HILL QLD 4101,House,2,1,1,842m² ,23 Nov 2022
+"1,400,000 ","141 Vulture Street,",WEST END QLD 4101,House,5,4,4,488m² ,23 Nov 2022
+"2,900,000 ","3 High Street,",MILTON QLD 4064,House,4,3,2,506m² ,22 Nov 2022
+"4,600,000 ","22 View Street,",PADDINGTON QLD 4064,House,3,1,1,"1,144m² ",22 Nov 2022
+"1,250,000 ","18 Lutwyche Street,",PETRIE TERRACE QLD 4000,House,4,2,2,354m² ,22 Nov 2022
+"745,000 ","74 Hetherington Street,",HERSTON QLD 4006,House,3,1,1,455m² ,2022
+"1,562,500","40 Warmington Street,",PADDINGTON QLD 4064,House,3,2,1,405m² ,21 Nov 2022
+"980,000 ","49 Norman Street,",EAST BRISBANE QLD 4169,House,3,1,3,405m² ,2022
+"1,312,000 ","11 Fagan Road,",HERSTON QLD 4006,House,3,2,4,574m² ,20 Nov 2022
+"2,265,000","16 Tooth Avenue,",PADDINGTON QLD 4064,House,5,2,2,405m² ,20 Nov 2022
+"810,000 ","16 Broadhurst Street,",KELVIN GROVE QLD 4059,House,3,1,2,516m² ,19 Nov 2022
+"1,600,000","9 Belmont Crescent,",PADDINGTON QLD 4064,House,3,1,1,508m² ,19 Nov 2022
+"3,500,000","20 Daintree Street,",PADDINGTON QLD 4064,House,5,3,2,810m² ,18 Nov 2022
+"930,000 ","13 Jones Street,",RED HILL QLD 4059,House,3,1,2,190m² ,18 Nov 2022
+"2,000,000 ","6 Fraser Terrace,",HIGHGATE HILL QLD 4101,House,4,2,3,513m² ,17 Nov 2022
+"2,500,000 ","16 Grove Street,",RED HILL QLD 4059,House,4,2,3,421m² ,17 Nov 2022
+"1,365,000 ","4 Reading Street,",SPRING HILL QLD 4000,House,5,2,1,276m² ,16 Nov 2022
+"1,600,000 ","34 Guildford Street,",KELVIN GROVE QLD 4059,House,4,3,2,445m² ,2022
+"1,575,000","10 Camona Street,",KELVIN GROVE QLD 4059,House,3,2,2,405m² ,15 Nov 2022
+"1,480,000","35 Stafford Street,",PADDINGTON QLD 4064,House,3,2,2,405m² ,15 Nov 2022
+"3,430,000 ","15 Claremont Street,",RED HILL QLD 4059,House,5,3,2,407m² ,2022
+"1,545,000 ","33 Kenwyn Road,",RED HILL QLD 4059,House,3,1,2,405m² ,11 Nov 2022
+"1,500,000 ","96 Gladstone Road,",HIGHGATE HILL QLD 4101,House,5,2,1,405m² ,10 Nov 2022
+"1,660,000","23 Wilden Street,",PADDINGTON QLD 4064,House,3,2,2,405m² ,09 Nov 2022
+"2,375,000","26 Chermside Street,",HIGHGATE HILL QLD 4101,House,5,3,2,572m² ,08 Nov 2022
+"3,150,000 ","119 Herston Road,",HERSTON QLD 4006,House,5,3,2,"1,012m² ",2022
+"1,545,000","3 Derby Street,",HIGHGATE HILL QLD 4101,House,2,1,1,444m² ,02 Nov 2022
+"2,575,000 ","44 Boyd Street,",BOWEN HILLS QLD 4006,House,4,3,4,683m² ,01 Nov 2022
+"1,610,000 ","27 Parish Street,",SPRING HILL QLD 4000,House,3,2,2,228m² ,29 Oct 2022
+"1,135,000 ","37 Windsor Road,",RED HILL QLD 4059,House,4,2,1,405m² ,27 Oct 2022
+"1,840,000","70 Fernberg Road,",PADDINGTON QLD 4064,House,5,3,2,478m² ,26 Oct 2022
+"2,220,000 ","38 Abraham Street,",RED HILL QLD 4059,House,4,3,2,483m² ,4 Oct 2022
+"940,000 ","21 Ewart Street,",PADDINGTON QLD 4064,House,2,1,2,395m² ,2022
+"2,400,000 ","46 Abraham Street,",RED HILL QLD 4059,House,4,3,2,455m² ,2022
+"2,020,000","95 Stephens Road,",SOUTH BRISBANE QLD 4101,House,3,3,2,675m² ,22 Oct 2022
+"1,440,000","35 Clarence Street,",SOUTH BRISBANE QLD 4101,House,3,1,4,425m² ,2022
+"1,200,000 ","6 Dunsmore Street,",KELVIN GROVE QLD 4059,House,4,2,2,296m² ,21 Oct 2022
+"1,725,000 ","5 Bass Street,",PADDINGTON QLD 4064,House,3,1,1,406m² ,20 Oct 2022
+"437,500 ","12/6 Primrose Street,",BOWEN HILLS QLD 4006,House,2,2,1,106m² ,19 Oct 2022
+"1,681,000 ","10 Crescent Road,",KELVIN GROVE QLD 4059,House,4,2,1,754m² ,15 Oct 2022
+"3,530,000 ","39 Glenrosa Road,",RED HILL QLD 4059,House,5,3,4,"1,385m² ",2022
+"995,000","55 Latrobe Street,",EAST BRISBANE QLD 4169,House,4,2,1,354m² ,14 Oct 2022
+"4,200,000","33 Rockbourne Terrace,",PADDINGTON QLD 4064,House,5,3,4,570m² ,2 Oct 2022
+"940,000 ","9 Horsburgh Street,",KELVIN GROVE QLD 4059,House,3,2,1,162m² ,10 Oct 2022
+"1,425,000 ","53A Ellena Street,",PADDINGTON QLD 4064,House,3,1,−,483m² ,10 Oct 2022
+"805,000 ","62 Belgrave Street,",PETRIE TERRACE QLD 4000,House,4,1,1,245m² ,10 Oct 2022
+"1,560,000 ","9 Ambleside Street,",WEST END QLD 4101,House,3,1,3,283m² ,10 Oct 2022
+"2,700,000 ","24 Sussex Street,",WEST END QLD 4101,House,4,3,3,543m² ,10 Oct 2022
+"1,875,000 ","20 Sussex Street,",WEST END QLD 4101,House,3,2,6,549m² ,2022
+"1,125,000 ","35 Norman Street,",EAST BRISBANE QLD 4169,House,3,1,2,405m² ,08 Oct 2022
+"1,362,000 ","138 Butterfield Street,",HERSTON QLD 4006,House,3,2,2,259m² ,2022
+"980,000 ","28 Susan Street,",RED HILL QLD 4059,House,3,1,−,384m² ,07 Oct 2022
+"1,550,000 ","15 French Street,",PADDINGTON QLD 4064,House,3,2,2,470m² ,05 Oct 2022
+"1,400,188","8 Union Street,",SPRING HILL QLD 4000,House,6,5,4,359m² ,05 Oct 2022
+"1,085,000 ","53 Norman Street,",EAST BRISBANE QLD 4169,House,3,1,2,405m² ,03 Oct 2022
+"3,700,000","15 Ranley Terrace,",PADDINGTON QLD 4064,House,4,3,3,805m² ,01 Oct 2022
+"1,800,000 ","21 Morry Street,",WEST END QLD 4101,House,2,2,1,304m² ,2022
+"3,075,000 ","19 Hayward Street,",PADDINGTON QLD 4064,House,5,4,2,405m² ,30 Sep 2022
+"2,262,000 ","11 McCook Street,",RED HILL QLD 4059,House,4,3,2,607m² ,30 Sep 2022
+"1,525,000 ","11 Moffat Street,",MILTON QLD 4064,House,4,2,2,506m² ,27 Sep 2022
+"1,490,000 ","68 Princess Street,",KANGAROO POINT QLD 4169,House,3,2,2,300m² ,2022
+"1,900,000 ","2 Rees Street,",KELVIN GROVE QLD 4059,House,4,2,2,810m² ,24 Sep 2022
+"2,260,000 ","7 Camona Street,",KELVIN GROVE QLD 4059,House,4,3,2,810m² ,24 Sep 2022
+"1,005,000","206 Water Street,",SPRING HILL QLD 4000,House,2,1,1,169m² ,22 Sep 2022
+"1,240,000 ","64 Park Street,",KELVIN GROVE QLD 4059,House,7,7,4,405m² ,21 Sep 2022
+"1,850,000","41 Tooth Avenue,",PADDINGTON QLD 4064,House,4,2,1,374m² ,21 Sep 2022
+"1,600,000 ","30 Eureka Street,",KELVIN GROVE QLD 4059,House,5,2,2,607m² ,2022
+"1,631,000 ","19 Bowler Street,",PADDINGTON QLD 4064,House,3,1,1,524m² ,2022
+"2,300,000 ","37 Edmondstone Street,",SOUTH BRISBANE QLD 4101,House,4,1,1,685m² ,2022
+"1,010,000 ","12 Great George Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,15 Sep 2022
+"2,510,000 ","38 View Street,",PADDINGTON QLD 4064,House,4,2,2,574m² ,14 Sep 2022
+"1,005,000","79 Isaac Street,",SPRING HILL QLD 4000,House,2,2,2,202m² ,4 Sep 2022
+"1,596,000 ","1 Bramston Terrace,",HERSTON QLD 4006,House,5,3,2,556m² ,13 Sep 2022
+"2,180,000 ","26 Gebbie Street,",KELVIN GROVE QLD 4059,House,4,3,3,810m² ,13 Sep 2022
+"1,045,000 ","18 Stack Street,",RED HILL QLD 4059,House,3,2,1,301m² ,13 Sep 2022
+"1,500,000 ","19 Thorn Street,",RED HILL QLD 4059,House,3,1,1,429m² ,2 Sep 2022
+"2,600,000","9 Latrobe Terrace,",PADDINGTON QLD 4064,House,2,2,7,468m² ,09 Sep 2022
+"1,250,000 ","582 Vulture Street E,",EAST BRISBANE QLD 4169,House,5,3,1,506m² ,08 Sep 2022
+"1,190,000 ","72 Guthrie Street,",PADDINGTON QLD 4064,House,3,1,1,443m² ,07 Sep 2022
+"1,780,000 ","11 Hanworth Street,",EAST BRISBANE QLD 4169,House,6,3,−,405m² ,05 Sep 2022
+"1,550,000 ","60 Rawlins Street,",KANGAROO POINT QLD 4169,House,3,1,1,620m² ,3 Sep 2022
+"3,050,000","16 Cochrane Street,",PADDINGTON QLD 4064,House,4,3,2,513m² ,03 Sep 2022
+"1,321,000","27 Terrace Street,",PADDINGTON QLD 4064,House,2,1,2,245m² ,03 Sep 2022
+"985,000 ","1/90 Cochrane Street,",RED HILL QLD 4059,House,3,2,2,222m² ,02 Sep 2022
+"1,840,000 ","16 Lucy Street,",MILTON QLD 4064,House,5,3,5,459m² ,01 Sep 2022
+"3,600,000","53 Charteris Street,",PADDINGTON QLD 4064,House,4,4,2,344m² ,2022
+"2,070,000 ","3 Hipwood Street,",SPRING HILL QLD 4000,House,5,2,3,405m² ,30 Aug 2022
+"1,065,000","32 Normanby Terrace,",KELVIN GROVE QLD 4059,House,2,2,1,405m² ,29 Aug 2022
+"1,575,000 ","22 Addison Street,",RED HILL QLD 4059,House,3,2,3,405m² ,29 Aug 2022
+"1,530,000","34 Walmsley Street,",KANGAROO POINT QLD 4169,House,3,1,1,501m² ,2022
+"2,100,000","25 Alma Street,",PADDINGTON QLD 4064,House,5,3,2,405m² ,27 Aug 2022
+"1,210,000 ","1 Drynan Street,",PADDINGTON QLD 4064,House,3,1,2,322m² ,25 Aug 2022
+"1,590,000 ","34 Cambridge Street,",RED HILL QLD 4059,House,6,2,2,573m² ,25 Aug 2022
+"1,850,000 ","29 Hetherington Street,",HERSTON QLD 4006,House,4,2,2,493m² ,24 Aug 2022
+"3,300,000 ","204 Kennedy Terrace,",PADDINGTON QLD 4064,House,5,2,3,799m² ,24 Aug 2022
+"2,450,000 ","32 Mulgrave Street,",SPRING HILL QLD 4000,House,5,3,2,329m² ,22 Aug 2022
+"2,310,000 ","30 Hipwood Street,",SPRING HILL QLD 4000,House,4,1,1,651m² ,19 Aug 2022
+"1,320,000 ","30 Middle Street,",HIGHGATE HILL QLD 4101,House,4,1,2,567m² ,2022
+"1,320,000 ","30 Middle Street,",HIGHGATE HILL QLD 4101,House,4,1,2,567m² ,2022
+"2,110,000","44 Herbert Street,",PADDINGTON QLD 4064,House,4,2,3,405m² ,18 Aug 2022
+"1,800,000 ","21 Bathurst Street,",RED HILL QLD 4059,House,3,2,4,405m² ,8 Aug 2022
+"1,960,000 ","25 Belmont Crescent,",PADDINGTON QLD 4064,House,4,4,2,729m² ,17 Aug 2022
+"1,500,000","67 Glenrosa Road,",RED HILL QLD 4059,House,4,3,2,445m² ,15 Aug 2022
+"1,370,000","71 Glen Street,",KELVIN GROVE QLD 4059,House,4,3,2,258m² ,14 Aug 2022
+"1,240,000 ","23 Gresham Street,",EAST BRISBANE QLD 4169,House,2,1,2,673m² ,2022
+"1,142,000","19 Princess Street,",PETRIE TERRACE QLD 4000,House,3,1,2,182m² ,13 Aug 2022
+"1,150,000 ","54 Heidelberg Street,",EAST BRISBANE QLD 4169,House,3,2,1,407m² ,2 Aug 2022
+"3,230,000","308 Given Terrace,",PADDINGTON QLD 4064,House,5,3,2,463m² ,12 Aug 2022
+"1,700,000 ","139 Arthur Terrace,",RED HILL QLD 4059,House,4,2,2,403m² ,11 Aug 2022
+"915,000 ","19 Overend Street,",EAST BRISBANE QLD 4169,House,3,1,2,430m² ,10 Aug 2022
+"2,620,000 ","103 Kennedy Terrace,",PADDINGTON QLD 4064,House,5,3,2,810m² ,08 Aug 2022
+"1,270,000 ","30 Addison Street,",RED HILL QLD 4059,House,2,1,1,405m² ,08 Aug 2022
+"1,270,000 ","16 Claremont Street,",RED HILL QLD 4059,House,3,2,2,405m² ,08 Aug 2022
+"1,061,900 ","35 Bramble Terrace,",RED HILL QLD 4059,House,3,1,2,405m² ,08 Aug 2022
+"1,682,500","267 Boundary Street,",WEST END QLD 4101,House,4,2,1,405m² ,06 Aug 2022
+"4,275,000 ","215-217 Vulture Street,",SOUTH BRISBANE QLD 4101,House,24,7,10,"1,204m² ",05 Aug 2022
+"1,425,000","7 Speedy Street,",KELVIN GROVE QLD 4059,House,3,2,1,405m² ,03 Aug 2022
+"4,350,000 ","47 Orleigh Street,",WEST END QLD 4101,House,4,3,4,739m² ,03 Aug 2022
+"1,309,800","17 High Street,",MILTON QLD 4064,House,3,2,1,253m² ,01 Aug 2022
+"1,450,000","14 Rees Street,",KELVIN GROVE QLD 4059,House,4,2,2,405m² ,30 Jul 2022
+"2,050,000 ","48 Jane Street,",WEST END QLD 4101,House,3,2,2,450m² ,2022
+"4,650,000","21 Laidlaw Parade,",EAST BRISBANE QLD 4169,House,3,2,2,483m² ,29 Jul 2022
+"1,475,000 ","20 Emeline Street,",KELVIN GROVE QLD 4059,House,4,3,2,304m² ,29 Jul 2022
+"1,200,000 ","32 Pearson Street,",KANGAROO POINT QLD 4169,House,3,1,2,405m² ,28 Jul 2022
+"1,280,000","1 Charteris Street,",PADDINGTON QLD 4064,House,3,2,2,244m² ,2022
+"1,800,000","15 Devon Street,",RED HILL QLD 4059,House,4,2,4,407m² ,28 Jul 2022
+"2,700,000","68 Browning Street,",SOUTH BRISBANE QLD 4101,House,4,3,4,898m² ,28 Jul 2022
+"1,430,000 ","12 Primrose Terrace,",RED HILL QLD 4059,House,3,1,1,529m² ,27 Jul 2022
+"2,025,000","134 Dornoch Terrace,",HIGHGATE HILL QLD 4101,House,4,3,3,407m² ,26 Jul 2022
+"1,715,000 ","9 Dyne Street,",RED HILL QLD 4059,House,4,2,1,405m² ,25 Jul 2022
+"1,485,000 ","68 Herbert Street,",PADDINGTON QLD 4064,House,0,0,0,405m² ,22 Jul 2022
+"1,900,000 ","37 Mornington Street,",RED HILL QLD 4059,House,4,3,2,359m² ,9 Jul 2022
+"1,500,000 ","22 Sorrel Street,",PADDINGTON QLD 4064,House,3,1,2,405m² ,18 Jul 2022
+"1,370,000","23 Brindle Street,",PADDINGTON QLD 4064,House,3,2,2,354m² ,16 Jul 2022
+"1,620,000 ","23 Royal Avenue,",SPRING HILL QLD 4000,House,3,2,2,225m² ,14 Jul 2022
+"1,270,000 ","12 Franklin Street,",KELVIN GROVE QLD 4059,House,2,2,1,604m² ,13 Jul 2022
+"1,380,000","18 Monro Street,",KELVIN GROVE QLD 4059,House,4,2,2,607m² ,12 Jul 2022
+"2,200,000 ","61 Bank Terrace,",PADDINGTON QLD 4064,House,3,2,2,405m² ,12 Jul 2022
+"4,200,000","37 Warmington Street,",PADDINGTON QLD 4064,House,5,4,2,607m² ,2 Jul 2022
+"2,080,000 ","10 Hammond Street,",RED HILL QLD 4059,House,2,2,2,576m² ,04 Jul 2022
+"1,220,000 ","2A Didsbury Street,",EAST BRISBANE QLD 4169,House,3,1,2,308m² ,2022
+"1,015,000 ","26 Moy Street,",KELVIN GROVE QLD 4059,House,2,1,−,405m² ,2022
+"1,780,000 ","15 Jones Street,",RED HILL QLD 4059,House,3,2,2,380m² ,02 Jul 2022
+"1,700,000 ","6 Brereton Street,",SOUTH BRISBANE QLD 4101,House,4,2,2,405m² ,02 Jul 2022
+"855,000","321 Milton Road,",MILTON QLD 4064,House,3,1,6,450m² ,01 Jul 2022
+"1,880,000","78 Gray Road,",WEST END QLD 4101,House,3,1,2,405m² ,27 Jun 2022
+"975,000 ","91 Princess Street,",PETRIE TERRACE QLD 4000,House,2,1,3,185m² ,23 Jun 2022
+"1,055,000 ","24 Paris Street,",WEST END QLD 4101,House,2,1,1,253m² ,23 Jun 2022
+"970,000 ","56 Glen Street,",KELVIN GROVE QLD 4059,House,2,1,1,212m² ,21 Jun 2022
+"2,240,000 ","15 O'Connell Place,",RED HILL QLD 4059,House,5,3,2,395m² ,20 Jun 2022
+"2,550,000 ","48 Bernhard Street,",PADDINGTON QLD 4064,House,4,3,2,405m² ,2022
+"1,300,000","38 Latrobe Terrace,",PADDINGTON QLD 4064,House,5,2,2,405m² ,18 Jun 2022
+"2,025,000","46 Latrobe Terrace,",PADDINGTON QLD 4064,House,7,1,4,848m² ,17 Jun 2022
+"1,400,000 ","972 Stanley Street East,",EAST BRISBANE QLD 4169,House,5,2,2,436m² ,16 Jun 2022
+"1,530,000","29 Roche Avenue,",BOWEN HILLS QLD 4006,House,3,2,2,144m² ,15 Jun 2022
+"1,200,000 ","21 Hilton Street,",EAST BRISBANE QLD 4169,House,3,2,2,645m² ,2022
+"1,900,000 ","9 Praed Street,",RED HILL QLD 4059,House,5,3,2,498m² ,15 Jun 2022
+"1,950,000 ","12 Fairfax Street,",RED HILL QLD 4059,House,4,2,2,439m² ,15 Jun 2022
+"1,670,000","18 Rosecliffe Street,",HIGHGATE HILL QLD 4101,House,3,2,2,405m² ,13 Jun 2022
+"1,555,000","1 Horsburgh Street,",KELVIN GROVE QLD 4059,House,3,2,2,162m² ,2022
+"1,400,000 ","31 Guildford Street,",KELVIN GROVE QLD 4059,House,2,1,2,607m² ,10 Jun 2022
+"1,295,000 ","65 Glen Street,",KELVIN GROVE QLD 4059,House,4,2,2,253m² ,09 Jun 2022
+"1,080,000","13 Confederate Street,",RED HILL QLD 4059,House,6,2,−,263m² ,09 Jun 2022
+"940,000 ","10 Vale Street,",KELVIN GROVE QLD 4059,House,2,1,2,253m² ,8 Jun 2022
+"1,300,000 ","80 Berry Street,",SPRING HILL QLD 4000,House,4,2,2,228m² ,08 Jun 2022
+"1,825,000","11 Boyd Street,",BOWEN HILLS QLD 4006,House,3,1,1,422m² ,07 Jun 2022
+"1,390,000","37 Lintern Street,",RED HILL QLD 4059,House,3,1,1,405m² ,07 Jun 2022
+"2,565,000","2 Central Avenue,",PADDINGTON QLD 4064,House,5,2,2,407m² ,06 Jun 2022
+"1,250,000 ","259 Water Street,",SPRING HILL QLD 4000,House,2,2,2,235m² ,05 Jun 2022
+"1,378,000","68 Hardgrave Road,",WEST END QLD 4101,House,3,2,2,266m² ,2022
+"1,715,000","22 Fleming Road,",HERSTON QLD 4006,House,3,1,2,434m² ,04 Jun 2022
+"2,250,000","28 Bernhard Street,",PADDINGTON QLD 4064,House,4,2,2,405m² ,04 Jun 2022
+"1,820,000","55 Bank Terrace,",PADDINGTON QLD 4064,House,3,1,2,405m² ,04 Jun 2022
+"1,170,000","129 Stephens Road,",SOUTH BRISBANE QLD 4101,House,2,1,2,425m² ,2022
+"960,000","26 Withington Street,",EAST BRISBANE QLD 4169,House,3,2,2,405m² ,02 Jun 2022
+"1,385,023 ","104 Princess Street,",PETRIE TERRACE QLD 4000,House,3,3,4,320m² ,02 Jun 2022
+"1,780,000","45 Loch Street,",WEST END QLD 4101,House,3,2,2,450m² ,02 Jun 2022
+"1,927,500 ","55 Bristol Street,",WEST END QLD 4101,House,4,2,2,410m² ,2022
+"2,720,000 ","33 Elizabeth Street,",PADDINGTON QLD 4064,House,4,4,2,405m² ,31 May 2022
+"1,825,000 ","19 Bristol Street,",WEST END QLD 4101,House,4,3,2,405m² ,30 May 2022
+"2,100,000","20 Sexton Street,",HIGHGATE HILL QLD 4101,House,6,2,2,736m² ,28 May 2022
+"4,200,000 ","6A Agars Street,",PADDINGTON QLD 4064,House,5,4,3,606m² ,2022
+"1,210,000 ","41 Windsor Road,",RED HILL QLD 4059,House,3,2,1,405m² ,28 May 2022
+"12,500,000 ","29 Laidlaw Parade,",EAST BRISBANE QLD 4169,House,5,6,4,597m² ,27 May 2022
+"1,350,000 ","97 Scott Road,",HERSTON QLD 4006,House,4,2,2,607m² ,27 May 2022
+"4,250,000 ",,PADDINGTON QLD 4064,House,5,3,3,574m² ,27 May 2022
+"1,615,000 ","116 Cochrane Street,",RED HILL QLD 4059,House,4,2,2,261m² ,27 May 2022
+"1,012,000 ","17 Glassey Street,",RED HILL QLD 4059,House,3,1,2,259m² ,27 May 2022
+"2,125,000","24 Sexton Street,",HIGHGATE HILL QLD 4101,House,6,2,2,721m² ,25 May 2022
+"1,380,000",,HIGHGATE HILL QLD 4101,House,4,2,−,607m² ,24 May 2022
+"940,500 ","3 Cross Street,",RED HILL QLD 4059,House,2,2,−,354m² ,24 May 2022
+"2,900,000","188 Baroona Road,",PADDINGTON QLD 4064,House,4,4,3,405m² ,20 May 2022
+"1,000,000","75 Hale Street,",PETRIE TERRACE QLD 4000,House,3,2,4,273m² ,20 May 2022
+"2,900,000","64 Cambridge Street,",RED HILL QLD 4059,House,5,3,2,562m² ,20 May 2022
+"2,300,000 ","149 Fortescue Street,",SPRING HILL QLD 4000,House,7,2,4,283m² ,20 May 2022
+"1,310,000","130 Kennigo Street,",SPRING HILL QLD 4000,House,3,2,2,202m² ,19 May 2022
+"1,600,000 ","67 Thomas Street,",WEST END QLD 4101,House,3,1,3,334m² ,2022
+"1,400,000 ","9 Eureka Street,",KELVIN GROVE QLD 4059,House,3,2,1,405m² ,7 May 2022
+"2,550,000 ","11 Glengowrie Lane,",RED HILL QLD 4059,House,6,3,2,825m² ,17 May 2022
+"1,500,000 ","107 Windsor Road,",RED HILL QLD 4059,House,3,1,1,486m² ,17 May 2022
+"1,230,000 ","31 Gloucester Street,",HIGHGATE HILL QLD 4101,House,3,2,2,359m² ,16 May 2022
+"1,100,000 ","36 Upper Clifton Terrace,",RED HILL QLD 4059,House,6,4,2,425m² ,16 May 2022
+"1,310,000 ","52 Longlands Street,",EAST BRISBANE QLD 4169,House,4,1,2,405m² ,2022
+"1,805,000","129 Princess Street,",KANGAROO POINT QLD 4169,House,4,2,2,405m² ,2022
+"2,120,000 ","129 Enoggera Terrace,",PADDINGTON QLD 4064,House,2,1,2,607m² ,2022
+"860,000 ","39 Earl Street,",PETRIE TERRACE QLD 4000,House,2,1,−,159m² ,2022
+"1,576,000 ","32 Corbett Street,",WEST END QLD 4101,House,3,1,2,268m² ,2022
+"1,920,000 ","20 Daventry Street,",WEST END QLD 4101,House,5,2,2,519m² ,2022
+"1,387,500 ","27 Elston Street,",RED HILL QLD 4059,House,6,3,4,387m² ,11 May 2022
+"1,600,000 ","1 Thornbury Street,",SPRING HILL QLD 4000,House,6,8,1,370m² ,10 May 2022
+"1,220,000 ","28 Hipwood Street,",SPRING HILL QLD 4000,House,2,1,1,201m² ,09 May 2022
+"3,705,000 ","191 Arthur Street,",FORTITUDE VALLEY QLD 4006,House,3,1,2,698m² ,2022
+"1,660,000 ","48 Park Street,",KELVIN GROVE QLD 4059,House,4,2,2,405m² ,2022
+"1,900,000","28 Latrobe Terrace,",PADDINGTON QLD 4064,House,2,2,−,405m² ,07 May 2022
+"1,660,000 ","24 Chester Street,",HIGHGATE HILL QLD 4101,House,4,1,1,531m² ,06 May 2022
+"1,250,000","130 Musgrave Road,",RED HILL QLD 4059,House,3,2,2,577m² ,05 May 2022
+"1,740,000 ","18 Sexton Street,",HIGHGATE HILL QLD 4101,House,3,1,3,478m² ,30 Apr 2022
+"1,700,000","14 Paton Street,",KANGAROO POINT QLD 4169,House,6,3,3,481m² ,29 Apr 2022
+"1,440,000","21 Imperial Terrace,",PADDINGTON QLD 4064,House,2,1,−,544m² ,2022
+"1,845,000 ","55 Charlotte Street,",PADDINGTON QLD 4064,House,3,1,3,405m² ,2022
+"2,330,000 ","12 Hawthorn Terrace,",RED HILL QLD 4059,House,5,3,3,822m² ,21 Apr 2022
+"1,235,000 ","59 Vale Street,",KELVIN GROVE QLD 4059,House,4,2,2,253m² ,20 Apr 2022
+"1,400,000 ","26 Guthrie Street,",PADDINGTON QLD 4064,House,2,1,1,405m² ,19 Apr 2022
+"1,110,000","1/63 Charlotte Street,",PADDINGTON QLD 4064,House,4,3,2,213m² ,15 Apr 2022
+"1,850,000","30 Skinner Street,",WEST END QLD 4101,House,3,2,2,420m² ,2022
+"1,155,000","2B Kingfisher Lane,",EAST BRISBANE QLD 4169,House,4,3,2,168m² ,12 Apr 2022
+"1,070,000 ","185 Gladstone Road,",HIGHGATE HILL QLD 4101,House,3,1,1,248m² ,12 Apr 2022
+"1,210,000","8/17 Arthur Terrace,",RED HILL QLD 4059,House,4,3,4,191m² ,11 Apr 2022
+"2,158,500","7 Sweetman Street,",RED HILL QLD 4059,House,4,3,2,388m² ,09 Apr 2022
+"1,240,000 ","33 Archibald Street,",WEST END QLD 4101,House,2,3,2,146m² ,09 Apr 2022
+"1,230,000 ","30 Young Street,",MILTON QLD 4064,House,3,1,2,410m² ,08 Apr 2022
+"1,600,000 ","180 Musgrave Road,",RED HILL QLD 4059,House,3,2,3,443m² ,08 Apr 2022
+"1,600,000 ","80 Hampstead road,",HIGHGATE HILL QLD 4101,House,3,1,1,387m² ,7 Apr 2022
+"1,730,000","12 Bally Street,",KELVIN GROVE QLD 4059,House,4,2,2,809m² ,07 Apr 2022
+"1,203,000","40 Isaac Street,",SPRING HILL QLD 4000,House,2,1,5,202m² ,06 Apr 2022
+"1,203,000","40 Isaac Street,",SPRING HILL QLD 4000,House,2,1,5,202m² ,06 Apr 2022
+"1,600,000 ","83 Ellena Street,",PADDINGTON QLD 4064,House,4,3,2,241m² ,05 Apr 2022
+"1,080,000","43 Cricket Street,",PETRIE TERRACE QLD 4000,House,3,1,2,218m² ,05 Apr 2022
+"1,480,000 ","33 Princhester Street,",WEST END QLD 4101,House,3,1,2,268m² ,2022
+"1,620,000 ","93 Elizabeth Street,",PADDINGTON QLD 4064,House,3,1,2,405m² ,02 Apr 2022
+"3,500,000 ","194 Latrobe Terrace,",PADDINGTON QLD 4064,House,4,2,2,843m² ,01 Apr 2022
+"1,329,500","42 Saint James Street (AKA 14 Earl Street),",PETRIE TERRACE QLD 4000,House,3,2,1,164m² ,01 Apr 2022
+"1,800,000","14 Harriet Street,",RED HILL QLD 4059,House,4,3,2,435m² ,30 Mar 2022
+"931,000 ","306 Kelvin Grove Road,",KELVIN GROVE QLD 4059,House,4,1,2,425m² ,29 Mar 2022
+"2,800,000 ","11 Copeland Street,",MILTON QLD 4064,House,5,3,3,622m² ,28 Mar 2022
+"1,015,000 ","2B Rosslyn Street,",EAST BRISBANE QLD 4169,House,3,2,1,192m² ,2022
+"2,390,000","36 West Street,",HIGHGATE HILL QLD 4101,House,4,3,3,438m² ,2022
+"2,420,000 ","65 Sinclair Street,",KANGAROO POINT QLD 4169,House,5,2,2,405m² ,26 Mar 2022
+"1,300,000","106 Cochrane Street,",RED HILL QLD 4059,House,5,3,1,339m² ,26 Mar 2022
+"1,900,000 ","27 Carrington Street,",PADDINGTON QLD 4064,House,5,3,1,453m² ,25 Mar 2022
+"2,340,000","32 Prospect Terrace,",HIGHGATE HILL QLD 4101,House,4,3,2,663m² ,24 Mar 2022
+"1,165,000","30 Woolcock Street,",RED HILL QLD 4059,House,3,2,1,276m² ,24 Mar 2022
+"1,240,000","3 Winship Street,",RED HILL QLD 4059,House,3,2,2,277m² ,24 Mar 2022
+"1,450,000","21 Kingfisher Lane,",EAST BRISBANE QLD 4169,House,4,2,2,245m² ,21 Mar 2022
+"1,595,000 ","16-18 Dover Street,",RED HILL QLD 4059,House,6,2,4,606m² ,21 Mar 2022
+"1,075,000 ","77 Longlands Street,",EAST BRISBANE QLD 4169,House,3,1,2,405m² ,19 Mar 2022
+"3,175,000 ","27 Prospect Street,",FORTITUDE VALLEY QLD 4006,House,4,3,2,253m² ,19 Mar 2022
+"2,740,000 ","127 Gray Road,",WEST END QLD 4101,Duplex,2,1,1,810m² ,2022
+"1,275,000 ","10 Dalley Street,",KELVIN GROVE QLD 4059,House,4,2,2,240m² ,15 Mar 2022
+"2,210,000","40 Craig Street,",RED HILL QLD 4059,House,5,3,1,425m² ,15 Mar 2022
+"1,715,000 ","16 Murray Street,",RED HILL QLD 4059,House,4,2,2,422m² ,15 Mar 2022
+"1,275,000","44 Dauphin Terrace,",HIGHGATE HILL QLD 4101,House,5,3,2,405m² ,2022
+"1,190,000 ","37A Baynes Street,",HIGHGATE HILL QLD 4101,House,2,1,1,252m² ,2022
+"1,275,000","17 Menzies Street,",PETRIE TERRACE QLD 4000,House,3,2,1,155m² ,11 Mar 2022
+"2,425,000 ","19 Evelyn Street,",PADDINGTON QLD 4064,House,3,1,1,708m² ,10 Mar 2022
+"1,700,000 ","108 Cochrane Street,",RED HILL QLD 4059,House,4,2,2,339m² ,09 Mar 2022
+"900,000","3/18 Young Street,",MILTON QLD 4064,House,4,2,1,274m² ,08 Mar 2022
+"1,500,000 ","17 Picot Street,",KELVIN GROVE QLD 4059,House,3,2,1,584m² ,2022
+"1,310,000 ","10 Regent Street,",PETRIE TERRACE QLD 4000,House,2,2,−,185m² ,06 Mar 2022
+"1,203,000 ","30 Edgar Street,",EAST BRISBANE QLD 4169,House,4,2,2,304m² ,2022
+"1,600,000 ","28 Skinner Street,",WEST END QLD 4101,House,3,1,2,455m² ,2022
+"1,500,000 ","42 Ellena Street,",PADDINGTON QLD 4064,House,2,1,1,405m² ,03 Mar 2022
+"1,420,000 ","19 Susan Street,",RED HILL QLD 4059,House,3,2,2,422m² ,03 Mar 2022
+"2,550,000","27 Gladstone Street,",PADDINGTON QLD 4064,House,4,4,2,405m² ,02 Mar 2022
+"1,600,000","73 Menzies Street,",PETRIE TERRACE QLD 4000,House,5,5,1,228m² ,2022
+"2,000,000","37 Stevenson Street,",PADDINGTON QLD 4064,House,4,4,2,412m² ,01 Mar 2022
+"1,010,623 ","21 Park Street,",KELVIN GROVE QLD 4059,House,2,1,1,405m² ,28 Feb 2022
+"1,544,000 ","13 Jane Street,",WEST END QLD 4101,House,3,2,2,379m² ,28 Feb 2022
+"1,223,000 ","19 Grace Street,",KANGAROO POINT QLD 4169,House,3,1,2,412m² ,2022
+"1,800,000","30 Central Avenue,",PADDINGTON QLD 4064,House,3,1,2,368m² ,26 Feb 2022
+"1,557,000 ","49 Fleming Road,",HERSTON QLD 4006,House,4,2,2,243m² ,25 Feb 2022
+"1,333,000","13 Gebbie Street,",KELVIN GROVE QLD 4059,House,3,1,4,265m² ,25 Feb 2022
+"389,000 ","40/22 Barry Parade,",FORTITUDE VALLEY QLD 4006,House,2,1,1,75m² ,21 Feb 2022
+"1,057,500 ","47 Eureka Street,",KELVIN GROVE QLD 4059,House,3,1,1,405m² ,18 Feb 2022
+"1,750,000 ","19 Moy Street,",KELVIN GROVE QLD 4059,House,5,2,2,607m² ,18 Feb 2022
+"2,510,000 ","22 Brigalow Street,",PADDINGTON QLD 4064,House,4,3,3,600m² ,18 Feb 2022
+"1,200,000 ","16 Paris Street,",WEST END QLD 4101,House,3,1,2,253m² ,18 Feb 2022
+"1,210,000 ","39 Heidelberg Street,",EAST BRISBANE QLD 4169,House,3,1,1,405m² ,2022
+"1,200,000 ","2/35 Ozanne Street,",PADDINGTON QLD 4064,House,3,1,4,238m² ,17 Feb 2022
+"1,255,000 ","17 Little Street,",KELVIN GROVE QLD 4059,House,3,1,1,405m² ,2022
+"4,500,000","92A Howard Street,",PADDINGTON QLD 4064,House,5,3,3,607m² ,14 Feb 2022
+"1,130,000 ","32 Vale Street,",KELVIN GROVE QLD 4059,House,2,1,3,253m² ,13 Feb 2022
+"1,210,000 ","25 Argyle Street,",RED HILL QLD 4059,House,2,1,3,506m² ,13 Feb 2022
+"1,515,000 ","10 Cintra Road,",BOWEN HILLS QLD 4006,House,3,2,1,400m² ,2022
+"1,170,000 ","29 Thorn Street,",RED HILL QLD 4059,House,3,1,2,429m² ,2022
+"1,376,000 ","88 Bradley Street,",SPRING HILL QLD 4000,House,2,1,1,124m² ,12 Feb 2022
+"3,550,000 ","29 Whynot Street,",WEST END QLD 4101,House,5,4,2,528m² ,2022
+"1,107,500","11 Normanby Terrace,",KELVIN GROVE QLD 4059,House,3,2,1,351m² ,11 Feb 2022
+"1,275,000 ","23 Jumna Street,",WEST END QLD 4101,House,2,1,−,405m² ,10 Feb 2022
+"1,750,000 ","7 Spring Street,",WEST END QLD 4101,House,3,1,1,457m² ,10 Feb 2022
+"1,625,000 ","28 Prospect Street,",FORTITUDE VALLEY QLD 4006,House,3,2,4,253m² ,09 Feb 2022
+"1,925,000 ","37 Dorchester Street,",SOUTH BRISBANE QLD 4101,House,4,1,2,627m² ,2022
+"1,545,000 ","11 Bousfield Street,",PADDINGTON QLD 4064,House,3,1,1,438m² ,08 Feb 2022
+"1,015,000 ","36 Latrobe Street,",EAST BRISBANE QLD 4169,House,3,1,2,354m² ,2022
+"3,000,000","7 Bousfield Street,",PADDINGTON QLD 4064,House,5,4,3,425m² ,05 Feb 2022
+"1,388,000","20 Stafford Street,",PADDINGTON QLD 4064,House,4,3,2,207m² ,05 Feb 2022
+"1,800,000 ","6 Belleview Parade,",PADDINGTON QLD 4064,House,3,1,1,498m² ,2022
+"2,080,000","20 Dean Street,",RED HILL QLD 4059,House,4,3,2,810m² ,04 Feb 2022
+"1,350,000","3 Victoria Terrace,",BOWEN HILLS QLD 4006,House,3,1,1,455m² ,03 Feb 2022
+"1,700,000 ","7 Bass Street,",PADDINGTON QLD 4064,House,3,1,2,408m² ,03 Feb 2022
+"1,625,000 ","17 Elizabeth Street,",PADDINGTON QLD 4064,House,2,1,2,405m² ,02 Feb 2022
+"2,240,000 ","148 Butterfield Street,",HERSTON QLD 4006,House,3,2,2,"1,011m² ",30 Jan 2022
+"1,310,000","54 Pratten Street,",PETRIE TERRACE QLD 4000,House,3,1,1,235m² ,30 Jan 2022
+"1,775,000 ","18 Susan Street,",RED HILL QLD 4059,House,4,3,2,384m² ,2022
+"1,175,000","79 Longlands St,",EAST BRISBANE QLD 4169,House,2,1,2,405m² ,28 Jan 2022
+"1,750,000 ","11 Jacaranda Lane,",RED HILL QLD 4059,House,5,2,2,964m² ,28 Jan 2022
+"1,400,000 ","36 Twine Street,",SPRING HILL QLD 4000,House,3,2,2,284m² ,28 Jan 2022
+"1,580,000 ","19 Ashfield Street,",EAST BRISBANE QLD 4169,House,3,3,2,420m² ,2022
+"1,100,000","50 Stafford Street,",PADDINGTON QLD 4064,House,1,2,−,405m² ,27 Jan 2022
+"1,425,000","43 Hove Street,",HIGHGATE HILL QLD 4101,House,3,1,2,455m² ,25 Jan 2022
+"1,605,000 ","8 Campbell Street,",PADDINGTON QLD 4064,House,6,3,2,455m² ,25 Jan 2022
+"1,375,000 ","13 Parish Street,",SPRING HILL QLD 4000,House,3,1,2,304m² ,25 Jan 2022
+"837,000 ","13/24 Kurilpa Street,",WEST END QLD 4101,Terrace,2,2,2,75m² ,25 Jan 2022
+"1,700,000 ","10 O'Connell Place,",RED HILL QLD 4059,House,4,2,2,425m² ,24 Jan 2022
+"3,550,000 ","37 - 39 Lisburn Street,",EAST BRISBANE QLD 4169,House,3,1,8,"1,184m² ",22 Jan 2022
+"1,220,000","42 Guildford Street,",KELVIN GROVE QLD 4059,House,3,2,2,309m² ,20 Jan 2022
+"1,450,000 ","42 Hunter Street,",KELVIN GROVE QLD 4059,House,4,2,2,625m² ,19 Jan 2022
+"3,747,000 ","101 Herston Road,",KELVIN GROVE QLD 4059,House,3,3,2,"1,045m² ",16 Jan 2022
+"1,530,000 ","36 Ozanne Street,",PADDINGTON QLD 4064,House,3,3,−,503m² ,14 Jan 2022
+"1,100,000 ","175 Gladstone Road,",HIGHGATE HILL QLD 4101,House,3,1,2,425m² ,12 Jan 2022
+"1,075,000","40 Vale St,",KELVIN GROVE QLD 4059,House,3,1,2,253m² ,12 Jan 2022
+"1,970,000","42 Upper Cairns Terrace,",PADDINGTON QLD 4064,House,2,1,1,453m² ,12 Jan 2022
+"1,400,000 ","226 Baroona Road,",PADDINGTON QLD 4064,House,3,2,2,506m² ,02 Jan 2022
+"2,725,000","4 Norwood Terrace,",PADDINGTON QLD 4064,House,4,3,2,445m² ,29 Dec 2021
+"1,100,000 ","159 Kelvin Grove Road,",KELVIN GROVE QLD 4059,House,4,2,4,683m² ,24 Dec 2021
+"1,985,000 ","35 Tooth Avenue,",PADDINGTON QLD 4064,House,3,2,2,701m² ,24 Dec 2021
+"2,450,000 ","6 Gulliver Street,",PADDINGTON QLD 4064,House,5,3,3,926m² ,22 Dec 2021
+"1,320,000","56 Kennigo Street,",SPRING HILL QLD 4000,House,3,2,3,262m² ,2021
+"1,710,000 ","46 Gladstone Street,",PADDINGTON QLD 4064,House,4,2,3,304m² ,2021
+"1,150,500 ","112 Cochrane Street,",RED HILL QLD 4059,House,2,1,1,261m² ,20 Dec 2021
+"1,494,500 ","14 Fagan Road,",HERSTON QLD 4006,House,3,1,2,405m² ,19 Dec 2021
+"1,355,000 ","34 Bromley Street,",KANGAROO POINT QLD 4169,House,3,1,2,450m² ,2021
+"1,415,000 ","25 Mullin Street,",PADDINGTON QLD 4064,House,3,3,1,329m² ,2021
+"1,695,000","17 WOLSELEY STREET,",PADDINGTON QLD 4064,House,3,2,2,409m² ,18 Dec 2021
+"1,495,000 ","5 High Street,",MILTON QLD 4064,House,3,1,4,253m² ,17 Dec 2021
+"1,250,000 ","8 View Street,",PADDINGTON QLD 4064,House,3,1,3,405m² ,2021
+"1,480,000 ","80 Gresham Street,",EAST BRISBANE QLD 4169,House,4,2,1,501m² ,2021
+"1,350,000 ","29 Elizabeth Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,12 Dec 2021
+"1,710,000","14 Chermside Street,",HIGHGATE HILL QLD 4101,House,4,2,−,463m² ,2021
+"1,520,000 ","60 Bell Street,",KANGAROO POINT QLD 4169,House,6,2,1,410m² ,2021
+"1,675,000","40 Moffat Street,",MILTON QLD 4064,House,4,2,3,513m² ,2021
+"1,250,000","19 Rockbourne Terrace,",PADDINGTON QLD 4064,House,3,1,−,594m² ,2021
+"4,200,000 ","20 Glanmire Street,",PADDINGTON QLD 4064,House,5,5,3,630m² ,11 Dec 2021
+"920,000 ","277 Kelvin Grove Road,",KELVIN GROVE QLD 4059,House,3,2,2,561m² ,10 Dec 2021
+"1,407,000","29 Chester Street,",HIGHGATE HILL QLD 4101,House,3,2,3,405m² ,2021
+"910,000 ","27 Vale Street,",KELVIN GROVE QLD 4059,House,3,1,−,248m² ,9 Dec 2021
+"2,100,000 ","19 Blaxland Street,",MILTON QLD 4064,House,4,3,3,455m² ,08 Dec 2021
+"1,700,000","99 Lower Cairns Terrace,",PADDINGTON QLD 4064,House,3,1,2,435m² ,08 Dec 2021
+"2,055,000 ","9 Agars Street,",PADDINGTON QLD 4064,House,4,2,1,443m² ,08 Dec 2021
+"1,111,000 ","32 Eva Street,",RED HILL QLD 4059,House,3,1,−,326m² ,06 Dec 2021
+"1,530,000","64 Victoria Street,",SPRING HILL QLD 4000,House,3,1,2,506m² ,05 Dec 2021
+"2,612,000 ","58 Stafford Street,",EAST BRISBANE QLD 4169,House,3,2,2,"1,064m² ",2021
+"853,000 ","38 Prospect Terrace,",KELVIN GROVE QLD 4059,House,4,1,1,473m² ,2021
+"1,830,000 ","66A Rockbourne Terrace,",PADDINGTON QLD 4064,House,5,2,2,403m² ,2021
+"1,400,000 ","25 Bowler Street,",PADDINGTON QLD 4064,House,3,2,1,268m² ,04 Dec 2021
+"2,070,000 ","75 Orleigh Street,",WEST END QLD 4101,House,3,2,4,463m² ,2021
+"1,820,000 ","21 Gibb Street,",KELVIN GROVE QLD 4059,House,3,2,3,860m² ,2021
+"1,150,000 ","53 Kelvin Grove Road,",KELVIN GROVE QLD 4059,House,6,4,−,357m² ,30 Nov 2021
+"1,170,000 ","11 Errard Street,",KELVIN GROVE QLD 4059,House,2,2,−,501m² ,29 Nov 2021
+"2,620,000","103 Princess Street,",PETRIE TERRACE QLD 4000,House,4,3,2,366m² ,29 Nov 2021
+"1,725,000 ","12 West Street,",HIGHGATE HILL QLD 4101,House,3,2,2,405m² ,27 Nov 2021
+"1,341,000 ","44 Terrace Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,24 Nov 2021
+"1,275,000 ","41 Gloucester Street,",HIGHGATE HILL QLD 4101,House,3,1,1,359m² ,3 Nov 2021
+"3,565,000 ","19 McNab Street,",PADDINGTON QLD 4064,House,4,3,2,405m² ,23 Nov 2021
+"1,450,000 ","11 Elston Street,",RED HILL QLD 4059,House,3,1,2,387m² ,21 Nov 2021
+"1,850,000 ","31 Hetherington Street,",HERSTON QLD 4006,House,4,2,2,519m² ,2021
+"1,410,000 ","29 Hilton Street,",EAST BRISBANE QLD 4169,House,4,2,2,405m² ,19 Nov 2021
+"1,575,000","71 Baynes Street,",HIGHGATE HILL QLD 4101,House,3,1,2,425m² ,19 Nov 2021
+"1,070,000 ","82 Gloucester Street,",SOUTH BRISBANE QLD 4101,House,2,1,1,425m² ,19 Nov 2021
+"860,000 ","31A Garrick Tce,",HERSTON QLD 4006,House,3,2,2,241m² ,18 Nov 2021
+"890,000 ","8 Sackville Street,",MILTON QLD 4064,House,2,1,−,253m² ,18 Nov 2021
+"3,685,000 ","22 Norwood Terrace,",PADDINGTON QLD 4064,House,5,5,2,445m² ,18 Nov 2021
+"2,075,000","15 Bellavista Terrace,",PADDINGTON QLD 4064,House,6,5,2,506m² ,18 Nov 2021
+"1,565,000 ","46 Herbert Street,",PADDINGTON QLD 4064,House,3,2,2,405m² ,2021
+"1,465,000 ","49 Enoggera Tce,",RED HILL QLD 4059,House,4,2,2,411m² ,17 Nov 2021
+"1,315,000","55 Princess Street,",PETRIE TERRACE QLD 4000,House,3,1,2,182m² ,15 Nov 2021
+"1,432,500 ","9 Blackall Terrace,",EAST BRISBANE QLD 4169,House,3,1,2,410m² ,2021
+"2,310,000","15 Prospect Terrace,",KELVIN GROVE QLD 4059,House,5,3,1,405m² ,13 Nov 2021
+"1,390,000 ","29 Copeland Street,",MILTON QLD 4064,House,3,1,−,405m² ,2021
+"2,550,000","37 Annie Street,",PADDINGTON QLD 4064,House,4,3,3,607m² ,13 Nov 2021
+"1,350,000 ","31 Elizabeth Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,13 Nov 2021
+"875,000 ","19 Confederate Street,",RED HILL QLD 4059,House,3,3,−,263m² ,13 Nov 2021
+"1,551,000 ","471 Montague Road,",WEST END QLD 4101,House,2,1,2,405m² ,2021
+"1,480,000 ","4 Ballina Street,",KELVIN GROVE QLD 4059,House,5,2,3,508m² ,12 Nov 2021
+"1,800,000 ","5 Brook Street,",SOUTH BRISBANE QLD 4101,House,6,2,2,663m² ,2021
+"1,880,000","91 Beck Street,",PADDINGTON QLD 4064,House,4,2,5,607m² ,11 Nov 2021
+"2,370,000 ","40 Spring Street,",WEST END QLD 4101,House,5,2,3,721m² ,2021
+"1,121,000 ","7 Dalley Street,",KELVIN GROVE QLD 4059,House,3,1,3,402m² ,2021
+"1,300,000 ","30 Haig Road,",MILTON QLD 4064,House,5,3,2,407m² ,09 Nov 2021
+"2,050,000 ","12 Victoria Terrace,",BOWEN HILLS QLD 4006,House,4,4,2,410m² ,08 Nov 2021
+"860,000","46 Latrobe Street,",EAST BRISBANE QLD 4169,House,3,1,1,354m² ,2021
+"1,600,000 ","43 Lisburn Street,",EAST BRISBANE QLD 4169,House,4,2,1,395m² ,2021
+"1,600,000 ","34 Stafford Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,07 Nov 2021
+"1,640,000","18 Chorlton Street,",EAST BRISBANE QLD 4169,House,4,2,2,455m² ,2021
+"1,800,000 ","200 Arthur Street,",FORTITUDE VALLEY QLD 4006,House,4,1,−,465m² ,6 Nov 2021
+"1,280,000 ","24 Corbett Street,",WEST END QLD 4101,House,2,1,1,268m² ,06 Nov 2021
+"1,785,000 ","21 Jay Street,",RED HILL QLD 4059,House,4,3,2,364m² ,05 Nov 2021
+"1,410,000 ","25 Paris Street,",WEST END QLD 4101,House,3,1,2,253m² ,04 Nov 2021
+"1,812,000 ","40 Gray Road,",WEST END QLD 4101,House,5,1,3,458m² ,2021
+"1,061,000 ","31 Arthur Terrace,",RED HILL QLD 4059,House,4,2,−,488m² ,02 Nov 2021
+"2,125,000 ","13 Prince Street,",PADDINGTON QLD 4064,House,4,3,2,491m² ,01 Nov 2021
+"1,248,000 ","24 Grace Street,",RED HILL QLD 4059,House,6,2,2,405m² ,01 Nov 2021
+"1,300,000 ","14 Argyle Street,",RED HILL QLD 4059,House,2,1,1,405m² ,31 Oct 2021
+"1,600,000","17 Lisburn Street,",EAST BRISBANE QLD 4169,House,3,2,1,678m² ,2021
+"2,000,000","2 Clyde Road,",HERSTON QLD 4006,House,5,4,4,991m² ,2021
+"2,615,000 ","85 Gray Road,",WEST END QLD 4101,House,5,5,2,405m² ,30 Oct 2021
+"2,350,000","24 Latrobe Terrace,",PADDINGTON QLD 4064,House,3,2,2,810m² ,28 Oct 2021
+"1,757,500 ","63 Rockbourne Terrace,",PADDINGTON QLD 4064,House,4,3,2,425m² ,28 Oct 2021
+"1,065,000","99 Baroona Road,",PADDINGTON QLD 4064,House,3,1,2,405m² ,2021
+"1,906,000 ","258 Latrobe Terrace,",PADDINGTON QLD 4064,House,3,2,2,405m² ,28 Oct 2021
+"900,000","106 Princess Street (aka 203 Hale Street),",PETRIE TERRACE QLD 4000,House,2,1,2,177m² ,28 Oct 2021
+"1,105,000 ","16 Federal Street,",RED HILL QLD 4059,House,3,1,−,263m² ,28 Oct 2021
+"1,335,000 ","41 Turin Street,",WEST END QLD 4101,House,2,2,2,266m² ,2021
+"2,300,000 ","61 Bristol Street,",WEST END QLD 4101,House,5,3,2,405m² ,27 Oct 2021
+"1,180,000","246 Kelvin Grove Road,",KELVIN GROVE QLD 4059,House,5,3,3,554m² ,26 Oct 2021
+"3,050,000 ","45 Wilden Street,",PADDINGTON QLD 4064,House,4,3,2,405m² ,26 Oct 2021
+"2,100,000 ","24 Archibald Street,",WEST END QLD 4101,House,3,1,−,810m² ,26 Oct 2021
+"1,325,000","14 Gordon Street,",PADDINGTON QLD 4064,House,4,2,1,405m² ,25 Oct 2021
+"1,500,000","9 Hazlewood Street,",HIGHGATE HILL QLD 4101,House,3,2,2,448m² ,23 Oct 2021
+"3,950,000 ","14 Strath Street,",HIGHGATE HILL QLD 4101,House,5,4,4,443m² ,23 Oct 2021
+"1,382,000 ","98 Ryan Street,",WEST END QLD 4101,House,3,1,1,405m² ,23 Oct 2021
+"1,238,441 ","29 Broadhurst Street,",KELVIN GROVE QLD 4059,House,6,2,2,"1,103m² ",22 Oct 2021
+"3,100,000","78 Doggett Street,",NEWSTEAD QLD 4006,House,4,2,2,460m² ,22 Oct 2021
+"2,000,000 ","24 Primrose Terrace,",RED HILL QLD 4059,House,4,3,1,481m² ,22 Oct 2021
+"3,850,000","18 Thornbury Street,",SPRING HILL QLD 4000,House,5,3,2,500m² ,21 Oct 2021
+"1,500,000","49 Baroona Road,",MILTON QLD 4064,House,3,1,1,810m² ,20 Oct 2021
+"1,030,000 ","50 Rusden Street,",KELVIN GROVE QLD 4059,House,3,2,2,304m² ,19 Oct 2021
+"2,350,000 ","37 Macartney Street,",PADDINGTON QLD 4064,House,4,3,2,405m² ,19 Oct 2021
+"1,478,000 ","70 Norman Street,",EAST BRISBANE QLD 4169,House,4,3,2,374m² ,2021
+"1,720,000 ","19 Burlington Street,",EAST BRISBANE QLD 4169,House,5,3,2,405m² ,18 Oct 2021
+"761,559 ","31 Broadhurst Street,",KELVIN GROVE QLD 4059,House,3,1,1,420m² ,18 Oct 2021
+"1,200,000","2A Hall Street,",PADDINGTON QLD 4064,House,3,2,2,169m² ,18 Oct 2021
+"1,175,000 ","28 Federal Street,",RED HILL QLD 4059,House,2,1,1,263m² ,18 Oct 2021
+"865,000 ","7 Confederate Street,",RED HILL QLD 4059,House,3,2,−,263m² ,18 Oct 2021
+"2,000,000 ","64 Wedd Street,",SPRING HILL QLD 4000,House,8,4,4,430m² ,17 Oct 2021
+"1,100,000 ","48 Latrobe Street,",EAST BRISBANE QLD 4169,House,3,3,3,354m² ,16 Oct 2021
+"1,504,000 ","55 EUREKA STREET,",KELVIN GROVE QLD 4059,House,5,2,2,405m² ,16 Oct 2021
+"1,720,000 ","62 Ellena Street,",PADDINGTON QLD 4064,House,3,2,2,420m² ,16 Oct 2021
+"1,600,000 ","226 Latrobe Terrace,",PADDINGTON QLD 4064,House,3,2,1,341m² ,13 Oct 2021
+"1,200,000 ","5 Broadway Street,",RED HILL QLD 4059,House,3,2,2,364m² ,13 Oct 2021
+"1,650,000 ","9 Dyne Street,",RED HILL QLD 4059,House,4,2,2,405m² ,12 Oct 2021
+"1,150,000 ","20 Sackville Street,",MILTON QLD 4064,House,2,1,1,253m² ,11 Oct 2021
+"2,600,000 ","16 Edith Terrace,",RED HILL QLD 4059,House,4,2,2,405m² ,11 Oct 2021
+"1,319,000 ","61 Herbert Street,",PADDINGTON QLD 4064,House,4,2,1,405m² ,2021
+"1,712,000 ","25 Central Avenue,",PADDINGTON QLD 4064,House,3,2,2,405m² ,2021
+"2,500,000 ","39 Upper Cairns Terrace,",PADDINGTON QLD 4064,House,4,2,3,559m² ,09 Oct 2021
+"1,285,000 ","41 Rockbourne Terrace,",PADDINGTON QLD 4064,House,3,2,2,405m² ,2021
+"1,720,000","34 Northcote Street,",EAST BRISBANE QLD 4169,House,5,3,1,344m² ,08 Oct 2021
+"1,905,000","31 Aberleigh Road,",HERSTON QLD 4006,House,5,3,1,577m² ,08 Oct 2021
+"2,500,000 ","74 Fernberg Road,",PADDINGTON QLD 4064,House,4,2,2,"1,024m² ",08 Oct 2021
+"2,520,000","10 York Parade,",SPRING HILL QLD 4000,House,4,2,4,329m² ,08 Oct 2021
+"1,215,000 ","36a Bowler Street,",PADDINGTON QLD 4064,House,3,2,2,221m² ,06 Oct 2021
+"2,235,000","12 Hall Street,",PADDINGTON QLD 4064,House,3,3,2,455m² ,2021
+"1,215,000 ","36A Bowler Street,",PADDINGTON QLD 4064,House,3,2,2,221m² ,06 Oct 2021
+"1,925,000 ","22 Vowles Street,",RED HILL QLD 4059,House,5,3,3,405m² ,05 Oct 2021
+"1,300,000 ","58 Heussler Terrace,",MILTON QLD 4064,House,4,2,2,405m² ,04 Oct 2021
+"2,300,000","33 Ruth Street,",HIGHGATE HILL QLD 4101,House,5,4,4,400m² ,02 Oct 2021
+"1,305,000 ","14 Victoria Street,",KELVIN GROVE QLD 4059,House,3,1,1,415m² ,02 Oct 2021
+"2,250,000","72 Laidlaw Parade,",EAST BRISBANE QLD 4169,House,5,2,4,619m² ,
+"3,075,000","11 Annie Street,",PADDINGTON QLD 4064,House,5,3,2,496m² ,01 Oct 2021
+"945,000","25 Lutwyche Street,",PETRIE TERRACE QLD 4000,House,2,1,1,112m² ,01 Oct 2021
+"1,625,000 ","37 Burlington Street,",EAST BRISBANE QLD 4169,House,3,2,1,405m² ,2021
+"1,660,000 ","102 Baines Street,",KANGAROO POINT QLD 4169,House,6,3,2,405m² ,30 Sep 2021
+"885,000","100 Windsor Road,",RED HILL QLD 4059,House,3,1,1,526m² ,2021
+"1,235,000 ","23 Mornington Street,",RED HILL QLD 4059,House,3,1,2,405m² ,30 Sep 2021
+"3,500,000 ","40 Fernberg Road,",PADDINGTON QLD 4064,House,5,3,3,514m² ,29 Sep 2021
+"1,200,000 ","29 Saint James St,",PETRIE TERRACE QLD 4000,House,3,1,1,243m² ,29 Sep 2021
+"1,451,500 ","23 Wilden Street,",PADDINGTON QLD 4064,House,2,2,2,405m² ,28 Sep 2021
+"2,210,000 ","5 Stafford Street,",EAST BRISBANE QLD 4169,House,5,4,4,534m² ,2021
+"1,450,000 ","8 Sweetman Street,",PADDINGTON QLD 4064,House,11,2,2,480m² ,27 Sep 2021
+"1,312,000","943 Stanley Street East,",EAST BRISBANE QLD 4169,House,7,2,2,405m² ,2021
+"1,355,000 ","28 Dunsmore Street,",KELVIN GROVE QLD 4059,House,3,2,2,405m² ,25 Sep 2021
+"2,250,000","43 Edmondstone Street,",SOUTH BRISBANE QLD 4101,House,4,4,5,455m² ,2021
+"1,760,000 ","38 Jane Street,",WEST END QLD 4101,House,3,1,2,382m² ,2021
+"2,600,000 ","44 Gresham Street,",EAST BRISBANE QLD 4169,House,5,5,2,632m² ,24 Sep 2021
+"2,200,000","26 Upper Cairns Terrace,",PADDINGTON QLD 4064,House,4,2,2,445m² ,23 Sep 2021
+"1,340,000","11A Waterworks Road,",RED HILL QLD 4059,House,4,2,2,364m² ,23 Sep 2021
+"1,119,500 ","7 Mullin St,",PADDINGTON QLD 4064,House,3,1,2,481m² ,22 Sep 2021
+"1,119,500 ","7 Mullin Street,",PADDINGTON QLD 4064,House,3,1,2,481m² ,22 Sep 2021
+"1,570,000 ","28 Glassey Street,",RED HILL QLD 4059,House,3,1,2,604m² ,22 Sep 2021
+"1,300,000 ","3 Fisher Street,",EAST BRISBANE QLD 4169,House,3,1,1,506m² ,21 Sep 2021
+"1,660,000 ","18 Neville Street,",KANGAROO POINT QLD 4169,House,5,3,2,341m² ,2021
+"1,050,000","20 Belgrave Street,",PETRIE TERRACE QLD 4000,House,3,2,1,191m² ,20 Sep 2021
+"2,890,000 ","17 Laura Street,",HIGHGATE HILL QLD 4101,House,5,4,2,857m² ,18 Sep 2021
+"2,050,000 ","48 Victoria Street,",WEST END QLD 4101,House,3,1,1,608m² ,2021
+"1,200,000 ","52 Clyde Road,",HERSTON QLD 4006,House,4,3,2,311m² ,17 Sep 2021
+"1,010,000 ","36 Bowler Street,",PADDINGTON QLD 4064,House,3,2,2,302m² ,17 Sep 2021
+"1,480,000 ","24 Vowles Street,",RED HILL QLD 4059,House,3,1,1,405m² ,15 Sep 2021
+"1,225,000 ","118 Cochrane Street,",RED HILL QLD 4059,House,3,1,2,255m² ,14 Sep 2021
+"1,365,000","21 Withington Street,",EAST BRISBANE QLD 4169,House,4,3,2,402m² ,13 Sep 2021
+"2,000,000 ","44 Guthrie Street,",PADDINGTON QLD 4064,House,4,2,2,400m² ,13 Sep 2021
+"1,400,000 ","211 Vulture Street,",SOUTH BRISBANE QLD 4101,House,5,1,2,405m² ,13 Sep 2021
+"935,000 ","31 Burlington Street,",EAST BRISBANE QLD 4169,House,3,1,2,405m² ,11 Sep 2021
+"2,550,000 ","169 Butterfield Street,",HERSTON QLD 4006,House,6,3,2,"1,272m² ",11 Sep 2021
+"1,725,000 ","67 Bell Street,",KANGAROO POINT QLD 4169,House,4,5,4,410m² ,2021
+"2,015,000 ","23 Plunkett Street,",PADDINGTON QLD 4064,House,5,2,2,455m² ,2021
+"2,250,000","145 Kennedy Terrace,",PADDINGTON QLD 4064,House,9,5,3,991m² ,10 Sep 2021
+"1,845,000 ","26 Addison Street,",RED HILL QLD 4059,House,3,2,2,405m² ,10 Sep 2021
+"4,300,000 ","101 Windsor Road,",RED HILL QLD 4059,House,5,2,2,"1,750m² ",2021
+"1,335,000 ","72 Warry Street,",FORTITUDE VALLEY QLD 4006,House,9,2,5,329m² ,09 Sep 2021
+"2,205,000","44 Howard Street,",PADDINGTON QLD 4064,House,4,1,1,607m² ,09 Sep 2021
+"620,000 ","70 Stagpole Street,",WEST END QLD 4101,House,12,6,1,"1,012m² ",08 Sep 2021
+"1,060,000 ","17 Ozanne Street,",PADDINGTON QLD 4064,House,2,1,1,749m² ,07 Sep 2021
+"1,680,000 ","15 Stephens Road,",SOUTH BRISBANE QLD 4101,House,4,1,2,617m² ,07 Sep 2021
+"1,475,000 ","14 Daintree Street,",PADDINGTON QLD 4064,House,3,1,1,405m² ,04 Sep 2021
+"1,400,000","32 Bally Street,",KELVIN GROVE QLD 4059,House,3,1,2,607m² ,03 Sep 2021
+"1,375,000 ","24 Drynan Street,",PADDINGTON QLD 4064,House,4,2,2,304m² ,03 Sep 2021
+"1,111,000 ","8 Ella Street,",RED HILL QLD 4059,House,2,1,2,253m² ,03 Sep 2021
+"2,500,000 ","61 Moreton Street,",PADDINGTON QLD 4064,House,4,2,2,400m² ,02 Sep 2021
+"1,250,000","42 Victoria Park Road,",KELVIN GROVE QLD 4059,House,2,1,−,503m² ,01 Sep 2021
+"1,150,000 ","31 Prospect Terrace,",KELVIN GROVE QLD 4059,House,3,1,−,296m² ,01 Sep 2021
+"1,350,000 ","12 Patrick Street,",MILTON QLD 4064,House,4,1,2,506m² ,01 Sep 2021
+"1,200,000 ","10 Kenwyn Road,",RED HILL QLD 4059,House,2,1,−,508m² ,01 Sep 2021
+"2,540,000 ","113 Mowbray Terrace,",EAST BRISBANE QLD 4169,House,5,3,2,"1,304m² ",2021
+"950,000","11 Withington Street,",EAST BRISBANE QLD 4169,House,4,1,2,402m² ,2021
+"1,400,000 ","39 Hardgrave Road,",WEST END QLD 4101,House,3,1,2,251m² ,2021
+"1,100,000 ","71 Burlington Street,",EAST BRISBANE QLD 4169,House,5,2,2,405m² ,26 Aug 2021
+"1,000,000 ","10 Princhester Street,",WEST END QLD 4101,House,3,2,2,271m² ,26 Aug 2021
+"2,125,000","2 Norwood Terrace,",PADDINGTON QLD 4064,House,5,3,3,440m² ,25 Aug 2021
+"4,350,000 ","35 Laidlaw Parade,",EAST BRISBANE QLD 4169,House,6,3,3,384m² ,2021
+"1,385,000 ","121 Baroona Road,",PADDINGTON QLD 4064,House,4,2,2,405m² ,2021
+"1,240,000 ","235 Baroona Road,",PADDINGTON QLD 4064,House,3,1,1,506m² ,21 Aug 2021
+"1,130,000 ","15 Ella Street,",RED HILL QLD 4059,House,2,1,3,253m² ,21 Aug 2021
+"1,105,000 ","23 Overend Street,",EAST BRISBANE QLD 4169,House,4,1,4,430m² ,20 Aug 2021
+"335,000","10810/88 Doggett Street,",NEWSTEAD QLD 4006,House,1,1,1,50m² ,19 Aug 2021
+"920,000","114 Fernberg Road,",PADDINGTON QLD 4064,House,3,2,3,243m² ,19 Aug 2021
+"982,000 ","40 Terrace Street,",PADDINGTON QLD 4064,House,3,1,−,405m² ,18 Aug 2021
+"1,050,000 ","10 Long Street,",PADDINGTON QLD 4064,House,2,1,1,306m² ,16 Aug 2021
+"1,192,000","29 Geelong Street,",EAST BRISBANE QLD 4169,House,3,1,2,354m² ,2021
+"1,955,000 ","15 Royal Avenue,",SPRING HILL QLD 4000,House,4,1,−,653m² ,2021
+"979,500 ","21 Tait Street,",KELVIN GROVE QLD 4059,House,3,1,2,642m² ,13 Aug 2021
+"995,000 ","10 Bancroft Street,",KELVIN GROVE QLD 4059,House,2,1,2,405m² ,3 Aug 2021
+"1,185,000","8 Nairn St,",MILTON QLD 4064,House,3,1,1,397m² ,13 Aug 2021
+"1,480,000 ","5 Speedy Street,",KELVIN GROVE QLD 4059,House,3,2,2,405m² ,1 Aug 2021
+"1,675,000 ","18 Jason Street,",RED HILL QLD 4059,House,3,2,3,810m² ,10 Aug 2021
+"1,150,000 ","4 Cook Street,",RED HILL QLD 4059,House,2,1,1,300m² ,10 Aug 2021
+"1,050,000 ","9 Frith Street,",HIGHGATE HILL QLD 4101,House,3,2,1,450m² ,07 Aug 2021
+"950,000 ","15 Hazlewood Street,",PADDINGTON QLD 4064,House,3,1,2,304m² ,2021
+"1,706,000 ","13 Arthur Terrace,",RED HILL QLD 4059,House,4,2,1,562m² ,2021
+"1,706,000 ","13 Arthur Terrace,",RED HILL QLD 4059,House,4,2,1,562m² ,2021
+"2,200,000 ","37 Saint James Street,",HIGHGATE HILL QLD 4101,House,4,3,3,468m² ,2021
+"1,390,000 ","14 Kennedy Terrace,",EAST BRISBANE QLD 4169,House,2,2,2,506m² ,05 Aug 2021
+"2,000,000 ","12 Eskgrove Street,",EAST BRISBANE QLD 4169,House,4,3,2,911m² ,05 Aug 2021
+"1,350,000","19 Mort Street,",PADDINGTON QLD 4064,House,3,1,2,405m² ,04 Aug 2021
+"1,005,000 ","39 Lintern Street,",RED HILL QLD 4059,House,2,1,2,405m² ,03 Aug 2021
+"1,561,000 ","16 Eskgrove Street,",EAST BRISBANE QLD 4169,House,6,3,4,455m² ,2021

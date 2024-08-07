@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"397,000 ","5 McCrae Street,",CAIRNS QLD 4870,House,3,2,3,905m² ,20 Jun 2016
+"550,000 ","11 Morwong Close,",CAIRNS QLD 4870,House,5,3,2,701m² ,12 Nov 2014
+"225,000 ","10 Greenfield,",CAIRNS QLD 4870,House,3,1,1,806m² ,12 Jun 2014
+"510,000 ","6 Shearer Avenue,",CAIRNS QLD 4870,House,5,2,2,563m² ,27 Feb 2014
+"321,200","7 Pease Street,",CAIRNS QLD 4870,House,3,3,7,809m² ,14 Nov 2012
+"273,000","19 Allan Street,",CAIRNS QLD 4870,House,3,1,2,540m² ,11 Sep 2012
+"273,000 ","19 Allan Street,",CAIRNS QLD 4870,House,3,1,2,540m² ,11 Sep 2012
+"309,000","72 Little Street,",CAIRNS QLD 4870,House,2,1,2,742m² ,02 Nov 2010
+"305,000 ","20 Cominos Place,",CAIRNS QLD 4870,House,3,1,2,622m² ,03 Jul 2010
+"675,000","16 Playford Close,",CAIRNS QLD 4870,House,5,2,2,927m² ,13 Mar 2010
+"620,000 ","3 Penda Close,",MANOORA QLD 4870,House,4,2,2,704m² ,22 Apr 2024
+"534,000 ","7 Hill Street,",MANUNDA QLD 4870,House,3,1,2,711m² ,22 Apr 2024
+"630,000 ","16 Bunting Street,",BUNGALOW QLD 4870,House,13,5,5,607m² ,19 Apr 2024
+"780,000 ","39 Jak Gee Street,",REDLYNCH QLD 4870,House,4,2,4,"1,024m² ",19 Apr 2024
+"770,000 ","32 Red Ochre Street,",REDLYNCH QLD 4870,House,4,2,2,739m² ,19 Apr 2024
+"622,000 ","28 Howe Street,",CAIRNS NORTH QLD 4870,House,3,1,3,607m² ,09 Apr 2024
+"900,000 ","19 O'Hara Street,",EARLVILLE QLD 4870,Semi-detached,6,4,4,"1,073m² ",09 Apr 2024
+"660,000 ","5 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,600m² ,05 Apr 2024
+"725,000 ","196 Woodward Street,",WHITFIELD QLD 4870,House,3,1,2,725m² ,05 Apr 2024
+"570,000 ","70 Birch Street,",MANUNDA QLD 4870,House,4,1,2,"1,242m² ",04 Apr 2024
+"560,000 ","24 Chesterfield Close,",BRINSMEAD QLD 4870,House,3,2,2,350m² ,2024
+"712,500 ","22 Cicero Close,",MOOROOBOOL QLD 4870,House,4,2,3,800m² ,02 Apr 2024
+"560,000 ","68 Kingsford Street,",MOOROOBOOL QLD 4870,House,4,1,3,668m² ,28 Mar 2024
+"680,000 ","8 Duffy Street,",FRESHWATER QLD 4870,House,4,2,2,933m² ,25 Mar 2024
+"585,000 ","40 Little Street,",MANUNDA QLD 4870,House,4,1,2,890m² ,24 Mar 2024
+"670,000 ","21 Cairns Street,",CAIRNS NORTH QLD 4870,House,3,1,2,669m² ,2 Mar 2024
+"510,000 ","28 Carr Road,",JULATTEN QLD 4871,House,3,2,2,0,22 Mar 2024
+"665,000 ",,BRINSMEAD QLD 4870,House,4,2,2,"1,073m² ",20 Mar 2024
+"840,000 ","44 Barnes Street,",EARLVILLE QLD 4870,House,4,2,3,"1,054m² ",20 Mar 2024
+"549,700 ","106 Irene Street,",MOOROOBOOL QLD 4870,House,3,1,3,794m² ,18 Mar 2024
+"925,000 ","27 Koppen Terrace,",MOOROOBOOL QLD 4870,House,4,2,2,708m² ,18 Mar 2024
+"950,000 ","6 Marett Street,",STRATFORD QLD 4870,House,2,2,2,"1,175m² ",18 Mar 2024
+"650,000 ","40 Mackerras Street,",REDLYNCH QLD 4870,House,4,2,2,742m² ,15 Mar 2024
+"582,000 ","9 Lorikeet Street,",FRESHWATER QLD 4870,House,4,2,3,883m² ,13 Mar 2024
+"660,000 ","120 Balaclava Road,",EARLVILLE QLD 4870,House,4,2,2,627m² ,12 Mar 2024
+"825,000 ","275 Lower Freshwater Road,",FRESHWATER QLD 4870,House,3,1,4,810m² ,11 Mar 2024
+"498,000 ","35 Beatrice Street,",MOOROOBOOL QLD 4870,House,3,1,2,600m² ,08 Mar 2024
+"450,000 ","3 Behan Street,",MANUNDA QLD 4870,House,2,1,2,534m² ,06 Mar 2024
+"740,000 ","19 Victoria Street,",PARRAMATTA PARK QLD 4870,House,5,2,1,429m² ,06 Mar 2024
+"616,000 ","3 Gavin Hamilton Close,",REDLYNCH QLD 4870,House,3,2,1,600m² ,06 Mar 2024
+"605,000 ","57 Dalton Street,",WESTCOURT QLD 4870,House,3,2,2,755m² ,06 Mar 2024
+"649,000 ","2 Redwood Street,",WHITFIELD QLD 4870,House,4,2,7,710m² ,2024
+"762,000 ","12 Winfield Street,",WHITFIELD QLD 4870,House,4,2,2,749m² ,2024
+"524,000 ","31 Opaline Close,",BRINSMEAD QLD 4870,House,3,1,1,600m² ,04 Mar 2024
+"693,000 ","9-11 Bassett Street,",KANIMBLA QLD 4870,House,4,2,2,750m² ,04 Mar 2024
+"490,000 ","18 Spinos Street,",REDLYNCH QLD 4870,House,3,1,2,313m² ,04 Mar 2024
+"690,000 ","47 William Hickey Street,",REDLYNCH QLD 4870,House,4,2,2,653m² ,01 Mar 2024
+"541,500","1 Lobelia Court,",MOOROOBOOL QLD 4870,House,3,1,1,753m² ,29 Feb 2024
+"456,000 ","129 Russell Street,",EDGE HILL QLD 4870,House,3,1,2,776m² ,28 Feb 2024
+"735,000 ","15 Windamere Close,",BRINSMEAD QLD 4870,House,4,2,1,700m² ,27 Feb 2024
+"658,000 ","42 Red Ochre Close,",REDLYNCH QLD 4870,House,4,2,2,667m² ,27 Feb 2024
+"720,000","20 Munro Road,",BELLENDEN KER QLD 4871,House,5,2,10,"2,858m² ",26 Feb 2024
+"827,500 ","1 Davidson Close,",REDLYNCH QLD 4870,House,4,2,2,609m² ,26 Feb 2024
+"820,000 ","8 Alander Payet Close,",REDLYNCH QLD 4870,House,4,3,2,747m² ,26 Feb 2024
+"770,000 ","31 Perserverance Street,",REDLYNCH QLD 4870,House,4,2,2,644m² ,24 Feb 2024
+"462,500 ","7 Brant Close,",MANOORA QLD 4870,House,3,1,1,704m² ,23 Feb 2024
+"445,000 ","459 Mccoombe Street,",MOOROOBOOL QLD 4870,House,3,1,2,739m² ,23 Feb 2024
+"550,000 ","23 Dunn Street,",CAIRNS NORTH QLD 4870,Duplex,4,2,2,688m² ,21 Feb 2024
+"525,000 ","112 Mccormack Street,",MANUNDA QLD 4870,House,3,1,2,832m² ,21 Feb 2024
+"557,500 ","28 Slathiel Street,",BRINSMEAD QLD 4870,House,3,1,1,843m² ,20 Feb 2024
+"780,000 ","16 Curlewis Close,",BRINSMEAD QLD 4870,House,3,2,2,801m² ,20 Feb 2024
+"490,000 ","34 Cavallaro Avenue,",EARLVILLE QLD 4870,House,3,1,2,706m² ,20 Feb 2024
+"450,000 ","1/2 Compass Close,",EDGE HILL QLD 4870,Semi-detached,2,1,1,404m² ,20 Feb 2024
+"790,000","3 Down Street,",FRESHWATER QLD 4870,House,4,2,1,667m² ,20 Feb 2024
+"1,216,088 ","14 Lee Street,",FRESHWATER QLD 4870,House,4,3,2,"1,482m² ",20 Feb 2024
+"550,000 ","2 Harwood Close,",BRINSMEAD QLD 4870,House,4,1,2,749m² ,19 Feb 2024
+"575,000","20 Cominos Place,",MANUNDA QLD 4870,House,3,1,2,622m² ,19 Feb 2024
+"705,000 ","3 Davidson Close,",REDLYNCH QLD 4870,House,4,2,2,617m² ,19 Feb 2024
+"530,000","3 Hector Close,",WESTCOURT QLD 4870,House,3,2,2,666m² ,19 Feb 2024
+"720,000 ","44 Duffy Street,",FRESHWATER QLD 4870,House,5,2,2,751m² ,17 Feb 2024
+"590,000 ","62591 Bruce Hwy,",COWLEY QLD 4871,House,4,2,6,0,16 Feb 2024
+"450,000 ","2/20 Ireland Crescent,",WHITFIELD QLD 4870,Villa,3,2,1,98m² ,16 Feb 2024
+"596,000 ","12 Opaline Close,",BRINSMEAD QLD 4870,House,4,2,2,600m² ,15 Feb 2024
+"385,000","29 Koch Street,",MOOROOBOOL QLD 4870,House,3,1,3,726m² ,15 Feb 2024
+"465,000 ","3 David Street,",MANUNDA QLD 4870,House,4,1,1,799m² ,13 Feb 2024
+"1,000,000 ","275-277 Draper Street,",PARRAMATTA PARK QLD 4870,House,5,5,4,809m² ,13 Feb 2024
+"521,350","1 Lisa Close,",MOOROOBOOL QLD 4870,House,4,2,2,738m² ,12 Feb 2024
+"240,000",,WANGAN QLD 4871,House,3,1,1,809m² ,12 Feb 2024
+"550,000 ","3 Hodel Street,",WHITFIELD QLD 4870,House,4,2,2,728m² ,11 Feb 2024
+"560,000 ","4 Gallo Close,",BRINSMEAD QLD 4870,House,3,1,3,"1,065m² ",10 Feb 2024
+"725,000 ","25A Cairns Street,",CAIRNS NORTH QLD 4870,House,3,1,2,400m² ,10 Feb 2024
+"876,500 ","34 Regent Avenue,",REDLYNCH QLD 4870,House,5,2,4,701m² ,09 Feb 2024
+"560,000 ","11 Tolson Close,",BRINSMEAD QLD 4870,House,4,2,2,800m² ,2024
+"525,000 ","25 Garland Close,",KANIMBLA QLD 4870,House,3,1,2,864m² ,2024
+"865,000 ","24 Clarence Avenue,",SPRINGFIELD QLD 4871,House,5,2,2,547m² ,07 Feb 2024
+"940,000 ","16 Morwong Close,",KANIMBLA QLD 4870,House,4,2,2,"1,173m² ",06 Feb 2024
+"600,000 ","3/419-421 Kamerunga Road,",REDLYNCH QLD 4870,House,4,2,2,298m² ,2024
+"640,590 ","33 Wills Street,",BRINSMEAD QLD 4870,House,4,2,2,550m² ,05 Feb 2024
+"390,000 ","59 Morehead street,",BUNGALOW QLD 4870,House,3,1,1,495m² ,05 Feb 2024
+"238,000","37 King Street,",CHILLAGOE QLD 4871,House,3,2,1,"1,012m² ",05 Feb 2024
+"515,000 ","2/126 Balaclava Road,",EARLVILLE QLD 4870,House,3,1,2,530m² ,03 Feb 2024
+"329,000","7 Sheridan Street,",KURRIMINE BEACH QLD 4871,House,2,2,2,724m² ,03 Feb 2024
+"800,000 ","3 Vauclause Close,",BRINSMEAD QLD 4870,House,4,2,2,751m² ,02 Feb 2024
+"745,000 ","41 McFarlane Drive,",KANIMBLA QLD 4870,House,3,2,2,702m² ,02 Feb 2024
+"750,000 ","6 East Parkridge Drive,",BRINSMEAD QLD 4870,House,4,2,2,884m² ,01 Feb 2024
+"795,000 ","46 Heavey Crescent,",WHITFIELD QLD 4870,House,4,2,2,754m² ,01 Feb 2024
+"280,000 ","13/473-479 Mccoombe Street,",MOOROOBOOL QLD 4870,Villa,2,1,1,64m² ,31 Jan 2024
+"1,005,000 ","36 Gloucester Street,",WHITFIELD QLD 4870,House,5,2,5,"1,040m² ",31 Jan 2024
+"510,000 ","77 Hannam Street,",WESTCOURT QLD 4870,House,3,1,4,625m² ,30 Jan 2024
+"310,000 ","5/191-199 Woodward Street,",WHITFIELD QLD 4870,Villa,2,1,1,268m² ,30 Jan 2024
+"1,350,000 ","30-32 Pelizzari Close,",REDLYNCH QLD 4870,House,5,3,3,"5,065m² ",29 Jan 2024
+"610,000 ","31 Summerhill Drive,",MOOROOBOOL QLD 4870,House,4,2,2,748m² ,25 Jan 2024
+"663,000 ","3 Redwood Street,",WHITFIELD QLD 4870,House,4,2,2,870m² ,25 Jan 2024
+"470,000 ","13 Mango Drive,",EARLVILLE QLD 4870,House,3,1,1,723m² ,24 Jan 2024
+"661,500 ","52 Boden Street,",EDGE HILL QLD 4870,House,3,1,3,825m² ,24 Jan 2024
+"582,500 ","9A Hill Street,",MANUNDA QLD 4870,House,3,2,2,474m² ,24 Jan 2024
+"650,000 ","25-27 Main Street,",MOUNT MOLLOY QLD 4871,House,4,2,5,"4,043m² ",24 Jan 2024
+"645,000 ","78 Xavier Herbert Drive,",REDLYNCH QLD 4870,House,4,2,2,661m² ,24 Jan 2024
+"645,000","88 Xavier Herbert Drive,",REDLYNCH QLD 4870,House,4,2,2,600m² ,24 Jan 2024
+"760,000 ","46 Boden Street,",EDGE HILL QLD 4870,House,4,2,2,736m² ,2024
+"590,000 ","26 Queen Street,",PARRAMATTA PARK QLD 4870,House,2,2,2,405m² ,23 Jan 2024
+"682,000 ","108 Xavier Herbert Drive,",REDLYNCH QLD 4870,House,4,2,2,650m² ,23 Jan 2024
+"1,530,000 ","120 Nolan Street,",WHITFIELD QLD 4870,House,5,3,3,"1,366m² ",23 Jan 2024
+"775,000 ","9A Kidston Street,",BUNGALOW QLD 4870,House,8,4,2,424m² ,22 Jan 2024
+"284,000","1-3 Tower Street,",CHILLAGOE QLD 4871,House,4,2,4,"2,023m² ",22 Jan 2024
+"795,000 ","2 Sergeant Street,",KANIMBLA QLD 4870,House,4,2,2,700m² ,22 Jan 2024
+"937,000 ","22 Botany Avenue,",REDLYNCH QLD 4870,House,4,2,2,700m² ,22 Jan 2024
+"625,000 ","12 Cyperus Drive,",REDLYNCH QLD 4870,House,3,1,2,813m² ,22 Jan 2024
+"1,150,000 ","9 Heavey Crescent,",WHITFIELD QLD 4870,House,5,2,4,797m² ,22 Jan 2024
+"538,000 ","5 Fraser Close,",KANIMBLA QLD 4870,House,3,1,1,730m² ,19 Jan 2024
+"820,000 ","3 Torazzi Place,",MOOROOBOOL QLD 4870,House,4,2,2,730m² ,19 Jan 2024
+"730,000 ","2 Acmena Close,",REDLYNCH QLD 4870,House,4,2,2,714m² ,19 Jan 2024
+"320,000","45 Evans Road,",BRAMSTON BEACH QLD 4871,House,2,1,1,769m² ,18 Jan 2024
+"945,000 ","11 Philp Close,",KANIMBLA QLD 4870,House,4,3,4,758m² ,18 Jan 2024
+"700,000 ","9 Quadrio Crescent,",BRINSMEAD QLD 4870,House,3,2,2,700m² ,17 Jan 2024
+"780,000 ","117A Old Smithfield Road,",FRESHWATER QLD 4870,House,4,2,2,729m² ,17 Jan 2024
+"740,000","11 Laguna Avenue,",REDLYNCH QLD 4870,House,3,2,2,600m² ,17 Jan 2024
+"275,000 ","2/277 Aumuller Street,",WESTCOURT QLD 4870,Semi-detached,2,1,1,324m² ,16 Jan 2024
+"760,000 ","74 Hillview Crescent,",WHITFIELD QLD 4870,House,4,2,2,809m² ,16 Jan 2024
+"680,000","8 Keller Close,",WHITFIELD QLD 4870,House,4,2,4,959m² ,16 Jan 2024
+"650,000 ","59 Clarke Street,",MANUNDA QLD 4870,House,4,3,4,804m² ,15 Jan 2024
+"760,000 ","138 Wilkinson Street,",MANUNDA QLD 4870,Duplex,5,2,4,794m² ,15 Jan 2024
+"485,000 ","5 Serissa Street,",MOOROOBOOL QLD 4870,House,3,1,2,821m² ,15 Jan 2024
+"410,000","26 Nielsen Street,",ALOOMBA QLD 4871,House,3,1,2,"1,012m² ",12 Jan 2024
+"466,300 ","34 Collinson Street,",WESTCOURT QLD 4870,House,2,1,3,622m² ,12 Jan 2024
+"630,000","13 Palmer Rise,",BRINSMEAD QLD 4870,House,4,2,4,660m² ,11 Jan 2024
+"850,000 ","22 Minnie Street,",CAIRNS CITY QLD 4870,House,3,2,4,401m² ,11 Jan 2024
+"1,080,000 ","22 McBride Street,",REDLYNCH QLD 4870,House,6,2,2,800m² ,11 Jan 2024
+"1,415,000 ","12 Java Court,",REDLYNCH QLD 4870,House,5,2,4,"2,015m² ",11 Jan 2024
+"665,000 ","321 Mcleod Street,",CAIRNS NORTH QLD 4870,House,3,2,2,507m² ,10 Jan 2024
+"700,000 ","43 William Hickey Street,",REDLYNCH QLD 4870,House,5,2,2,781m² ,10 Jan 2024
+"705,000 ","15 Alander Payet Close,",REDLYNCH QLD 4870,House,4,2,2,679m² ,10 Jan 2024
+"535,000 ","2 Zebrina Street,",REDLYNCH QLD 4870,House,4,1,1,620m² ,10 Jan 2024
+"838,000 ","8 Harwood Close,",BRINSMEAD QLD 4870,House,4,2,4,870m² ,09 Jan 2024
+"375,000 ","7 Leslie Street,",MOOROOBOOL QLD 4870,House,2,1,2,809m² ,08 Jan 2024
+"585,000 ","217 HARVEY ROAD,",REDLYNCH QLD 4870,House,4,2,2,712m² ,08 Jan 2024
+"1,080,000 ","9 Belleville Street,",STRATFORD QLD 4870,House,2,2,2,0,08 Jan 2024
+"715,000 ","17 Bradford Street,",WHITFIELD QLD 4870,House,3,2,2,807m² ,08 Jan 2024
+"660,000 ","52 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,540m² ,04 Jan 2024
+"635,000 ","101 Mary Jane Drive,",JULATTEN QLD 4871,House,3,1,6,0,02 Jan 2024
+"442,000 ","29 Clarke Street,",MANUNDA QLD 4870,House,3,1,1,620m² ,02 Jan 2024
+"515,000 ","96 Tills Street,",MANUNDA QLD 4870,House,3,1,5,604m² ,02 Jan 2024
+"660,000 ","32 Greendale Close,",BRINSMEAD QLD 4870,House,3,2,2,800m² ,31 Dec 2023
+"440,000 ","46 Downing Street,",EARLVILLE QLD 4870,House,3,2,2,650m² ,29 Dec 2023
+"575,000 ","583 Mulgrave Road,",EARLVILLE QLD 4870,House,4,2,3,723m² ,24 Dec 2023
+"749,000 ","30 Boden Street,",EDGE HILL QLD 4870,House,4,2,2,779m² ,23 Dec 2023
+"925,000 ","3 Riverview Close,",FRESHWATER QLD 4870,House,4,2,2,"1,015m² ",21 Dec 2023
+"750,000 ","28 James Street,",CAIRNS NORTH QLD 4870,House,3,2,2,206m² ,20 Dec 2023
+"460,000 ","9 Gordon Street,",EARLVILLE QLD 4870,House,3,1,1,875m² ,20 Dec 2023
+"755,000 ","40 Ponticello Street,",WHITFIELD QLD 4870,House,4,3,2,862m² ,20 Dec 2023
+"543,000 ","11 Mistletoe Close,",KAMERUNGA QLD 4870,House,3,1,3,740m² ,19 Dec 2023
+"610,000 ","4 McFarlane Drive,",KANIMBLA QLD 4870,House,4,2,3,705m² ,19 Dec 2023
+"750,000 ","60 Adam Drive,",BRINSMEAD QLD 4870,House,4,2,4,809m² ,18 Dec 2023
+"600,000 ","1-3 Butler Street,",BRINSMEAD QLD 4870,House,3,2,4,716m² ,18 Dec 2023
+"615,000 ","9 Argyle Close,",EDGE HILL QLD 4870,House,3,2,1,818m² ,18 Dec 2023
+"625,000 ","17 Cicero Close,",MOOROOBOOL QLD 4870,House,3,2,3,985m² ,18 Dec 2023
+"720,000 ","12 Kipling Street,",BRINSMEAD QLD 4870,House,4,2,2,535m² ,15 Dec 2023
+"1,050,000","17 Hall Street,",EDGE HILL QLD 4870,House,3,3,3,798m² ,15 Dec 2023
+"827,000 ","57 Elphinstone Street,",KANIMBLA QLD 4870,House,4,2,2,585m² ,15 Dec 2023
+"367,000 ","1/177 Hoare Street,",MANUNDA QLD 4870,House,2,1,1,305m² ,15 Dec 2023
+"850,000 ","70 Summerhill Drive,",MOOROOBOOL QLD 4870,House,4,2,2,"1,059m² ",15 Dec 2023
+"710,000 ","1 Stapleton Close,",REDLYNCH QLD 4870,House,4,2,2,842m² ,15 Dec 2023
+"500,000 ","3 Grevillea Street,",MOOROOBOOL QLD 4870,House,3,1,2,660m² ,14 Dec 2023
+"765,000 ","44 Kevin Street,",WHITFIELD QLD 4870,House,4,2,3,895m² ,13 Dec 2023
+"780,000 ","101 Russell Street,",EDGE HILL QLD 4870,House,4,2,3,660m² ,12 Dec 2023
+"330,000","22 Frances Street,",MOOROOBOOL QLD 4870,House,3,1,2,413m² ,12 Dec 2023
+"572,500 ","24 George Street,",EARLVILLE QLD 4870,House,3,2,4,766m² ,11 Dec 2023
+"465,000 ","8 Mansfield Street,",EARLVILLE QLD 4870,House,3,1,1,609m² ,11 Dec 2023
+"507,500 ","136 Hoare Street,",MANUNDA QLD 4870,House,5,1,3,769m² ,11 Dec 2023
+"455,000 ","4 Hammond Court,",MOOROOBOOL QLD 4870,House,4,1,2,461m² ,11 Dec 2023
+"280,000",,WANGAN QLD 4871,House,3,2,2,608m² ,11 Dec 2023
+"1,107,000 ","27 Fleming Street,",EDGE HILL QLD 4870,House,3,2,3,809m² ,2023
+"540,000 ","31 Langan Street,",EARLVILLE QLD 4870,House,3,1,2,609m² ,08 Dec 2023
+"399,000 ","27 Koch Street,",MOOROOBOOL QLD 4870,House,3,1,2,845m² ,08 Dec 2023
+"950,000","80 Koppen Terrace,",MOOROOBOOL QLD 4870,House,5,2,2,842m² ,08 Dec 2023
+"515,000 ","20 Holly Street,",MOOROOBOOL QLD 4870,House,3,1,4,761m² ,08 Dec 2023
+"760,000 ","1 Ellie Banning Close,",REDLYNCH QLD 4870,House,4,2,2,650m² ,2023
+"560,000 ","6 Dunbar Street,",MOOROOBOOL QLD 4870,House,5,3,2,800m² ,06 Dec 2023
+"600,000 ","23 William Hickey Street,",REDLYNCH QLD 4870,House,3,2,2,958m² ,06 Dec 2023
+"430,000 ","13 Ascot Avenue,",WESTCOURT QLD 4870,House,2,1,2,416m² ,06 Dec 2023
+"620,000","32 Shamrock Avenue,",BRINSMEAD QLD 4870,House,4,2,2,575m² ,05 Dec 2023
+"680,000 ","74 Mansfield Street,",EARLVILLE QLD 4870,House,4,2,3,787m² ,05 Dec 2023
+"549,999 ","101-103 Reservoir Road,",MANOORA QLD 4870,House,3,2,2,"2,077m² ",05 Dec 2023
+"685,000 ","3 SPRINGBROOK AVENUE,",REDLYNCH QLD 4870,House,4,2,2,600m² ,05 Dec 2023
+"508,000 ","4 Redwood Street,",WHITFIELD QLD 4870,House,4,1,1,693m² ,05 Dec 2023
+"1,070,000 ","38 Barnes Street,",EARLVILLE QLD 4870,House,5,3,2,888m² ,04 Dec 2023
+"665,000 ","8 Spowatt Close,",KANIMBLA QLD 4870,House,4,2,3,700m² ,04 Dec 2023
+"550,000 ","20 Cominos Place,",MANUNDA QLD 4870,House,3,1,2,622m² ,04 Dec 2023
+"437,500 ","11 Silky Oak Court,",MOOROOBOOL QLD 4870,House,3,1,1,311m² ,04 Dec 2023
+"510,000 ","29 Dunbar Street,",MOOROOBOOL QLD 4870,House,3,2,7,800m² ,04 Dec 2023
+"890,000 ","1 Hughes Close,",REDLYNCH QLD 4870,House,4,2,4,966m² ,04 Dec 2023
+"746,000 ","258 Lake Street,",CAIRNS NORTH QLD 4870,House,2,2,2,414m² ,02 Dec 2023
+"791,500","3 Iona Close,",EDGE HILL QLD 4870,House,5,3,2,800m² ,02 Dec 2023
+"539,000 ","6 Chesterfield Close,",BRINSMEAD QLD 4870,House,3,2,2,451m² ,01 Dec 2023
+"420,000 ","5 Sunflower Drive,",MOOROOBOOL QLD 4870,House,3,1,1,989m² ,2023
+"782,500 ","18 Romney Street,",KAMERUNGA QLD 4870,House,5,2,3,"1,012m² ",29 Nov 2023
+"680,000 ","33 Koppen Terrace,",MOOROOBOOL QLD 4870,House,4,2,3,865m² ,29 Nov 2023
+"570,000 ","132 Upper Richardson Street,",WHITFIELD QLD 4870,House,3,2,2,603m² ,29 Nov 2023
+"643,000 ","30 Ponticello Street,",WHITFIELD QLD 4870,House,4,2,1,635m² ,29 Nov 2023
+"675,500 ","2 Shamrock Avenue,",BRINSMEAD QLD 4870,House,4,2,4,891m² ,28 Nov 2023
+"667,000 ","9 Butland Street,",BRINSMEAD QLD 4870,House,4,2,2,968m² ,28 Nov 2023
+"550,000","53 Chesterfield Close,",BRINSMEAD QLD 4870,House,4,2,2,400m² ,2023
+"991,000 ","43 Hutchinson Street,",EDGE HILL QLD 4870,House,4,2,2,807m² ,28 Nov 2023
+"461,000 ","2/440 Mccoombe Street,",MOOROOBOOL QLD 4870,House,4,2,4,259m² ,28 Nov 2023
+"697,000 ","33 Hodkinson Street,",REDLYNCH QLD 4870,House,5,2,2,698m² ,28 Nov 2023
+"480,000 ","2 George Street,",EARLVILLE QLD 4870,House,3,1,2,679m² ,27 Nov 2023
+"515,000 ","4 Lychee Close,",MANOORA QLD 4870,Duplex,4,2,2,674m² ,27 Nov 2023
+"450,000 ","78 Upper Miles Street,",MANOORA QLD 4870,House,3,1,3,835m² ,27 Nov 2023
+"420,000 ","70 Mayers Street,",MANUNDA QLD 4870,House,3,1,2,609m² ,27 Nov 2023
+"715,000 ","4 Kippin Close,",REDLYNCH QLD 4870,House,4,2,2,600m² ,27 Nov 2023
+"590,000 ","51 West Parkridge Drive,",BRINSMEAD QLD 4870,House,3,2,2,500m² ,24 Nov 2023
+"660,000 ","41 Michaelangelo Drive,",REDLYNCH QLD 4870,House,3,2,3,799m² ,24 Nov 2023
+"1,251,000","18 Trumpeter Street,",KANIMBLA QLD 4870,House,4,4,2,725m² ,22 Nov 2023
+"340,000 ","10/5 Brinsmead Terrace,",KANIMBLA QLD 4870,Villa,2,1,2,521m² ,2023
+"660,000 ","37 Robson Street,",MOOROOBOOL QLD 4870,House,4,2,2,709m² ,22 Nov 2023
+"930,000 ","28 Willie Ming Close,",REDLYNCH QLD 4870,House,5,2,2,"1,842m² ",22 Nov 2023
+"455,000 ","590 Cowley Beach Road,",COWLEY BEACH QLD 4871,House,5,2,3,"1,915m² ",21 Nov 2023
+"1,021,000 ","3 Queenley Close,",EDGE HILL QLD 4870,House,3,2,2,862m² ,2023
+"610,000 ","19 Rosewood Close,",REDLYNCH QLD 4870,House,3,2,1,823m² ,21 Nov 2023
+"590,000 ","128 Upper Richardson Street,",WHITFIELD QLD 4870,House,3,1,1,809m² ,21 Nov 2023
+"640,000 ","79 Mansfield Street,",EARLVILLE QLD 4870,House,4,1,2,817m² ,20 Nov 2023
+"780,000","6 MURRAY STREET,",MANOORA QLD 4870,House,7,3,5,792m² ,
+"600,000","22 Tyson Place,",REDLYNCH QLD 4870,House,3,2,2,614m² ,19 Nov 2023
+"470,000 ","106 Callum Street,",MOOROOBOOL QLD 4870,House,3,1,3,692m² ,17 Nov 2023
+"530,000","16 Lumley St,",PARRAMATTA PARK QLD 4870,House,4,1,1,354m² ,17 Nov 2023
+"545,000 ","315B McLeod Street,",CAIRNS NORTH QLD 4870,House,2,1,2,289m² ,16 Nov 2023
+"410,000 ","152 Mayers Street,",MANUNDA QLD 4870,House,3,1,2,515m² ,16 Nov 2023
+"438,000 ","6 Silky Oak Court,",MOOROOBOOL QLD 4870,House,3,1,2,302m² ,16 Nov 2023
+"2,600,000",,WHITFIELD QLD 4870,House,4,3,3,"3,556m² ",16 Nov 2023
+"536,000 ","61 West Parkridge Drive,",BRINSMEAD QLD 4870,House,4,2,2,347m² ,15 Nov 2023
+"719,810 ","2293 Pine Creek Yarrabah Road,",EAST TRINITY QLD 4871,House,3,2,4,0,15 Nov 2023
+"660,000 ","14 Teraglin Street,",KANIMBLA QLD 4870,House,4,2,2,660m² ,14 Nov 2023
+"617,500 ","12 Hobson Drive,",BRINSMEAD QLD 4870,House,3,1,1,924m² ,13 Nov 2023
+"591,000 ","8 Mistletoe Close,",KAMERUNGA QLD 4870,House,3,1,1,797m² ,13 Nov 2023
+"500,000 ","9 Murray Street,",MANOORA QLD 4870,House,3,1,2,807m² ,13 Nov 2023
+"352,000 ","1 Ormsby Close,",WHITFIELD QLD 4870,House,3,1,1,455m² ,13 Nov 2023
+"920,000 ","36 Balfe Street,",PARRAMATTA PARK QLD 4870,House,3,2,2,415m² ,11 Nov 2023
+"620,000 ","68 Meuanbah Road,",BOMBEETA QLD 4871,House,4,2,6,0,10 Nov 2023
+"500,000 ","12 Henley Street,",EARLVILLE QLD 4870,House,3,1,1,688m² ,10 Nov 2023
+"671,000 ","12 Hoad Street,",EARLVILLE QLD 4870,House,3,2,2,688m² ,09 Nov 2023
+"520,000 ","487 Mccoombe Street,",MOOROOBOOL QLD 4870,House,5,2,1,"1,295m² ",09 Nov 2023
+"640,000 ","2/64 Tills Street,",WESTCOURT QLD 4870,Semi-detached,4,2,2,405m² ,08 Nov 2023
+"580,000 ","103-105 McManus Street,",WHITFIELD QLD 4870,House,3,2,1,688m² ,08 Nov 2023
+"545,000 ","14 Marigold Close,",MOOROOBOOL QLD 4870,House,4,2,2,749m² ,07 Nov 2023
+"550,000 ","3 Woollybutt Street,",REDLYNCH QLD 4870,House,4,3,2,500m² ,07 Nov 2023
+"600,000 ","1 McCarthy Close,",BRINSMEAD QLD 4870,House,3,1,2,878m² ,06 Nov 2023
+"630,000 ","2 Gelling Street,",CAIRNS NORTH QLD 4870,House,3,2,2,465m² ,06 Nov 2023
+"300,000 ","20 Long Street,",MOOROOBOOL QLD 4870,House,3,1,1,424m² ,06 Nov 2023
+"435,000 ","13 Marigold Close,",MOOROOBOOL QLD 4870,House,3,1,2,749m² ,06 Nov 2023
+"700,000 ",,REDLYNCH QLD 4870,House,4,2,2,697m² ,06 Nov 2023
+"995,000","44 Dalziel Street,",STRATFORD QLD 4870,House,4,2,2,"1,619m² ",06 Nov 2023
+"630,000 ","11 Alander Payet Close,",REDLYNCH QLD 4870,House,4,2,2,663m² ,04 Nov 2023
+"610,000 ","3 Ryan Close,",BRINSMEAD QLD 4870,House,3,1,2,997m² ,03 Nov 2023
+"830,000 ","28 Greenock Way,",BRINSMEAD QLD 4870,House,5,2,2,800m² ,03 Nov 2023
+"775,000 ","51 Richardson Street,",EDGE HILL QLD 4870,House,4,2,3,779m² ,03 Nov 2023
+"630,000 ","25 Cassia Street,",EDGE HILL QLD 4870,House,4,1,2,635m² ,03 Nov 2023
+"470,000 ","19 Svendsen Street,",BUNGALOW QLD 4870,House,3,1,1,708m² ,02 Nov 2023
+"340,000 ","11/26 Springfield Crescent,",MANOORA QLD 4870,House,2,1,1,114m² ,02 Nov 2023
+"1,296,000 ","46 Koppen Terrace,",MOOROOBOOL QLD 4870,House,4,3,2,708m² ,02 Nov 2023
+"595,000","215 Harvey Road,",REDLYNCH QLD 4870,House,3,2,1,794m² ,02 Nov 2023
+"880,000 ","288 Pease Street,",EDGE HILL QLD 4870,House,5,3,4,540m² ,01 Nov 2023
+"700,000 ","6 Balzer Close,",WHITFIELD QLD 4870,House,3,1,2,746m² ,2023
+"770,000","9 Cananga Close,",KAMERUNGA QLD 4870,House,3,2,2,"1,064m² ",31 Oct 2023
+"592,500 ","14 Diehm Street,",AEROGLEN QLD 4870,House,3,1,2,809m² ,30 Oct 2023
+"385,000 ","9 Casella Street,",EARLVILLE QLD 4870,House,2,2,1,531m² ,30 Oct 2023
+"429,000 ","4 Trappes Court,",MOOROOBOOL QLD 4870,House,3,2,2,519m² ,30 Oct 2023
+"363,000 ","28 Long Street,",MOOROOBOOL QLD 4870,House,3,1,1,400m² ,30 Oct 2023
+"1,250,000 ","5 Torazzi Place,",MOOROOBOOL QLD 4870,House,5,4,4,"1,078m² ",30 Oct 2023
+"600,000 ","7 Di Savia Close,",WHITFIELD QLD 4870,House,4,1,2,717m² ,30 Oct 2023
+"480,000 ","4 Pitt Court,",EARLVILLE QLD 4870,House,3,1,4,678m² ,28 Oct 2023
+"415,000 ","4 Elmire Close,",WESTCOURT QLD 4870,House,3,1,1,630m² ,27 Oct 2023
+"751,000 ","33 Slathiel Street,",BRINSMEAD QLD 4870,House,4,3,3,773m² ,26 Oct 2023
+"615,000 ","4 Cassia Street,",EDGE HILL QLD 4870,House,4,2,2,607m² ,26 Oct 2023
+"620,000 ","28 Village Terrace,",REDLYNCH QLD 4870,House,3,2,1,623m² ,26 Oct 2023
+"653,000 ","34 Hobson Drive,",BRINSMEAD QLD 4870,House,3,1,2,977m² ,25 Oct 2023
+"650,001 ","353 McLeod Street,",CAIRNS NORTH QLD 4870,House,3,2,2,472m² ,25 Oct 2023
+"820,000 ","16 Alstonia Close,",REDLYNCH QLD 4870,House,4,2,3,855m² ,25 Oct 2023
+"830,000 ","41 Nolan Street,",WHITFIELD QLD 4870,House,5,2,3,814m² ,2023
+"728,000 ","21 View Street,",BRINSMEAD QLD 4870,House,5,2,3,"1,470m² ",24 Oct 2023
+"505,000 ","83 Ishmael Road,",EARLVILLE QLD 4870,House,3,2,2,759m² ,24 Oct 2023
+"440,000 ","87 Hoare Street,",MANUNDA QLD 4870,House,4,1,2,705m² ,24 Oct 2023
+"455,000 ","85 Tills Street,",WESTCOURT QLD 4870,House,3,1,−,662m² ,24 Oct 2023
+"475,000 ","4 Matheson Drive,",BRINSMEAD QLD 4870,House,3,1,1,800m² ,23 Oct 2023
+"616,500","12-14 Nelson Street,",BUNGALOW QLD 4870,House,2,1,1,810m² ,23 Oct 2023
+"682,000 ","31 Halifax Drive,",REDLYNCH QLD 4870,House,4,2,2,480m² ,23 Oct 2023
+"550,000 ","27 Boland Street,",WESTCOURT QLD 4870,House,3,1,1,523m² ,22 Oct 2023
+"720,000 ","102 & 104 Pease Street,",MANOORA QLD 4870,House,3,2,2,"1,206m² ",20 Oct 2023
+"490,000","1/2 Ormsby Close,",WHITFIELD QLD 4870,Semi-detached,3,2,2,336m² ,19 Oct 2023
+"571,500 ","4 Sophie Close,",BRINSMEAD QLD 4870,House,4,2,3,602m² ,18 Oct 2023
+"370,000 ","31 Collinson Street,",WESTCOURT QLD 4870,House,3,1,4,622m² ,18 Oct 2023
+"790,000 ","5 Kingfish Street,",KANIMBLA QLD 4870,House,4,2,2,664m² ,17 Oct 2023
+"275,000 ","2/41 Sperring Street,",MANUNDA QLD 4870,Duplex,2,1,1,362m² ,17 Oct 2023
+"765,000 ","10 Rosemont Court,",MOOROOBOOL QLD 4870,House,4,2,2,709m² ,17 Oct 2023
+"770,000 ","69 Upper Perkins Street,",MANOORA QLD 4870,House,4,2,4,835m² ,16 Oct 2023
+"750,000 ","24 Hodel Street,",WHITFIELD QLD 4870,House,3,2,2,713m² ,15 Oct 2023
+"675,500 ","2 Kehone Street,",REDLYNCH QLD 4870,House,4,2,2,608m² ,13 Oct 2023
+"938,000 ","120 McFarlane Drive,",KANIMBLA QLD 4870,House,4,2,3,700m² ,10 Oct 2023
+"500,000 ","4 Delaney Close,",KANIMBLA QLD 4870,House,4,2,2,728m² ,10 Oct 2023
+"549,000 ","3 Hermes Close,",MOOROOBOOL QLD 4870,House,3,1,1,701m² ,10 Oct 2023
+"615,000","10 Opaline Close,",BRINSMEAD QLD 4870,House,3,2,2,450m² ,09 Oct 2023
+"422,000","14 Bunting Street,",BUNGALOW QLD 4870,House,2,1,2,405m² ,09 Oct 2023
+"555,000 ","215 McDougall Road,",JULATTEN QLD 4871,House,2,1,−,0,2023
+"510,000","18 Ramsey Drive,",KANIMBLA QLD 4870,House,3,1,2,776m² ,09 Oct 2023
+"420,000","3 Bardon Cl,",KURRIMINE BEACH QLD 4871,House,3,3,3,801m² ,09 Oct 2023
+"795,000 ","8 Argyle Close,",EDGE HILL QLD 4870,House,3,1,2,"1,385m² ",08 Oct 2023
+"745,000","3/2 Charlekata Close,",FRESHWATER QLD 4870,House,3,2,2,719m² ,07 Oct 2023
+"395,000","29 Ishmael Road,",EARLVILLE QLD 4870,House,3,1,2,653m² ,06 Oct 2023
+"635,000 ","75 Cassowary Street,",FRESHWATER QLD 4870,House,3,1,2,798m² ,06 Oct 2023
+"490,000 ","50 Grove Street,",PARRAMATTA PARK QLD 4870,House,2,1,1,574m² ,06 Oct 2023
+"1,000,000 ","15 Lowther Close,",REDLYNCH QLD 4870,House,4,2,2,"1,346m² ",06 Oct 2023
+"785,000 ","71 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,660m² ,06 Oct 2023
+"690,000 ","55 Mackerras Street,",REDLYNCH QLD 4870,House,4,2,2,644m² ,06 Oct 2023
+"700,000","19 Diehm Street,",AEROGLEN QLD 4870,House,6,2,2,809m² ,05 Oct 2023
+"355,000 ","22 Henley Street,",EARLVILLE QLD 4870,House,5,2,2,688m² ,2023
+"600,000 ","33 Fairley Street,",REDLYNCH QLD 4870,House,4,2,2,745m² ,05 Oct 2023
+"730,000 ","32 MacKey Close,",BRINSMEAD QLD 4870,House,4,2,2,957m² ,03 Oct 2023
+"605,000 ","5A Pembroke Street,",PARRAMATTA PARK QLD 4870,House,3,2,2,439m² ,03 Oct 2023
+"530,000 ","260 Aumuller Street,",WESTCOURT QLD 4870,House,4,2,2,622m² ,03 Oct 2023
+"590,000","26 Forest Avenue,",EDGE HILL QLD 4870,House,3,1,2,614m² ,02 Oct 2023
+"815,000 ","11 Keirle Avenue,",WHITFIELD QLD 4870,House,3,2,2,660m² ,02 Oct 2023
+"410,000","12 Bunting Street,",BUNGALOW QLD 4870,House,2,1,1,607m² ,29 Sep 2023
+"615,000 ","8 Eleanor Close,",MOOROOBOOL QLD 4870,House,4,2,2,730m² ,29 Sep 2023
+"585,000 ","41 Balfe Street,",PARRAMATTA PARK QLD 4870,House,3,1,1,415m² ,29 Sep 2023
+"940,000 ","18 Park Street,",WHITFIELD QLD 4870,House,4,2,3,"1,150m² ",29 Sep 2023
+"512,000 ","16 Warner Street,",MANUNDA QLD 4870,House,3,1,5,665m² ,28 Sep 2023
+"1,070,000 ","19 The Peak Road,",BRINSMEAD QLD 4870,House,4,2,2,829m² ,27 Sep 2023
+"1,475,000 ","11 Springmeadow Close,",BRINSMEAD QLD 4870,House,5,3,2,771m² ,27 Sep 2023
+"980,000 ","19 Emperor Street,",KANIMBLA QLD 4870,House,5,3,2,723m² ,27 Sep 2023
+"505,000 ","15 Moody Street,",MANUNDA QLD 4870,House,3,1,2,809m² ,27 Sep 2023
+"750,000 ","71 Koppen Terrace,",MOOROOBOOL QLD 4870,House,5,2,2,"1,035m² ",27 Sep 2023
+"570,000 ","4 Stringer Close,",REDLYNCH QLD 4870,House,4,2,2,602m² ,27 Sep 2023
+"539,000 ","6 Hobson Drive,",BRINSMEAD QLD 4870,House,3,1,1,936m² ,26 Sep 2023
+"361,500 ","12 Conlan Close,",MANOORA QLD 4870,House,4,1,1,811m² ,26 Sep 2023
+"489,000 ","50 Carnation Drive,",MOOROOBOOL QLD 4870,House,3,1,1,652m² ,26 Sep 2023
+"477,400 ","7 Lumley Street,",PARRAMATTA PARK QLD 4870,House,4,1,1,354m² ,26 Sep 2023
+"810,000 ","34 Ponticello Street,",WHITFIELD QLD 4870,House,4,3,2,635m² ,26 Sep 2023
+"785,000 ","16 Hobson Drive,",BRINSMEAD QLD 4870,House,5,3,3,843m² ,25 Sep 2023
+"565,000","12 Cairns Street,",CAIRNS NORTH QLD 4870,House,4,2,2,410m² ,25 Sep 2023
+"1,200,000 ","1 Barron View Drive,",FRESHWATER QLD 4870,House,4,2,2,"2,674m² ",25 Sep 2023
+"775,000 ","40-42 Xavier Herbert Drive,",REDLYNCH QLD 4870,House,4,2,4,"1,169m² ",25 Sep 2023
+"328,000 ","9 Dillon Street,",BUNGALOW QLD 4870,House,2,1,4,581m² ,23 Sep 2023
+"402,500 ","38 Little Street,",MANUNDA QLD 4870,House,3,1,1,918m² ,2023
+"980,000 ","21 Minerva Avenue,",MOOROOBOOL QLD 4870,House,4,3,2,"1,491m² ",23 Sep 2023
+"378,000 ","2/43 Boden Street,",EDGE HILL QLD 4870,Duplex,2,1,2,110m² ,22 Sep 2023
+"950,000 ","346B Pease Street,",EDGE HILL QLD 4870,House,3,2,2,529m² ,22 Sep 2023
+"610,000 ","175 McFarlane Drive,",KANIMBLA QLD 4870,House,4,2,2,759m² ,22 Sep 2023
+"780,000 ","1 Mcalpine Close,",BRINSMEAD QLD 4870,House,4,2,2,"1,215m² ",21 Sep 2023
+"590,000 ","23 Taringa Street,",BRINSMEAD QLD 4870,House,4,2,2,600m² ,2023
+"610,000 ","41 McBride Street,",REDLYNCH QLD 4870,House,4,2,2,675m² ,20 Sep 2023
+"770,000 ","30 Vallely Street,",FRESHWATER QLD 4870,House,2,2,2,523m² ,19 Sep 2023
+"550,000 ","357 Draper Street,",PARRAMATTA PARK QLD 4870,House,3,2,2,405m² ,19 Sep 2023
+"382,500 ","11 Balzer Close,",WHITFIELD QLD 4870,House,3,1,1,799m² ,19 Sep 2023
+"530,000 ","94 Loridan Drive,",BRINSMEAD QLD 4870,House,4,1,1,700m² ,18 Sep 2023
+"375,000","11 Lissner Crescent,",EARLVILLE QLD 4870,House,3,2,2,"1,012m² ",18 Sep 2023
+"422,500 ","138 Pease Street,",MANOORA QLD 4870,House,3,1,2,756m² ,18 Sep 2023
+"560,000 ","326 Gatton Street,",MANUNDA QLD 4870,House,4,2,3,599m² ,18 Sep 2023
+"570,000 ","37 Ebony Street,",REDLYNCH QLD 4870,House,3,1,2,800m² ,18 Sep 2023
+"630,000 ","12 Ginger Close,",REDLYNCH QLD 4870,House,4,2,1,863m² ,16 Sep 2023
+"625,000 ","66 Meuanbah Road,",BOMBEETA QLD 4871,House,3,2,3,0,15 Sep 2023
+"500,000","74 Morehead Street,",BUNGALOW QLD 4870,House,3,2,2,495m² ,15 Sep 2023
+"760,000 ","3 Cyathea Close,",KAMERUNGA QLD 4870,House,4,3,2,795m² ,15 Sep 2023
+"545,000 ","11 Staghorn Close,",KAMERUNGA QLD 4870,House,3,1,2,782m² ,15 Sep 2023
+"590,000 ","17 Jagera Close,",KAMERUNGA QLD 4870,House,3,3,2,661m² ,15 Sep 2023
+"727,000 ","99 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,480m² ,15 Sep 2023
+"800,000 ","80 Hoare Street,",MANUNDA QLD 4870,House,7,2,4,696m² ,14 Sep 2023
+"540,000 ","14 Ixora Court,",MOOROOBOOL QLD 4870,House,4,2,2,600m² ,13 Sep 2023
+"595,000 ","10 Tradewinds Close,",REDLYNCH QLD 4870,House,3,2,2,711m² ,13 Sep 2023
+"686,000 ","218 Greenslopes Street,",WHITFIELD QLD 4870,House,4,2,2,"1,745m² ",13 Sep 2023
+"820,000 ","2-4 Kevin Street,",WHITFIELD QLD 4870,House,4,2,6,759m² ,2023
+"620,000 ","16 Mckinlay Street,",WHITFIELD QLD 4870,House,4,2,2,724m² ,13 Sep 2023
+"714,000 ","9-11 Stack Close,",REDLYNCH QLD 4870,House,4,2,2,"2,039m² ",12 Sep 2023
+"655,000 ","32 Larsen Road,",REDLYNCH QLD 4870,House,4,2,2,644m² ,12 Sep 2023
+"630,000 ","1B Pilosa Street,",REDLYNCH QLD 4870,House,4,2,2,802m² ,12 Sep 2023
+"420,000 ","575 Mulgrave Road,",EARLVILLE QLD 4870,House,3,1,2,665m² ,11 Sep 2023
+"490,000 ","5 McCrae Street,",EAST TRINITY QLD 4871,House,3,2,3,905m² ,11 Sep 2023
+"790,000 ","22 Pelling Close,",KANIMBLA QLD 4870,House,4,2,2,700m² ,11 Sep 2023
+"470,000 ","76 Alfred Street,",MANUNDA QLD 4870,House,3,1,1,627m² ,11 Sep 2023
+"614,000 ","30 Wills Street,",BRINSMEAD QLD 4870,House,4,2,2,600m² ,08 Sep 2023
+"63,000 ","20 Lucy Close,",KANIMBLA QLD 4870,House,4,2,2,703m² ,08 Sep 2023
+"575,000 ","40 Cavendish Street,",EARLVILLE QLD 4870,House,3,1,2,860m² ,07 Sep 2023
+"340,000 ","11/51-59 Heavey Crescent,",WHITFIELD QLD 4870,Villa,2,1,1,194m² ,07 Sep 2023
+"460,000 ","7 McCrae Street,",EAST TRINITY QLD 4871,House,4,2,2,809m² ,06 Sep 2023
+"1,725,000 ","26 Goodwin St,",EDGE HILL QLD 4870,House,5,3,3,822m² ,06 Sep 2023
+"890,000 ","37 Eugenia Crescent,",REDLYNCH QLD 4870,House,4,3,2,903m² ,06 Sep 2023
+"625,000 ","3 Neeve Close,",WHITFIELD QLD 4870,House,3,1,4,701m² ,06 Sep 2023
+"675,000 ","5 Turner Street,",WHITFIELD QLD 4870,House,4,2,2,896m² ,2023
+"660,000 ","20 Paperbark Street,",BRAMSTON BEACH QLD 4871,House,3,2,4,700m² ,05 Sep 2023
+"1,300,000 ","18 Bel-Air Drive,",WHITFIELD QLD 4870,House,4,2,2,831m² ,05 Sep 2023
+"785,000 ","6 Latreille Terrace,",BRINSMEAD QLD 4870,House,5,3,2,980m² ,04 Sep 2023
+"580,000 ","6 Lissner Crescent,",EARLVILLE QLD 4870,House,3,1,6,"1,159m² ",04 Sep 2023
+"540,000 ","61 Fallon Street,",MANUNDA QLD 4870,House,7,2,−,728m² ,04 Sep 2023
+"364,000 ","11/4-10 Hedley Close,",REDLYNCH QLD 4870,House,2,1,1,106m² ,04 Sep 2023
+"520,000 ","28 Tills Street,",WESTCOURT QLD 4870,House,3,1,2,578m² ,04 Sep 2023
+"1,300,000 ","87 Petersen Street,",FRESHWATER QLD 4870,House,5,5,4,"1,243m² ",01 Sep 2023
+"467,000 ","14 Smart Street,",MOOROOBOOL QLD 4870,House,3,2,2,876m² ,01 Sep 2023
+"780,000 ","9 James Street,",CAIRNS NORTH QLD 4870,House,4,3,2,490m² ,31 Aug 2023
+"825,000 ","191 Greenslopes Street,",EDGE HILL QLD 4870,House,3,2,2,615m² ,31 Aug 2023
+"295,000 ","59 Mayers Street,",MANOORA QLD 4870,House,3,2,−,617m² ,31 Aug 2023
+"1,550,000 ","303 Moller Road,",ALOOMBA QLD 4871,House,5,2,6,"10,000m² ",29 Aug 2023
+"355,000 ","7 Maria Street,",KURRIMINE BEACH QLD 4871,House,3,2,−,642m² ,29 Aug 2023
+"590,000 ",,BRINSMEAD QLD 4870,House,4,2,2,700m² ,28 Aug 2023
+"630,000 ","6 Basalt Street,",BRINSMEAD QLD 4870,House,4,2,2,889m² ,28 Aug 2023
+"515,000 ","18 Casella St,",EARLVILLE QLD 4870,House,3,1,2,"1,131m² ",28 Aug 2023
+"585,000 ","66 Irene Street,",MOOROOBOOL QLD 4870,House,3,1,2,"1,109m² ",28 Aug 2023
+"515,000 ","150 Martyn Street,",PARRAMATTA PARK QLD 4870,House,2,1,2,607m² ,28 Aug 2023
+"695,000 ","32 Perserverance Street,",REDLYNCH QLD 4870,House,4,2,2,620m² ,28 Aug 2023
+"485,000 ","446 Severin Street,",MANUNDA QLD 4870,House,2,1,1,506m² ,25 Aug 2023
+"465,000 ","180 Martyn Street,",MANUNDA QLD 4870,House,2,1,1,576m² ,25 Aug 2023
+"780,000 ","29 Duffy Street,",FRESHWATER QLD 4870,House,3,2,2,744m² ,24 Aug 2023
+"350,000 ","21 McEwen Street,",MOOROOBOOL QLD 4870,House,3,1,1,400m² ,24 Aug 2023
+"1,335,000 ","13-15 Peakviews Close,",REDLYNCH QLD 4870,House,4,2,10,"2,576m² ",24 Aug 2023
+"690,000 ","47 Greendale Close,",BRINSMEAD QLD 4870,House,4,2,2,648m² ,23 Aug 2023
+"965,000 ","15 Emperor Street,",KANIMBLA QLD 4870,House,5,2,2,700m² ,23 Aug 2023
+"670,000 ","1 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,692m² ,23 Aug 2023
+"525,000 ","2 Delaney Close,",KANIMBLA QLD 4870,House,4,1,1,725m² ,22 Aug 2023
+"770,000","34 Willoughby Close,",REDLYNCH QLD 4870,House,3,2,2,778m² ,22 Aug 2023
+"837,000 ","21-23 Sommerville Crescent,",WHITFIELD QLD 4870,House,5,2,2,936m² ,22 Aug 2023
+"675,000 ","34 Elphinstone Street,",KANIMBLA QLD 4870,House,4,2,2,699m² ,21 Aug 2023
+"445,000 ","18 Blantyre Close,",MANUNDA QLD 4870,House,3,1,1,693m² ,21 Aug 2023
+"710,000 ","7B Denbeigh Street,",PARRAMATTA PARK QLD 4870,House,4,2,2,255m² ,21 Aug 2023
+"660,000 ","1/28 Murchison Street,",WHITFIELD QLD 4870,Semi-detached,3,2,2,523m² ,21 Aug 2023
+"502,000 ","181 Loridan Drive,",BRINSMEAD QLD 4870,House,3,1,3,830m² ,18 Aug 2023
+"540,000 ","53 Boden Street,",EDGE HILL QLD 4870,House,5,2,−,751m² ,18 Aug 2023
+"425,000 ","3/5 Hedley Close,",REDLYNCH QLD 4870,House,3,1,1,107m² ,18 Aug 2023
+"740,000 ","1 Findlay Street,",BRINSMEAD QLD 4870,House,4,2,4,826m² ,17 Aug 2023
+"670,000 ","22 Barry Street,",BUNGALOW QLD 4870,House,3,1,5,540m² ,17 Aug 2023
+"490,000","90 Reservoir Road,",MANOORA QLD 4870,House,3,2,2,559m² ,17 Aug 2023
+"650,000 ","17/23 Heavey Crescent,",WHITFIELD QLD 4870,House,4,2,4,"1,795m² ",17 Aug 2023
+"540,000 ","137 Loridan Drive,",BRINSMEAD QLD 4870,House,4,1,1,756m² ,16 Aug 2023
+"515,000 ","17 Granite Close,",BRINSMEAD QLD 4870,House,4,2,1,840m² ,16 Aug 2023
+"630,000 ","20 Five Span Close,",BRINSMEAD QLD 4870,House,4,3,2,602m² ,16 Aug 2023
+"569,000 ","19 Jaye Street,",EDGE HILL QLD 4870,House,3,1,4,607m² ,16 Aug 2023
+"765,000 ","7 Strathmore Court,",MOOROOBOOL QLD 4870,House,5,2,2,760m² ,16 Aug 2023
+"1,115,000","14-16 Esterina Close,",REDLYNCH QLD 4870,House,3,2,4,"8,401m² ",16 Aug 2023
+"675,000 ","8 Fireclay Close,",REDLYNCH QLD 4870,House,5,2,2,620m² ,16 Aug 2023
+"410,000 ","31 Morehead Street,",BUNGALOW QLD 4870,House,3,1,1,810m² ,15 Aug 2023
+"500,000","5 Delaney Close,",KANIMBLA QLD 4870,House,3,1,1,728m² ,15 Aug 2023
+"730,000 ","11 Mullins Street,",WHITFIELD QLD 4870,House,4,2,2,702m² ,15 Aug 2023
+"593,000 ","1 Gelling Street,",CAIRNS NORTH QLD 4870,House,3,2,2,465m² ,14 Aug 2023
+"548,000 ","83 Hoare Street,",MANUNDA QLD 4870,House,3,2,2,539m² ,14 Aug 2023
+"486,000 ","5 Gardenia Court,",MOOROOBOOL QLD 4870,House,3,1,1,661m² ,14 Aug 2023
+"780,000 ","117C Old Smithfield Road,",FRESHWATER QLD 4870,House,4,2,2,724m² ,12 Aug 2023
+"680,000 ","44 Jacamunda Circuit,",EARLVILLE QLD 4870,House,4,2,2,563m² ,11 Aug 2023
+"650,000 ","7 De Roma Close,",KANIMBLA QLD 4870,House,4,2,2,704m² ,11 Aug 2023
+"405,000 ","26 Mcguigan Street,",EARLVILLE QLD 4870,House,3,1,3,736m² ,10 Aug 2023
+"700,000","7B Glenlea Street,",EDGE HILL QLD 4870,House,3,2,1,375m² ,10 Aug 2023
+"595,000 ","6 Cairns Street,",CAIRNS NORTH QLD 4870,House,3,2,2,410m² ,09 Aug 2023
+"385,000 ","1 Witney Street,",MANOORA QLD 4870,House,3,1,3,663m² ,09 Aug 2023
+"517,500 ","1 Russellia Street,",REDLYNCH QLD 4870,House,3,1,2,600m² ,09 Aug 2023
+"770,000 ","6 Botany Avenue,",REDLYNCH QLD 4870,House,4,2,2,615m² ,09 Aug 2023
+"605,000 ","20 Down Street,",FRESHWATER QLD 4870,House,2,1,3,825m² ,08 Aug 2023
+"1,200,000 ","11 Trevally Close,",KANIMBLA QLD 4870,House,4,2,2,758m² ,08 Aug 2023
+"785,000 ","23 Laguna Avenue,",REDLYNCH QLD 4870,House,4,2,2,600m² ,08 Aug 2023
+"685,000 ","1 Mullins Street,",WHITFIELD QLD 4870,House,4,2,−,668m² ,08 Aug 2023
+"499,891 ","14-16 Slathiel Street,",BRINSMEAD QLD 4870,House,3,1,1,787m² ,07 Aug 2023
+"470,500","18 Granite Close,",BRINSMEAD QLD 4870,House,3,1,4,800m² ,07 Aug 2023
+"685,000 ","Lot 55 Oxbow Loop,",REDLYNCH QLD 4870,House,4,2,2,502m² ,07 Aug 2023
+"729,000 ","30 Stuart Street,",EDGE HILL QLD 4870,House,3,1,1,668m² ,2023
+"715,000 ","21 Lomond Close,",EDGE HILL QLD 4870,House,4,2,2,820m² ,04 Aug 2023
+"370,000 ","60 Jensen Street,",MANOORA QLD 4870,House,3,1,1,700m² ,04 Aug 2023
+"650,000 ","34 Perserverance Street,",REDLYNCH QLD 4870,House,4,2,2,630m² ,04 Aug 2023
+"890,000 ","1 Greenock Way,",BRINSMEAD QLD 4870,House,4,2,3,702m² ,02 Aug 2023
+"350,000","3 Olive Cres,",KURRIMINE BEACH QLD 4871,House,3,1,2,897m² ,02 Aug 2023
+"1,010,000 ","8 Mackerras Street,",REDLYNCH QLD 4870,House,5,2,5,"1,020m² ",02 Aug 2023
+"600,000","12 McHugh Crescent,",WHITFIELD QLD 4870,House,3,1,1,809m² ,02 Aug 2023
+"565,000 ","250 Grafton Street,",CAIRNS NORTH QLD 4870,House,2,1,1,507m² ,01 Aug 2023
+"450,000 ","42 Hayward Street,",MOOROOBOOL QLD 4870,House,3,2,2,809m² ,01 Aug 2023
+"870,000 ","41 Greendale Close,",BRINSMEAD QLD 4870,House,4,2,3,664m² ,31 Jul 2023
+"405,000 ","28 Mansfield Street,",EARLVILLE QLD 4870,House,3,1,1,609m² ,31 Jul 2023
+"1,300,000 ","26 Friend Street,",EDGE HILL QLD 4870,House,5,3,2,667m² ,2023
+"590,000 ","14 EUCALYPTUS DRIVE,",REDLYNCH QLD 4870,House,4,2,2,600m² ,31 Jul 2023
+"640,000 ","29 Junction Street,",EDGE HILL QLD 4870,House,3,1,2,868m² ,28 Jul 2023
+"326,000 ","326 Fearnley Street,",MANUNDA QLD 4870,House,3,1,1,734m² ,28 Jul 2023
+"750,000 ","6 Solomon Close,",BRINSMEAD QLD 4870,House,4,2,2,"1,123m² ",27 Jul 2023
+"910,000","9 Hoad Street,",EARLVILLE QLD 4870,House,5,2,5,728m² ,27 Jul 2023
+"610,000 ","10 Saint Albans Close,",BRINSMEAD QLD 4870,House,4,2,2,700m² ,26 Jul 2023
+"820,000 ","19 Keirle Avenue,",WHITFIELD QLD 4870,House,4,3,3,660m² ,26 Jul 2023
+"1,100,000 ","17 East Parkridge Drive,",BRINSMEAD QLD 4870,House,6,3,2,809m² ,25 Jul 2023
+"555,000 ","11 Mango Drive,",EARLVILLE QLD 4870,House,3,2,2,764m² ,25 Jul 2023
+"736,850 ","5 Demidenko Close,",REDLYNCH QLD 4870,House,4,2,2,"1,395m² ",25 Jul 2023
+"745,000 ","23 Botany Avenue,",REDLYNCH QLD 4870,House,4,2,2,604m² ,25 Jul 2023
+"400,000 ","24 Minnie Street,",CAIRNS CITY QLD 4870,House,5,2,1,401m² ,4 Jul 2023
+"629,500 ","19 Smith Street,",CAIRNS NORTH QLD 4870,House,3,3,2,414m² ,24 Jul 2023
+"263,000 ","45/91 Hoare Street,",MANUNDA QLD 4870,Villa,2,1,1,110m² ,24 Jul 2023
+"365,000 ","8 Bosanko Street,",MANUNDA QLD 4870,House,3,2,1,632m² ,24 Jul 2023
+"765,000","186 Pease Street,",MANUNDA QLD 4870,House,4,2,2,809m² ,24 Jul 2023
+"660,000 ","193 Bunda Street,",PARRAMATTA PARK QLD 4870,House,6,1,2,337m² ,24 Jul 2023
+"654,000","13A Allan Street,",BUNGALOW QLD 4870,House,8,4,2,540m² ,23 Jul 2023
+"645,000 ","25-27 Tyrconnell Crescent,",REDLYNCH QLD 4870,House,4,2,2,641m² ,21 Jul 2023
+"625,000 ","21 Dungarvan Drive,",BRINSMEAD QLD 4870,House,4,2,4,818m² ,20 Jul 2023
+"738,378 ","15 Bauhinia Avenue,",EARLVILLE QLD 4870,House,4,2,3,912m² ,20 Jul 2023
+"520,000 ","12 Miles Street,",MANOORA QLD 4870,House,3,1,5,850m² ,20 Jul 2023
+"565,000 ","42 Creedy Street,",WESTCOURT QLD 4870,House,4,2,2,673m² ,20 Jul 2023
+"600,000 ","34 Village Terrace,",REDLYNCH QLD 4870,House,3,1,2,702m² ,19 Jul 2023
+"591,000 ","10 John Malcolm Street,",REDLYNCH QLD 4870,House,3,2,2,700m² ,19 Jul 2023
+"630,000 ","10 Obersky Close,",BRINSMEAD QLD 4870,House,4,2,2,600m² ,18 Jul 2023
+"620,000 ","26 John Malcolm Street,",REDLYNCH QLD 4870,House,4,2,2,612m² ,18 Jul 2023
+"520,000 ","50 Russell Street,",EDGE HILL QLD 4870,House,3,1,3,698m² ,17 Jul 2023
+"650,000 ","9 Barlow Street,",MANUNDA QLD 4870,House,5,3,2,728m² ,17 Jul 2023
+"497,500 ","2 Silky Oak Court,",MOOROOBOOL QLD 4870,House,3,2,1,301m² ,17 Jul 2023
+"520,000 ","23 Rose Street,",WESTCOURT QLD 4870,House,3,2,2,589m² ,16 Jul 2023
+"550,000","7 Gobie St,",KURRIMINE BEACH QLD 4871,House,6,3,6,637m² ,14 Jul 2023
+"565,000 ","70-74 Upper Perkins Street,",MANOORA QLD 4870,House,3,1,4,842m² ,14 Jul 2023
+"535,000 ","2 Dennis Close,",MOOROOBOOL QLD 4870,House,3,2,2,850m² ,14 Jul 2023
+"575,000 ","15 Sophie Close,",BRINSMEAD QLD 4870,House,4,2,2,502m² ,13 Jul 2023
+"569,150 ","50 Loridan Drive,",BRINSMEAD QLD 4870,House,3,2,5,"1,190m² ",13 Jul 2023
+"470,000 ","34 Macilwraith Street,",MANOORA QLD 4870,House,3,1,2,"1,012m² ",13 Jul 2023
+"479,000 ","54 Moody Street,",MANOORA QLD 4870,House,4,1,2,487m² ,13 Jul 2023
+"460,000 ","11 Moignard Street,",MANOORA QLD 4870,House,3,1,1,672m² ,13 Jul 2023
+"575,000 ","161-163 McManus Street,",WHITFIELD QLD 4870,House,3,1,2,655m² ,13 Jul 2023
+"635,000 ","6 Yellowfin Close,",KANIMBLA QLD 4870,House,4,2,2,705m² ,12 Jul 2023
+"468,000","417 Kamerunga Road,",REDLYNCH QLD 4870,House,3,2,2,701m² ,12 Jul 2023
+"852,000 ","143 McFarlane Drive,",KANIMBLA QLD 4870,House,5,2,2,700m² ,11 Jul 2023
+"600,000 ","4 Clohesy Court,",KANIMBLA QLD 4870,House,4,2,2,700m² ,11 Jul 2023
+"462,000 ","351 McLeod St,",CAIRNS NORTH QLD 4870,House,2,1,−,472m² ,10 Jul 2023
+"284,000 ","68911 Bruce Highway,",DEERAL QLD 4871,House,2,1,1,528m² ,10 Jul 2023
+"703,000 ","5 Bauhinia Avenue,",EARLVILLE QLD 4870,House,5,2,5,"1,007m² ",10 Jul 2023
+"535,000 ","284 Kamerunga Road,",FRESHWATER QLD 4870,House,3,2,2,610m² ,2023
+"750,000 ","29 Southerden Drive,",MOOROOBOOL QLD 4870,House,3,2,2,764m² ,10 Jul 2023
+"478,000 ","5 Callitris Street,",REDLYNCH QLD 4870,House,4,1,2,435m² ,10 Jul 2023
+"735,000 ","5 Sun Street,",BRINSMEAD QLD 4870,House,4,2,2,981m² ,09 Jul 2023
+"550,000 ","4 Mango Drive,",EARLVILLE QLD 4870,House,4,2,2,842m² ,07 Jul 2023
+"550,000 ","12 Barr Street,",EARLVILLE QLD 4870,House,3,2,5,624m² ,07 Jul 2023
+"410,000","36 ENGLISH STREET,",MANUNDA QLD 4870,House,2,1,2,607m² ,07 Jul 2023
+"700,000 ","207 Greenslopes Street,",EDGE HILL QLD 4870,House,3,2,2,334m² ,06 Jul 2023
+"560,000 ","11 Andrew Street,",STRATFORD QLD 4870,House,2,1,1,809m² ,06 Jul 2023
+"595,000 ","15 Jones Street,",WESTCOURT QLD 4870,House,3,2,2,592m² ,06 Jul 2023
+"1,170,000 ","7 Barronview Drive,",FRESHWATER QLD 4870,House,5,3,3,939m² ,05 Jul 2023
+"610,000 ","2 Wooley Close,",KANIMBLA QLD 4870,House,4,2,4,701m² ,05 Jul 2023
+"550,000 ","134 Upper Richardson Street,",WHITFIELD QLD 4870,House,3,1,2,809m² ,05 Jul 2023
+"537,000 ","132-134 English Street,",MANUNDA QLD 4870,House,3,1,3,706m² ,04 Jul 2023
+"650,000 ","30 Sommerville Crescent,",WHITFIELD QLD 4870,House,3,1,1,607m² ,04 Jul 2023
+"905,000 ","36 Ponticello Street,",WHITFIELD QLD 4870,House,3,3,2,635m² ,04 Jul 2023
+"780,000 ","3 Hillside Close,",AEROGLEN QLD 4870,House,5,3,3,605m² ,03 Jul 2023
+"585,000 ","19 Wills Street,",BRINSMEAD QLD 4870,House,4,2,2,700m² ,03 Jul 2023
+"565,000 ","10 Gavin Hamilton Close,",REDLYNCH QLD 4870,House,4,2,2,675m² ,03 Jul 2023
+"620,000 ","5 Stringer Close,",REDLYNCH QLD 4870,House,4,2,2,685m² ,01 Jul 2023
+"552,000 ","16 Kidston Street,",BUNGALOW QLD 4870,House,5,2,2,512m² ,30 Jun 2023
+"1,050,000 ","13 Hoad Street,",EARLVILLE QLD 4870,House,5,4,5,728m² ,30 Jun 2023
+"715,000 ","117B Old Smithfield Road,",FRESHWATER QLD 4870,House,3,2,2,724m² ,30 Jun 2023
+"613,000 ","38 Kehone Street,",REDLYNCH QLD 4870,House,4,2,2,600m² ,30 Jun 2023
+"400,000 ","14 Barlow Street,",MANUNDA QLD 4870,House,3,2,2,728m² ,29 Jun 2023
+"450,000 ","67 Hannam Street,",WESTCOURT QLD 4870,House,3,1,2,625m² ,29 Jun 2023
+"542,000 ","97-99 Petersen Street,",FRESHWATER QLD 4870,House,4,2,2,714m² ,28 Jun 2023
+"750,000 ","97-99 Cassowary Street,",FRESHWATER QLD 4870,House,3,2,3,"1,410m² ",28 Jun 2023
+"514,140 ","21 Pepperina Street,",MOOROOBOOL QLD 4870,House,3,1,1,777m² ,28 Jun 2023
+"693,000 ","15 Laguna Avenue,",REDLYNCH QLD 4870,House,4,2,2,600m² ,28 Jun 2023
+"722,000 ","1 Halifax Drive,",REDLYNCH QLD 4870,House,3,2,2,605m² ,28 Jun 2023
+"405,000 ","265 Buchan Street,",WESTCOURT QLD 4870,House,3,1,1,622m² ,27 Jun 2023
+"805,000 ","52 Nolan Street,",WHITFIELD QLD 4870,House,4,2,2,814m² ,27 Jun 2023
+"780,000 ","108 Hobson Drive,",BRINSMEAD QLD 4870,House,4,3,3,"1,054m² ",26 Jun 2023
+"330,000 ","1/69 Macilwraith st,",MANOORA QLD 4870,New house and land,2,1,2,368m² ,26 Jun 2023
+"470,000 ","60 Moody Street,",MANOORA QLD 4870,House,3,2,1,728m² ,26 Jun 2023
+"380,000 ","2 Rose Blank Close,",MANUNDA QLD 4870,House,3,1,2,668m² ,26 Jun 2023
+"552,500 ","17A MacNamara Street,",MANUNDA QLD 4870,House,3,2,2,512m² ,26 Jun 2023
+"450,000 ","4 Deacon Court,",MOOROOBOOL QLD 4870,House,3,1,2,599m² ,26 Jun 2023
+"1,775,000 ","19-21 Bellmere Lane,",REDLYNCH QLD 4870,House,6,5,3,"2,001m² ",25 Jun 2023
+"600,000 ","14 Tolson Close,",BRINSMEAD QLD 4870,House,3,1,2,896m² ,24 Jun 2023
+"710,000 ","4/12 Murchison Street,",WHITFIELD QLD 4870,House,3,2,2,398m² ,23 Jun 2023
+"479,000 ","32 Nelson Street,",BUNGALOW QLD 4870,House,3,1,2,405m² ,22 Jun 2023
+"1,150,000 ","177 Barbagallo Road,",ALOOMBA QLD 4871,House,5,3,8,"60,000m² ",21 Jun 2023
+"685,000 ","21 Bassett Street,",KANIMBLA QLD 4870,House,4,2,2,700m² ,21 Jun 2023
+"340,000 ","10 Egan Street,",MANUNDA QLD 4870,House,2,1,1,660m² ,21 Jun 2023
+"697,500 ","Lot 103 Sawyer,",REDLYNCH QLD 4870,House,4,2,2,513m² ,21 Jun 2023
+"402,000 ","8 Taylor Street,",KURRIMINE BEACH QLD 4871,House,3,2,2,801m² ,20 Jun 2023
+"391,000 ","55A Murray Street,",MANOORA QLD 4870,House,3,1,2,473m² ,20 Jun 2023
+"1,060,000 ","8 Stapleton Close,",REDLYNCH QLD 4870,House,4,3,2,"1,025m² ",2023
+"725,000 ","32 Willoughby Close,",REDLYNCH QLD 4870,House,5,2,2,677m² ,20 Jun 2023
+"500,000 ","226 Mann Street,",WESTCOURT QLD 4870,House,3,2,1,832m² ,20 Jun 2023
+"755,000 ","49A Nolan Street,",WHITFIELD QLD 4870,House,4,2,2,441m² ,18 Jun 2023
+"635,000 ","346A Pease Street,",EDGE HILL QLD 4870,House,3,2,2,482m² ,17 Jun 2023
+"570,000 ","82 Russell Street,",EDGE HILL QLD 4870,House,3,1,2,708m² ,16 Jun 2023
+"790,000 ","Lot 136 Pebble Cove,",REDLYNCH QLD 4870,House,4,2,2,610m² ,15 Jun 2023
+"1,950,000 ","186 MacDonnell Street,",EDGE HILL QLD 4870,House,6,4,3,977m² ,14 Jun 2023
+"826,000 ","6 Hillside Close,",AEROGLEN QLD 4870,House,5,2,3,"1,191m² ",13 Jun 2023
+"910,000 ","8 Tanganelli Close,",KANIMBLA QLD 4870,House,5,3,4,885m² ,13 Jun 2023
+"1,600,000 ","25-27 Mount William close,",REDLYNCH QLD 4870,House,5,5,10,0,13 Jun 2023
+"542,500 ","10 Jadana Close,",MOOROOBOOL QLD 4870,House,3,2,2,759m² ,12 Jun 2023
+"900,000 ","3 Fulton Close,",WHITFIELD QLD 4870,House,4,2,2,835m² ,12 Jun 2023
+"880,000 ","6 Lorikeet Street,",FRESHWATER QLD 4870,House,4,2,2,"1,196m² ",09 Jun 2023
+"497,500 ","15 Perkins Street,",MANOORA QLD 4870,House,3,1,1,835m² ,09 Jun 2023
+"655,000 ","Lot 82 Oxbow Loop,",REDLYNCH QLD 4870,House,4,2,2,435m² ,09 Jun 2023
+"542,000 ","84C Redlynch Intake Road,",REDLYNCH QLD 4870,House,3,2,1,288m² ,09 Jun 2023
+"745,000 ","11 Byron Terrace,",REDLYNCH QLD 4870,House,4,2,4,600m² ,08 Jun 2023
+"685,000 ","12 PERSERVERANCE STREET,",REDLYNCH QLD 4870,House,4,2,2,646m² ,08 Jun 2023
+"636,000","42 Fairley St,",REDLYNCH QLD 4870,House,4,2,2,700m² ,07 Jun 2023
+"560,000 ","133 Loridan Drive,",BRINSMEAD QLD 4870,House,4,2,2,881m² ,2023
+"500,000 ","14 Meander Close,",BRINSMEAD QLD 4870,House,3,1,2,600m² ,06 Jun 2023
+"730,000 ","36 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,3,600m² ,06 Jun 2023
+"509,999 ","128 Loridan Drive,",BRINSMEAD QLD 4870,House,3,1,1,974m² ,05 Jun 2023
+"400,000 ","21-23 Lois Street,",MOOROOBOOL QLD 4870,House,3,2,2,623m² ,05 Jun 2023
+"712,000 ","31 Fleming Street,",EDGE HILL QLD 4870,House,2,1,−,736m² ,02 Jun 2023
+"495,000 ","12 Gough Street,",MANUNDA QLD 4870,House,3,1,3,660m² ,02 Jun 2023
+"499,000 ","12 Kingsford Street,",MOOROOBOOL QLD 4870,House,4,1,2,809m² ,02 Jun 2023
+"670,000 ","33 Andrew Street,",STRATFORD QLD 4870,House,4,1,2,"1,189m² ",02 Jun 2023
+"760,000 ","8 Fallon Close,",BRINSMEAD QLD 4870,House,4,3,2,"1,773m² ",01 Jun 2023
+"620,000 ","27 OKeefe Street,",CAIRNS NORTH QLD 4870,House,3,2,1,607m² ,01 Jun 2023
+"400,000 ","5 Kingsford St,",MOOROOBOOL QLD 4870,House,2,1,4,680m² ,01 Jun 2023
+"760,000 ","4 Ben Bolt Close,",REDLYNCH QLD 4870,House,4,3,2,813m² ,01 Jun 2023
+"640,000 ","57 Highland Drive,",JULATTEN QLD 4871,House,3,1,4,0,31 May 2023
+"670,000 ","1 Cedrela Close,",KAMERUNGA QLD 4870,House,3,2,2,810m² ,31 May 2023
+"540,000 ","10 Jak Gee Street,",REDLYNCH QLD 4870,House,4,3,2,630m² ,31 May 2023
+"545,000 ","7 Raffia Court,",REDLYNCH QLD 4870,House,3,2,2,739m² ,2023
+"745,000","16 Clemson Avenue,",EDGE HILL QLD 4870,House,2,2,2,658m² ,2023
+"655,000","2 Rockton Place,",MOOROOBOOL QLD 4870,House,4,2,4,777m² ,30 May 2023
+"563,000 ","12 Lavender Street,",MOOROOBOOL QLD 4870,House,4,2,3,700m² ,30 May 2023
+"465,000 ","404 Severin Street,",PARRAMATTA PARK QLD 4870,House,3,2,1,457m² ,30 May 2023
+"780,000 ","6 Hop Wah Close,",BRINSMEAD QLD 4870,House,5,1,2,"1,033m² ",29 May 2023
+"560,000 ","42 Richardson Street,",EDGE HILL QLD 4870,House,3,1,3,649m² ,26 May 2023
+"696,000 ","24 Augustus Street,",MOOROOBOOL QLD 4870,House,4,2,3,738m² ,26 May 2023
+"681,000 ","12 Ebony Street,",REDLYNCH QLD 4870,House,3,2,2,"1,132m² ",26 May 2023
+"735,000 ","11 Pomona Avenue,",MOOROOBOOL QLD 4870,House,4,2,3,868m² ,25 May 2023
+"575,000 ","183 Harvey Road,",REDLYNCH QLD 4870,House,3,2,2,875m² ,25 May 2023
+"420,000 ","281 Aumuller Street,",WESTCOURT QLD 4870,House,3,1,1,647m² ,25 May 2023
+730 ,"13 Slate Close,",BRINSMEAD QLD 4870,House,5,2,2,997m² ,23 May 2023
+"905,000 ","1 Benfer Court,",FRESHWATER QLD 4870,House,5,2,2,"1,075m² ",23 May 2023
+"505,000 ","28 Silky Oak Court,",MOOROOBOOL QLD 4870,House,3,1,1,328m² ,2023
+"650,000 ","45 Inarlinga Road,",COWLEY BEACH QLD 4871,House,2,2,6,607m² ,22 May 2023
+"405,000 ","11 Brant Close,",MANOORA QLD 4870,House,3,1,2,640m² ,22 May 2023
+"445,000 ","113 Mayers Street,",MANOORA QLD 4870,House,3,1,3,809m² ,22 May 2023
+"840,000 ","30 Regent Avenue,",REDLYNCH QLD 4870,House,4,2,3,705m² ,22 May 2023
+"980,000","492-494 Brinsmead Road,",FRESHWATER QLD 4870,House,4,3,6,"4,047m² ",2023
+"805,000 ","305-307 McLeod Street,",CAIRNS NORTH QLD 4870,House,4,2,4,809m² ,19 May 2023
+"660,000 ","22 Hodkinson Street,",REDLYNCH QLD 4870,House,4,2,2,694m² ,19 May 2023
+"571,000 ","27 Lillipilli Street,",REDLYNCH QLD 4870,House,4,2,2,610m² ,19 May 2023
+"690,000 ","5 Basalt Street,",BRINSMEAD QLD 4870,House,5,2,3,840m² ,17 May 2023
+"620,500 ","13 Anivas Close,",FRESHWATER QLD 4870,House,4,2,1,737m² ,17 May 2023
+"980,000 ","23 Luderick St,",KANIMBLA QLD 4870,House,4,2,2,700m² ,17 May 2023
+"220,000 ","51/5-15 McGregor Street,",MOOROOBOOL QLD 4870,Villa,2,1,2,"20,234m² ",17 May 2023
+"140,000 ","LOT 5 Bruce Highway,",DEERAL QLD 4871,House,3,1,2,540m² ,2023
+"605,000 ","8 Stringer Close,",REDLYNCH QLD 4870,House,4,2,2,600m² ,16 May 2023
+"600,000 ","58 Boland Street,",WESTCOURT QLD 4870,House,4,2,4,651m² ,16 May 2023
+"435,000 ","79 English Street,",MANUNDA QLD 4870,House,3,1,1,706m² ,15 May 2023
+"440,000 ","644 JAPOON ROAD,",WANGAN QLD 4871,House,3,2,2,"3,060m² ",15 May 2023
+"644,000 ","12 Pelling Close,",KANIMBLA QLD 4870,House,4,2,2,700m² ,12 May 2023
+"270,000 ","15 Hawthorne Drive,",KURRIMINE BEACH QLD 4871,House,2,1,2,498m² ,12 May 2023
+"1,200,000 ","438 Brinsmead Road,",BRINSMEAD QLD 4870,House,4,3,2,0,11 May 2023
+"890,000 ","34 Walsh Street,",EDGE HILL QLD 4870,House,3,2,3,"1,122m² ",11 May 2023
+"537,500 ","104 Irene Street,",MOOROOBOOL QLD 4870,House,5,1,2,794m² ,11 May 2023
+"901,000","51 Summerhill Drive,",MOOROOBOOL QLD 4870,House,4,3,2,869m² ,2023
+"880,000","34 Southerden Drive,",MOOROOBOOL QLD 4870,House,5,3,2,945m² ,10 May 2023
+"671,000 ","47 William Hickey Street,",REDLYNCH QLD 4870,House,4,2,2,653m² ,10 May 2023
+"665,000","29 Fogarty Street,",WHITFIELD QLD 4870,House,2,1,−,714m² ,2023
+"585,000 ","5 Smoko Close,",BRINSMEAD QLD 4870,House,4,2,2,610m² ,09 May 2023
+"625,500","22 Purbeck Place,",EDGE HILL QLD 4870,House,4,1,2,627m² ,2023
+"582,000 ","12 Palmer Rise,",BRINSMEAD QLD 4870,House,3,2,2,"1,560m² ",08 May 2023
+"485,000 ","66 Boden Street,",EDGE HILL QLD 4870,House,3,1,2,738m² ,08 May 2023
+"870,000 ","1 Julian Close,",MOOROOBOOL QLD 4870,House,5,3,3,856m² ,08 May 2023
+"197,000",,WANGAN QLD 4871,House,3,1,−,809m² ,08 May 2023
+"550,000 ","3 Fraser Close,",KANIMBLA QLD 4870,House,3,1,3,803m² ,07 May 2023
+"512,000 ","18 Kingsford Street,",MOOROOBOOL QLD 4870,House,3,2,2,804m² ,05 May 2023
+"649,000 ","7 Sweetlip Close,",KANIMBLA QLD 4870,House,4,2,2,700m² ,2023
+"665,000 ","14 Botany Avenue,",REDLYNCH QLD 4870,House,4,2,2,665m² ,04 May 2023
+"900,071 ","4 Chapel Close,",BRINSMEAD QLD 4870,House,5,2,2,863m² ,03 May 2023
+"640,000","61 Digger Street,",CAIRNS NORTH QLD 4870,House,3,2,2,265m² ,03 May 2023
+"685,000 ","19 Cananga Close,",KAMERUNGA QLD 4870,House,4,3,2,"1,090m² ",03 May 2023
+"566,700","39 Village Terrace,",REDLYNCH QLD 4870,House,3,1,2,704m² ,03 May 2023
+"295,000","15 Gobie Street,",KURRIMINE BEACH QLD 4871,House,3,2,3,599m² ,02 May 2023
+"485,000 ","27 Serissa Street,",MOOROOBOOL QLD 4870,House,3,1,1,710m² ,02 May 2023
+"430,000 ","186 McCormack Street,",MANUNDA QLD 4870,House,3,1,2,812m² ,01 May 2023
+"850,000 ","5A Glenlea Street,",EDGE HILL QLD 4870,House,4,3,3,342m² ,28 Apr 2023
+"365,000 ","86 Murray Street,",MANOORA QLD 4870,House,3,1,2,796m² ,28 Apr 2023
+"635,000 ","1 Augustus Street,",MOOROOBOOL QLD 4870,House,3,2,3,742m² ,28 Apr 2023
+"503,650 ","6 Jordan Close,",MOOROOBOOL QLD 4870,House,4,2,2,877m² ,28 Apr 2023
+"440,000 ","9 Hogan Street,",WESTCOURT QLD 4870,House,3,1,1,759m² ,28 Apr 2023
+"750,000 ","27 Rainbow Street,",KANIMBLA QLD 4870,House,4,2,2,632m² ,27 Apr 2023
+"1,191,000","7 Trevally Close,",KANIMBLA QLD 4870,House,5,2,2,758m² ,27 Apr 2023
+"540,000 ","8 Ben Bolt Close,",REDLYNCH QLD 4870,House,3,1,2,601m² ,27 Apr 2023
+"470,000 ","25 Curtin Street,",WESTCOURT QLD 4870,House,3,1,2,673m² ,27 Apr 2023
+"312,000 ","476 Mccoombe Street,",MANOORA QLD 4870,House,3,1,1,728m² ,24 Apr 2023
+"692,000 ","65 Fairley Street,",REDLYNCH QLD 4870,House,4,2,2,602m² ,23 Apr 2023
+"330,000 ","5 Marchant Street,",MANOORA QLD 4870,House,3,1,4,625m² ,22 Apr 2023
+"452,000 ","8/46-50 Beatrice St,",MOOROOBOOL QLD 4870,Semi-detached,3,1,2,406m² ,21 Apr 2023
+"459,500 ","317 Mccoombe Street,",MOOROOBOOL QLD 4870,House,4,2,3,809m² ,21 Apr 2023
+"680,000 ","3 Enclave Bend,",EARLVILLE QLD 4870,House,3,2,2,600m² ,20 Apr 2023
+"480,000 ","28 Pepperina Street,",MOOROOBOOL QLD 4870,House,4,2,2,743m² ,20 Apr 2023
+"622,000 ","15 Hodkinson Street,",REDLYNCH QLD 4870,House,4,2,2,648m² ,20 Apr 2023
+"720,000 ","2 Gayundah Close,",EARLVILLE QLD 4870,House,4,3,5,"1,367m² ",19 Apr 2023
+"785,000 ","9 Warner Street,",MANUNDA QLD 4870,Duplex,6,4,3,"1,231m² ",19 Apr 2023
+"460,000 ","104 Mayers Street,",MANUNDA QLD 4870,Duplex,4,2,2,700m² ,18 Apr 2023
+"620,000 ","331 Mccoombe Street,",MOOROOBOOL QLD 4870,House,4,2,2,825m² ,18 Apr 2023
+"900,000 ","33 Edgar Street,",BUNGALOW QLD 4870,House,6,3,10,545m² ,17 Apr 2023
+"345,000 ","9 Avocado Close,",MANOORA QLD 4870,House,3,1,1,727m² ,17 Apr 2023
+"975,000 ","lot 72 / 13-15 Currunda Close,",REDLYNCH QLD 4870,House,5,3,4,"4,113m² ",17 Apr 2023
+"765,000 ","9 Byron Terrace,",REDLYNCH QLD 4870,House,4,2,2,600m² ,16 Apr 2023
+"457,000 ","2/4 Corkill Street,",FRESHWATER QLD 4870,House,3,2,1,141m² ,2023
+"610,000 ","14 Hobson Drive,",BRINSMEAD QLD 4870,House,4,2,1,809m² ,14 Apr 2023
+"498,750 ","2/2 Ormsby Close,",WHITFIELD QLD 4870,Semi-detached,2,2,2,373m² ,14 Apr 2023
+"1,125,000 ","3 Moowooga Street,",EARLVILLE QLD 4870,House,5,3,4,"7,521m² ",13 Apr 2023
+"302,000 ","19 Conlan Close,",MANOORA QLD 4870,House,3,1,1,750m² ,2023
+"760,000 ","22 Mona Street,",WHITFIELD QLD 4870,House,4,2,5,809m² ,13 Apr 2023
+"800,000 ","5 Craig Close,",BRINSMEAD QLD 4870,House,4,3,4,"1,130m² ",2023
+"500,000 ","81 Hayward Street,",MOOROOBOOL QLD 4870,House,3,1,2,809m² ,12 Apr 2023
+"440,000 ","22 Cominos Place,",MANUNDA QLD 4870,House,3,1,1,650m² ,11 Apr 2023
+"693,500 ","8 Janus Close,",MOOROOBOOL QLD 4870,House,4,2,3,847m² ,11 Apr 2023
+"577,000 ","18 Lumley Street,",PARRAMATTA PARK QLD 4870,House,12,4,−,354m² ,11 Apr 2023
+"808,000 ","16 Laguna Avenue,",REDLYNCH QLD 4870,House,4,2,2,603m² ,11 Apr 2023
+"780,000 ","16 Halifax Drive,",REDLYNCH QLD 4870,House,3,2,2,617m² ,10 Apr 2023
+"545,000 ","13 Rose Street,",WESTCOURT QLD 4870,House,3,2,2,577m² ,09 Apr 2023
+"750,000 ","5 Old Smithfield Road,",FRESHWATER QLD 4870,House,5,3,3,810m² ,08 Apr 2023
+"1,200,000 ","31 The Peak Road,",BRINSMEAD QLD 4870,House,4,3,3,"1,073m² ",05 Apr 2023
+"612,000","19 Griffiths Street,",MANOORA QLD 4870,House,3,2,4,725m² ,05 Apr 2023
+"610,000","48 Fairley Street,",REDLYNCH QLD 4870,House,3,2,2,600m² ,05 Apr 2023
+"575,000 ","29 Slathiel Street,",BRINSMEAD QLD 4870,House,4,2,2,761m² ,04 Apr 2023
+"660,000 ","19 Romney Street,",KAMERUNGA QLD 4870,House,4,2,1,"1,012m² ",03 Apr 2023
+"774,000 ","16 Sweetlip Close,",KANIMBLA QLD 4870,House,4,2,2,700m² ,03 Apr 2023
+"457,500 ","64 Reservoir Road,",MANOORA QLD 4870,House,3,2,1,572m² ,03 Apr 2023
+"1,230,000 ","3 Rockton Place,",MOOROOBOOL QLD 4870,House,6,3,4,"1,104m² ",03 Apr 2023
+"500,000 ","26 Hadrian Avenue,",MOOROOBOOL QLD 4870,House,2,1,3,728m² ,03 Apr 2023
+"25,000 ","2 Firth Street,",MOUNT SURPRISE QLD 4871,House,− 0,1,−,"1,237m² ",03 Apr 2023
+"545,000","61 Shaws Road,",REDLYNCH QLD 4870,House,4,1,2,800m² ,03 Apr 2023
+"877,500 ","5 Sandray Close,",EDGE HILL QLD 4870,House,5,3,4,815m² ,31 Mar 2023
+"673,000","1 Rosemont Court,",MOOROOBOOL QLD 4870,House,3,2,2,722m² ,31 Mar 2023
+"505,000 ","7 Collinson Street,",WESTCOURT QLD 4870,House,2,1,2,620m² ,31 Mar 2023
+"615,000 ","7 Sherbrook Close,",BRINSMEAD QLD 4870,House,4,2,2,749m² ,30 Mar 2023
+"665,000 ","41 Sturt Street,",BUNGALOW QLD 4870,House,4,2,2,646m² ,30 Mar 2023
+"680,000 ","33 O'Keefe Street,",CAIRNS NORTH QLD 4870,House,3,3,−,607m² ,30 Mar 2023
+"665,000 ","18 Red Bluff Crescent,",KAMERUNGA QLD 4870,House,4,2,3,934m² ,30 Mar 2023
+"565,000 ","10 Stringer Close,",REDLYNCH QLD 4870,House,4,2,2,600m² ,29 Mar 2023
+"600,000 ","24 Hodkinson Street,",REDLYNCH QLD 4870,House,4,2,2,627m² ,29 Mar 2023
+"560,000 ","3 Opaline Close,",BRINSMEAD QLD 4870,House,3,2,2,450m² ,28 Mar 2023
+"520,000 ","1 Fraser Cl,",KANIMBLA QLD 4870,House,4,2,4,836m² ,28 Mar 2023
+"697,650 ","23 Cicero Close,",MOOROOBOOL QLD 4870,House,4,2,2,800m² ,28 Mar 2023
+"676,000 ","13 Torrance Avenue,",EDGE HILL QLD 4870,House,3,2,2,698m² ,27 Mar 2023
+"525,000","5 Lillipilli Street,",REDLYNCH QLD 4870,House,4,2,2,615m² ,27 Mar 2023
+"485,000 ","2 Stillman Street,",EARLVILLE QLD 4870,House,2,1,2,761m² ,24 Mar 2023
+"882,000 ","4 Richmond Court,",MOOROOBOOL QLD 4870,House,3,2,3,"1,077m² ",24 Mar 2023
+"605,000 ","32 Lavender Street,",MOOROOBOOL QLD 4870,House,4,2,3,939m² ,23 Mar 2023
+"800,000 ","15 Bolton Street,",WHITFIELD QLD 4870,House,5,3,2,"1,010m² ",22 Mar 2023
+"960,000 ","2 Bass Close,",KANIMBLA QLD 4870,House,4,2,2,745m² ,20 Mar 2023
+"565,000 ","94 Jungara Road,",REDLYNCH QLD 4870,House,3,1,1,800m² ,20 Mar 2023
+"450,000 ","7 David Street,",MANUNDA QLD 4870,House,3,1,1,603m² ,19 Mar 2023
+"399,100 ","6 Nunga Close,",MANUNDA QLD 4870,House,3,1,2,779m² ,19 Mar 2023
+"650,000 ","14 MacKey Close,",BRINSMEAD QLD 4870,House,4,2,2,830m² ,16 Mar 2023
+"380,000 ","12 Foyster Drive,",LAKELAND QLD 4871,House,5,3,15,"1,940m² ",16 Mar 2023
+"690,000 ","Lot 96 Sawyer Entrance,",REDLYNCH QLD 4870,House,4,2,2,450m² ,16 Mar 2023
+"655,000 ","14 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,600m² ,16 Mar 2023
+"575,000 ","97 Michaelangelo Drive,",REDLYNCH QLD 4870,House,4,2,2,601m² ,16 Mar 2023
+"680,000 ","22 Lucy Close,",KANIMBLA QLD 4870,House,4,2,2,710m² ,15 Mar 2023
+"480,000 ","10 Harper Close,",MANUNDA QLD 4870,House,3,2,2,683m² ,15 Mar 2023
+"558,000 ","9 Pepperina Street,",MOOROOBOOL QLD 4870,House,4,1,4,"1,132m² ",15 Mar 2023
+"590,000 ","26 Shale Street,",BRINSMEAD QLD 4870,House,4,2,3,957m² ,14 Mar 2023
+"611,000 ","46 West Parkridge Drive,",BRINSMEAD QLD 4870,House,4,2,2,700m² ,14 Mar 2023
+"580,000 ","15 Brian Street,",BRINSMEAD QLD 4870,House,3,2,2,627m² ,14 Mar 2023
+"390,000 ","256 Spence Street,",BUNGALOW QLD 4870,House,3,1,2,443m² ,14 Mar 2023
+"452,500 ","9/190-194 Irene Street,",MOOROOBOOL QLD 4870,House,3,2,2,278m² ,14 Mar 2023
+"820,000 ","36 Downing Street,",EARLVILLE QLD 4870,House,5,3,3,779m² ,13 Mar 2023
+"555,000","4 Colonial Close,",REDLYNCH QLD 4870,House,4,2,2,700m² ,13 Mar 2023
+"450,800 ","14 Cavallaro Avenue,",EARLVILLE QLD 4870,House,4,2,2,971m² ,2023
+"508,000 ","7 Hill Street,",MANUNDA QLD 4870,House,3,1,1,711m² ,10 Mar 2023
+"545,000 ","4 Harper Close,",MANUNDA QLD 4870,House,4,2,4,718m² ,10 Mar 2023
+"507,500 ","9 Jasmine,",REDLYNCH QLD 4870,House,4,2,1,851m² ,10 Mar 2023
+"885,000 ","18 Friend Street,",EDGE HILL QLD 4870,House,2,2,4,683m² ,09 Mar 2023
+"580,000 ","17 Toona Terrace,",REDLYNCH QLD 4870,House,4,2,2,980m² ,09 Mar 2023
+"460,000","12 Giauca Street,",REDLYNCH QLD 4870,House,3,1,2,560m² ,09 Mar 2023
+"500,000 ","4 Briggs Close,",WHITFIELD QLD 4870,House,3,1,3,887m² ,09 Mar 2023
+"480,000 ","200 Hartley Street,",BUNGALOW QLD 4870,House,3,2,8,495m² ,08 Mar 2023
+"647,000","42 Lily Street,",CAIRNS NORTH QLD 4870,House,3,2,2,703m² ,08 Mar 2023
+"746,000 ","168 Jensen Street,",EDGE HILL QLD 4870,House,4,3,5,804m² ,08 Mar 2023
+"395,000 ","60 Hayward Street,",MOOROOBOOL QLD 4870,House,3,1,2,809m² ,07 Mar 2023
+"674,500","49 Flindersia Street,",REDLYNCH QLD 4870,House,4,2,2,685m² ,07 Mar 2023
+01 ,"13-15 Bellmere Lane,",REDLYNCH QLD 4870,House,5,3,2,"2,387m² ",07 Mar 2023
+"650,000 ","8 Chapel Close,",BRINSMEAD QLD 4870,House,4,2,2,724m² ,06 Mar 2023
+"500,000 ","85-87 Reservoir Road,",MANOORA QLD 4870,House,4,2,2,744m² ,06 Mar 2023
+"725,000 ","21A Minerva Avenue,",MOOROOBOOL QLD 4870,House,4,3,2,600m² ,06 Mar 2023
+"685,000 ","44 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,600m² ,05 Mar 2023
+"670,000 ","96 Springbrook Avenue,",REDLYNCH QLD 4870,House,4,2,2,503m² ,04 Mar 2023
+"380,000 ","5 Dawson Street,",BRAMSTON BEACH QLD 4871,House,3,1,1,700m² ,03 Mar 2023
+"450,000 ","53-57 Hoare Street,",MANUNDA QLD 4870,House,3,1,4,599m² ,03 Mar 2023
+"850,000 ","166 Martyn Street,",MANUNDA QLD 4870,House,4,3,3,484m² ,03 Mar 2023
+"245,000","47 Pump Rd,",MOUNT CARBINE QLD 4871,House,3,1,4,0,03 Mar 2023
+"577,000 ","27 John Malcolm Street,",REDLYNCH QLD 4870,House,4,2,2,654m² ,03 Mar 2023
+"455,000 ","41 Curtin Street,",WESTCOURT QLD 4870,House,3,1,2,650m² ,02 Mar 2023
+"555,000 ","252 Buchan Street,",WESTCOURT QLD 4870,House,3,1,2,650m² ,02 Mar 2023
+"375,000 ","11 Brant Close,",MANOORA QLD 4870,House,3,1,2,640m² ,01 Mar 2023
+"534,999 ","149 Swallow Street,",MOOROOBOOL QLD 4870,House,5,1,3,792m² ,01 Mar 2023
+"589,000 ","3 Brett Street,",MOOROOBOOL QLD 4870,House,3,2,3,723m² ,28 Feb 2023
+"660,000 ","285-287 Aumuller Street,",WESTCOURT QLD 4870,House,8,4,3,645m² ,28 Feb 2023
+"395,000 ","27 Henley Street,",EARLVILLE QLD 4870,House,3,1,1,608m² ,27 Feb 2023
+"608,000 ","8 Lucy Close,",KANIMBLA QLD 4870,House,4,2,2,700m² ,27 Feb 2023
+"550,000 ","8 Delaney Close,",KANIMBLA QLD 4870,House,4,3,2,717m² ,27 Feb 2023
+"530,000 ","1 Perkins Street,",MANOORA QLD 4870,Duplex,4,2,2,835m² ,27 Feb 2023
+"595,000 ","9 Cicero Close,",MOOROOBOOL QLD 4870,House,4,2,4,838m² ,27 Feb 2023
+"430,000 ","21 Jones Street,",WESTCOURT QLD 4870,House,2,1,1,562m² ,27 Feb 2023
+"550,000 ","1368 Pine Creek Yarrabah Road,",EAST TRINITY QLD 4871,House,3,1,2,0,26 Feb 2023
+"575,000 ","19 Lillipilli Street,",REDLYNCH QLD 4870,House,4,2,2,600m² ,26 Feb 2023
+"465,000 ","10 Serissa Street,",MOOROOBOOL QLD 4870,House,3,1,1,600m² ,24 Feb 2023
+"500,000","3 Tolson Close,",BRINSMEAD QLD 4870,House,3,1,1,858m² ,23 Feb 2023
+"915,000 ","19 Moowooga Street,",EARLVILLE QLD 4870,House,7,4,4,799m² ,23 Feb 2023
+"516,000 ","287 Pease Street,",EDGE HILL QLD 4870,House,3,1,1,761m² ,23 Feb 2023
+"897,000 ","35 Hutchinson Street,",EDGE HILL QLD 4870,House,6,3,3,825m² ,23 Feb 2023
+"780,000 ","177 Harvey Road,",REDLYNCH QLD 4870,House,5,2,2,842m² ,23 Feb 2023
+"700,000 ","Lot 84 Oxbow Loop,",REDLYNCH QLD 4870,House,4,2,2,450m² ,23 Feb 2023
+"950,000 ","46 Evans Road,",BRAMSTON BEACH QLD 4871,House,4,2,2,607m² ,22 Feb 2023
+"551,000 ","9 Majestic Street,",KAMERUNGA QLD 4870,House,3,2,2,807m² ,21 Feb 2023
+"385,000 ","46 Fallon Street,",MANUNDA QLD 4870,House,5,1,3,852m² ,21 Feb 2023
+"385,000 ","251 Mcleod Street,",CAIRNS NORTH QLD 4870,House,2,1,2,405m² ,20 Feb 2023
+"658,000 ","13 Scaglioni Street,",REDLYNCH QLD 4870,House,4,2,2,682m² ,20 Feb 2023
+"735,000","7 Hook Close,",BRINSMEAD QLD 4870,House,3,2,2,"1,027m² ",19 Feb 2023
+"483,000 ","18 Purbeck Place,",EDGE HILL QLD 4870,House,3,1,1,617m² ,18 Feb 2023
+"615,000 ","114 Greenslopes Street,",EDGE HILL QLD 4870,Duplex,4,2,2,720m² ,17 Feb 2023
+"675,000 ","6 Rainbow Street,",KANIMBLA QLD 4870,House,4,2,3,700m² ,17 Feb 2023
+"1,360,000 ","34-36 Runnymede Avenue,",REDLYNCH QLD 4870,House,5,3,4,"4,011m² ",17 Feb 2023
+"569,500 ","35 Village Terrace,",REDLYNCH QLD 4870,House,4,2,2,623m² ,17 Feb 2023
+"630,000 ","48 Xavier Herbert Drive,",REDLYNCH QLD 4870,House,4,2,2,798m² ,17 Feb 2023
+"440,000 ","41 Evans Road,",BRAMSTON BEACH QLD 4871,House,3,2,2,794m² ,16 Feb 2023
+"425,000 ","96 Greenslopes Street,",EDGE HILL QLD 4870,House,3,1,1,779m² ,16 Feb 2023
+"710,000 ","8 Torazzi Place,",MOOROOBOOL QLD 4870,House,5,2,2,784m² ,16 Feb 2023
+"551,500 ","91 Loridan Drive,",BRINSMEAD QLD 4870,House,4,2,2,730m² ,15 Feb 2023
+"600,000 ","12 View Street,",BRINSMEAD QLD 4870,House,5,2,2,"1,171m² ",15 Feb 2023
+"885,000 ","77 McFarlane Drive,",KANIMBLA QLD 4870,House,4,2,2,760m² ,14 Feb 2023
+"535,500 ",,BRINSMEAD QLD 4870,House,4,2,2,700m² ,13 Feb 2023
+"810,000 ","1-4/139-141 English Street,",MANUNDA QLD 4870,House,7,4,4,"1,419m² ",2023
+"490,000 ","15 Pepperina Street,",MOOROOBOOL QLD 4870,House,3,2,2,600m² ,13 Feb 2023
+"555,000 ","4 Tully Street,",STRATFORD QLD 4870,House,4,1,2,713m² ,2023
+"2,100,000 ","34-36 Lake Morris Road,",KANIMBLA QLD 4870,House,4,5,5,0,10 Feb 2023
+"700,000 ","Lot 98 Sawyer Entrance,",REDLYNCH QLD 4870,House,4,2,2,620m² ,10 Feb 2023
+"490,000 ","22 Chesterfield Close,",BRINSMEAD QLD 4870,House,4,2,2,350m² ,08 Feb 2023
+"730,000 ","27 Cavendish Street,",EARLVILLE QLD 4870,House,3,2,4,830m² ,07 Feb 2023
+"680,000 ","Lot 81 Oxbow Loop,",REDLYNCH QLD 4870,House,4,2,2,450m² ,07 Feb 2023
+"750,000 ","5 Bolwarra Close,",REDLYNCH QLD 4870,House,4,2,5,962m² ,2023
+"475,000 ","10 Mansfield Street,",EARLVILLE QLD 4870,House,3,2,1,609m² ,06 Feb 2023
+"820,000 ","3 Julian Close,",MOOROOBOOL QLD 4870,House,5,3,3,815m² ,06 Feb 2023
+"890,000 ","23 Minerva Avenue,",MOOROOBOOL QLD 4870,House,5,3,2,828m² ,05 Feb 2023
+"850,000 ","1 Bellevue Crescent,",EDGE HILL QLD 4870,House,3,2,2,"1,232m² ",03 Feb 2023
+"350,000 ","10 Gribble Street,",MOOROOBOOL QLD 4870,House,4,1,1,400m² ,03 Feb 2023
+"655,000 ","4 Norfolk Circuit,",REDLYNCH QLD 4870,House,4,2,2,600m² ,03 Feb 2023
+"528,000 ","22 Ponticello Street,",WHITFIELD QLD 4870,House,3,2,2,688m² ,03 Feb 2023
+"465,000","53 Palmerston Street,",AEROGLEN QLD 4870,House,3,1,2,632m² ,02 Feb 2023
+"675,000 ","74 Gatton Street,",PARRAMATTA PARK QLD 4870,House,3,2,2,455m² ,02 Feb 2023
+"810,000 ","34 Regent Avenue,",REDLYNCH QLD 4870,House,5,2,4,701m² ,02 Feb 2023
+"550,000","31 POPPI ROAD,",SANDY POCKET QLD 4871,House,3,2,5,0,02 Feb 2023
+"871,000 ","13 McHugh Crescent,",WHITFIELD QLD 4870,House,4,2,2,"1,155m² ",02 Feb 2023
+"1,058,000 ","36 Greenock Way,",BRINSMEAD QLD 4870,House,4,2,2,715m² ,01 Feb 2023
+"528,000 ","1/20 Barrett Street,",BUNGALOW QLD 4870,Villa,3,2,1,133m² ,01 Feb 2023
+"580,000 ","9 Bauhinia Avenue,",EARLVILLE QLD 4870,House,3,1,2,527m² ,01 Feb 2023
+"530,000 ","48 Mayers St,",MANUNDA QLD 4870,House,5,2,3,549m² ,01 Feb 2023
+"410,000 ","16 Silky Oak Court,",MOOROOBOOL QLD 4870,House,3,1,1,307m² ,01 Feb 2023
+"350,000 ","25 Marchant Street,",MANOORA QLD 4870,House,3,1,1,625m² ,31 Jan 2023
+"500,000 ","53 Hayward Street,",MOOROOBOOL QLD 4870,House,4,2,2,799m² ,2023
+"594,000 ","53 Banning Avenue,",BRINSMEAD QLD 4870,House,3,2,2,600m² ,30 Jan 2023
+"900,000 ","61 East Parkridge Drive,",BRINSMEAD QLD 4870,House,4,2,2,"1,160m² ",30 Jan 2023
+"218,500 ","5 Curlew Street,",EAST TRINITY QLD 4871,House,2,1,1,809m² ,30 Jan 2023
+"320,000 ","1/40 Sperring St,",MANUNDA QLD 4870,Duplex,2,1,2,78m² ,30 Jan 2023
+"815,000 ","17 Nolan Street,",WHITFIELD QLD 4870,House,3,2,2,812m² ,2023
+"609,000 ","127 Petersen Street,",FRESHWATER QLD 4870,House,3,1,2,622m² ,28 Jan 2023
+"470,000 ","32 Granadilla Drive,",EARLVILLE QLD 4870,House,4,1,−,805m² ,27 Jan 2023
+"617,000 ","6 Vallely Street,",FRESHWATER QLD 4870,House,4,2,3,"1,012m² ",27 Jan 2023
+"1,403,000 ","7 Sergeant Street,",KANIMBLA QLD 4870,House,4,3,4,843m² ,27 Jan 2023
+"480,000 ","86 Boland Street,",WESTCOURT QLD 4870,House,4,2,4,658m² ,27 Jan 2023
+"625,000 ","7 Ah Ching Close,",BRINSMEAD QLD 4870,House,3,1,4,872m² ,25 Jan 2023
+"740,000 ","10 Taffles Street,",REDLYNCH QLD 4870,House,4,2,2,676m² ,25 Jan 2023
+"405,000 ","138 Dillon Street,",WESTCOURT QLD 4870,House,4,1,2,663m² ,25 Jan 2023
+"777,000 ","6 Hop Wah Close,",BRINSMEAD QLD 4870,House,5,1,2,"1,033m² ",24 Jan 2023
+"585,000 ","37 Law Street,",CAIRNS NORTH QLD 4870,House,3,2,4,326m² ,24 Jan 2023
+"705,000 ","5 Fitzallan Close,",KANIMBLA QLD 4870,House,4,3,2,704m² ,24 Jan 2023
+"555,000 ","32 Mahogany Street,",MANOORA QLD 4870,Duplex,4,2,2,733m² ,24 Jan 2023
+"1,140,000 ","3 Caleb Court,",MOOROOBOOL QLD 4870,House,5,2,4,803m² ,24 Jan 2023
+"800,000 ","8 Davidson Close,",REDLYNCH QLD 4870,House,4,2,2,609m² ,24 Jan 2023
+"515,000 ","24 Edge Court,",MANOORA QLD 4870,House,3,2,2,250m² ,23 Jan 2023
+"430,000 ","27 Beatrice Street,",MOOROOBOOL QLD 4870,House,3,1,1,592m² ,20 Jan 2023
+"350,000 ","3 Foxwood Avenue,",WANGAN QLD 4871,House,3,1,7,800m² ,20 Jan 2023
+"1,100,000 ","25 Hall Street,",EDGE HILL QLD 4870,House,4,2,2,798m² ,19 Jan 2023
+"450,000 ","2 Veivers Close,",WESTCOURT QLD 4870,House,3,1,2,666m² ,19 Jan 2023
+"460,000 ","10 McGuigan Street,",EARLVILLE QLD 4870,House,3,1,2,951m² ,18 Jan 2023
+"435,000 ","13 Mahogany Street,",MANOORA QLD 4870,House,4,1,2,700m² ,18 Jan 2023
+"855,000 ","41 Cairns Street,",CAIRNS NORTH QLD 4870,House,7,3,2,698m² ,17 Jan 2023
+"694,000 ","15 Cananga Close,",KAMERUNGA QLD 4870,House,3,2,4,839m² ,17 Jan 2023
+"572,500 ","66 Loridan Drive,",BRINSMEAD QLD 4870,House,4,2,2,600m² ,16 Jan 2023
+"670,000 ","29 Atherton St,",WHITFIELD QLD 4870,House,3,1,2,776m² ,16 Jan 2023
+"715,000 ","25 Mona Street,",WHITFIELD QLD 4870,House,4,2,4,809m² ,16 Jan 2023
+"640,000 ","163 McFarlane Drive,",KANIMBLA QLD 4870,House,4,2,2,703m² ,14 Jan 2023
+"865,000 ","3 Glen Boughton Street,",AEROGLEN QLD 4870,House,7,3,4,844m² ,13 Jan 2023
+"920,000","25 Pelling Close,",KANIMBLA QLD 4870,House,4,2,2,978m² ,13 Jan 2023
+"630,000 ","78 Clarke Street,",MANUNDA QLD 4870,House,5,3,2,832m² ,13 Jan 2023
+"432,000 ","26 Dodd Court,",MOOROOBOOL QLD 4870,House,3,1,2,405m² ,13 Jan 2023
+"1,200,000 ","375-377 Anderson Road,",ALOOMBA QLD 4871,House,3,1,4,0,12 Jan 2023
+"645,000 ","21 Cairns Street,",CAIRNS NORTH QLD 4870,House,3,1,2,669m² ,12 Jan 2023
+"765,000 ","14 Scott Street,",PARRAMATTA PARK QLD 4870,House,5,2,2,337m² ,12 Jan 2023
+"365,000 ","69A Hayward Street,",MOOROOBOOL QLD 4870,House,3,1,2,439m² ,11 Jan 2023
+"615,000 ","1-3 Orrell Close,",BRINSMEAD QLD 4870,House,4,2,3,772m² ,10 Jan 2023
+"321,000 ","88 English Street,",MANUNDA QLD 4870,House,3,1,−,726m² ,10 Jan 2023
+"350,000 ","25 Sperring Street,",MANUNDA QLD 4870,House,3,1,2,885m² ,10 Jan 2023
+"640,000","14 Mcguigan Street,",EARLVILLE QLD 4870,House,4,3,1,683m² ,09 Jan 2023
+"415,000 ","57 Murray Street,",MANOORA QLD 4870,House,3,1,1,809m² ,09 Jan 2023
+"570,000","33 Meander Close,",BRINSMEAD QLD 4870,House,3,2,2,735m² ,06 Jan 2023
+"459,000 ","20 Garland Close,",KANIMBLA QLD 4870,House,3,1,2,764m² ,06 Jan 2023
+"450,000 ","33 McFarlane Drive,",KANIMBLA QLD 4870,House,3,2,2,710m² ,05 Jan 2023
+"352,000 ","17 Bucas Court,",MOOROOBOOL QLD 4870,House,3,1,1,410m² ,03 Jan 2023
+"599,000 ","134 Martyn Street,",PARRAMATTA PARK QLD 4870,House,5,2,2,607m² ,03 Jan 2023
+"735,000 ","32-34 Kevin Street,",WHITFIELD QLD 4870,House,4,2,2,769m² ,2022
+"470,000 ","17 Gardiner Close,",BRINSMEAD QLD 4870,House,3,1,1,800m² ,26 Dec 2022
+"825,000 ","40 Kevin Street,",WHITFIELD QLD 4870,House,4,2,1,769m² ,25 Dec 2022
+"1,125,000","2407 Pine Creek Yarrabah Road,",EAST TRINITY QLD 4871,House,4,3,2,"2,428m² ",23 Dec 2022
+"420,000","60 Jacobs Road,",KURRIMINE BEACH QLD 4871,House,2,1,2,551m² ,23 Dec 2022
+"425,000","275 Pease Street,",EDGE HILL QLD 4870,House,3,1,−,809m² ,22 Dec 2022
+"630,000 ","48 Hodkinson Street,",REDLYNCH QLD 4870,House,4,2,2,673m² ,22 Dec 2022
+"565,000 ","131 Jensen Street,",WHITFIELD QLD 4870,House,4,2,2,809m² ,22 Dec 2022
+"830,000 ","71 Walsh Street,",EDGE HILL QLD 4870,House,4,2,2,740m² ,21 Dec 2022
+"470,000 ","18 Macilwraith Street,",MANOORA QLD 4870,Duplex,5,3,3,"1,012m² ",21 Dec 2022
+"610,000 ",,BRINSMEAD QLD 4870,House,4,2,2,722m² ,20 Dec 2022
+"720,000 ","30 Rowe Street,",EARLVILLE QLD 4870,House,5,1,3,546m² ,20 Dec 2022
+"441,000 ","16 Vandeleur Street,",EARLVILLE QLD 4870,House,3,1,2,688m² ,20 Dec 2022
+"240,000 ","1/41 Sperring Street,",MANUNDA QLD 4870,Duplex,2,1,1,309m² ,20 Dec 2022
+"180,000 ","2/13-15 Harris Street,",PARRAMATTA PARK QLD 4870,Semi-detached,2,1,1,94m² ,20 Dec 2022
+"592,500 ","1-3 Fireclay Close,",REDLYNCH QLD 4870,House,4,2,2,700m² ,20 Dec 2022
+"508,000 ","4 Butland Street,",BRINSMEAD QLD 4870,House,3,2,2,712m² ,19 Dec 2022
+"600,000 ","10 Mist Green Close,",BRINSMEAD QLD 4870,House,4,2,3,638m² ,19 Dec 2022
+"560,000 ","409 DRAPER STREET,",PARRAMATTA PARK QLD 4870,House,11,2,1,405m² ,19 Dec 2022
+"489,000 ","23 Daphne Street,",REDLYNCH QLD 4870,House,3,1,1,695m² ,19 Dec 2022
+"443,000 ","57 Aeroglen Drive,",AEROGLEN QLD 4870,House,2,1,−,678m² ,16 Dec 2022
+"750,000 ","53 Benn Street,",BRINSMEAD QLD 4870,House,5,2,1,716m² ,16 Dec 2022
+"650,000 ","59 Laguna Avenue,",REDLYNCH QLD 4870,House,3,2,2,480m² ,16 Dec 2022
+"680,000 ","26 Ebony Street,",REDLYNCH QLD 4870,House,4,2,2,"1,175m² ",16 Dec 2022
+"512,500 ","49 West Parkridge Drive,",BRINSMEAD QLD 4870,House,3,2,2,600m² ,15 Dec 2022
+"705,000 ","9 Compass Close,",EDGE HILL QLD 4870,House,4,2,1,774m² ,15 Dec 2022
+"410,000 ","11 Turner Street,",WHITFIELD QLD 4870,House,3,1,1,725m² ,14 Dec 2022
+"570,000 ","89 Jungara Road,",REDLYNCH QLD 4870,House,4,2,2,600m² ,13 Dec 2022
+"650,000 ","101 Upper Richardson Street,",WHITFIELD QLD 4870,House,4,2,2,810m² ,13 Dec 2022
+"656,000","20 Everglade Rise,",BRINSMEAD QLD 4870,House,4,2,2,710m² ,2022
+"460,000 ","179 Aumuller Street,",BUNGALOW QLD 4870,House,3,2,2,476m² ,12 Dec 2022
+"550,000 ","5 Ariel Court,",MOOROOBOOL QLD 4870,House,4,2,4,861m² ,12 Dec 2022
+"545,000","169 McManus Street,",WHITFIELD QLD 4870,House,2,1,2,718m² ,12 Dec 2022
+"1,056,000 ","366 Pease Street,",EDGE HILL QLD 4870,House,5,2,2,"1,009m² ",11 Dec 2022
+"525,000 ","74 Boden Street,",EDGE HILL QLD 4870,House,4,2,2,738m² ,11 Dec 2022
+"870,000 ","68-70 Cassowary Street,",FRESHWATER QLD 4870,House,4,3,6,"1,637m² ",11 Dec 2022
+"265,000 ","109/29-33 Springfield Crescent,",MANOORA QLD 4870,House,2,2,1,84m² ,10 Dec 2022
+"920,000 ","15 Martyn Street,",PARRAMATTA PARK QLD 4870,House,3,2,1,435m² ,09 Dec 2022
+"570,000 ","172 Harvey Road,",REDLYNCH QLD 4870,House,3,2,2,700m² ,09 Dec 2022
+"600,000 ","35 Upward Street,",PARRAMATTA PARK QLD 4870,House,3,2,2,701m² ,08 Dec 2022
+"740,000 ","24 Mona Street,",WHITFIELD QLD 4870,House,3,2,3,608m² ,08 Dec 2022
+"820,000","14-16 Kevin Street,",WHITFIELD QLD 4870,House,4,2,4,"1,156m² ",08 Dec 2022
+"387,000 ","2/5 Ireland Crescent,",WHITFIELD QLD 4870,House,3,1,2,336m² ,08 Dec 2022
+"910,000 ","24 Atherton Street,",WHITFIELD QLD 4870,House,4,3,2,802m² ,08 Dec 2022
+"750,000 ","11 Findlay Street,",BRINSMEAD QLD 4870,House,5,2,2,709m² ,07 Dec 2022
+"380,000 ","22 Silky Oak Court,",MOOROOBOOL QLD 4870,House,3,1,1,318m² ,07 Dec 2022
+"615,000 ","8 Northgate Close,",REDLYNCH QLD 4870,House,4,2,2,659m² ,07 Dec 2022
+"150,000","1 Kokoda Street,",WANGAN QLD 4871,House,2,2,2,800m² ,07 Dec 2022
+"680,000 ","43 Benn Street,",BRINSMEAD QLD 4870,House,4,2,2,761m² ,06 Dec 2022
+"507,031 ","11 Barrett Street,",BUNGALOW QLD 4870,House,3,1,2,564m² ,06 Dec 2022
+"411,000 ","21 John Street,",CAIRNS NORTH QLD 4870,House,4,1,2,491m² ,06 Dec 2022
+"457,000 ","125 Upper Richardson Street,",WHITFIELD QLD 4870,House,3,2,2,766m² ,2022
+"630,000 ","167 McFarlane Drive,",KANIMBLA QLD 4870,House,4,2,2,754m² ,05 Dec 2022
+"336,000 ","5 Brant Close,",MANOORA QLD 4870,House,3,1,1,704m² ,05 Dec 2022
+"695,000 ","26 Hodkinson Street,",REDLYNCH QLD 4870,House,4,2,2,629m² ,05 Dec 2022
+"675,000 ","22 Perserverance Street,",REDLYNCH QLD 4870,House,4,2,2,628m² ,05 Dec 2022
+"585,000",,KURRIMINE BEACH QLD 4871,House,4,2,6,"1,050m² ",03 Dec 2022
+"500,000 ","20 Grove Street,",CAIRNS NORTH QLD 4870,House,2,1,1,273m² ,02 Dec 2022
+"730,000 ","17 Pelling Close,",KANIMBLA QLD 4870,House,4,2,2,721m² ,02 Dec 2022
+"380,000 ","10 Vulcan Street,",AEROGLEN QLD 4870,House,3,1,1,809m² ,01 Dec 2022
+"700,000 ","45B Winkworth Street,",BUNGALOW QLD 4870,House,3,2,2,334m² ,01 Dec 2022
+"535,000 ","4 Tanner Crescent,",STRATFORD QLD 4870,House,2,1,2,584m² ,2022
+"600,000 ","17 Mona Street,",WHITFIELD QLD 4870,House,3,2,2,600m² ,30 Nov 2022
+"650,000 ","118 Aumuller Street,",BUNGALOW QLD 4870,House,3,1,2,"1,214m² ",29 Nov 2022
+"355,000 ","7 Close Street,",MOOROOBOOL QLD 4870,House,3,1,1,407m² ,29 Nov 2022
+"265,000 ","15 Kingsford Street,",MOOROOBOOL QLD 4870,House,5,2,2,737m² ,29 Nov 2022
+"626,500 ","13 Lum Jim Street,",REDLYNCH QLD 4870,House,4,2,2,661m² ,29 Nov 2022
+"1,110,000","128 Nolan Street,",WHITFIELD QLD 4870,House,4,2,3,799m² ,29 Nov 2022
+"785,000 ","12 Cambanora Place,",MOOROOBOOL QLD 4870,House,4,3,3,"1,311m² ",28 Nov 2022
+"580,000","12 Queen Street,",PARRAMATTA PARK QLD 4870,House,2,1,2,405m² ,27 Nov 2022
+"737,000 ","23 Douglas Track Road,",KAMERUNGA QLD 4870,House,5,3,4,"1,045m² ",25 Nov 2022
+"365,999 ","125 Enmore Street,",MANOORA QLD 4870,House,3,1,1,715m² ,23 Nov 2022
+"717,500 ","10 Philp Close,",KANIMBLA QLD 4870,House,4,2,3,700m² ,22 Nov 2022
+"650,000 ","13 Vallely Street,",FRESHWATER QLD 4870,House,4,1,3,"1,012m² ",21 Nov 2022
+"465,000 ","1 Frances Street,",MOOROOBOOL QLD 4870,House,4,1,1,936m² ,21 Nov 2022
+"585,000 ","52 Fairley Street,",REDLYNCH QLD 4870,House,4,2,2,604m² ,21 Nov 2022
+"1,250,000 ","69249 Bruce Highway,",FISHERY FALLS QLD 4871,House,4,2,6,0,19 Nov 2022
+"600,000 ","49 Larsen Road,",REDLYNCH QLD 4870,House,4,2,2,660m² ,19 Nov 2022
+"940,000 ","13 Canopy Close,",FRESHWATER QLD 4870,House,5,3,4,"1,060m² ",18 Nov 2022
+"200,000 ","7/473-479 Mccoombe Street,",MOOROOBOOL QLD 4870,Villa,2,1,1,64m² ,18 Nov 2022

@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,090,000 ","62 Bayview Street,",PRAHRAN VIC 3181,House,2,1,−,159m² ,2024
+"1,325,000 ","47 Type Street,",RICHMOND VIC 3121,House,2,1,−,160m² ,18 Apr 2024
+"1,550,000 ","299 Lennox Street,",RICHMOND VIC 3121,House,2,1,2,184m² ,8 Apr 2024
+"1,231,000 ","92 Ireland Street,",WEST MELBOURNE VIC 3003,House,3,1,1,250m² ,2024
+"1,670,000 ","48 Andrew Street,",PRAHRAN VIC 3181,House,2,2,1,242m² ,2024
+"1,800,000 ","170 Stawell Street,",RICHMOND VIC 3121,House,3,2,−,199m² ,2024
+"2,230,000 ","9 Bowen Street,",RICHMOND VIC 3121,House,3,2,3,334m² ,23 Mar 2024
+"1,335,000 ","167 Coppin Street,",RICHMOND VIC 3121,House,3,1,1,235m² ,2024
+"2,720,000 ","12 Odessa Street,",ST KILDA VIC 3182,House,4,2,2,446m² ,2024
+"1,500,000","45 Clarke Street,",PRAHRAN VIC 3181,House,3,1,−,202m² ,21 Mar 2024
+"1,633,000 ","131 Canning Street,",CARLTON VIC 3053,House,3,1,1,151m² ,19 Mar 2024
+"3,750,000 ","82 Kerferd Road,",ALBERT PARK VIC 3206,House,4,2,2,390m² ,2024
+"795,000 ","8 Harker Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,120m² ,2024
+"1,831,000","174 Stawell Street,",RICHMOND VIC 3121,House,3,2,2,285m² ,2024
+"1,560,000 ","20 Lambeth Place,",ST KILDA VIC 3182,House,2,1,−,272m² ,2024
+"2,120,000 ","145 Buckingham Street,",RICHMOND VIC 3121,House,3,2,2,445m² ,13 Mar 2024
+"1,250,000","398 Church Street,",RICHMOND VIC 3121,House,3,1,−,206m² ,07 Mar 2024
+"1,625,000","2 Fern Avenue,",PRAHRAN VIC 3181,House,2,1,−,226m² ,2024
+"1,944,000","5 Kennedy Street,",RICHMOND VIC 3121,House,3,1,−,275m² ,2024
+"3,555,000 ","38 Bridport Street,",SOUTH MELBOURNE VIC 3205,House,3,3,2,345m² ,2024
+"1,585,000 ","65 Cutter Street,",RICHMOND VIC 3121,House,3,1,1,215m² ,2024
+"2,200,000 ","59 Brougham Street,",NORTH MELBOURNE VIC 3051,House,4,1,2,453m² ,2024
+"3,350,000 ","4 Leila Street,",PRAHRAN VIC 3181,House,4,3,2,495m² ,2024
+"3,886,000 ","4 Highbury Grove,",PRAHRAN VIC 3181,House,3,2,2,404m² ,2024
+"1,810,000","2 Queen Street,",RICHMOND VIC 3121,House,3,1,1,323m² ,2024
+"2,200,000 ","9 Smith Street,",ST KILDA VIC 3182,House,4,2,1,416m² ,2024
+"1,295,000","1 Fordham Court,",RICHMOND VIC 3121,House,2,1,−,180m² ,23 Feb 2024
+"1,660,000","169 Adderley Street,",WEST MELBOURNE VIC 3003,House,3,1,1,260m² ,23 Feb 2024
+"3,500,000","3 Linden Court,",PRAHRAN VIC 3181,House,4,3,3,650m² ,2024
+"2,285,000 ","68 Nimmo Street,",MIDDLE PARK VIC 3206,House,3,1,−,234m² ,2024
+"2,570,000","45 Graham Street,",ALBERT PARK VIC 3206,House,3,2,−,228m² ,2024
+"1,463,000","7 Kipling Street,",ST KILDA VIC 3182,House,3,1,2,312m² ,5 Feb 2024
+"1,810,500 ","11 Neptune Street,",ST KILDA VIC 3182,House,3,2,1,152m² ,2024
+"1,390,000 ","41 Elgin Street,",CARLTON VIC 3053,House,4,2,1,103m² ,26 Jan 2024
+"840,000","58 York Street,",RICHMOND VIC 3121,House,2,1,−,175m² ,24 Jan 2024
+"976,000","50 Upton Road,",WINDSOR VIC 3181,House,2,1,1,123m² ,23 Jan 2024
+"1,045,000","34 Clyde Street,",ST KILDA VIC 3182,House,2,1,−,170m² ,19 Jan 2024
+"998,000 ","101 Coppin Street,",RICHMOND VIC 3121,House,2,1,−,210m² ,2024
+"1,925,000","30 Henry Street,",PRAHRAN VIC 3181,House,4,2,−,345m² ,12 Jan 2024
+"1,232,500 ","68 Harcourt Street,",NORTH MELBOURNE VIC 3051,House,3,1,−,91m² ,29 Dec 2023
+"985,000","12 Hunter Street,",RICHMOND VIC 3121,House,2,1,1,152m² ,23 Dec 2023
+"1,468,000 ","11 Davison Street,",RICHMOND VIC 3121,House,3,1,1,282m² ,22 Dec 2023
+"1,300,000","7 Johnson Street,",RICHMOND VIC 3121,House,3,1,1,272m² ,22 Dec 2023
+"1,690,000 ","43 Cobden Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,200m² ,20 Dec 2023
+"2,895,000 ","75 Richardson Street,",ALBERT PARK VIC 3206,House,2,1,1,260m² ,2023
+"1,440,000 ","35 Bowen Street,",PRAHRAN VIC 3181,House,2,1,−,201m² ,2023
+"1,575,000 ","5 Grattan Place,",RICHMOND VIC 3121,House,3,1,3,363m² ,15 Dec 2023
+"1,415,000","32 Church Street,",PARKVILLE VIC 3052,House,4,1,2,294m² ,14 Dec 2023
+"4,130,000","10 Baker Street,",ST KILDA VIC 3182,House,4,3,3,583m² ,12 Dec 2023
+"995,000 ","7 Margaret Street,",SOUTH YARRA VIC 3141,House,2,1,−,214m² ,2023
+"2,600,000","9 Mitchell Street,",ST KILDA VIC 3182,House,4,2,2,212m² ,2023
+"1,855,000","50 Perth Street,",PRAHRAN VIC 3181,House,3,1,2,322m² ,2023
+"1,170,000","14 Duke Street,",RICHMOND VIC 3121,House,4,1,1,235m² ,09 Dec 2023
+"1,297,500","20 Hardy Street,",SOUTH YARRA VIC 3141,House,2,1,−,172m² ,2023
+"1,160,000","38 Havelock Street,",ST KILDA VIC 3182,House,2,1,−,148m² ,2023
+"1,550,000 ","44 Fraser Street,",RICHMOND VIC 3121,House,3,1,2,303m² ,6 Dec 2023
+"1,465,000 ","23 Gurner Street,",ST KILDA VIC 3182,House,3,1,1,235m² ,05 Dec 2023
+"1,722,500 ","51 Nicholson Street,",CARLTON VIC 3053,House,6,2,−,164m² ,2023
+"2,900,000","38 Tivoli Road,",SOUTH YARRA VIC 3141,House,3,1,1,449m² ,2023
+"6,860,000","12 Loch Street,",ST KILDA WEST VIC 3182,House,4,4,2,570m² ,2023
+"960,000 ","223 Nicholson Street,",CARLTON VIC 3053,House,2,1,−,150m² ,27 Nov 2023
+"5,870,000 ","102 Bridport Street,",ALBERT PARK VIC 3206,House,5,4,2,336m² ,2023
+"2,600,000","12 Cassell Street,",SOUTH YARRA VIC 3141,House,3,2,2,326m² ,2023
+"3,960,000","59 Mary Street,",ST KILDA WEST VIC 3182,House,4,2,2,324m² ,25 Nov 2023
+"2,902,500","6 Irymple Avenue,",ST KILDA VIC 3182,House,4,2,1,484m² ,2023
+"2,960,000","1 Langridge Street,",MIDDLE PARK VIC 3206,House,4,2,2,220m² ,2023
+"995,000","5 King Street,",RICHMOND VIC 3121,House,2,1,−,129m² ,2023
+"1,852,000","72 Lord Street,",RICHMOND VIC 3121,House,3,2,2,208m² ,14 Nov 2023
+"2,138,000","61 Chomley Street,",PRAHRAN VIC 3181,House,3,2,−,233m² ,2023
+"1,305,000","180 Stawell Street,",RICHMOND VIC 3121,House,3,1,1,287m² ,0 Nov 2023
+"2,625,000","176 Stawell Street,",RICHMOND VIC 3121,House,4,2,2,300m² ,2023
+"1,685,000","19 MacKay Street,",PRAHRAN VIC 3181,House,2,1,−,273m² ,2023
+"2,000,000 ","47 Barrett Street,",ALBERT PARK VIC 3206,House,2,1,1,177m² ,2023
+"3,500,000","11 Airlie Avenue,",PRAHRAN VIC 3181,House,4,2,2,425m² ,2023
+"1,400,000","4 Madden Street,",ALBERT PARK VIC 3206,House,2,1,−,153m² ,2023
+"1,065,000 ","246 Errol Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,151m² ,2023
+"4,125,000","52 Fitzgibbon Street,",PARKVILLE VIC 3052,House,3,2,1,252m² ,2023
+"4,375,000","26 Chomley Street,",PRAHRAN VIC 3181,House,4,3,2,511m² ,2023
+"2,485,000","32 Murray Street,",PRAHRAN VIC 3181,House,3,1,2,376m² ,2023
+"1,210,000 ","447 Punt Road,",RICHMOND VIC 3121,House,3,1,2,174m² ,8 Oct 2023
+"3,055,000","113 Richmond Terrace,",RICHMOND VIC 3121,House,3,1,2,377m² ,2023
+"2,200,000","5 Gibdon Street,",RICHMOND VIC 3121,House,4,2,1,344m² ,2023
+"1,965,000","23 Henry Street,",WINDSOR VIC 3181,House,3,2,−,332m² ,2023
+"1,220,000 ","52 Hunter Street,",RICHMOND VIC 3121,House,2,1,−,150m² ,27 Oct 2023
+"1,200,000","185 Dover Street,",RICHMOND VIC 3121,House,2,1,4,301m² ,27 Oct 2023
+"4,200,000","146 Canterbury Road,",MIDDLE PARK VIC 3206,House,4,4,2,270m² ,2023
+"1,200,000","183 Dover Street,",RICHMOND VIC 3121,House,3,1,1,301m² ,23 Oct 2023
+"2,750,000","16 Newry Street,",PRAHRAN VIC 3181,House,4,1,2,728m² ,2023
+"2,470,000","420 Park Street,",SOUTH MELBOURNE VIC 3205,House,4,2,1,186m² ,2023
+"1,410,000 ","68 Garden Street,",SOUTH YARRA VIC 3141,House,2,1,−,175m² ,2023
+"3,150,000","5/12-14 Chomley Street,",PRAHRAN VIC 3181,House,3,2,2,540m² ,20 Oct 2023
+"2,650,000","34 York Street,",ST KILDA WEST VIC 3182,House,4,2,1,321m² ,17 Oct 2023
+"1,005,000 ","12 Earl Street,",WINDSOR VIC 3181,House,2,1,−,124m² ,2023
+"4,250,000","191 Page Street,",MIDDLE PARK VIC 3206,House,3,2,2,311m² ,13 Oct 2023
+"950,000","15 Waverley Street,",RICHMOND VIC 3121,House,2,1,−,153m² ,13 Oct 2023
+"1,155,000","359 Flemington Road,",NORTH MELBOURNE VIC 3051,House,3,1,1,163m² ,12 Oct 2023
+"3,810,000","2 Glover Street,",SOUTH MELBOURNE VIC 3205,House,5,2,2,460m² ,11 Oct 2023
+"1,605,000","18 Edinburgh Street,",RICHMOND VIC 3121,House,2,1,1,158m² ,2023
+"1,415,000","310 Mary Street,",RICHMOND VIC 3121,House,3,1,1,240m² ,2023
+"5,250,000 ","42 Davis Avenue,",SOUTH YARRA VIC 3141,House,4,2,1,499m² ,2023
+"2,120,000","32 Alexandra Street,",SOUTH YARRA VIC 3141,House,3,1,1,215m² ,2023
+"3,050,000 ","34-36 Chaucer Street,",ST KILDA VIC 3182,House,4,2,4,663m² ,2023
+"1,995,000","54 Greig Street,",ALBERT PARK VIC 3206,House,2,1,1,166m² ,06 Oct 2023
+"2,400,000","1 Closeburn Avenue,",PRAHRAN VIC 3181,House,4,2,4,560m² ,06 Oct 2023
+"1,950,000 ","58 Wilgah Street,",ST KILDA VIC 3182,House,3,2,2,695m² ,04 Oct 2023
+"2,000,000","25 Type Street,",RICHMOND VIC 3121,House,3,2,−,200m² ,2023
+"1,361,000","13 Sheedy Street,",RICHMOND VIC 3121,House,3,1,−,172m² ,2023
+"1,185,000 ","340 Burnley Street,",RICHMOND VIC 3121,House,2,1,1,219m² ,2023
+"1,535,000","141 Surrey Road North,",SOUTH YARRA VIC 3141,House,2,1,−,229m² ,2023
+"6,280,000","259 Beaconsfield Parade,",MIDDLE PARK VIC 3206,House,8,4,3,530m² ,22 Sep 2023
+"3,695,000","187 Page Street,",MIDDLE PARK VIC 3206,House,3,1,1,323m² ,21 Sep 2023
+"1,500,000 ","134 Victoria Avenue,",ALBERT PARK VIC 3206,House,2,1,−,141m² ,2023
+"1,325,000","28 Newry Street,",RICHMOND VIC 3121,House,3,1,1,184m² ,19 Sep 2023
+"2,520,000 ","21 Shakespeare Grove,",ST KILDA VIC 3182,House,3,2,1,580m² ,18 Sep 2023
+"2,390,000 ","66 Chapman Street,",NORTH MELBOURNE VIC 3051,House,5,3,−,377m² ,2023
+"2,250,000 ","278 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,190m² ,2023
+"3,155,000","41 Ferrars Place,",SOUTH MELBOURNE VIC 3205,House,4,2,1,350m² ,2023
+"1,260,000","95 Bank Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,146m² ,15 Sep 2023
+"1,845,000","71 Princes Street,",PRAHRAN VIC 3181,House,3,2,1,212m² ,13 Sep 2023
+"775,000 ","42 Charles Street,",ST KILDA VIC 3182,House,2,1,−,145m² ,12 Sep 2023
+"2,800,000","181 Mills Street,",MIDDLE PARK VIC 3206,House,4,2,1,180m² ,2023
+"1,800,000","66 Chatsworth Road,",PRAHRAN VIC 3181,House,3,1,−,292m² ,2023
+"2,170,000","15 Larnook Street,",PRAHRAN VIC 3181,House,3,1,3,416m² ,2023
+"1,520,000 ","6 Charles Street,",RICHMOND VIC 3121,House,2,1,1,182m² ,2023
+"3,205,000","80 Leopold Street,",SOUTH YARRA VIC 3141,House,4,2,1,237m² ,2023
+"1,560,000","18 Wrights Terrace,",PRAHRAN VIC 3181,House,2,1,−,280m² ,07 Sep 2023
+"1,950,000","13 Henderson Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,187m² ,5 Sep 2023
+"1,347,000","224 Adderley Street,",WEST MELBOURNE VIC 3003,House,2,1,1,180m² ,2023
+"1,202,000 ","168 Errol Street,",NORTH MELBOURNE VIC 3051,House,2,1,1,138m² ,2023
+"1,185,000 ","1 Shaw Street,",RICHMOND VIC 3121,House,2,1,1,234m² ,2023
+"2,475,000","56D Cromwell Road,",SOUTH YARRA VIC 3141,House,3,2,1,319m² ,2023
+"1,725,000","258 Barkly Street,",ST KILDA VIC 3182,House,4,1,1,507m² ,2023
+"6,500,000","13-19 Powlett Street,",EAST MELBOURNE VIC 3002,House,6,3,6,811m² ,01 Sep 2023
+"904,450 ","13 Racecourse Road,",NORTH MELBOURNE VIC 3051,House,2,1,1,196m² ,31 Aug 2023
+"2,630,000","11 Foote Street,",ALBERT PARK VIC 3206,House,3,2,−,180m² ,26 Aug 2023
+"4,350,000 ","168 Brighton Street,",RICHMOND VIC 3121,House,4,2,2,404m² ,2023
+"1,655,000","16 Rose Street,",RICHMOND VIC 3121,House,3,1,1,197m² ,2023
+"2,850,000","144 Abbotsford Street,",NORTH MELBOURNE VIC 3051,House,4,1,2,523m² ,21 Aug 2023
+"8,200,000","51 Murray Street,",PRAHRAN VIC 3181,House,4,2,2,600m² ,21 Aug 2023
+"1,935,000","172-174 Chetwynd Street,",NORTH MELBOURNE VIC 3051,House,3,1,1,138m² ,2023
+"2,050,000","10 Westbourne Street,",PRAHRAN VIC 3181,House,4,2,1,225m² ,2023
+"1,345,000 ","10 Malleson Street,",RICHMOND VIC 3121,House,3,1,−,193m² ,2023
+"1,450,000 ","33 Bell Street,",RICHMOND VIC 3121,House,3,1,1,254m² ,2023
+"1,320,000","296 Bank Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,145m² ,2023
+"1,440,000","176 Richardson Street,",ALBERT PARK VIC 3206,House,2,1,−,145m² ,17 Aug 2023
+"960,000 ","74 Lennox Street,",RICHMOND VIC 3121,House,3,1,1,201m² ,15 Aug 2023
+"4,200,000","30 Barrett Street,",ALBERT PARK VIC 3206,House,4,3,1,216m² ,14 Aug 2023
+"2,100,000 ","66 Richardson Street,",ALBERT PARK VIC 3206,House,2,1,1,185m² ,2023
+"1,890,000 ","36 Bunjil Way,",PARKVILLE VIC 3052,House,6,3,2,526m² ,2023
+"1,500,000","20 Fern Avenue,",PRAHRAN VIC 3181,House,3,1,−,182m² ,2023
+"2,725,000","32 York Street,",ST KILDA WEST VIC 3182,House,3,2,−,317m² ,10 Aug 2023
+"5,040,000 ","263 Coppin Street,",RICHMOND VIC 3121,House,5,3,2,402m² ,2023
+"1,810,000","224 Richardson Street,",MIDDLE PARK VIC 3206,House,2,1,1,145m² ,2023
+"3,010,000","70 Drummond Street,",CARLTON VIC 3053,House,4,1,6,267m² ,2023
+"1,432,000 ","34 Tudor Street,",RICHMOND VIC 3121,House,2,1,2,264m² ,2023
+"1,800,000","13 Martin Street,",SOUTH MELBOURNE VIC 3205,House,3,2,2,202m² ,02 Aug 2023
+"1,185,000","34 York Street,",PRAHRAN VIC 3181,House,2,2,−,138m² ,2023
+"3,550,000","24 Park Street,",RICHMOND VIC 3121,House,3,2,1,490m² ,2023
+"2,736,000 ","90 Lyndhurst Street,",RICHMOND VIC 3121,House,3,1,1,382m² ,2023
+"1,605,000","86 Buckingham Street,",RICHMOND VIC 3121,House,3,2,2,165m² ,2023
+"4,200,000","203 Canterbury Road,",ST KILDA WEST VIC 3182,House,5,3,3,545m² ,27 Jul 2023
+"13,845,000","60 St Vincent Place North,",ALBERT PARK VIC 3206,House,4,4,1,731m² ,22 Jul 2023
+"1,970,000 ","4 Survey Street,",RICHMOND VIC 3121,House,3,2,2,245m² ,2023
+"1,475,000 ","119 Barkly Street,",ST KILDA VIC 3182,House,5,2,1,530m² ,2023
+"1,620,000 ","74 Bendigo Street,",RICHMOND VIC 3121,House,3,1,3,317m² ,1 Jul 2023
+"1,315,000","126 Pickles Street,",SOUTH MELBOURNE VIC 3205,House,3,1,3,242m² ,2023
+"2,650,000","5 Westbank Terrace,",RICHMOND VIC 3121,House,3,1,2,709m² ,06 Jul 2023
+"5,148,000","4 James Street,",RICHMOND VIC 3121,House,3,3,2,437m² ,04 Jul 2023
+"1,150,000","116 Palmerston Crescent,",SOUTH MELBOURNE VIC 3205,House,2,1,−,121m² ,2023
+"2,390,000","6 Stanley Street,",SOUTH YARRA VIC 3141,House,3,2,1,348m² ,26 Jun 2023
+"1,575,000 ","160 Danks Street,",ALBERT PARK VIC 3206,House,2,1,−,160m² ,2023
+"1,900,700 ","16 Cade Way,",PARKVILLE VIC 3052,House,6,3,2,522m² ,2023
+"1,630,000 ","4-6 Farmer Street,",RICHMOND VIC 3121,House,3,2,1,240m² ,2023
+"1,620,000","1 Lynott Street,",ST KILDA VIC 3182,House,2,1,−,231m² ,2023
+"1,820,000","101 Wright Street,",MIDDLE PARK VIC 3206,House,3,1,−,160m² ,2023
+"2,260,000","32 Wrights Terrace,",PRAHRAN VIC 3181,House,3,2,1,279m² ,08 Jun 2023
+"1,400,000","183 Nicholson Street,",CARLTON VIC 3053,House,3,1,2,174m² ,06 Jun 2023
+"2,500,000 ","96 Pakington Street,",ST KILDA VIC 3182,House,4,3,2,467m² ,05 Jun 2023
+"1,780,000 ","237 Danks Street,",ALBERT PARK VIC 3206,House,3,1,−,154m² ,2023
+"1,845,000","42 Westbourne Street,",PRAHRAN VIC 3181,House,2,2,1,232m² ,2023
+"1,802,500","56 Powell Street,",SOUTH YARRA VIC 3141,House,3,1,−,275m² ,2023
+"1,595,000","143 Surrey Road North,",SOUTH YARRA VIC 3141,House,2,1,−,229m² ,2023
+"1,320,000 ","128 Gwynne Street,",RICHMOND VIC 3121,House,2,1,−,164m² ,2 Jun 2023
+"1,000,000 ","19 Thomas Place,",PRAHRAN VIC 3181,House,− 0,1,2,129m² ,2023
+"960,000","79 Hunter Street,",RICHMOND VIC 3121,House,2,1,−,155m² ,1 May 2023
+"2,220,000","9 Moorhouse Street,",RICHMOND VIC 3121,House,4,1,1,231m² ,9 May 2023
+"5,311,000","201 George Street,",EAST MELBOURNE VIC 3002,House,3,3,2,272m² ,2023
+"2,100,000","69 Bendigo Street,",RICHMOND VIC 3121,House,4,1,1,307m² ,2023
+"2,900,000","5 Rose Street,",RICHMOND VIC 3121,House,3,2,−,385m² ,2023
+"2,950,000 ","14 Powell Street,",SOUTH YARRA VIC 3141,House,4,1,1,346m² ,2023
+"3,700,000","25 Closeburn Avenue,",PRAHRAN VIC 3181,House,4,2,2,487m² ,23 May 2023
+"3,465,000","9 Boyd Street,",ALBERT PARK VIC 3206,House,3,2,1,331m² ,22 May 2023
+"3,800,000 ","89 Armstrong Street,",MIDDLE PARK VIC 3206,House,3,2,2,334m² ,22 May 2023
+"2,500,000","64 Murray Street,",PRAHRAN VIC 3181,House,3,1,−,610m² ,2023
+"2,375,000","42 Stawell Street,",RICHMOND VIC 3121,House,4,3,2,215m² ,2023
+"4,110,000","374 Park Street,",SOUTH MELBOURNE VIC 3205,House,4,3,2,297m² ,2023
+"1,420,000 ","47 Fawkner Street,",SOUTH YARRA VIC 3141,House,3,1,−,181m² ,2023
+"1,124,500","8 Union Street,",WINDSOR VIC 3181,House,3,1,1,180m² ,2023
+"1,477,500","148 Pickles Street,",SOUTH MELBOURNE VIC 3205,House,2,1,2,240m² ,19 May 2023
+"4,025,000","76 Park Road,",MIDDLE PARK VIC 3206,House,4,2,1,337m² ,18 May 2023
+"3,795,000 ","32 Marine Parade,",ST KILDA VIC 3182,House,5,3,2,650m² ,18 May 2023
+"1,555,000 ","3 Melrose Street,",CREMORNE VIC 3121,House,4,1,−,305m² ,2023
+"4,175,000","20 Airlie Avenue,",PRAHRAN VIC 3181,House,4,3,2,537m² ,2023
+"3,363,000","31-33 Albert Street,",EAST MELBOURNE VIC 3002,House,3,1,2,489m² ,2023
+"810,000","9-11 Racecourse Road,",NORTH MELBOURNE VIC 3051,House,2,1,2,173m² ,11 May 2023
+"1,650,000 ","36 Glover Street,",SOUTH MELBOURNE VIC 3205,House,2,1,1,168m² ,10 May 2023
+"5,500,000","45 St Vincent Place,",ALBERT PARK VIC 3206,House,4,1,2,290m² ,2023
+"1,440,000","7 Albert Street,",EAST MELBOURNE VIC 3002,House,3,2,2,191m² ,2023
+"1,820,000 ","127 Napier Street,",SOUTH MELBOURNE VIC 3205,House,2,2,1,160m² ,2023
+"1,450,000","43 Cameron Street,",RICHMOND VIC 3121,House,3,2,−,186m² ,04 May 2023
+"1,100,000","195 Burnley Street,",RICHMOND VIC 3121,House,2,1,1,170m² ,03 May 2023
+"1,424,000","73 Donald Street,",PRAHRAN VIC 3181,House,2,1,−,212m² ,2023
+"1,500,000","4 High Street,",PRAHRAN VIC 3181,House,3,1,2,328m² ,01 May 2023
+"3,800,000","8 Mcgregor Street Street,",MIDDLE PARK VIC 3206,House,3,2,−,182m² ,28 Apr 2023
+"1,650,000 ","21 Bromham Place,",RICHMOND VIC 3121,House,9,4,2,271m² ,24 Apr 2023
+"1,171,000 ","5 Woodlawn Street,",RICHMOND VIC 3121,House,2,1,−,175m² ,2023
+"3,120,000 ","39 Ferrars Place,",SOUTH MELBOURNE VIC 3205,House,4,2,1,207m² ,2023
+"1,040,000 ","14 Carrangall Place,",PARKVILLE VIC 3052,House,3,2,2,173m² ,20 Apr 2023
+"1,037,000","73 Baker Street,",RICHMOND VIC 3121,House,2,1,1,147m² ,9 Apr 2023
+"3,030,000","45 Wright Street,",MIDDLE PARK VIC 3206,House,4,2,−,215m² ,18 Apr 2023
+"2,065,000","27 Fraser Street,",MIDDLE PARK VIC 3206,House,3,1,−,278m² ,18 Apr 2023
+"1,830,000","50 Richardson Street,",ALBERT PARK VIC 3206,House,3,1,1,191m² ,17 Apr 2023
+"1,503,000 ","7 Boyd Street,",RICHMOND VIC 3121,House,2,1,1,209m² ,2023
+"955,000 ","105 Lord Street,",RICHMOND VIC 3121,House,2,1,−,150m² ,2023
+"1,509,000","30 Normanby Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,86m² ,2023
+"2,634,000","13 Muir Street,",RICHMOND VIC 3121,House,3,2,4,414m² ,2023
+"1,717,500","250-252 Lennox Street,",RICHMOND VIC 3121,House,3,2,−,210m² ,11 Apr 2023
+"1,525,000","14 Charles Street,",ST KILDA VIC 3182,House,3,2,1,202m² ,2023
+"4,900,000","87 Armstrong Street,",MIDDLE PARK VIC 3206,House,4,2,2,420m² ,04 Apr 2023
+"1,055,000","43 Ireland Street,",WEST MELBOURNE VIC 3003,House,2,2,1,145m² ,04 Apr 2023
+"1,600,000","423 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,227m² ,2023
+"3,746,000","7 Fitzgerald Street,",SOUTH YARRA VIC 3141,House,3,2,2,354m² ,02 Apr 2023
+"1,056,000 ","668 Victoria Street,",NORTH MELBOURNE VIC 3051,House,2,1,1,160m² ,2023
+"1,470,000 ","133 Leveson Street,",NORTH MELBOURNE VIC 3051,House,3,2,−,102m² ,2023
+"1,735,000","13 Malleson Street,",RICHMOND VIC 3121,House,3,1,−,197m² ,2023
+"2,475,000","927 Punt Road,",SOUTH YARRA VIC 3141,House,4,2,2,464m² ,2023
+"3,725,000","16-18 George Street,",EAST MELBOURNE VIC 3002,House,3,1,1,365m² ,1 Mar 2023
+"1,174,050","64 York Street,",RICHMOND VIC 3121,House,3,1,1,190m² ,28 Mar 2023
+"1,770,000","26 Westbank Terrace,",RICHMOND VIC 3121,House,4,2,1,309m² ,2023
+"2,705,000","57 Surrey Road,",SOUTH YARRA VIC 3141,House,3,3,2,485m² ,2023
+"3,800,000","15 York Street,",ST KILDA WEST VIC 3182,House,4,3,1,308m² ,2023
+"13,250,000","11 Fulham Avenue,",SOUTH YARRA VIC 3141,House,6,5,4,"1,155m² ",24 Mar 2023
+"2,097,000","12 Merton Place,",ALBERT PARK VIC 3206,House,2,1,1,200m² ,2023
+"1,800,000","368A Danks Street,",MIDDLE PARK VIC 3206,House,3,1,1,159m² ,23 Mar 2023
+"1,016,000","12A Chaucer Street,",ST KILDA VIC 3182,House,2,1,1,132m² ,2023
+"1,358,000","44 Freeman Street,",RICHMOND VIC 3121,House,3,2,2,410m² ,20 Mar 2023
+"925,000 ","98 Lennox Street,",RICHMOND VIC 3121,House,2,2,−,185m² ,20 Mar 2023
+"2,300,000 ","26 Dinsdale Street,",ALBERT PARK VIC 3206,House,4,1,−,238m² ,2023
+"1,815,000","67 Chomley Street,",PRAHRAN VIC 3181,House,3,2,−,227m² ,2023
+"1,930,000","4 Portland Street,",RICHMOND VIC 3121,House,3,1,1,235m² ,2023
+"2,060,000","9 George Street,",RICHMOND VIC 3121,House,3,1,2,344m² ,2023
+"2,350,000","8 Cunningham Street,",SOUTH YARRA VIC 3141,House,3,1,2,295m² ,2023
+"3,425,000","34 Loch Street,",ST KILDA WEST VIC 3182,House,4,1,−,390m² ,2023
+"2,730,000","34 Lewisham Road,",PRAHRAN VIC 3181,House,4,2,2,412m² ,2023
+"1,280,000","384 Highett Street,",RICHMOND VIC 3121,House,2,1,1,187m² ,2023
+"4,600,000","40 Davis Avenue,",SOUTH YARRA VIC 3141,House,4,3,1,502m² ,17 Mar 2023
+"2,485,000","86 Harold Street,",MIDDLE PARK VIC 3206,House,3,1,1,222m² ,07 Mar 2023
+"1,480,000","46A Packington Street,",PRAHRAN VIC 3181,House,2,1,1,188m² ,2023
+"4,350,000","8 Ferrars Place,",SOUTH MELBOURNE VIC 3205,House,4,2,1,402m² ,2023
+"1,660,000","19 Havelock Street,",ST KILDA VIC 3182,House,3,1,2,285m² ,04 Mar 2023
+"1,600,000 ","2-4 Purcell Street,",NORTH MELBOURNE VIC 3051,House,3,1,1,145m² ,03 Mar 2023
+"1,700,000","395 Church Street,",RICHMOND VIC 3121,House,4,1,3,295m² ,03 Mar 2023
+"4,690,000","4 Cassell Street,",SOUTH YARRA VIC 3141,House,4,2,2,580m² ,02 Mar 2023
+"2,445,000","40 Larnook Street,",PRAHRAN VIC 3181,House,3,2,2,346m² ,01 Mar 2023
+"1,995,000","289 Burnley Street,",RICHMOND VIC 3121,House,4,2,2,417m² ,01 Mar 2023
+"2,300,000","8 Longmore Street,",ST KILDA WEST VIC 3182,House,3,1,1,274m² ,2023
+"1,810,000 ","16 Curran Street,",NORTH MELBOURNE VIC 3051,House,4,2,−,246m² ,2023
+"915,000 ","28 Edinburgh Street,",RICHMOND VIC 3121,House,2,1,−,158m² ,2023
+"4,165,000","20 Page Street,",ALBERT PARK VIC 3206,House,4,3,1,265m² ,2023
+"1,420,000 ","302 Lennox Street,",RICHMOND VIC 3121,House,2,1,1,173m² ,2023
+"2,450,000","130 Napier Street,",SOUTH MELBOURNE VIC 3205,House,3,2,2,235m² ,2023
+"2,220,000 ","22 Henderson Street,",SOUTH MELBOURNE VIC 3205,House,3,1,−,191m² ,2023
+"2,625,000","63 Spenser Street,",ST KILDA VIC 3182,House,3,2,2,324m² ,2023
+"1,650,000","30 Kent Street,",RICHMOND VIC 3121,House,3,2,1,219m² ,24 Feb 2023
+"2,500,000","30 Domain Street,",SOUTH YARRA VIC 3141,House,3,2,1,204m² ,23 Feb 2023
+"4,580,000 ","99 Richardson Street,",ALBERT PARK VIC 3206,House,4,2,2,410m² ,22 Feb 2023
+"1,080,000 ","41 Lothian Street,",NORTH MELBOURNE VIC 3051,House,3,1,−,150m² ,2023
+"4,200,000","135 Somerset Street,",RICHMOND VIC 3121,House,4,3,2,321m² ,2023
+"3,100,000","24 Barrett Street,",ALBERT PARK VIC 3206,House,3,2,1,215m² ,15 Feb 2023
+"5,250,000","60 Park Street,",ST KILDA WEST VIC 3182,House,5,3,3,561m² ,2023
+"1,235,000","9 Jago Street,",RICHMOND VIC 3121,House,3,1,−,226m² ,02 Feb 2023
+"1,420,000","3 Izett Street,",PRAHRAN VIC 3181,House,3,1,−,173m² ,01 Feb 2023
+"1,275,000 ","40 Butler Street,",RICHMOND VIC 3121,House,4,1,3,303m² ,31 Jan 2023
+"925,000 ","88 Lincoln Street,",RICHMOND VIC 3121,House,3,2,−,204m² ,23 Jan 2023
+"1,217,000","83 Carlisle Street,",ST KILDA VIC 3182,House,2,1,1,243m² ,11 Jan 2023
+"1,690,000","17 Boyd Street,",RICHMOND VIC 3121,House,3,1,1,301m² ,21 Dec 2022
+"1,200,000","37 Blanche Street,",ST KILDA VIC 3182,House,2,1,−,209m² ,2022
+"1,900,000 ","4 Bosisto Street,",RICHMOND VIC 3121,House,3,2,2,168m² ,2022
+"2,660,000 ","13 Marlton Crescent,",ST KILDA VIC 3182,House,4,2,1,541m² ,2022
+"1,130,000","95 Barkly Street,",CARLTON VIC 3053,House,2,1,−,110m² ,16 Dec 2022
+"1,005,000","95 Hoddle Street,",RICHMOND VIC 3121,House,4,1,1,282m² ,16 Dec 2022
+"1,350,000","56 Gibdon Street,",RICHMOND VIC 3121,House,2,1,1,218m² ,15 Dec 2022
+"1,255,000","100 Bendigo Street,",PRAHRAN VIC 3181,House,3,1,1,275m² ,2022
+"6,450,000","20-22 Berry Street,",EAST MELBOURNE VIC 3002,House,4,3,3,438m² ,10 Dec 2022
+"2,175,000","46 Langridge Street,",MIDDLE PARK VIC 3206,House,2,2,−,190m² ,2022
+"3,340,000 ","95 Armstrong Street,",MIDDLE PARK VIC 3206,House,3,2,1,284m² ,2022
+"1,700,000","17 Spring Street,",PRAHRAN VIC 3181,House,2,1,−,225m² ,2022
+"1,655,000 ","14-16 Hotham Street,",SOUTH MELBOURNE VIC 3205,House,1,1,−,107m² ,2022
+"1,077,000","159 Palmerston Street,",CARLTON VIC 3053,House,2,1,1,120m² ,2022
+"940,000 ","120 Palmerston Street,",CARLTON VIC 3053,House,2,1,−,120m² ,07 Dec 2022
+"1,770,000","12 Willam Street,",PARKVILLE VIC 3052,House,6,3,2,470m² ,07 Dec 2022
+"1,285,000","79 Elgin Street,",CARLTON VIC 3053,House,3,1,1,162m² ,06 Dec 2022
+"4,907,000","205 Page Street,",MIDDLE PARK VIC 3206,House,4,2,1,321m² ,2022
+"1,300,000","72 Bendigo Street,",PRAHRAN VIC 3181,House,2,1,−,165m² ,2022
+"1,300,000","72 Bendigo Street,",PRAHRAN VIC 3181,House,2,1,−,165m² ,2022
+"1,887,000 ","81 Lincoln Street,",RICHMOND VIC 3121,House,3,2,2,284m² ,2022
+"1,540,000","25 Mcgregor Street,",MIDDLE PARK VIC 3206,House,3,1,−,174m² ,2022
+"2,275,000","53 Murray Street,",PRAHRAN VIC 3181,House,3,1,2,314m² ,27 Nov 2022
+"3,100,000","322 Danks Street,",MIDDLE PARK VIC 3206,House,4,2,1,180m² ,26 Nov 2022
+"1,700,000","153 Canterbury Road,",MIDDLE PARK VIC 3206,House,3,1,1,207m² ,2022
+"1,200,000","15 Gladstone Street,",WINDSOR VIC 3181,House,3,1,−,204m² ,22 Nov 2022
+"1,925,000","3 Wangaratta Street,",RICHMOND VIC 3121,House,3,1,1,336m² ,2022
+"957,000","1a Buckingham Street,",RICHMOND VIC 3121,House,2,1,−,181m² ,2022
+"1,300,000","186 Ferrars Street,",SOUTH MELBOURNE VIC 3205,House,2,1,1,187m² ,2022
+"7,500,000 ","52 Murray Street,",PRAHRAN VIC 3181,House,5,4,3,622m² ,18 Nov 2022
+"955,000","55 Egan Street,",RICHMOND VIC 3121,House,2,1,−,174m² ,5 Nov 2022
+"1,735,000","13 Chomley Street,",PRAHRAN VIC 3181,House,3,1,−,212m² ,2022
+"1,660,000","22 Neptune Street,",RICHMOND VIC 3121,House,4,2,−,201m² ,2022
+"1,000,000 ","58 Duke Street,",WINDSOR VIC 3181,House,3,1,−,142m² ,2022
+"2,135,000","27 Durham Street,",RICHMOND VIC 3121,House,4,2,1,251m² ,11 Nov 2022
+"1,481,250 ","24 Kent Street,",RICHMOND VIC 3121,House,3,1,2,352m² ,08 Nov 2022
+"1,432,350","245 Stawell Street,",RICHMOND VIC 3121,House,3,3,6,"1,165m² ",07 Nov 2022
+"5,100,000 ","10 Greig Street,",ALBERT PARK VIC 3206,House,3,3,3,324m² ,2022
+"2,100,000 ","141 Richardson Street,",MIDDLE PARK VIC 3206,House,3,1,−,217m² ,05 Nov 2022
+"1,800,000 ","36 Vale Street,",ST KILDA VIC 3182,House,4,2,4,386m² ,2022
+"2,500,000","59 Osborne Street,",SOUTH YARRA VIC 3141,House,5,2,2,444m² ,04 Nov 2022
+"4,700,000","327 Walsh Street,",SOUTH YARRA VIC 3141,House,4,2,2,741m² ,03 Nov 2022
+"2,760,000 ","5 Kerferd Road,",ALBERT PARK VIC 3206,House,4,1,2,303m² ,2022
+"2,460,000","8 Alfred Street,",PRAHRAN VIC 3181,House,3,2,−,305m² ,2022
+"1,150,000","24 Cotter Street,",RICHMOND VIC 3121,House,3,1,1,205m² ,2022
+"3,150,000","9-11 Clarendon Place,",SOUTH MELBOURNE VIC 3205,House,4,2,1,224m² ,2022
+"3,170,000","355 Danks Street,",MIDDLE PARK VIC 3206,House,3,1,1,312m² ,2022
+"3,400,000","88 Armstrong Street,",MIDDLE PARK VIC 3206,House,4,1,−,303m² ,22 Oct 2022
+"1,078,000 ","42 Erskine Street,",NORTH MELBOURNE VIC 3051,House,2,1,1,149m² ,2022
+"3,475,000 ","519 Dryburgh Street,",NORTH MELBOURNE VIC 3051,House,6,2,2,449m² ,2022
+"1,955,000","3 Highbury Grove,",PRAHRAN VIC 3181,House,4,1,2,382m² ,2022
+"1,900,000","267 Highett Street,",RICHMOND VIC 3121,House,3,3,2,221m² ,2022
+"2,200,000","2 Park Avenue,",RICHMOND VIC 3121,House,4,2,1,320m² ,2022
+"1,780,000","86 Lord Street,",RICHMOND VIC 3121,House,3,1,−,253m² ,2022
+"2,805,000","76 Wellington Street,",ST KILDA VIC 3182,House,5,2,3,649m² ,2022
+"1,525,000 ","359 Burnley Street,",RICHMOND VIC 3121,House,2,1,1,214m² ,2022
+"1,700,000","37 Reed Street,",ALBERT PARK VIC 3206,House,2,1,1,146m² ,20 Oct 2022
+"2,540,000","37 Surrey Road,",SOUTH YARRA VIC 3141,House,3,3,2,245m² ,2022
+"3,850,000","31 Darling Street,",SOUTH YARRA VIC 3141,House,3,2,3,324m² ,19 Oct 2022
+"5,400,000","95 Hambleton Street,",MIDDLE PARK VIC 3206,House,4,3,1,363m² ,17 Oct 2022
+"2,505,000 ","277 Richardson Street,",MIDDLE PARK VIC 3206,House,2,1,1,186m² ,2022
+"2,450,000","2 Chomley Street,",PRAHRAN VIC 3181,House,4,1,2,897m² ,2022
+"1,535,000","96 Bendigo Street,",RICHMOND VIC 3121,House,2,1,−,208m² ,2022
+"1,235,000","172 Mary Street,",RICHMOND VIC 3121,House,2,1,−,199m² ,2022
+"3,500,000","290 Cecil Street,",SOUTH MELBOURNE VIC 3205,House,3,2,−,283m² ,2022
+"1,440,000 ","60 Octavia Street,",ST KILDA VIC 3182,House,3,1,−,201m² ,2022
+"7,935,000","63 St Vincent Place South,",ALBERT PARK VIC 3206,House,6,4,2,340m² ,2022
+"1,235,000","61 Fraser Street,",RICHMOND VIC 3121,House,2,1,1,151m² ,3 Oct 2022
+"1,675,000 ","39 Smith Street,",RICHMOND VIC 3121,House,3,2,2,248m² ,13 Oct 2022
+"1,420,000","14 Botherambo Street,",RICHMOND VIC 3121,House,3,2,1,176m² ,2 Oct 2022
+"4,860,000","3 Clifton Street,",RICHMOND VIC 3121,House,4,3,1,354m² ,11 Oct 2022
+"4,860,000","3 Clifton Street,",RICHMOND VIC 3121,House,4,3,1,354m² ,11 Oct 2022
+"1,945,000 ","8 Lyell Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,240m² ,2022
+"2,100,000","421 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,2,2,284m² ,2022
+"6,529,000","11 Mountain Street,",SOUTH MELBOURNE VIC 3205,House,5,3,2,560m² ,08 Oct 2022
+"1,300,000","56 Fawkner Street,",SOUTH YARRA VIC 3141,House,2,1,−,190m² ,2022
+"1,250,000","9 Greville Street,",PRAHRAN VIC 3181,House,3,1,−,182m² ,07 Oct 2022
+"1,250,000","10 Pridham Street,",PRAHRAN VIC 3181,House,3,1,−,155m² ,2022
+"1,200,000","24 Duke Street,",RICHMOND VIC 3121,House,3,2,−,127m² ,2022
+"1,280,000","93A Argo Street,",SOUTH YARRA VIC 3141,House,2,1,−,140m² ,2022
+"3,001,000 ","4 Erin Street,",RICHMOND VIC 3121,House,4,2,3,288m² ,29 Sep 2022
+"2,500,000","61 Osborne Street,",SOUTH YARRA VIC 3141,House,4,1,2,443m² ,23 Sep 2022
+"3,850,000","265 Richardson Street,",MIDDLE PARK VIC 3206,House,5,3,1,230m² ,22 Sep 2022
+"1,210,000","2B Francis Street,",PRAHRAN VIC 3181,House,3,2,1,157m² ,2022
+"1,500,000","32 Tudor Street,",RICHMOND VIC 3121,House,3,1,2,267m² ,19 Sep 2022
+"5,050,000","281 Richardson Street,",MIDDLE PARK VIC 3206,House,3,2,2,371m² ,2022
+"1,000,000 ","16 Leeds Street,",RICHMOND VIC 3121,House,2,1,−,214m² ,2022
+"3,140,000","44 York Street,",ST KILDA WEST VIC 3182,House,4,1,−,312m² ,2022
+"1,450,000","229 Adderley Street,",WEST MELBOURNE VIC 3003,House,3,1,−,263m² ,17 Sep 2022
+"2,525,000","196 Drummond Street,",CARLTON VIC 3053,House,4,4,1,251m² ,16 Sep 2022
+"1,404,800","13 Westbourne Street,",PRAHRAN VIC 3181,House,2,1,−,213m² ,16 Sep 2022
+"1,201,000","1 McKay Street,",RICHMOND VIC 3121,House,2,1,2,170m² ,2022
+"1,400,000","28 Medley Place,",SOUTH YARRA VIC 3141,House,2,1,3,223m² ,16 Sep 2022
+"1,449,000","65 Argyle Street,",ST KILDA VIC 3182,House,3,1,1,293m² ,15 Sep 2022
+"1,680,000","9 York Street,",RICHMOND VIC 3121,House,3,2,2,138m² ,2022
+"3,500,000","48 Park Place,",SOUTH YARRA VIC 3141,House,4,2,−,246m² ,2022
+"2,100,000","79 Lord Street,",RICHMOND VIC 3121,House,4,3,1,250m² ,12 Sep 2022
+"3,460,000","27 Greig Street,",ALBERT PARK VIC 3206,House,3,2,1,168m² ,10 Sep 2022
+"1,150,000","192 Canning Street,",CARLTON VIC 3053,House,2,1,1,147m² ,2022
+"2,750,000","269 Richardson Street,",MIDDLE PARK VIC 3206,House,3,3,1,225m² ,2022
+"3,850,000 ","24 Jessamine Avenue,",PRAHRAN VIC 3181,House,4,2,2,765m² ,2022
+"995,000","50 Canterbury Street,",RICHMOND VIC 3121,House,2,1,−,127m² ,10 Sep 2022
+"1,300,000","141 Surrey Road North,",SOUTH YARRA VIC 3141,House,3,1,−,231m² ,2022
+"2,400,000 ","17-19 Carroll Street,",NORTH MELBOURNE VIC 3051,House,5,3,−,284m² ,09 Sep 2022
+"2,100,000","44 Murphy Street,",RICHMOND VIC 3121,House,4,1,2,359m² ,2022
+"6,550,000","32 Murphy Street,",SOUTH YARRA VIC 3141,House,3,3,2,650m² ,05 Sep 2022
+"2,900,000","3 Hambleton Street,",ALBERT PARK VIC 3206,House,3,2,1,185m² ,2022
+"3,275,000","22 Madden Street,",ALBERT PARK VIC 3206,House,3,2,−,150m² ,2022
+"1,750,000","24 Hunter Street,",RICHMOND VIC 3121,House,4,2,1,302m² ,03 Sep 2022
+"2,020,000","14 Rowena Parade,",RICHMOND VIC 3121,House,4,1,−,311m² ,31 Aug 2022
+"1,220,000 ","27 Duke Street,",PRAHRAN VIC 3181,House,2,1,−,142m² ,2022
+"1,115,000","19 Richmond Terrace,",RICHMOND VIC 3121,House,2,1,2,130m² ,2022
+"1,295,000 ","37 Parkville Street,",RICHMOND VIC 3121,House,3,1,−,201m² ,2022
+"1,243,000 ","87 Hunter Street,",RICHMOND VIC 3121,House,3,2,1,104m² ,2022
+"1,681,000 ","21 Griffiths Street,",RICHMOND VIC 3121,House,3,1,2,363m² ,2022
+"1,290,000","8 Frampton Street,",ST KILDA VIC 3182,House,3,2,2,239m² ,2022
+"2,091,000","27 Ann Street,",PRAHRAN VIC 3181,House,3,1,−,300m² ,5 Aug 2022
+"1,350,000","51 Bayview Street,",PRAHRAN VIC 3181,House,2,1,−,126m² ,24 Aug 2022
+"2,055,000","5 Gertrude Street,",PRAHRAN VIC 3181,House,3,1,1,334m² ,2022
+"1,350,000","132 Brighton Street,",RICHMOND VIC 3121,House,4,1,1,212m² ,2022
+"1,495,000","19 Hambleton Street,",ALBERT PARK VIC 3206,House,2,1,−,148m² ,18 Aug 2022
+"1,240,000","62 York Street,",PRAHRAN VIC 3181,House,3,1,−,232m² ,15 Aug 2022
+"1,575,000 ","427 Burnley Street,",RICHMOND VIC 3121,House,4,1,3,395m² ,13 Aug 2022
+"2,835,000","68 Oban Street,",SOUTH YARRA VIC 3141,House,3,2,−,358m² ,2022
+"2,900,000","9 Page Street,",ALBERT PARK VIC 3206,House,4,1,2,240m² ,12 Aug 2022
+"1,450,000 ","12 Jackson Street,",RICHMOND VIC 3121,House,2,1,1,310m² ,9 Aug 2022
+"4,420,000","26 Hawksburn Road,",SOUTH YARRA VIC 3141,House,4,2,1,664m² ,2022
+"2,355,000 ","1 Perry Street,",SOUTH YARRA VIC 3141,House,3,1,2,307m² ,2022
+"1,545,000 ","70 Albion Street,",SOUTH YARRA VIC 3141,House,2,1,1,232m² ,2022
+"1,055,000 ","20 Barkly Street,",CARLTON VIC 3053,House,2,1,−,116m² ,05 Aug 2022
+"1,755,000","6 Affleck Street,",SOUTH YARRA VIC 3141,House,3,2,−,207m² ,03 Aug 2022
+"1,281,000","56 Gardner Street,",RICHMOND VIC 3121,Semi-detached,3,1,−,169m² ,2022
+"1,410,000 ","52 Glover Street,",SOUTH MELBOURNE VIC 3205,House,2,2,1,108m² ,26 Jul 2022
+"1,370,000","47 Egan Street,",RICHMOND VIC 3121,House,3,2,−,181m² ,23 Jul 2022
+"2,107,000","64 Bendigo Street,",RICHMOND VIC 3121,House,4,2,2,303m² ,20 Jul 2022
+"2,450,000","38 Stanley Street,",RICHMOND VIC 3121,House,5,1,3,367m² ,9 Jul 2022
+"2,700,000","437-441 Clarendon Street,",SOUTH MELBOURNE VIC 3205,House,4,2,1,245m² ,2022
+"1,345,000 ","7 Type Street,",RICHMOND VIC 3121,House,3,1,−,194m² ,15 Jul 2022
+"1,125,000","28 Bendigo Street,",PRAHRAN VIC 3181,House,3,1,2,238m² ,13 Jul 2022
+"2,150,000","19 Odessa Street,",ST KILDA VIC 3182,House,5,2,2,412m² ,2022
+"1,580,000","2 Mitchell Street,",ST KILDA VIC 3182,House,3,2,−,235m² ,10 Jul 2022
+"1,620,000","860-862 Swanston Street,",CARLTON VIC 3053,House,4,1,−,194m² ,09 Jul 2022
+"1,280,000","165 Coppin Street,",RICHMOND VIC 3121,House,3,1,2,222m² ,09 Jul 2022
+"2,395,000 ","20 Robe Street,",ST KILDA VIC 3182,House,2,1,2,336m² ,2022
+"1,850,000 ","358 Richardson Street,",MIDDLE PARK VIC 3206,House,3,1,−,165m² ,06 Jul 2022
+"3,490,000","36 Highbury Grove,",PRAHRAN VIC 3181,House,4,2,2,547m² ,06 Jul 2022
+"3,080,000","382 Church Street,",RICHMOND VIC 3121,House,4,1,4,511m² ,05 Jul 2022
+"3,250,000","73 Nimmo Street,",MIDDLE PARK VIC 3206,House,3,1,−,362m² ,04 Jul 2022
+"1,310,000","439 Punt Road,",RICHMOND VIC 3121,House,3,2,1,200m² ,4 Jul 2022
+"2,510,000","42a Langridge Street,",MIDDLE PARK VIC 3206,House,4,2,−,166m² ,02 Jul 2022
+"1,250,000","361 Burnley Street,",RICHMOND VIC 3121,House,2,1,2,209m² ,02 Jul 2022
+"950,000 ","20 Morris Street,",SOUTH MELBOURNE VIC 3205,House,1,1,−,101m² ,2022
+"1,340,000 ","414 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,167m² ,2022
+"1,270,000","3 Peel Street,",PRAHRAN VIC 3181,House,3,1,−,172m² ,30 Jun 2022
+"2,011,000","2 Ellesmere Road,",WINDSOR VIC 3181,House,2,1,4,467m² ,28 Jun 2022
+"1,705,000 ","17 Erskine Street,",ALBERT PARK VIC 3206,House,3,1,−,170m² ,2022
+"2,260,000","28 Trinian Street,",PRAHRAN VIC 3181,House,3,2,−,355m² ,2022
+"1,395,000 ","61 Acland Street,",ST KILDA VIC 3182,House,3,1,−,222m² ,3 Jun 2022
+"1,210,000","42 Elm Grove,",RICHMOND VIC 3121,House,2,1,−,209m² ,22 Jun 2022
+"3,010,000","54 Kerferd Road,",ALBERT PARK VIC 3206,House,2,2,1,200m² ,2022
+"3,375,000 ","71 Drummond Street,",CARLTON VIC 3053,House,4,2,2,173m² ,2022
+"1,730,000","136 Brighton Street,",RICHMOND VIC 3121,House,3,1,1,283m² ,2022
+"1,400,000","24 Wood Street,",NORTH MELBOURNE VIC 3051,House,3,1,1,190m² ,2022
+"5,800,000","76 Caroline Street,",SOUTH YARRA VIC 3141,House,3,2,2,380m² ,13 Jun 2022
+"1,240,000 ","67 Lyndhurst Street,",RICHMOND VIC 3121,House,2,1,1,190m² ,2022
+"1,700,000 ","96 Smith Street,",SOUTH MELBOURNE VIC 3205,House,3,1,−,146m² ,10 Jun 2022
+"4,645,000","383 Toorak Road,",SOUTH YARRA VIC 3141,House,3,3,6,"1,172m² ",08 Jun 2022
+"1,100,000","93 Elizabeth Street,",RICHMOND VIC 3121,House,3,1,3,202m² ,2022
+"5,500,000 ","65 Kerferd Road,",ALBERT PARK VIC 3206,House,5,3,2,467m² ,2022
+"4,920,000","22 Greig Street,",ALBERT PARK VIC 3206,House,4,2,2,324m² ,2022
+"1,301,000","47A Henry Street,",PRAHRAN VIC 3181,House,2,1,1,178m² ,2022
+"1,090,000 ","27 Murphy Street,",RICHMOND VIC 3121,House,2,1,1,167m² ,2022
+"1,535,000","37 Bell Street,",RICHMOND VIC 3121,House,3,1,−,228m² ,04 Jun 2022
+"1,952,000 ","54 Edinburgh Street,",RICHMOND VIC 3121,House,4,2,2,270m² ,2022
+"5,500,000 ","104 Kerferd Road,",ALBERT PARK VIC 3206,House,4,2,1,390m² ,28 May 2022
+"1,500,000 ","47 Pitt Street,",CARLTON VIC 3053,House,2,1,−,218m² ,2022
+"1,810,000","72 Hornby Street,",PRAHRAN VIC 3181,House,4,2,−,321m² ,2022
+"6,305,000","66 Tivoli Road,",SOUTH YARRA VIC 3141,House,4,3,2,594m² ,27 May 2022
+"1,600,000 ","402 Cardigan Street,",CARLTON VIC 3053,House,3,1,−,166m² ,26 May 2022
+"2,625,000","42 Hawksburn Road,",SOUTH YARRA VIC 3141,House,4,2,1,260m² ,25 May 2022
+"1,526,000","80 Clyde Street,",ST KILDA VIC 3182,House,2,1,1,215m² ,2022
+"1,400,000","7 Napier Place,",SOUTH MELBOURNE VIC 3205,House,2,1,−,150m² ,22 May 2022
+"2,539,500","37-39 Erskine Street,",NORTH MELBOURNE VIC 3051,House,3,1,−,556m² ,2022
+"3,400,000","43 Aberdeen Road,",PRAHRAN VIC 3181,House,4,3,2,347m² ,2022
+"1,560,000","34 Mountain Street,",SOUTH MELBOURNE VIC 3205,House,2,1,1,160m² ,21 May 2022
+"1,570,000","57 Hunter Street,",RICHMOND VIC 3121,House,2,1,1,304m² ,2022
+"1,470,000","20 Bank Street,",RICHMOND VIC 3121,House,3,1,1,310m² ,09 May 2022
+"1,250,000 ","8 Bell Street,",RICHMOND VIC 3121,House,3,1,−,222m² ,9 May 2022
+"1,500,000","18 Mary Street,",RICHMOND VIC 3121,House,3,1,−,218m² ,07 May 2022
+"1,315,000","337 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,186m² ,2022
+"2,900,000","189 Richardson Street,",MIDDLE PARK VIC 3206,House,3,2,−,188m² ,2022
+"1,925,000 ","11 The Crofts,",RICHMOND VIC 3121,House,3,1,2,202m² ,2022
+"10,100,000 ","30-31 Howe Crescent,",SOUTH MELBOURNE VIC 3205,House,5,4,2,699m² ,2022
+"1,295,000","431 Punt Road,",RICHMOND VIC 3121,House,3,1,1,200m² ,29 Apr 2022
+"2,255,000","11 Wordsworth Street,",ST KILDA VIC 3182,House,4,2,1,310m² ,25 Apr 2022
+"3,070,000 ","23 Odessa Street,",ST KILDA VIC 3182,House,4,3,1,417m² ,24 Apr 2022
+"3,350,000","57 Dundas Place,",ALBERT PARK VIC 3206,House,3,2,1,344m² ,2022
+"2,400,000 ","4 Irymple Avenue,",ST KILDA VIC 3182,House,4,3,2,485m² ,2022
+"2,890,000","28 Chatsworth Road,",PRAHRAN VIC 3181,House,4,3,2,310m² ,2022
+"2,680,000","52 Rockley Road,",SOUTH YARRA VIC 3141,House,3,2,2,446m² ,22 Apr 2022
+"1,005,000","50 Argyle Street,",ST KILDA VIC 3182,House,2,1,−,143m² ,22 Apr 2022
+"2,100,000","38 Farmer Street,",RICHMOND VIC 3121,House,3,1,4,316m² ,19 Apr 2022
+"1,960,000","41 Grey Street,",EAST MELBOURNE VIC 3002,House,3,1,−,189m² ,2022
+"1,355,000 ","4 Parkville Street,",BURNLEY VIC 3121,House,3,1,−,162m² ,09 Apr 2022
+"3,100,000","47 Murray St,",PRAHRAN VIC 3181,House,3,3,1,350m² ,09 Apr 2022
+"2,410,000","19 Andrew Street,",PRAHRAN VIC 3181,House,3,2,1,310m² ,2022
+"1,670,000 ","57 Type Street,",RICHMOND VIC 3121,House,3,1,4,318m² ,2022
+"2,260,000 ","1 Tanner Street,",RICHMOND VIC 3121,House,3,3,2,262m² ,09 Apr 2022
+"1,612,000","13 Blazey Street,",RICHMOND VIC 3121,House,4,1,3,380m² ,2022
+"3,275,000 ","123 Richmond Terrace,",RICHMOND VIC 3121,House,3,2,1,235m² ,2022
+"2,725,000 ","9 Foster Avenue,",ST KILDA VIC 3182,House,4,2,2,526m² ,2022
+"3,325,000","69 Patterson Street,",MIDDLE PARK VIC 3206,House,4,2,−,436m² ,08 Apr 2022
+"3,800,000","48 Tivoli Road,",SOUTH YARRA VIC 3141,House,3,2,2,438m² ,08 Apr 2022
+"2,290,000 ","4 Union Street,",SOUTH MELBOURNE VIC 3205,House,1,1,−,139m² ,2022
+"10,450,000","51 Grey Street,",ST KILDA VIC 3182,House,10,4,18,"2,203m² ",07 Apr 2022
+"2,940,000 ","1 Jessamine Avenue,",PRAHRAN VIC 3181,House,4,3,2,429m² ,06 Apr 2022
+"2,020,000","10 Erica Street,",PRAHRAN VIC 3181,House,4,1,−,270m² ,2022
+"5,380,000","181 Page Street,",MIDDLE PARK VIC 3206,House,4,2,1,300m² ,2022
+"1,445,000 ","3 Manningham Street,",PARKVILLE VIC 3052,House,3,2,−,228m² ,2022
+"1,650,000","25 Andrew Street,",PRAHRAN VIC 3181,House,4,1,1,233m² ,2022
+"1,665,000","282-284 Burnley Street,",RICHMOND VIC 3121,House,3,2,1,319m² ,02 Apr 2022
+"3,250,000 ","186 Coppin Street,",RICHMOND VIC 3121,House,3,2,4,549m² ,2022
+"1,837,500","4A Odessa Street,",ST KILDA VIC 3182,House,3,2,2,261m² ,2022
+"3,090,000 ","4 Robertson Avenue,",ST KILDA VIC 3182,House,4,1,2,622m² ,2022
+"2,110,000 ","12 Merton Place,",ALBERT PARK VIC 3206,House,2,1,1,199m² ,2022
+"6,675,000","351 Richardson Street,",MIDDLE PARK VIC 3206,House,4,3,2,370m² ,2022
+"4,255,000","10 Closeburn Avenue,",PRAHRAN VIC 3181,House,4,2,3,557m² ,28 Mar 2022
+"3,650,000","34b Marine Parade,",ST KILDA VIC 3182,House,4,3,4,330m² ,28 Mar 2022
+"4,450,000","16 St Vincent Place North,",ALBERT PARK VIC 3206,House,3,2,2,257m² ,2022
+"2,650,000","386 Richardson Street,",MIDDLE PARK VIC 3206,House,3,2,2,230m² ,2022
+"2,010,000","105 Neville Street,",MIDDLE PARK VIC 3206,House,3,1,−,228m² ,2022
+"1,800,000 ","16 Lothian Street,",NORTH MELBOURNE VIC 3051,House,3,2,1,120m² ,2022
+"2,810,000 ","83 Richmond Terrace,",RICHMOND VIC 3121,House,4,2,1,305m² ,2022
+"1,490,000 ","8 Tribe Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,211m² ,2022
+"3,300,000","61 Hambleton Street,",MIDDLE PARK VIC 3206,House,4,2,−,290m² ,25 Mar 2022
+"2,630,000","13a Chambers Street,",SOUTH YARRA VIC 3141,House,3,3,2,250m² ,25 Mar 2022
+"1,825,000 ","63 Williams Road,",WINDSOR VIC 3181,House,3,2,2,257m² ,22 Mar 2022
+"1,351,000","68 Lambert Street,",RICHMOND VIC 3121,House,4,1,1,234m² ,21 Mar 2022
+"1,450,000 ","67 Brighton Street,",RICHMOND VIC 3121,House,2,1,1,191m² ,2022
+"4,390,000 ","402 Richardson Street,",MIDDLE PARK VIC 3206,House,4,1,2,340m² ,2022
+"1,463,000","31 Kelso Street,",RICHMOND VIC 3121,House,3,1,−,220m² ,17 Mar 2022
+"2,535,000","277 Moray Street,",SOUTH MELBOURNE VIC 3205,House,4,2,1,273m² ,11 Mar 2022
+"1,280,000 ","71 Somerset Street,",RICHMOND VIC 3121,House,3,1,1,182m² ,10 Mar 2022
+"4,975,000","84 Powlett Street,",EAST MELBOURNE VIC 3002,House,4,2,2,227m² ,08 Mar 2022
+"1,380,000 ","41 Mills Street,",ALBERT PARK VIC 3206,House,2,1,−,138m² ,2022
+"2,800,000 ","58 Grattan Street,",CARLTON VIC 3053,House,2,1,1,265m² ,2022
+"4,400,000","26 Jessamine Avenue,",PRAHRAN VIC 3181,House,4,3,2,862m² ,2022
+"2,450,000","25 Charles Street,",PRAHRAN VIC 3181,House,3,2,2,382m² ,2022
+"1,240,000 ","6 Brougham Street,",RICHMOND VIC 3121,House,3,1,−,197m² ,2022
+"1,500,000 ","7 Woodlawn Street,",RICHMOND VIC 3121,House,3,2,−,169m² ,2022
+"1,260,000","11 Richmond Terrace,",RICHMOND VIC 3121,House,2,1,−,164m² ,2022
+"5,360,000","31 Fawkner Street,",SOUTH YARRA VIC 3141,House,4,2,2,567m² ,2022
+"2,615,000","22 Macfarlan Street,",SOUTH YARRA VIC 3141,House,3,2,2,230m² ,2022
+"1,700,000 ","39 Hawke Street,",WEST MELBOURNE VIC 3003,House,4,1,2,211m² ,2022
+"3,050,000","364 Richardson Street,",MIDDLE PARK VIC 3206,House,3,1,1,210m² ,02 Mar 2022
+"2,040,000","42B Adams Street,",SOUTH YARRA VIC 3141,House,4,2,1,216m² ,28 Feb 2022
+"3,000,000","5 Closeburn Avenue,",PRAHRAN VIC 3181,House,4,2,1,446m² ,27 Feb 2022
+"1,565,000","8 Crimea Street,",RICHMOND VIC 3121,House,2,1,−,168m² ,2022
+"2,380,000","62 Murray Street,",PRAHRAN VIC 3181,House,3,2,−,311m² ,2022
+"1,600,000 ","100 Graham Street,",ALBERT PARK VIC 3206,House,2,1,1,131m² ,2022
+"1,880,000","10 Bunjil Way,",PARKVILLE VIC 3052,House,5,3,2,511m² ,24 Feb 2022
+"2,200,000","208 Coppin Street,",RICHMOND VIC 3121,House,4,2,−,253m² ,3 Feb 2022
+"4,487,500","79 Nimmo Street,",MIDDLE PARK VIC 3206,House,4,3,−,357m² ,22 Feb 2022
+"1,960,000 ","138-142 Cobden Street,",SOUTH MELBOURNE VIC 3205,House,3,1,2,230m² ,2022
+"3,700,000 ","44 Moubray Street,",ALBERT PARK VIC 3206,House,2,2,2,240m² ,2022
+"5,875,000","3-5 Dundas Lane,",ALBERT PARK VIC 3206,House,4,3,2,520m² ,2022
+"3,190,000","1 Ashworth Street,",ALBERT PARK VIC 3206,House,4,2,2,306m² ,2022
+"6,735,000","31 Canterbury Road,",MIDDLE PARK VIC 3206,House,5,3,3,505m² ,2022
+"7,200,000","56 Nimmo Street,",MIDDLE PARK VIC 3206,House,4,2,1,421m² ,2022
+"3,990,000","23 Highett Street,",RICHMOND VIC 3121,House,4,3,2,380m² ,2022
+"4,550,000","43 Airlie Avenue,",PRAHRAN VIC 3181,House,4,3,1,594m² ,2022
+"2,375,000 ","8 Glover Street,",SOUTH MELBOURNE VIC 3205,House,3,1,−,266m² ,2022
+"2,325,000 ","1 Nimmo Street,",MIDDLE PARK VIC 3206,House,3,1,−,207m² ,2022
+"850,000 ","57 Hoddle Street,",RICHMOND VIC 3121,House,3,1,1,168m² ,2022
+"850,000 ","59 Hoddle Street,",RICHMOND VIC 3121,House,3,1,1,168m² ,05 Feb 2022
+"3,150,000","29 Philipson Street,",ALBERT PARK VIC 3206,House,3,2,1,225m² ,15 Jan 2022
+"1,970,000","41 Finlay Street,",ALBERT PARK VIC 3206,House,2,1,−,172m² ,2022
+"1,350,000 ","43 Murphy Street,",RICHMOND VIC 3121,House,2,1,1,200m² ,04 Jan 2022
+"990,000","34 Shelley Street,",RICHMOND VIC 3121,House,4,1,−,343m² ,30 Dec 2021
+"1,500,000 ","11 Sauvage Street,",PARKVILLE VIC 3052,House,5,2,4,365m² ,24 Dec 2021
+"850,000","61 Hoddle Street,",RICHMOND VIC 3121,House,3,1,1,168m² ,4 Dec 2021
+"4,650,000","262 Albert Road,",SOUTH MELBOURNE VIC 3205,House,4,2,4,452m² ,23 Dec 2021
+"1,400,000 ","6 Dinsdale Street,",ALBERT PARK VIC 3206,House,2,1,−,119m² ,2021
+"1,775,000","154 Canning Street,",CARLTON VIC 3053,House,2,1,1,194m² ,2021
+"5,050,000","5 Stanley Street,",RICHMOND VIC 3121,House,4,3,2,569m² ,2021
+"4,150,000 ","41 Bridport Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,306m² ,2021
+"2,800,000 ","14 Henderson Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,260m² ,2021
+"1,100,000","22 Smith Street,",RICHMOND VIC 3121,House,3,1,−,151m² ,17 Dec 2021
+"1,685,000","24 Elm Grove,",RICHMOND VIC 3121,House,4,2,−,203m² ,2021
+"1,750,000","374 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,2,2,443m² ,17 Dec 2021
+"4,430,000","47 Finlay Street,",ALBERT PARK VIC 3206,House,4,4,1,219m² ,15 Dec 2021
+"1,480,000","52 Byron Street,",NORTH MELBOURNE VIC 3051,House,3,3,2,213m² ,13 Dec 2021
+"1,610,000","12 Bowen Street,",PRAHRAN VIC 3181,House,2,1,1,214m² ,2021
+"1,800,000 ","377 Park Street,",SOUTH MELBOURNE VIC 3205,House,4,1,−,215m² ,13 Dec 2021
+"1,857,000 ","15 Bendigo Street,",RICHMOND VIC 3121,House,3,1,2,224m² ,12 Dec 2021
+"2,010,000","51 Greig Street,",ALBERT PARK VIC 3206,House,2,1,1,162m² ,2021
+"2,580,000","35 Leslie Street,",RICHMOND VIC 3121,House,3,2,1,245m² ,2021
+"1,250,000","28 Cutter Street,",RICHMOND VIC 3121,House,3,1,1,171m² ,2021
+"1,510,000","12 Moorhouse Street,",RICHMOND VIC 3121,House,2,1,1,182m² ,2021
+"2,360,000","15 Glover Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,250m² ,2021
+"2,550,000 ","47 Clyde Street,",ST KILDA VIC 3182,House,4,2,2,335m² ,2021
+"7,025,000","35 Fawkner Street,",SOUTH YARRA VIC 3141,House,4,2,4,580m² ,09 Dec 2021
+"7,025,000","35 Fawkner Street,",SOUTH YARRA VIC 3141,House,4,2,4,580m² ,09 Dec 2021
+"2,350,000","46 Morrah Street,",PARKVILLE VIC 3052,House,4,2,1,171m² ,2021
+"7,330,000 ","23 Howe Crescent,",SOUTH MELBOURNE VIC 3205,House,5,3,3,529m² ,06 Dec 2021
+"2,950,000","29 Canning Street,",NORTH MELBOURNE VIC 3051,House,5,2,1,353m² ,2021
+"1,920,000","28 Alexandra Street,",SOUTH YARRA VIC 3141,House,1,2,−,178m² ,05 Dec 2021
+"1,610,000","49 Moore Street,",SOUTH YARRA VIC 3141,House,2,1,−,165m² ,05 Dec 2021
+"9,175,000 ","20 Moubray Street,",ALBERT PARK VIC 3206,House,4,2,1,360m² ,2021
+"2,005,500 ","38 Reed Street,",ALBERT PARK VIC 3206,House,3,1,−,172m² ,2021
+"1,900,000","6 Finlay Street,",ALBERT PARK VIC 3206,House,2,1,−,149m² ,2021
+"1,585,000 ","39 Crown Street,",RICHMOND VIC 3121,House,3,1,3,385m² ,2021
+"2,185,000","88 Kent Street,",RICHMOND VIC 3121,House,3,1,2,334m² ,2021
+"1,375,000","12 Stillman Street,",RICHMOND VIC 3121,House,2,1,1,278m² ,2021
+"4,650,000","16 Howe Crescent,",SOUTH MELBOURNE VIC 3205,House,4,2,2,290m² ,2021
+"2,550,000 ","13 Madden Street,",ALBERT PARK VIC 3206,House,3,1,−,180m² ,2021
+"2,325,000","4 Mitford Street,",ST KILDA VIC 3182,House,4,2,1,414m² ,2021
+"1,971,000","31 Charles Street,",RICHMOND VIC 3121,House,3,1,−,284m² ,2021
+"1,457,000","11 Nottingham Street,",PRAHRAN VIC 3181,House,2,1,−,166m² ,2021
+"1,985,000","138 Kent Street,",RICHMOND VIC 3121,House,4,1,1,345m² ,1 Dec 2021
+"1,852,000","10 Brougham Street,",RICHMOND VIC 3121,House,3,1,1,254m² ,2021
+"6,050,000","50 Rockley Road,",SOUTH YARRA VIC 3141,House,4,3,4,"1,000m² ",01 Dec 2021
+"1,440,000","40 Alfred Street,",NORTH MELBOURNE VIC 3051,House,4,2,−,325m² ,30 Nov 2021
+"5,125,000","110 Merton Street,",ALBERT PARK VIC 3206,House,4,2,1,300m² ,2021
+"9,800,000 ","76 Armstrong Street,",MIDDLE PARK VIC 3206,House,4,3,2,650m² ,2021
+"1,380,000 ","25 Carroll Street,",NORTH MELBOURNE VIC 3051,House,2,1,1,139m² ,2021
+"2,540,000","4 Newry Street,",RICHMOND VIC 3121,House,3,2,−,243m² ,2021
+"1,730,000","87 Neptune Street,",RICHMOND VIC 3121,House,3,1,2,229m² ,2021
+"1,225,000","3 Buckingham Street,",RICHMOND VIC 3121,House,3,2,−,170m² ,25 Nov 2021
+"1,800,000 ","8 Somerset Street,",ST KILDA VIC 3182,House,3,2,2,324m² ,4 Nov 2021
+"1,660,000","42 Aberdeen Road,",PRAHRAN VIC 3181,House,2,1,1,204m² ,2021
+"2,400,000","2 Grattan Place,",RICHMOND VIC 3121,House,3,2,1,308m² ,23 Nov 2021
+"1,940,000","60 Neill Street,",CARLTON VIC 3053,House,3,1,1,232m² ,2021
+"1,940,000","60 Neill Street,",CARLTON VIC 3053,House,3,1,1,232m² ,2021
+"1,502,000","368 Punt Road,",SOUTH YARRA VIC 3141,House,3,1,1,238m² ,2021
+"3,437,500","1 Pollington Street,",ST KILDA VIC 3182,House,4,2,1,537m² ,2021
+"1,385,000","151 Napier Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,145m² ,19 Nov 2021
+"1,225,000 ","5 Albert Street,",PRAHRAN VIC 3181,House,3,1,−,151m² ,18 Nov 2021
+"4,350,000","92 Bridport Street,",ALBERT PARK VIC 3206,House,4,1,4,323m² ,2021
+"1,756,000","22 Leslie Street,",RICHMOND VIC 3121,House,3,1,1,266m² ,2021
+"2,020,000","25 Buckingham Street,",RICHMOND VIC 3121,House,3,1,3,335m² ,17 Nov 2021
+"2,404,000 ","131-133 Station Street,",CARLTON VIC 3053,House,3,3,1,261m² ,2021
+"1,975,000","15 Nimmo Street,",MIDDLE PARK VIC 3206,House,2,2,−,150m² ,2021
+"1,575,000 ","1 Hollick Street,",RICHMOND VIC 3121,House,3,1,1,300m² ,2021
+"4,902,500","209 Canterbury Road,",ST KILDA WEST VIC 3182,House,5,3,2,468m² ,2021
+"1,630,000 ","131 Peel Street,",WINDSOR VIC 3181,House,2,1,−,167m² ,2021
+"1,750,000 ","69 Chapel Street,",ST KILDA VIC 3182,House,3,1,2,369m² ,12 Nov 2021
+"3,100,000","12 Gurner Street,",ST KILDA VIC 3182,House,4,2,2,507m² ,12 Nov 2021
+"1,950,000","595 King Street,",WEST MELBOURNE VIC 3003,Terrace,6,1,−,223m² ,2 Nov 2021
+"1,610,000","2 College Place,",ALBERT PARK VIC 3206,House,3,2,−,101m² ,2021
+"8,085,000","97-105 Rathdowne Street,",CARLTON VIC 3053,House,5,1,8,"1,172m² ",2021
+"1,621,000","26 Leveson Street,",NORTH MELBOURNE VIC 3051,House,4,2,−,133m² ,10 Nov 2021
+"1,900,000","288 - 290 Ferrars Street,",SOUTH MELBOURNE VIC 3205,House,4,1,−,380m² ,09 Nov 2021
+"1,390,000","39 SURREY ROAD,",SOUTH YARRA VIC 3141,House,3,2,−,200m² ,08 Nov 2021
+"2,070,000","51 Lang Street,",SOUTH YARRA VIC 3141,House,2,1,1,253m² ,2021
+"1,730,000","112 Drummond Street,",CARLTON VIC 3053,House,3,2,−,127m² ,2021
+"2,400,000","31 Newry Street,",WINDSOR VIC 3181,House,3,1,2,483m² ,2021
+"1,875,000","29 WILLIAMS ROAD,",WINDSOR VIC 3181,House,3,2,3,422m² ,6 Nov 2021
+"2,252,000","334 Punt Road,",SOUTH YARRA VIC 3141,House,3,2,2,510m² ,04 Nov 2021
+"1,775,000","35 Newry Street,",WINDSOR VIC 3181,House,3,1,−,310m² ,04 Nov 2021
+"5,850,000 ","39 Cardigan Place,",ALBERT PARK VIC 3206,House,5,3,2,308m² ,2021
+"1,560,000 ","81 Erin Street,",RICHMOND VIC 3121,House,2,1,−,192m² ,2021
+"2,129,000 ","49 Highett Street,",RICHMOND VIC 3121,House,3,1,3,463m² ,29 Oct 2021
+"2,700,000 ","6 Donald Street,",PRAHRAN VIC 3181,House,4,2,3,340m² ,8 Oct 2021
+"1,410,000","34 Duke Street,",PRAHRAN VIC 3181,House,2,1,−,189m² ,2021
+"1,255,000","41 Cobden Street,",SOUTH MELBOURNE VIC 3205,House,2,2,−,85m² ,27 Oct 2021
+"1,400,000 ","26 Lothian Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,132m² ,2021
+"3,230,000","22 Tivoli Road,",SOUTH YARRA VIC 3141,House,4,3,4,260m² ,25 Oct 2021
+"2,715,000","69 Osborne Street,",SOUTH YARRA VIC 3141,House,3,2,1,295m² ,2021
+"1,850,000","150 Lorimer Street,",DOCKLANDS VIC 3008,House,3,3,3,132m² ,24 Oct 2021
+"7,725,000","150 Kerferd Road,",ALBERT PARK VIC 3206,House,5,4,2,466m² ,2021
+"3,475,000","30 Boyd Street,",ALBERT PARK VIC 3206,House,3,3,−,260m² ,2021
+"2,400,000","2/198 Kerferd Road,",ALBERT PARK VIC 3206,House,3,1,1,285m² ,2021
+"2,590,000 ","19 Mitchell Street,",ST KILDA VIC 3182,House,4,1,1,431m² ,22 Oct 2021
+"1,705,000","41 Leslie Street,",RICHMOND VIC 3121,House,3,1,3,383m² ,2021
+"957,000 ","122 Melrose Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,115m² ,20 Oct 2021
+"1,279,000","6 Glenmark Avenue,",ST KILDA VIC 3182,House,2,2,−,170m² ,2021
+"1,450,000","69 Princes Street,",PRAHRAN VIC 3181,House,3,1,1,200m² ,2021
+"2,080,000 ","47 Highett Street,",RICHMOND VIC 3121,House,3,1,3,463m² ,9 Oct 2021
+"1,510,000","5 Bunalbo Avenue,",SOUTH YARRA VIC 3141,House,2,1,−,170m² ,2021
+"4,550,000","54 Armstrong Street,",MIDDLE PARK VIC 3206,House,4,2,−,331m² ,2021
+"1,295,000","504 Dryburgh Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,147m² ,2021
+"1,485,000 ","66 Fraser Street,",RICHMOND VIC 3121,House,2,1,−,205m² ,2021
+"2,850,000","90 River Street,",SOUTH YARRA VIC 3141,House,3,2,2,211m² ,16 Oct 2021
+"2,900,000","158 Powlett Street,",EAST MELBOURNE VIC 3002,House,3,2,1,173m² ,5 Oct 2021
+"2,595,000","25a Murray Street,",PRAHRAN VIC 3181,House,3,2,2,212m² ,2021
+"1,942,000","22 Little Cardigan Street,",CARLTON VIC 3053,House,2,1,1,141m² ,2021
+"2,350,000","56 Wrights Terrace,",PRAHRAN VIC 3181,House,3,2,−,280m² ,2021
+"4,510,000","41 Closeburn Avenue,",PRAHRAN VIC 3181,House,5,3,2,509m² ,14 Oct 2021
+"2,475,000","4 Walter Street,",SOUTH YARRA VIC 3141,House,3,2,2,260m² ,14 Oct 2021
+"4,000,000","105 Hotham Street,",EAST MELBOURNE VIC 3002,House,3,3,1,295m² ,3 Oct 2021
+"4,665,000","44 Tivoli Road,",SOUTH YARRA VIC 3141,House,3,2,2,438m² ,2021
+"1,400,000","212 Coppin Street,",RICHMOND VIC 3121,House,2,2,1,247m² ,2021
+"3,200,000","3 Fawkner Street,",SOUTH YARRA VIC 3141,House,3,2,−,278m² ,12 Oct 2021
+"2,300,000","19 Lyell Street,",SOUTH MELBOURNE VIC 3205,House,3,2,2,207m² ,2021
+"1,330,000 ","60 Brighton Street,",RICHMOND VIC 3121,House,3,1,1,224m² ,2021
+"2,551,000 ","6 Mozart Street,",ST KILDA VIC 3182,House,4,1,−,380m² ,27 Sep 2021
+"10,700,000","23 Como Avenue,",SOUTH YARRA VIC 3141,House,5,3,2,"1,210m² ",26 Sep 2021
+"2,250,000 ","45A Langridge Street,",MIDDLE PARK VIC 3206,House,3,1,1,202m² ,2021
+"3,037,000","16 Merton Street,",ALBERT PARK VIC 3206,House,3,1,−,238m² ,2021
+"1,550,000","253 Barkly Street,",ST KILDA VIC 3182,House,3,1,1,241m² ,0 Sep 2021
+"1,675,000 ","587 King Street,",WEST MELBOURNE VIC 3003,House,2,1,1,167m² ,2021
+"2,275,000 ","187 Park Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,144m² ,10 Sep 2021
+"2,520,000 ","192 Napier Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,194m² ,2021
+"1,760,000","118 Kent Street,",RICHMOND VIC 3121,House,3,2,2,180m² ,2021
+"1,375,000 ","56 Farmer Street,",RICHMOND VIC 3121,House,2,1,1,138m² ,2021
+"2,915,000 ","21 Alexandra Street,",SOUTH YARRA VIC 3141,House,4,2,3,287m² ,2021
+"2,150,000","43 Richmond Terrace,",RICHMOND VIC 3121,House,3,1,2,270m² ,2021
+"1,238,500","11 Barrow Place,",RICHMOND VIC 3121,House,3,2,3,257m² ,2021
+"2,355,000","492 High Street,",PRAHRAN VIC 3181,House,3,1,2,470m² ,2021
+"986,000","70 Elm Street,",NORTH MELBOURNE VIC 3051,Semi-detached,2,1,−,133m² ,7 Aug 2021
+"1,850,000","5 Albert Street,",EAST MELBOURNE VIC 3002,House,3,2,2,191m² ,2021
+"1,935,000","169 Danks Street,",ALBERT PARK VIC 3206,House,2,1,−,165m² ,2021
+"1,687,500","543 Swan Street,",RICHMOND VIC 3121,House,3,1,1,210m² ,2021
+"1,735,000 ","154 Pickles Street,",SOUTH MELBOURNE VIC 3205,House,4,1,2,270m² ,2021
+"1,955,000 ","7 Cunningham Street,",SOUTH YARRA VIC 3141,House,2,1,−,202m² ,2021
+"890,000 ","67 Leveson Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,96m² ,30 Jul 2021
+"2,500,000","173 Park Drive,",PARKVILLE VIC 3052,House,5,2,1,156m² ,2021
+"1,685,000","11 Mitchell Street,",RICHMOND VIC 3121,House,3,1,−,154m² ,3 Jul 2021
+"1,045,000 ","38 Curran Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,160m² ,22 Jul 2021
+"1,500,000","9 Kelso Street,",RICHMOND VIC 3121,House,3,2,1,166m² ,22 Jul 2021
+"2,400,000","50 Adam Street,",RICHMOND VIC 3121,House,3,2,2,274m² ,2021
+"1,400,000","31 Kelso Street,",RICHMOND VIC 3121,House,3,2,−,220m² ,2021
+"1,472,500 ","620 Bridge Road,",RICHMOND VIC 3121,House,3,2,2,304m² ,2021
+"1,650,000","13 Mountain Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,165m² ,8 Jul 2021
+"2,670,000 ","5 Mills Street,",ALBERT PARK VIC 3206,House,3,1,1,290m² ,07 Jul 2021
+"748,888","3B Haines Street,",NORTH MELBOURNE VIC 3051,House,3,2,2,100m² ,07 Jul 2021
+"5,875,000","1 Como Avenue,",SOUTH YARRA VIC 3141,House,5,2,3,842m² ,07 Jul 2021
+"3,000,000","49 Nicholson Street,",SOUTH YARRA VIC 3141,House,4,2,2,302m² ,2021
+"2,380,000","91 Spenser Street,",ST KILDA VIC 3182,House,4,1,1,310m² ,07 Jul 2021
+"1,500,000","21 Highbury Grove,",PRAHRAN VIC 3181,House,4,1,2,654m² ,2021
+"3,350,000","68 Wrights Terrace,",PRAHRAN VIC 3181,House,4,1,1,580m² ,2021
+"1,960,000","65 Buckingham Street,",RICHMOND VIC 3121,House,3,1,1,273m² ,2021
+"6,700,000","119 Ashworth Street,",ALBERT PARK VIC 3206,House,2,2,2,703m² ,30 Jun 2021
+"2,200,000","11 Benson Street,",RICHMOND VIC 3121,House,3,2,−,201m² ,2021
+"3,500,000","142 Kerferd Road,",ALBERT PARK VIC 3206,House,4,2,1,432m² ,29 Jun 2021
+"4,100,000","16 Berry Street,",EAST MELBOURNE VIC 3002,Terrace,3,2,1,233m² ,28 Jun 2021
+"1,461,000 ","71 Neptune Street,",RICHMOND VIC 3121,House,2,1,2,185m² ,2021
+"2,650,000","110 Buckingham Street,",RICHMOND VIC 3121,House,3,2,2,217m² ,2021
+"2,450,000","4 Strode Street,",RICHMOND VIC 3121,House,3,2,1,382m² ,21 Jun 2021
+"1,050,000 ","1-7 Church Street,",PARKVILLE VIC 3052,House,4,1,−,161m² ,17 Jun 2021
+"1,575,000 ","7 Queen Street,",RICHMOND VIC 3121,House,3,1,−,200m² ,2021
+"1,381,000","30 Medley Place,",SOUTH YARRA VIC 3141,House,2,1,2,222m² ,8 Jun 2021
+"2,525,000 ","2 Merton Place,",ALBERT PARK VIC 3206,House,3,1,1,232m² ,2021
+"1,313,000 ","414 Dryburgh Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,141m² ,2021
+"1,313,000 ","414 Dryburgh Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,141m² ,2021
+"1,160,000 ","7 Manchester Lane,",PARKVILLE VIC 3052,House,3,2,2,142m² ,05 Jun 2021
+"2,990,000 ","20 Ferrars Place,",SOUTH MELBOURNE VIC 3205,House,5,2,2,285m² ,05 Jun 2021
+"2,050,000","16 Oxford Street,",SOUTH YARRA VIC 3141,House,5,5,−,242m² ,05 Jun 2021
+"9,900,000 ","44 Merton Street,",ALBERT PARK VIC 3206,House,5,2,3,830m² ,2021
+"2,075,000 ","62 St Vincent Street,",ALBERT PARK VIC 3206,House,3,2,1,180m² ,3 Jun 2021
+"1,888,000","116 Surrey Road North,",SOUTH YARRA VIC 3141,House,3,2,−,184m² ,02 Jun 2021
+"1,253,000 ","37 Thomas Street,",WINDSOR VIC 3181,House,4,1,−,176m² ,31 May 2021
+"1,255,000 ","12 Charles Street,",CARLTON VIC 3053,House,2,1,−,112m² ,2021
+"2,700,000","51 Argyle Street,",ST KILDA VIC 3182,House,4,2,2,333m² ,2021
+"3,725,000","93 Harold Street,",MIDDLE PARK VIC 3206,House,2,1,3,382m² ,8 May 2021
+"1,550,000","253 Errol St,",NORTH MELBOURNE VIC 3051,House,3,2,1,183m² ,28 May 2021
+"2,610,000","16 Lalbert Crescent,",PRAHRAN VIC 3181,House,3,2,3,537m² ,28 May 2021
+"950,000 ","181 Melrose Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,98m² ,27 May 2021
+"920,000 ","18 Eureka Street,",RICHMOND VIC 3121,House,2,1,−,141m² ,7 May 2021
+"1,120,000 ","6 Peers Street,",RICHMOND VIC 3121,House,2,1,−,210m² ,2021
+"4,141,000","108 Harold Street,",MIDDLE PARK VIC 3206,House,3,2,2,414m² ,25 May 2021
+"2,373,000 ","12 Canterbury Road,",ALBERT PARK VIC 3206,House,2,1,2,277m² ,2021
+"1,220,000","231 Abbotsford Street,",NORTH MELBOURNE VIC 3051,House,3,1,1,123m² ,2021
+"1,775,000","1 McMicken Lane,",PRAHRAN VIC 3181,House,3,2,1,159m² ,2021
+"1,619,000 ","31 Tudor Street,",RICHMOND VIC 3121,House,3,1,2,302m² ,2021
+"910,000 ","54 Butler Street,",RICHMOND VIC 3121,House,2,1,−,168m² ,16 May 2021
+"4,200,000","339 Richardson Street,",MIDDLE PARK VIC 3206,House,4,1,2,367m² ,2021
+"1,530,000","434 Dryburgh Street,",NORTH MELBOURNE VIC 3051,House,3,1,1,192m² ,2021
+"1,830,000","48 Wrights Terrace,",PRAHRAN VIC 3181,House,2,1,−,279m² ,2021
+"1,155,000","291 Burnley Street,",RICHMOND VIC 3121,House,2,1,2,198m² ,2021
+"957,000 ","60 Davison Street,",RICHMOND VIC 3121,House,2,1,1,200m² ,14 May 2021
+"5,250,000","28 Eildon Road,",ST KILDA VIC 3182,House,5,2,4,632m² ,14 May 2021
+"1,330,000 ","3 Belgravia Street,",RICHMOND VIC 3121,House,3,1,−,219m² ,10 May 2021
+"1,800,000 ","3 Murphy Street,",NORTH MELBOURNE VIC 3051,House,4,2,1,231m² ,2021
+"2,201,000 ","162 Errol Street,",NORTH MELBOURNE VIC 3051,House,4,1,−,247m² ,2021
+"3,600,000","7-9 Macfarlan Street,",SOUTH YARRA VIC 3141,House,2,1,2,389m² ,07 May 2021
+"2,100,000 ","7 Fitzgerald Street,",SOUTH YARRA VIC 3141,House,4,2,1,355m² ,05 May 2021
+"4,875,000","38 Eildon Road,",ST KILDA VIC 3182,House,6,4,3,709m² ,04 May 2021
+"3,050,000","71 Brighton Street,",RICHMOND VIC 3121,House,4,2,4,666m² ,03 May 2021
+"1,807,500 ","23 Herbert Place,",ALBERT PARK VIC 3206,House,2,1,−,179m² ,2021
+"1,515,000","44 Johnson Street,",RICHMOND VIC 3121,House,3,1,2,220m² ,2021
+"2,720,000","97 Rowena Parade,",RICHMOND VIC 3121,House,4,3,1,338m² ,01 May 2021
+"2,200,000","47 Bennett Street,",RICHMOND VIC 3121,House,4,2,2,361m² ,2021
+"2,600,000 ","49 Church Street,",SOUTH MELBOURNE VIC 3205,House,4,2,1,234m² ,2021
+"3,005,000 ","104 Bridport Street,",ALBERT PARK VIC 3206,House,4,2,1,215m² ,2021
+"1,400,000","29 Raleigh Street,",PRAHRAN VIC 3181,House,2,1,1,172m² ,2021
+"2,088,000","504 Queensberry Street,",NORTH MELBOURNE VIC 3051,House,3,2,2,208m² ,2021
+"900,000 ","12 Harker Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,130m² ,21 Apr 2021
+"2,730,000 ","28 Acland Street,",ST KILDA VIC 3182,House,4,2,2,310m² ,18 Apr 2021
+"1,680,000 ","11 Herbert Street,",ALBERT PARK VIC 3206,House,2,2,−,105m² ,2021
+"1,455,000 ","438 Lygon Street,",CARLTON VIC 3053,House,4,1,2,155m² ,2021
+"1,350,000 ","91 Bank Street,",SOUTH MELBOURNE VIC 3205,House,3,2,−,158m² ,2021
+"1,740,000 ","357 Coventry Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,176m² ,2021
+"5,300,000","313 Park Street,",SOUTH MELBOURNE VIC 3205,House,5,2,2,482m² ,17 Apr 2021
+"1,140,000 ","61 Miller Street,",WEST MELBOURNE VIC 3003,House,2,1,−,156m² ,2021
+"2,100,000","55 Highbury Grove,",PRAHRAN VIC 3181,House,3,1,2,291m² ,2021
+"1,640,000","152 Pickles Street,",SOUTH MELBOURNE VIC 3205,House,3,2,2,240m² ,13 Apr 2021
+"8,600,000 ","244 Beaconsfield Parade,",MIDDLE PARK VIC 3206,House,5,3,6,600m² ,12 Apr 2021
+"1,250,000 ","200 Coppin Street,",RICHMOND VIC 3121,House,2,1,−,159m² ,2021
+"1,110,000 ","413 Punt Road (Cnr Blanche St),",RICHMOND VIC 3121,House,3,1,−,221m² ,2021
+"1,675,000 ","18 Martin Street,",SOUTH MELBOURNE VIC 3205,House,3,2,−,350m² ,07 Apr 2021
+"3,680,000","17 Mackay Street,",PRAHRAN VIC 3181,House,4,2,2,375m² ,31 Mar 2021
+"4,925,000","15A Charnwood Road,",ST KILDA VIC 3182,House,5,3,3,715m² ,2021
+"7,760,000","46-50 Adams Street,",SOUTH YARRA VIC 3141,House,5,4,4,927m² ,2021
+"4,207,500","17-19 Gipps Street,",EAST MELBOURNE VIC 3002,House,3,1,2,521m² ,29 Mar 2021
+"4,000,000 ","50 George Street,",EAST MELBOURNE VIC 3002,House,3,2,2,340m² ,2021
+"3,500,000 ","141 Simpson Street,",EAST MELBOURNE VIC 3002,House,3,2,2,280m² ,2021
+"2,180,000","11 Williams Road,",PRAHRAN VIC 3181,House,3,2,3,572m² ,2021
+"3,900,000","245 Coppin Street,",RICHMOND VIC 3121,House,4,2,1,404m² ,2021
+"1,420,000 ","78 Neptune Street,",RICHMOND VIC 3121,House,2,1,−,209m² ,2021
+"1,800,000 ","8-10 Allans Place,",RICHMOND VIC 3121,House,1,1,−,270m² ,2021
+"2,625,000","130 Cobden Street,",SOUTH MELBOURNE VIC 3205,House,4,2,1,222m² ,2021
+"1,770,000 ","8 Martin Street,",SOUTH MELBOURNE VIC 3205,House,3,1,−,223m² ,2021
+"1,953,000 ","17 Primrose Street,",WINDSOR VIC 3181,House,5,3,2,328m² ,2021
+"3,575,000 ","140 Canterbury Road,",MIDDLE PARK VIC 3206,House,4,3,1,373m² ,23 Mar 2021
+"2,020,000","7 Page Street,",ALBERT PARK VIC 3206,House,2,1,−,163m² ,2021
+"2,335,000","146 Canterbury Road,",MIDDLE PARK VIC 3206,House,3,1,2,277m² ,2021
+"2,250,000","29 Bowen Street,",RICHMOND VIC 3121,House,3,2,2,345m² ,2021
+"1,400,000 ","10 Lambert Street,",RICHMOND VIC 3121,House,3,1,3,290m² ,19 Mar 2021
+"7,435,000","79a Rowena Parade,",RICHMOND VIC 3121,House,3,3,2,450m² ,18 Mar 2021
+"1,460,000","95 Richmond Terrace,",RICHMOND VIC 3121,House,2,1,−,165m² ,7 Mar 2021
+"1,223,000","11 Little O' Grady Street,",ALBERT PARK VIC 3206,House,1,1,−,107m² ,2021
+"2,000,000 ","23 High Street,",PRAHRAN VIC 3181,House,3,1,2,358m² ,2021
+"1,625,000 ","14 Madden Grove,",RICHMOND VIC 3121,House,4,1,1,301m² ,13 Mar 2021
+"2,100,000","45 Surrey Road,",SOUTH YARRA VIC 3141,House,3,2,2,209m² ,2021
+"1,325,000 ","41 Withers Street,",ALBERT PARK VIC 3206,House,2,1,−,120m² ,12 Mar 2021
+"1,250,000 ","703 Spencer Street,",WEST MELBOURNE VIC 3003,House,4,1,1,130m² ,09 Mar 2021
+"1,600,000","166 Pickles Street,",SOUTH MELBOURNE VIC 3205,House,3,2,−,168m² ,2021
+"925,000","518 City Road,",SOUTH MELBOURNE VIC 3205,House,2,1,1,134m² ,06 Mar 2021
+"3,400,000 ","34 Canterbury Road,",MIDDLE PARK VIC 3206,House,4,2,2,307m² ,05 Mar 2021
+"3,375,000","36 Bridport Street,",SOUTH MELBOURNE VIC 3205,House,4,3,1,242m² ,04 Mar 2021
+"1,700,000","2 Cole Street,",RICHMOND VIC 3121,House,4,2,−,300m² ,01 Mar 2021
+"2,605,000 ","45 Canterbury Road,",MIDDLE PARK VIC 3206,House,3,2,−,180m² ,2021
+"2,225,000","58 Alfred Street,",PRAHRAN VIC 3181,House,3,1,1,325m² ,2021
+"4,520,000","370 Park Street,",SOUTH MELBOURNE VIC 3205,House,4,3,2,297m² ,2021
+"1,250,000 ","133 Kent Street,",RICHMOND VIC 3121,House,3,2,2,205m² ,25 Feb 2021
+"3,620,000 ","5 Boyd Street,",ALBERT PARK VIC 3206,House,4,2,1,285m² ,2021
+"3,606,000","109 Wright Street,",MIDDLE PARK VIC 3206,House,4,2,1,412m² ,2021
+"3,830,000","48 Larnook Street,",PRAHRAN VIC 3181,House,5,2,1,580m² ,20 Feb 2021
+"2,405,000","32 Nicholson Street,",SOUTH YARRA VIC 3141,House,3,2,−,343m² ,2021
+"4,000,000 ","1 St Vincent Place,",ALBERT PARK VIC 3206,House,4,3,1,320m² ,2 Feb 2021
+"2,120,000 ","8 Bennett Street,",RICHMOND VIC 3121,House,3,2,1,248m² ,2021
+"1,825,000","48 Lewisham Road,",PRAHRAN VIC 3181,House,2,2,−,240m² ,2021
+"1,860,000","126 Mills Street,",ALBERT PARK VIC 3206,House,2,1,−,170m² ,2021
+"1,360,000 ","48 Parkville Street,",RICHMOND VIC 3121,House,2,1,1,232m² ,05 Feb 2021
+"1,281,000 ","651 Queensberry Street,",NORTH MELBOURNE VIC 3051,House,3,1,−,94m² ,03 Feb 2021
+"2,950,000","17 Kerferd Place,",ALBERT PARK VIC 3206,House,2,1,1,280m² ,2021
+"1,546,000 ","10 Church Street,",PARKVILLE VIC 3052,House,3,2,1,251m² ,2021
+"1,275,000 ","46 Lord Street,",RICHMOND VIC 3121,House,3,1,−,192m² ,2021
+"5,600,000","44-46 Grey Street,",EAST MELBOURNE VIC 3002,House,4,4,1,538m² ,2021
+"1,206,000","217 Highett St,",RICHMOND VIC 3121,House,3,2,1,145m² ,19 Jan 2021
+"1,485,000","206 Punt Road,",PRAHRAN VIC 3181,House,3,2,2,400m² ,18 Jan 2021
+"1,645,000 ","77 Bendigo Street,",RICHMOND VIC 3121,House,3,1,1,300m² ,23 Dec 2020
+"1,352,000","122 Argyle Street,",ST KILDA VIC 3182,House,2,1,1,287m² ,23 Dec 2020
+"1,750,000","7 Edinburgh Street,",RICHMOND VIC 3121,House,3,1,−,230m² ,2020
+"1,945,000 ","44 Wellington Street,",RICHMOND VIC 3121,House,3,1,2,258m² ,2020
+"2,275,000","264 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,102m² ,19 Dec 2020
+"2,080,000","40 Powell Street,",SOUTH YARRA VIC 3141,House,3,2,−,334m² ,2020
+"4,000,000","15 Chatsworth Road,",PRAHRAN VIC 3181,House,3,3,2,306m² ,16 Dec 2020
+"1,715,000","157 Brighton Street,",RICHMOND VIC 3121,House,3,2,2,252m² ,15 Dec 2020
+"2,175,000","369 Danks Street,",MIDDLE PARK VIC 3206,House,3,1,1,278m² ,14 Dec 2020
+"1,890,000","66 Richardson Street,",ALBERT PARK VIC 3206,House,2,1,1,182m² ,13 Dec 2020
+"1,145,000 ","78 Baker Street,",RICHMOND VIC 3121,House,3,1,1,189m² ,2020
+"3,505,000 ","280 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,2,1,260m² ,2020
+"1,376,000 ","1 Odessa Street,",ST KILDA VIC 3182,House,4,1,−,375m² ,2020
+"851,500 ","79 Church Street,",RICHMOND VIC 3121,House,2,1,−,205m² ,2020
+"3,420,000","7 Loch Street,",ST KILDA WEST VIC 3182,House,5,2,1,510m² ,11 Dec 2020
+"1,162,500","7 Little Iffla Street,",SOUTH MELBOURNE VIC 3205,House,3,2,−,123m² ,2020
+"1,730,000","61 Newry Street,",PRAHRAN VIC 3181,House,3,1,1,222m² ,08 Dec 2020
+"1,650,000","499 Punt Road,",SOUTH YARRA VIC 3141,House,3,2,1,290m² ,08 Dec 2020
+"2,600,000 ","48 George Street,",EAST MELBOURNE VIC 3002,House,5,2,2,335m² ,07 Dec 2020
+"2,315,000","50 Mountain Street,",SOUTH MELBOURNE VIC 3205,House,4,3,1,199m² ,07 Dec 2020
+"1,031,000 ","3 Curran Place,",NORTH MELBOURNE VIC 3051,House,2,1,1,220m² ,2020
+"1,815,000","17 Andrew Street,",PRAHRAN VIC 3181,House,3,1,1,306m² ,2020
+"1,700,000 ","28 Johnson Street,",RICHMOND VIC 3121,House,3,1,−,237m² ,2020
+"1,980,000","90 Pakington Street,",ST KILDA VIC 3182,House,3,2,2,430m² ,2020
+"3,720,000","27 Mary Street,",ST KILDA WEST VIC 3182,House,5,3,2,250m² ,2020
+"2,140,000","57 Chomley Street,",PRAHRAN VIC 3181,House,3,2,−,217m² ,2020
+"2,837,500","23 Closeburn Avenue,",PRAHRAN VIC 3181,House,5,2,3,520m² ,03 Dec 2020
+"2,115,000","76 Chatsworth Road,",PRAHRAN VIC 3181,House,3,1,1,332m² ,2020
+"3,050,000","40 Leslie Street,",RICHMOND VIC 3121,House,3,2,2,385m² ,02 Dec 2020
+"1,885,000 ","40 Richardson Street,",ALBERT PARK VIC 3206,House,3,1,1,195m² ,2020
+"3,755,000","132 Canterbury Road,",MIDDLE PARK VIC 3206,House,4,3,1,376m² ,28 Nov 2020
+"3,620,000","20 Rotherwood Street,",RICHMOND VIC 3121,House,3,2,3,767m² ,2020
+"1,060,000","42 York Street,",RICHMOND VIC 3121,House,2,1,1,131m² ,28 Nov 2020
+"1,440,000 ","71 Cutter Street,",RICHMOND VIC 3121,House,3,2,2,215m² ,2020
+"1,757,000","94A Pickles Street,",SOUTH MELBOURNE VIC 3205,House,2,1,2,245m² ,2020
+"2,500,000","78 Bridport Street,",ALBERT PARK VIC 3206,House,3,2,−,152m² ,24 Nov 2020
+"1,875,000","4 Forster Street,",SOUTH YARRA VIC 3141,House,3,2,2,185m² ,2020
+"835,000 ","24 Nelson Street,",ST KILDA VIC 3182,House,2,1,1,120m² ,24 Nov 2020
+"3,900,000 ","56 Patterson Street,",MIDDLE PARK VIC 3206,House,3,3,2,394m² ,3 Nov 2020
+"1,639,000 ","237 Danks Street,",ALBERT PARK VIC 3206,House,3,1,−,154m² ,2020
+"1,405,000","17 Montgomery Street,",RICHMOND VIC 3121,House,2,2,−,192m² ,2020
+"1,856,000 ","428 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,4,3,1,135m² ,2020
+"1,805,000","31 Octavia Street,",ST KILDA VIC 3182,House,4,2,2,426m² ,2020
+"3,600,000","11 Charnwood Road,",ST KILDA VIC 3182,House,5,2,3,715m² ,17 Nov 2020
+"1,950,000","30 Nottingham Street,",PRAHRAN VIC 3181,House,4,2,1,270m² ,15 Nov 2020
+"4,315,000","36 Merton Street,",ALBERT PARK VIC 3206,House,4,3,2,245m² ,13 Nov 2020
+"2,950,000","50 Tivoli Road,",SOUTH YARRA VIC 3141,House,4,1,2,450m² ,10 Nov 2020
+"2,700,000 ","15 Manton Street,",RICHMOND VIC 3121,House,5,2,2,551m² ,09 Nov 2020
+"1,672,000","45 Banole Avenue,",PRAHRAN VIC 3181,House,3,1,−,202m² ,2020
+"1,350,000","12 Chambers Street,",SOUTH YARRA VIC 3141,House,2,1,1,140m² ,2020
+"2,965,000","385 Toorak Road,",SOUTH YARRA VIC 3141,House,3,2,2,580m² ,2020
+"1,257,000 ","54 Cutter Street,",RICHMOND VIC 3121,House,3,1,−,184m² ,2020
+"950,000 ","47 Miller Street,",WEST MELBOURNE VIC 3003,House,2,1,−,179m² ,27 Oct 2020
+"10,750,000","32 St Vincent Place North,",ALBERT PARK VIC 3206,House,6,4,3,632m² ,26 Oct 2020
+"1,435,000","43 Chomley Street,",PRAHRAN VIC 3181,House,3,1,1,240m² ,24 Oct 2020
+"900,000","12A Eastbourne Street,",WINDSOR VIC 3181,House,2,1,−,139m² ,2020
+"1,735,000","57 Albion Street,",SOUTH YARRA VIC 3141,House,3,2,2,225m² ,23 Oct 2020
+"2,000,000","79 Brighton Street,",RICHMOND VIC 3121,House,4,2,2,230m² ,19 Oct 2020
+"2,345,000","299 Barkly Street,",ST KILDA VIC 3182,House,4,3,2,538m² ,17 Oct 2020
+"4,400,000","24 Mitford Street,",ST KILDA VIC 3182,House,6,3,3,"1,104m² ",17 Oct 2020
+"2,825,000","11 Marlton Crescent,",ST KILDA VIC 3182,House,4,2,−,422m² ,16 Oct 2020
+"1,346,000","6 Florence Street,",PRAHRAN VIC 3181,House,2,1,2,250m² ,14 Oct 2020
+"2,010,000 ","122 Buckingham Street,",RICHMOND VIC 3121,House,3,2,1,237m² ,14 Oct 2020
+"1,370,000","62 Canterbury Street,",RICHMOND VIC 3121,House,3,1,1,150m² ,2020
+"1,895,000","15 Fawkner Street,",SOUTH YARRA VIC 3141,House,3,1,−,274m² ,10 Oct 2020
+"3,400,000","87 Harold Street,",MIDDLE PARK VIC 3206,House,3,1,2,382m² ,02 Oct 2020
+"1,150,000","30 Cameron Street,",RICHMOND VIC 3121,House,3,1,−,238m² ,28 Sep 2020
+"1,800,000 ","76 Bendigo Street,",RICHMOND VIC 3121,House,2,3,−,307m² ,22 Sep 2020
+"2,200,000","76 Cromwell Road,",SOUTH YARRA VIC 3141,House,3,2,1,267m² ,25 Aug 2020
+"1,940,000","15 Larnook Street,",PRAHRAN VIC 3181,House,3,1,2,420m² ,24 Aug 2020
+"1,685,000","2 Vail Street,",PRAHRAN VIC 3181,House,3,1,1,365m² ,17 Aug 2020
+"1,950,000","43 Richmond Terrace,",RICHMOND VIC 3121,House,2,1,3,270m² ,11 Aug 2020
+"6,301,000","11 St Leonards Avenue,",ST KILDA VIC 3182,House,5,3,1,697m² ,10 Aug 2020
+"4,960,000","5 Crimea Street,",ST KILDA VIC 3182,House,5,2,2,781m² ,08 Aug 2020
+"1,850,000","106 Punt Road,",PRAHRAN VIC 3181,House,3,2,1,350m² ,07 Aug 2020
+"2,325,000","21 Nicholson Street,",SOUTH YARRA VIC 3141,House,3,2,1,296m² ,06 Aug 2020
+"1,600,000","56 Rooney Street,",RICHMOND VIC 3121,House,3,2,1,202m² ,01 Aug 2020
+"6,460,000","52 Murray Street,",PRAHRAN VIC 3181,House,5,3,3,620m² ,29 Jul 2020
+"1,028,000 ","12A Chaucer Street,",ST KILDA VIC 3182,House,2,1,1,132m² ,29 Jul 2020
+"1,135,000 ","16 Thomas Street South,",WINDSOR VIC 3181,House,2,1,−,165m² ,27 Jul 2020
+"1,325,000 ","14 -16 Morris Street,",SOUTH MELBOURNE VIC 3205,House,3,2,−,209m² ,23 Jul 2020
+"1,265,000","66 Surrey Road,",SOUTH YARRA VIC 3141,House,2,1,−,193m² ,2020
+"1,725,000","131 Park Drive,",PARKVILLE VIC 3052,House,3,1,1,180m² ,21 Jul 2020
+"1,335,000","3 Hopetoun Grove,",SOUTH YARRA VIC 3141,House,3,2,−,239m² ,17 Jul 2020
+"6,628,000","49 Park Street,",SOUTH YARRA VIC 3141,House,5,3,2,400m² ,16 Jul 2020
+"2,100,000 ","15 Margaret Street,",SOUTH YARRA VIC 3141,House,4,2,−,400m² ,15 Jul 2020
+"2,200,000 ","3 Hull Street,",RICHMOND VIC 3121,House,4,2,2,464m² ,11 Jul 2020
+"1,035,000 ","9 Bennett Street,",RICHMOND VIC 3121,House,2,1,1,177m² ,2020
+"3,500,000 ","92 Bridport Street,",ALBERT PARK VIC 3206,House,4,1,4,316m² ,8 Jul 2020
+"1,805,000","98 Pickles Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,240m² ,2020
+"1,028,000 ","26 Bent Street,",RICHMOND VIC 3121,House,2,1,−,167m² ,03 Jul 2020
+"1,738,888","117 Charles Street,",PRAHRAN VIC 3181,House,3,1,1,223m² ,2020
+"1,698,000","6 Park Avenue,",RICHMOND VIC 3121,House,4,1,−,307m² ,30 Jun 2020
+"1,637,000","31 Closeburn Avenue,",PRAHRAN VIC 3181,House,4,1,−,320m² ,2020
+"975,000","37 Type Street,",RICHMOND VIC 3121,House,2,1,−,131m² ,5 Jun 2020
+"1,430,000","9 Pickford Street,",PRAHRAN VIC 3181,House,3,1,−,232m² ,22 Jun 2020
+"1,685,000 ","261 Danks Street,",MIDDLE PARK VIC 3206,House,2,1,1,154m² ,2020
+"1,175,000 ","38 Dorrit Street,",CARLTON VIC 3053,House,2,1,−,89m² ,19 Jun 2020
+"2,080,000","341 High Street,",PRAHRAN VIC 3181,House,7,4,3,518m² ,13 Jun 2020
+"5,375,000","210 Nelson Road,",SOUTH MELBOURNE VIC 3205,House,4,2,3,440m² ,2020
+"1,300,000","334 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,2,1,−,160m² ,2020
+"775,000 ","159 Errol Street,",NORTH MELBOURNE VIC 3051,House,2,1,−,69m² ,04 Jun 2020
+"1,460,000","6 A'Beckett Street,",PRAHRAN VIC 3181,House,3,1,−,223m² ,02 Jun 2020
+"2,451,000","20 Alfred Street,",PRAHRAN VIC 3181,House,3,2,2,440m² ,2020
+"2,375,000","50 St Vincent Street,",ALBERT PARK VIC 3206,House,3,2,1,135m² ,0 May 2020
+"1,255,000","32 Cameron Street,",RICHMOND VIC 3121,House,3,1,−,249m² ,20 May 2020
+"930,000","15 Martin Street,",SOUTH MELBOURNE VIC 3205,House,3,1,−,107m² ,15 May 2020
+"1,820,000","54 Stead Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,254m² ,15 May 2020
+"9,220,000","60 St Vincent Place North,",ALBERT PARK VIC 3206,House,4,4,1,731m² ,14 May 2020
+"1,531,000","9 Fawkner Street,",SOUTH YARRA VIC 3141,House,2,1,−,219m² ,14 May 2020
+"2,200,000","69 Carlisle Street,",ST KILDA VIC 3182,House,4,2,2,376m² ,2020
+"1,619,000","48 Ashworth Street,",ALBERT PARK VIC 3206,House,2,1,−,188m² ,07 May 2020
+"1,325,000","16 North Street,",RICHMOND VIC 3121,House,3,2,−,174m² ,04 May 2020
+"1,917,000","38 Young Street,",ALBERT PARK VIC 3206,House,2,1,−,215m² ,30 Apr 2020
+"1,870,000","64 Richmond Terrace,",RICHMOND VIC 3121,House,3,2,2,258m² ,29 Apr 2020
+"3,815,000","47 Nimmo Street,",MIDDLE PARK VIC 3206,House,4,2,−,370m² ,24 Apr 2020
+"1,686,000","209 Page Street,",MIDDLE PARK VIC 3206,House,2,1,1,160m² ,23 Apr 2020
+"1,275,000","473 Queensberry Street,",NORTH MELBOURNE VIC 3051,House,4,1,−,137m² ,22 Apr 2020
+"1,560,000","35 Goodwood Street,",RICHMOND VIC 3121,House,4,2,2,461m² ,22 Apr 2020
+"999,000 ","88 Molesworth Street,",NORTH MELBOURNE VIC 3051,House,3,1,−,250m² ,21 Apr 2020
+"2,200,000 ","264 Dorcas Street,",SOUTH MELBOURNE VIC 3205,House,3,1,1,264m² ,20 Apr 2020
+"1,000,000","14 Withers Street,",ALBERT PARK VIC 3206,House,2,1,−,94m² ,18 Apr 2020
+"1,685,000","10 Newry Street,",PRAHRAN VIC 3181,House,2,1,1,273m² ,17 Apr 2020
+"1,350,000","20 Mountain Street,",SOUTH MELBOURNE VIC 3205,House,3,1,−,169m² ,16 Apr 2020
+"1,200,000","26 Westbourne Street,",PRAHRAN VIC 3181,House,2,1,−,193m² ,10 Apr 2020
+"2,375,000","3 Marine Avenue,",ST KILDA VIC 3182,House,3,1,1,446m² ,08 Apr 2020
+"3,300,000","13 Glover Street,",SOUTH MELBOURNE VIC 3205,House,4,2,1,220m² ,04 Apr 2020
+"750,000","42 Charles Street,",ST KILDA VIC 3182,House,2,1,−,145m² ,2020
+"1,710,000","4 Greig Street,",ALBERT PARK VIC 3206,House,3,1,1,164m² ,2020
+"1,051,000 ","33 Wellington Street,",RICHMOND VIC 3121,House,2,1,2,192m² ,02 Apr 2020
+"1,625,000","18 Mountain Street,",SOUTH MELBOURNE VIC 3205,House,4,1,−,207m² ,2020
+"1,656,000","93 Page Street,",ALBERT PARK VIC 3206,House,3,1,−,147m² ,2020
+"1,110,000","28 Young Street,",ALBERT PARK VIC 3206,House,3,1,−,138m² ,2020
+"1,465,000","2 Fern Avenue,",PRAHRAN VIC 3181,House,2,1,−,226m² ,24 Mar 2020
+"9,010,000","92 Page Street,",ALBERT PARK VIC 3206,House,5,5,4,600m² ,2020
+"1,175,000","7 Stewart Street,",WINDSOR VIC 3181,House,3,1,−,172m² ,2020
+"2,430,000","1 Alfred Square,",ST KILDA VIC 3182,House,4,2,1,297m² ,20 Mar 2020
+"1,577,000 ","13 Leila Street,",PRAHRAN VIC 3181,House,3,1,−,229m² ,2020
+"3,675,000","1 Linden Court,",PRAHRAN VIC 3181,House,4,3,2,675m² ,2020
+"1,280,000","66 Lord Street,",RICHMOND VIC 3121,House,3,1,1,199m² ,2020
+"1,480,000","8 Rose Street,",RICHMOND VIC 3121,House,3,1,1,221m² ,2020
+"5,800,000","36 St Vincent Place North,",ALBERT PARK VIC 3206,House,4,2,−,370m² ,12 Mar 2020

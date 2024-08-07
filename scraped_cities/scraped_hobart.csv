@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"741,000 ","18 Sun Street,",HOBART TAS 7000,House,2,1,−,163m² ,31 Jan 2024
+"720,000 ","69 Warwick Street,",HOBART TAS 7000,House,4,1,−,258m² ,15 Nov 2023
+"860,000 ","77 Goulburn Street,",HOBART TAS 7000,House,3,1,−,587m² ,29 Sep 2023
+"620,000 ","36 Goulburn Street,",HOBART TAS 7000,House,2,1,−,163m² ,20 Sep 2023
+"1,000,000 ","13 Campbell Street,",HOBART TAS 7000,House,3,2,2,252m² ,16 Sep 2023
+"1,500,000 ","142 Brisbane Street,",HOBART TAS 7000,House,5,2,4,675m² ,22 Aug 2023
+"830,000 ","38 Goulburn Street,",HOBART TAS 7000,House,2,1,−,168m² ,10 May 2023
+"825,000 ","31B Goulburn Street,",HOBART TAS 7000,Terrace,2,1,2,162m² ,26 Apr 2023
+"1,475,000 ","90 Warwick Street,",HOBART TAS 7000,House,3,2,3,472m² ,10 Mar 2023
+"805,000","12 Berea Street,",HOBART TAS 7000,House,2,1,−,111m² ,17 Oct 2022
+"755,000","7/57 Warwick Street,",HOBART TAS 7000,House,3,2,1,198m² ,28 Sep 2022
+"1,000,000","57 Victoria Street,",HOBART TAS 7000,House,3,2,1,159m² ,07 Sep 2022
+"1,910,000 ","7 Campbell Street,",HOBART TAS 7000,House,3,1,2,490m² ,11 May 2022
+"980,000 ","1 Paternoster Row,",HOBART TAS 7000,House,4,1,2,490m² ,14 Apr 2022
+"920,000 ","65 Patrick Street,",HOBART TAS 7000,House,3,1,−,227m² ,10 Mar 2022
+"912,500","53 Patrick Street,",HOBART TAS 7000,House,4,1,1,176m² ,08 Mar 2022
+"1,000,100 ","132 Brisbane Street,",HOBART TAS 7000,House,3,1,1,120m² ,25 Feb 2022
+"996,000 ","60 Goulburn Street,",HOBART TAS 7000,House,3,1,−,302m² ,22 Feb 2022
+"1,500,000 ","50A Molle Street,",HOBART TAS 7000,House,1,1,5,469m² ,22 Feb 2022
+"731,000","1/57 Warwick Street,",HOBART TAS 7000,House,2,1,1,240m² ,19 Feb 2022
+"1,846,500","4 Church Street,",HOBART TAS 7000,House,4,3,2,358m² ,12 Feb 2022
+"1,470,000","71 Barrack Street,",HOBART TAS 7000,House,4,3,1,372m² ,05 Feb 2022
+"884,000","3/182 Bathurst Street,",HOBART TAS 7000,House,2,1,−,187m² ,24 Jan 2022
+"955,000 ","130 Brisbane Street,",HOBART TAS 7000,House,3,1,1,896m² ,17 Jan 2022
+"1,820,000","55 Davey Street,",HOBART TAS 7000,House,7,4,−,129m² ,20 Dec 2021
+"1,705,000","1 Church Street,",HOBART TAS 7000,House,4,2,3,459m² ,15 Dec 2021
+"1,000,000","15 Goulburn Street,",HOBART TAS 7000,House,2,1,1,333m² ,02 Nov 2021
+"1,600,000 ","207 Macquarie Street,",HOBART TAS 7000,House,6,4,4,309m² ,27 Oct 2021
+"1,600,000 ","61 Warwick Street,",HOBART TAS 7000,House,5,3,2,322m² ,09 Sep 2021
+"1,500,000 ","24 Goulburn Street,",HOBART TAS 7000,House,3,1,8,373m² ,03 Sep 2021
+"942,500 ","144 Argyle Street,",HOBART TAS 7000,House,3,1,1,312m² ,04 Aug 2021
+"765,000 ","71 Molle Street,",HOBART TAS 7000,House,4,1,−,152m² ,15 Jun 2021
+"842,500 ","18 Paternoster Row,",HOBART TAS 7000,House,3,1,−,282m² ,15 Jun 2021
+"1,451,000 ","244 Macquarie Street,",HOBART TAS 7000,House,14,3,1,472m² ,20 May 2021
+"945,000 ","12/1 Collins Street,",HOBART TAS 7000,House,3,2,1,203m² ,11 May 2021
+"1,485,000","171 Bathurst Street,",HOBART TAS 7000,House,4,2,1,559m² ,05 May 2021
+"705,000 ","195 Campbell Street,",HOBART TAS 7000,House,3,1,−,253m² ,04 May 2021
+"1,488,000","231 Collins Street,",HOBART TAS 7000,House,3,3,2,180m² ,29 Apr 2021
+"657,999","5A Warwick Street,",HOBART TAS 7000,House,3,1,−,273m² ,02 Mar 2021
+"670,000 ","134 Melville Street,",HOBART TAS 7000,House,2,1,1,168m² ,15 Feb 2021
+"1,182,000 ","75 Barrack Street,",HOBART TAS 7000,House,3,2,2,197m² ,07 Feb 2021
+"520,000 ","5/77 Molle Street,",HOBART TAS 7000,House,2,1,−,188m² ,21 Jan 2021
+"780,000 ","79 Goulburn Street,",HOBART TAS 7000,House,3,1,−,365m² ,11 Dec 2020
+"1,040,000","10 Wilmot Street,",HOBART TAS 7000,House,4,2,2,329m² ,11 Dec 2020
+"2,600,000","143 Hampden Road,",HOBART TAS 7000,House,6,4,3,"1,033m² ",28 Nov 2020
+"685,000 ","8 Berea Street,",HOBART TAS 7000,House,2,1,−,126m² ,29 Oct 2020
+"807,600 ","1/129 Bathurst Street,",HOBART TAS 7000,House,2,1,−,156m² ,15 Oct 2020
+"700,000 ","10 Creswells Row,",HOBART TAS 7000,House,2,1,2,159m² ,24 Sep 2020
+"620,000 ","53 Warwick Street,",HOBART TAS 7000,House,2,2,−,196m² ,31 Aug 2020
+"1,175,000","4 Molle Street,",HOBART TAS 7000,House,4,2,2,662m² ,27 Aug 2020
+"785,000 ","63 Patrick Street,",HOBART TAS 7000,House,2,1,1,221m² ,17 Aug 2020
+"1,040,000","16 Goulburn Street,",HOBART TAS 7000,House,4,1,2,270m² ,01 Jun 2020
+"773,000 ","133 Davey Street,",HOBART TAS 7000,House,2,1,2,531m² ,18 May 2020
+"580,000","37 Warwick Street,",HOBART TAS 7000,House,2,1,−,196m² ,11 Feb 2020
+"900,000 ","59 Goulburn Street,",HOBART TAS 7000,House,3,2,−,474m² ,28 Jan 2020
+"722,000 ","3/85 Barrack Street,",HOBART TAS 7000,House,3,1,1,354m² ,12 Dec 2019
+"706,000 ","34 Goulburn Street,",HOBART TAS 7000,House,2,1,−,161m² ,18 Nov 2019
+"736,000 ","159 Bathurst Street,",HOBART TAS 7000,House,3,1,1,226m² ,16 Aug 2019
+"680,000 ","13 Terminus Row,",HOBART TAS 7000,House,2,1,2,157m² ,18 Jun 2019
+"550,000","157 Davey Street,",HOBART TAS 7000,House,1,1,2,150m² ,03 May 2019
+"1,050,000 ","4 Molle Street - The Monastery,",HOBART TAS 7000,House,5,2,3,662m² ,16 Apr 2019
+"618,000 ","39 Goulburn Street,",HOBART TAS 7000,House,2,1,−,218m² ,05 Mar 2019
+"716,400 ","1/94 Goulburn Street,",HOBART TAS 7000,House,3,1,1,290m² ,04 Mar 2019
+"685,000 ","9 Church Street,",HOBART TAS 7000,House,3,1,−,310m² ,27 Feb 2019
+"630,200 ","208/3 Evans Street,",HOBART TAS 7000,House,2,2,1,116m² ,14 Feb 2019
+"850,000 ","1 Church Street,",HOBART TAS 7000,House,3,1,6,459m² ,24 Dec 2018
+"676,000 ","65 Patrick Street,",HOBART TAS 7000,House,3,1,−,227m² ,01 Dec 2018
+"710,000","9 Terminus Row,",HOBART TAS 7000,House,2,1,2,161m² ,21 Nov 2018
+"885,000","4 Church Street,",HOBART TAS 7000,House,3,2,2,358m² ,26 Aug 2018
+"505,000 ","110 Campbell Street,",HOBART TAS 7000,House,4,1,1,134m² ,2018
+"675,000","65 Goulburn Street,",HOBART TAS 7000,House,3,2,1,433m² ,07 Jun 2018
+"643,000","2/50b Molle Street,",HOBART TAS 7000,House,3,1,1,74m² ,03 Jun 2018
+"633,000","64 Goulburn Street,",HOBART TAS 7000,House,3,1,1,397m² ,01 Jun 2018
+"672,000","18 Paternoster Row,",HOBART TAS 7000,House,3,1,−,282m² ,26 May 2018
+"480,000 ","1/72 Warwick Street,",HOBART TAS 7000,House,1,1,2,146m² ,04 May 2018
+"835,000 ","114A Elizabeth Street,",HOBART TAS 7000,House,4,2,−,180m² ,29 Mar 2018
+"685,000 ","39 Warwick Street,",HOBART TAS 7000,House,3,2,2,202m² ,22 Mar 2018
+"506,000","97 Molle Street,",HOBART TAS 7000,House,2,1,−,79m² ,14 Feb 2018
+"825,000 ","143 Murray Street,",HOBART TAS 7000,House,2,1,2,158m² ,09 Jan 2018
+"767,000","18 Sackville Street,",HOBART TAS 7000,House,3,2,2,233m² ,11 Nov 2017
+"910,000 ","90 Warwick Street,",HOBART TAS 7000,House,3,2,3,472m² ,20 Oct 2017
+"1,850,000","197 Macquarie Street,",HOBART TAS 7000,House,7,3,15,"1,425m² ",18 Sep 2017
+"610,000","2/177 Bathurst Street,",HOBART TAS 7000,Villa,3,2,1,196m² ,01 Jul 2017
+"680,000 ","158 Brisbane Street,",HOBART TAS 7000,House,3,2,1,658m² ,2017
+"652,500 ","83 Patrick Street,",HOBART TAS 7000,House,3,1,1,161m² ,01 May 2017
+"853,000 ","156 Melville Street,",HOBART TAS 7000,Terrace,4,2,1,288m² ,27 Apr 2017
+"805,000 ","144 Melville Street,",HOBART TAS 7000,House,3,2,1,300m² ,04 Apr 2017
+"850,000 ","125 Argyle Street,",HOBART TAS 7000,House,3,2,−,373m² ,27 Feb 2017
+"640,000 ","42 Warwick Street,",HOBART TAS 7000,House,3,2,3,403m² ,2017
+"460,000 ","1, 2 & 3/64-66 Molle Street,",HOBART TAS 7000,House,3,3,−,306m² ,31 Jan 2017
+"455,000 ","160 Melville Street,",HOBART TAS 7000,House,2,1,−,177m² ,2017
+"621,000 ","158 Harrington Street,",HOBART TAS 7000,House,2,2,−,192m² ,2016
+"711,000 ","160 Harrington Street,",HOBART TAS 7000,House,3,2,4,302m² ,2016
+"650,000","54 Molle Street,",HOBART TAS 7000,House,5,1,2,383m² ,05 Dec 2016
+"390,000 ","40a Patrick Street,",HOBART TAS 7000,House,2,1,−,800m² ,2016
+"561,000","242 Macquarie Street,",HOBART TAS 7000,House,2,1,−,443m² ,05 Nov 2016
+"575,000","63 Warwick Street,",HOBART TAS 7000,House,4,1,1,383m² ,08 Jun 2016
+"420,000","90 Goulburn Street,",HOBART TAS 7000,House,3,1,−,311m² ,21 May 2016
+"670,000","149 Melville Street,",HOBART TAS 7000,House,4,1,−,352m² ,19 May 2016
+"540,000","1/221 Liverpool Street,",HOBART TAS 7000,House,2,1,2,173m² ,05 May 2016
+"690,000","44 Goulburn Street,",HOBART TAS 7000,House,4,2,2,373m² ,28 Apr 2016
+"565,000","1 Patrick Street,",HOBART TAS 7000,House,5,1,−,603m² ,12 Apr 2016
+"730,000","281 Macquarie Street,",HOBART TAS 7000,House,4,2,1,"1,323m² ",26 Feb 2016
+"470,000","13 Paternoster Row,",HOBART TAS 7000,House,3,1,−,209m² ,26 Jan 2016
+"518,000","4 Sun Street,",HOBART TAS 7000,House,4,2,−,159m² ,20 Oct 2015
+"418,000","35 Warwick Street,",HOBART TAS 7000,House,2,1,−,182m² ,18 Oct 2015
+"500,000 ","63A Patrick Street,",HOBART TAS 7000,House,2,1,−,452m² ,13 Aug 2015
+"372,500 ","63 Patrick Street,",HOBART TAS 7000,House,2,1,−,221m² ,26 Jul 2015
+"745,000","114a Elizabeth Street,",HOBART TAS 7000,House,4,2,−,180m² ,17 Jun 2015
+"1,050,000","343 Davey Street,",HOBART TAS 7000,House,5,3,2,"1,045m² ",05 Jun 2015
+"352,500","99 Molle Street,",HOBART TAS 7000,House,2,1,−,215m² ,2015
+"730,000","4 Church Street,",HOBART TAS 7000,House,3,2,1,358m² ,12 Apr 2015
+"527,500","181 Bathurst Street,",HOBART TAS 7000,House,2,1,3,212m² ,03 Apr 2015
+"760,000","53 Davey Street,",HOBART TAS 7000,House,3,2,−,110m² ,27 Mar 2015
+"837,500","61 Warwick Street,",HOBART TAS 7000,House,5,3,−,322m² ,10 Mar 2015
+"558,000","135 Davey Street,",HOBART TAS 7000,House,3,1,1,564m² ,2015
+"530,000","149 Campbell Street,",HOBART TAS 7000,House,4,2,−,173m² ,01 Feb 2015
+"602,000","211/3 Evans Street,",HOBART TAS 7000,House,2,2,1,121m² ,16 Dec 2014
+"490,000","9 Berea Street,",HOBART TAS 7000,House,3,1,1,158m² ,03 Dec 2014
+"386,000","144 Argyle Street,",HOBART TAS 7000,House,3,1,1,312m² ,19 Nov 2014
+"350,000","245-247 Macquarie Street,",HOBART TAS 7000,House,1,1,−,400m² ,2014
+"423,000","29 Warwick Street,",HOBART TAS 7000,House,2,2,2,281m² ,10 Nov 2014
+"1,200,000","59-63A Patrick Street,",HOBART TAS 7000,House,8,4,4,"1,166m² ",2014
+"1,200,000","266 Macquarie Street,",HOBART TAS 7000,House,5,3,7,"1,105m² ",05 Oct 2014
+"525,000","146 Brisbane Street,",HOBART TAS 7000,House,3,1,−,392m² ,30 Sep 2014
+"297,000 ","1 221-223 Collins Street,",HOBART TAS 7000,House,2,2,−,450m² ,07 Aug 2014
+"414,000","70 Barrack Street,",HOBART TAS 7000,House,3,2,−,300m² ,27 May 2014
+"435,000",,HOBART TAS 7000,House,3,2,2,176m² ,17 Apr 2014
+"517,500","136 Brisbane Street,",HOBART TAS 7000,House,2,1,−,396m² ,05 Mar 2014
+"650,000","183 Bathurst Street,",HOBART TAS 7000,House,3,2,1,222m² ,03 Mar 2014
+"895,000","211 Macquarie Street,",HOBART TAS 7000,House,10,8,7,594m² ,04 Feb 2014
+"600,000","300 Murray Street,",HOBART TAS 7000,House,3,2,1,196m² ,30 Jan 2014
+"545,000","68 Barrack Street,",HOBART TAS 7000,House,3,2,1,267m² ,11 Jan 2014
+"533,000","1/138 Melville Street,",HOBART TAS 7000,House,3,1,−,361m² ,20 Dec 2013
+"440,000","1/129 Bathurst Street,",HOBART TAS 7000,House,2,2,−,156m² ,20 Nov 2013
+"1,835,000","166 Melville Street,",HOBART TAS 7000,House,5,3,−,"2,074m² ",03 Mar 2013
+"560,000","15 Church Street,",HOBART TAS 7000,House,5,2,2,849m² ,07 Jan 2013
+"1,355,000 ","6 Amelia Street,",WEST HOBART TAS 7000,House,4,2,2,750m² ,24 Apr 2024
+"908,800 ","19 Keith White Crescent,",MOUNT STUART TAS 7000,House,5,3,2,773m² ,23 Apr 2024
+"753,000 ","1 Meagher Court,",SOUTH HOBART TAS 7004,House,4,2,1,662m² ,16 Apr 2024
+"910,000 ","39 Mawhera Avenue,",SANDY BAY TAS 7005,House,4,2,1,599m² ,12 Apr 2024
+"1,000,000 ","699 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,1,2,897m² ,09 Apr 2024
+"672,000 ","2 Meagher Court,",SOUTH HOBART TAS 7004,House,3,1,2,673m² ,09 Apr 2024
+"1,150,000 ","14 Baden Street,",SANDY BAY TAS 7005,House,3,2,1,308m² ,06 Apr 2024
+"1,050,000 ","26 Mortimer Avenue,",NORTH HOBART TAS 7000,House,3,1,2,304m² ,26 Mar 2024
+"775,000 ","42 Wellesley Street,",SOUTH HOBART TAS 7004,House,3,1,1,387m² ,26 Mar 2024
+"1,450,000 ","21 Parliament Street,",SANDY BAY TAS 7005,House,4,2,2,586m² ,21 Mar 2024
+"1,075,000 ","420 Elizabeth Street,",NORTH HOBART TAS 7000,House,3,1,2,343m² ,20 Mar 2024
+"950,000 ","37A Derwentwater Avenue,",SANDY BAY TAS 7005,House,2,1,3,653m² ,20 Mar 2024
+"1,011,000 ","32 Wellesley Street,",SOUTH HOBART TAS 7004,House,3,2,1,366m² ,18 Mar 2024
+"1,500,000 ","535 Sandy Bay Road,",SANDY BAY TAS 7005,House,1,1,2,988m² ,15 Mar 2024
+"985,000 ","7 Edith Avenue,",SANDY BAY TAS 7005,House,4,2,4,647m² ,14 Mar 2024
+"1,050,000 ","17 Audley Street,",NORTH HOBART TAS 7000,House,4,1,1,580m² ,13 Mar 2024
+"1,200,000 ","184 Campbell Street,",NORTH HOBART TAS 7000,House,4,2,3,452m² ,13 Mar 2024
+"3,800,000 ","4 Weld Street,",SOUTH HOBART TAS 7004,House,6,2,2,"1,265m² ",13 Mar 2024
+"1,206,000 ","17a Fordham Street,",MOUNT STUART TAS 7000,House,4,3,4,345m² ,12 Mar 2024
+"960,000 ","142 Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,1,3,"1,381m² ",12 Mar 2024
+"860,000 ","5 Byron Street,",SANDY BAY TAS 7005,House,3,1,4,429m² ,09 Mar 2024
+"1,026,000 ","20 Lansdowne Crescent,",WEST HOBART TAS 7000,House,4,1,1,540m² ,06 Mar 2024
+"577,000 ","74 Liverpool Crescent,",WEST HOBART TAS 7000,House,3,1,−,"1,998m² ",05 Mar 2024
+"1,102,500 ","10 Allambee Crescent,",GLEBE TAS 7000,House,4,2,1,508m² ,29 Feb 2024
+"710,000 ","26 Benjafield Terrace,",MOUNT STUART TAS 7000,House,3,1,2,626m² ,28 Feb 2024
+"810,000 ","5/15 Sunvale Avenue,",SANDY BAY TAS 7005,House,3,1,2,442m² ,28 Feb 2024
+"920,000 ","237 Davey Street,",SOUTH HOBART TAS 7004,House,4,2,3,444m² ,27 Feb 2024
+"1,240,000 ","3 Keith White Crescent,",MOUNT STUART TAS 7000,House,4,2,2,534m² ,23 Feb 2024
+"1,336,500 ","34 King Street,",SANDY BAY TAS 7005,House,4,3,2,370m² ,23 Feb 2024
+"3,110,000 ","50 Lipscombe Avenue,",SANDY BAY TAS 7005,House,4,3,3,826m² ,23 Feb 2024
+"1,505,000 ","103 Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,2,4,860m² ,23 Feb 2024
+"600,000 ","61 Lansdowne Crescent,",WEST HOBART TAS 7000,House,2,1,1,190m² ,23 Feb 2024
+"955,000 ","15 Ascot Avenue,",SANDY BAY TAS 7005,House,4,2,4,774m² ,21 Feb 2024
+"945,000 ","19 Waverley Avenue,",MOUNT STUART TAS 7000,House,2,1,2,"1,024m² ",20 Feb 2024
+"742,000 ","140 Forest Road,",WEST HOBART TAS 7000,House,4,2,1,997m² ,17 Feb 2024
+"620,000 ","34 Pitt Street,",NORTH HOBART TAS 7000,House,3,1,1,215m² ,16 Feb 2024
+"842,000 ","94 Letitia Street,",NORTH HOBART TAS 7000,House,3,1,2,716m² ,08 Feb 2024
+"1,354,000 ","53 Anglesea Street,",SOUTH HOBART TAS 7004,House,4,1,3,715m² ,08 Feb 2024
+"721,000 ","372 Murray Street,",NORTH HOBART TAS 7000,House,3,1,2,212m² ,05 Feb 2024
+"1,350,000 ","44 St Georges Terrace,",BATTERY POINT TAS 7004,House,8,5,1,548m² ,02 Feb 2024
+"800,000 ","5 Smithurst Avenue,",SOUTH HOBART TAS 7004,House,3,2,2,"1,189m² ",02 Feb 2024
+"850,000 ","10 Faraday Street,",WEST HOBART TAS 7000,House,3,1,3,470m² ,01 Feb 2024
+"755,000 ","79 Poets Road,",WEST HOBART TAS 7000,House,3,1,1,800m² ,31 Jan 2024
+"2,010,000 ","11 Glover Drive,",SANDY BAY TAS 7005,House,3,2,6,710m² ,30 Jan 2024
+"985,000 ","266 Park Street,",NORTH HOBART TAS 7000,House,5,2,1,423m² ,26 Jan 2024
+"1,070,000 ","11 Amanda Crescent,",SANDY BAY TAS 7005,House,3,1,3,563m² ,24 Jan 2024
+"1,160,000 ","1 & 2/6 Service Street,",GLEBE TAS 7000,House,2,1,1,427m² ,21 Jan 2024
+"1,800,000 ","14 Swan Street,",NORTH HOBART TAS 7000,House,4,3,1,281m² ,19 Jan 2024
+"655,000 ","386 Argyle Street,",NORTH HOBART TAS 7000,House,3,1,−,482m² ,12 Jan 2024
+"1,730,000 ","11 Mellifont Street,",WEST HOBART TAS 7000,House,5,3,4,711m² ,12 Jan 2024
+"970,000 ","3 Dynnyrne Road,",DYNNYRNE TAS 7005,House,4,2,1,681m² ,10 Jan 2024
+"775,000 ","2/19 Macfarlane Street,",SOUTH HOBART TAS 7004,House,3,1,1,503m² ,08 Jan 2024
+"1,200,000 ","431 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,2,4,"1,686m² ",06 Jan 2024
+"1,300,000 ","14 Waymouth Avenue,",SANDY BAY TAS 7005,House,5,3,2,"1,366m² ",05 Jan 2024
+"725,000","1/11 Longview Avenue,",SANDY BAY TAS 7005,Villa,2,1,2,341m² ,05 Jan 2024
+"1,300,000 ","15 Browne Street,",WEST HOBART TAS 7000,House,3,2,1,384m² ,03 Jan 2024
+"730,000 ","370 Murray Street,",NORTH HOBART TAS 7000,House,3,1,2,145m² ,28 Dec 2023
+"950,000","12 Gordon Avenue,",MOUNT STUART TAS 7000,House,4,3,5,593m² ,21 Dec 2023
+"700,000 ","6 Elaine Crescent,",WEST HOBART TAS 7000,House,3,1,3,599m² ,18 Dec 2023
+"1,250,000 ","18 Osborne Street,",SANDY BAY TAS 7005,House,3,2,4,784m² ,16 Dec 2023
+"977,700 ","397 Liverpool Street,",WEST HOBART TAS 7000,House,3,2,−,549m² ,16 Dec 2023
+"1,226,000 ","14 Auvergne Avenue,",MOUNT STUART TAS 7000,House,5,2,1,"1,062m² ",15 Dec 2023
+"1,095,000 ","46 Federal Street,",NORTH HOBART TAS 7000,House,3,2,2,286m² ,14 Dec 2023
+"750,000 ","5 Mellifont Street,",WEST HOBART TAS 7000,House,3,1,2,456m² ,12 Dec 2023
+"1,500,000 ","36 View Street,",SANDY BAY TAS 7005,House,4,2,4,964m² ,07 Dec 2023
+"1,180,000","18 Marlborough Street,",SANDY BAY TAS 7005,House,6,5,4,696m² ,06 Dec 2023
+"640,000 ","178 Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,1,4,"1,348m² ",06 Dec 2023
+"2,000,000 ","27 Red Chapel Avenue,",SANDY BAY TAS 7005,House,8,3,6,948m² ,05 Dec 2023
+"1,400,000","1 Minallo Avenue,",WEST HOBART TAS 7000,House,4,3,3,588m² ,05 Dec 2023
+"1,015,000 ","47 Mortimer Avenue,",MOUNT STUART TAS 7000,House,3,2,2,698m² ,04 Dec 2023
+"930,000","19 Knocklofty Terrace,",WEST HOBART TAS 7000,House,4,2,2,819m² ,02 Dec 2023
+"1,575,000 ","2 Toorak Avenue,",MOUNT STUART TAS 7000,House,4,3,3,857m² ,01 Dec 2023
+"1,700,000 ",,SANDY BAY TAS 7005,House,3,2,3,646m² ,01 Dec 2023
+"1,000,000","2 Cartela St,",SANDY BAY TAS 7005,House,4,2,2,"1,070m² ",29 Nov 2023
+"1,250,000 ","42 Knocklofty Terrace,",WEST HOBART TAS 7000,House,5,2,3,779m² ,28 Nov 2023
+"892,500 ","2 South Street,",BATTERY POINT TAS 7004,House,1,1,−,122m² ,27 Nov 2023
+"1,750,000 ","18 Thelma Drive,",WEST HOBART TAS 7000,House,3,2,2,611m² ,27 Nov 2023
+"660,000 ","25 Pine Street,",WEST HOBART TAS 7000,House,1,1,−,234m² ,27 Nov 2023
+"940,000 ","8 Gourlay Street,",WEST HOBART TAS 7000,House,3,1,1,400m² ,24 Nov 2023
+"1,930,000","19 Lord Street,",SANDY BAY TAS 7005,House,5,2,3,778m² ,23 Nov 2023
+"915,000 ","185 Davey Street,",SOUTH HOBART TAS 7004,House,3,2,−,119m² ,23 Nov 2023
+"918,000","1/18 View Street,",SANDY BAY TAS 7005,House,5,3,2,370m² ,20 Nov 2023
+"910,000 ","1 Hutchinson Place,",WEST HOBART TAS 7000,House,3,2,2,568m² ,19 Nov 2023
+"1,700,000 ","259 Churchill Avenue,",SANDY BAY TAS 7005,House,5,3,4,800m² ,17 Nov 2023
+"2,060,000","780 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,4,4,679m² ,17 Nov 2023
+"575,000 ","421 Strickland Avenue,",SOUTH HOBART TAS 7004,House,1,2,2,750m² ,17 Nov 2023
+"950,000 ","2a D'Emden Street,",WEST HOBART TAS 7000,House,4,2,3,397m² ,17 Nov 2023
+"1,030,000 ","446 Churchill Avenue,",SANDY BAY TAS 7005,House,3,2,2,561m² ,16 Nov 2023
+"1,080,000 ","29 Broadwaters Parade,",SANDY BAY TAS 7005,House,4,3,4,700m² ,16 Nov 2023
+"900,000 ","39 Lower Jordan Hill Road,",WEST HOBART TAS 7000,House,4,2,2,645m² ,16 Nov 2023
+"950,000 ","7 Glen Street,",SOUTH HOBART TAS 7004,House,3,1,2,640m² ,15 Nov 2023
+"1,210,000 ","7 Lauramont Avenue,",SANDY BAY TAS 7005,House,3,2,1,640m² ,14 Nov 2023
+"2,050,000 ","10 Mary Street,",NORTH HOBART TAS 7000,House,3,2,3,572m² ,12 Nov 2023
+"1,168,000","1/29 Red Chapel Avenue,",SANDY BAY TAS 7005,House,3,2,4,450m² ,12 Nov 2023
+"2,855,000 ","5 Sayer Crescent,",SANDY BAY TAS 7005,House,4,1,4,"1,313m² ",12 Nov 2023
+"1,070,000 ","75 Lord Street,",SANDY BAY TAS 7005,House,3,1,1,481m² ,12 Nov 2023
+"1,120,000 ","27 Regent Street,",SANDY BAY TAS 7005,House,4,2,3,607m² ,10 Nov 2023
+"960,000 ","39 Mortimer Avenue,",MOUNT STUART TAS 7000,House,3,2,3,"1,262m² ",07 Nov 2023
+"755,000 ","76 Marlyn Road,",SOUTH HOBART TAS 7004,House,2,2,3,812m² ,07 Nov 2023
+"730,000 ","249a Bathurst Street,",WEST HOBART TAS 7000,House,2,1,1,300m² ,06 Nov 2023
+"800,000 ","6 Smith Street,",NORTH HOBART TAS 7000,House,2,2,−,168m² ,02 Nov 2023
+"1,600,000 ","6 Lindeith Court,",SANDY BAY TAS 7005,House,4,3,4,727m² ,02 Nov 2023
+"965,000 ","18 Bayley Street,",GLEBE TAS 7000,House,3,2,−,231m² ,01 Nov 2023
+"962,000 ","48 Forest Road,",WEST HOBART TAS 7000,House,2,2,1,341m² ,31 Oct 2023
+"888,000 ","21 Clift Street,",MOUNT STUART TAS 7000,House,2,1,3,809m² ,30 Oct 2023
+"4,300,000 ","726A Sandy Bay Road,",SANDY BAY TAS 7005,House,4,3,4,954m² ,26 Oct 2023
+"1,695,000","72 Lipscombe Avenue,",SANDY BAY TAS 7005,House,4,3,2,723m² ,25 Oct 2023
+"1,650,000 ","52 Duke Street,",SANDY BAY TAS 7005,House,3,2,3,699m² ,25 Oct 2023
+"1,100,000","10 Goodhart Place,",SANDY BAY TAS 7005,House,4,2,3,716m² ,24 Oct 2023
+"1,200,000 ","82 Arthur Street,",WEST HOBART TAS 7000,House,3,2,2,502m² ,24 Oct 2023
+"1,180,000 ","25 Devonshire Square,",WEST HOBART TAS 7000,House,3,2,1,441m² ,24 Oct 2023
+"980,000 ","2 Wignall Street,",NORTH HOBART TAS 7000,House,4,1,1,343m² ,23 Oct 2023
+"1,105,000 ","36 Quayle Street,",SANDY BAY TAS 7005,House,3,2,2,365m² ,23 Oct 2023
+"900,000 ","39 Newdegate Street,",WEST HOBART TAS 7000,House,3,2,−,347m² ,23 Oct 2023
+"1,305,000 ","482 Huon Road,",SOUTH HOBART TAS 7004,House,3,2,3,653m² ,21 Oct 2023
+"1,350,000","38 Newdegate Street,",NORTH HOBART TAS 7000,House,4,3,2,342m² ,20 Oct 2023
+"1,000,000 ","29 Quayle Street,",SANDY BAY TAS 7005,House,3,1,1,619m² ,20 Oct 2023
+"650,000 ","67 Tasma Street,",NORTH HOBART TAS 7000,House,2,1,−,84m² ,18 Oct 2023
+"735,000 ","16 Syme Street,",SOUTH HOBART TAS 7004,House,3,1,1,650m² ,18 Oct 2023
+"911,000 ","18 Lauramont Avenue,",SANDY BAY TAS 7005,House,3,2,3,690m² ,16 Oct 2023
+"905,000","8 Lynton Avenue,",SOUTH HOBART TAS 7004,House,3,1,3,700m² ,16 Oct 2023
+"930,000 ","104 Regent Street,",SANDY BAY TAS 7005,House,3,1,2,735m² ,13 Oct 2023
+"945,000 ","126 Hill Street,",WEST HOBART TAS 7000,House,3,1,1,300m² ,13 Oct 2023
+"1,185,000 ","13 Powell Street,",SANDY BAY TAS 7005,House,4,2,3,414m² ,10 Oct 2023
+"1,215,000","52 Mount Stuart Road,",MOUNT STUART TAS 7000,House,4,2,4,511m² ,09 Oct 2023
+"612,000","1/4 Evelyn Crescent,",SANDY BAY TAS 7005,House,6,2,2,707m² ,09 Oct 2023
+"2,050,000","10 Ellington Road,",SANDY BAY TAS 7005,House,4,2,2,943m² ,28 Sep 2023
+"650,000 ","9/312 Davey Street,",SOUTH HOBART TAS 7004,House,3,1,2,284m² ,26 Sep 2023
+"510,000","14/10 Waterworks Road,",DYNNYRNE TAS 7005,House,3,1,1,239m² ,21 Sep 2023
+"550,000 ","40 Degraves Street,",SOUTH HOBART TAS 7004,House,4,1,−,384m² ,21 Sep 2023
+"850,000 ","170a Waterworks Road,",DYNNYRNE TAS 7005,House,4,3,2,589m² ,20 Sep 2023
+"5,800,000","9 Mawhera Avenue,",SANDY BAY TAS 7005,House,6,3,6,"3,701m² ",20 Sep 2023
+"1,200,000 ","31 Sandy Bay Road,",BATTERY POINT TAS 7004,House,3,1,2,357m² ,19 Sep 2023
+"2,179,000 ","712 Sandy Bay Road,",SANDY BAY TAS 7005,House,5,2,3,850m² ,19 Sep 2023
+"1,170,000","43 Queen Street,",SANDY BAY TAS 7005,House,3,1,−,303m² ,18 Sep 2023
+"1,170,000","59 Princes Street,",SANDY BAY TAS 7005,House,4,1,4,693m² ,18 Sep 2023
+"1,350,000 ","1/8 Stephanie Close,",SANDY BAY TAS 7005,House,3,2,2,457m² ,18 Sep 2023
+"1,207,000","32 Coolabah Road,",SANDY BAY TAS 7005,House,4,2,4,635m² ,18 Sep 2023
+"621,500 ","639 Huon Road,",SOUTH HOBART TAS 7004,House,2,1,1,512m² ,18 Sep 2023
+"1,325,000","22 Nelson Road,",SANDY BAY TAS 7005,House,3,1,3,"1,073m² ",13 Sep 2023
+"880,000 ","118A Hill Street,",WEST HOBART TAS 7000,House,3,1,2,405m² ,12 Sep 2023
+"935,000 ","1/6 Stowell Avenue,",BATTERY POINT TAS 7004,House,2,2,2,176m² ,11 Sep 2023
+"1,800,000 ","4a Toorak Avenue,",MOUNT STUART TAS 7000,House,4,3,2,"1,563m² ",08 Sep 2023
+"1,185,000 ","4 Tiersen Place,",SANDY BAY TAS 7005,House,4,2,2,665m² ,08 Sep 2023
+"624,000","190 Waterworks Road,",DYNNYRNE TAS 7005,House,2,1,2,685m² ,07 Sep 2023
+"410,000 ","4/3A Montagu Street,",MOUNT STUART TAS 7000,House,2,1,1,61m² ,06 Sep 2023
+"1,020,000","41 Waimea Ave,",SANDY BAY TAS 7005,House,3,1,2,"1,034m² ",06 Sep 2023
+"950,000 ","136 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,2,2,556m² ,05 Sep 2023
+"864,000 ","40 Mellifont Street,",WEST HOBART TAS 7000,House,4,1,1,617m² ,05 Sep 2023
+"1,375,000 ","676 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,3,4,647m² ,04 Sep 2023
+"885,000 ","58 Grosvenor Street,",SANDY BAY TAS 7005,House,3,1,2,282m² ,04 Sep 2023
+"810,000 ","12A Summerhill Road,",WEST HOBART TAS 7000,House,3,1,2,835m² ,04 Sep 2023
+"1,840,000","83 Hill Street,",WEST HOBART TAS 7000,House,4,2,2,850m² ,02 Sep 2023
+"980,000 ","381 Argyle Street,",NORTH HOBART TAS 7000,House,3,1,2,347m² ,01 Sep 2023
+"1,150,000 ","4/26 Arthur Street,",WEST HOBART TAS 7000,House,3,2,1,155m² ,01 Sep 2023
+"850,000","14 Randall Street,",SANDY BAY TAS 7005,House,4,1,1,497m² ,31 Aug 2023
+"1,401,000","716 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,1,1,797m² ,29 Aug 2023
+"911,000 ","66 Hamilton Street,",WEST HOBART TAS 7000,House,3,1,2,678m² ,28 Aug 2023
+"770,000","17 Minallo Avenue,",WEST HOBART TAS 7000,House,2,1,2,411m² ,27 Aug 2023
+"966,700","37 Poets Road,",WEST HOBART TAS 7000,House,4,2,3,533m² ,24 Aug 2023
+"450,000 ","10/32A Pillinger Street,",DYNNYRNE TAS 7005,House,2,1,1,86m² ,23 Aug 2023
+"440,000 ","3/845 Sandy Bay Road,",SANDY BAY TAS 7005,House,2,1,1,77m² ,23 Aug 2023
+"1,300,000 ","41 Newdegate Street,",WEST HOBART TAS 7000,House,4,2,1,386m² ,21 Aug 2023
+"1,325,000","15 Browne Street,",WEST HOBART TAS 7000,House,3,2,1,384m² ,20 Aug 2023
+"1,100,000","16 Quayle Street,",SANDY BAY TAS 7005,House,3,1,4,934m² ,18 Aug 2023
+"825,000 ","10 Bonnington Road,",WEST HOBART TAS 7000,House,3,1,3,350m² ,18 Aug 2023
+"780,000 ","26 Corby Avenue,",WEST HOBART TAS 7000,House,4,2,−,350m² ,16 Aug 2023
+"915,000","2 Lochner Street,",WEST HOBART TAS 7000,House,3,1,1,547m² ,15 Aug 2023
+"1,250,000 ","35 York Street,",SANDY BAY TAS 7005,House,3,2,1,782m² ,10 Aug 2023
+"836,000 ","13 Petty Street,",WEST HOBART TAS 7000,House,3,1,−,500m² ,10 Aug 2023
+"2,701,000","5 Mona Street,",BATTERY POINT TAS 7004,House,3,1,3,668m² ,09 Aug 2023
+"612,000 ","1/44 Church Street,",NORTH HOBART TAS 7000,House,2,1,1,297m² ,09 Aug 2023
+"1,541,000","395 Liverpool Street,",WEST HOBART TAS 7000,House,5,3,−,"1,224m² ",09 Aug 2023
+"611,000","3/288 Davey Street,",SOUTH HOBART TAS 7004,House,1,1,2,199m² ,07 Aug 2023
+"885,000 ","12 Wellesley Street,",SOUTH HOBART TAS 7004,House,3,2,−,408m² ,07 Aug 2023
+"1,412,000","20 Date Court,",SANDY BAY TAS 7005,House,3,2,2,"1,315m² ",05 Aug 2023
+"1,425,000","12 Sonning Crescent,",SANDY BAY TAS 7005,House,5,2,4,"1,035m² ",04 Aug 2023
+"763,000","10 Lawley Crescent,",SOUTH HOBART TAS 7004,House,3,1,3,751m² ,03 Aug 2023
+"960,000 ","13 Darling Parade,",MOUNT STUART TAS 7000,House,3,2,2,784m² ,01 Aug 2023
+"800,000 ","16a Gordon Avenue,",MOUNT STUART TAS 7000,House,3,1,1,508m² ,01 Aug 2023
+"830,000 ","4 Paraclete Avenue,",MOUNT STUART TAS 7000,House,2,1,2,827m² ,31 Jul 2023
+"2,930,000","17 Red Chapel Avenue,",SANDY BAY TAS 7005,House,4,2,2,"1,388m² ",30 Jul 2023
+"1,112,000 ","69 Princes Street,",SANDY BAY TAS 7005,House,3,2,4,307m² ,26 Jul 2023
+"845,000 ","99 Burnett Street,",NORTH HOBART TAS 7000,House,2,2,−,167m² ,25 Jul 2023
+"735,000","15 Feltham Street,",NORTH HOBART TAS 7000,House,2,1,1,153m² ,23 Jul 2023
+"950,000 ","158 Goulburn Street,",WEST HOBART TAS 7000,House,4,2,1,424m² ,19 Jul 2023
+"2,200,000","8 Ellerslie Road,",BATTERY POINT TAS 7004,House,3,2,6,"1,385m² ",15 Jul 2023
+"735,000 ","123 Warwick Street,",WEST HOBART TAS 7000,House,3,1,1,186m² ,13 Jul 2023
+"1,370,000","56 Parliament Street,",SANDY BAY TAS 7005,House,3,2,2,372m² ,12 Jul 2023
+"790,000 ","109 Waterworks Road,",DYNNYRNE TAS 7005,House,3,1,2,"1,401m² ",10 Jul 2023
+"774,000 ","61 Salvator Road,",WEST HOBART TAS 7000,House,3,1,2,614m² ,10 Jul 2023
+"980,000","89 Lipscombe Avenue,",SANDY BAY TAS 7005,House,3,2,2,749m² ,07 Jul 2023
+"970,000","675 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,1,2,701m² ,06 Jul 2023
+"811,500 ","11 Kirval Court,",WEST HOBART TAS 7000,House,3,2,3,584m² ,06 Jul 2023
+"1,240,000 ","23 Derwentwater Avenue,",SANDY BAY TAS 7005,House,5,2,2,873m² ,04 Jul 2023
+"1,170,000","19 Audley Street,",NORTH HOBART TAS 7000,House,5,2,4,759m² ,03 Jul 2023
+"1,750,000","697 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,2,3,"1,391m² ",29 Jun 2023
+"1,275,199","2/3a Shepherd Street,",SANDY BAY TAS 7005,House,4,2,4,492m² ,28 Jun 2023
+"690,000 ","44 Anglesea Street,",SOUTH HOBART TAS 7004,House,2,1,2,147m² ,28 Jun 2023
+"685,000","350 Macquarie Street,",SOUTH HOBART TAS 7004,House,2,1,2,179m² ,27 Jun 2023
+"1,150,000 ","3 Nixon Street,",SANDY BAY TAS 7005,House,2,2,2,513m² ,22 Jun 2023
+"1,557,500","35 Fitzroy Place,",SANDY BAY TAS 7005,House,3,2,2,589m² ,21 Jun 2023
+"1,130,000 ","16a Maning Avenue,",SANDY BAY TAS 7005,House,4,2,3,815m² ,20 Jun 2023
+"800,000 ","2 Drummond Street,",SOUTH HOBART TAS 7004,House,2,1,1,264m² ,20 Jun 2023
+"1,510,000","13 Balmoral Street,",SANDY BAY TAS 7005,House,4,2,1,427m² ,19 Jun 2023
+"1,115,500","1/33 Shepherd Street,",SANDY BAY TAS 7005,House,4,3,4,592m² ,19 Jun 2023
+"850,000","20 Grayling Avenue,",SOUTH HOBART TAS 7004,House,4,1,2,756m² ,19 Jun 2023
+"795,000 ","9 Syme Street,",SOUTH HOBART TAS 7004,House,3,1,3,440m² ,15 Jun 2023
+"827,000 ","41A Mount Stuart Road,",MOUNT STUART TAS 7000,House,3,1,2,476m² ,13 Jun 2023
+"345,000","10/8 Allison Street,",WEST HOBART TAS 7000,House,1,1,1,70m² ,13 Jun 2023
+"720,000 ","5 Allambee Crescent,",GLEBE TAS 7000,House,3,1,3,561m² ,10 Jun 2023
+"1,031,500 ","53 Lord Street,",SANDY BAY TAS 7005,House,3,1,1,427m² ,10 Jun 2023
+"2,550,000","30 Marlborough Street,",SANDY BAY TAS 7005,House,4,3,2,820m² ,09 Jun 2023
+"1,180,000","174 Waterworks Road,",DYNNYRNE TAS 7005,House,4,3,4,"6,900m² ",08 Jun 2023
+"900,000","20 Quayle Street,",SANDY BAY TAS 7005,House,3,2,1,207m² ,06 Jun 2023
+"920,000 ","15 Lochner Street,",WEST HOBART TAS 7000,House,4,2,3,663m² ,05 Jun 2023
+"950,000","2 Newport Street,",NORTH HOBART TAS 7000,House,3,2,1,407m² ,03 Jun 2023
+"1,145,000",,SANDY BAY TAS 7005,House,3,2,−,344m² ,03 Jun 2023
+"4,017,000","14 - 16 Sonning Crescent,",SANDY BAY TAS 7005,House,6,3,3,"2,780m² ",02 Jun 2023
+"1,250,000 ","61 View Street,",SANDY BAY TAS 7005,House,4,2,2,496m² ,02 Jun 2023
+"950,000 ","32 Lower Jordan Hill Road,",WEST HOBART TAS 7000,House,4,1,2,804m² ,02 Jun 2023
+"1,582,000","119 Lansdowne Crescent,",WEST HOBART TAS 7000,House,5,2,2,"1,028m² ",02 Jun 2023
+"780,000","18 George Street,",NORTH HOBART TAS 7000,House,2,1,5,416m² ,01 Jun 2023
+"1,040,000","2/22 Marlborough Street,",SANDY BAY TAS 7005,House,3,2,2,332m² ,01 Jun 2023
+"736,000 ","21 Yardley Street,",NORTH HOBART TAS 7000,House,2,1,1,189m² ,31 May 2023
+"1,075,000","1/875 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,3,2,736m² ,31 May 2023
+"1,316,411 ","40 Apsley Street,",SOUTH HOBART TAS 7004,House,4,2,2,728m² ,29 May 2023
+"610,000 ","27/10 Waterworks Road,",DYNNYRNE TAS 7005,House,3,2,2,275m² ,26 May 2023
+"695,000","4 George Street,",NORTH HOBART TAS 7000,House,2,2,−,176m² ,25 May 2023
+"1,161,500","7 Waimea Avenue,",SANDY BAY TAS 7005,House,4,2,2,822m² ,25 May 2023
+"1,237,000 ","97 Lansdowne Crescent,",WEST HOBART TAS 7000,House,4,1,−,550m² ,23 May 2023
+"1,250,000","115 King Street,",SANDY BAY TAS 7005,House,3,1,1,387m² ,22 May 2023
+"800,000","388 Argyle Street,",NORTH HOBART TAS 7000,House,3,1,−,644m² ,20 May 2023
+"1,680,000","7 Pillinger Street,",DYNNYRNE TAS 7005,House,4,2,4,677m² ,18 May 2023
+"850,000 ","370 Argyle Street,",NORTH HOBART TAS 7000,House,3,1,1,431m² ,18 May 2023
+"1,150,000 ","40 Lord Street,",SANDY BAY TAS 7005,House,5,3,2,399m² ,18 May 2023
+"1,510,000 ","451 Macquarie Street,",SOUTH HOBART TAS 7004,House,4,2,4,925m² ,16 May 2023
+"637,700 ","2/40 Valley Street,",WEST HOBART TAS 7000,House,3,1,1,324m² ,15 May 2023
+"805,000","116 Cascade Road,",SOUTH HOBART TAS 7004,House,3,1,2,551m² ,14 May 2023
+"1,300,000","87 Princes Street,",SANDY BAY TAS 7005,House,4,3,2,858m² ,11 May 2023
+"3,111,000","20 Fitzroy Place,",SANDY BAY TAS 7005,House,18,4,10,"2,152m² ",10 May 2023
+"871,000 ","1 Wellesley Street,",SOUTH HOBART TAS 7004,House,3,1,2,692m² ,09 May 2023
+"1,105,000 ","19 Liverpool Crescent,",WEST HOBART TAS 7000,House,3,2,2,569m² ,09 May 2023
+"825,000 ","15 Lillie Street,",GLEBE TAS 7000,House,2,1,1,222m² ,08 May 2023
+"1,350,000 ","5/31 Fitzroy Place,",SANDY BAY TAS 7005,House,3,2,2,228m² ,08 May 2023
+"936,000 ","10 Browne Street,",WEST HOBART TAS 7000,House,2,1,3,543m² ,06 May 2023
+"1,000,000 ","23 Pine Street,",WEST HOBART TAS 7000,House,3,1,3,422m² ,06 May 2023
+"2,870,000","42 Kelly Street,",BATTERY POINT TAS 7004,House,4,3,2,398m² ,04 May 2023
+"1,125,000 ","488 Churchill Avenue,",SANDY BAY TAS 7005,House,4,2,4,801m² ,04 May 2023
+"1,116,190 ","21 Bonnington Road,",WEST HOBART TAS 7000,House,3,1,−,324m² ,04 May 2023
+"1,150,000","8 Belton Street,",SOUTH HOBART TAS 7004,House,3,2,1,443m² ,03 May 2023
+"1,080,000 ","48 Liverpool Crescent,",WEST HOBART TAS 7000,House,4,3,3,"1,223m² ",03 May 2023
+"1,575,000","40 Beddome Street,",SANDY BAY TAS 7005,House,4,4,4,"1,004m² ",02 May 2023
+"1,200,000","19 Carr Street,",NORTH HOBART TAS 7000,House,8,3,4,671m² ,29 Apr 2023
+"1,300,000","44 Knocklofty Terrace,",WEST HOBART TAS 7000,House,4,3,3,602m² ,29 Apr 2023
+"1,350,000","3 Rose Court,",SANDY BAY TAS 7005,House,5,3,4,589m² ,28 Apr 2023
+"836,500 ","37 Benjafield Terrace,",MOUNT STUART TAS 7000,House,3,2,3,500m² ,27 Apr 2023
+"960,000 ","86 King Street,",SANDY BAY TAS 7005,House,3,1,2,348m² ,24 Apr 2023
+"1,520,000 ","34 De Witt Street,",BATTERY POINT TAS 7004,House,3,1,3,447m² ,2023
+"965,000","2 Bimbadeen Court,",WEST HOBART TAS 7000,House,4,2,2,607m² ,22 Apr 2023
+"750,000 ","36 George Street,",NORTH HOBART TAS 7000,House,2,1,−,94m² ,20 Apr 2023
+"785,000 ","3/10 Wellington Street,",NORTH HOBART TAS 7000,Villa,2,1,2,168m² ,20 Apr 2023
+"680,000 ","2/9 Solana Place,",SANDY BAY TAS 7005,Villa,2,1,1,341m² ,19 Apr 2023
+"650,000 ","33 Mcrobies Road,",SOUTH HOBART TAS 7004,House,5,2,1,"3,068m² ",19 Apr 2023
+"1,516,000 ","34 Adelaide Street,",SOUTH HOBART TAS 7004,House,4,3,1,537m² ,19 Apr 2023
+"1,550,000 ","2/806 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,4,2,530m² ,18 Apr 2023
+"405,000 ","1/29 Wentworth Street,",SOUTH HOBART TAS 7004,House,1,1,−,130m² ,18 Apr 2023
+"1,800,000","2 Willowdene Avenue,",SANDY BAY TAS 7005,House,4,2,2,"1,058m² ",17 Apr 2023
+"1,006,000 ","5 Erindale Place,",SOUTH HOBART TAS 7004,House,4,2,3,748m² ,16 Apr 2023
+"2,820,000","780a Sandy Bay Road,",SANDY BAY TAS 7005,House,2,2,4,"1,279m² ",14 Apr 2023
+"1,675,000","5 Red Chapel Avenue,",SANDY BAY TAS 7005,House,3,2,4,609m² ,13 Apr 2023
+"1,515,000 ","224 Melville Street,",WEST HOBART TAS 7000,House,5,2,5,496m² ,11 Apr 2023
+"830,000 ","1/1a Buchanan Avenue,",SANDY BAY TAS 7005,Villa,3,2,1,275m² ,10 Apr 2023
+"845,000","16 Randall Street,",SANDY BAY TAS 7005,House,2,2,2,292m² ,09 Apr 2023
+"865,000","8/51-53 Newdegate Street,",WEST HOBART TAS 7000,House,3,2,2,232m² ,07 Apr 2023
+"990,000 ","171 Goulburn Street,",WEST HOBART TAS 7000,House,3,1,−,181m² ,06 Apr 2023
+"1,210,000 ","62 Cascade Road,",SOUTH HOBART TAS 7004,House,3,2,3,937m² ,05 Apr 2023
+"825,000 ","181 Warwick Street,",WEST HOBART TAS 7000,House,3,1,1,350m² ,05 Apr 2023
+"935,000 ","43 Proctors Road,",DYNNYRNE TAS 7005,House,3,1,3,692m² ,03 Apr 2023
+"780,000","29a Reynolds Court,",DYNNYRNE TAS 7005,House,4,2,2,460m² ,03 Apr 2023
+"1,935,000","693 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,2,5,812m² ,02 Apr 2023
+"840,000","2/27 Parliament Street,",SANDY BAY TAS 7005,House,3,2,1,249m² ,01 Apr 2023
+"1,700,000 ","25 Waterworks Road,",DYNNYRNE TAS 7005,House,5,3,6,"1,583m² ",31 Mar 2023
+"995,000 ","52 Wellington Street,",NORTH HOBART TAS 7000,House,4,1,2,390m² ,30 Mar 2023
+"825,000 ","90 Wentworth Street,",SOUTH HOBART TAS 7004,House,3,1,2,519m² ,28 Mar 2023
+"800,000 ","47 Corby Avenue,",WEST HOBART TAS 7000,House,3,1,2,670m² ,28 Mar 2023
+"3,075,000","21 Carr Street,",NORTH HOBART TAS 7000,House,5,3,7,"2,455m² ",27 Mar 2023
+"1,255,000","11 Lipscombe Avenue,",SANDY BAY TAS 7005,House,3,2,2,699m² ,27 Mar 2023
+"985,000 ","2/41 Hill Street,",WEST HOBART TAS 7000,House,3,2,2,336m² ,27 Mar 2023
+"1,401,000","105 Waterworks Road,",DYNNYRNE TAS 7005,House,4,2,2,"9,098m² ",26 Mar 2023
+"885,000","200 Brisbane Street,",WEST HOBART TAS 7000,House,3,1,1,250m² ,22 Mar 2023
+"676,000 ","37 Louden Street,",SOUTH HOBART TAS 7004,House,1,1,1,741m² ,20 Mar 2023
+"900,000 ","5 Cascade Road,",SOUTH HOBART TAS 7004,House,4,1,−,341m² ,20 Mar 2023
+"917,000","233 Warwick Street,",WEST HOBART TAS 7000,House,3,1,1,650m² ,20 Mar 2023
+"830,000 ","28 Carr Street,",NORTH HOBART TAS 7000,House,3,1,1,218m² ,19 Mar 2023
+"1,450,000","2/625 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,1,1,271m² ,18 Mar 2023
+"665,000","42 Liverpool Crescent,",WEST HOBART TAS 7000,House,4,2,1,546m² ,15 Mar 2023
+"790,000 ","25 Bonnington Road,",WEST HOBART TAS 7000,Duplex,2,1,−,200m² ,14 Mar 2023
+"970,000 ","1 Kendrick Court,",DYNNYRNE TAS 7005,House,3,2,3,583m² ,11 Mar 2023
+"750,000 ","64 Feltham Street,",NORTH HOBART TAS 7000,House,2,1,3,272m² ,10 Mar 2023
+"1,590,000","317 Davey Street,",SOUTH HOBART TAS 7004,House,4,2,2,557m² ,10 Mar 2023
+"790,000 ","80 Jubilee Road,",SOUTH HOBART TAS 7004,House,3,1,4,"2,130m² ",09 Mar 2023
+"800,000","11 Quamby Avenue,",SANDY BAY TAS 7005,House,2,1,1,112m² ,08 Mar 2023
+"2,450,000","11 Elma Road,",SANDY BAY TAS 7005,House,4,2,4,853m² ,07 Mar 2023
+"1,651,000","6 Garth Avenue,",SANDY BAY TAS 7005,House,3,2,1,817m² ,07 Mar 2023
+"2,450,000","32 Clarke Avenue,",BATTERY POINT TAS 7004,House,6,3,1,473m² ,06 Mar 2023
+"1,420,000","54 Grosvenor Street,",SANDY BAY TAS 7005,House,3,1,2,311m² ,06 Mar 2023
+"920,000 ","24 Shoobridge Street,",GLEBE TAS 7000,House,3,2,2,541m² ,04 Mar 2023
+"1,355,000 ","11 Nixon Street,",SANDY BAY TAS 7005,House,4,1,2,405m² ,02 Mar 2023
+"1,290,000 ","1/877 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,2,3,427m² ,02 Mar 2023
+"790,000","85 Princes Street,",SANDY BAY TAS 7005,House,3,1,3,418m² ,2 Mar 2023
+"990,000 ","81 Lansdowne Crescent,",WEST HOBART TAS 7000,House,5,1,3,782m² ,02 Mar 2023
+"670,000 ","635 Huon Road,",SOUTH HOBART TAS 7004,House,3,1,4,610m² ,01 Mar 2023
+"1,350,000 ","141 Molle Street,",WEST HOBART TAS 7000,House,3,2,2,261m² ,01 Mar 2023
+"2,752,000","23 Napoleon Street,",BATTERY POINT TAS 7004,House,3,2,2,467m² ,27 Feb 2023
+"590,000 ","5/10 Waterworks Road,",DYNNYRNE TAS 7005,Villa,3,2,2,347m² ,27 Feb 2023
+"1,015,000 ","2/13-15 Bath Street,",BATTERY POINT TAS 7004,House,3,2,1,265m² ,24 Feb 2023
+"1,800,000","34 Regent Street,",SANDY BAY TAS 7005,House,5,2,4,437m² ,24 Feb 2023
+"1,080,000","23 Willowdene Avenue,",SANDY BAY TAS 7005,House,5,2,1,574m² ,24 Feb 2023
+"2,860,000","20 Nelson Road,",SANDY BAY TAS 7005,House,5,4,4,"1,065m² ",22 Feb 2023
+"875,000 ","11 Allambee Crescent,",GLEBE TAS 7000,House,3,1,2,572m² ,20 Feb 2023
+"1,761,000","22 Sonning Crescent,",SANDY BAY TAS 7005,House,4,2,2,"1,741m² ",19 Feb 2023
+"2,430,000","4 David Avenue,",SANDY BAY TAS 7005,House,4,2,6,975m² ,18 Feb 2023
+"890,000 ","55 Mortimer Avenue,",MOUNT STUART TAS 7000,House,3,1,2,701m² ,15 Feb 2023
+"1,625,000","25 McAulay Road,",SANDY BAY TAS 7005,House,3,2,2,624m² ,15 Feb 2023
+"1,950,000","20 Anglesea Street,",SOUTH HOBART TAS 7004,House,4,3,4,718m² ,15 Feb 2023
+"950,000 ","12 Poets Road,",WEST HOBART TAS 7000,House,3,1,−,556m² ,13 Feb 2023
+"1,450,000 ","5 Bayley Street,",GLEBE TAS 7000,House,4,1,1,428m² ,11 Feb 2023
+"1,150,000","4 View Street,",SANDY BAY TAS 7005,House,4,1,2,587m² ,11 Feb 2023
+"1,170,000 ","487 Churchill Avenue,",SANDY BAY TAS 7005,House,3,2,2,756m² ,08 Feb 2023
+"1,600,016","16 Chadwick Court,",WEST HOBART TAS 7000,House,4,2,5,"1,015m² ",08 Feb 2023
+"710,000 ","16 Syme Street,",SOUTH HOBART TAS 7004,House,3,1,1,647m² ,05 Feb 2023
+"1,050,000 ","3 Longview Avenue,",SANDY BAY TAS 7005,House,3,2,2,690m² ,04 Feb 2023
+"2,620,000","12 Newcastle Street,",BATTERY POINT TAS 7004,House,4,3,1,550m² ,03 Feb 2023
+"1,325,000 ","9 Glebe Street,",GLEBE TAS 7000,House,4,2,3,443m² ,03 Feb 2023
+"440,000 ","7/197 Strickland Avenue,",SOUTH HOBART TAS 7004,House,1,1,2,236m² ,03 Feb 2023
+"600,000 ","18 Louden Street,",SOUTH HOBART TAS 7004,House,3,2,2,822m² ,31 Jan 2023
+"850,000 ","4 Clutha Place,",SOUTH HOBART TAS 7004,House,4,1,5,852m² ,30 Jan 2023
+"790,000","55 Smith Street,",NORTH HOBART TAS 7000,House,3,1,−,218m² ,29 Jan 2023
+"920,000 ","9 Quayle Street,",SANDY BAY TAS 7005,House,3,1,−,408m² ,28 Jan 2023
+"710,000","2/13A Lansdowne Crescent,",WEST HOBART TAS 7000,Villa,3,1,1,278m² ,27 Jan 2023
+"905,000 ","100 Mount Stuart Road,",MOUNT STUART TAS 7000,House,2,1,3,744m² ,20 Jan 2023
+"1,300,000","4 Darling Parade,",MOUNT STUART TAS 7000,House,4,2,4,578m² ,20 Jan 2023
+"495,000 ","8/7 Derwentwater Avenue,",SANDY BAY TAS 7005,Villa,1,1,1,188m² ,19 Jan 2023
+"1,320,000 ","8 Aberdeen Street,",GLEBE TAS 7000,House,4,3,3,430m² ,18 Jan 2023
+"1,280,000 ","101A Arthur Street,",WEST HOBART TAS 7000,House,4,2,2,465m² ,18 Jan 2023
+"1,000,000","5 Salier Crescent,",MOUNT STUART TAS 7000,House,3,1,3,712m² ,17 Jan 2023
+"832,000","14 Yardley Street,",NORTH HOBART TAS 7000,House,2,1,−,251m² ,14 Jan 2023
+"1,050,000","40 Gordon Avenue,",MOUNT STUART TAS 7000,House,4,2,1,"1,728m² ",11 Jan 2023
+"850,000 ","9 Belton Street,",SOUTH HOBART TAS 7004,House,2,1,−,453m² ,09 Jan 2023
+"1,890,000","29 Marlborough Street,",SANDY BAY TAS 7005,House,4,4,4,723m² ,06 Jan 2023
+"1,180,000","7-9 Weld Street,",SOUTH HOBART TAS 7004,House,4,1,−,242m² ,03 Jan 2023
+"1,050,000 ","1/35 Hamilton Street,",WEST HOBART TAS 7000,House,3,1,1,346m² ,24 Dec 2022
+"853,000 ","56 Tasma Street,",NORTH HOBART TAS 7000,House,3,1,−,214m² ,23 Dec 2022
+"1,100,001","16 York Street,",SANDY BAY TAS 7005,House,3,1,2,541m² ,22 Dec 2022
+"900,000 ","11 Cavell Street,",WEST HOBART TAS 7000,House,3,1,1,498m² ,22 Dec 2022
+"1,350,000","14 Fehre Court,",SANDY BAY TAS 7005,House,5,3,4,756m² ,21 Dec 2022
+"1,200,000 ","17 Thomas Street,",NORTH HOBART TAS 7000,House,4,2,3,581m² ,20 Dec 2022
+"1,100,000 ","98 Molle Street,",WEST HOBART TAS 7000,House,3,1,3,165m² ,20 Dec 2022
+"920,000","4 Franklin Street,",WEST HOBART TAS 7000,House,3,1,2,706m² ,17 Dec 2022
+"880,000 ","42 Wellington Street,",NORTH HOBART TAS 7000,House,3,1,−,163m² ,16 Dec 2022
+"790,000 ","9 Kooyong Glen,",SOUTH HOBART TAS 7004,House,3,1,1,688m² ,16 Dec 2022
+"915,000","62 Feltham Street,",NORTH HOBART TAS 7000,House,3,2,5,272m² ,14 Dec 2022
+"2,750,000","5 Melrose Court,",SANDY BAY TAS 7005,House,4,2,3,"1,187m² ",13 Dec 2022
+"965,000 ","94 Princes Street,",SANDY BAY TAS 7005,House,3,1,1,387m² ,12 Dec 2022
+"1,500,000 ","55 Lipscombe Avenue,",SANDY BAY TAS 7005,House,4,3,4,630m² ,09 Dec 2022
+"900,000 ","44 Princes Street,",SANDY BAY TAS 7005,House,3,3,2,402m² ,08 Dec 2022
+"1,300,000 ","25 Plaister Court,",SANDY BAY TAS 7005,House,7,3,3,774m² ,08 Dec 2022
+"875,000 ","12 Rupara Avenue,",WEST HOBART TAS 7000,House,3,1,2,801m² ,08 Dec 2022
+"1,435,000 ","45 Summerhill Road,",WEST HOBART TAS 7000,House,4,3,2,786m² ,08 Dec 2022
+"651,000","36 Federal Street,",NORTH HOBART TAS 7000,House,1,1,−,287m² ,07 Dec 2022
+"847,000 ","97 Marlyn Road,",SOUTH HOBART TAS 7004,House,3,1,5,906m² ,07 Dec 2022
+"978,000 ","16 Allison Street,",WEST HOBART TAS 7000,House,3,1,2,350m² ,07 Dec 2022
+"1,200,000 ","5 Solana Place,",SANDY BAY TAS 7005,House,5,3,3,640m² ,06 Dec 2022
+"940,000 ","531 Churchill Avenue,",SANDY BAY TAS 7005,House,3,1,3,"1,108m² ",04 Dec 2022
+"3,075,000","12 Francis Street,",BATTERY POINT TAS 7004,House,4,2,2,409m² ,02 Dec 2022
+"852,000","44 Degraves Street,",SOUTH HOBART TAS 7004,House,3,1,3,485m² ,02 Dec 2022
+"1,300,000","749 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,2,3,"1,376m² ",01 Dec 2022
+"749,900 ","2/67A Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,1,2,655m² ,01 Dec 2022
+"720,000","9 Denison Street,",SOUTH HOBART TAS 7004,House,2,1,1,268m² ,01 Dec 2022
+"1,510,000","1 Proctors Road,",DYNNYRNE TAS 7005,House,3,2,3,577m² ,30 Nov 2022
+"1,270,000 ","42 Elphinstone Road,",MOUNT STUART TAS 7000,House,4,2,3,604m² ,30 Nov 2022
+"940,000 ","23 Waverley Avenue,",MOUNT STUART TAS 7000,House,3,2,−,728m² ,30 Nov 2022
+"670,000","48 George Street,",NORTH HOBART TAS 7000,House,2,1,−,101m² ,29 Nov 2022
+"1,725,000 ","143 King Street,",SANDY BAY TAS 7005,House,3,2,2,664m² ,29 Nov 2022
+"1,000,000","58 Alexander Street,",SANDY BAY TAS 7005,House,5,2,2,604m² ,29 Nov 2022
+"860,000","130 Strickland Avenue,",SOUTH HOBART TAS 7004,House,5,2,3,"1,695m² ",29 Nov 2022
+"910,000 ","3 Cavell Street,",WEST HOBART TAS 7000,House,3,1,2,413m² ,29 Nov 2022
+"1,450,000","25 De Witt Street,",BATTERY POINT TAS 7004,House,2,2,−,212m² ,28 Nov 2022
+"1,210,000 ","13 Salier Crescent,",MOUNT STUART TAS 7000,House,4,2,2,623m² ,28 Nov 2022
+"750,000 ","43 Smith Street,",NORTH HOBART TAS 7000,House,2,1,−,107m² ,28 Nov 2022
+"1,337,500 ","4/10 Bective Street,",SANDY BAY TAS 7005,House,3,3,2,365m² ,28 Nov 2022
+"810,000","304 Murray Street,",NORTH HOBART TAS 7000,House,3,1,3,435m² ,26 Nov 2022
+"1,150,000 ","31 Knocklofty Terrace,",WEST HOBART TAS 7000,House,4,2,2,554m² ,25 Nov 2022
+"1,025,000","278 Bathurst Street,",WEST HOBART TAS 7000,House,4,1,−,351m² ,23 Nov 2022
+"750,000","47A Mount Stuart Road,",MOUNT STUART TAS 7000,House,3,2,2,769m² ,21 Nov 2022
+"610,250 ","1/118 Strickland Avenue,",SOUTH HOBART TAS 7004,House,2,1,2,402m² ,21 Nov 2022
+"988,888 ","5 Livingston Street,",SOUTH HOBART TAS 7004,House,4,2,3,678m² ,21 Nov 2022
+"940,000","2/26 View Street,",SANDY BAY TAS 7005,House,2,2,2,142m² ,19 Nov 2022
+"1,525,000","799 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,2,3,"1,103m² ",17 Nov 2022
+"1,050,000 ","36 Runnymede Street,",BATTERY POINT TAS 7004,House,3,1,2,322m² ,15 Nov 2022
+"870,000","2 Kennerley Street,",WEST HOBART TAS 7000,House,3,1,1,473m² ,15 Nov 2022
+"2,200,000 ","328 Liverpool Street,",WEST HOBART TAS 7000,House,4,2,3,"1,416m² ",14 Nov 2022
+"750,000","8 Strahan Street,",NORTH HOBART TAS 7000,House,1,2,1,169m² ,12 Nov 2022
+"1,650,000","60 Newdegate Street,",WEST HOBART TAS 7000,House,4,1,4,"1,126m² ",12 Nov 2022
+"3,150,000 ","35 Mawhera Avenue,",SANDY BAY TAS 7005,House,5,3,2,"1,083m² ",10 Nov 2022
+"928,000 ","19 Baintree Avenue,",DYNNYRNE TAS 7005,House,3,2,3,640m² ,09 Nov 2022
+"3,250,000","9 Heathorn Avenue,",SANDY BAY TAS 7005,House,5,3,3,722m² ,09 Nov 2022
+"820,000 ","2/122 King Street,",DYNNYRNE TAS 7005,Villa,3,2,1,310m² ,07 Nov 2022
+"685,000 ","13-15 Clutha Place,",SOUTH HOBART TAS 7004,House,3,1,4,"1,733m² ",07 Nov 2022
+"1,095,000","1 Erindale Place,",SOUTH HOBART TAS 7004,House,4,2,3,792m² ,07 Nov 2022
+"2,510,000 ","19 Waimea Avenue,",SANDY BAY TAS 7005,House,4,2,2,"1,374m² ",05 Nov 2022
+"815,000 ","23 Bonnington Road,",WEST HOBART TAS 7000,House,3,1,1,443m² ,04 Nov 2022
+"1,256,000","4/29 Red Chapel Avenue,",SANDY BAY TAS 7005,House,3,2,2,496m² ,01 Nov 2022
+"1,620,000","15 Parliament Street,",SANDY BAY TAS 7005,House,4,2,4,936m² ,01 Nov 2022
+"2,100,000","13 Beach Road,",SANDY BAY TAS 7005,House,2,2,1,285m² ,31 Oct 2022
+"950,000 ","12 Lower Jordan Hill Road,",WEST HOBART TAS 7000,House,3,1,1,801m² ,31 Oct 2022
+"883,759 ","104 Gillon Crescent,",MOUNT STUART TAS 7000,House,4,1,4,600m² ,25 Oct 2022
+"710,000 ","58 Hillborough Road,",SOUTH HOBART TAS 7004,House,3,1,2,550m² ,25 Oct 2022
+"853,000 ","4 Knocklofty Terrace,",WEST HOBART TAS 7000,House,3,2,1,400m² ,25 Oct 2022
+"1,275,000","96 Princes Street,",SANDY BAY TAS 7005,House,3,2,−,545m² ,22 Oct 2022
+"2,500,000 ","40c Nicholas Drive,",SANDY BAY TAS 7005,House,3,2,2,"10,100m² ",21 Oct 2022
+"1,045,000","19 Nicholas Drive,",SANDY BAY TAS 7005,House,4,1,2,754m² ,21 Oct 2022
+"2,150,000 ","2 Date Court,",SANDY BAY TAS 7005,House,5,3,4,591m² ,21 Oct 2022
+"2,150,000","3 Lansdowne Crescent,",WEST HOBART TAS 7000,House,4,2,2,819m² ,21 Oct 2022
+"525,000","133 Waterworks Road,",DYNNYRNE TAS 7005,House,2,1,1,974m² ,19 Oct 2022
+"1,220,000 ","811 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,1,2,761m² ,18 Oct 2022
+"1,398,000","36 Lipscombe Avenue,",SANDY BAY TAS 7005,House,4,3,2,587m² ,16 Oct 2022
+"925,000 ","12 Ryde Street,",NORTH HOBART TAS 7000,House,2,1,−,202m² ,14 Oct 2022
+"825,000 ","10 Regent Street,",SANDY BAY TAS 7005,House,4,1,−,210m² ,14 Oct 2022
+"951,000 ","18 Hillside Crescent,",WEST HOBART TAS 7000,House,3,1,2,"1,113m² ",12 Oct 2022
+"1,451,000 ","103 Arthur Street,",WEST HOBART TAS 7000,House,4,2,4,492m² ,12 Oct 2022
+"1,250,000 ","1/9A Shepherd Street,",SANDY BAY TAS 7005,House,3,3,2,368m² ,05 Oct 2022
+"1,600,000","94 Regent Street,",SANDY BAY TAS 7005,House,4,2,2,780m² ,05 Oct 2022
+"2,725,000 ",,SANDY BAY TAS 7005,House,5,2,2,802m² ,04 Oct 2022
+"1,238,000 ","26 Adelaide Street,",SOUTH HOBART TAS 7004,House,2,2,1,437m² ,04 Oct 2022
+"870,000","320 Macquarie Street,",SOUTH HOBART TAS 7004,House,5,2,1,438m² ,04 Oct 2022
+"1,590,000","114 York Street,",SANDY BAY TAS 7005,House,4,2,4,781m² ,03 Oct 2022
+"1,785,000","70 York Street,",SANDY BAY TAS 7005,House,4,2,2,780m² ,03 Oct 2022
+"566,500 ","1/3 McAulay Road,",SANDY BAY TAS 7005,Villa,2,1,1,127m² ,03 Oct 2022
+"910,000","1 Lynton Avenue,",SOUTH HOBART TAS 7004,House,4,3,3,754m² ,03 Oct 2022
+"1,160,000","53 Wellington Street,",NORTH HOBART TAS 7000,House,4,1,4,507m² ,02 Oct 2022
+"1,317,000","34 Washington Street,",SOUTH HOBART TAS 7004,House,3,1,2,759m² ,29 Sep 2022
+"1,125,000 ","8 Erina Place,",SANDY BAY TAS 7005,House,3,1,3,336m² ,28 Sep 2022
+"1,280,000","41 Beddome Street,",SANDY BAY TAS 7005,House,4,2,4,878m² ,27 Sep 2022
+"645,000","88 Cascade Road,",SOUTH HOBART TAS 7004,House,3,1,1,264m² ,27 Sep 2022
+"801,000 ","235 Davey Street,",SOUTH HOBART TAS 7004,House,3,1,2,415m² ,27 Sep 2022
+"1,107,000 ","111 Forest Road,",WEST HOBART TAS 7000,House,3,1,2,"1,072m² ",26 Sep 2022
+"1,075,000","13 Smith Street,",NORTH HOBART TAS 7000,House,3,1,2,301m² ,25 Sep 2022
+"1,400,000","14 Stoney Steps Road,",SOUTH HOBART TAS 7004,House,5,3,4,"7,013m² ",25 Sep 2022
+"840,000","53 Quayle Street,",SANDY BAY TAS 7005,House,2,1,−,206m² ,24 Sep 2022
+"1,200,000 ","526A Huon Road,",SOUTH HOBART TAS 7004,House,4,3,2,746m² ,23 Sep 2022
+"755,000 ","110 Warwick Street,",WEST HOBART TAS 7000,House,3,2,1,250m² ,23 Sep 2022
+"1,400,000 ","2 Salvator Road,",WEST HOBART TAS 7000,House,5,2,2,750m² ,21 Sep 2022
+"1,653,000","30A Nelson Road,",SANDY BAY TAS 7005,House,4,4,2,574m² ,17 Sep 2022
+"1,398,000 ","10 Quamby Avenue,",SANDY BAY TAS 7005,House,4,2,2,559m² ,12 Sep 2022
+"710,000 ","1/18 Maning Avenue,",SANDY BAY TAS 7005,House,2,1,2,162m² ,12 Sep 2022
+"2,500,000","112 King Street,",SANDY BAY TAS 7005,House,4,3,3,589m² ,12 Sep 2022
+"1,500,000 ","12 Union Street,",WEST HOBART TAS 7000,House,4,2,1,392m² ,09 Sep 2022
+"910,000 ","2a Downie Street,",SOUTH HOBART TAS 7004,House,2,1,1,205m² ,08 Sep 2022
+"1,112,000 ","398 Liverpool Street,",WEST HOBART TAS 7000,House,3,2,1,559m² ,08 Sep 2022
+"1,200,000 ","170 Forest Road,",WEST HOBART TAS 7000,House,4,2,3,643m² ,08 Sep 2022
+"1,250,000 ","2 Lefroy Street,",NORTH HOBART TAS 7000,House,3,2,2,269m² ,06 Sep 2022
+"1,000,000 ","19 Ascot Avenue,",SANDY BAY TAS 7005,House,3,2,3,650m² ,06 Sep 2022
+"1,720,000","12 Wandeet Place,",SANDY BAY TAS 7005,House,3,2,5,739m² ,04 Sep 2022
+"1,140,000 ","10 Dale Crescent,",MOUNT STUART TAS 7000,House,4,2,3,614m² ,03 Sep 2022
+"1,285,000 ","10 Cato Avenue,",WEST HOBART TAS 7000,House,3,1,1,683m² ,03 Sep 2022
+"650,000 ","9 George Street,",NORTH HOBART TAS 7000,House,1,1,2,170m² ,01 Sep 2022
+"863,000 ","21A Devonshire Square,",WEST HOBART TAS 7000,House,3,1,1,354m² ,01 Sep 2022
+"765,000","3 Ogilvie Street,",MOUNT STUART TAS 7000,House,3,1,4,683m² ,30 Aug 2022
+"830,000","127 Forest Road,",WEST HOBART TAS 7000,House,2,1,2,461m² ,30 Aug 2022
+"1,138,500 ","34 Coolabah Road,",SANDY BAY TAS 7005,House,3,2,1,668m² ,29 Aug 2022
+"1,050,000","18 Summerhill Road,",WEST HOBART TAS 7000,House,4,2,1,888m² ,29 Aug 2022
+"1,430,000","18a Mary Street,",NORTH HOBART TAS 7000,House,4,2,2,685m² ,27 Aug 2022
+"860,000","29 Ogilvie Street,",MOUNT STUART TAS 7000,House,3,1,2,592m² ,26 Aug 2022
+"1,735,000 ","2 Kirval Court,",WEST HOBART TAS 7000,House,4,2,3,599m² ,25 Aug 2022
+"1,455,500 ","8 Danval Place,",WEST HOBART TAS 7000,House,4,2,2,556m² ,24 Aug 2022
+"1,400,000","2 Pine Street,",WEST HOBART TAS 7000,House,3,1,1,483m² ,2022
+"990,000","24 Nicholas Drive,",SANDY BAY TAS 7005,House,5,2,3,782m² ,21 Aug 2022
+"915,000 ","15 Baintree Avenue,",DYNNYRNE TAS 7005,House,3,2,2,456m² ,18 Aug 2022
+"2,867,000","61-63 Hampden Road,",BATTERY POINT TAS 7004,House,4,2,−,410m² ,16 Aug 2022
+"1,260,000","32 George Street,",NORTH HOBART TAS 7000,House,3,1,1,235m² ,16 Aug 2022
+"1,352,000","33 Raymont Terrace,",MOUNT STUART TAS 7000,House,4,2,2,664m² ,12 Aug 2022
+"1,225,000 ","15 Dresden Street,",SANDY BAY TAS 7005,House,4,2,3,581m² ,12 Aug 2022
+"2,200,000 ","267 Sandy Bay Road,",SANDY BAY TAS 7005,House,5,1,1,942m² ,10 Aug 2022
+"1,385,000 ","10 Heathcombe Crescent,",SANDY BAY TAS 7005,House,3,2,2,736m² ,09 Aug 2022
+"1,290,000 ","801 Sandy Bay Road,",SANDY BAY TAS 7005,House,5,2,3,668m² ,09 Aug 2022
+"865,000 ","94 Queen Street,",SANDY BAY TAS 7005,House,3,1,−,249m² ,08 Aug 2022
+"1,650,000 ","19 Wandeet Place,",SANDY BAY TAS 7005,House,3,2,3,854m² ,04 Aug 2022
+"1,035,000","64 View Street,",SANDY BAY TAS 7005,House,2,1,1,427m² ,03 Aug 2022
+"960,000 ","9 Allison Street,",WEST HOBART TAS 7000,House,3,1,2,713m² ,02 Aug 2022
+"3,325,000","16 Francis Street,",BATTERY POINT TAS 7004,House,3,2,1,409m² ,01 Aug 2022
+"910,000 ","42 Duke Street,",SANDY BAY TAS 7005,House,3,1,1,476m² ,01 Aug 2022
+"1,100,000 ","54A Duke Street,",SANDY BAY TAS 7005,House,3,2,1,313m² ,01 Aug 2022
+"2,470,000","4 Chadwick Court,",WEST HOBART TAS 7000,House,4,3,2,668m² ,30 Jul 2022
+"780,000 ","260 Brooker Avenue,",NORTH HOBART TAS 7000,House,3,1,3,420m² ,26 Jul 2022
+"2,400,000 ","30 Margaret Street,",SANDY BAY TAS 7005,House,5,2,2,"1,207m² ",25 Jul 2022
+"1,035,000 ","5/1-5 Pauldon Drive,",SANDY BAY TAS 7005,House,3,3,2,369m² ,20 Jul 2022
+"1,180,000","22 Fielding Drive,",WEST HOBART TAS 7000,House,4,3,2,958m² ,18 Jul 2022
+"1,260,000 ","11 Fielding Drive,",WEST HOBART TAS 7000,House,3,2,2,681m² ,18 Jul 2022
+"391,500","2/30 Corby Avenue,",WEST HOBART TAS 7000,House,1,1,1,53m² ,17 Jul 2022
+"1,000,000 ","32 St Georges Terrace,",BATTERY POINT TAS 7004,House,2,1,1,194m² ,16 Jul 2022
+"660,000 ","18A Stoney Steps Road,",SOUTH HOBART TAS 7004,House,2,1,2,344m² ,14 Jul 2022
+"1,440,000","757 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,3,2,807m² ,11 Jul 2022
+"1,440,000","757 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,3,2,807m² ,11 Jul 2022
+"710,000","6 Reynolds Court,",DYNNYRNE TAS 7005,House,4,1,1,483m² ,09 Jul 2022
+"775,000 ","34 George Street,",NORTH HOBART TAS 7000,House,2,1,−,94m² ,09 Jul 2022
+"3,435,000","6 Hampden Road,",BATTERY POINT TAS 7004,House,4,2,5,446m² ,08 Jul 2022
+"830,000","2/18 Hooper Crescent,",MOUNT STUART TAS 7000,House,3,2,2,292m² ,05 Jul 2022
+"782,500","278 Park Street,",NORTH HOBART TAS 7000,House,3,1,2,232m² ,04 Jul 2022
+"700,000 ","1/176 Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,1,3,516m² ,04 Jul 2022
+"1,225,000 ","100A King Street,",SANDY BAY TAS 7005,House,4,1,2,612m² ,01 Jul 2022
+"1,480,000 ","9 Elphinstone Road,",NORTH HOBART TAS 7000,House,5,1,2,911m² ,30 Jun 2022
+"1,350,000","55 Derwentwater Avenue,",SANDY BAY TAS 7005,House,3,1,3,835m² ,27 Jun 2022
+"1,000,000 ","55 Lansdowne Crescent,",WEST HOBART TAS 7000,House,3,1,1,296m² ,19 Jun 2022
+"782,000 ","31 Parliament Street,",SANDY BAY TAS 7005,House,3,1,2,635m² ,17 Jun 2022
+"808,500 ","509 Huon Road,",SOUTH HOBART TAS 7004,House,3,1,3,890m² ,16 Jun 2022
+"1,060,000 ","209 Warwick Street,",WEST HOBART TAS 7000,House,2,1,1,350m² ,15 Jun 2022
+"850,000","4B Lipscombe Avenue,",SANDY BAY TAS 7005,House,3,1,1,193m² ,08 Jun 2022
+"1,600,590 ","168 Forest Road,",WEST HOBART TAS 7000,House,3,2,3,797m² ,08 Jun 2022
+"867,000","118 Cascade Road,",SOUTH HOBART TAS 7004,House,3,1,1,400m² ,07 Jun 2022
+"1,590,000 ","6 Sloane Street,",BATTERY POINT TAS 7004,House,3,2,−,144m² ,06 Jun 2022
+"1,022,000","1/455 Churchill Avenue,",SANDY BAY TAS 7005,Villa,3,3,2,460m² ,05 Jun 2022
+"1,410,000 ","8 Mortimer Avenue,",MOUNT STUART TAS 7000,House,3,3,3,"1,152m² ",04 Jun 2022
+"2,060,000 ","9 Dresden Street,",SANDY BAY TAS 7005,House,5,4,4,604m² ,03 Jun 2022
+"3,300,000","17 Sonning Crescent,",SANDY BAY TAS 7005,House,5,2,6,"1,237m² ",01 Jun 2022
+"1,360,000","1 Ferndene Avenue,",SOUTH HOBART TAS 7004,House,4,1,1,387m² ,31 May 2022
+"1,451,000 ","5-7 Colville Street,",BATTERY POINT TAS 7004,House,2,2,1,88m² ,25 May 2022
+"2,610,000","14 Anglesea Street,",SOUTH HOBART TAS 7004,House,4,2,4,769m² ,25 May 2022
+"1,722,000","22 Anglesea Street,",SOUTH HOBART TAS 7004,House,4,1,3,805m² ,25 May 2022
+"950,000","10 McGregor Street,",BATTERY POINT TAS 7004,House,1,1,2,209m² ,24 May 2022
+"1,231,000","550 Churchill Avenue,",SANDY BAY TAS 7005,House,4,2,3,696m² ,24 May 2022
+"1,175,000 ","108 Cascade Road,",SOUTH HOBART TAS 7004,House,3,1,2,830m² ,23 May 2022
+"5,450,000","20 Clarke Avenue,",BATTERY POINT TAS 7004,House,3,2,2,546m² ,20 May 2022
+"920,000 ","20 Pillinger Street,",DYNNYRNE TAS 7005,House,2,2,2,460m² ,20 May 2022
+"1,650,000 ","10 Oberon Court,",DYNNYRNE TAS 7005,House,5,3,2,"1,046m² ",16 May 2022
+"2,125,000 ","42 - 44 George Street,",NORTH HOBART TAS 7000,House,5,3,2,417m² ,16 May 2022
+"971,000 ","248 Bathurst Street,",WEST HOBART TAS 7000,House,3,3,−,156m² ,16 May 2022
+"525,000 ","7/43 Regent Street,",SANDY BAY TAS 7005,House,2,1,1,75m² ,12 May 2022
+"1,150,000","126 Wentworth Street,",SOUTH HOBART TAS 7004,House,4,2,3,"1,200m² ",12 May 2022
+"1,250,000 ","767 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,2,2,812m² ,11 May 2022
+"1,650,000","59A Red Chapel Avenue,",SANDY BAY TAS 7005,House,4,3,4,764m² ,09 May 2022
+"880,000 ","8 Congress Street,",SOUTH HOBART TAS 7004,House,3,1,1,836m² ,09 May 2022
+"1,315,000 ","43 Poets Road,",WEST HOBART TAS 7000,House,3,1,1,731m² ,09 May 2022
+"1,825,000","108 King Street,",SANDY BAY TAS 7005,House,3,2,4,706m² ,05 May 2022
+"770,000 ","26 Richardson Avenue,",DYNNYRNE TAS 7005,House,3,2,4,520m² ,04 May 2022
+"1,085,000","226 Churchill Avenue,",SANDY BAY TAS 7005,House,3,2,2,685m² ,04 May 2022
+"1,150,000","7 Roberts Street,",WEST HOBART TAS 7000,House,3,2,−,306m² ,04 May 2022
+"2,450,000","834 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,3,3,985m² ,02 May 2022
+"910,000 ","45 Regent Street,",SANDY BAY TAS 7005,House,3,1,2,331m² ,29 Apr 2022
+"795,000","105 Letitia Street,",NORTH HOBART TAS 7000,House,2,1,1,340m² ,28 Apr 2022
+"1,220,000 ","91 Gillon Crescent,",MOUNT STUART TAS 7000,House,4,2,2,650m² ,26 Apr 2022
+"1,400,000 ","149 Warwick Street,",WEST HOBART TAS 7000,House,3,2,1,496m² ,24 Apr 2022
+"1,950,000 ","8 Ethelmont Road,",SANDY BAY TAS 7005,House,3,2,3,574m² ,21 Apr 2022
+"1,650,000","75 Hampden Road,",BATTERY POINT TAS 7004,House,4,2,−,205m² ,20 Apr 2022
+"1,173,000","31 Sandy Bay Road,",BATTERY POINT TAS 7004,House,3,1,3,357m² ,13 Apr 2022
+"1,180,000 ","10 Grosvenor Street,",SANDY BAY TAS 7005,House,4,2,3,473m² ,13 Apr 2022
+"2,700,000 ","8 Tiersen Place,",SANDY BAY TAS 7005,House,3,3,6,714m² ,13 Apr 2022
+"1,025,000 ","1A Randall Street,",SANDY BAY TAS 7005,House,3,2,−,332m² ,12 Apr 2022
+"755,000","22 Romilly Street,",SOUTH HOBART TAS 7004,House,3,1,−,731m² ,12 Apr 2022
+"1,020,000 ","5 Hutchinson Place,",WEST HOBART TAS 7000,House,3,2,2,908m² ,12 Apr 2022
+"1,042,000","4 Mellifont Street,",WEST HOBART TAS 7000,House,4,1,2,494m² ,07 Apr 2022
+"1,100,000 ","1 Andrew Street,",NORTH HOBART TAS 7000,House,3,1,1,176m² ,06 Apr 2022
+"1,101,000","19 Lillie Street,",GLEBE TAS 7000,House,5,1,3,441m² ,05 Apr 2022
+"860,000","18 Ogilvie Street,",MOUNT STUART TAS 7000,House,4,2,2,513m² ,05 Apr 2022
+"915,000 ","31 Congress Street,",SOUTH HOBART TAS 7004,House,4,1,−,557m² ,05 Apr 2022
+"3,800,000","14 Nutgrove Avenue,",SANDY BAY TAS 7005,House,4,2,3,908m² ,03 Apr 2022
+"839,000","58 Lower Jordan Hill Road,",WEST HOBART TAS 7000,House,3,1,1,357m² ,02 Apr 2022
+"1,270,000 ","41 South Street,",BATTERY POINT TAS 7004,House,3,1,−,165m² ,01 Apr 2022
+"605,000","4 Hennebry Street,",SOUTH HOBART TAS 7004,House,2,1,1,130m² ,01 Apr 2022
+"1,020,000","16 Browne Street,",WEST HOBART TAS 7000,House,3,1,2,543m² ,01 Apr 2022
+"2,095,000","342 Argyle Street,",NORTH HOBART TAS 7000,House,4,3,3,342m² ,31 Mar 2022
+"1,630,000","16 David Avenue,",SANDY BAY TAS 7005,House,5,3,3,900m² ,31 Mar 2022
+"1,510,000","169 Goulburn Street,",WEST HOBART TAS 7000,House,5,2,5,333m² ,31 Mar 2022
+"710,000 ","370 Macquarie Street,",SOUTH HOBART TAS 7004,House,2,1,−,118m² ,30 Mar 2022
+"711,000 ","18 Washington Street,",SOUTH HOBART TAS 7004,House,2,1,−,244m² ,30 Mar 2022
+"1,880,000","517 Huon Road,",SOUTH HOBART TAS 7004,House,5,3,6,"5,941m² ",30 Mar 2022
+"1,091,000 ","8 Sloane Street,",BATTERY POINT TAS 7004,House,3,1,1,144m² ,29 Mar 2022
+"2,900,000 ","11 Cheverton Parade,",SANDY BAY TAS 7005,House,5,4,5,"1,032m² ",29 Mar 2022
+"1,220,000 ","13 Fordham Street,",MOUNT STUART TAS 7000,House,4,1,3,800m² ,28 Mar 2022
+"1,085,000 ","21 Lawley Crescent,",SOUTH HOBART TAS 7004,House,4,2,6,"10,700m² ",28 Mar 2022
+"1,225,000 ","4 Adams Street,",SANDY BAY TAS 7005,House,3,1,2,402m² ,27 Mar 2022
+"3,000,000","2/3 Marine Terrace,",BATTERY POINT TAS 7004,House,2,2,2,263m² ,25 Mar 2022
+"1,150,000 ","1/36 Red Chapel Avenue,",SANDY BAY TAS 7005,House,3,2,2,343m² ,24 Mar 2022
+"1,110,000","58 Cascade Road,",SOUTH HOBART TAS 7004,House,4,2,1,640m² ,24 Mar 2022
+"1,440,000","38 Coolabah Road,",SANDY BAY TAS 7005,House,3,2,3,486m² ,23 Mar 2022
+"2,350,000","9 McGregor Street,",BATTERY POINT TAS 7004,House,4,2,2,465m² ,22 Mar 2022
+"1,020,000 ","19 Devonshire Square,",WEST HOBART TAS 7000,House,4,2,2,455m² ,22 Mar 2022
+"930,000 ","61 Elphinstone Road,",MOUNT STUART TAS 7000,House,3,1,2,697m² ,21 Mar 2022
+"2,750,000","3 De Witt Street,",BATTERY POINT TAS 7004,House,5,2,4,500m² ,20 Mar 2022
+"1,973,000","83 Hill Street,",WEST HOBART TAS 7000,House,4,2,2,850m² ,19 Mar 2022
+"765,000","1/106 Letitia Street,",NORTH HOBART TAS 7000,House,3,1,1,285m² ,17 Mar 2022
+"1,910,000 ","1/25 Mortimer Avenue,",MOUNT STUART TAS 7000,House,5,3,11,"1,405m² ",16 Mar 2022
+"780,000","101 Goulburn Street,",WEST HOBART TAS 7000,House,3,2,2,313m² ,11 Mar 2022
+"980,000 ","40 Lord Street,",SANDY BAY TAS 7005,House,5,3,2,399m² ,10 Mar 2022
+"1,070,000 ","41 Lord Street,",SANDY BAY TAS 7005,House,2,1,−,455m² ,09 Mar 2022
+"815,900 ","11 Scott Street,",GLEBE TAS 7000,House,2,1,−,183m² ,08 Mar 2022
+"710,000 ","61 Smith Street,",NORTH HOBART TAS 7000,House,2,1,−,203m² ,08 Mar 2022
+"910,000","23 George Street,",NORTH HOBART TAS 7000,House,2,1,−,200m² ,08 Mar 2022
+"1,750,000 ","753 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,2,5,"1,072m² ",08 Mar 2022
+"1,400,000 ","13 Heathcombe Crescent,",SANDY BAY TAS 7005,House,3,1,3,547m² ,08 Mar 2022
+"840,000 ","55 Marlyn Road,",SOUTH HOBART TAS 7004,House,3,1,2,855m² ,08 Mar 2022
+"1,465,001 ","9 Kirval Court,",WEST HOBART TAS 7000,House,4,2,2,582m² ,08 Mar 2022
+"1,070,000 ","2/8 Pauldon Drive,",SANDY BAY TAS 7005,House,4,2,2,497m² ,03 Mar 2022
+"945,000 ","1a Proctors Road,",DYNNYRNE TAS 7005,House,2,1,4,468m² ,01 Mar 2022
+"949,000 ","7 Weerona Avenue,",MOUNT STUART TAS 7000,House,3,1,3,592m² ,01 Mar 2022
+"830,000 ","27 Hillside Crescent,",WEST HOBART TAS 7000,House,3,1,2,726m² ,01 Mar 2022
+"1,200,000 ","17 Valley Street,",WEST HOBART TAS 7000,House,4,2,3,"1,211m² ",01 Mar 2022
+"1,150,000 ","95 Patrick Street,",WEST HOBART TAS 7000,House,3,2,2,350m² ,28 Feb 2022
+"1,890,000 ","14 Rupert Avenue,",MOUNT STUART TAS 7000,House,4,2,2,857m² ,26 Feb 2022
+"1,100,000 ","45 Mount Stuart Road,",MOUNT STUART TAS 7000,House,5,2,4,916m² ,25 Feb 2022
+"1,600,000","365 Huon Road,",SOUTH HOBART TAS 7004,House,4,2,2,671m² ,25 Feb 2022
+"912,000","56 Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,1,1,637m² ,25 Feb 2022
+"1,275,000 ","13 Service Street,",GLEBE TAS 7000,House,4,1,−,290m² ,22 Feb 2022
+"735,000 ","9 Dewrang Place,",MOUNT STUART TAS 7000,House,3,2,3,832m² ,22 Feb 2022
+"4,300,000 ","4 Mitah Crescent,",SANDY BAY TAS 7005,House,4,3,2,964m² ,22 Feb 2022
+"2,600,000","14a Lord Street,",SANDY BAY TAS 7005,House,4,2,2,393m² ,22 Feb 2022
+"925,000 ","5 Randall Street,",SANDY BAY TAS 7005,House,4,2,2,315m² ,22 Feb 2022
+"670,000 ","1/240 Churchill Avenue,",SANDY BAY TAS 7005,House,2,1,1,102m² ,22 Feb 2022
+"1,032,000","14 Sherbourne Avenue,",WEST HOBART TAS 7000,House,4,2,2,604m² ,21 Feb 2022
+"1,350,000 ","17 Alt-Na-Craig Avenue,",MOUNT STUART TAS 7000,House,5,3,3,862m² ,2022
+"1,350,000","15 King Street,",SANDY BAY TAS 7005,House,5,1,2,662m² ,18 Feb 2022
+"2,700,000","36 Fisher Avenue,",SANDY BAY TAS 7005,House,4,2,4,"1,461m² ",18 Feb 2022
+"1,500,000 ","39 Princes Street,",SANDY BAY TAS 7005,House,3,2,4,736m² ,17 Feb 2022
+"1,010,000 ","2 Strahan Street,",NORTH HOBART TAS 7000,House,3,1,1,226m² ,16 Feb 2022
+"1,451,000","8 Beddome Street,",SANDY BAY TAS 7005,House,4,2,4,675m² ,16 Feb 2022
+"1,375,550 ","3 Weerona Avenue,",MOUNT STUART TAS 7000,House,3,1,3,584m² ,15 Feb 2022
+"1,370,000","2 Jersey Street,",SANDY BAY TAS 7005,House,5,2,2,711m² ,13 Feb 2022
+"1,575,000 ","53 Derwentwater Avenue,",SANDY BAY TAS 7005,House,4,2,4,835m² ,10 Feb 2022
+"1,105,000 ","31 Toorak Avenue,",MOUNT STUART TAS 7000,House,3,1,4,789m² ,09 Feb 2022
+"1,850,000","12 Elma Road,",SANDY BAY TAS 7005,House,3,2,2,606m² ,09 Feb 2022
+"780,000 ","11 McKellar Street,",SOUTH HOBART TAS 7004,House,4,2,−,525m² ,09 Feb 2022
+"1,280,000 ","72 Knocklofty Terrace,",WEST HOBART TAS 7000,House,3,1,1,921m² ,08 Feb 2022
+"1,200,000 ","18 Fordham Street,",MOUNT STUART TAS 7000,House,3,2,1,749m² ,07 Feb 2022
+"925,000 ","4 Downie Street,",SOUTH HOBART TAS 7004,House,2,1,2,264m² ,07 Feb 2022
+"963,000 ","4 Watkins Avenue,",WEST HOBART TAS 7000,House,3,1,2,390m² ,07 Feb 2022
+"1,307,000 ","163 Goulburn Street,",WEST HOBART TAS 7000,House,3,1,1,265m² ,07 Feb 2022
+"1,035,000","365 Liverpool Street,",WEST HOBART TAS 7000,House,2,1,−,214m² ,06 Feb 2022
+"750,000 ","107 Marlyn Road,",SOUTH HOBART TAS 7004,House,3,1,2,551m² ,05 Feb 2022
+"1,800,000 ","11 Fisher Avenue,",SANDY BAY TAS 7005,House,6,2,2,526m² ,04 Feb 2022
+"1,280,000 ","42 Faraday Street,",WEST HOBART TAS 7000,House,3,1,4,700m² ,04 Feb 2022
+"1,010,000","26 Nixon Street,",SANDY BAY TAS 7005,House,2,1,1,92m² ,03 Feb 2022
+"1,380,000","12/11 Gladstone Street,",BATTERY POINT TAS 7004,House,2,1,1,135m² ,01 Feb 2022
+"950,000 ","20 Bayley Street,",GLEBE TAS 7000,House,3,1,−,221m² ,31 Jan 2022
+"850,000 ","8 Byard Street,",MOUNT STUART TAS 7000,House,3,1,3,489m² ,30 Jan 2022
+"980,000 ","195 Bathurst Street,",WEST HOBART TAS 7000,House,3,1,−,445m² ,28 Jan 2022
+"1,850,000 ","12 Bath Street,",BATTERY POINT TAS 7004,House,5,2,1,550m² ,27 Jan 2022
+"1,155,000","7 Pine Street,",WEST HOBART TAS 7000,House,3,1,2,559m² ,26 Jan 2022
+"1,850,000 ","14 Swan Street,",NORTH HOBART TAS 7000,House,4,3,1,284m² ,25 Jan 2022
+"1,210,000 ","2/457a Huon Road,",SOUTH HOBART TAS 7004,House,4,2,2,"1,274m² ",25 Jan 2022
+"943,500","23 Aberdeen Street,",GLEBE TAS 7000,House,3,1,3,498m² ,24 Jan 2022
+"902,000","11 Devonshire Square,",WEST HOBART TAS 7000,House,3,1,2,351m² ,23 Jan 2022
+"895,000 ","13 Canning Court,",MOUNT STUART TAS 7000,House,3,2,3,532m² ,21 Jan 2022
+"712,000","1/369 Argyle Street,",NORTH HOBART TAS 7000,House,2,1,1,138m² ,21 Jan 2022
+"2,860,000","397 Sandy Bay Road,",SANDY BAY TAS 7005,House,5,2,5,942m² ,20 Jan 2022
+"999,000 ","76 Strickland Avenue,",SOUTH HOBART TAS 7004,House,4,2,3,"1,614m² ",18 Jan 2022
+"2,000,000","8 Waterloo Crescent,",BATTERY POINT TAS 7004,House,3,2,1,320m² ,12 Jan 2022
+"1,710,000","690 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,3,2,543m² ,11 Jan 2022
+"1,031,000 ","34 Reynolds Court,",DYNNYRNE TAS 7005,House,3,1,3,477m² ,10 Jan 2022
+"1,500,000","56 York Street,",SANDY BAY TAS 7005,House,4,3,4,780m² ,10 Jan 2022
+"1,850,000 ","1 Capri Drive,",SANDY BAY TAS 7005,House,4,2,3,822m² ,09 Jan 2022
+"925,000 ","36A Waterworks Road,",DYNNYRNE TAS 7005,House,4,1,3,873m² ,06 Jan 2022
+"470,000 ","1/71 Mount Stuart Road,",MOUNT STUART TAS 7000,House,2,1,1,85m² ,04 Jan 2022
+"912,500 ","16 Glebe Street,",GLEBE TAS 7000,House,3,1,−,201m² ,30 Dec 2021
+"1,425,000","1 Colville Street,",BATTERY POINT TAS 7004,House,3,1,1,199m² ,26 Dec 2021
+"4,257,000","166 Melville Street,",WEST HOBART TAS 7000,House,5,3,3,"2,108m² ",24 Dec 2021
+"995,000","27 Fehre Court,",SANDY BAY TAS 7005,House,5,3,4,751m² ,23 Dec 2021
+"1,310,000 ","105 Forest Road,",WEST HOBART TAS 7000,House,3,1,6,890m² ,22 Dec 2021
+"940,000 ","34 Newdegate Street,",NORTH HOBART TAS 7000,Terrace,2,1,−,485m² ,21 Dec 2021
+"1,400,000","2/5 Rose Court,",SANDY BAY TAS 7005,Villa,4,3,2,359m² ,21 Dec 2021
+"895,000 ","5 Cavell Street,",WEST HOBART TAS 7000,House,3,1,2,271m² ,21 Dec 2021
+"1,547,200 ","85 Lord Street,",SANDY BAY TAS 7005,House,3,2,2,782m² ,17 Dec 2021
+"717,000 ","38 Liverpool Crescent,",WEST HOBART TAS 7000,House,3,1,2,541m² ,17 Dec 2021
+"1,125,000 ","5/9 Long Point Road,",SANDY BAY TAS 7005,House,4,2,2,242m² ,15 Dec 2021
+"1,650,000","12 Gardenia Grove,",SANDY BAY TAS 7005,House,3,3,2,500m² ,15 Dec 2021
+"1,175,000 ","410 Strickland Avenue,",SOUTH HOBART TAS 7004,House,4,2,−,930m² ,15 Dec 2021
+"1,410,000","34 Washington Street,",SOUTH HOBART TAS 7004,House,3,1,2,759m² ,15 Dec 2021
+"1,150,000 ","117 Hill Street,",WEST HOBART TAS 7000,House,3,1,2,600m² ,15 Dec 2021
+"1,155,000 ","26 Newdegate Street,",NORTH HOBART TAS 7000,House,3,1,2,370m² ,14 Dec 2021
+"2,608,600 ","22A Princes Street,",SANDY BAY TAS 7005,House,1,1,11,"1,276m² ",14 Dec 2021
+"1,250,000 ","34 CARR STREET Carr Street,",NORTH HOBART TAS 7000,House,5,1,2,382m² ,13 Dec 2021
+"4,600,000 ","520 Sandy Bay Road,",SANDY BAY TAS 7005,House,1,1,1,"1,556m² ",10 Dec 2021
+"738,000","538 Huon Road,",SOUTH HOBART TAS 7004,House,3,1,1,"1,296m² ",08 Dec 2021
+"1,400,000 ","199 Davey Street,",SOUTH HOBART TAS 7004,House,5,2,2,363m² ,08 Dec 2021
+"2,905,000 ","756 Sandy Bay Road,",SANDY BAY TAS 7005,House,5,3,3,"1,184m² ",06 Dec 2021
+"2,400,000 ","809A Sandy Bay Road,",SANDY BAY TAS 7005,House,4,2,4,953m² ,06 Dec 2021
+"1,651,000 ","8 Braddon Avenue,",SANDY BAY TAS 7005,House,3,1,3,860m² ,4 Dec 2021
+"1,100,000 ","33 Gordon Avenue,",MOUNT STUART TAS 7000,House,3,2,1,400m² ,02 Dec 2021
+"4,200,000 ","26 Elphinstone Road,",MOUNT STUART TAS 7000,House,6,2,4,"7,335m² ",30 Nov 2021
+"1,860,000 ","6 Broadwaters Parade,",SANDY BAY TAS 7005,House,3,2,7,711m² ,30 Nov 2021
+"926,000 ","215 Bathurst Street,",WEST HOBART TAS 7000,House,2,1,−,133m² ,30 Nov 2021
+"1,350,000 ","7 Montagu Street,",MOUNT STUART TAS 7000,House,4,2,2,746m² ,29 Nov 2021
+"1,849,557 ","4 Adelaide Street,",SOUTH HOBART TAS 7004,House,4,2,4,538m² ,29 Nov 2021
+"910,000 ","4 Strahan Street,",NORTH HOBART TAS 7000,House,2,1,1,167m² ,28 Nov 2021
+"1,160,000","3 Lillie Street,",GLEBE TAS 7000,House,3,2,−,360m² ,26 Nov 2021
+"2,338,000","306 Murray Street,",NORTH HOBART TAS 7000,House,8,4,4,"1,080m² ",26 Nov 2021
+"3,050,000","32 Norfolk Crescent,",SANDY BAY TAS 7005,House,5,2,2,736m² ,26 Nov 2021
+"4,222,222 ","784 Sandy Bay Road,",SANDY BAY TAS 7005,House,4,3,4,"1,428m² ",22 Nov 2021
+"1,400,000 ","209 Churchill Avenue,",SANDY BAY TAS 7005,House,3,1,4,875m² ,22 Nov 2021
+"2,085,000","3 Shepherd Street,",SANDY BAY TAS 7005,House,4,3,4,"1,399m² ",22 Nov 2021
+"1,100,000","2/128 Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,2,4,271m² ,20 Nov 2021
+"1,185,000 ","62 Wellesley Street,",SOUTH HOBART TAS 7004,House,3,1,1,397m² ,17 Nov 2021
+"960,000 ","6 Lower Jordan Hill Road,",WEST HOBART TAS 7000,House,2,1,1,224m² ,17 Nov 2021
+"1,206,000","66 Mount Stuart Road,",MOUNT STUART TAS 7000,House,4,2,3,751m² ,16 Nov 2021
+"1,655,000 ","6 Sunvale Avenue,",SANDY BAY TAS 7005,House,3,2,4,801m² ,16 Nov 2021
+"1,420,000 ","837 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,2,5,834m² ,16 Nov 2021
+"1,042,000 ","5 Scott Street,",GLEBE TAS 7000,House,4,1,1,357m² ,15 Nov 2021
+"1,250,000","2 Montagu Street,",MOUNT STUART TAS 7000,House,4,2,3,759m² ,15 Nov 2021
+"1,050,000 ","2/118 Strickland Avenue,",SOUTH HOBART TAS 7004,House,3,2,3,253m² ,15 Nov 2021
+"1,300,000","1 Wynyard Street,",SOUTH HOBART TAS 7004,House,3,1,−,235m² ,13 Nov 2021
+"622,014 ","2/22 Frederick Street,",WEST HOBART TAS 7000,House,2,1,1,140m² ,13 Nov 2021
+"1,230,000 ","3/184 Strickland Avenue,",SOUTH HOBART TAS 7004,House,4,2,4,"1,054m² ",12 Nov 2021
+"1,320,000 ","101 Newdegate Street,",WEST HOBART TAS 7000,House,3,1,2,419m² ,10 Nov 2021
+"950,000","30 Manresa Court,",SANDY BAY TAS 7005,House,2,1,3,875m² ,06 Nov 2021
+"2,525,000","311 Davey Street,",SOUTH HOBART TAS 7004,House,3,2,3,632m² ,06 Nov 2021
+"950,000 ","6 Lincoln Street,",SANDY BAY TAS 7005,House,4,2,2,236m² ,02 Nov 2021
+"566,000 ","88B Regent Street,",SANDY BAY TAS 7005,House,2,1,1,91m² ,31 Oct 2021
+"951,000 ","6 Clift Street,",MOUNT STUART TAS 7000,House,3,1,4,650m² ,30 Oct 2021
+"840,000 ","1/18 Hooper Crescent,",MOUNT STUART TAS 7000,House,3,2,2,257m² ,29 Oct 2021
+"1,340,000","13 Broadwaters Parade,",SANDY BAY TAS 7005,House,3,1,7,582m² ,29 Oct 2021
+"2,000,000 ","7 Sunvale Avenue,",SANDY BAY TAS 7005,House,5,3,3,"1,036m² ",29 Oct 2021
+"1,428,000","608 Sandy Bay Road,",SANDY BAY TAS 7005,House,6,3,2,333m² ,28 Oct 2021
+"1,020,000 ","26 Darling Parade,",MOUNT STUART TAS 7000,House,4,2,−,491m² ,27 Oct 2021
+"1,252,000","5 Pine Street,",WEST HOBART TAS 7000,House,4,1,1,297m² ,25 Oct 2021
+"910,000 ","1/32 Mortimer Avenue,",MOUNT STUART TAS 7000,House,3,2,2,303m² ,24 Oct 2021
+"990,000 ","19 Baintree Avenue,",DYNNYRNE TAS 7005,House,3,2,2,640m² ,22 Oct 2021
+"2,225,000","1 Cheverton Parade,",SANDY BAY TAS 7005,House,4,2,5,"1,050m² ",22 Oct 2021
+"1,400,000 ","13 Knocklofty Terrace,",WEST HOBART TAS 7000,House,3,2,2,668m² ,22 Oct 2021
+"925,000 ","43 Forest Road,",WEST HOBART TAS 7000,House,3,1,2,322m² ,20 Oct 2021
+"4,900,000","289 Davey Street,",SOUTH HOBART TAS 7004,House,4,4,8,"1,897m² ",18 Oct 2021
+"946,000","21 Whelan Crescent,",WEST HOBART TAS 7000,House,3,1,3,632m² ,18 Oct 2021
+"890,000 ","5 Bonnington Road,",WEST HOBART TAS 7000,House,3,1,1,137m² ,16 Oct 2021
+"811,000 ","274 Park Street,",NORTH HOBART TAS 7000,House,3,1,2,379m² ,14 Oct 2021
+"480,000","4/3 Norfolk Crescent,",SANDY BAY TAS 7005,Villa,1,1,1,59m² ,14 Oct 2021
+"1,100,000 ","24 Tasma Street,",NORTH HOBART TAS 7000,House,4,3,3,318m² ,12 Oct 2021
+"1,081,000 ","18 Pauldon Drive,",SANDY BAY TAS 7005,House,3,2,4,"1,419m² ",12 Oct 2021
+"1,640,000 ","20 Gardenia Grove,",SANDY BAY TAS 7005,House,4,2,2,"1,107m² ",12 Oct 2021
+"1,065,000 ","3 Senator Street,",MOUNT STUART TAS 7000,House,2,1,3,"1,029m² ",11 Oct 2021
+"885,000 ","8 Summerhill Road,",WEST HOBART TAS 7000,House,3,3,1,557m² ,11 Oct 2021
+"1,850,000 ","6 Hatchery Court,",WEST HOBART TAS 7000,House,4,3,3,948m² ,11 Oct 2021
+"1,600,000","16 Fitzroy Place,",SANDY BAY TAS 7005,House,4,2,−,256m² ,07 Oct 2021
+"735,000 ","65 Smith Street,",NORTH HOBART TAS 7000,House,2,1,−,80m² ,05 Oct 2021
+"2,150,000","12 Marieville Esplanade,",SANDY BAY TAS 7005,House,3,2,2,420m² ,05 Oct 2021
+"975,000 ","18 Bayley Street,",GLEBE TAS 7000,House,3,2,−,231m² ,04 Oct 2021
+"771,000","64 Letitia Street,",NORTH HOBART TAS 7000,House,2,1,−,186m² ,04 Oct 2021
+"900,000","44 Wellington Street,",NORTH HOBART TAS 7000,House,3,1,−,168m² ,02 Oct 2021
+"900,000","44 Wellington Street,",NORTH HOBART TAS 7000,House,3,1,−,168m² ,02 Oct 2021
+"1,315,000 ","12 Hatton Gardens,",SANDY BAY TAS 7005,House,3,2,3,582m² ,01 Oct 2021
+"1,710,000 ","12 Forest Road,",WEST HOBART TAS 7000,House,4,2,1,459m² ,30 Sep 2021
+"1,450,000","64 Forest Road,",WEST HOBART TAS 7000,House,4,1,4,705m² ,29 Sep 2021
+"1,230,000 ","46 Wentworth Street,",SOUTH HOBART TAS 7004,House,3,1,2,370m² ,27 Sep 2021
+"1,650,000 ","2 Wandeet Place,",SANDY BAY TAS 7005,House,5,3,4,"1,206m² ",25 Sep 2021
+"1,600,000","12 Thelma Drive,",WEST HOBART TAS 7000,House,3,1,5,"2,058m² ",25 Sep 2021
+"850,000","29 Yardley Street,",NORTH HOBART TAS 7000,House,3,1,−,196m² ,24 Sep 2021
+"859,000","9/286-288 Argyle Street,",NORTH HOBART TAS 7000,House,2,1,2,183m² ,23 Sep 2021
+"3,700,000","296 Davey Street,",SOUTH HOBART TAS 7004,House,5,4,5,794m² ,22 Sep 2021
+"1,250,000","60 Red Chapel Avenue,",SANDY BAY TAS 7005,House,3,1,2,746m² ,21 Sep 2021
+"2,520,000 ","26 Queen Street,",SANDY BAY TAS 7005,House,5,3,3,726m² ,21 Sep 2021
+"2,175,000","339 Davey Street,",SOUTH HOBART TAS 7004,House,5,2,5,"1,203m² ",21 Sep 2021
+"1,320,000 ","20 Liverpool Crescent,",WEST HOBART TAS 7000,House,3,1,1,821m² ,21 Sep 2021
+"1,105,000","40 Elphinstone Road,",MOUNT STUART TAS 7000,House,3,2,2,624m² ,20 Sep 2021
+"865,000","5 Strahan Street,",NORTH HOBART TAS 7000,House,2,1,1,145m² ,20 Sep 2021
+"1,400,000","12 Rupert Avenue,",MOUNT STUART TAS 7000,House,3,1,2,528m² ,18 Sep 2021
+"1,156,000 ","4 Cavell Street,",WEST HOBART TAS 7000,House,3,2,1,268m² ,18 Sep 2021
+"625,000 ","2/2 Avon Road,",SOUTH HOBART TAS 7004,House,3,1,1,408m² ,17 Sep 2021
+"970,000 ","122 York Street,",SANDY BAY TAS 7005,House,3,1,−,324m² ,14 Sep 2021
+"1,216,000 ","52 Cascade Road,",SOUTH HOBART TAS 7004,House,4,2,2,413m² ,11 Sep 2021
+"880,000 ","5 Shoobridge Street,",GLEBE TAS 7000,House,4,1,2,402m² ,10 Sep 2021
+"1,285,000 ","79 Wellesley Street,",SOUTH HOBART TAS 7004,House,5,3,3,862m² ,08 Sep 2021
+"1,164,000 ","12 Summerhill Road,",WEST HOBART TAS 7000,House,4,2,2,946m² ,07 Sep 2021
+"1,300,000","94 Grosvenor Street,",SANDY BAY TAS 7005,House,3,1,2,569m² ,06 Sep 2021
+"1,045,000 ","8 Doyle Avenue,",MOUNT STUART TAS 7000,House,3,1,2,685m² ,04 Sep 2021
+"975,000","20/38 Waterworks Road,",DYNNYRNE TAS 7005,House,3,2,2,281m² ,03 Sep 2021
+"3,308,000","8 Vantona Road,",SANDY BAY TAS 7005,House,5,2,2,"2,197m² ",02 Sep 2021
+"1,700,000 ","11 Lipscombe Avenue,",SANDY BAY TAS 7005,House,3,2,2,699m² ,31 Aug 2021
+"786,000 ","1/78 Cascade Road,",SOUTH HOBART TAS 7004,House,3,1,2,284m² ,30 Aug 2021
+"905,000 ","176 Warwick Street,",WEST HOBART TAS 7000,House,3,1,−,278m² ,28 Aug 2021
+"1,330,000 ","1/877 Sandy Bay Road,",SANDY BAY TAS 7005,House,3,2,3,427m² ,24 Aug 2021
+"1,001,001","46 Wignall Street,",NORTH HOBART TAS 7000,House,2,1,−,228m² ,23 Aug 2021
+"1,700,000 ","6 Manresa Court,",SANDY BAY TAS 7005,House,4,2,2,658m² ,23 Aug 2021
+"831,000","2/66 Hillborough Road,",SOUTH HOBART TAS 7004,House,3,2,2,253m² ,23 Aug 2021
+"970,000","3 Hooper Crescent,",MOUNT STUART TAS 7000,House,3,1,1,630m² ,2 Aug 2021
+"1,286,000 ","111 Mount Stuart Road,",MOUNT STUART TAS 7000,House,4,2,2,852m² ,21 Aug 2021
+"1,700,000","9 Primrose Place,",SANDY BAY TAS 7005,House,3,1,2,"1,055m² ",21 Aug 2021
+"1,506,500 ","11 Hampshire Road,",SANDY BAY TAS 7005,House,3,3,2,596m² ,20 Aug 2021
+"1,150,000 ","16 Reynolds Court,",DYNNYRNE TAS 7005,House,6,2,2,"1,005m² ",19 Aug 2021
+"2,550,000 ","22A McAulay Road,",SANDY BAY TAS 7005,House,4,2,4,980m² ,16 Aug 2021
+"1,073,000","16 Commercial Road,",NORTH HOBART TAS 7000,House,4,1,1,266m² ,14 Aug 2021
+"863,500","17 Letitia Street,",NORTH HOBART TAS 7000,House,3,1,2,317m² ,13 Aug 2021
+"1,008,000","29 Clift Street,",MOUNT STUART TAS 7000,House,5,3,4,964m² ,12 Aug 2021
+"1,006,001 ","52 Salvator Road,",WEST HOBART TAS 7000,House,3,1,2,"2,464m² ",12 Aug 2021
+"975,000 ","21 Ascot Avenue,",SANDY BAY TAS 7005,House,4,2,2,911m² ,11 Aug 2021
+"1,650,000 ","15 Red Knights Road,",SANDY BAY TAS 7005,House,3,2,4,733m² ,11 Aug 2021
+"1,096,000 ","25 Valley Street,",WEST HOBART TAS 7000,House,4,2,1,625m² ,11 Aug 2021
+"1,425,000 ","23 Proctors Road,",DYNNYRNE TAS 7005,House,3,2,6,875m² ,09 Aug 2021
+"925,000 ","27 Church Street,",NORTH HOBART TAS 7000,House,2,1,−,200m² ,09 Aug 2021
+"1,687,500 ","7 Greenlands Avenue,",SANDY BAY TAS 7005,House,3,2,3,703m² ,05 Aug 2021
+"1,200,000 ","1 and 2/4a Watkins Avenue,",WEST HOBART TAS 7000,House,4,2,4,653m² ,05 Aug 2021
+"1,702,000 ","29 Shepherd Street,",SANDY BAY TAS 7005,House,5,2,2,821m² ,04 Aug 2021
+"770,000","9A Canning Court,",MOUNT STUART TAS 7000,House,2,2,3,619m² ,03 Aug 2021
+"948,000 ","52 Parliament Street,",SANDY BAY TAS 7005,House,2,1,2,381m² ,01 Aug 2021
+"1,450,000","35 Forest Road,",WEST HOBART TAS 7000,House,3,2,−,452m² ,01 Aug 2021
+"1,300,000","33 Sandy Bay Road,",BATTERY POINT TAS 7004,House,2,2,1,190m² ,31 Jul 2021
+"1,350,000","4 Blackwood Avenue,",WEST HOBART TAS 7000,House,4,2,1,300m² ,31 Jul 2021
+"1,290,000 ","18 Toorak Avenue,",MOUNT STUART TAS 7000,House,3,1,1,698m² ,29 Jul 2021
+"1,200,000 ","2/5 Rose Court,",SANDY BAY TAS 7005,Villa,4,3,2,359m² ,29 Jul 2021
+"1,750,000 ","18 Nicholas Drive,",SANDY BAY TAS 7005,House,4,2,4,661m² ,27 Jul 2021
+"1,225,000 ","36 Degraves Street,",SOUTH HOBART TAS 7004,House,4,2,2,478m² ,26 Jul 2021
+"2,226,000 ","4 Logan Street,",BATTERY POINT TAS 7004,House,4,2,3,486m² ,24 Jul 2021
+"1,550,000","22A Date Court,",SANDY BAY TAS 7005,House,3,2,3,646m² ,24 Jul 2021
+"950,000 ","21 Coolabah Road,",SANDY BAY TAS 7005,House,4,2,2,617m² ,23 Jul 2021
+"750,000","8 Glebe Street,",GLEBE TAS 7000,House,2,1,2,225m² ,21 Jul 2021
+"750,000 ","294 Bathurst Street,",WEST HOBART TAS 7000,House,2,1,−,195m² ,21 Jul 2021
+"860,000","333 Argyle Street,",NORTH HOBART TAS 7000,House,4,1,−,330m² ,19 Jul 2021
+"1,071,500","18 Shannuk Drive,",WEST HOBART TAS 7000,House,3,2,4,556m² ,19 Jul 2021
+"1,070,000 ","83 Brooker Avenue,",GLEBE TAS 7000,House,3,1,2,349m² ,14 Jul 2021
+"1,600,000 ","29 Church Street,",NORTH HOBART TAS 7000,House,5,2,6,455m² ,14 Jul 2021
+"470,000 ","5/29 Lord Street,",SANDY BAY TAS 7005,House,2,1,1,90m² ,14 Jul 2021
+"732,000","47 Louden Street,",SOUTH HOBART TAS 7004,House,2,2,2,"1,038m² ",12 Jul 2021
+"977,500 ","28 Zomay Avenue,",DYNNYRNE TAS 7005,House,3,2,1,569m² ,10 Jul 2021
+"2,500,000 ","836a Sandy Bay Road,",SANDY BAY TAS 7005,House,3,1,1,504m² ,2021
+"672,000","104 Lansdowne Crescent,",WEST HOBART TAS 7000,House,2,1,1,316m² ,08 Jul 2021
+"570,000 ","1/35 Ogilvie Street,",MOUNT STUART TAS 7000,Villa,2,1,1,309m² ,07 Jul 2021
+"965,000 ","79 View Street,",SANDY BAY TAS 7005,House,4,1,1,611m² ,06 Jul 2021
+"2,205,000 ","21 Cromwell Street,",BATTERY POINT TAS 7004,House,4,2,2,602m² ,05 Jul 2021
+"888,888 ","16 Ryde Street,",NORTH HOBART TAS 7000,House,2,1,−,200m² ,03 Jul 2021
+"1,340,000","1 Sandown Avenue,",SANDY BAY TAS 7005,House,4,2,2,"1,021m² ",02 Jul 2021
+"1,258,000","7 Short Street,",GLEBE TAS 7000,House,4,1,2,508m² ,01 Jul 2021
+"1,250,000 ","11 Kingsley Avenue,",SANDY BAY TAS 7005,House,6,6,2,870m² ,01 Jul 2021
+"713,000 ","368 Macquarie Street,",SOUTH HOBART TAS 7004,House,2,1,−,145m² ,28 Jun 2021
+"1,440,000 ","58 Duke Street,",SANDY BAY TAS 7005,House,3,2,2,529m² ,25 Jun 2021
+"791,000 ","33A Mellifont Street,",WEST HOBART TAS 7000,House,3,2,2,435m² ,23 Jun 2021
+"1,250,000","1 Antill Street,",SOUTH HOBART TAS 7004,House,3,1,2,420m² ,22 Jun 2021
+"1,001,000 ","2 Summerhill Road,",WEST HOBART TAS 7000,House,3,1,2,400m² ,22 Jun 2021
+"922,000 ","18 Mary Street,",NORTH HOBART TAS 7000,House,3,1,1,358m² ,21 Jun 2021
+"2,303,000","11 Ilfracombe Crescent,",SANDY BAY TAS 7005,House,5,3,3,"1,040m² ",18 Jun 2021
+"1,600,000 ","31 Cromwell Street,",BATTERY POINT TAS 7004,House,4,2,−,250m² ,17 Jun 2021
+"750,000","28 Clift Street,",MOUNT STUART TAS 7000,House,3,1,4,696m² ,15 Jun 2021
+"2,150,000","10 Quorn Street,",SANDY BAY TAS 7005,House,5,4,4,696m² ,12 Jun 2021
+"1,010,000","102 Waterworks Road,",DYNNYRNE TAS 7005,House,4,2,2,"1,449m² ",10 Jun 2021
+"2,018,000","8A Cheverton Parade,",SANDY BAY TAS 7005,House,4,2,4,"1,224m² ",10 Jun 2021
+"830,000","1 Grosvenor Street,",SANDY BAY TAS 7005,House,3,1,2,400m² ,08 Jun 2021
+"1,202,000","114a Sandy Bay Road,",SANDY BAY TAS 7005,House,2,2,2,253m² ,07 Jun 2021

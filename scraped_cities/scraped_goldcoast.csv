@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,520,000 ","16 Mayjohn Avenue,",CARRARA QLD 4211,House,5,3,2,"1,016m² ",2024
+"2,000,000 ","45 Charolais Crescent,",BENOWA WATERS QLD 4217,House,4,3,2,966m² ,2024
+"1,905,000 ","91 Hooker Boulevard,",BROADBEACH WATERS QLD 4218,House,4,2,2,760m² ,2024
+"4,010,000 ","167 Stanhill Drive,",CHEVRON ISLAND QLD 4217,House,4,3,3,506m² ,2024
+"1,000,000 ","22 Berrimilla Lane,",COOMERA WATERS QLD 4209,House,4,2,2,914m² ,26 Apr 2024
+"950,000 ","1/49 Keegan Circuit,",CURRUMBIN WATERS QLD 4223,Semi-detached,3,2,3,123m² ,2024
+"1,050,000 ","6 Kilmarnock Close,",HIGHLAND PARK QLD 4211,House,5,2,3,938m² ,26 Apr 2024
+"1,020,000 ","17 Chindrina Street,",HOPE ISLAND QLD 4212,House,3,2,2,625m² ,26 Apr 2024
+"2,400,000 ","7622 Fairway Boulevard,",HOPE ISLAND QLD 4212,House,4,3,2,602m² ,26 Apr 2024
+"1,125,000 ","15 Galley Road,",HOPE ISLAND QLD 4212,House,4,2,2,557m² ,26 Apr 2024
+"1,190,000 ","17 Riverina Court,",NERANG QLD 4211,House,5,3,4,374m² ,26 Apr 2024
+"931,000 ","457 Gainsborough Drive,",PIMPAMA QLD 4209,House,4,2,2,455m² ,26 Apr 2024
+"800,000 ","55 Bull Road,",PIMPAMA QLD 4209,House,4,2,2,450m² ,26 Apr 2024
+"1,360,000 ","23 Cranbourne Court,",ROBINA QLD 4226,House,4,2,2,835m² ,26 Apr 2024
+"1,335,000 ","16 Thomas Duncan Court,",WORONGARY QLD 4213,House,5,3,3,"5,726m² ",26 Apr 2024
+"2,405,000 ","27/12 Handel Avenue,",WORONGARY QLD 4213,House,6,4,3,0,26 Apr 2024
+"925,000 ","1/395 Bayview Street,",HOLLYWELL QLD 4216,Duplex,3,2,2,681m² ,25 Apr 2024
+"981,000 ","35 Sundew Crescent,",UPPER COOMERA QLD 4209,House,5,2,2,855m² ,25 Apr 2024
+"800,000 ","2/30 Clark Street,",BIGGERA WATERS QLD 4216,Duplex,4,2,2,183m² ,24 Apr 2024
+"1,810,000 ","71 Balmara Place,",COOMERA WATERS QLD 4209,House,4,3,2,364m² ,24 Apr 2024
+"856,000 ","7 Balyando Drive,",NERANG QLD 4211,House,3,1,3,757m² ,24 Apr 2024
+"1,650,000 ","2 Rigel Court,",ROBINA QLD 4226,House,4,2,2,641m² ,2024
+"2,620,000 ","21 Wombat Court,",SORRENTO QLD 4217,House,4,3,2,756m² ,24 Apr 2024
+"5,000,000 ","1 Knightsbridge Parade West,",SOVEREIGN ISLANDS QLD 4216,House,4,4,4,804m² ,24 Apr 2024
+"1,250,000 ","38 Horizon Avenue,",ASHMORE QLD 4214,House,4,3,2,644m² ,23 Apr 2024
+"2,100,000 ","18 Eastpark Waters,",HELENSVALE QLD 4212,House,5,3,2,940m² ,3 Apr 2024
+"960,000 ","17 Ludlow Crescent,",ORMEAU HILLS QLD 4208,House,4,2,2,506m² ,23 Apr 2024
+"745,000 ","105 Universal Street,",OXENFORD QLD 4210,House,3,2,1,804m² ,23 Apr 2024
+"1,035,000 ","13 Bushtree Court,",BURLEIGH WATERS QLD 4220,House,3,1,2,707m² ,22 Apr 2024
+"1,210,000 ","46 Picnic Creek Drive,",COOMERA QLD 4209,House,5,3,2,783m² ,22 Apr 2024
+"770,000 ","46 Tribeca Circuit,",COOMERA QLD 4209,House,4,2,2,375m² ,22 Apr 2024
+"985,000 ","2/55 Riverside Drive,",CURRUMBIN WATERS QLD 4223,House,3,2,2,375m² ,22 Apr 2024
+"1,030,000 ","18 Bathurst Court,",HELENSVALE QLD 4212,House,4,2,6,"1,555m² ",22 Apr 2024
+"840,000 ","82 Alexander Drive,",HIGHLAND PARK QLD 4211,House,3,1,2,622m² ,22 Apr 2024
+"930,988 ","1/3 Kenmar Street,",LABRADOR QLD 4215,Duplex,3,2,2,187m² ,22 Apr 2024
+"800,000 ","18 Saxon Court,",NERANG QLD 4211,House,3,1,2,662m² ,22 Apr 2024
+"1,225,000 ","60 Brittany Drive,",OXENFORD QLD 4210,House,5,2,2,725m² ,2 Apr 2024
+"1,605,000 ","35 Seaspray Street,",PARADISE POINT QLD 4216,House,3,2,2,641m² ,22 Apr 2024
+"1,735,000 ","1/3 Winders Avenue,",TUGUN QLD 4224,House,4,3,5,303m² ,22 Apr 2024
+"780,000 ","22 Grammar Street,",UPPER COOMERA QLD 4209,House,4,2,2,503m² ,22 Apr 2024
+"2,700,000 ","10 Sara Avenue,",BROADBEACH WATERS QLD 4218,House,4,2,4,835m² ,21 Apr 2024
+"1,340,250 ","1 Concourse Drive,",MERMAID WATERS QLD 4218,Villa,4,2,2,250m² ,2024
+"1,710,000 ","17 Wayfarer Avenue,",MERMAID WATERS QLD 4218,House,3,1,3,871m² ,2024
+"1,450,000 ","21 Oberon Way,",OXENFORD QLD 4210,House,8,4,6,"4,706m² ",21 Apr 2024
+"1,230,000 ","13 Elkins Street,",PACIFIC PINES QLD 4211,House,5,3,4,"1,056m² ",2024
+"960,000 ","20 Matthews Crescent,",PIMPAMA QLD 4209,House,4,2,2,730m² ,2024
+"855,000 ","6 Halifax Circuit,",PIMPAMA QLD 4209,House,3,2,2,414m² ,2024
+"950,000 ","28 Baldwin Crescent,",PIMPAMA QLD 4209,House,4,2,2,730m² ,2024
+"805,000 ","61 Fountain Street,",PIMPAMA QLD 4209,House,3,2,2,494m² ,2024
+"800,000 ","6 Dyer Street,",PIMPAMA QLD 4209,House,4,2,2,402m² ,2024
+"997,000 ","22 Stag Court,",UPPER COOMERA QLD 4209,House,4,2,3,668m² ,2024
+"1,100,000 ","6 Picton Court,",UPPER COOMERA QLD 4209,House,3,2,2,871m² ,2024
+"11,000,000 ","129 Jefferson Lane,",PALM BEACH QLD 4221,House,5,5,5,476m² ,2024
+"2,000,000 ","9 Jennifer Avenue,",RUNAWAY BAY QLD 4216,House,6,2,2,870m² ,2024
+"1,930,000 ","94 Campbell Street,",SORRENTO QLD 4217,House,5,3,2,768m² ,2024
+"1,100,000 ","11 Ridgeway Avenue,",SOUTHPORT QLD 4215,House,4,2,2,511m² ,2024
+"1,830,000 ","2 Cresta Court,",BROADBEACH WATERS QLD 4218,House,3,2,2,544m² ,19 Apr 2024
+"1,425,000 ","19 Lotus Avenue,",HOLLYWELL QLD 4216,House,3,2,2,506m² ,19 Apr 2024
+"1,122,000 ","35 North Quay Circuit,",HOPE ISLAND QLD 4212,House,4,3,2,375m² ,19 Apr 2024
+"5,300,000 ","79 Gibraltar Drive,",ISLE OF CAPRI QLD 4217,House,4,4,2,612m² ,2024
+"1,170,000 ","40 Turpin Rd,",LABRADOR QLD 4215,House,3,2,4,531m² ,19 Apr 2024
+"1,795,000 ","1/79 Tahiti Avenue,",PALM BEACH QLD 4221,House,4,3,2,292m² ,19 Apr 2024
+"6,850,000 ","90 Admiralty Drive,",PARADISE WATERS QLD 4217,House,5,6,4,733m² ,19 Apr 2024
+"820,000 ","24 Mercer Street,",PIMPAMA QLD 4209,House,4,2,2,300m² ,9 Apr 2024
+"2,300,000 ","115 Campbell Street,",SORRENTO QLD 4217,House,4,2,4,751m² ,19 Apr 2024
+"1,000,000 ","40 Shelduck Street,",UPPER COOMERA QLD 4209,House,4,2,2,774m² ,19 Apr 2024
+"1,760,000 ","28 Albert Evans Drive,",WORONGARY QLD 4213,House,5,3,2,"5,530m² ",2024
+"1,180,000 ","6 Ryfield Road,",CARRARA QLD 4211,House,5,2,2,756m² ,17 Apr 2024
+"1,650,000 ","10 Kew Court,",NERANG QLD 4211,House,5,2,6,"1,289m² ",17 Apr 2024
+"1,110,000 ","20 Joshua Place,",OXENFORD QLD 4210,House,4,2,2,610m² ,17 Apr 2024
+"7,600,000 ","2 Saywell Street,",SORRENTO QLD 4217,House,5,5,3,873m² ,17 Apr 2024
+"3,745,000 ","31 Knightsbridge Parade East,",SOVEREIGN ISLANDS QLD 4216,House,4,4,4,823m² ,17 Apr 2024
+"689,500 ","2/3 Silver Gull Street,",COOMERA QLD 4209,Duplex,3,2,1,133m² ,16 Apr 2024
+"1,220,000 ","4 Lillywood Circuit,",MOLENDINAR QLD 4214,House,4,2,4,695m² ,16 Apr 2024
+"855,000 ","16 Saint Petersburg Place,",NERANG QLD 4211,House,3,2,2,899m² ,16 Apr 2024
+"740,000 ","38 Fountain Street,",PIMPAMA QLD 4209,House,4,2,1,300m² ,16 Apr 2024
+"730,000 ","20 William Boulevard,",PIMPAMA QLD 4209,House,4,2,2,391m² ,16 Apr 2024
+"770,000 ","11 Hanlin Way,",PIMPAMA QLD 4209,House,4,2,2,375m² ,6 Apr 2024
+"1,725,000 ","11 Monserrat Court,",REEDY CREEK QLD 4227,House,6,3,3,"1,123m² ",16 Apr 2024
+"990,000 ","7 Toolangi Court,",UPPER COOMERA QLD 4209,House,4,2,3,766m² ,16 Apr 2024
+"840,000 ","16 Rivercherry Way,",UPPER COOMERA QLD 4209,House,4,2,2,632m² ,6 Apr 2024
+"1,170,000 ","21 Greenbank Circuit,",CARRARA QLD 4211,House,4,2,2,690m² ,15 Apr 2024
+"1,273,000 ","29 Wendoree Way,",COOMBABAH QLD 4216,House,4,2,2,721m² ,2024
+"1,780,000 ","38 Verona Avenue,",ISLE OF CAPRI QLD 4217,House,4,2,2,506m² ,15 Apr 2024
+"2,450,000 ","33 Dudley Street,",MERMAID BEACH QLD 4218,House,3,1,2,405m² ,15 Apr 2024
+"1,115,000 ","16 Paluma Crescent,",PIMPAMA QLD 4209,House,4,2,2,501m² ,15 Apr 2024
+"755,000 ","13 Casey Street,",PIMPAMA QLD 4209,House,4,2,1,300m² ,15 Apr 2024
+"3,325,000 ","567 Trees Road,",TALLEBUDGERA QLD 4228,House,4,3,2,"51,597m² ",15 Apr 2024
+"1,680,000 ","272B Trees Road,",TALLEBUDGERA QLD 4228,House,4,4,2,"2,647m² ",15 Apr 2024
+"3,500,000 ","15 Mary Bale Drive,",TALLEBUDGERA QLD 4228,House,5,3,5,"4,748m² ",15 Apr 2024
+"950,000 ","25 Gannon Way,",UPPER COOMERA QLD 4209,House,4,2,2,632m² ,5 Apr 2024
+"907,500 ","35 Hargraves Road,",UPPER COOMERA QLD 4209,House,4,2,2,619m² ,15 Apr 2024
+"812,000 ","26 Meadowbank Drive,",UPPER COOMERA QLD 4209,House,3,2,2,450m² ,15 Apr 2024
+"1,335,000 ","26 Lakeridge Drive,",VARSITY LAKES QLD 4227,House,5,2,4,704m² ,15 Apr 2024
+"900,000 ","205 Cotlew Street,",ASHMORE QLD 4214,House,4,2,3,539m² ,2024
+"1,265,000 ","27 Pacific Avenue,",MIAMI QLD 4220,House,3,1,2,405m² ,2024
+"700,000 ","Lot 2/25 Winchester Crescent,",PIMPAMA QLD 4209,House,3,2,2,300m² ,13 Apr 2024
+"1,555,000 ","7 Karina Crescent,",BROADBEACH WATERS QLD 4218,House,3,3,2,544m² ,2024
+"995,000 ","242 Christine Avenue,",BURLEIGH WATERS QLD 4220,House,3,1,1,402m² ,12 Apr 2024
+"1,110,000 ","10 Cova Boulevard,",HOPE ISLAND QLD 4212,House,3,3,2,454m² ,12 Apr 2024
+"4,000,000 ","30 Via Roma,",ISLE OF CAPRI QLD 4217,House,4,3,2,665m² ,12 Apr 2024
+"1,500,000 ","23 Schneider Avenue,",LABRADOR QLD 4215,House,5,4,4,931m² ,12 Apr 2024
+"3,200,000 ","17 Alfred Street,",MERMAID BEACH QLD 4218,House,3,2,2,405m² ,2024
+"975,000 ","4 Meadowvale Street,",OXENFORD QLD 4210,House,4,2,4,810m² ,12 Apr 2024
+"760,000 ","7 Beaumont Drive,",PIMPAMA QLD 4209,House,4,2,2,468m² ,2 Apr 2024
+"765,000 ","26 Leabrook Place,",PIMPAMA QLD 4209,House,4,2,2,388m² ,12 Apr 2024
+"865,000 ","23 Kerr Avenue,",SOUTHPORT QLD 4215,House,3,1,1,551m² ,12 Apr 2024
+"1,750,000 ","13 Ruthean Circuit,",COOMERA WATERS QLD 4209,House,6,3,2,800m² ,11 Apr 2024
+"1,200,000 ","52 Coombe Avenue,",HOPE ISLAND QLD 4212,House,3,2,5,809m² ,11 Apr 2024
+"3,500,000 ","14-16 Northwater Drive,",HOPE ISLAND QLD 4212,House,6,6,3,869m² ,11 Apr 2024
+"850,000 ","20 Theodore Place,",MOLENDINAR QLD 4214,House,3,1,2,643m² ,11 Apr 2024
+"775,000 ","6 James Close,",ORMEAU QLD 4208,House,4,2,2,509m² ,11 Apr 2024
+"1,520,000 ","4 Tahiti Avenue,",PALM BEACH QLD 4221,House,6,3,3,506m² ,11 Apr 2024
+"985,000 ","103 Henry Cotton Drive,",PARKWOOD QLD 4214,House,5,2,2,946m² ,11 Apr 2024
+"1,075,000 ","43 Allinga Street,",COOMBABAH QLD 4216,House,4,2,2,506m² ,10 Apr 2024
+"2,095,000 ","16 Mast Court,",CURRUMBIN WATERS QLD 4223,House,4,1,2,"1,151m² ",10 Apr 2024
+"1,100,000 ","17 Mullewa Crescent,",HELENSVALE QLD 4212,House,4,2,2,"1,161m² ",10 Apr 2024
+"1,038,000 ","86 Muir Street,",LABRADOR QLD 4215,House,3,1,1,506m² ,10 Apr 2024
+"1,125,000 ","20 Hillgrove Court,",OXENFORD QLD 4210,House,5,3,4,750m² ,10 Apr 2024
+"2,440,000 ","103 Leyte Avenue,",PALM BEACH QLD 4221,House,4,3,2,524m² ,10 Apr 2024
+"1,280,000 ","147 Laguna Avenue,",PALM BEACH QLD 4221,House,3,1,2,506m² ,10 Apr 2024
+"980,000 ","7 Prahran Court,",ROBINA QLD 4226,House,3,2,2,538m² ,10 Apr 2024
+"835,000 ","12 Mungana Drive,",UPPER COOMERA QLD 4209,House,4,2,2,700m² ,10 Apr 2024
+"871,000 ","44 Ascendancy Way,",UPPER COOMERA QLD 4209,House,4,2,2,488m² ,10 Apr 2024
+"1,110,000 ","30 Clubhouse Drive,",ARUNDEL QLD 4214,House,3,2,2,657m² ,09 Apr 2024
+"1,085,108 ","30 Dunsby Drive,",CARRARA QLD 4211,House,4,3,4,702m² ,09 Apr 2024
+"1,330,000 ","6 Pacha Close,",COOMERA WATERS QLD 4209,House,4,2,2,905m² ,09 Apr 2024
+"960,000 ","57 Coombe Avenue,",HOPE ISLAND QLD 4212,House,3,1,1,809m² ,09 Apr 2024
+"1,925,000 ","7684 Fairway Boulevard,",HOPE ISLAND QLD 4212,House,4,2,2,442m² ,09 Apr 2024
+"920,000 ","7 Pago Terrace,",PACIFIC PINES QLD 4211,House,4,2,2,849m² ,2024
+"832,000 ","8 Murdoch Court,",PIMPAMA QLD 4209,House,4,2,2,433m² ,9 Apr 2024
+"1,130,000 ","2 Melville Drive,",PIMPAMA QLD 4209,House,4,3,2,478m² ,09 Apr 2024
+"1,150,000 ","3 Barina Court,",TUGUN QLD 4224,House,3,1,2,869m² ,09 Apr 2024
+"1,128,000 ","26 Velox Circuit,",UPPER COOMERA QLD 4209,House,4,2,2,"1,000m² ",09 Apr 2024
+"1,650,000 ","10 Wudina Court,",ASHMORE QLD 4214,House,4,3,2,870m² ,08 Apr 2024
+"2,200,000 ","4 Lotus Key,",BROADBEACH WATERS QLD 4218,House,4,2,3,556m² ,08 Apr 2024
+"1,500,000 ","12 Maitland Street,",BURLEIGH WATERS QLD 4220,House,3,1,1,607m² ,2024
+"2,000,000 ","47 Burleigh Street,",BURLEIGH WATERS QLD 4220,House,3,3,3,607m² ,08 Apr 2024
+"1,622,000 ","2 Ruff Court,",BURLEIGH WATERS QLD 4220,House,3,2,2,682m² ,2024
+"1,010,000 ","58 Picnic Creek Drive,",COOMERA QLD 4209,House,4,2,5,616m² ,08 Apr 2024
+"871,000 ","33 Stinson Circuit,",COOMERA QLD 4209,House,4,2,2,473m² ,8 Apr 2024
+"1,445,000 ","10 Josephine Road,",COOMERA WATERS QLD 4209,House,4,2,2,868m² ,08 Apr 2024
+"2,190,000 ","6 The Peninsula,",HELENSVALE QLD 4212,House,6,3,3,946m² ,08 Apr 2024
+"2,380,000 ","4 Quayside Drive,",HELENSVALE QLD 4212,House,6,4,4,730m² ,08 Apr 2024
+"935,555 ","4 Kahlua Court,",HIGHLAND PARK QLD 4211,House,3,1,1,771m² ,08 Apr 2024
+"3,850,000 ","69 Sovereign Drive,",MERMAID WATERS QLD 4218,House,5,3,2,612m² ,08 Apr 2024
+"980,000 ","8 Lilyvale Crescent,",ORMEAU QLD 4208,House,4,2,2,700m² ,08 Apr 2024
+"1,200,000 ","6 Baywood Court,",ORMEAU QLD 4208,House,5,2,2,"1,065m² ",08 Apr 2024
+"920,000 ","4 Kallista Close,",ROBINA QLD 4226,House,3,2,2,414m² ,08 Apr 2024
+"830,000 ","4 Bakara Lane,",UPPER COOMERA QLD 4209,House,3,2,2,700m² ,8 Apr 2024
+"1,240,000 ","19 Hamersley Way,",WORONGARY QLD 4213,House,4,3,7,"1,472m² ",08 Apr 2024
+"1,630,000 ","71 Enkleman Road,",YATALA QLD 4207,House,4,3,10,"5,000m² ",08 Apr 2024
+"1,515,000 ","23 Fairsky Avenue,",MERMAID WATERS QLD 4218,House,3,2,4,697m² ,2024
+"1,425,000 ","55 Surfers Avenue,",MERMAID WATERS QLD 4218,House,3,3,2,531m² ,2024
+"730,000 ","8 Parkside Circuit,",ROBINA QLD 4226,House,3,2,2,373m² ,2024
+"1,950,000 ","8 Reserve Street,",BURLEIGH HEADS QLD 4220,House,4,3,4,405m² ,05 Apr 2024
+"1,270,000 ","111 Harrier Drive,",BURLEIGH WATERS QLD 4220,House,3,2,3,427m² ,05 Apr 2024
+"1,310,500 ","113 Alison Road,",CARRARA QLD 4211,House,4,2,2,"1,253m² ",2024
+"1,010,000 ","98 Plateau Crescent,",CARRARA QLD 4211,House,3,1,2,718m² ,05 Apr 2024
+"1,100,000 ","19 Marble Drive,",CARRARA QLD 4211,House,3,2,2,"1,070m² ",05 Apr 2024
+"15,000,000 ","75-81 Stanhill Drive,",CHEVRON ISLAND QLD 4217,House,3,3,3,"2,024m² ",2024
+"860,000 ","18A Azure Way,",COOMERA QLD 4209,House,4,2,2,445m² ,05 Apr 2024
+"1,085,000 ","1 Armada Crescent,",CURRUMBIN WATERS QLD 4223,House,4,2,2,757m² ,05 Apr 2024
+"1,330,000 ","98 Murtha Drive,",ELANORA QLD 4221,House,4,2,2,755m² ,05 Apr 2024
+"1,755,000 ","10 Saxonvale Terrace,",MERMAID WATERS QLD 4218,House,4,2,2,967m² ,05 Apr 2024
+"906,140 ","New Road,",NERANG QLD 4211,New house and land,4,2,2,375m² ,2024
+"10,000,000 ","175 Jefferson Lane,",PALM BEACH QLD 4221,House,4,4,5,412m² ,2024
+"1,330,000 ","1 Cammeray Court,",ROBINA QLD 4226,House,4,2,2,805m² ,2024
+"880,000 ","3 Carla Court,",VARSITY LAKES QLD 4227,House,3,1,1,410m² ,5 Apr 2024
+"919,016 ","Currawong Cct,",WORONGARY QLD 4213,New house and land,4,2,2,375m² ,2024
+"620,500 ","3/28-32 Golden Palms Court,",ASHMORE QLD 4214,Duplex,2,1,2,221m² ,04 Apr 2024
+"1,400,000 ","17 Drumbeat Place,",COOMERA WATERS QLD 4209,House,4,3,2,891m² ,04 Apr 2024
+"985,000 ","3 BURGUNDY COURT,",HIGHLAND PARK QLD 4211,House,3,2,2,806m² ,04 Apr 2024
+"1,520,000 ","64 Townson Avenue,",PALM BEACH QLD 4221,House,4,2,2,412m² ,04 Apr 2024
+"1,900,000 ","1/87 Tahiti Avenue,",PALM BEACH QLD 4221,House,3,2,2,244m² ,04 Apr 2024
+"2,300,000 ","3076 Forest Hills Drive,",SANCTUARY COVE QLD 4212,House,5,4,2,872m² ,04 Apr 2024
+"1,545,000 ","17 Spoonbill Court,",BURLEIGH WATERS QLD 4220,House,3,1,4,763m² ,03 Apr 2024
+"1,500,000 ","8 Summit Crescent,",CARRARA QLD 4211,House,4,3,2,720m² ,2024
+"1,335,000 ","39 Cartagena Lane,",COOMBABAH QLD 4216,House,5,2,2,462m² ,03 Apr 2024
+"1,000,000 ","14 Seabrook Street,",ELANORA QLD 4221,House,4,2,2,630m² ,03 Apr 2024
+"870,000 ","12 Robe Court,",HELENSVALE QLD 4212,House,3,1,2,754m² ,03 Apr 2024
+"1,900,000 ","1/124 Sunshine Parade,",MIAMI QLD 4220,Duplex,4,2,2,405m² ,03 Apr 2024
+"786,000 ","2 Olmo Court,",NERANG QLD 4211,House,4,1,1,414m² ,03 Apr 2024
+"950,000 ","9 Yarrimbah Drive,",NERANG QLD 4211,House,3,1,4,"1,012m² ",03 Apr 2024
+"815,000 ","6 Sandalwood Terrace,",NERANG QLD 4211,House,3,1,2,400m² ,03 Apr 2024
+"860,000 ","25 Hawkesbury Avenue,",PACIFIC PINES QLD 4211,House,4,2,2,532m² ,3 Apr 2024
+"1,200,000 ","25 Andamooka Avenue,",WORONGARY QLD 4213,House,5,3,4,780m² ,03 Apr 2024
+"1,498,000 ","8 Bristol Place,",ARUNDEL QLD 4214,House,3,2,2,781m² ,02 Apr 2024
+"807,900 ","6 Mualla Drive,",ASHMORE QLD 4214,House,3,1,2,680m² ,02 Apr 2024
+"850,000 ","16 Girral Avenue,",ASHMORE QLD 4214,House,4,2,4,721m² ,02 Apr 2024
+"2,622,222 ","4 River Crescent,",BROADBEACH WATERS QLD 4218,House,4,2,2,994m² ,02 Apr 2024
+"1,160,000 ","22 Matthew Close,",BURLEIGH HEADS QLD 4220,House,4,2,2,600m² ,02 Apr 2024
+"1,115,000 ","35 Treeview Drive,",BURLEIGH WATERS QLD 4220,House,3,2,2,642m² ,02 Apr 2024
+"1,450,000 ","15 Schooner Court,",BURLEIGH WATERS QLD 4220,House,3,2,2,434m² ,2024
+"1,301,500 ","5 Rangeview Court,",BURLEIGH WATERS QLD 4220,House,4,2,6,693m² ,02 Apr 2024
+"1,160,000 ","1 First Light Court,",COOMERA WATERS QLD 4209,House,4,2,2,780m² ,02 Apr 2024
+"964,000 ","4 First Light Court,",COOMERA WATERS QLD 4209,House,4,2,4,680m² ,02 Apr 2024
+"1,950,000 ","4 Windchimes Way,",HELENSVALE QLD 4212,House,4,2,4,819m² ,02 Apr 2024
+"2,200,000 ","2 Harbourvue Court,",HELENSVALE QLD 4212,House,5,4,3,915m² ,02 Apr 2024
+"1,151,000 ","2/395 Bayview Street,",HOLLYWELL QLD 4216,Duplex,3,2,2,681m² ,02 Apr 2024
+"930,000 ","21 Gawain Drive,",ORMEAU QLD 4208,House,5,3,2,450m² ,02 Apr 2024
+"960,000 ","9 Keewong Street,",ORMEAU QLD 4208,House,4,2,2,703m² ,02 Apr 2024
+"1,225,000 ","36 Princeton Street,",OXENFORD QLD 4210,House,4,3,2,530m² ,02 Apr 2024
+"830,000 ","17 Kalgoorlie Street,",PIMPAMA QLD 4209,House,4,2,2,404m² ,02 Apr 2024
+"835,000 ","14 Lindeman Circuit,",PIMPAMA QLD 4209,House,3,2,2,422m² ,02 Apr 2024
+"1,135,000 ","4 Glenferrie Drive,",ROBINA QLD 4226,House,3,2,2,461m² ,02 Apr 2024
+"1,415,000 ","6 Henley Court,",ROBINA QLD 4226,House,4,2,2,946m² ,02 Apr 2024
+"1,630,000 ","30 Yarraville Street,",ROBINA QLD 4226,House,4,2,4,802m² ,02 Apr 2024
+"1,700,000 ","94 Lae Drive,",RUNAWAY BAY QLD 4216,House,4,2,2,665m² ,02 Apr 2024
+"1,660,000 ","20 Egerton Street,",SOUTHPORT QLD 4215,House,5,3,3,750m² ,02 Apr 2024
+"1,700,000 ","50 Courtney Drive,",UPPER COOMERA QLD 4209,House,8,5,10,0,02 Apr 2024
+"1,250,000 ","43 Bayswater Avenue,",VARSITY LAKES QLD 4227,House,4,3,2,350m² ,02 Apr 2024
+"2,208,888 ","20 Windchimes Way,",HELENSVALE QLD 4212,House,5,3,4,799m² ,01 Apr 2024
+"1,076,000 ","24 Reynolds Avenue,",LABRADOR QLD 4215,House,3,2,2,534m² ,01 Apr 2024
+"657,000 ","2/85 Government Road,",LABRADOR QLD 4215,House,2,1,1,300m² ,01 Apr 2024
+"3,250,000 ","30 Midnight Court,",RUNAWAY BAY QLD 4216,House,5,3,4,733m² ,01 Apr 2024
+"875,000 ","16 Manassa Street,",UPPER COOMERA QLD 4209,House,4,2,2,612m² ,01 Apr 2024
+"1,760,000 ","38 Nollamara Drive,",ELANORA QLD 4221,House,4,2,2,512m² ,2024
+"1,150,000 ","24 Vancouver Drive,",ROBINA QLD 4226,House,3,2,4,407m² ,30 Mar 2024
+"1,805,000 ","20 Annies Court,",BENOWA QLD 4217,House,4,2,3,744m² ,29 Mar 2024
+"2,330,000 ","10 Ensenada Court,",BROADBEACH WATERS QLD 4218,House,4,2,3,551m² ,9 Mar 2024
+"1,460,000 ","18 Treeview Drive,",BURLEIGH WATERS QLD 4220,House,4,2,2,770m² ,29 Mar 2024
+"2,000,000 ","150 Duringan Street,",CURRUMBIN QLD 4223,House,4,3,4,559m² ,29 Mar 2024
+"2,750,000 ","16 Cabana Boulevard,",BENOWA WATERS QLD 4217,House,5,3,2,993m² ,28 Mar 2024
+"2,100,000 ","8 Longboat Place,",BIGGERA WATERS QLD 4216,House,4,2,6,679m² ,28 Mar 2024
+"3,430,000 ","332 Monaco Street,",BROADBEACH WATERS QLD 4218,House,4,4,3,862m² ,2024
+"1,270,000 ","4 Balsa Street,",ELANORA QLD 4221,House,4,2,5,729m² ,28 Mar 2024
+"1,845,000 ","521 Oyster Cove Promenade,",HELENSVALE QLD 4212,House,4,3,2,473m² ,28 Mar 2024
+"4,100,000 ","27 Ocean Street,",MERMAID BEACH QLD 4218,House,5,3,4,405m² ,2024
+"1,225,000 ","25 Sanctuary Court,",MERMAID WATERS QLD 4218,House,3,3,2,256m² ,2024
+"1,550,000 ","15 Anita Avenue,",MIAMI QLD 4220,House,4,2,−,511m² ,28 Mar 2024
+"850,000 ","7 Meadowvale Street,",OXENFORD QLD 4210,House,3,1,4,630m² ,28 Mar 2024
+"791,000 ","10 Winslow Court,",OXENFORD QLD 4210,House,3,2,2,802m² ,28 Mar 2024
+"1,600,000 ","125 Michigan Drive,",OXENFORD QLD 4210,House,5,3,10,"3,000m² ",2024
+"761,000 ","2/33 Bellinger Key,",PACIFIC PINES QLD 4211,Duplex,3,2,2,147m² ,28 Mar 2024
+"920,000 ","50 Swan Road,",PIMPAMA QLD 4209,House,4,2,2,420m² ,28 Mar 2024
+"1,251,000 ","38 Emerton Crescent,",ROBINA QLD 4226,House,4,2,2,491m² ,28 Mar 2024
+"992,000 ","77B Stradbroke Street,",RUNAWAY BAY QLD 4216,Duplex,3,2,2,171m² ,2024
+"1,600,000 ","29 Minnie Street,",SOUTHPORT QLD 4215,House,3,1,1,"1,012m² ",28 Mar 2024
+"2,440,000 ","3 Alkira Way,",WORONGARY QLD 4213,House,5,4,2,"4,011m² ",2024
+"5,100,000 ","20 Welby Street,",BROADBEACH WATERS QLD 4218,House,5,5,2,777m² ,27 Mar 2024
+"2,150,000 ","22 Rio Vista Boulevard,",BROADBEACH WATERS QLD 4218,House,3,2,2,819m² ,7 Mar 2024
+"2,650,000 ","10 Eagle Avenue,",BURLEIGH WATERS QLD 4220,House,4,3,2,617m² ,27 Mar 2024
+"1,750,000 ","8 Quest Terrace,",COOMERA WATERS QLD 4209,House,5,4,2,"1,741m² ",27 Mar 2024
+"1,560,000 ","22 Field Street,",HELENSVALE QLD 4212,House,4,4,2,448m² ,7 Mar 2024
+"1,295,000 ","48 Marina Parade,",JACOBS WELL QLD 4208,House,4,2,4,763m² ,27 Mar 2024
+"1,070,000 ","629 Stanmore Road,",LUSCOMBE QLD 4207,House,3,1,8,0,27 Mar 2024
+"1,730,000 ","10 Scouller Place,",MERMAID WATERS QLD 4218,House,4,3,4,785m² ,2024
+"1,180,000 ","28 Lockwood Place,",MOLENDINAR QLD 4214,House,5,2,3,546m² ,2024
+"720,000 ","4/1 Archipelago Street,",PACIFIC PINES QLD 4211,Duplex,3,2,2,402m² ,27 Mar 2024
+"967,500 ","10 Plover Avenue,",PARADISE POINT QLD 4216,House,2,1,2,506m² ,27 Mar 2024
+"1,305,500 ","8 Regensberg Close,",VARSITY LAKES QLD 4227,House,4,2,2,504m² ,27 Mar 2024
+"1,970,000 ","25 Auk Avenue,",BURLEIGH WATERS QLD 4220,House,5,2,2,680m² ,26 Mar 2024
+"1,220,000 ","17 Montezuma Drive,",BURLEIGH WATERS QLD 4220,House,4,2,2,438m² ,26 Mar 2024
+"837,000 ","18 Scott Young Drive,",COOMERA QLD 4209,House,4,2,2,404m² ,2024
+"835,000 ","11 Mackenzie Street,",COOMERA QLD 4209,House,4,2,2,449m² ,2024
+"830,000 ","40 Keppel Way,",COOMERA QLD 4209,House,4,2,2,402m² ,2024
+"837,000 ","18 Scott Young Drive,",COOMERA QLD 4209,House,4,2,2,404m² ,2024
+"861,000 ","12 Leichhardt Street,",COOMERA QLD 4209,House,4,2,2,391m² ,2024
+"875,000 ","13 Gatina Crescent,",COOMERA QLD 4209,House,4,2,2,427m² ,26 Mar 2024
+"866,000 ","92 Serafina Drive,",HELENSVALE QLD 4212,House,3,2,3,405m² ,26 Mar 2024
+"1,220,000 ","22 Saltash Street,",LABRADOR QLD 4215,House,5,3,2,524m² ,26 Mar 2024
+"1,910,000 ","6 Hilltop Street,",LABRADOR QLD 4215,House,4,2,2,"1,100m² ",2024
+"915,000 ","23 Karall Street,",ORMEAU QLD 4208,House,5,2,3,678m² ,2024
+"700,000 ","2/19 Summerlea Crescent,",ORMEAU QLD 4208,House,3,2,2,180m² ,26 Mar 2024
+"777,000 ","8 Granya Court,",PACIFIC PINES QLD 4211,House,4,2,2,608m² ,2024
+"635,000 ","42 Carnarvon Court,",PIMPAMA QLD 4209,House,3,2,2,223m² ,26 Mar 2024
+"704,000 ","1 Perger Street,",PIMPAMA QLD 4209,House,3,2,1,316m² ,26 Mar 2024
+"770,000 ","4 Cudmore Street,",PIMPAMA QLD 4209,House,4,2,2,350m² ,26 Mar 2024
+"740,000 ","9 Dowling Drive,",SOUTHPORT QLD 4215,House,3,1,2,675m² ,26 Mar 2024
+"3,200,000 ","13 Middle Quay Drive,",BIGGERA WATERS QLD 4216,House,5,4,4,770m² ,25 Mar 2024
+"2,000,000 ","13 Villa Court,",BROADBEACH WATERS QLD 4218,House,5,3,2,820m² ,5 Mar 2024
+"1,190,000 ","3216/3030 The Boulevard,",CARRARA QLD 4211,House,2,2,2,177m² ,25 Mar 2024
+"1,665,000 ","8 Numidia Street,",CURRUMBIN WATERS QLD 4223,House,4,2,2,606m² ,25 Mar 2024
+"1,020,500","4 Border Drive,",CURRUMBIN WATERS QLD 4223,House,3,1,3,706m² ,25 Mar 2024
+"1,635,000 ","34 Jarrahdale Drive,",ELANORA QLD 4221,House,3,2,4,971m² ,25 Mar 2024
+"1,200,000 ","76 Citron Crescent,",HELENSVALE QLD 4212,House,4,2,4,326m² ,25 Mar 2024
+"2,050,000 ","94 Southaven Drive,",HELENSVALE QLD 4212,House,4,2,3,812m² ,25 Mar 2024
+"1,000,000 ","38 Sydney Street,",LABRADOR QLD 4215,House,3,1,2,417m² ,2024
+"1,612,000 ","12 Helm Court,",MERMAID WATERS QLD 4218,House,3,2,2,693m² ,25 Mar 2024
+"721,500 ","59/2-6 Ghilgai Road,",MERRIMAC QLD 4226,Villa,3,2,3,100m² ,25 Mar 2024
+"830,000 ","51 Lynbrook Avenue,",ORMEAU QLD 4208,House,4,2,2,500m² ,25 Mar 2024
+"842,500 ","29 Crestridge Crescent,",OXENFORD QLD 4210,House,4,2,2,"1,242m² ",5 Mar 2024
+"1,012,500 ","52 Silver Dawn Crescent,",OXENFORD QLD 4210,House,4,2,2,612m² ,5 Mar 2024
+"1,037,000 ","22 Pandora Crescent,",PACIFIC PINES QLD 4211,House,4,2,2,621m² ,25 Mar 2024
+"1,500,000 ","37 Spindle Street,",PALM BEACH QLD 4221,House,4,2,4,849m² ,25 Mar 2024
+"1,955,000 ","73 Tallebudgera Drive,",PALM BEACH QLD 4221,House,5,2,1,546m² ,25 Mar 2024
+"720,000 ","53 Collingrove Circuit,",PIMPAMA QLD 4209,House,3,2,2,405m² ,25 Mar 2024
+"1,350,000 ","43 Ron Penhaligon Way,",ROBINA QLD 4226,House,4,2,2,561m² ,25 Mar 2024
+"1,220,000 ","22 Medika Street,",RUNAWAY BAY QLD 4216,House,4,2,2,506m² ,25 Mar 2024
+"3,750,000 ","159 Campbell Street,",SORRENTO QLD 4217,House,4,5,2,723m² ,25 Mar 2024
+"1,172,800 ","11 Lavinia Street,",SOUTHPORT QLD 4215,House,5,2,2,620m² ,5 Mar 2024
+"3,150,000 ","9 Excalibur Court,",SOVEREIGN ISLANDS QLD 4216,House,4,3,3,"1,036m² ",25 Mar 2024
+"861,000 ","21 Redstart Street,",UPPER COOMERA QLD 4209,House,4,2,2,607m² ,25 Mar 2024
+"820,000 ","1 Moura Road,",WORONGARY QLD 4213,House,3,1,2,749m² ,25 Mar 2024
+"1,460,000 ","14 Redleaf Court,",BURLEIGH WATERS QLD 4220,House,4,2,2,680m² ,2024
+"1,660,000 ","32 Palmcrest Drive,",CARRARA QLD 4211,House,4,2,2,861m² ,24 Mar 2024
+"788,000 ","3 Lindsay Lane,",PIMPAMA QLD 4209,House,4,2,2,402m² ,4 Mar 2024
+"1,160,000 ","5 Kropp Street,",BIGGERA WATERS QLD 4216,House,3,2,3,531m² ,23 Mar 2024
+"2,810,000 ","149 Stanhill drive,",CHEVRON ISLAND QLD 4217,House,4,3,3,506m² ,23 Mar 2024
+"2,925,000 ","27 Cadence Avenue,",MERMAID WATERS QLD 4218,House,5,4,2,"1,064m² ",2024
+"830,000 ","13 Callicoma Court,",ORMEAU QLD 4208,House,4,2,2,700m² ,2024
+"4,550,000 ","29 Blair Athol Crescent,",SORRENTO QLD 4217,House,5,4,4,936m² ,2024
+"2,500,000 ","15 Winchester Street,",SOUTHPORT QLD 4215,House,4,3,2,"1,384m² ",23 Mar 2024
+"794,000 ","7 Nemo Street,",ASHMORE QLD 4214,House,3,1,2,615m² ,22 Mar 2024
+"2,350,000 ","24 Kincardine Drive,",BENOWA WATERS QLD 4217,House,4,2,2,888m² ,22 Mar 2024
+"1,215,000 ","175 Ocean Parade,",BURLEIGH HEADS QLD 4220,House,2,1,2,463m² ,2024
+"2,465,000 ","9 Omao Avenue,",BURLEIGH WATERS QLD 4220,House,4,2,4,629m² ,2024
+"1,040,000 ","30 Ceil Circuit,",COOMERA WATERS QLD 4209,House,4,2,2,905m² ,22 Mar 2024
+"1,129,200 ","75 Angelica Street,",ELANORA QLD 4221,House,3,2,2,610m² ,22 Mar 2024
+"2,669,000 ","16 Kurrawa Avenue,",MERMAID WATERS QLD 4218,House,4,3,2,827m² ,2024
+"975,000 ","55 Zane Street,",MOLENDINAR QLD 4214,House,6,3,2,457m² ,22 Mar 2024
+"1,600,000 ","61 Fifth Avenue,",PALM BEACH QLD 4221,House,4,2,2,508m² ,22 Mar 2024
+"1,495,000 ","3 Peregrine Street,",REEDY CREEK QLD 4227,House,4,2,2,700m² ,22 Mar 2024
+"5,650,000 ","79 George Street Central,",BURLEIGH HEADS QLD 4220,House,4,3,3,531m² ,21 Mar 2024
+"1,325,000 ","45 Martingale Circuit,",CLEAR ISLAND WATERS QLD 4226,House,3,2,2,553m² ,21 Mar 2024
+"900,000 ","10 Sturt Street,",OXENFORD QLD 4210,House,4,2,2,562m² ,21 Mar 2024
+"850,000 ","42 Pimpama Jacobs Well Road,",PIMPAMA QLD 4209,House,3,1,7,851m² ,2024
+"1,900,000 ","21 Corvus Way,",ROBINA QLD 4226,House,5,3,2,744m² ,21 Mar 2024
+"847,777 ","66 Heatherdale Drive,",UPPER COOMERA QLD 4209,House,3,2,4,635m² ,21 Mar 2024
+"820,000 ","9 Mitchell Street,",UPPER COOMERA QLD 4209,House,4,2,2,600m² ,1 Mar 2024
+"1,530,000 ","21 The Boulevarde,",BENOWA QLD 4217,House,3,3,4,499m² ,20 Mar 2024
+"1,225,000 ","37 Hibertia Avenue,",ELANORA QLD 4221,House,4,2,2,701m² ,20 Mar 2024
+"1,775,000 ","15 Salerno Street,",ISLE OF CAPRI QLD 4217,House,4,2,2,506m² ,20 Mar 2024
+"7,700,000 ","84 Oceanic Drive,",MERMAID WATERS QLD 4218,House,6,5,4,909m² ,20 Mar 2024
+"960,000 ","159 Pascoe Road,",ORMEAU QLD 4208,House,4,2,7,"1,001m² ",20 Mar 2024
+"1,185,000 ","14 Kilkivan Drive,",ORMEAU QLD 4208,House,4,2,2,801m² ,20 Mar 2024
+"1,350,000 ","35 Thrush Avenue,",PARADISE POINT QLD 4216,House,4,4,3,587m² ,20 Mar 2024
+"980,000","7 Nimrud Street,",SOUTHPORT QLD 4215,House,3,2,1,625m² ,20 Mar 2024
+"1,150,000 ","10 Harcourt Crescent,",SOUTHPORT QLD 4215,House,2,1,2,567m² ,20 Mar 2024
+"1,300,000 ","19 Gerona Circuit,",VARSITY LAKES QLD 4227,House,5,3,2,413m² ,20 Mar 2024
+"880,000 ","16 Spikes Court,",ARUNDEL QLD 4214,House,4,2,3,612m² ,19 Mar 2024
+"1,050,000 ","14 Warrungen Way,",ASHMORE QLD 4214,House,5,1,2,801m² ,19 Mar 2024
+"3,150,000 ","118 Edinburgh Road,",BENOWA WATERS QLD 4217,House,4,4,4,"1,009m² ",19 Mar 2024
+"2,400,000 ","37 Wedgebill Parade,",BURLEIGH WATERS QLD 4220,House,4,2,6,840m² ,19 Mar 2024
+"1,210,000 ","1 & 2/23 Cobalt Circuit,",COOMERA QLD 4209,Duplex,6,4,2,534m² ,19 Mar 2024
+"950,000 ","11 Buliti Street,",HOPE ISLAND QLD 4212,House,3,2,3,607m² ,19 Mar 2024
+"986,000 ","7 Cobb & Co Drive,",OXENFORD QLD 4210,House,4,2,2,570m² ,2024
+"910,000 ","4 Wellers Street,",PACIFIC PINES QLD 4211,House,4,2,2,729m² ,9 Mar 2024
+"1,329,000 ","5 Pago Terrace,",PACIFIC PINES QLD 4211,House,6,3,4,825m² ,19 Mar 2024
+"1,270,000 ","3 Pickworth Court,",PARKWOOD QLD 4214,House,6,3,6,819m² ,19 Mar 2024
+"1,250,000 ","16 Sundown Circuit,",PIMPAMA QLD 4209,House,4,2,2,765m² ,19 Mar 2024
+"1,870,000 ","28 Sunningdale Circuit,",ROBINA QLD 4226,House,5,3,4,782m² ,19 Mar 2024
+"14,250,000 ","46-48 Royal Albert Crescent,",SOVEREIGN ISLANDS QLD 4216,House,8,8,15,"1,448m² ",19 Mar 2024
+"910,000 ","5 Heather Drive,",UPPER COOMERA QLD 4209,House,4,2,2,640m² ,19 Mar 2024
+"1,070,000 ","19 Alexa Rise,",UPPER COOMERA QLD 4209,House,4,2,2,602m² ,19 Mar 2024
+"1,560,000 ","1002 Lakeview Terrace,",BENOWA QLD 4217,House,4,2,2,618m² ,18 Mar 2024
+"1,200,000 ","141 Hooker Boulevard,",BROADBEACH WATERS QLD 4218,House,3,2,2,623m² ,18 Mar 2024
+"3,565,000 ","12 Lakeland Key,",BROADBEACH WATERS QLD 4218,House,4,4,2,556m² ,18 Mar 2024
+"1,100,000 ","16 Rangeview Court,",BURLEIGH WATERS QLD 4220,House,3,2,2,700m² ,18 Mar 2024
+"1,745,000 ","34 Meadowview Drive,",CARRARA QLD 4211,House,5,3,4,704m² ,18 Mar 2024
+"2,147,500 ","38 John Dalley Drive,",HELENSVALE QLD 4212,House,4,2,2,"1,014m² ",18 Mar 2024
+"2,678,500 ","9 Metricup Court,",MERMAID WATERS QLD 4218,House,5,2,4,940m² ,18 Mar 2024
+"830,000 ","17 Terang Court,",ORMEAU QLD 4208,House,3,2,2,525m² ,18 Mar 2024
+"1,195,000 ","54 Oppermann Drive,",ORMEAU QLD 4208,House,5,2,2,"4,009m² ",18 Mar 2024
+"1,500,000 ","65 Melville Drive,",PIMPAMA QLD 4209,House,4,2,2,794m² ,18 Mar 2024
+"1,220,000 ","18 Harding Street,",PIMPAMA QLD 4209,House,4,2,2,611m² ,18 Mar 2024
+"900,000 ","12 Shawnee Crescent,",PIMPAMA QLD 4209,House,5,2,2,608m² ,18 Mar 2024
+"1,405,000 ","8 Oakmont Street,",ROBINA QLD 4226,House,4,2,2,820m² ,2024
+"4,200,000 ","68 The Sovereign Mile,",SOVEREIGN ISLANDS QLD 4216,House,5,5,6,770m² ,18 Mar 2024
+"900,000","12 Jessica Drive,",UPPER COOMERA QLD 4209,House,4,2,2,660m² ,18 Mar 2024
+"970,000 ","80 Open Drive,",ARUNDEL QLD 4214,House,4,2,2,612m² ,17 Mar 2024
+"1,331,000 ","28 Cartagena Lane,",COOMBABAH QLD 4216,House,5,3,2,478m² ,2024
+"1,100,000 ","11 Tuggeranong Avenue,",PACIFIC PINES QLD 4211,House,4,2,2,714m² ,16 Mar 2024
+"1,110,000 ","45 Great Sandy Circuit,",PIMPAMA QLD 4209,House,4,2,2,449m² ,16 Mar 2024
+"2,400,000 ","84 Campbell Street,",SORRENTO QLD 4217,House,6,3,2,772m² ,16 Mar 2024
+"1,620,000 ","3 Keryn Close,",WORONGARY QLD 4213,House,4,3,18,"8,951m² ",16 Mar 2024
+"880,000","22 Aspen Way,",ARUNDEL QLD 4214,House,3,2,2,315m² ,15 Mar 2024
+"2,600,000 ","125 Edinburgh Road,",BENOWA WATERS QLD 4217,House,4,3,2,931m² ,15 Mar 2024
+"18,000,000 ","87 Monaco Street,",BROADBEACH WATERS QLD 4218,House,6,5,3,"2,390m² ",15 Mar 2024
+"2,175,000 ","25 Timbertop Mead,",BURLEIGH HEADS QLD 4220,House,4,4,2,612m² ,15 Mar 2024
+"825,000 ","14 Serafina Drive,",HELENSVALE QLD 4212,House,3,2,2,406m² ,15 Mar 2024
+"891,000 ","7 Rosswood Court,",HELENSVALE QLD 4212,House,4,2,4,662m² ,15 Mar 2024
+"5,211,000 ","29 Driver Court,",MERMAID WATERS QLD 4218,House,4,4,4,"1,252m² ",2024
+"920,000","10 Wundowie Street,",NERANG QLD 4211,House,3,2,2,678m² ,15 Mar 2024
+"838,000 ","57 Bedivere Drive,",ORMEAU QLD 4208,House,4,2,2,565m² ,15 Mar 2024
+"1,340,000 ","39 Sandringham Drive,",ROBINA QLD 4226,House,3,2,2,741m² ,15 Mar 2024
+"918,000 ","12 Myall Street,",SOUTHPORT QLD 4215,House,3,2,2,630m² ,15 Mar 2024
+"2,920,000 ","10 Carl Lentz Court,",WORONGARY QLD 4213,House,5,2,9,"4,097m² ",15 Mar 2024
+"950,000 ","7 Fiona Street,",BIGGERA WATERS QLD 4216,House,3,1,4,506m² ,14 Mar 2024
+"4,765,000 ","38 Honeyeater Drive,",BURLEIGH WATERS QLD 4220,House,5,4,2,827m² ,2024
+"2,450,000 ","2 Anthony Drive,",BURLEIGH WATERS QLD 4220,House,5,3,2,418m² ,14 Mar 2024
+"785,000 ","4 Turana Street,",COOMBABAH QLD 4216,House,3,1,3,506m² ,14 Mar 2024
+"890,000 ","19 Gatina Crescent,",COOMERA QLD 4209,House,4,2,2,448m² ,14 Mar 2024
+"1,430,000 ","8 Sunbird Court,",ELANORA QLD 4221,House,4,2,4,592m² ,2024
+"1,675,000","272 Nineteenth Avenue,",ELANORA QLD 4221,House,4,2,2,831m² ,14 Mar 2024
+"1,850,000 ","44 Bolton Street,",KIRRA QLD 4225,House,4,2,2,551m² ,14 Mar 2024
+"1,100,000 ","5 Irvine Street,",PACIFIC PINES QLD 4211,House,4,2,2,535m² ,14 Mar 2024
+"1,400,000 ","49 Coolibah Drive,",PALM BEACH QLD 4221,House,3,2,1,616m² ,14 Mar 2024
+"1,330,000 ","37 Worchester Terrace,",REEDY CREEK QLD 4227,House,3,2,2,491m² ,14 Mar 2024
+"1,400,000 ","34 The Crescent,",ASHMORE QLD 4214,House,4,3,4,728m² ,2024
+"1,830,000 ","9 Ensenada Court,",BROADBEACH WATERS QLD 4218,House,4,2,2,551m² ,13 Mar 2024
+"1,400,000 ","8 Maple Court,",BURLEIGH WATERS QLD 4220,House,5,2,4,700m² ,13 Mar 2024
+"1,280,000 ","13 Tattler Way,",BURLEIGH WATERS QLD 4220,House,3,2,2,668m² ,13 Mar 2024
+"1,520,000 ","9 Ambermerle Way,",COOMERA WATERS QLD 4209,House,4,2,3,"1,230m² ",13 Mar 2024
+"855,000 ","14/1 Citron Crescent,",HELENSVALE QLD 4212,House,4,2,2,179m² ,13 Mar 2024
+"1,275,000","45 Bordeaux Parade,",MERMAID WATERS QLD 4218,House,3,2,2,612m² ,13 Mar 2024
+"1,315,000 ","37 Arnold Palmer Drive,",PARKWOOD QLD 4214,House,4,2,3,747m² ,13 Mar 2024
+"1,275,000 ","72 Tullamarine Drive,",ROBINA QLD 4226,House,5,3,2,802m² ,13 Mar 2024
+"1,150,000 ","4 Birtwistle Street,",SOUTHPORT QLD 4215,House,3,2,2,632m² ,13 Mar 2024
+"899,000 ","21 Fawn Street,",UPPER COOMERA QLD 4209,House,4,2,2,719m² ,13 Mar 2024
+"1,195,800 ","92 Yangoora Crescent,",ASHMORE QLD 4214,House,5,3,2,942m² ,12 Mar 2024
+"1,230,000 ","22 Mentone Avenue,",BUNDALL QLD 4217,House,4,2,4,506m² ,12 Mar 2024
+"1,230,000 ","22 Mentone Avenue,",BUNDALL QLD 4217,House,4,2,4,506m² ,12 Mar 2024
+"690,000 ","45 Tooraneedin Road,",COOMERA QLD 4209,House,3,1,2,554m² ,2024
+"805,000 ","59 Lisa Crescent,",COOMERA QLD 4209,House,4,2,2,450m² ,12 Mar 2024
+"498,000 ","2/21 Fortune Street,",COOMERA QLD 4209,House,2,1,2,122m² ,12 Mar 2024
+"952,600 ","4 Lytham Court,",HIGHLAND PARK QLD 4211,House,4,3,4,900m² ,2 Mar 2024
+"1,525,000 ","6 Pool Street,",HOPE ISLAND QLD 4212,House,4,2,2,809m² ,12 Mar 2024
+"1,150,000 ","27 Iluka Way,",JACOBS WELL QLD 4208,House,4,2,5,624m² ,12 Mar 2024
+"1,700,000 ","8 Tulip Street,",MIAMI QLD 4220,House,5,2,2,606m² ,12 Mar 2024
+"2,003,000","3 Donilla Place,",NERANG QLD 4211,House,4,2,6,"9,328m² ",12 Mar 2024
+"850,000 ","4 Lou Place,",PACIFIC PINES QLD 4211,House,4,2,4,403m² ,12 Mar 2024
+"2,250,000 ","47 Hume Parade,",PARADISE POINT QLD 4216,House,3,3,2,"1,141m² ",2 Mar 2024
+"1,221,000 ","21 Rundle Avenue,",PIMPAMA QLD 4209,House,4,2,3,480m² ,2024
+"800,000 ","23 Millstream Place,",PIMPAMA QLD 4209,House,4,2,2,427m² ,2024
+"1,775,000 ","136 Barden Ridge Road,",REEDY CREEK QLD 4227,House,5,2,2,"2,339m² ",12 Mar 2024
+"1,430,000 ","8 Skyburnett Street,",REEDY CREEK QLD 4227,House,4,3,2,836m² ,12 Mar 2024
+"1,325,000 ","4 Para Place,",ROBINA QLD 4226,House,4,2,2,874m² ,12 Mar 2024
+"1,540,000 ","32 Woody Views Way,",ROBINA QLD 4226,House,4,2,2,"1,222m² ",12 Mar 2024
+"3,500,000 ","20 Donegal Crescent,",SORRENTO QLD 4217,House,4,3,2,872m² ,2024
+"892,000 ","27 Susanne Street,",SOUTHPORT QLD 4215,House,4,3,−,501m² ,12 Mar 2024
+"1,315,000 ","2 Jackson Ridge Road,",UPPER COOMERA QLD 4209,House,4,2,3,934m² ,2024
+"807,777 ","43 Heatherdale Drive,",UPPER COOMERA QLD 4209,House,3,2,2,696m² ,2024
+"1,404,500 ","14 Conestoga Way,",UPPER COOMERA QLD 4209,House,6,3,2,826m² ,2024
+"1,350,000 ","97A Yangoora Crescent,",ASHMORE QLD 4214,House,4,2,2,756m² ,11 Mar 2024
+"3,500,000 ","126 Sir Bruce Small Boulevard,",BENOWA WATERS QLD 4217,House,5,3,3,767m² ,11 Mar 2024
+"1,900,000 ","15 Lakeside Avenue,",BROADBEACH WATERS QLD 4218,House,4,2,2,640m² ,2024
+"2,100,000 ","6 Coleto Crescent,",BURLEIGH WATERS QLD 4220,House,3,2,−,"1,101m² ",11 Mar 2024
+"1,455,000 ","86 Cassowary Drive,",BURLEIGH WATERS QLD 4220,House,4,2,2,647m² ,2024
+"615,000 ","28/91 Beattie Road,",COOMERA QLD 4209,House,3,2,2,179m² ,11 Mar 2024
+"860,000 ","5 Mackenzie Street,",COOMERA QLD 4209,House,3,2,2,493m² ,11 Mar 2024
+"1,255,000 ","7 Forest Court,",HELENSVALE QLD 4212,House,4,2,2,496m² ,11 Mar 2024
+"1,650,000 ","17 Brindisi Avenue,",ISLE OF CAPRI QLD 4217,House,4,2,1,531m² ,11 Mar 2024
+"1,185,000 ","10 Appadene Street,",ORMEAU QLD 4208,House,4,2,3,799m² ,11 Mar 2024
+"1,228,000 ","14 Queens Park Circuit,",OXENFORD QLD 4210,House,4,2,2,"2,000m² ",11 Mar 2024
+"3,350,000 ","31 Lindsay Parade,",PARADISE POINT QLD 4216,House,4,2,5,716m² ,2024
+"750,000 ","39 Greenwich Avenue,",PIMPAMA QLD 4209,House,4,2,2,376m² ,1 Mar 2024
+"1,820,000","36 Banff Court,",ROBINA QLD 4226,House,4,3,2,799m² ,11 Mar 2024
+"1,320,000 ","8 Northwood Close,",ROBINA QLD 4226,House,4,2,2,865m² ,11 Mar 2024
+"1,850,000 ","110 Lae Drive,",RUNAWAY BAY QLD 4216,House,5,3,4,724m² ,11 Mar 2024
+"10,100,000 ","1037 Edgecliff Place,",SANCTUARY COVE QLD 4212,House,5,8,10,"1,370m² ",11 Mar 2024
+"4,880,000 ","1054 Edgecliff Drive,",SANCTUARY COVE QLD 4212,House,5,6,6,639m² ,11 Mar 2024
+"912,000 ","10 Acton Place,",UPPER COOMERA QLD 4209,House,4,2,2,725m² ,11 Mar 2024
+"1,320,000 ","36 Balonne Court,",UPPER COOMERA QLD 4209,House,4,3,2,622m² ,11 Mar 2024
+"950,000 ","42 Greenview Circuit,",ARUNDEL QLD 4214,House,4,2,2,397m² ,10 Mar 2024
+"3,450,000 ","35 Diplacus Drive,",PALM BEACH QLD 4221,House,4,3,2,877m² ,0 Mar 2024
+"775,000 ","21 Brookfield Street,",PIMPAMA QLD 4209,House,4,2,2,375m² ,10 Mar 2024
+"650,000","1/8 Mocha Way,",PIMPAMA QLD 4209,House,3,2,2,660m² ,10 Mar 2024
+"840,000 ","42 Melinda Street,",SOUTHPORT QLD 4215,House,3,1,2,544m² ,10 Mar 2024
+"953,000 ","17 Greendragon Crescent,",UPPER COOMERA QLD 4209,House,4,2,2,578m² ,0 Mar 2024
+"1,200,000","90 Citron Crescent,",HELENSVALE QLD 4212,House,4,2,2,294m² ,09 Mar 2024
+"3,122,000 ","68 Chainey Avenue,",MIAMI QLD 4220,House,4,3,2,410m² ,2024
+"725,000 ","102 Katunga Circuit,",ORMEAU QLD 4208,House,4,1,1,899m² ,2024
+"580,000 ","1/5 Gable Street,",OXENFORD QLD 4210,Semi-detached,2,1,1,118m² ,09 Mar 2024
+"950,000 ","11 Aingeal Place,",OXENFORD QLD 4210,House,4,2,2,802m² ,09 Mar 2024
+"852,500 ","5/50A Oregon Way,",OXENFORD QLD 4210,House,4,2,2,596m² ,2024
+"1,420,000 ","9 Fairbairn Court,",OXENFORD QLD 4210,House,4,2,2,646m² ,09 Mar 2024
+"2,850,000 ","41 Diplacus Drive,",PALM BEACH QLD 4221,House,3,2,2,858m² ,09 Mar 2024
+"900,000 ","12 Beale Street,",SOUTHPORT QLD 4215,House,3,1,1,513m² ,2024
+"2,250,000 ","110 Cabana Boulevard,",BENOWA WATERS QLD 4217,House,4,2,2,946m² ,08 Mar 2024
+"1,550,000 ","43 Northlakes Drive,",ELANORA QLD 4221,House,4,2,2,601m² ,2024
+"1,400,000 ","7 Urangan Court,",HELENSVALE QLD 4212,House,5,3,3,948m² ,08 Mar 2024
+"820,000 ","27 Tamworth Drive,",HELENSVALE QLD 4212,House,3,1,1,"1,111m² ",08 Mar 2024
+"2,750,000 ","13 La Scala Court,",ISLE OF CAPRI QLD 4217,House,3,2,2,845m² ,08 Mar 2024
+"800,000 ","4 BLUE LAGOON COURT,",NERANG QLD 4211,House,3,2,2,400m² ,08 Mar 2024
+"1,035,000 ","12 Kowhai Place,",NERANG QLD 4211,House,4,2,2,665m² ,08 Mar 2024
+"990,000 ","11 Winchester Drive,",NERANG QLD 4211,House,4,2,4,689m² ,08 Mar 2024
+"980,000 ","25 Johnson Parade,",ORMEAU HILLS QLD 4208,House,4,2,2,750m² ,08 Mar 2024
+"755,000","6 Adam Street,",OXENFORD QLD 4210,House,3,2,2,606m² ,08 Mar 2024
+"868,000 ","15 Ben Hogan Crescent,",PARKWOOD QLD 4214,House,3,2,4,814m² ,08 Mar 2024
+"1,388,000 ","56 Melville Drive,",PIMPAMA QLD 4209,House,5,3,2,476m² ,08 Mar 2024
+"2,150,000 ","30 Earle Court,",TALLAI QLD 4213,House,4,4,3,"8,448m² ",08 Mar 2024
+"1,215,000 ","34 Bronzewing Close,",ELANORA QLD 4221,House,4,2,2,803m² ,07 Mar 2024
+"1,120,000 ","8875 Magnolia Drive East,",HOPE ISLAND QLD 4212,House,3,3,2,274m² ,07 Mar 2024
+"2,050,000","1003 Rosebank Way,",HOPE ISLAND QLD 4212,House,4,4,2,"1,003m² ",07 Mar 2024
+"1,615,000 ","2 Eucalypt Street,",PALM BEACH QLD 4221,House,3,2,2,612m² ,07 Mar 2024
+"1,275,000 ","24 Bunderoo Circuit,",PIMPAMA QLD 4209,House,4,2,3,610m² ,07 Mar 2024
+"725,000 ","56 Augusta Boulevard,",PIMPAMA QLD 4209,House,4,2,1,300m² ,07 Mar 2024
+"2,105,000 ","336 Ron Penhaligon Way,",ROBINA QLD 4226,House,5,3,5,984m² ,07 Mar 2024
+"1,043,000 ","41 Hans Street,",UPPER COOMERA QLD 4209,House,4,2,2,449m² ,07 Mar 2024
+"872,000 ","30 Nicola Way,",UPPER COOMERA QLD 4209,House,4,2,2,613m² ,07 Mar 2024
+"2,150,000 ","6 Carmel Court,",BROADBEACH WATERS QLD 4218,House,3,2,2,551m² ,06 Mar 2024
+"1,145,000 ","8 Pintail Crescent,",BURLEIGH WATERS QLD 4220,House,3,2,2,449m² ,2024
+"2,300,000 ","2 Maitland Street,",BURLEIGH WATERS QLD 4220,House,4,3,2,607m² ,06 Mar 2024
+"1,075,000 ","126 Beaudesert Nerang Road,",NERANG QLD 4211,House,4,2,4,777m² ,06 Mar 2024
+"951,000 ","6 Tuggeranong Avenue,",PACIFIC PINES QLD 4211,House,4,2,2,706m² ,06 Mar 2024
+"830,000 ","35 Murchison Street,",PACIFIC PINES QLD 4211,House,4,2,2,504m² ,06 Mar 2024
+"1,270,000 ","1/21 Paradise Parade,",PARADISE POINT QLD 4216,Duplex,4,2,2,245m² ,6 Mar 2024
+"1,225,000 ","16 Robin Avenue,",PARADISE POINT QLD 4216,House,3,2,2,514m² ,06 Mar 2024
+"1,150,000 ","A&B/5 Eden Close,",PIMPAMA QLD 4209,Duplex,4,4,4,514m² ,06 Mar 2024
+"930,000 ","14 John Crescent,",PIMPAMA QLD 4209,House,4,2,2,600m² ,06 Mar 2024
+"1,820,000 ","34 Kirralee Drive,",ROBINA QLD 4226,House,4,2,2,800m² ,06 Mar 2024
+"900,000 ","10 Glenridge Street,",UPPER COOMERA QLD 4209,House,4,2,4,602m² ,06 Mar 2024
+"2,770,000 ","9 Valetta Crescent,",VARSITY LAKES QLD 4227,House,6,4,4,977m² ,06 Mar 2024
+"1,620,000 ","1 Buena Vista Court,",BROADBEACH WATERS QLD 4218,House,4,2,2,544m² ,05 Mar 2024
+"1,400,000 ","64 Poinciana Boulevard,",BROADBEACH WATERS QLD 4218,House,3,1,2,653m² ,05 Mar 2024
+"1,580,000 ","26 Key West,",BROADBEACH WATERS QLD 4218,House,3,1,4,589m² ,2024
+"1,398,888 ","58 Slatyer Avenue,",BUNDALL QLD 4217,House,5,3,3,506m² ,2024
+"1,420,000 ","10 Lagos Court,",COOMBABAH QLD 4216,House,5,2,2,650m² ,05 Mar 2024
+"1,600,000 ","8 Karawatha Drive,",CURRUMBIN WATERS QLD 4223,House,7,3,4,"3,986m² ",5 Mar 2024
+"1,400,000 ","13 Wunburra Circle,",PACIFIC PINES QLD 4211,House,5,3,6,936m² ,2024
+"1,326,500 ","41 Jack Nicklaus Way,",PARKWOOD QLD 4214,House,4,2,2,763m² ,05 Mar 2024
+"700,000 ","7 Carnarvon Court,",PIMPAMA QLD 4209,House,3,2,2,300m² ,2024
+"1,850,000","4 Stargate Court,",REEDY CREEK QLD 4227,House,4,3,3,700m² ,05 Mar 2024
+"1,630,000 ","3 Viscount Drive,",TALLAI QLD 4213,House,4,3,4,"6,305m² ",05 Mar 2024
+"968,888 ","17 Old Kent Road,",UPPER COOMERA QLD 4209,House,4,2,3,675m² ,2024
+"750,000 ","6 Burran Avenue,",UPPER COOMERA QLD 4209,House,4,2,2,450m² ,05 Mar 2024
+"1,620,000 ","205 Acanthus Avenue,",BURLEIGH WATERS QLD 4220,House,4,2,2,633m² ,04 Mar 2024
+"842,000 ","81 Pappas Way,",CARRARA QLD 4211,House,3,1,1,601m² ,04 Mar 2024
+"820,000 ","50 Marshall Circuit,",COOMERA QLD 4209,House,4,2,2,491m² ,04 Mar 2024
+"1,650,000 ","21 Regent Street,",CURRUMBIN QLD 4223,House,4,2,2,"1,026m² ",04 Mar 2024
+"1,325,000 ","28 Bienvenue Drive,",CURRUMBIN WATERS QLD 4223,House,4,2,2,927m² ,04 Mar 2024
+"1,250,000","36 Saffron Street,",ELANORA QLD 4221,House,3,2,4,608m² ,04 Mar 2024
+"1,310,000 ","9 Onshore Place,",HELENSVALE QLD 4212,House,4,3,4,503m² ,04 Mar 2024
+"1,312,000 ","55 Meadow Circuit,",HELENSVALE QLD 4212,House,4,2,2,294m² ,04 Mar 2024
+"1,875,000 ","4 Reef Court,",MERMAID WATERS QLD 4218,House,4,3,2,712m² ,04 Mar 2024
+"2,355,000 ","10 Hood Court,",MERMAID WATERS QLD 4218,House,5,3,2,600m² ,04 Mar 2024
+"1,090,000 ","31 Gumleaf Drive,",MOLENDINAR QLD 4214,House,4,2,4,606m² ,04 Mar 2024
+"870,000 ","11 Mona Court,",OXENFORD QLD 4210,House,3,2,1,640m² ,04 Mar 2024
+"1,050,000 ","55 Woodrose Circuit,",PIMPAMA QLD 4209,House,4,2,4,514m² ,04 Mar 2024
+"630,000 ","9 Gideon Gardens,",PIMPAMA QLD 4209,House,3,2,2,263m² ,04 Mar 2024
+"985,000 ","23 Hillsborough Close,",ROBINA QLD 4226,House,3,2,2,457m² ,2024
+"1,110,000 ","17 Imperia Crescent,",VARSITY LAKES QLD 4227,House,4,2,2,500m² ,04 Mar 2024
+"1,151,800 ","5 Ashling Way,",OXENFORD QLD 4210,House,4,2,2,632m² ,2024
+"940,000 ","13 Eileen Avenue,",SOUTHPORT QLD 4215,House,4,2,3,506m² ,03 Mar 2024
+"1,600,000 ","23 Warrina Crescent,",BURLEIGH WATERS QLD 4220,House,3,1,2,976m² ,2024
+"1,760,000 ","6 Spoonbill Court,",BURLEIGH WATERS QLD 4220,House,6,3,4,811m² ,2024
+"1,975,000 ","3189 Riverleigh Drive,",HOPE ISLAND QLD 4212,House,4,3,3,"1,200m² ",2024
+"1,255,000 ","1/45 Surf Street,",MERMAID BEACH QLD 4218,Semi-detached,4,3,2,174m² ,02 Mar 2024
+"2,200,000 ","45 Vatakoula Parade,",MERMAID WATERS QLD 4218,House,4,2,2,706m² ,02 Mar 2024
+"1,050,000 ","7 St James Court,",ROBINA QLD 4226,House,3,2,2,421m² ,02 Mar 2024
+"1,100,000 ","4 Meadowland Court,",WORONGARY QLD 4213,House,4,2,2,703m² ,2024
+"1,100,000 ","8/2 Girraween Grove,",ASHMORE QLD 4214,House,3,2,2,462m² ,01 Mar 2024
+"2,438,000 ","26 Selkirk Avenue,",BENOWA WATERS QLD 4217,House,5,3,4,947m² ,01 Mar 2024
+"1,252,000 ","33 Tussock Crescent,",ELANORA QLD 4221,House,4,2,2,458m² ,01 Mar 2024
+"1,750,000 ","101 The Peninsula,",HELENSVALE QLD 4212,House,4,2,2,823m² ,01 Mar 2024
+"2,210,000 ","34 Matthew Flinders Drive,",HOLLYWELL QLD 4216,House,5,3,2,674m² ,01 Mar 2024
+"1,850,000 ","9 Waters Close,",HOPE ISLAND QLD 4212,House,4,3,2,421m² ,01 Mar 2024
+"690,000 ","2/66 Hawkesbury Avenue,",PACIFIC PINES QLD 4211,House,3,2,2,165m² ,01 Mar 2024
+"3,100,000 ","132 Mallawa Drive,",PALM BEACH QLD 4221,House,5,2,4,862m² ,01 Mar 2024
+"1,396,000 ","40 Twenty Fifth Avenue,",PALM BEACH QLD 4221,House,2,1,2,405m² ,2024
+"725,000 ","28 John Cres,",PIMPAMA QLD 4209,House,4,2,2,442m² ,01 Mar 2024
+"2,150,000 ","37 Pebble Beach Drive,",RUNAWAY BAY QLD 4216,House,4,2,2,735m² ,01 Mar 2024
+"1,365,000 ","23 Karragata Court,",TALLEBUDGERA QLD 4228,House,3,1,3,"5,839m² ",01 Mar 2024
+"760,000 ","29 Wimmera Crescent,",UPPER COOMERA QLD 4209,House,3,2,1,280m² ,01 Mar 2024
+"960,000 ","3 Monarch Avenue,",UPPER COOMERA QLD 4209,House,5,2,2,759m² ,01 Mar 2024
+"1,380,000 ","184 Worongary Road,",WORONGARY QLD 4213,House,5,3,5,"4,047m² ",01 Mar 2024
+"1,500,000 ","1062B Lakeview Terrace,",BENOWA QLD 4217,House,4,3,2,291m² ,29 Feb 2024
+"1,715,000 ","6 Aroona Avenue,",BROADBEACH WATERS QLD 4218,House,4,3,5,731m² ,29 Feb 2024
+"830,000","4 Altair Street,",COOMERA QLD 4209,House,4,2,2,427m² ,29 Feb 2024
+"2,880,000 ","42 Serenity Boulevard,",HELENSVALE QLD 4212,House,5,5,4,800m² ,29 Feb 2024
+"1,310,000 ","1 Grande Entrance,",HELENSVALE QLD 4212,House,4,2,2,827m² ,29 Feb 2024
+"2,300,000 ","1518 Riverdale Drive,",HOPE ISLAND QLD 4212,House,3,3,2,473m² ,29 Feb 2024
+"1,250,000 ","33-35 McIvor Court,",ORMEAU QLD 4208,House,4,2,4,"5,172m² ",29 Feb 2024
+"761,000 ","8 Arrowsmith Crescent,",ORMEAU HILLS QLD 4208,House,4,2,2,400m² ,29 Feb 2024
+"1,600,000 ","10 Abalone Avenue,",PARADISE POINT QLD 4216,House,3,1,2,506m² ,29 Feb 2024
+"1,650,000 ","11 Bluebird Lane,",REEDY CREEK QLD 4227,House,4,4,2,495m² ,29 Feb 2024
+"1,360,000 ","1&2/88 Worendo Street,",SOUTHPORT QLD 4215,House,4,2,2,405m² ,29 Feb 2024
+"1,168,000 ","7 Joden Place,",SOUTHPORT QLD 4215,House,3,2,4,718m² ,29 Feb 2024
+"1,360,000 ","1&2/88 Worendo Street,",SOUTHPORT QLD 4215,House,4,2,2,405m² ,29 Feb 2024
+"955,000","1/49 Burra Street,",SURFERS PARADISE QLD 4217,Villa,2,1,2,253m² ,29 Feb 2024
+"515,000 ","10/28-30 Rudd Street,",BROADBEACH WATERS QLD 4218,House,2,1,1,"2,196m² ",28 Feb 2024
+"1,200,000 ","3 Wonga Street,",BURLEIGH HEADS QLD 4220,House,4,2,2,656m² ,28 Feb 2024
+"950,000 ","8A Marla Way,",CARRARA QLD 4211,House,3,2,2,263m² ,28 Feb 2024
+"2,850,000 ","7 Van Diemen Place,",HOLLYWELL QLD 4216,House,4,2,5,801m² ,28 Feb 2024
+"850,000 ","20 Maroong Crescent,",NERANG QLD 4211,House,3,1,2,"1,063m² ",28 Feb 2024
+"1,150,000 ","5 Eden Close,",PIMPAMA QLD 4209,Semi-detached,4,4,2,514m² ,28 Feb 2024
+"1,430,000 ","30 Bunderoo Circuit,",PIMPAMA QLD 4209,House,4,2,2,617m² ,28 Feb 2024
+"1,300,000 ","1 Observatory Drive,",REEDY CREEK QLD 4227,House,5,3,2,809m² ,28 Feb 2024
+"2,150,000 ","122 Campbell Street,",SORRENTO QLD 4217,House,4,2,2,733m² ,28 Feb 2024
+"1,380,000 ","110 The Pinnacle,",WORONGARY QLD 4213,House,4,3,5,"7,146m² ",28 Feb 2024
+"895,000 ","18 Lexington Drive,",WORONGARY QLD 4213,House,4,2,1,779m² ,28 Feb 2024
+"2,500,000 ","94 Edinburgh Road,",BENOWA WATERS QLD 4217,House,4,4,4,"1,023m² ",27 Feb 2024
+"1,770,000 ","401 Benowa Road,",BENOWA WATERS QLD 4217,House,4,3,3,"1,045m² ",27 Feb 2024
+"780,000 ","36 Dales Way,",COOMERA QLD 4209,House,4,2,2,350m² ,27 Feb 2024
+"860,000 ","8 Apple Berry Avenue,",COOMERA QLD 4209,House,4,2,2,403m² ,2024
+"1,030,000","46 Stretton Drive,",HELENSVALE QLD 4212,House,4,2,2,800m² ,27 Feb 2024
+"955,000 ","3 Nebo Place,",HELENSVALE QLD 4212,House,4,2,2,767m² ,27 Feb 2024
+"2,800,000 ","7 La Spezia Court,",ISLE OF CAPRI QLD 4217,House,4,3,2,774m² ,27 Feb 2024
+"1,060,000 ","28 Fairview Court,",PARKWOOD QLD 4214,House,5,2,4,600m² ,27 Feb 2024
+"1,060,000 ","28 Fairview Court,",PARKWOOD QLD 4214,House,5,2,4,600m² ,27 Feb 2024
+"747,000 ","63 Beaumont Drive,",PIMPAMA QLD 4209,House,4,2,2,420m² ,27 Feb 2024
+"822,222 ","82 Fountain Street,",PIMPAMA QLD 4209,House,4,2,2,301m² ,2024
+"851,000 ","29 Woodrose Circuit,",PIMPAMA QLD 4209,House,4,2,2,836m² ,27 Feb 2024
+"1,050,000 ","14 Yarraville Street,",ROBINA QLD 4226,House,3,2,2,486m² ,27 Feb 2024
+"1,440,000 ","7 Homebush Drive,",ROBINA QLD 4226,House,4,2,5,673m² ,27 Feb 2024
+"2,450,000","63 Tullamarine Drive,",ROBINA QLD 4226,House,4,2,3,840m² ,27 Feb 2024
+"1,925,000 ","2509 The Estate,",SANCTUARY COVE QLD 4212,House,3,3,2,827m² ,27 Feb 2024
+"830,000 ","16 Caroline Avenue,",SOUTHPORT QLD 4215,House,5,2,2,506m² ,27 Feb 2024
+"910,000 ","9 Warrawee Avenue,",ASHMORE QLD 4214,House,3,1,2,729m² ,26 Feb 2024
+"1,535,000 ","9 East Lynne,",BENOWA WATERS QLD 4217,House,4,2,2,623m² ,26 Feb 2024
+"2,278,000 ","6 Delungra Street,",BROADBEACH WATERS QLD 4218,House,5,3,4,800m² ,26 Feb 2024
+"2,875,000 ","9 St Helens Court,",BURLEIGH WATERS QLD 4220,House,5,3,2,837m² ,26 Feb 2024
+"1,031,000 ","21 Lorenzo Drive,",COOMERA QLD 4209,House,4,2,5,810m² ,26 Feb 2024
+"850,000 ","16 Whyalla Court,",HELENSVALE QLD 4212,House,3,2,2,459m² ,26 Feb 2024
+"1,600,000 ","8 Chevron Rise,",HIGHLAND PARK QLD 4211,House,4,4,3,840m² ,26 Feb 2024
+"886,000 ","47 Warrener Street,",NERANG QLD 4211,House,4,2,4,546m² ,26 Feb 2024
+"1,050,000 ","37 Crestridge Crescent,",OXENFORD QLD 4210,House,4,3,2,"1,379m² ",26 Feb 2024
+"1,001,000 ","32 Penrhyn Street,",PACIFIC PINES QLD 4211,House,4,2,2,817m² ,26 Feb 2024
+"1,401,000 ","22 Diplacus Drive,",PALM BEACH QLD 4221,House,3,2,2,666m² ,26 Feb 2024
+"1,470,000 ","85 Tahiti Avenue,",PALM BEACH QLD 4221,House,4,1,2,506m² ,26 Feb 2024
+"761,000 ","14 Winchester Crescent,",PIMPAMA QLD 4209,House,3,2,2,400m² ,26 Feb 2024
+"1,260,000 ","13 Worchester Terrace,",REEDY CREEK QLD 4227,House,3,2,2,437m² ,26 Feb 2024
+"2,175,000 ","10 Mona Vale Court,",ROBINA QLD 4226,House,4,3,2,736m² ,26 Feb 2024
+"3,300,000 ","4604 The Parkway,",SANCTUARY COVE QLD 4212,House,3,3,2,534m² ,26 Feb 2024
+"3,600,000 ","8 Excalibur Court,",SOVEREIGN ISLANDS QLD 4216,House,5,4,5,"1,066m² ",26 Feb 2024
+"900,000 ","39 Treeline Circuit,",UPPER COOMERA QLD 4209,House,4,2,2,605m² ,26 Feb 2024
+"1,350,000 ","80 Quambone Street,",WORONGARY QLD 4213,House,3,2,6,"6,190m² ",26 Feb 2024
+"740,000 ","62 River Run Circuit,",ORMEAU HILLS QLD 4208,House,3,2,1,350m² ,25 Feb 2024
+"1,635,000 ","74 Greg Norman Crescent,",PARKWOOD QLD 4214,House,4,2,4,"1,247m² ",25 Feb 2024
+"625,000 ","31 Gideon Gardens,",PIMPAMA QLD 4209,House,3,2,1,264m² ,25 Feb 2024
+"7,030,000 ","10-12 Mercedes Place,",BUNDALL QLD 4217,House,5,5,12,"1,600m² ",24 Feb 2024
+"4,750,000 ","2003/110 Marine Parade,",COOLANGATTA QLD 4225,House,3,4,3,451m² ,2024
+"1,405,000 ","7 Lakewood Court,",HELENSVALE QLD 4212,House,5,3,2,811m² ,24 Feb 2024
+"2,800,000 ","2/20 Francis Street,",MERMAID BEACH QLD 4218,Duplex,4,4,3,405m² ,24 Feb 2024
+"1,450,000 ","110 Oceanic Drive,",MERMAID WATERS QLD 4218,House,4,2,2,624m² ,24 Feb 2024
+"695,000 ","2/6 Winchester Court,",PIMPAMA QLD 4209,House,3,2,2,151m² ,24 Feb 2024
+"845,000 ","47 Beale Street,",SOUTHPORT QLD 4215,House,4,1,1,506m² ,2024
+"2,050,000 ","34 Korong Street,",SOUTHPORT QLD 4215,House,5,2,2,511m² ,24 Feb 2024
+"905,000 ","2/291 Ashmore Road,",BENOWA QLD 4217,House,4,2,2,584m² ,23 Feb 2024
+"1,500,000 ","113 Santa Cruz Boulevard,",CLEAR ISLAND WATERS QLD 4226,House,4,2,2,655m² ,2024
+"580,000","14/26 Yaun Street,",COOMERA QLD 4209,House,3,2,2,153m² ,23 Feb 2024
+"1,680,000 ","8 Ballandra Court,",MERMAID WATERS QLD 4218,House,5,2,4,929m² ,2024
+"2,005,000 ","16 Sanctuary Court,",MERMAID WATERS QLD 4218,House,3,2,2,842m² ,23 Feb 2024
+"1,530,000 ","39 Nerang River Drive,",NERANG QLD 4211,House,5,2,2,873m² ,23 Feb 2024
+"955,000 ","32 Lauradale Crescent,",ORMEAU QLD 4208,House,4,2,3,525m² ,23 Feb 2024
+"850,000 ","14 Bonin Close,",PACIFIC PINES QLD 4211,House,4,2,2,516m² ,23 Feb 2024
+"2,665,000 ","9 Sycamore Place,",PALM BEACH QLD 4221,House,5,3,3,607m² ,2024
+"1,290,000 ","25 Cottesloe Drive,",ROBINA QLD 4226,House,3,2,2,840m² ,23 Feb 2024
+"2,925,000 ","8 Platypus Avenue,",SORRENTO QLD 4217,House,4,2,3,779m² ,2024
+"1,150,000 ","20 Brooke Avenue,",SOUTHPORT QLD 4215,House,4,3,6,640m² ,23 Feb 2024
+"300,000 ","15 Cedar Drive,",STAPYLTON QLD 4207,House,2,1,1,203m² ,23 Feb 2024
+"1,100,000 ","8/2 Girraween Grove,",ASHMORE QLD 4214,House,3,2,2,462m² ,22 Feb 2024
+"1,300,000 ","4 Mulyan Place,",ASHMORE QLD 4214,House,3,2,2,728m² ,22 Feb 2024
+"711,000 ","21 Stratus Lane,",COOMERA QLD 4209,House,4,2,2,300m² ,22 Feb 2024
+"778,000","19 Keppel Way,",COOMERA QLD 4209,House,4,2,2,454m² ,22 Feb 2024
+"1,465,000 ","60 Forest Drive,",ELANORA QLD 4221,House,4,2,2,"1,073m² ",22 Feb 2024
+"920,000 ","19 Jacaranda Avenue,",HOLLYWELL QLD 4216,House,3,1,2,513m² ,22 Feb 2024
+"1,430,000 ","31-33 Chopin Court,",NERANG QLD 4211,House,4,2,6,"5,040m² ",22 Feb 2024
+"950,000 ","43 Maidenwell Road,",ORMEAU QLD 4208,House,5,2,2,634m² ,22 Feb 2024
+"1,460,000 ","59 Midway Terrace,",PACIFIC PINES QLD 4211,House,4,2,2,692m² ,22 Feb 2024
+"750,000 ","11 Beaumont Drive,",PIMPAMA QLD 4209,House,4,2,2,455m² ,2024
+"1,795,000 ","4 Kirkwood Place,",REEDY CREEK QLD 4227,House,5,2,2,"1,349m² ",22 Feb 2024
+"1,350,000 ","1 Kingsgrove Street,",ROBINA QLD 4226,House,4,3,2,828m² ,22 Feb 2024
+"2,500,000 ","37 Limetree Parade,",RUNAWAY BAY QLD 4216,House,4,3,4,670m² ,22 Feb 2024
+"1,231,000","14 Kavieng Crescent,",RUNAWAY BAY QLD 4216,House,5,3,4,895m² ,22 Feb 2024
+"1,100,000 ","72 Greenview Circuit,",ARUNDEL QLD 4214,House,4,2,2,420m² ,21 Feb 2024
+"950,000 ","8 Collingwood Court,",ARUNDEL QLD 4214,House,4,2,2,622m² ,21 Feb 2024
+"940,000","6 KInarra Street,",ASHMORE QLD 4214,House,3,1,4,539m² ,21 Feb 2024
+"1,270,000 ","43 Currumburra Road,",ASHMORE QLD 4214,House,4,2,3,817m² ,21 Feb 2024
+"940,000","6 KInarra Street,",ASHMORE QLD 4214,House,3,1,4,539m² ,21 Feb 2024
+"865,100","12 Ancona Street,",CARRARA QLD 4211,House,3,1,2,600m² ,21 Feb 2024
+"1,300,000 ","53 Riverside Drive,",CURRUMBIN WATERS QLD 4223,House,6,2,2,716m² ,21 Feb 2024
+"1,520,000 ","81 Barrier Reef Drive,",MERMAID WATERS QLD 4218,House,4,2,2,712m² ,21 Feb 2024
+"900,000 ","68 McLaren Road,",NERANG QLD 4211,House,3,2,2,735m² ,21 Feb 2024
+"877,500 ","25 Langfield Crescent,",ORMEAU HILLS QLD 4208,House,4,2,2,895m² ,21 Feb 2024
+"1,255,000 ","9 Iowa Court,",OXENFORD QLD 4210,House,4,3,6,"1,582m² ",1 Feb 2024
+"1,185,000 ","1/16 Tenth Avenue,",PALM BEACH QLD 4221,Duplex,3,2,2,196m² ,2024
+"6,400,000 ","124 Commodore Drive,",PARADISE WATERS QLD 4217,House,5,3,3,"1,105m² ",21 Feb 2024
+"950,000 ","15 Ross Crescent,",PIMPAMA QLD 4209,House,4,2,2,409m² ,21 Feb 2024
+"1,340,000","15 Frankston Court,",ROBINA QLD 4226,House,3,2,2,465m² ,21 Feb 2024
+"995,000 ","37 Bridie Dr,",UPPER COOMERA QLD 4209,House,4,2,2,900m² ,21 Feb 2024
+"1,050,000 ","6 Spikes Court,",ARUNDEL QLD 4214,House,4,2,1,601m² ,20 Feb 2024
+"925,000 ","8 Rhiannon Drive,",ASHMORE QLD 4214,House,4,2,2,380m² ,20 Feb 2024
+"3,000,000 ","42 Village High Road,",BENOWA WATERS QLD 4217,House,4,3,4,761m² ,20 Feb 2024
+"1,750,000 ","4 Meadowview Drive,",CARRARA QLD 4211,House,4,4,2,821m² ,20 Feb 2024
+"1,450,000 ","7A Garden Grove,",CARRARA QLD 4211,House,4,3,4,628m² ,20 Feb 2024
+"865,000 ","6 Whalleys Street,",COOMERA QLD 4209,House,4,2,2,400m² ,20 Feb 2024
+"1,900,000 ","197 Simpsons Road,",ELANORA QLD 4221,House,5,3,2,"1,179m² ",20 Feb 2024
+"1,080,000","11 Gippsland Drive,",HELENSVALE QLD 4212,House,4,2,2,835m² ,20 Feb 2024
+"1,130,000 ","59 Latrobe Avenue,",HELENSVALE QLD 4212,House,4,3,2,700m² ,20 Feb 2024
+"855,000","2/17 The Locale,",NERANG QLD 4211,House,4,3,2,222m² ,20 Feb 2024
+"887,000","8 Equador Court,",PACIFIC PINES QLD 4211,House,4,2,2,726m² ,2024
+"2,000,000","11 Barberry Court,",PALM BEACH QLD 4221,House,3,2,2,"3,354m² ",20 Feb 2024
+"980,000 ","89 Melville Drive,",PIMPAMA QLD 4209,House,4,2,2,420m² ,20 Feb 2024
+"1,140,000 ","7 Greenwich Court,",ROBINA QLD 4226,House,3,2,2,466m² ,20 Feb 2024
+"870,000 ","17 Florabella Drive,",ROBINA QLD 4226,Terrace,3,2,2,190m² ,20 Feb 2024
+"1,280,000 ","8 Rainbow Fern Court,",ROBINA QLD 4226,House,4,2,4,714m² ,20 Feb 2024
+"2,780,000 ","1861 Oak Hill Drive,",SANCTUARY COVE QLD 4212,House,5,5,2,881m² ,20 Feb 2024
+"1,170,000 ","34 Angahook Crescent,",UPPER COOMERA QLD 4209,House,4,2,2,545m² ,20 Feb 2024
+"955,000 ","21 Dormello Drive,",WORONGARY QLD 4213,House,4,2,2,740m² ,20 Feb 2024
+"915,000 ","62 Numeralla Avenue,",ASHMORE QLD 4214,House,3,1,5,673m² ,19 Feb 2024
+"1,260,000 ","37 Numeralla Avenue,",ASHMORE QLD 4214,House,4,2,4,703m² ,19 Feb 2024
+"670,000 ","29/601 Pine Ridge Road,",BIGGERA WATERS QLD 4216,House,3,2,2,248m² ,19 Feb 2024
+"1,680,000 ","2 Condor Court,",BURLEIGH WATERS QLD 4220,House,3,1,1,674m² ,19 Feb 2024
+"1,885,000 ","24 Clover Way,",HELENSVALE QLD 4212,House,4,4,2,512m² ,19 Feb 2024
+"1,080,000 ","5 Poeppel Place,",HELENSVALE QLD 4212,House,4,2,3,851m² ,19 Feb 2024
+"836,000","135 Discovery Drive,",HELENSVALE QLD 4212,House,3,2,2,746m² ,19 Feb 2024
+"868,500 ","29 Strathburn Crescent,",ORMEAU QLD 4208,House,4,2,2,602m² ,19 Feb 2024
+"1,140,000 ","40 Johnson Parade,",ORMEAU HILLS QLD 4208,House,4,2,5,982m² ,19 Feb 2024
+"1,625,000 ","20 Allawah Avenue,",PALM BEACH QLD 4221,House,4,2,5,562m² ,19 Feb 2024
+"1,385,000 ","38 Gerona Circuit,",VARSITY LAKES QLD 4227,House,4,2,2,640m² ,19 Feb 2024
+"1,280,000 ","12 Viridian Circuit,",HELENSVALE QLD 4212,House,4,2,2,346m² ,18 Feb 2024
+"1,500,001","18 Blamey Drive,",TUGUN QLD 4224,House,5,3,3,559m² ,2024
+"1,240,000 ","13 Kimberley Creek Road,",UPPER COOMERA QLD 4209,House,6,3,2,839m² ,18 Feb 2024
+"1,304,000","71 Kalimna Drive,",BROADBEACH WATERS QLD 4218,House,4,2,2,660m² ,17 Feb 2024
+"1,540,000","5 Nicolson Court,",MERMAID WATERS QLD 4218,House,4,2,2,770m² ,2024
+"762,000 ","119 William Boulevard,",PIMPAMA QLD 4209,House,4,2,2,347m² ,17 Feb 2024
+"1,360,000 ","13 Binalong Drive,",ASHMORE QLD 4214,House,4,3,3,633m² ,6 Feb 2024
+"863,000 ","104W/1 Marina Drive,",BENOWA QLD 4217,House,3,2,2,113m² ,16 Feb 2024
+"2,602,000 ","18 Flamingo Key,",BROADBEACH WATERS QLD 4218,House,4,3,4,556m² ,2024
+"1,770,000 ","7 Key Largo,",CLEAR ISLAND WATERS QLD 4226,House,3,3,2,873m² ,16 Feb 2024
+"750,000","48 Tribeca Circuit,",COOMERA QLD 4209,House,4,2,2,375m² ,16 Feb 2024
+"1,415,000 ","3 Tammy Court,",HELENSVALE QLD 4212,House,4,2,4,857m² ,16 Feb 2024
+"1,155,000 ","41 Dromana Crescent,",HELENSVALE QLD 4212,House,5,3,6,870m² ,16 Feb 2024
+"1,130,000 ","13 Gladiolus Court,",HOLLYWELL QLD 4216,House,3,1,1,637m² ,16 Feb 2024
+"1,057,000 ","21 Akoonah Street,",HOPE ISLAND QLD 4212,House,4,2,5,607m² ,16 Feb 2024
+"28,000,000 ","41-45 Hedges Avenue,",MERMAID BEACH QLD 4218,House,4,4,6,"1,214m² ",16 Feb 2024
+"1,400,000 ","2 Macallan Street,",MERRIMAC QLD 4226,House,6,4,6,792m² ,16 Feb 2024
+"1,360,000 ","10 Barra Court,",MERRIMAC QLD 4226,House,4,2,4,600m² ,16 Feb 2024
+"1,020,000 ","28 Ormeau Ridge Road,",ORMEAU HILLS QLD 4208,House,4,2,2,761m² ,16 Feb 2024
+"1,870,000 ","1 Hakea Court,",PALM BEACH QLD 4221,House,5,3,4,701m² ,16 Feb 2024
+"846,500","115 The Heights Boulevard,",PIMPAMA QLD 4209,House,4,3,2,528m² ,16 Feb 2024
+"2,500,000 ","8 Kirkwood Place,",REEDY CREEK QLD 4227,House,5,3,2,"1,267m² ",16 Feb 2024
+"1,170,000 ","206 Tallebudgera Connection Road,",TALLEBUDGERA QLD 4228,House,4,2,2,841m² ,16 Feb 2024
+"803,000 ","34 Runway Drive,",UPPER COOMERA QLD 4209,House,4,2,2,450m² ,16 Feb 2024
+"1,315,000 ","36 Waitomo Street,",BROADBEACH WATERS QLD 4218,House,3,2,2,"1,169m² ",15 Feb 2024
+"1,181,000 ","2 Kalamunda Close,",ELANORA QLD 4221,House,5,3,2,627m² ,15 Feb 2024
+"1,950,000 ","25 Camelot Crescent,",HOLLYWELL QLD 4216,House,4,2,2,662m² ,15 Feb 2024
+"1,195,000 ","9 Galley Road,",HOPE ISLAND QLD 4212,House,4,2,2,468m² ,15 Feb 2024
+"960,000 ","4 Flaxton Street,",ORMEAU QLD 4208,House,4,2,2,640m² ,15 Feb 2024
+"910,000 ","13 Pandora Crescent,",PACIFIC PINES QLD 4211,House,4,2,2,648m² ,15 Feb 2024
+"1,400,000 ","127 Pimpama Jacobs Well Road,",PIMPAMA QLD 4209,House,3,2,2,"8,038m² ",15 Feb 2024
+"1,380,000 ","14 Dandar Drive,",SOUTHPORT QLD 4215,House,4,2,2,502m² ,15 Feb 2024
+"1,360,000","6 Graham Street,",SOUTHPORT QLD 4215,House,5,3,2,506m² ,15 Feb 2024
+"4,000,000 ","24 The Peninsula,",SOVEREIGN ISLANDS QLD 4216,House,4,4,2,863m² ,15 Feb 2024
+"2,390,000 ","69 Compass Drive,",BIGGERA WATERS QLD 4216,House,5,3,4,602m² ,14 Feb 2024
+"860,000 ","3 Meister Court,",CARRARA QLD 4211,House,5,2,2,661m² ,14 Feb 2024
+"890,000 ","9/15 Foreshore Street,",COOMERA QLD 4209,House,3,3,2,369m² ,14 Feb 2024
+"1,710,000 ","26 River Cove Place,",HELENSVALE QLD 4212,House,5,3,2,"1,408m² ",14 Feb 2024
+"3,200,000 ","2342 Cressbrook Drive,",HOPE ISLAND QLD 4212,House,4,4,3,939m² ,14 Feb 2024
+"760,000","2/16 Jenaya Place,",LABRADOR QLD 4215,Semi-detached,3,2,2,321m² ,14 Feb 2024
+"2,200,000 ","131 Barrier Reef Drive,",MERMAID WATERS QLD 4218,House,5,2,2,"1,058m² ",14 Feb 2024
+"740,000 ","26 Success Crescent,",ORMEAU QLD 4208,House,4,2,2,479m² ,14 Feb 2024
+"890,000 ","18 Carrieton Street,",ORMEAU QLD 4208,House,4,2,4,514m² ,14 Feb 2024
+"1,500,000 ","22 Oberon Way,",OXENFORD QLD 4210,House,3,2,24,"4,107m² ",14 Feb 2024
+"705,000 ","28 Opal Lane,",PIMPAMA QLD 4209,House,4,2,2,380m² ,14 Feb 2024
+"1,300,000 ","44 Bunderoo Circuit,",PIMPAMA QLD 4209,House,4,2,2,627m² ,2024
+"8,500,000 ","1-3 Howard Street,",RUNAWAY BAY QLD 4216,House,6,4,2,"1,570m² ",14 Feb 2024
+"839,000","10 Conjola Crescent,",UPPER COOMERA QLD 4209,House,4,2,2,512m² ,14 Feb 2024
+"1,010,000 ","7 Marion Road,",UPPER COOMERA QLD 4209,House,5,3,2,816m² ,14 Feb 2024
+"940,000 ","20 Devco Place,",ASHMORE QLD 4214,House,3,2,2,450m² ,13 Feb 2024
+"1,810,000 ","7 Argyle Place,",COOMERA QLD 4209,House,5,5,3,596m² ,13 Feb 2024
+"880,000 ","37 Cypress Circuit,",COOMERA QLD 4209,House,4,2,2,609m² ,13 Feb 2024
+"905,000 ","38 Daintree Drive,",COOMERA QLD 4209,House,3,2,2,623m² ,2024
+"1,210,000 ","127 Sheehan Avenue,",HOPE ISLAND QLD 4212,House,5,2,2,809m² ,13 Feb 2024
+"1,400,000 ","18 The Esplanade,",JACOBS WELL QLD 4208,House,3,2,4,663m² ,13 Feb 2024
+"1,340,000","49 Pacific Avenue,",MIAMI QLD 4220,House,5,2,3,506m² ,13 Feb 2024
+"895,000 ","30 Austral Crescent,",PACIFIC PINES QLD 4211,House,4,2,2,686m² ,3 Feb 2024
+"749,800 ","22 Aspect St,",PIMPAMA QLD 4209,House,4,2,2,411m² ,13 Feb 2024
+"814,500 ","17 Goolwa Court,",PIMPAMA QLD 4209,House,4,2,2,408m² ,2024
+"795,000 ","29 Kuranga Avenue,",SOUTHPORT QLD 4215,House,3,1,4,506m² ,2024
+"980,000 ","34 Dayflower Street,",UPPER COOMERA QLD 4209,House,4,2,2,630m² ,2024
+"1,117,500 ","26 Coomerong Crescent,",UPPER COOMERA QLD 4209,House,6,2,2,714m² ,2024
+"925,000 ","39 Ingles Circuit,",ARUNDEL QLD 4214,House,4,2,4,600m² ,12 Feb 2024
+"1,250,000 ","57 Pinkwood Drive,",ASHMORE QLD 4214,House,3,2,4,668m² ,12 Feb 2024
+"4,500,000 ","66 Savoy Drive,",BROADBEACH WATERS QLD 4218,House,3,2,2,"1,588m² ",12 Feb 2024
+"1,586,000 ","43 Fitzwilliam Street,",CARRARA QLD 4211,House,4,2,4,828m² ,12 Feb 2024
+"1,450,000 ","15 Lefroy Drive,",COOMBABAH QLD 4216,House,5,3,2,731m² ,12 Feb 2024
+"1,500,000 ","17 Philip Street,",CURRUMBIN QLD 4223,House,3,1,1,516m² ,12 Feb 2024
+"1,100,000 ","37 Wilkinson Crescent,",CURRUMBIN WATERS QLD 4223,House,3,2,2,612m² ,12 Feb 2024
+"1,950,000 ","23 Westminster Boulevard,",ELANORA QLD 4221,House,4,3,3,"4,057m² ",2024
+"1,025,000 ","40 Seabrook Street,",ELANORA QLD 4221,House,3,1,3,606m² ,12 Feb 2024
+"1,530,000 ","4 Entrance Road,",GAVEN QLD 4211,House,6,3,6,"4,467m² ",12 Feb 2024
+"1,940,000 ","104 The Peninsula,",HELENSVALE QLD 4212,House,5,2,2,679m² ,12 Feb 2024
+"1,110,000","38 Tranquility Circuit,",HELENSVALE QLD 4212,House,4,2,2,649m² ,2024
+"865,000 ","93 Lindfield Road,",HELENSVALE QLD 4212,House,4,2,2,452m² ,12 Feb 2024
+"1,760,000 ","73 Columbus Drive,",HOLLYWELL QLD 4216,House,4,3,3,660m² ,12 Feb 2024
+"1,125,000 ","19 Rhodium Crescent,",HOPE ISLAND QLD 4212,House,5,2,2,513m² ,12 Feb 2024
+"901,000","8 Darling Crescent,",MOLENDINAR QLD 4214,House,5,2,3,753m² ,2024
+"720,000","85 Reedmans Road,",ORMEAU QLD 4208,House,4,2,2,474m² ,12 Feb 2024
+"920,000 ","12 Cardrona Crescent,",ORMEAU HILLS QLD 4208,House,4,2,2,772m² ,12 Feb 2024
+"860,000 ","27 Bellinger Key,",PACIFIC PINES QLD 4211,House,4,2,2,530m² ,2 Feb 2024
+"1,208,000","6 Yarra Pl,",PACIFIC PINES QLD 4211,House,4,2,2,722m² ,12 Feb 2024
+"1,750,000 ","10 Merauke Avenue,",PALM BEACH QLD 4221,House,4,2,2,506m² ,12 Feb 2024
+"1,200,000 ","20 Yowani Street,",ROBINA QLD 4226,House,3,2,2,800m² ,12 Feb 2024
+"916,000","23 Parkside Circuit,",ROBINA QLD 4226,House,3,2,2,407m² ,12 Feb 2024
+"1,580,000","14 Random Way,",WORONGARY QLD 4213,House,4,3,4,"4,047m² ",12 Feb 2024
+"2,100,000","5 Buena Vista Court,",BROADBEACH WATERS QLD 4218,House,4,2,2,551m² ,11 Feb 2024
+"1,370,000 ","12 Burrendong Road,",COOMBABAH QLD 4216,House,4,2,2,601m² ,11 Feb 2024
+"1,200,000 ","51 Coombe Avenue,",HOPE ISLAND QLD 4212,House,4,2,2,905m² ,11 Feb 2024
+"1,355,000 ","47 Mcauley Parade,",PACIFIC PINES QLD 4211,House,4,2,4,"1,111m² ",11 Feb 2024
+"3,000,000 ","188 Nineteenth Avenue,",ELANORA QLD 4221,House,4,3,2,"1,144m² ",2024
+"16,950,000 ","65 Albatross Avenue,",MERMAID BEACH QLD 4218,House,4,4,2,810m² ,10 Feb 2024
+"980,000 ","10 Terrace Court,",MERRIMAC QLD 4226,House,3,2,4,767m² ,10 Feb 2024
+"835,000 ","25 Treeline Circuit,",UPPER COOMERA QLD 4209,House,4,2,2,605m² ,10 Feb 2024
+"2,800,000 ","3 Rudd Street,",BROADBEACH WATERS QLD 4218,House,4,2,2,793m² ,09 Feb 2024
+"1,966,000 ","33 Sophie Avenue,",BROADBEACH WATERS QLD 4218,House,3,2,2,754m² ,9 Feb 2024
+"1,270,000 ","84 Martingale Circuit,",CLEAR ISLAND WATERS QLD 4226,House,3,2,2,550m² ,09 Feb 2024
+"2,550,000","108 Santa Cruz Boulevard,",CLEAR ISLAND WATERS QLD 4226,House,6,4,4,931m² ,09 Feb 2024
+"1,210,000 ","6 Morna Place,",COOMERA WATERS QLD 4209,House,4,2,2,705m² ,09 Feb 2024
+"3,900,000 ","1628 Rosebank Way West,",HOPE ISLAND QLD 4212,House,4,5,4,"1,026m² ",09 Feb 2024
+"3,450,000 ","20 William Street,",MERMAID BEACH QLD 4218,House,4,2,2,405m² ,09 Feb 2024
+"780,000","33 Sandalwood Terrace,",NERANG QLD 4211,House,3,2,4,400m² ,09 Feb 2024
+"855,000","69 Oakdale Avenue,",NERANG QLD 4211,House,4,2,2,481m² ,09 Feb 2024
+"2,850,000 ","94 Parnki Parade,",PALM BEACH QLD 4221,House,3,2,2,640m² ,09 Feb 2024
+"1,310,000 ","15 Midnight Court,",RUNAWAY BAY QLD 4216,House,4,2,2,600m² ,09 Feb 2024
+"3,410,000 ","11 Skiff Street,",SOUTHPORT QLD 4215,House,4,4,2,607m² ,2024
+"1,710,000 ","17 Rebholz Drive,",BENOWA WATERS QLD 4217,House,4,3,4,602m² ,08 Feb 2024
+"2,252,000 ","9 Tanjenong Place,",BURLEIGH HEADS QLD 4220,House,5,3,3,806m² ,08 Feb 2024
+"945,000 ","38 Hickey Way,",CARRARA QLD 4211,House,3,2,2,622m² ,08 Feb 2024
+"830,000 ","7 Apple Berry Avenue,",COOMERA QLD 4209,House,4,3,2,480m² ,08 Feb 2024
+"1,470,000 ","47 Challenger Way,",COOMERA WATERS QLD 4209,House,4,3,3,"1,122m² ",08 Feb 2024
+"1,350,000 ","6 Moroccan Street,",HIGHLAND PARK QLD 4211,House,5,3,4,700m² ,08 Feb 2024
+"1,530,000 ","17A Lotus Avenue,",HOLLYWELL QLD 4216,House,3,2,2,540m² ,08 Feb 2024
+"2,950,000 ","36 Messines Crescent,",MIAMI QLD 4220,House,4,3,2,405m² ,08 Feb 2024
+"1,110,000","38 Forrest Avenue,",MOLENDINAR QLD 4214,House,5,2,2,696m² ,08 Feb 2024
+"851,000 ","26 Forrest Avenue,",MOLENDINAR QLD 4214,House,4,2,3,696m² ,08 Feb 2024
+"1,090,000","1 Pago Terrace,",PACIFIC PINES QLD 4211,House,5,3,4,880m² ,08 Feb 2024
+"1,305,000 ","30 Hawkesbury Avenue,",PACIFIC PINES QLD 4211,House,5,2,2,"1,103m² ",08 Feb 2024
+"750,000 ","4 Troy Knight Drive,",PIMPAMA QLD 4209,House,4,2,2,405m² ,08 Feb 2024
+"1,350,000 ","89 Olympus Drive,",ROBINA QLD 4226,House,4,2,2,623m² ,08 Feb 2024
+"2,888,888 ","4719 The Parkway,",SANCTUARY COVE QLD 4212,House,4,5,7,873m² ,08 Feb 2024
+"950,000 ","36 Warana Avenue,",SOUTHPORT QLD 4215,House,3,1,1,850m² ,08 Feb 2024
+"870,000 ","121 Hinkler Drive,",WORONGARY QLD 4213,House,3,2,4,"1,078m² ",08 Feb 2024
+"1,025,000 ","11 Mediterranean Drive,",BENOWA QLD 4217,House,3,1,3,629m² ,07 Feb 2024
+"940,000 ","7 Alamau Street,",BENOWA QLD 4217,House,3,1,2,609m² ,07 Feb 2024
+"1,350,000","18 Schooner Court,",BURLEIGH WATERS QLD 4220,House,3,2,−,420m² ,07 Feb 2024
+"2,000,000 ","11 Jabiru Avenue,",BURLEIGH WATERS QLD 4220,House,3,2,3,736m² ,07 Feb 2024
+"920,000 ","66 Turana Street,",COOMBABAH QLD 4216,House,3,2,2,604m² ,07 Feb 2024
+"1,280,000 ","24 Ballah Crescent,",HIGHLAND PARK QLD 4211,House,4,3,4,644m² ,07 Feb 2024
+"1,292,000 ","4 Toukley Court,",HIGHLAND PARK QLD 4211,House,5,3,4,"1,038m² ",2024
+"5,460,000","34 Sunbrite Avenue,",MERMAID BEACH QLD 4218,House,4,3,2,405m² ,07 Feb 2024
+"1,115,000 ","48 Watford Crescent,",MOLENDINAR QLD 4214,House,4,2,4,"1,000m² ",07 Feb 2024
+"790,000 ","3 Lorrae Place,",ORMEAU QLD 4208,House,4,2,2,517m² ,07 Feb 2024
+"1,000,000 ","43/14 Oakmont Street,",ROBINA QLD 4226,Villa,3,2,4,204m² ,07 Feb 2024
+"1,858,000 ","14 Julatten Drive,",ROBINA QLD 4226,House,4,2,2,800m² ,07 Feb 2024
+"1,485,000","9 Chatswood Court,",ROBINA QLD 4226,House,5,3,2,700m² ,07 Feb 2024
+"1,395,000 ","4 Caroline Avenue,",SOUTHPORT QLD 4215,House,2,1,2,"1,027m² ",2024
+"10,050,000 ","620 Pacific Parade,",TUGUN QLD 4224,House,5,6,2,405m² ,2024
+"870,000 ","19 Manassa Street,",UPPER COOMERA QLD 4209,House,4,2,2,604m² ,2024
+"1,015,000 ","136 Bamboo Avenue,",BENOWA QLD 4217,House,4,2,3,506m² ,06 Feb 2024
+"10,500,000 ","171 Monaco Street,",BROADBEACH WATERS QLD 4218,House,5,5,4,"2,130m² ",06 Feb 2024
+"1,680,000","9 Penguin Parade,",BURLEIGH WATERS QLD 4220,House,3,2,2,600m² ,06 Feb 2024
+"1,600,000","1 Montserrat Court,",CLEAR ISLAND WATERS QLD 4226,House,4,2,2,805m² ,06 Feb 2024
+"1,835,000","17 Barlee Court,",ELANORA QLD 4221,House,5,3,2,613m² ,06 Feb 2024
+"1,290,000","12 Piccadilly Place,",HIGHLAND PARK QLD 4211,House,5,2,2,615m² ,06 Feb 2024
+"810,000 ","31/2 Ridgeline Way,",HIGHLAND PARK QLD 4211,House,4,3,2,288m² ,06 Feb 2024
+"1,150,000 ","104 Armstrong Way,",HIGHLAND PARK QLD 4211,House,4,2,2,772m² ,06 Feb 2024
+"1,708,000 ","112 Salerno Street,",ISLE OF CAPRI QLD 4217,House,4,2,2,779m² ,06 Feb 2024
+"5,450,000","32 Naples Avenue,",ISLE OF CAPRI QLD 4217,House,5,4,3,913m² ,2024
+"787,500 ","104 Teasdale Drive,",NERANG QLD 4211,House,4,2,3,600m² ,06 Feb 2024
+"1,005,000 ","7-11 Bards Court,",NERANG QLD 4211,House,4,2,1,"1,081m² ",06 Feb 2024
+"970,000 ","10 Davis Cup Court,",OXENFORD QLD 4210,House,4,2,2,919m² ,06 Feb 2024
+"2,150,000 ","17 Second Avenue,",PALM BEACH QLD 4221,House,4,2,3,607m² ,06 Feb 2024
+"700,000","49 Imelda Way,",PIMPAMA QLD 4209,House,4,2,2,421m² ,06 Feb 2024
+"765,000 ","18 Katrina Street,",PIMPAMA QLD 4209,House,3,2,2,297m² ,06 Feb 2024
+"757,000 ","77 The Heights Boulevard,",PIMPAMA QLD 4209,House,4,2,2,432m² ,2024
+"1,800,000 ","36 Willow Tree Drive,",REEDY CREEK QLD 4227,House,5,3,2,820m² ,06 Feb 2024
+"1,450,000 ","10 Glen Eagles Drive,",ROBINA QLD 4226,House,5,3,4,792m² ,06 Feb 2024
+"975,000 ","16 Boronia Drive,",SOUTHPORT QLD 4215,House,4,2,3,506m² ,06 Feb 2024
+"830,000","47 Freestone Drive,",UPPER COOMERA QLD 4209,House,4,2,2,600m² ,2024
+"961,000 ","5 Gothorpe Place,",VARSITY LAKES QLD 4227,House,3,2,2,461m² ,06 Feb 2024
+"3,120,000 ","19 Cheval Court,",BENOWA WATERS QLD 4217,House,5,4,3,"1,194m² ",05 Feb 2024
+"1,610,000 ","20 Dabchick Drive,",BURLEIGH WATERS QLD 4220,House,3,2,3,613m² ,05 Feb 2024
+"840,000 ","26 Dawnann Court,",CARRARA QLD 4211,House,3,2,1,607m² ,05 Feb 2024
+"1,200,000 ","4 Rosella Court,",CARRARA QLD 4211,House,8,4,3,932m² ,05 Feb 2024
+"1,925,000","19 Witt Avenue,",CARRARA QLD 4211,House,4,3,2,758m² ,05 Feb 2024
+"750,000","16 Henry Street,",COOMERA QLD 4209,House,4,2,2,452m² ,05 Feb 2024
+"1,173,000 ","8 Dromana Crescent,",HELENSVALE QLD 4212,House,4,2,5,718m² ,05 Feb 2024
+"1,300,000 ","8 Nisbet Place,",MERRIMAC QLD 4226,House,4,2,4,695m² ,05 Feb 2024
+"1,025,000","52 Ormeau Ridge Road,",ORMEAU HILLS QLD 4208,House,5,2,4,761m² ,5 Feb 2024
+"840,000","37 California Drive,",OXENFORD QLD 4210,House,4,1,2,"1,051m² ",5 Feb 2024
+"1,200,000","16 Blackheath Terrace,",PACIFIC PINES QLD 4211,House,4,3,2,700m² ,05 Feb 2024
+"2,950,000","143 Tahiti Avenue,",PALM BEACH QLD 4221,House,4,2,4,562m² ,05 Feb 2024
+"1,075,000 ","4 Rustyplum Court,",REEDY CREEK QLD 4227,House,4,2,2,811m² ,05 Feb 2024
+"1,610,000 ","17 Bronte Court,",ROBINA QLD 4226,House,4,2,2,927m² ,05 Feb 2024
+"1,495,000 ","1 Harmes Place,",TALLEBUDGERA QLD 4228,House,5,2,3,"5,945m² ",05 Feb 2024
+"1,600,000","22 Meridien Avenue,",VARSITY LAKES QLD 4227,House,4,2,2,474m² ,05 Feb 2024
+"1,280,000 ","19 Bayswater Avenue,",VARSITY LAKES QLD 4227,House,4,2,4,400m² ,05 Feb 2024
+"1,400,000 ","90 Barrier Reef Drive,",MERMAID WATERS QLD 4218,House,3,2,2,723m² ,04 Feb 2024
+"2,840,000 ","162 Sunshine Parade,",MIAMI QLD 4220,House,5,3,2,405m² ,04 Feb 2024
+"810,000","57 Baratta Street,",SOUTHPORT QLD 4215,House,3,2,2,506m² ,04 Feb 2024
+"1,325,000 ","31 Lysterfield Rise,",UPPER COOMERA QLD 4209,House,4,3,2,"1,990m² ",04 Feb 2024
+"2,900,000","11 La Spezia Court,",ISLE OF CAPRI QLD 4217,House,4,2,2,675m² ,3 Feb 2024
+"1,860,000 ","16 Deloraine Court,",MERMAID WATERS QLD 4218,House,3,2,2,"1,000m² ",2024
+"1,850,000 ","4 Karabella Court,",MERMAID WATERS QLD 4218,House,4,3,2,886m² ,2024
+"3,310,000 ","72 Sailaway Street,",MERMAID WATERS QLD 4218,House,4,2,2,"1,007m² ",2024
+"765,000 ","2/15 Barradeen Circuit,",PACIFIC PINES QLD 4211,House,4,2,2,194m² ,03 Feb 2024
+"955,000 ","13 Mowbray Street,",PIMPAMA QLD 4209,House,4,2,2,463m² ,03 Feb 2024
+"1,360,000 ","53 Stirling Circuit,",PIMPAMA QLD 4209,House,5,5,2,516m² ,03 Feb 2024
+"1,850,000 ","22 Culgoora Crescent,",REEDY CREEK QLD 4227,House,5,3,2,858m² ,03 Feb 2024
+"960,000 ","55 Parnell Boulevard,",ROBINA QLD 4226,House,4,3,4,158m² ,2024
+"795,000","77 Anne Street,",SOUTHPORT QLD 4215,House,3,1,1,615m² ,03 Feb 2024
+"1,566,000 ","5 Cumberland Drive,",VARSITY LAKES QLD 4227,House,4,2,2,952m² ,2024
+"1,870,000 ","5 Rudd Street,",BROADBEACH WATERS QLD 4218,House,4,2,2,793m² ,2024
+"2,225,000 ","3 Tanjenong Place,",BURLEIGH HEADS QLD 4220,House,5,2,3,929m² ,2024
+"3,395,000 ","45 Kingfisher Crescent,",BURLEIGH WATERS QLD 4220,House,5,3,2,828m² ,02 Feb 2024
+"748,000","25 Kufstein Road,",COOMERA QLD 4209,House,4,3,2,400m² ,02 Feb 2024
+"2,800,000 ","85 Woodgee Street,",CURRUMBIN QLD 4223,House,4,2,2,443m² ,2024
+"960,000 ","10 Bryony Place,",ELANORA QLD 4221,House,3,2,1,469m² ,2024
+"5,925,000 ","19 Cronulla Avenue,",MERMAID BEACH QLD 4218,House,4,3,2,405m² ,2024
+"825,500 ","4 Yoolantie Crescent,",NERANG QLD 4211,House,3,1,1,"1,140m² ",02 Feb 2024
+"823,000 ","22 Riverview Road,",NERANG QLD 4211,House,3,2,1,595m² ,2024
+"1,070,000 ","17 Kosrae Street,",PACIFIC PINES QLD 4211,House,5,2,4,665m² ,02 Feb 2024
+"954,000 ","43 Gerard Street,",PACIFIC PINES QLD 4211,House,4,2,2,658m² ,02 Feb 2024
+"910,000 ","7 Wellers Street,",PACIFIC PINES QLD 4211,House,4,2,2,660m² ,02 Feb 2024
+"2,775,000 ","42 Twelfth Avenue,",PALM BEACH QLD 4221,House,5,3,4,521m² ,2024
+"1,300,000 ","114 Melville Drive,",PIMPAMA QLD 4209,House,4,2,2,508m² ,02 Feb 2024
+"1,010,000 ","16 Birkdale Street,",ROBINA QLD 4226,House,3,2,2,410m² ,2024
+"1,200,000 ","9 Goorawin Street,",RUNAWAY BAY QLD 4216,House,4,2,2,506m² ,02 Feb 2024
+"930,000 ","18 Stanfield Drive,",UPPER COOMERA QLD 4209,House,3,2,4,899m² ,02 Feb 2024
+"840,000 ","9 Ferricks Court,",UPPER COOMERA QLD 4209,House,4,2,3,700m² ,02 Feb 2024
+"1,335,000 ","82 Currumburra Road,",ASHMORE QLD 4214,House,4,3,3,686m² ,2024
+"3,100,000 ","28 Naranga Avenue,",BROADBEACH WATERS QLD 4218,House,5,5,4,551m² ,2024
+"2,500,000 ","5C Vantage Point Drive,",BURLEIGH HEADS QLD 4220,House,4,3,2,"1,255m² ",01 Feb 2024
+"1,200,000 ","1/15 Acanthus Avenue,",BURLEIGH HEADS QLD 4220,Duplex,3,2,1,135m² ,01 Feb 2024
+"1,505,000","74 HARRIER DRIVE,",BURLEIGH WATERS QLD 4220,House,4,2,4,606m² ,01 Feb 2024
+"1,400,000 ","144 Alison Road,",CARRARA QLD 4211,House,3,2,2,"1,801m² ",01 Feb 2024
+"1,102,000 ","36 Wendoree Way,",COOMBABAH QLD 4216,House,4,2,2,703m² ,01 Feb 2024
+"1,805,000","13 Larentia Street,",CURRUMBIN WATERS QLD 4223,House,5,3,3,610m² ,01 Feb 2024
+"1,225,000 ","17 Banksiadale Close,",ELANORA QLD 4221,House,3,2,2,498m² ,2024
+"805,000","22 Bexley Place,",HELENSVALE QLD 4212,House,3,2,2,470m² ,01 Feb 2024
+"1,187,500 ","9 Bellavista Close,",HIGHLAND PARK QLD 4211,House,4,2,2,801m² ,01 Feb 2024
+"690,000 ","61 Crescent Avenue,",HOPE ISLAND QLD 4212,House,2,1,−,401m² ,01 Feb 2024
+"1,525,000 ","11 Monteclair Court,",MERMAID WATERS QLD 4218,House,5,3,2,784m² ,01 Feb 2024
+"1,129,100","3 Limewood Crescent,",ORMEAU HILLS QLD 4208,House,4,2,2,"1,002m² ",01 Feb 2024
+"880,000 ","24 Maui Crescent,",OXENFORD QLD 4210,House,4,2,2,700m² ,01 Feb 2024
+"1,780,000","50 Fifth Avenue,",PALM BEACH QLD 4221,House,3,2,3,496m² ,2024
+"2,000,000 ","71 Cordyline Drive,",REEDY CREEK QLD 4227,House,4,3,3,779m² ,01 Feb 2024
+"1,800,000 ","7 Monterey Court,",BROADBEACH WATERS QLD 4218,House,4,2,2,551m² ,31 Jan 2024
+"1,260,000","1/5 Allamanda Grove,",BUNDALL QLD 4217,Duplex,3,3,4,231m² ,31 Jan 2024
+"1,115,000 ","10 Sirec Way,",BURLEIGH HEADS QLD 4220,House,4,2,2,600m² ,31 Jan 2024
+"1,500,000 ","22 Silkyoak Court,",BURLEIGH WATERS QLD 4220,House,4,2,2,911m² ,2024
+"958,000 ","31 Pappas Way,",CARRARA QLD 4211,House,3,2,2,633m² ,31 Jan 2024
+"2,295,000 ","5050 Emerald Island Drive,",CARRARA QLD 4211,House,4,2,2,733m² ,31 Jan 2024
+"530,000 ","9/21-25 Fortune Street,",COOMERA QLD 4209,House,3,1,1,278m² ,31 Jan 2024
+"450,000","44/15 Yaun Street,",COOMERA QLD 4209,House,2,1,1,143m² ,31 Jan 2024
+"935,000 ","117 Pacific Pines Boulevard,",PACIFIC PINES QLD 4211,House,4,2,4,661m² ,31 Jan 2024
+"1,800,000 ","76 Sundance Way,",RUNAWAY BAY QLD 4216,House,4,2,2,668m² ,31 Jan 2024
+"786,000 ","4/39 Madang Crescent,",RUNAWAY BAY QLD 4216,House,2,1,1,132m² ,31 Jan 2024
+"1,400,000 ","8 Hidden Cove,",TALLEBUDGERA QLD 4228,House,4,2,2,600m² ,31 Jan 2024
+"1,400,000 ","196 Worongary Road,",WORONGARY QLD 4213,House,4,2,5,"4,000m² ",31 Jan 2024
+"1,500,000 ","6 Kurilpa Street,",WORONGARY QLD 4213,House,4,2,2,"12,140m² ",31 Jan 2024
+"2,860,000 ","17 Andrew Avenue,",BROADBEACH WATERS QLD 4218,House,4,3,5,"1,085m² ",30 Jan 2024
+"3,650,000 ","46 Clear Water Bay Avenue,",CLEAR ISLAND WATERS QLD 4226,House,6,4,3,998m² ,30 Jan 2024
+"805,000 ","26 Cielo Lane,",COOMERA QLD 4209,House,4,2,2,391m² ,30 Jan 2024
+"1,045,000 ","6 Crusade Court,",COOMERA WATERS QLD 4209,House,4,2,2,728m² ,30 Jan 2024
+"1,215,000 ","2 Baumea Court,",ELANORA QLD 4221,House,3,2,4,630m² ,30 Jan 2024
+"2,050,000 ","35 The Peninsula,",HELENSVALE QLD 4212,House,5,3,5,914m² ,30 Jan 2024
+"1,010,000 ","7 Nottingham Place,",HIGHLAND PARK QLD 4211,House,4,4,1,708m² ,30 Jan 2024
+"797,000 ","123 Dugandan Street,",NERANG QLD 4211,House,3,1,4,700m² ,30 Jan 2024
+"1,085,000 ","12 Stoney Creek Circuit,",ORMEAU QLD 4208,House,4,2,2,661m² ,30 Jan 2024
+"720,000 ","9 Wattle Court,",ORMEAU QLD 4208,House,3,2,2,350m² ,30 Jan 2024
+"1,850,000 ","28 O'Grady Drive,",PARADISE POINT QLD 4216,House,4,2,2,717m² ,30 Jan 2024
+"685,000","17 Moonstone Street,",PIMPAMA QLD 4209,House,4,2,2,315m² ,30 Jan 2024
+"749,000","35 Percy Earl Crescent,",PIMPAMA QLD 4209,House,4,2,2,414m² ,30 Jan 2024
+"1,400,000 ","16 Nunawading Court,",ROBINA QLD 4226,House,4,2,2,924m² ,30 Jan 2024
+"1,365,000 ","181 Easthill Drive,",ROBINA QLD 4226,House,3,2,2,296m² ,30 Jan 2024
+"2,250,000 ","1 Argyle Crescent,",SORRENTO QLD 4217,House,4,3,5,923m² ,2024
+"810,000 ","69 Kindra Avenue,",SOUTHPORT QLD 4215,House,4,2,3,506m² ,2024
+"2,375,000 ","23 North Quay Drive,",BIGGERA WATERS QLD 4216,House,6,3,2,887m² ,29 Jan 2024
+"1,450,000 ","1 Crest View Key,",BROADBEACH WATERS QLD 4218,House,3,1,1,564m² ,29 Jan 2024
+"1,560,000 ","8 Ringtail Street,",CLEAR ISLAND WATERS QLD 4226,House,3,2,2,554m² ,29 Jan 2024
+"700,200 ","15 Kufstein Road,",COOMERA QLD 4209,House,4,2,4,363m² ,29 Jan 2024
+"1,200,000 ","110 Discovery Drive,",HELENSVALE QLD 4212,House,4,2,2,"1,059m² ",29 Jan 2024
+"1,630,000 ","7 Innisfail Road,",HIGHLAND PARK QLD 4211,House,5,3,7,"4,491m² ",29 Jan 2024
+"745,000 ","232 Government Road,",LABRADOR QLD 4215,House,3,1,1,506m² ,2024
+"815,000 ","16 Artists Avenue,",OXENFORD QLD 4210,House,4,1,3,793m² ,2024
+"945,000 ","9 Tomah Street,",PACIFIC PINES QLD 4211,House,4,2,2,693m² ,29 Jan 2024
+"1,820,000 ","42 Tallebudgera Drive,",PALM BEACH QLD 4221,House,4,3,2,331m² ,29 Jan 2024
+"770,000 ","63 William Boulevard,",PIMPAMA QLD 4209,House,4,2,2,454m² ,29 Jan 2024
+"1,250,000 ","12 Princeville Court,",ROBINA QLD 4226,House,4,2,2,763m² ,29 Jan 2024
+"1,035,000 ","74 Glen Eagles Drive,",ROBINA QLD 4226,House,3,2,4,800m² ,29 Jan 2024
+"1,625,000 ","7 Aringa Way,",TALLEBUDGERA QLD 4228,House,3,2,2,"5,998m² ",29 Jan 2024
+"1,226,000 ","17 Lone Pine Circuit,",UPPER COOMERA QLD 4209,House,4,2,2,688m² ,29 Jan 2024
+"857,000 ","14 Saint Stephens Drive,",UPPER COOMERA QLD 4209,House,4,2,4,626m² ,2024
+"890,000 ","25 Rix Drive,",UPPER COOMERA QLD 4209,House,4,2,2,674m² ,29 Jan 2024
+"1,140,000 ","3 First Light Court,",COOMERA WATERS QLD 4209,House,4,2,2,"1,005m² ",2024
+"1,678,000 ","58 Citron Crescent,",HELENSVALE QLD 4212,House,5,4,2,512m² ,28 Jan 2024
+"4,450,000 ","2321 Cressbrook Drive,",HOPE ISLAND QLD 4212,House,5,5,9,932m² ,28 Jan 2024
+"1,380,000","32 Jack Nicklaus Way,",PARKWOOD QLD 4214,House,6,3,2,"1,353m² ",28 Jan 2024
+"780,000 ","9 Elabana Court,",UPPER COOMERA QLD 4209,House,4,2,2,468m² ,28 Jan 2024
+"865,000 ","15 David Street,",UPPER COOMERA QLD 4209,House,4,2,2,600m² ,28 Jan 2024
+"2,405,000 ","10 Village High Road,",BENOWA WATERS QLD 4217,House,4,3,4,809m² ,2024
+"865,000","3 PERTH SQUARE,",HIGHLAND PARK QLD 4211,House,3,1,5,706m² ,
+"1,750,000 ","2243 Glengallon Way,",HOPE ISLAND QLD 4212,House,4,3,2,401m² ,27 Jan 2024
+"747,000","2 Theodore Place,",MOLENDINAR QLD 4214,House,3,2,2,672m² ,27 Jan 2024
+"810,000 ","17 Paradise Street,",NERANG QLD 4211,House,3,1,3,546m² ,27 Jan 2024

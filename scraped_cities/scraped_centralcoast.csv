@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024
+"950,000 ","17 Trevally Avenue,",CHAIN VALLEY BAY NSW 2259,House,5,3,4,601m² ,18 Apr 2024
+"1,100,000 ","5/1A Adelaide Street,",EAST GOSFORD NSW 2250,House,3,2,2,236m² ,18 Apr 2024
+"1,430,000 ","17 Rickard Road,",EMPIRE BAY NSW 2257,House,4,2,2,841m² ,18 Apr 2024
+"980,000 ","4 Abbey Close,",WATANOBBI NSW 2259,House,4,2,2,602m² ,18 Apr 2024
+"845,000 ","6 Miami Avenue,",WOY WOY NSW 2256,House,3,1,1,543m² ,18 Apr 2024
+"1,205,000 ","40 Championship Drive,",WYONG NSW 2259,House,4,2,2,434m² ,18 Apr 2024
+"2,300,000 ","19 Toongara Avenue,",BATEAU BAY NSW 2261,House,4,3,2,911m² ,17 Apr 2024
+"1,400,000 ","19 Grevillea Crescent,",BERKELEY VALE NSW 2261,House,4,3,4,556m² ,17 Apr 2024
+"1,150,000 ","5 Aston Wilde Avenue,",CHITTAWAY BAY NSW 2261,House,4,2,2,732m² ,17 Apr 2024
+"835,000 ",,GOROKAN NSW 2263,House,5,2,2,575m² ,17 Apr 2024
+"1,180,000 ","6 Cherry Blossom Crescent,",HAMLYN TERRACE NSW 2259,House,4,2,2,600m² ,17 Apr 2024
+"1,101,000 ","3 David Mews,",MARDI NSW 2259,House,3,2,2,567m² ,2024
+"1,500,000 ","15 Fairlight Circuit,",MARDI NSW 2259,House,4,2,3,"1,533m² ",17 Apr 2024
+"935,000 ","3 Apanie Avenue,",NARARA NSW 2250,House,3,1,3,715m² ,17 Apr 2024
+"1,796,500 ","21 Kallaroo Road,",UMINA BEACH NSW 2257,House,4,2,2,578m² ,17 Apr 2024
+"1,042,000 ","276 Trafalgar Avenue,",UMINA BEACH NSW 2257,House,3,2,2,474m² ,17 Apr 2024
+"1,215,000 ","1a The Bulwark,",UMINA BEACH NSW 2257,House,4,2,4,643m² ,17 Apr 2024
+"1,250,000 ","22 Pozieres Avenue,",UMINA BEACH NSW 2257,House,5,2,3,531m² ,17 Apr 2024
+"1,070,000 ",,WARNERVALE NSW 2259,House,4,2,4,"1,380m² ",17 Apr 2024
+"1,091,000 ","17 Russell Drysdale Street,",EAST GOSFORD NSW 2250,House,6,3,2,578m² ,16 Apr 2024

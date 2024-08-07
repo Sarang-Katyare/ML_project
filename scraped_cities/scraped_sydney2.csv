@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"740,000 ","13/365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,75m² ,23 Apr 2024
+"745,000 ","43/336-346 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,86m² ,17 Apr 2024
+"3,000,000 ","3304/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,153m² ,03 Apr 2024
+"815,000 ","413/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,68m² ,7 Mar 2024
+"740,000 ","407/45-49 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,70m² ,9 Mar 2024
+"650,000 ","237/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,74m² ,2024
+"710,000 ","1307/5 York Street,",SYDNEY NSW 2000,Studio,− 0,1,−,63m² ,4 Mar 2024
+"1,150,000 ","2303/591 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,4 Mar 2024
+"3,405,000 ","2704/187 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,159m² ,2024
+"795,000 ","99/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,86m² ,28 Feb 2024
+"660,000 ","119/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,27 Feb 2024
+"1,275,000","715/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,2024
+"3,200,000 ","801/18 Loftus Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,134m² ,23 Feb 2024
+"1,050,000 ","1209/161 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,66m² ,21 Feb 2024
+"1,275,000 ","1405/5 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,90m² ,21 Feb 2024
+"1,320,000 ","2802/343-357 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,1,2,117m² ,19 Feb 2024
+"1,650,850 ","Penthouse 159/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,151m² ,16 Feb 2024
+"1,105,000","108/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,133m² ,14 Feb 2024
+"3,350,000 ","505/160 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,138m² ,09 Feb 2024
+"4,350,000 ","4702/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,210m² ,31 Jan 2024
+"7,000,000 ","2903/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,213m² ,25 Jan 2024
+"6,015,000 ","High Level/115-117 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,197m² ,20 Jan 2024
+"6,750,000","1208/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,190m² ,3 Jan 2024
+"4,600,000 ","502/15 Young Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,213m² ,22 Dec 2023
+"2,200,000 ","403/160 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,100m² ,20 Dec 2023
+"1,335,000 ","LV16 - 129/365 KENT STREET,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,111m² ,16 Dec 2023
+"785,000 ","1507/352 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,68m² ,08 Dec 2023
+"1,060,000 ","153/158 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,115m² ,05 Dec 2023
+"610,000 ","76/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,58m² ,2023
+"578,000 ","23/361-363 Kent Street,",SYDNEY NSW 2000,Studio,1,1,−,56m² ,01 Dec 2023
+"2,200,000 ","2302/187 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,01 Dec 2023
+"3,680,000 ","3710/117 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,159m² ,20 Nov 2023
+"1,395,000","908/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,78m² ,16 Nov 2023
+"2,200,000 ","Level 29/65 Tumbalong Blvd,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,15 Nov 2023
+"1,090,000 ","48/177-181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,58m² ,2023
+"925,800 ","257/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,117m² ,07 Nov 2023
+"520,000 ","412/219 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,59m² ,03 Nov 2023
+"2,100,000 ","1502/281 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,113m² ,01 Nov 2023
+"1,200,000 ","3910/93 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,2,120m² ,27 Oct 2023
+"2,100,000","807/71 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,26 Oct 2023
+"525,000 ","43/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,56m² ,20 Oct 2023
+"840,000","2710/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,54m² ,20 Oct 2023
+"950,000 ","311/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,93m² ,8 Oct 2023
+"2,580,000 ","1908/127 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,16 Oct 2023
+"3,400,000 ","2004/38-42 Bridge Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,147m² ,2023
+"1,045,000","1105/591 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,112m² ,06 Oct 2023
+"795,000 ","326/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,88m² ,04 Oct 2023
+"576,000 ","82/2-8 Dixon Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,59m² ,25 Sep 2023
+"772,500","306/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,81m² ,21 Sep 2023
+"900,000 ","18/365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,116m² ,20 Sep 2023
+"637,500 ","801/5 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,− 0,1,−,58m² ,13 Sep 2023
+"910,000 ","3706/343 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,82m² ,08 Sep 2023
+"1,550,000 ","205/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,126m² ,06 Sep 2023
+"990,000 ","5404/91-95 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,68m² ,5 Aug 2023
+"1,075,000 ","1006/5 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,106m² ,21 Aug 2023
+"855,000 ","322/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,82m² ,21 Aug 2023
+"3,850,000 ","804/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,229m² ,17 Aug 2023
+"935,000","2515/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,60m² ,11 Aug 2023
+"1,275,000 ","112/25 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,84m² ,10 Aug 2023
+"735,000 ","266/569 George St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,70m² ,08 Aug 2023
+"660,000 ","149/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,66m² ,28 Jul 2023
+"920,000 ","375/27 Park St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,61m² ,28 Jul 2023
+"620,000 ","146/420 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,21 Jul 2023
+"1,400,000 ","1301/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,78m² ,21 Jul 2023
+"2,550,000 ","3503/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,27 Jun 2023
+"870,000 ","136/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,92m² ,22 Jun 2023
+"890,000","909/187 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,68m² ,20 Jun 2023
+"1,110,000 ","1305/591 George St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,93m² ,19 Jun 2023
+"910,000","266/27 Park Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,72m² ,17 Jun 2023
+"695,000 ","611/37 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,04 Jun 2023
+"2,380,000 ","1401/281 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,115m² ,02 Jun 2023
+"1,450,000 ","4310/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,82m² ,31 May 2023
+"2,010,000 ","57/177-181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,2023
+"1,215,000","1601/209 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,90m² ,26 May 2023
+"1,470,000 ","1811/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,139m² ,23 May 2023
+"1,158,000","323/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,130m² ,17 May 2023
+"660,000 ","141/298-304 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,65m² ,16 May 2023
+"6,150,000 ","1202/148-160 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,204m² ,12 May 2023
+"900,000 ","1105/148 Elizabeth St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,104m² ,08 May 2023
+"1,460,000 ","109/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,160m² ,05 May 2023
+"900,000 ","93/25 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,70m² ,05 May 2023
+"752,000 ","139/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,03 May 2023
+"822,000","117/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,85m² ,21 Apr 2023
+"2,350,000 ","2204/129 Harrington Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,125m² ,20 Apr 2023
+"960,000 ","12/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,126m² ,20 Apr 2023
+"1,235,000","413/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,172m² ,19 Apr 2023
+"820,000 ","623/317 Castlreagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,136m² ,18 Apr 2023
+"2,450,000","503/15 Young Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,102m² ,13 Apr 2023
+"1,335,000","1105/50 Murray St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,118m² ,12 Apr 2023
+"875,000 ","3205/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,78m² ,11 Apr 2023
+"810,000 ","302/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,88m² ,07 Apr 2023
+"1,300,000","508/50 Murray St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,05 Apr 2023
+"3,200,000","810/71 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,70m² ,05 Apr 2023
+"2,450,000","4102/101 Bathurst St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,1,128m² ,03 Apr 2023
+"1,485,000","302/6 Loftus Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,58m² ,31 Mar 2023
+"1,900,000 ","2610/183 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,122m² ,30 Mar 2023
+"1,875,000 ","101/141 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,104m² ,23 Mar 2023
+"558,840 ","89/361 Kent Street Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,59m² ,22 Mar 2023
+"2,700,000","405/160 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,−,123m² ,22 Mar 2023
+"1,235,000 ","152/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,124m² ,2023
+"2,125,000 ","1002/187 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,142m² ,14 Mar 2023
+"6,500,000 ","1107/71 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,07 Mar 2023
+"1,365,000 ","808/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,78m² ,03 Mar 2023
+"755,000 ","1566/37 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,23 Feb 2023
+"1,480,000","301/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,163m² ,16 Feb 2023
+"1,500,000","120/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,159m² ,15 Feb 2023
+"900,000 ","10/281 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,59m² ,08 Feb 2023
+"1,048,500 ","299/158 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,108m² ,06 Feb 2023
+"6,500,000","1301/71 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,143m² ,03 Feb 2023
+"1,100,000","238/158 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,89m² ,30 Jan 2023
+"855,000 ","303/187 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,81m² ,24 Jan 2023
+"2,000,000","1801/29 Commonwealth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,157m² ,18 Jan 2023
+"850,000 ","392/303 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,126m² ,23 Dec 2022
+"1,580,000 ","2101/197 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,82m² ,20 Dec 2022
+"582,000 ","111/107 Quay Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,58m² ,15 Dec 2022
+"1,210,000","169/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,146m² ,14 Dec 2022
+"1,630,000 ","3088/65 Tumbalong Blvd,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,99m² ,07 Dec 2022
+"1,050,000","612/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,93m² ,06 Dec 2022
+"4,005,000 ","82/7 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,2022
+"780,000 ","296/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,85m² ,02 Dec 2022
+"1,050,000 ","46/278 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,2,97m² ,30 Nov 2022
+"495,000 ","1002/148 Elizabeth Street,",SYDNEY NSW 2000,Studio,− 0,1,−,58m² ,25 Nov 2022
+"1,630,000 ","911/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,175m² ,24 Nov 2022
+"2,800,000 ","3303/68 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,14 Nov 2022
+"695,000 ","273/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,73m² ,14 Nov 2022
+"4,950,000 ","8002/115 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,169m² ,07 Nov 2022
+"810,000 ","290/569 George,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,92m² ,03 Nov 2022
+"3,800,000 ","3401/718 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,4,3,2,347m² ,21 Oct 2022
+"625,000","9/278-284 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,66m² ,19 Oct 2022
+"1,120,000 ","2307/197 Castlereagh St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,93m² ,17 Oct 2022
+"870,000 ","301/355 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,88m² ,06 Oct 2022
+"1,870,000 ","7503/115 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,93m² ,19 Sep 2022
+"8,000,000 ","Penthouse 1502/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,261m² ,14 Sep 2022
+"1,210,000","304/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,4 Sep 2022
+"1,590,000 ","Penthouse 159/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,151m² ,08 Sep 2022
+"673,000 ","201/298 Sussex St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,65m² ,08 Sep 2022
+"870,000 ","1505/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,56m² ,02 Sep 2022
+"783,700","300/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,85m² ,02 Sep 2022
+"1,790,000 ","4709/93 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,31 Aug 2022
+"820,000 ","1506/361 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,93m² ,20 Aug 2022
+"2,850,000 ","3104/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,−,135m² ,18 Aug 2022
+"2,100,000 ","Penthouse 1202/50 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,1,208m² ,17 Aug 2022
+"1,250,000 ","32/137 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,122m² ,03 Aug 2022
+"4,600,000 ","2302/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,150m² ,29 Jul 2022
+"900,000 ","3901/393 Pitt St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,86m² ,22 Jul 2022
+"2,925,000 ","705/15 Young Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,108m² ,22 Jul 2022
+"5,170,000 ","2501/183 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,238m² ,21 Jul 2022
+"3,850,000 ","901/160 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,145m² ,14 Jul 2022
+"3,950,000 ","3502/197 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,178m² ,08 Jul 2022
+"1,220,000","3911/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,63m² ,06 Jul 2022
+"1,450,000 ","174/569-581 George St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,223m² ,05 Jul 2022
+"2,100,000 ","4008/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,117m² ,04 Jul 2022
+"1,075,000 ","1406/5 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,102m² ,2 Jul 2022
+"1,310,000 ","151/365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,109m² ,01 Jul 2022
+"3,500,000 ","31/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,9 Jun 2022
+"1,200,000 ","53/25 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,70m² ,22 Jun 2022
+"920,000 ","3603/91-95 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,97m² ,6 Jun 2022
+"1,550,000 ","5102/393 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,127m² ,15 Jun 2022
+"1,780,000 ","413/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,97m² ,2022
+"2,720,000 ","709/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,108m² ,2022
+"4,450,000 ","602/15 Young Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,175m² ,31 May 2022
+"2,300,000","2608/161 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,108m² ,31 May 2022
+"6,250,000 ","65/1 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,1,150m² ,2022
+"2,325,000 ","2002/187 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,26 May 2022
+"2,100,000 ","903/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,127m² ,0 May 2022
+"3,850,000 ","904/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,226m² ,20 May 2022
+"1,090,000 ","27/222 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,127m² ,19 May 2022
+"770,000 ","2714/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,66m² ,18 May 2022
+"1,450,000 ","364/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,2,141m² ,7 May 2022
+"1,050,000 ","1006/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,92m² ,16 May 2022
+"1,100,000 ","2603/343 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,2022
+"1,800,000 ","503/281 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,114m² ,06 May 2022
+"1,100,000 ","1101/2 Bond Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,82m² ,29 Apr 2022
+"2,760,000 ","3203/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,27 Apr 2022
+"1,080,000 ","318/158-166 Day Street (289-295 Sussex Street),",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,22 Apr 2022
+"2,100,000 ","2204/129 Harrington Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,125m² ,22 Apr 2022
+"705,000","185/57 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,86m² ,15 Apr 2022
+"1,420,000","1207/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,75m² ,2022
+"1,900,000 ","34/177-181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,04 Apr 2022
+"4,800,000 ","1704/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,176m² ,30 Mar 2022
+"1,750,000 ","305/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,1,163m² ,3 Mar 2022
+"775,000","284/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,87m² ,23 Mar 2022
+"3,550,000","904/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,202m² ,2022
+"1,125,000","1503/591 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,88m² ,14 Mar 2022
+"5,850,000 ","7902/115 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,160m² ,04 Mar 2022
+"1,600,000 ","2705/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,88m² ,4 Mar 2022
+"950,000","2013/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,63m² ,28 Feb 2022
+"7,040,000 ","33/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,1,162m² ,2022
+"2,600,000 ","1102/281 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,112m² ,10 Feb 2022
+"1,765,000 ","1104/123-125 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,92m² ,10 Feb 2022
+"2,600,000 ","34/155 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,133m² ,03 Feb 2022
+"985,000","192/420 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,02 Feb 2022
+"1,025,000 ","1/515 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,129m² ,31 Dec 2021
+"1,330,000","3809/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,105m² ,22 Dec 2021
+"1,075,000 ","233/158 Day St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,122m² ,22 Dec 2021
+"938,000 ","1802/98 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,2021
+"1,205,000 ","1907/343 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,10 Dec 2021
+"950,000 ","121/420 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,117m² ,09 Dec 2021
+"2,545,000 ","1408/127 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,07 Dec 2021
+"1,080,000 ","196/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,108m² ,07 Dec 2021
+"1,550,000 ","31/25 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,129m² ,03 Dec 2021
+"1,300,000 ","9/533 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,120m² ,6 Nov 2021
+"2,600,000","402/141 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,118m² ,24 Nov 2021
+"1,650,000 ","1805/83 Harbour ST,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,104m² ,23 Nov 2021
+"4,380,000 ","2402/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,148m² ,15 Nov 2021
+"4,100,000 ","1702/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,137m² ,12 Nov 2021
+"1,270,000 ","142/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,11 Nov 2021
+"1,200,000 ","308/50 Murray Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,04 Nov 2021
+"1,300,000 ","31/110 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,137m² ,2021
+"1,280,000 ","323/298 Sussex St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,135m² ,27 Oct 2021
+"670,000 ","25/57 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,27 Oct 2021
+"1,185,000 ","302/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,88m² ,2021
+"1,200,000 ","203/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,69m² ,12 Oct 2021
+"1,180,000 ",,SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,07 Oct 2021
+"6,500,000 ","801/141-143 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,4,4,2,235m² ,07 Oct 2021
+"1,180,000 ","30/308 Pitt St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,07 Oct 2021
+"1,500,000","2406/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,78m² ,01 Oct 2021
+"825,000 ","574/317 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,133m² ,21 Sep 2021
+"750,000 ","340/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,81m² ,2 Sep 2021
+"1,030,000 ","7/17-25 Wentworth Avenue,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,152m² ,2021
+"3,500,000 ","Penthouse 2201/11 Alberta Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,4,3,2,252m² ,25 Aug 2021
+"3,151,000 ","1701/130 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,28 Jul 2021
+"2,150,000 ","301/141 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,104m² ,26 Jul 2021
+"885,000 ","503/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,66m² ,1 Jul 2021
+"710,000 ","2502/393 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,61m² ,01 Jul 2021
+"1,195,000","79/569 George St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,119m² ,30 Jun 2021
+"2,269,000 ","803/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,129m² ,2021
+"1,410,000 ","2503/348-352 Sussex St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,135m² ,25 Jun 2021
+"690,000","490/317 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,111m² ,24 Jun 2021
+"1,480,000 ","2301/197-199 Castlereagh Street Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,101m² ,01 Jun 2021
+"2,090,000 ","1106/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,117m² ,2021
+"3,250,000 ","Dalgety Road,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,208m² ,27 May 2021
+"1,530,000 ","4207/393 Pitt St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,124m² ,24 May 2021
+"1,320,000 ","715/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,4 May 2021
+"763,000 ","2904/91 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,67m² ,12 May 2021
+"820,000 ","2805/91 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,90m² ,11 May 2021
+"800,000","108/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,92m² ,07 May 2021
+"367,000","115/2-8 Dixon Street,",SYDNEY NSW 2000,Studio,− 0,1,−,674m² ,01 May 2021
+"1,180,000 ","2611/68 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,70m² ,30 Apr 2021
+"695,000 ","610/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,61m² ,30 Apr 2021
+"3,150,000 ","1/16 Dalgety Road,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,211m² ,29 Apr 2021
+"1,480,000 ","3402/91 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,131m² ,25 Apr 2021
+"710,000","219/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,96m² ,23 Apr 2021
+"780,000 ","Level 26, 2605/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,19 Apr 2021
+"810,000 ","501/21 Alberta Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,56m² ,14 Apr 2021
+"1,130,000 ","2107/199 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,93m² ,01 Apr 2021
+"1,130,000 ","1302/209 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,88m² ,30 Mar 2021
+"600,000 ","92/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,30 Mar 2021
+"1,650,000","1702/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,1,177m² ,2021
+"4,950,000 ","801/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,113m² ,5 Mar 2021
+"1,170,000 ","47/222 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,128m² ,03 Mar 2021
+"940,000 ","1303/98 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,60m² ,01 Mar 2021
+"3,615,000 ","1305/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,187m² ,2021
+"1,950,000 ","2206/161 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,93m² ,16 Feb 2021
+"880,000 ","1618/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,103m² ,24 Jan 2021
+"655,000 ","5/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,126m² ,16 Jan 2021
+"1,386,000 ","3402/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,131m² ,15 Jan 2021
+"1,135,000 ","2416/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,128m² ,13 Jan 2021
+"933,000",,SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,92m² ,18 Dec 2020
+"933,000 ","123/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,92m² ,18 Dec 2020
+"1,200,000 ","403/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,87m² ,18 Dec 2020
+"997,500 ","301/27 Park Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,96m² ,12 Dec 2020
+"1,170,000 ","3209/81 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,90m² ,07 Dec 2020
+"970,000 ","54/515 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,96m² ,4 Dec 2020
+"1,400,000 ","202/281 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,114m² ,03 Dec 2020
+"770,000 ","22/25 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,70m² ,25 Nov 2020
+"1,460,000 ","41/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,108m² ,2020
+"1,675,000 ","42/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,152m² ,26 Oct 2020
+"600,000",,SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,50m² ,22 Oct 2020
+"1,065,000","317/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,22 Oct 2020
+"550,000 ","101/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,51m² ,12 Oct 2020
+"1,300,000 ","1410/38-42 Bridge Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,9 Oct 2020
+"3,700,000 ","701/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,4,3,2,226m² ,29 Sep 2020
+"1,110,000 ","281/420 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,119m² ,2020
+"935,000 ","348/303 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,137m² ,16 Sep 2020
+"685,000 ","32/91 Goulburn Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,61m² ,16 Sep 2020
+"1,060,000 ","170/365 Kent St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,07 Sep 2020
+"665,000","260/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,71m² ,27 Aug 2020
+"980,000 ","26/91 Goulburn St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,21 Aug 2020
+"880,000","38/267 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,117m² ,1 Aug 2020
+"2,165,000 ","5206/393 Pitt St,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,175m² ,2020
+"757,500 ","351/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,81m² ,10 Aug 2020
+"1,800,000 ","1102/50 Murray Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,124m² ,29 Jul 2020
+"750,000 ","349/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,78m² ,8 Jul 2020
+"950,000","4/267 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,148m² ,28 Jul 2020
+"2,002,000 ","1011/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,78m² ,2020
+"2,050,000 ","902/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,126m² ,03 Jul 2020
+"950,000","2/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,198m² ,25 Jun 2020
+"1,480,000 ","2801/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,78m² ,25 Jun 2020
+"685,000 ","266/569-581 George St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,70m² ,8 Jun 2020
+"750,000 ","702/4 Bridge Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,55m² ,17 Jun 2020
+"800,000 ","1672/37-43 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,04 Jun 2020
+"950,000 ","4008/393 Pitt St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,85m² ,2020
+"1,155,000 ","65/416 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,151m² ,11 May 2020
+"2,280,000 ","2508/82 Hay Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,02 May 2020
+"7,800,000 ","0/Penthouse One 199 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,2,182m² ,01 May 2020
+"3,200,000 ","916/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,112m² ,24 Apr 2020
+"1,880,000 ","1006/81 Harbour ST,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,113m² ,02 Apr 2020
+"960,000 ","1315/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,99m² ,27 Mar 2020
+"3,000,000 ","62/7 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,5 Mar 2020
+"1,885,000 ","31/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,107m² ,8 Feb 2020
+"835,000 ","66/365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,28 Feb 2020
+"2,100,000 ","2207/161 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,103m² ,12 Feb 2020
+"965,000 ","37/267-277 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,114m² ,04 Feb 2020
+"2,328,000 ","3502/197 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,178m² ,31 Jan 2020
+"890,000 ","554/317 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,126m² ,14 Jan 2020
+"1,250,000 ","605/50 Murray Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,30 Dec 2019
+"820,000 ","16/16 O'Connell Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,162m² ,18 Dec 2019
+"920,000 ","905/187 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,77m² ,13 Dec 2019
+"15,125,000 ","28A/171 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,4,4,2,669m² ,06 Dec 2019
+"710,000 ","9/57 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,2 Dec 2019
+"745,000","22/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,80m² ,02 Dec 2019
+"1,740,000 ","801/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,121m² ,30 Nov 2019
+"1,565,000 ","103/29 Barangaroo Avenue,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,73m² ,29 Nov 2019
+"720,000 ","805/209 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,50m² ,27 Nov 2019
+"14,500,000","88/18 College Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,4,3,800m² ,21 Nov 2019
+"1,290,000 ","47/308 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,127m² ,16 Nov 2019
+"1,300,000 ","4005/343 Pitt St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,109m² ,01 Nov 2019
+"915,000","36/267 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,123m² ,28 Oct 2019
+"768,000 ","1203/209 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,59m² ,2019
+"565,000 ","601/433 Kent street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,24 Oct 2019
+"810,000 ","23/267-277 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,115m² ,23 Oct 2019
+"695,000 ","176/298 Sussex St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,22 Oct 2019
+"645,000","6/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,72m² ,17 Oct 2019
+"1,610,000 ","5005/393 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,131m² ,11 Oct 2019
+"2,750,000","3302/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,124m² ,7 Sep 2019
+"2,350,000 ","905/127 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,20 Sep 2019
+"675,000 ","190/298 Sussex St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,50m² ,12 Sep 2019
+"1,975,000 ","1106/183 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,118m² ,09 Sep 2019
+"1,320,000","1307/38 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,77m² ,6 Sep 2019
+"745,000 ","123/336 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,86m² ,30 Aug 2019
+"1,270,000 ","167/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,123m² ,28 Aug 2019
+"655,000","705/355-359 Kent Street,",SYDNEY NSW 2000,Studio,− 0,1,−,60m² ,19 Aug 2019
+"2,150,000 ","603/168 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,105m² ,17 Jul 2019
+"1,425,000 ","206/81 Harbour St,",SYDNEY NSW 2000,New apartments / off the plan,2,2,1,108m² ,10 Jul 2019
+"1,960,000 ","60 Hay Street,",SYDNEY NSW 2000,New apartments / off the plan,2,2,−,97m² ,30 Jun 2019
+"1,190,000 ","Level 25/308 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,122m² ,21 Jun 2019
+"1,200,000 ","Level 11/60 Hay Street,",SYDNEY NSW 2000,New apartments / off the plan,2,1,−,66m² ,
+"2,404,000 ","401/141-143 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,102m² ,2019
+"1,250,000 ","15/222-228 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,128m² ,15 Jun 2019
+"2,100,000 ","84/7 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,103m² ,03 Jun 2019
+"740,000 ","70/107 Quay Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,91m² ,03 May 2019
+"1,030,000 ","3910/93 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,2,120m² ,27 Apr 2019
+"385,000 ","606/1 - 3 Hosking Place,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,52m² ,2019
+"740,000 ","Level 24/197-199 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,79m² ,02 Apr 2019
+"680,000 ","90/569-581 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,58m² ,25 Mar 2019
+"1,600,000 ","1702/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,1,177m² ,23 Mar 2019
+"715,000 ","272/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,70m² ,19 Mar 2019
+"2,400,000","905 23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,188m² ,04 Mar 2019
+"780,000","78/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,80m² ,01 Feb 2019
+"2,250,000 ","64/7 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,102m² ,17 Jan 2019
+"2,250,000 ","406/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,17 Jan 2019
+"1,305,000 ","1303/129 Harrington Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,91m² ,2018
+"1,210,000 ","3308/343 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,89m² ,27 Nov 2018
+"800,000","300/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,64m² ,16 Oct 2018
+"813,000 ","311/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,79m² ,2018
+"950,000 ","403/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,87m² ,28 Sep 2018
+"8,200,000 ","1301/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,405m² ,21 Sep 2018
+"2,381,500 ","505/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,76m² ,2018
+"1,340,000 ","2016/91-95 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,23 Aug 2018
+"735,000","291/27 Park Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,58m² ,10 Aug 2018
+"1,280,000 ","Level 17/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,141m² ,24 Jul 2018
+"1,580,000 ","3609/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,137m² ,24 Jul 2018
+"1,825,000 ","3010/70 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,101m² ,2018
+"1,900,000 ","810/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,76m² ,12 Jul 2018
+"625,000 ","408/45 Shelley St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,55m² ,11 Jul 2018
+"1,110,000 ","1509/199 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,90m² ,4 Jul 2018
+"4,300,000 ","8/155 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,214m² ,26 Jun 2018
+"1,400,000 ","1309/161 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,57m² ,30 May 2018
+"990,000 ","29/267-277 Castlereagh St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,107m² ,30 May 2018
+"778,000 ","85/289-295 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,83m² ,23 May 2018
+"920,000 ","302/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,88m² ,3 May 2018
+"1,750,000 ","4311/93 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,126m² ,02 May 2018
+"2,000,000 ","3613 & 3613A/91 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,176m² ,01 May 2018
+"1,900,000 ","1002/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,3 Apr 2018
+"613,000 ","178/298 Sussex St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,51m² ,06 Apr 2018
+"2,900,000 ","2108/168 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,134m² ,04 Apr 2018
+"3,725,000 ","904/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,198m² ,2018
+"552,000 ","201/132 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,57m² ,2018
+"900,000 ","2208/98 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,9 Mar 2018
+"730,000","45/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,68m² ,09 Mar 2018
+"1,750,000 ","267 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,160m² ,09 Feb 2018
+"716,000","301/267 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,57m² ,06 Feb 2018
+"725,000 ","1457/37-43 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,58m² ,02 Feb 2018
+"705,000 ","907/197 Castlereagh St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,57m² ,26 Jan 2018
+"2,300,000 ","704/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,156m² ,24 Jan 2018
+"815,000 ","1915/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,69m² ,11 Jan 2018
+"950,000 ","40/57-59 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,97m² ,22 Dec 2017
+"1,080,000 ","24/137-139 Bathurst St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,20 Nov 2017
+"920,000 ","613/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,95m² ,2017
+"1,285,000 ","205/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,111m² ,2017
+"713,000 ","1207/33 Ultimo Road,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,54m² ,31 Oct 2017
+"1,860,000 ","3501/2 Cunningham St,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,175m² ,31 Oct 2017
+"1,720,000 ","34/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,14 Oct 2017
+"1,500,000 ","1105/50 Murray St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,118m² ,05 Oct 2017
+"997,000 ","212/420 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,85m² ,2017
+"2,300,000 ","405/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,29 Sep 2017
+"1,145,000 ","3412/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,85m² ,15 Sep 2017
+"870,000","62/278-284 Sussex,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,94m² ,08 Sep 2017
+"840,000","903/199 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,73m² ,31 Aug 2017
+"1,295,000 ","304/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,4 Aug 2017
+"830,000","332/298-304 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,80m² ,28 Jul 2017
+"960,000 ","550A and 550B/317 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,134m² ,27 Jul 2017
+"1,100,000 ","205/158 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,108m² ,2017
+"1,300,000","104/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,126m² ,14 Jul 2017
+"815,000 ","1805/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,67m² ,11 Jul 2017
+"1,310,000","38/222-228 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,125m² ,11 Jul 2017
+"3,650,000 ","62/1 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,122m² ,2017
+"815,000 ","1805/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,67m² ,17 Jun 2017
+"9,000,000 ","36/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,202m² ,5 Jun 2017
+"1,850,000 ","3613 & 3613A/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,176m² ,30 May 2017
+"833,000","41/336 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,101m² ,29 May 2017
+"1,615,000 ","5002/93 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,133m² ,17 May 2017
+"995,000","224/158 Day,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,104m² ,01 May 2017
+"1,242,000 ","77A & 77B/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,125m² ,28 Apr 2017
+"2,100,000 ","15 E 171 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,15 Apr 2017
+"1,380,000 ","222 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,147m² ,10 Apr 2017
+"1,590,000 ","1807/361 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,1,276m² ,10 Apr 2017
+"1,600,000 ","53/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,115m² ,21 Mar 2017
+"995,000 ","4406/93 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,83m² ,21 Mar 2017
+"1,400,000 ","407/2 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,109m² ,03 Mar 2017
+"1,200,000 ","615/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,84m² ,23 Feb 2017
+"820,000 ","217/49 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,55m² ,2017
+"1,600,000","84/308 Pitt,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,174m² ,07 Feb 2017
+"2,400,000 ","13 B/171 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,150m² ,27 Jan 2017
+"1,590,000 ","613/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,79m² ,17 Jan 2017
+"900,000 ","16/259 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,79m² ,04 Jan 2017
+"2,020,000 ","3507 & 350/91-93 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,173m² ,13 Dec 2016
+"2,500,000","1301/2 Phillip Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,132m² ,12 Dec 2016
+"2,988,000","1503/2 Phillip Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,126m² ,2016
+"1,200,000 ","401/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,91m² ,07 Dec 2016
+"870,000 ","3503/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,102m² ,02 Dec 2016
+"4,150,000 ","23/5 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,186m² ,24 Nov 2016
+"2,020,000 ","3507A & B/91 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,173m² ,16 Nov 2016
+"785,000 ","318/49 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,51m² ,21 Oct 2016
+"760,000 ","1702/142-148 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,78m² ,21 Oct 2016
+"2,755,000","1302/2 Phillip Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,124m² ,0 Oct 2016
+"1,000,000 ","89 / 267 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,123m² ,05 Oct 2016
+"3,200,000 ","1405/168 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,160m² ,2016
+"850,000 ","15/44 Bridge Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,63m² ,02 Sep 2016
+"1,120,000 ","77/398 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,119m² ,15 Aug 2016
+"2,560,000 ","72/7 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,20 Jul 2016
+"2,000,000 ","24/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,77m² ,19 Jul 2016
+"1,075,000 ","410/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,18 Jul 2016
+"1,185,000 ","603/11 Alberta Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,95m² ,13 Jul 2016
+"935,000","23/137 bathurst street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,122m² ,10 Jun 2016
+"1,530,000 ","37/222 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,162m² ,31 May 2016
+"780,000 ","1006/343 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,84m² ,31 May 2016
+"930,000","1608/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,88m² ,05 May 2016
+"695,000 ","614/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,2016
+"698,000 ","2102 / 98 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,2016
+"3,750,000","49 / 155 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,247m² ,30 Mar 2016
+"1,160,000 ","147/365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,93m² ,24 Mar 2016
+"1,525,000 ","1011/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,78m² ,21 Mar 2016
+"1,638,000","81/308 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,196m² ,24 Feb 2016
+"1,638,000","81/308 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,196m² ,24 Feb 2016
+"700,000 ","802 / 98 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,64m² ,23 Feb 2016
+"899,000","192/158-166 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,116m² ,05 Feb 2016
+"630,000 ","1010/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,59m² ,2015
+"1,070,000","1311/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,124m² ,08 Dec 2015
+"842,000 ","6/44 Bridge Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,63m² ,05 Dec 2015
+"1,375,000 ","611/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,79m² ,03 Dec 2015
+"1,300,000 ","2301/2 Quay Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,133m² ,4 Nov 2015
+"1,555,000 ","2805/352 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,194m² ,2015
+"1,075,000 ","1209/185-211 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,111m² ,1 Nov 2015
+"620,000 ","King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,56m² ,10 Nov 2015
+"1,360,000 ","67/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,134m² ,2015
+"685,000","Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,71m² ,02 Nov 2015
+"9,100,000 ","28 B/171 Gloucester Street,",SYDNEY NSW 2000,Penthouse,4,4,3,573m² ,30 Oct 2015
+"885,000 ","144/25 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,70m² ,2015
+"700,000 ","314/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,14 Oct 2015
+"1,530,000 ","12.01/2 Phillip Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,13 Oct 2015
+"1,560,000 ","52/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,119m² ,2015
+"950,000 ","1301/185-211 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,97m² ,12 Oct 2015
+"911,000 ","15/85-91 Goulburn Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,87m² ,09 Oct 2015
+"1,250,000 ","110/414-418 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,150m² ,1 Oct 2015
+"4,810,000","107/1 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,164m² ,30 Sep 2015
+"560,000 ","18/17-25 Wentworth Avenue,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,60m² ,2 Sep 2015
+"2,005,000 ","903/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,2015
+"825,000 ","809/2 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,72m² ,5 Sep 2015
+"1,380,000","146/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,133m² ,12 Sep 2015
+"57,000","1104/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,161m² ,09 Sep 2015
+"720,000 ","33/365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,78m² ,21 Aug 2015
+"1,200,000","11H/171 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,85m² ,06 Aug 2015
+"1,950,000 ","44/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,77m² ,28 Jul 2015
+"625,000 ","803/252 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,50m² ,27 Jul 2015
+"921,000 ","32/57 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,97m² ,29 Jun 2015
+"2,465,000 ","1205/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,139m² ,2015
+"2,000,000 ","902/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,2015
+"650,000","247/298-304 Sussex St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,59m² ,26 May 2015
+"1,250,000","275 / 158 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,01 May 2015
+"3,500,000","2703/183 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,4,2,337m² ,16 Apr 2015
+"1,100,000 ","805/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,8 Apr 2015
+"1,280,000 ","503/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,111m² ,31 Mar 2015
+"1,150,000","209 / 158 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,117m² ,27 Mar 2015
+"1,575,000 ","915/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,27 Mar 2015
+"815,000","55/107 Quay Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,26 Mar 2015
+"690,000 ","214/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,62m² ,3 Mar 2015
+"900,000 ","704/125 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,−,92m² ,19 Mar 2015
+"1,275,000 ","61/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,91m² ,2015
+"1,275,000 ","61/181 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,91m² ,2015
+"853,000 ","260/398 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,89m² ,16 Mar 2015
+"1,700,000 ","12/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,16 Mar 2015
+"1,700,000 ","12/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,16 Mar 2015
+"1,400,000 ","1803/38 Bridge Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,120m² ,2015
+"920,000 ","510/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,2015
+"870,000 ","64/416 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,2015
+"1,550,000","705/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,136m² ,06 Mar 2015
+"870,000 ","64/416 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,2015
+"605,000 ","612 / 37 King Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,65m² ,05 Mar 2015
+"935,000 ","151 / 365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,109m² ,25 Feb 2015
+"1,400,000","60/68 Sir John Young Crescent,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,11 Feb 2015
+"900,000","64/267 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,107m² ,10 Feb 2015
+"860,000 ","1003 343 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,05 Feb 2015
+"1,350,000 ","S1008/178 Thomas Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,99m² ,03 Feb 2015
+"1,774,200 ","19 B / 171 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,149m² ,02 Feb 2015
+"890,000 ","22 / 259 Clarence Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,104m² ,2015
+"1,150,000 ","4309/93 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,115m² ,23 Jan 2015
+"625,000 ","124/420 Pitt St,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,105m² ,19 Dec 2014
+"900,000","6C/161 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,86m² ,17 Dec 2014
+"520,000","1208/2 Cunningham St,",SYDNEY NSW 2000,Studio,− 0,1,−,62m² ,29 Oct 2014
+"1,600,000 ","201 / 157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,128m² ,16 Oct 2014
+"1,425,000 ","504/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,2,156m² ,2014
+"69,000","1101/185 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,161m² ,26 Sep 2014
+"2,750,000 ","2401/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,170m² ,17 Sep 2014
+"590,000 ","312/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,67m² ,2014
+"515,000 ","227/298-304 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,59m² ,01 Jul 2014
+"1,900,000 ","46/1 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,84m² ,2014
+"940,000 ","1506/591 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,111m² ,2014
+"590,000 ","808/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,60m² ,10 Jun 2014
+"1,500,000","1909/28 Harbour St,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,4,3,256m² ,23 May 2014
+"2,880,000","2705/183 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,4,2,332m² ,02 May 2014
+"825,000 ","44/569 George Street,,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,119m² ,30 Apr 2014
+"810,000","232 158 Day Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,115m² ,2014
+"1,391,000","155/361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,165m² ,5 Apr 2014
+"700,000 ","578 / 317-321 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,130m² ,2014
+"1,745,000","13A/161 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,2,148m² ,11 Apr 2014
+"1,110,000 ","2609/70 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,98m² ,25 Mar 2014
+"1,475,000","1A/161 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,2,206m² ,17 Mar 2014
+"1,868,800 ","1501/28 Harbour Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,4,4,2,291m² ,12 Mar 2014
+"580,000 ","1606/281 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,63m² ,2014
+"900,000","32/137 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,124m² ,10 Mar 2014
+"595,000 ","148 Elizabeth Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,68m² ,07 Mar 2014
+"888,000","Cunningham St,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,103m² ,06 Mar 2014
+"1,200,000 ","171 Gloucester Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,140m² ,28 Feb 2014
+"1,000,000","17C/161 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,84m² ,24 Feb 2014
+"1,370,000 ","91/849 George Street,,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,3,255m² ,03 Feb 2014
+"695,000","908/2 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,83m² ,30 Jan 2014
+"900,000","7C/161 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,86m² ,21 Jan 2014
+"685,000","603/187 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,81m² ,20 Jan 2014
+"480,000 ","146/298 Sussex Sydney,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,51m² ,10 Jan 2014
+"1,430,000 ",,SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,132m² ,
+"582,000","Cunningham Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,−,89m² ,28 Nov 2013
+"850,000","Quay Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,26 Nov 2013
+"3,250,000 ","2802/157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,197m² ,20 Nov 2013
+"582,500 ","15 361 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,72m² ,18 Nov 2013
+"535,000 ","510/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,57m² ,15 Nov 2013
+"1,030,000 ","3010/70 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,101m² ,15 Nov 2013
+"289,500 ","302/1 Hosking Pl,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,56m² ,15 Nov 2013
+"1,139,000","3502/2 Quay Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,1,150m² ,12 Nov 2013
+"1,082,000 ","505/35 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,148m² ,2013
+"1,210,000 ","H205/2 Quay Street,,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,175m² ,09 Nov 2013
+"2,000,000 ","3101 68 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,166m² ,07 Nov 2013
+"895,000 ","404/45 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,28 Oct 2013
+"1,425,000 ","3909/91-95 Liverpool St,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,149m² ,28 Oct 2013
+"875,000 ",,SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,74m² ,18 Oct 2013
+"1,100,000","405/23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,3,1,157m² ,15 Oct 2013
+"585,000 ","296/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,61m² ,15 Oct 2013
+"1,968,000 ","5201 343 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,215m² ,01 Oct 2013
+"900,000 ","364/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,2,140m² ,2013
+"625,000 ","359/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,78m² ,2013
+"688,000","84/416-418 Pitt St.,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,118m² ,16 Aug 2013
+"1,075,000 ","513/61 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,79m² ,12 Aug 2013
+"860,000 ","A1207/339 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,82m² ,08 Aug 2013
+"870,000","5903/93 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,82m² ,31 Jul 2013
+"758,000 ","707/591 George St.,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,123m² ,25 Jul 2013
+"2,000,000 ","1602 The Hyde 157 Liverpool Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,139m² ,19 Jul 2013
+"600,000 ","62/398 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,1,1,88m² ,01 Jul 2013
+"845,000","8c/161 Kent Street Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,86m² ,03 Jun 2013
+"890,000","203/38 Hickson Road,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,126m² ,10 May 2013
+"1,075,000 ","3103 68 Market Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,04 Apr 2013
+"989,000","1603/5 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,04 Mar 2013
+"989,000","1603/5 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,04 Mar 2013
+"525,000 ","515/2 York Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,55m² ,20 Feb 2013
+"1,395,000","2306/183 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,133m² ,13 Feb 2013
+"618,000 ","1904/2 Cunningham Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,−,89m² ,21 Dec 2012
+"1,285,000","905 23 Shelley Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,2,2,188m² ,19 Dec 2012
+"1,025,000","1504/101 Bathurst Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,88m² ,13 Nov 2012
+"480,000 ","QG29/8 QUAY,",SYDNEY NSW 2000,Studio,− 0,1,−,58m² ,08 Nov 2012
+"507,500","209/187 Kent Street Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,63m² ,02 Nov 2012
+"545,000","811/187 Kent Street Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,56m² ,26 Oct 2012
+"985,000","1006/183 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,128m² ,18 Oct 2012
+"560,000","3503A/393 Pitt Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,84m² ,08 Jul 2012
+"545,008","1/365 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,113m² ,25 Jun 2012
+"4,900,000","76/3 Macquarie Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,3,3,2,202m² ,09 May 2012
+"820,000","20C/161 Kent Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,2,1,88m² ,22 Mar 2012
+"780,000","605/1 Boomerang Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,91m² ,2012
+"410,000 ","1206/199 Castlereagh Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,57m² ,08 Feb 2012
+"640,000 ","139/365 kent st,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,99m² ,23 Dec 2011
+"430,000","65 / 278 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,−,75m² ,09 Nov 2011
+"535,000 ","213/298 Sussex Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,130m² ,29 Jul 2011
+"675,000","2/569 George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,198m² ,29 Jul 2011
+"515,000 ","1003/199 CASTLEREAGH ST,",SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,74m² ,24 Feb 2011
+"1,050,000 ",,SYDNEY NSW 2000,Apartment / Unit / Flat,1,1,1,78m² ,30 Jun 2009
+"665,000 ","George Street,",SYDNEY NSW 2000,Apartment / Unit / Flat,2,2,1,152m² ,
+"807,000 ","4/1-5 Harwood Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,100m² ,26 Apr 2024
+"1,700,000 ","33/41-49 Roslyn Gardens,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,2,1,73m² ,4 Apr 2024
+"1,650,000 ","1086/1 Steam Mill Lane,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,105m² ,19 Apr 2024
+"1,340,000 ","150/120 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,123m² ,12 Apr 2024
+"1,018,000 ","355/303-321 Castlereagh Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,2,137m² ,11 Apr 2024
+"1,120,000 ","119/50 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,65m² ,9 Apr 2024
+"860,000 ","A806/24 Point Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,68m² ,05 Apr 2024
+"1,150,000 ","507/21 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,66m² ,27 Mar 2024
+"1,550,000 ","1505/50 Murray Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,94m² ,26 Mar 2024
+"1,300,000 ","181/102 Miller Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,127m² ,22 Mar 2024
+"2,405,000 ","207/1a Clement Place,",RUSHCUTTERS BAY NSW 2011,Apartment / Unit / Flat,2,2,1,119m² ,21 Mar 2024
+"850,000 ","221/88 Dowling Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,1,80m² ,20 Mar 2024
+"1,450,000 ","202/3 Scott Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,130m² ,19 Mar 2024
+"1,040,000 ","9/85 Bourke Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,−,76m² ,19 Mar 2024
+"837,000 ","1/6 Cross Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,73m² ,2024
+"509,000 ","203/243 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,−,56m² ,15 Mar 2024
+"2,950,000 ","31/8 Greenknowe Avenue,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,2,1,123m² ,4 Mar 2024
+"1,396,000 ","702/2 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,1,71m² ,2024
+"1,660,000 ","6/29-35 Roslyn Gardens,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,1,1,103m² ,2024
+"1,200,000 ","34/149 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,130m² ,13 Mar 2024
+"1,232,000","8/12-22 Corben Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,1,99m² ,13 Mar 2024
+"625,000 ","66/313 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,73m² ,11 Mar 2024
+"4,230,000 ","203/15 Pirrama Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,195m² ,2024
+"753,000 ","64/679 Bourke Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,54m² ,08 Mar 2024
+"1,050,000 ","6/281 Bourke Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,59m² ,7 Mar 2024
+"940,000","14/5-7 Earl Place,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,2,−,78m² ,5 Mar 2024
+"749,900","801/287 Pyrmont Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,85m² ,04 Mar 2024
+"1,675,000 ","15/8 Greenknowe Avenue,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,1,80m² ,2024
+"1,600,000 ","901/23 Pelican St,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,121m² ,01 Mar 2024
+"1,200,000 ","512/105 Campbell Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,99m² ,01 Mar 2024
+"1,250,000 ","11/13 Springfield Avenue,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,86m² ,2024
+"1,600,000 ","14/3 Clement Street,",RUSHCUTTERS BAY NSW 2011,Apartment / Unit / Flat,2,1,1,84m² ,29 Feb 2024
+"1,750,000 ","3/4 Tambua Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,159m² ,28 Feb 2024
+"875,000 ","5/84 McLachlan Avenue,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,1,54m² ,7 Feb 2024
+"1,028,000 ","26/152-164 Bulwara Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,121m² ,26 Feb 2024
+"1,025,000 ","106/2a Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,60m² ,3 Feb 2024
+"950,000 ","260/398-408 Pitt Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,1,1,89m² ,3 Feb 2024
+"585,500","96/107 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,54m² ,20 Feb 2024
+"1,800,000 ","305/8 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,142m² ,20 Feb 2024
+"1,740,000 ","20/3 Clement Street,",RUSHCUTTERS BAY NSW 2011,Apartment / Unit / Flat,2,1,1,84m² ,0 Feb 2024
+"700,000 ","244/420-426 Pitt Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,63m² ,2024
+"1,005,000 ","216/13-15 Bayswater Road,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,1,78m² ,7 Feb 2024
+"818,000 ","9/342 Bourke Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,58m² ,2024
+"2,080,000 ","2205/82 Hay St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,101m² ,16 Feb 2024
+"1,550,000 ","401/2 Springfield Avenue,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,1,92m² ,2024
+"1,395,000","105/37 Bayswater Road,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,2,−,88m² ,6 Feb 2024
+"730,000","307/88 Dowling Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,1,60m² ,16 Feb 2024
+"1,635,000 ","45/60-70 William Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,2,2,1,117m² ,15 Feb 2024
+"1,000,000 ","118/2-26 Wattle Crescent,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,124m² ,14 Feb 2024
+"1,300,000 ","7/281 Bourke Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,69m² ,9 Feb 2024
+"800,000 ","141/120 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,88m² ,09 Feb 2024
+"615,000 ","1202/243 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,68m² ,09 Feb 2024
+"2,170,000 ","407/50 Burton Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,2,1,117m² ,08 Feb 2024
+"860,000 ","53/12 Wylde Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,54m² ,8 Feb 2024
+"1,234,567 ","10/22-24 Kings Cross Road,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,1,53m² ,5 Feb 2024
+"820,000 ","2/181 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,62m² ,1 Feb 2024
+"960,000 ","802/425 Bourke Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,79m² ,1 Jan 2024
+"830,000 ","635/243 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,−,89m² ,25 Jan 2024
+"1,270,000 ","52/2-10 Quarry Master Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,126m² ,3 Jan 2024
+"740,000 ","67/82 Mary Ann Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,97m² ,23 Jan 2024
+"660,000 ","9/134 Bulwara Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,−,64m² ,22 Jan 2024
+"1,080,000","41/102 Miller Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,141m² ,28 Dec 2023
+"680,000 ","957/243 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,70m² ,21 Dec 2023
+"1,100,000","28/102 Albion Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,1,104m² ,20 Dec 2023
+"1,550,000","20108/431-433 Bourke Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,125m² ,2023
+"1,328,000","1708/2 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,122m² ,15 Dec 2023
+"2,200,000 ","3293/65 Tumbalong BLVD,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,100m² ,15 Dec 2023
+"1,150,000 ","611/199 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,2,120m² ,15 Dec 2023
+"1,675,000","305/18-28 Neild Avenue,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,2,1,127m² ,07 Dec 2023
+"1,015,000 ","4/114 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,53m² ,07 Dec 2023
+"1,875,000 ","37/68 Sir John Young Crescent,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,2,2,1,110m² ,7 Dec 2023
+"2,350,000 ","401/66 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,196m² ,06 Dec 2023
+"2,428,000 ","602/15 Barangaroo Avenue,",BARANGAROO NSW 2000,Apartment / Unit / Flat,1,1,1,83m² ,30 Nov 2023
+"850,000","2/152 Bulwara Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,142m² ,29 Nov 2023
+"2,600,000 ","21/1-27 Murray Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,179m² ,29 Nov 2023
+"575,000 ","809/349 Bulwara Road,",ULTIMO NSW 2007,Studio,− 0,1,−,55m² ,29 Nov 2023
+"1,660,000 ","502/21 Barangaroo Ave,",BARANGAROO NSW 2000,Apartment / Unit / Flat,1,1,−,67m² ,28 Nov 2023
+"1,480,000 ","187/303-307 Castlereagh Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,3,2,2,204m² ,28 Nov 2023
+"920,000","103/174-186 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,88m² ,28 Nov 2023
+"1,442,000 ","705/73 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,1,70m² ,7 Nov 2023
+"1,250,000 ","13/99 Flinders St,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,1,119m² ,24 Nov 2023
+"615,000 ","1602/2-4 Cunningham Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,50m² ,23 Nov 2023
+"4,000,000 ","801/40 Refinery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,186m² ,23 Nov 2023
+"1,700,000 ","1156/1 Steam Mill Lane,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,106m² ,22 Nov 2023
+"640,000 ","502/1 Wattle Crescent,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,−,57m² ,22 Nov 2023
+"1,525,000 ","35 Refinery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,135m² ,0 Nov 2023
+"1,245,000 ","S401/233 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,125m² ,2023
+"1,025,000 ","34/60-70 William Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,−,57m² ,17 Nov 2023
+"690,000","312/478 Wattle Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,76m² ,15 Nov 2023
+"1,880,000","1604/45 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,138m² ,10 Nov 2023
+"1,525,000","16/460 Elizabeth Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,3,2,2,135m² ,2023
+"550,000 ","15/163-165 Dowling Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,1,52m² ,10 Nov 2023
+"710,000","2/35-37 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,70m² ,07 Nov 2023
+"1,200,000","109/81 Foveaux Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,−,97m² ,03 Nov 2023
+"1,068,000","1/12-22 Corben Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,−,98m² ,03 Nov 2023
+"740,000","79/82 Mary Ann Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,79m² ,01 Nov 2023
+"210,000","2139/185 Broadway,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,56m² ,01 Nov 2023
+"1,050,000 ","1003/58 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,2,1,122m² ,01 Nov 2023
+"1,200,000","212/1 Wattle Crescent,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,105m² ,31 Oct 2023
+"1,310,000 ","A404/24 Point Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,96m² ,2023
+"1,272,000 ","B304/24 Point Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,87m² ,2023
+"4,000,000 ","11/56 Pirrama Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,2,199m² ,27 Oct 2023
+"3,500,000 ","601/45 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,186m² ,25 Oct 2023
+"820,000 ","579/317 Castlereagh Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,23 Oct 2023
+"2,300,000 ","4C/4 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,146m² ,18 Oct 2023
+"905,000","83/209 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,86m² ,2023
+"925,000 ","1211/82 Hay St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,1,−,61m² ,13 Oct 2023
+"690,000 ","402/208 Chalmers Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,71m² ,13 Oct 2023
+"925,000 ","70/267 Bulwara Road,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,1,1,82m² ,13 Oct 2023
+"1,520,000 ","804/2 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,1,78m² ,2023
+"800,000 ","306/177 William Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,52m² ,0 Oct 2023
+"1,830,000","10/300 Riley Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,120m² ,2023
+"2,025,000 ","705/45 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,132m² ,6 Oct 2023
+"1,550,000","11/12-22 Corben Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,1,134m² ,06 Oct 2023
+"801,000 ","1106/174 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,55m² ,04 Oct 2023
+"1,280,000 ","106/199 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,146m² ,29 Sep 2023
+"2,200,000 ","23/123 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,105m² ,8 Sep 2023
+"1,775,000 ","1004/41 Refinery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,2,137m² ,26 Sep 2023
+"602,000 ","505/38 College Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,50m² ,22 Sep 2023
+"927,000 ","346/303-321 Castlereagh Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,123m² ,22 Sep 2023
+"900,000 ","10/238 William Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,67m² ,20 Sep 2023
+"905,000 ","42/4 Ward Avenue,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,55m² ,18 Sep 2023
+"1,100,000 ","1/152-164 Bulwara Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,184m² ,18 Sep 2023
+"729,000 ","911/70 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,85m² ,18 Sep 2023
+"1,300,000 ","406/21 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,74m² ,7 Sep 2023
+"1,385,000 ","30/9-19 Nickson Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,2,110m² ,16 Sep 2023
+"1,800,000 ","402/1A Tusculum Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,1,75m² ,5 Sep 2023
+"1,200,000 ","62/122 Saunders Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,111m² ,15 Sep 2023
+"2,105,000 ","510/1 Boomerang Place,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,2,1,121m² ,5 Sep 2023
+"645,000 ","305/380 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,61m² ,4 Sep 2023
+"875,000 ","508/174 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,69m² ,12 Sep 2023
+"1,395,000","1029/20 Pelican Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,72m² ,2023
+"880,000 ","1904/2-4 Cunningham Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,−,89m² ,08 Sep 2023
+"765,000 ","53/1-5 Harwood Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,81m² ,07 Sep 2023
+"925,000 ","386/303-321 Castlereagh Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,02 Sep 2023
+"800,000 ","16/849 George Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,2,1,103m² ,02 Sep 2023
+"800,000 ","567/317 Castlereagh St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,119m² ,31 Aug 2023
+"925,000 ","316/303-321 Castlereagh Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,119m² ,30 Aug 2023
+"1,050,675 ","1/2 Evans Road,",RUSHCUTTERS BAY NSW 2011,Apartment / Unit / Flat,2,1,−,70m² ,9 Aug 2023
+"2,100,000 ","19/123 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,105m² ,2023
+"965,000 ","4/5 Oak Lane,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,57m² ,1 Aug 2023
+"1,040,000 ","402/78 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,2,1,116m² ,18 Aug 2023
+"2,530,000 ","Level 21/81 Harbour St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,119m² ,16 Aug 2023
+"940,000 ","801/20 Pelican Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,59m² ,2023
+"1,100,000 ","21/33 Reservoir Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,82m² ,12 Aug 2023
+"870,000 ","3331/65 Tumbalong Boulevard,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,55m² ,09 Aug 2023
+"880,000","29/492-500 Elizabeth Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,1,79m² ,07 Aug 2023
+"1,335,000 ","506/50 Burton Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,1,73m² ,4 Aug 2023
+"1,148,000 ","77/4 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,55m² ,2023
+"1,370,000 ","64/149 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,130m² ,2023
+"750,000 ","639/99 Jones Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,81m² ,28 Jul 2023
+"1,775,000 ","84/122 Saunders Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,182m² ,7 Jul 2023
+"1,100,000 ","107/152 Bulwara Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,132m² ,27 Jul 2023
+"900,000 ","30/85 Bourke Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,−,58m² ,26 Jul 2023
+"1,745,000 ","1152/1 Steam Mill lane,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,102m² ,25 Jul 2023
+"1,380,000 ","511/50 Murray Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,112m² ,5 Jul 2023
+"775,000 ","401/241-247 Crown Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,60m² ,0 Jul 2023
+"1,100,000 ","S210/233 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,112m² ,20 Jul 2023
+"825,000 ","161/107 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,1,85m² ,19 Jul 2023
+"810,000 ","3221/65 Tumbalong Boulevard,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,54m² ,19 Jul 2023
+"1,500,000 ","703/517 Harris Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,2,1,110m² ,14 Jul 2023
+"1,500,000 ","A21/14 Quarry Master Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,203m² ,13 Jul 2023
+"400,000 ","707/2 Cunningham St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,63m² ,07 Jul 2023
+"3,660,000 ","4A/5 Tambua Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,210m² ,7 Jul 2023
+"1,250,000 ","65/122 Saunders Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,122m² ,05 Jul 2023
+"1,808,000 ","3405/81 Harbour St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,1,85m² ,04 Jul 2023
+"890,000 ","103/267 Bulwara Road,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,1,1,82m² ,03 Jul 2023
+"801,000 ","91/209 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,71m² ,2023
+"1,245,000 ","3/2-4 St Neot Avenue,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,75m² ,2023
+"1,900,000 ","3501/2-4 Cunningham Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,3,3,2,175m² ,26 Jun 2023
+"901,000 ","1108/174 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,71m² ,22 Jun 2023
+"8,250,000 ","4/56 Pirrama Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,3,2,315m² ,2023
+"2,550,000 ","2707/81 Harbour St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,118m² ,16 Jun 2023
+"1,020,000 ","158/107 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,109m² ,16 Jun 2023
+"2,400,000 ","2805/82 Hay St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,2,122m² ,15 Jun 2023
+"5,250,000 ","12/10 Wylde Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,3,2,2,146m² ,5 Jun 2023
+"900,000 ","31/111 Foveaux Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,2,−,87m² ,14 Jun 2023
+"900,000","31/111 Foveaux Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,87m² ,13 Jun 2023
+"1,280,000 ","321/99 Jones Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,2,1,141m² ,09 Jun 2023
+"1,370,000 ","401/22 Point Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,92m² ,07 Jun 2023
+"1,550,000","76/122 Saunders Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,179m² ,07 Jun 2023
+"805,000 ","401/58 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,84m² ,07 Jun 2023
+"1,355,000 ","3/8 Greenknowe Avenue,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,1,98m² ,6 Jun 2023
+"2,485,000 ","2/15 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,155m² ,6 Jun 2023
+"1,730,000 ","21/100 Barcom Avenue,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,2,1,109m² ,2023
+"1,580,000 ","84/149 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,2,226m² ,2 Jun 2023
+"1,100,000","1207/156 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,1,72m² ,02 Jun 2023
+"685,000 ","12/2 Brisbane Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,57m² ,31 May 2023
+"1,020,500 ","4/96 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,65m² ,9 May 2023
+"515,640 ","108/28 Macleay Street,",POTTS POINT NSW 2011,Studio,− 0,1,−,56m² ,29 May 2023
+"845,000 ","9/34 Kings Cross Rd,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,60m² ,2023
+"1,630,000 ","201/228 Elizabeth Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,100m² ,23 May 2023
+"2,000,000 ","513/2a Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,2,1,90m² ,2 May 2023
+"940,000 ","402/320 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,81m² ,2023
+"8,200,000","63/18 College Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,3,3,2,204m² ,18 May 2023
+"1,440,000 ","205/6a Birtley Place,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,1,1,80m² ,7 May 2023
+"1,135,000 ","105/117 Kippax Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,69m² ,7 May 2023
+"1,135,000 ","105/117 Kippax Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,69m² ,7 May 2023
+"1,135,000 ","105/117 Kippax Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,69m² ,7 May 2023
+"1,407,000 ","31/61-89 Buckingham Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,3,1,1,117m² ,2023
+"1,407,000 ","31/61-89 Buckingham Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,3,1,1,117m² ,2023
+"1,781,000 ","201/8-10 Fitzroy Place,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,104m² ,13 May 2023
+"1,300,000 ","719/226 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,66m² ,11 May 2023
+"1,290,000 ","1804/82 Hay St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,1,1,75m² ,09 May 2023
+"1,020,000 ","30/2 Greenknowe Avenue,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,1,60m² ,8 May 2023
+"1,320,000 ","50/1-29 Bunn Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,118m² ,08 May 2023
+"2,000,000 ","4E/2 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,131m² ,2023
+"1,200,000 ","617/50-58 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,1,54m² ,4 May 2023
+"2,340,000","601/135 Point Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,195m² ,04 May 2023
+"860,000 ","27/60-70 William Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,−,57m² ,04 May 2023
+"2,270,000 ","3237/65 Tumbalong Boulevard,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,110m² ,28 Apr 2023
+"1,950,000 ","1404/81 Harbour street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,92m² ,28 Apr 2023
+"1,400,000 ","148/120-140 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,125m² ,7 Apr 2023
+"960,000 ","301/417 Bourke Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,78m² ,7 Apr 2023
+"2,220,000 ","5C/5 Tambua Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,146m² ,26 Apr 2023
+"985,000 ","18/18 Oxford Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,1,1,103m² ,21 Apr 2023
+"660,000","502/280 Jones Street,",PYRMONT NSW 2009,Studio,− 0,1,1,63m² ,21 Apr 2023
+"1,050,000 ","3299/65 Tumbalong Blvd,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,19 Apr 2023
+"935,000 ","130/120 Saunders Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,92m² ,17 Apr 2023
+"675,000 ","604/58 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,70m² ,14 Apr 2023
+"2,026,500 ","65/60-70 William Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,2,2,1,117m² ,2023
+"820,000 ","190/107 Quay St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,1,75m² ,12 Apr 2023
+"810,000 ","B806/444 Harris Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,82m² ,11 Apr 2023
+"4,050,000","602/31 Barangaroo Avenue,",BARANGAROO NSW 2000,Apartment / Unit / Flat,2,2,1,126m² ,08 Apr 2023
+"830,000 ","124/120 Saunders Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,2,106m² ,04 Apr 2023
+"860,000","701/20 Pelican Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,56m² ,2023
+"1,480,000","705/2 Jones Bay Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,77m² ,03 Apr 2023
+"2,760,000 ","51/56 Pirrama Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,123m² ,2023
+"720,000","34/80 Fig Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,82m² ,2023
+"1,900,000 ","8/10 Wylde Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,1,87m² ,31 Mar 2023
+"3,850,000 ","802/2 Mount Street Walk,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,200m² ,31 Mar 2023
+"1,260,000 ","906/2A Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,1,62m² ,2023
+"11,300,000 ","331/3 Darling Island Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,3,3,356m² ,2023
+"1,050,000 ","1501/2-4 Cunningham Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,103m² ,27 Mar 2023
+"1,150,000 ","708/280 Jones Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,118m² ,27 Mar 2023
+"500,000 ","232/243 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,−,54m² ,27 Mar 2023
+"1,300,000 ","610/1 Poplar Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,116m² ,7 Mar 2023
+"3,075,000 ","402/35 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,204m² ,25 Mar 2023
+"2,400,000","59/1-27 Murray Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,3,2,208m² ,24 Mar 2023
+"1,250,000 ","216/50 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,1,53m² ,3 Mar 2023
+"910,000 ","1002/23 Pelican Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,69m² ,3 Mar 2023
+"1,165,000 ","112/320 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,106m² ,21 Mar 2023
+"725,000 ","5/23 Billyard Avenue,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,59m² ,2023
+"3,480,000","302/2-4 Mount Street Walk,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,202m² ,20 Mar 2023
+"1,006,000 ","507/70-78 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,1,1,82m² ,2023
+"2,475,000 ","18F/4 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,2,148m² ,6 Mar 2023
+"1,700,000 ","102/6 Cowper Wharf Roadway,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,1,97m² ,2023
+"1,400,000 ","311/6A Birtley Place,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,1,−,82m² ,8 Mar 2023
+"765,000 ","4/21 St Neot Avenue,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,76m² ,1 Mar 2023
+"1,700,000","1405/8 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,136m² ,28 Feb 2023
+"1,242,000","1110/178 Thomas Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,85m² ,24 Feb 2023
+"1,500,000 ","805/12 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,76m² ,4 Feb 2023
+"1,550,000 ","512/50 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,1,92m² ,4 Feb 2023
+"830,000 ","903/174 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,59m² ,24 Feb 2023
+"825,000 ","717/349 Bulwara Road,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,62m² ,23 Feb 2023
+"610,000","8/185A Bourke Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,51m² ,2 Feb 2023
+"635,010 ","212/62 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,70m² ,22 Feb 2023
+"1,050,000 ","223/102 Miller Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,97m² ,0 Feb 2023
+"1,500,000 ","709/105 Campbell Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,124m² ,20 Feb 2023
+"975,000 ","624/16-20 Smail Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,2,1,113m² ,0 Feb 2023
+"4,100,000 ","712/50 Murray Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,155m² ,2023
+"7,150,000 ","1601/21 Cadigal Avenue,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,277m² ,2023
+"655,000 ","501/78 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,54m² ,17 Feb 2023
+"1,700,000 ","2805/81 Harbour St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,1,1,88m² ,16 Feb 2023
+"505,000 ","311/243 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,−,58m² ,16 Feb 2023
+"2,950,000 ","14/1-27 Murray Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,211m² ,5 Feb 2023
+"1,035,000 ","302/318 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,103m² ,5 Feb 2023
+"1,260,000 ","518/50 Burton Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,1,76m² ,2023
+"880,000 ","407/2 Neild Avenue,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,68m² ,1 Feb 2023
+"1,220,000 ","808/199 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,2,86m² ,2023
+"1,500,000 ","611/2 Springfield Avenue,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,1,75m² ,8 Feb 2023
+"535,000 ","643/243 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,−,58m² ,08 Feb 2023
+"2,700,000 ","3357/65 Tumbalong Bvd,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,112m² ,07 Feb 2023
+"3,350,000","3A/2 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,195m² ,6 Feb 2023
+"657,500 ","617/16-20 Smail Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,74m² ,2023
+"1,300,000 ","902/82 Hay St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,1,1,73m² ,28 Jan 2023
+"995,000 ","97/107 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,112m² ,23 Jan 2023
+"1,745,000 ","3502/2 Cunningham Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,3,3,2,156m² ,2022
+"1,650,000","196/107 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,3,3,2,145m² ,22 Dec 2022
+"1,200,000 ","24/204 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,1,87m² ,22 Dec 2022
+"507,500 ","208/420 Pitt Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,62m² ,21 Dec 2022
+"1,275,000 ","502/2 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,1,71m² ,17 Dec 2022
+"2,200,000 ","15E/2 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,137m² ,16 Dec 2022
+"745,000 ","78/6-18 Poplar Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,83m² ,16 Dec 2022
+"2,480,000 ","10/80 John Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,286m² ,14 Dec 2022
+"840,000","507/280 Bulwara Road,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,1,−,83m² ,13 Dec 2022
+"620,000 ","710/38 College Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,57m² ,12 Dec 2022
+"625,000 ","312/2-12 Smail Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,56m² ,12 Dec 2022
+"1,600,000 ","1103/82 Hay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,109m² ,09 Dec 2022
+"2,100,000 ","1003/2 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,2,1,96m² ,2022
+"1,630,000","3088/65 Tumbalong Blvd,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,99m² ,07 Dec 2022
+"3,925,000 ","1301/45 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,189m² ,07 Dec 2022
+"685,000","208/2 Jones Bay Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,64m² ,05 Dec 2022
+"760,000 ","4/1-5 Harwood Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,100m² ,02 Dec 2022
+"3,300,000 ","38/56 Pirrama Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,143m² ,01 Dec 2022
+"500,000 ","69/50-58 Roslyn Gardens,",RUSHCUTTERS BAY NSW 2011,Block of units,1,1,1,"2,397m² ",30 Nov 2022
+"1,130,000 ","43/150 Forbes Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,2,1,1,139m² ,0 Nov 2022
+"1,285,000","5/339 Liverpool Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,87m² ,2022
+"850,500 ","222/420 Pitt Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,23 Nov 2022
+"1,520,000 ","303/21 Cadigal Avenue,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,132m² ,18 Nov 2022
+"1,550,000 ","131/6 Cowper Wharf Roadway,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,−,86m² ,18 Nov 2022
+"835,000 ","3/188 Campbell Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,1,−,51m² ,16 Nov 2022
+"1,190,000 ","803/2 Jones Bay Rd,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,95m² ,11 Nov 2022
+"2,275,000 ","315/50 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,2,1,134m² ,2022
+"3,180,000 ","16 Cadigal Avenue,",PYRMONT NSW 2009,Townhouse,3,2,2,257m² ,2022
+"775,000 ","52/149-197 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,124m² ,8 Nov 2022
+"644,000 ","511/62 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,70m² ,07 Nov 2022
+"1,350,000 ","1/128 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,82m² ,03 Nov 2022
+"5,000,000 ","Penthouse 701/10-14 Cooper Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,3,3,2,318m² ,03 Nov 2022
+"820,000","5/16 Clement Street,",RUSHCUTTERS BAY NSW 2011,Apartment / Unit / Flat,1,1,−,55m² ,2022
+"2,260,000 ","205/161 Brougham Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,2,2,1,98m² ,1 Oct 2022
+"700,000 ","32/1-5 Harwood Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,95m² ,28 Oct 2022
+"930,000 ","10/18-22 Hardie Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,62m² ,2022
+"2,100,000 ","803/2 Elizabeth Bay Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,2,2,1,96m² ,27 Oct 2022
+"860,000 ","314/303 Castlereagh Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,131m² ,26 Oct 2022
+"1,030,000 ","508/46 Wentworth Avenue,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,62m² ,2022
+"2,600,000 ","1001/280 Jones Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,288m² ,1 Oct 2022
+"710,000 ","706/78 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,73m² ,21 Oct 2022
+"1,560,000 ","3 West End Lane,",ULTIMO NSW 2007,Townhouse,3,2,1,135m² ,18 Oct 2022
+"1,130,000 ","1410/1 Kings Cross Road,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,1,82m² ,12 Oct 2022
+"1,910,000 ","2C/4 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,141m² ,12 Oct 2022
+"3,850,000","3203/184 Forbes Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,2,2,140m² ,1 Oct 2022
+"1,140,000 ","B821/444 Harris Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,2,2,1,103m² ,7 Oct 2022
+"865,000 ","303/83 Harbour Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,68m² ,06 Oct 2022
+"1,480,000 ","20/97-99 Macleay Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,−,76m² ,6 Oct 2022
+"1,325,000 ","64/71 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,2,64m² ,6 Oct 2022
+"905,000 ","30/200 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,82m² ,05 Oct 2022
+"1,111,000 ","23/5-13 Hutchinson Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,117m² ,2022
+"3,825,000 ","105 Crown Street,",DARLINGHURST NSW 2010,Block of units,5,4,−,189m² ,30 Sep 2022
+"1,250,000 ","1036/1 Steam Mill Lane,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,1,1,98m² ,30 Sep 2022
+"2,300,000 ","609/41 Refinery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,153m² ,7 Sep 2022
+"2,500,000 ","10F/5 Tambua Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,149m² ,23 Sep 2022
+"750,000 ","803/6 Short Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,59m² ,23 Sep 2022
+"3,500,000 ","1203/45 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,178m² ,21 Sep 2022
+"660,000 ","36/149-197 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,79m² ,20 Sep 2022
+"1,330,000 ","1207/50 Murray Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,110m² ,2022
+"730,000 ","B813/444 Harris Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,89m² ,02 Sep 2022
+"1,380,000 ","2002/82 Hay St,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,1,1,89m² ,31 Aug 2022
+"640,000","211/1 Poplar Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,69m² ,2022
+"1,400,000 ","16/300 Riley Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,2,1,123m² ,26 Aug 2022
+"818,000","807/302-308 Crown Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,1,77m² ,24 Aug 2022
+"702,500","43/168 Goulburn Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,77m² ,23 Aug 2022
+"761,000 ","606/1 Poplar Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,62m² ,2022
+"670,000 ","2/93-99 Palmer Street,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,1,1,−,66m² ,2022
+"770,000 ","B907/62 Mountain Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,83m² ,12 Aug 2022
+"855,000 ","808/83 Harbour Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,1,1,−,68m² ,10 Aug 2022
+"775,000","33/4 Ithaca Road,",ELIZABETH BAY NSW 2011,Apartment / Unit / Flat,1,1,−,53m² ,2022
+"1,280,000 ","140/149 Pyrmont Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,2,210m² ,02 Aug 2022
+"1,545,000","8/281 Bourke Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,1,1,−,69m² ,2022
+"1,000,000","177/2-26 Wattle Crescent,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,1,153m² ,2022
+"720,000 ","105/1 Randle Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,2,1,−,87m² ,29 Jul 2022
+"630,000 ","107/478 Wattle Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,−,58m² ,29 Jul 2022
+"950,000 ","302/10 Cooper Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,−,66m² ,25 Jul 2022
+"988,000","1305/226 Victoria Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,59m² ,23 Jul 2022
+"1,050,000 ","179/102 Miller Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,108m² ,22 Jul 2022
+"700,000 ","82/104 Miller Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,−,55m² ,21 Jul 2022
+"3,350,000 ","4/25 Pirrama Road,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,2,2,178m² ,14 Jul 2022
+"1,950,000 ","107/1 Distillery Drive,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,137m² ,14 Jul 2022
+"650,000 ","S505/231-241 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,63m² ,11 Jul 2022
+"10,150,000 ","1202/2 Mount Street Walk,",PYRMONT NSW 2009,Apartment / Unit / Flat,3,3,2,418m² ,08 Jul 2022
+"1,200,000","410/320 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,121m² ,6 Jul 2022
+"1,410,000 ","25/67 Cowper Wharf Road,",WOOLLOOMOOLOO NSW 2011,Apartment / Unit / Flat,2,2,2,107m² ,06 Jul 2022
+"2,850,000 ","323/50 Burton Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,2,2,186m² ,01 Jul 2022
+"1,150,000","214/102 Miller Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,102m² ,01 Jul 2022
+"2,000,000 ","197/107 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,3,3,2,185m² ,2022
+"770,000 ","41/12 Wylde Street,",POTTS POINT NSW 2011,Apartment / Unit / Flat,1,1,−,54m² ,9 Jun 2022
+"2,250,000 ","1405/45 Bowman Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,2,2,1,137m² ,29 Jun 2022
+"1,170,000 ","74/107-121 Quay Street,",HAYMARKET NSW 2000,Apartment / Unit / Flat,2,2,1,120m² ,25 Jun 2022
+"4,410,000","11/18 College Street,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,2,1,193m² ,2022
+"1,230,000 ","26/288-306 Wattle Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,3,2,2,117m² ,7 Jun 2022
+"800,000 ","509/444 Harris Street,",ULTIMO NSW 2007,Apartment / Unit / Flat,1,1,1,98m² ,16 Jun 2022
+"750,000","110/209 Harris Street,",PYRMONT NSW 2009,Apartment / Unit / Flat,1,1,1,72m² ,15 Jun 2022
+"775,000 ","89/1 Pelican Street,",SURRY HILLS NSW 2010,Apartment / Unit / Flat,1,1,1,61m² ,15 Jun 2022
+"1,130,000 ","19/10 Earl Place,",POTTS POINT NSW 2011,Apartment / Unit / Flat,2,1,1,75m² ,13 Jun 2022
+"1,710,000","609/1 Kings Cross Road,",DARLINGHURST NSW 2010,Apartment / Unit / Flat,2,2,1,132m² ,2022

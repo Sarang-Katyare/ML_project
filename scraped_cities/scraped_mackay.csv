@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"462,000 ","1/9A Byron Street,",MACKAY QLD 4740,House,3,1,1,363m² ,23 Mar 2024
+"400,000 ","20 James Street,",MACKAY QLD 4740,House,3,2,6,842m² ,19 Mar 2024
+"409,000 ","12 Keats Street,",MACKAY QLD 4740,House,3,1,2,405m² ,08 Mar 2024
+"312,000 ","16 Gold Street,",MACKAY QLD 4740,House,3,1,1,405m² ,15 Feb 2024
+"380,000 ","58A Wellington Street,",MACKAY QLD 4740,House,4,1,2,677m² ,08 Feb 2024
+"370,000 ","49 Paradise Street,",MACKAY QLD 4740,House,3,2,2,809m² ,06 Feb 2024
+"330,000 ","3/21 Byron Street,",MACKAY QLD 4740,Duplex,2,1,1,244m² ,31 Jan 2024
+"467,000","354 Alfred Street,",MACKAY QLD 4740,House,3,2,2,682m² ,19 Jan 2024
+"320,000 ","3A Prospect Street,",MACKAY QLD 4740,House,3,1,4,696m² ,19 Dec 2023
+"595,000 ","19 Othello Street,",MACKAY QLD 4740,House,6,3,6,910m² ,01 Dec 2023
+"242,000","14/7 Prospect Street,",MACKAY QLD 4740,House,2,1,1,85m² ,30 Nov 2023
+"330,000 ","101 Milton Street,",MACKAY QLD 4740,House,4,1,2,581m² ,29 Nov 2023
+"530,000 ","12 Moore Street,",MACKAY QLD 4740,House,4,2,3,"1,012m² ",28 Nov 2023
+"280,000 ","19 Byron Street,",MACKAY QLD 4740,House,3,1,1,"1,012m² ",28 Nov 2023
+"750,000 ","53 Macalister Street,",MACKAY QLD 4740,House,4,2,2,960m² ,23 Nov 2023
+"372,000","UNIT 3/21 BODDINGTON STREET,",MACKAY QLD 4740,House,3,2,2,179m² ,
+"380,000 ","74 Carlyle Street,",MACKAY QLD 4740,House,3,1,2,429m² ,25 Oct 2023
+"550,000 ","22 Wentford Street,",MACKAY QLD 4740,House,3,2,4,809m² ,25 Oct 2023
+"357,000 ","24 James Street,",MACKAY QLD 4740,House,2,1,1,414m² ,09 Oct 2023
+"396,000 ","2 Jubilee Street,",MACKAY QLD 4740,House,3,1,1,378m² ,05 Oct 2023
+"370,000 ","153 Milton Street,",MACKAY QLD 4740,House,3,1,2,812m² ,01 Sep 2023
+"350,000 ","31 Peel Street,",MACKAY QLD 4740,House,3,1,1,705m² ,25 Aug 2023
+"230,000","4/11 Prospect Street,",MACKAY QLD 4740,House,2,1,1,67m² ,17 Aug 2023
+"342,050 ","19 Hinton Street,",MACKAY QLD 4740,House,3,2,2,809m² ,14 Aug 2023
+"347,000","6/59 MacAlister Street,",MACKAY QLD 4740,House,3,2,1,146m² ,10 Aug 2023
+"425,000 ","98 Kippen Street,",MACKAY QLD 4740,House,2,2,2,647m² ,27 Jul 2023
+"345,000 ","15 Griffin Street,",MACKAY QLD 4740,House,3,2,2,823m² ,19 Jul 2023
+"420,000 ","11 Park Street,",MACKAY QLD 4740,House,4,2,2,680m² ,17 Jul 2023
+"230,000 ","3/3 Hucker Street,",MACKAY QLD 4740,House,2,1,1,173m² ,14 Jul 2023
+"285,000 ","Unit 1/24 East Gordon Street,",MACKAY QLD 4740,House,1,1,1,113m² ,10 Jul 2023
+"194,000 ","11/19 Prospect Street,",MACKAY QLD 4740,House,2,1,1,93m² ,13 Jun 2023
+"373,500 ","11 Norris Street,",MACKAY QLD 4740,House,3,2,2,441m² ,12 Jun 2023
+"480,000 ","24 Hinton Street,",MACKAY QLD 4740,House,3,2,2,809m² ,09 Jun 2023
+"313,000 ","1B Howard Street,",MACKAY QLD 4740,House,2,1,1,165m² ,02 Jun 2023
+"830,000 ","4 Hinton Street,",MACKAY QLD 4740,House,5,2,6,809m² ,17 May 2023
+"320,000 ","313 Shakespeare Street,",MACKAY QLD 4740,House,3,1,−,816m² ,05 May 2023
+"400,000 ","1 Grant Street,",MACKAY QLD 4740,House,4,1,3,804m² ,03 May 2023
+"180,000 ","51 Wellington Street,",MACKAY QLD 4740,House,2,1,2,663m² ,04 Apr 2023
+"310,000 ","3 Prospect Street,",MACKAY QLD 4740,House,3,1,4,716m² ,03 Apr 2023
+"501,000 ","1 Kiwi Court, Ooralea,",MACKAY QLD 4740,House,3,2,2,782m² ,27 Feb 2023
+"390,000 ","24/26 River Street,",MACKAY QLD 4740,House,2,2,2,126m² ,22 Feb 2023
+"255,000 ","20/107 Shakespeare Street,",MACKAY QLD 4740,House,2,1,1,155m² ,21 Feb 2023
+"300,000 ","8 Hinton Street,",MACKAY QLD 4740,House,2,1,1,809m² ,20 Feb 2023
+"455,000 ","44 George Street,",MACKAY QLD 4740,House,3,1,1,"1,083m² ",15 Feb 2023
+"180,000 ","4/7 Prospect Street,",MACKAY QLD 4740,House,2,1,1,85m² ,08 Dec 2022
+"500,000 ","21 Gold Street,",MACKAY QLD 4740,House,3,2,2,673m² ,18 Nov 2022
+"359,000 ","56 Wellington Street,",MACKAY QLD 4740,House,3,1,1,676m² ,17 Nov 2022
+"415,000 ","4 Grant Street,",MACKAY QLD 4740,House,3,1,2,809m² ,10 Nov 2022
+"365,500 ","14 Hucker Street,",MACKAY QLD 4740,House,4,1,4,811m² ,09 Nov 2022
+"710,000 ","3 Griffin Street,",MACKAY QLD 4740,House,5,3,2,"1,044m² ",02 Nov 2022
+"360,000 ","41/23 Alfred Street,",MACKAY QLD 4740,House,2,2,2,109m² ,31 Oct 2022
+"357,000","66 Rae Street,",MACKAY QLD 4740,House,3,2,2,728m² ,27 Oct 2022
+"300,000 ","25 Sophia Street,",MACKAY QLD 4740,House,3,1,−,405m² ,20 Oct 2022
+"600,000 ","343 Alfred Street,",MACKAY QLD 4740,House,5,2,2,811m² ,16 Oct 2022
+"378,500","36 Griffin Street,",MACKAY QLD 4740,House,3,1,3,425m² ,12 Oct 2022
+"475,000 ","11 Baxter Street,",MACKAY QLD 4740,House,3,2,1,660m² ,05 Oct 2022
+"337,000 ","4/11 Nebo Road,",MACKAY QLD 4740,House,3,2,2,250m² ,04 Oct 2022
+"257,500 ","6 MacDonald Street,",MACKAY QLD 4740,House,3,1,1,581m² ,29 Sep 2022
+"430,000 ","23 Hinton Street,",MACKAY QLD 4740,House,2,2,3,809m² ,16 Sep 2022
+"150,000 ","3/10 East Gordon Street,",MACKAY QLD 4740,House,1,1,1,57m² ,14 Sep 2022
+"293,000 ","2/16 Sophia Street,",MACKAY QLD 4740,House,2,2,1,95m² ,06 Sep 2022
+"239,000 ","6/41 Peel Street,",MACKAY QLD 4740,House,3,1,1,108m² ,25 Aug 2022
+"275,000 ","277 Shakespeare Street,",MACKAY QLD 4740,House,2,1,−,809m² ,18 Aug 2022
+"359,000","1 Hucker Street,",MACKAY QLD 4740,House,3,1,3,607m² ,10 Aug 2022
+"465,000 ","10 Hucker Street,",MACKAY QLD 4740,House,3,1,5,811m² ,22 Jul 2022
+"330,000 ","17 Hucker Street,",MACKAY QLD 4740,House,3,1,1,716m² ,03 Jul 2022
+"225,000 ","1 Wentford Street,",MACKAY QLD 4740,House,3,1,2,811m² ,28 Jun 2022
+"640,000 ","1 Hyne Street,",MACKAY QLD 4740,House,3,2,2,"1,270m² ",22 Jun 2022
+"300,000 ","101 Milton Street,",MACKAY QLD 4740,House,3,1,−,581m² ,15 Jun 2022
+"250,000 ","15 Porter Street,",MACKAY QLD 4740,House,3,2,−,529m² ,09 Jun 2022
+"490,000 ","8 George Street,",MACKAY QLD 4740,House,2,2,2,910m² ,30 May 2022
+"430,000 ","9 Hamlet Street,",MACKAY QLD 4740,House,3,1,−,612m² ,26 May 2022
+"655,000 ","56 George Street,",MACKAY QLD 4740,House,5,3,5,827m² ,21 May 2022
+"400,000 ","12 Hinton Street,",MACKAY QLD 4740,House,2,1,1,809m² ,13 May 2022
+"335,000 ","7 Porter Street,",MACKAY QLD 4740,House,2,1,1,"1,012m² ",10 May 2022
+"290,000 ","1 Luscombe Street,",MACKAY QLD 4740,House,3,1,1,687m² ,10 May 2022
+"340,000 ","10 Moore Street,",MACKAY QLD 4740,House,4,1,−,"1,012m² ",10 May 2022
+"432,500 ","12 Hucker Street,",MACKAY QLD 4740,House,4,1,2,811m² ,09 May 2022
+"490,000 ","36 Peel Street,",MACKAY QLD 4740,House,5,2,2,"1,021m² ",27 Apr 2022
+"202,500 ","3/98 Milton Street,",MACKAY QLD 4740,House,3,1,1,167m² ,14 Apr 2022
+"315,000 ","25 Hucker Street,",MACKAY QLD 4740,House,3,3,1,809m² ,11 Apr 2022
+"332,000 ","13 Hucker Street,",MACKAY QLD 4740,House,3,1,2,716m² ,08 Apr 2022
+"405,000 ","112 Evan Street,",MACKAY QLD 4740,House,4,2,4,610m² ,07 Apr 2022
+"450,000 ","74 Gregory Street,",MACKAY QLD 4740,House,3,1,2,701m² ,04 Apr 2022
+"700,000 ","29 Wellington Street,",MACKAY QLD 4740,House,5,3,4,"1,014m² ",16 Mar 2022
+"315,000 ","14 Jubilee Street,",MACKAY QLD 4740,House,3,1,−,"1,050m² ",15 Mar 2022
+"190,000 ","5/15 Romeo Street,",MACKAY QLD 4740,House,2,1,1,116m² ,04 Mar 2022
+"333,000 ","6 Macalister Street,",MACKAY QLD 4740,House,2,1,1,253m² ,2022
+"300,000","10 Steen Street,",MACKAY QLD 4740,House,3,1,3,959m² ,10 Feb 2022
+"555,000 ","19 Othello Street,",MACKAY QLD 4740,House,6,3,6,910m² ,04 Feb 2022
+"480,000 ","2 James Street,",MACKAY QLD 4740,House,4,2,2,809m² ,2022
+"300,000","74 Carlyle Street,",MACKAY QLD 4740,House,3,1,−,429m² ,19 Jan 2022
+"460,000 ","18 Hucker Street,",MACKAY QLD 4740,House,3,2,4,810m² ,05 Jan 2022
+"332,500 ","401/5-7 Nelson Street,",MACKAY QLD 4740,House,2,2,1,82m² ,24 Dec 2021
+"400,000","76 Wellington Street,",MACKAY QLD 4740,House,3,2,1,696m² ,21 Dec 2021
+"326,000 ","19 Boddington Street,",MACKAY QLD 4740,House,3,2,1,248m² ,13 Dec 2021
+"460,000","17 Griffin Street,",MACKAY QLD 4740,House,3,1,5,823m² ,11 Dec 2021
+"238,000 ","2/54 Nelson Street,",MACKAY QLD 4740,House,2,1,1,152m² ,10 Dec 2021
+"415,000 ","24 Hucker Street,",MACKAY QLD 4740,House,3,1,3,809m² ,29 Nov 2021
+"430,000 ","3 Howard Street,",MACKAY QLD 4740,House,3,1,4,809m² ,23 Nov 2021
+"326,500","76 Carlyle Street,",MACKAY QLD 4740,House,3,1,2,420m² ,12 Nov 2021
+"300,000 ","18 Gold Street,",MACKAY QLD 4740,House,3,1,1,405m² ,09 Nov 2021
+"453,000 ","1 Griffin Street,",MACKAY QLD 4740,House,3,2,2,682m² ,04 Nov 2021
+"250,000 ","2/64 George Street,",MACKAY QLD 4740,House,3,1,1,162m² ,03 Nov 2021
+"275,000","5 Othello Street,",MACKAY QLD 4740,House,3,1,1,710m² ,31 Oct 2021
+"340,000 ","14-18 Byron Street,",MACKAY QLD 4740,House,4,2,−,"2,034m² ",13 Oct 2021
+"545,000 ","55 Wellington Street,",MACKAY QLD 4740,House,5,3,2,696m² ,2021
+"355,000","23 Gold Street,",MACKAY QLD 4740,House,4,1,1,673m² ,28 Sep 2021
+"300,000 ","2/15 Boddington Street,",MACKAY QLD 4740,House,3,2,1,205m² ,15 Sep 2021
+"157,000 ","2/28 East Gordon Street,",MACKAY QLD 4740,House,2,1,1,58m² ,10 Sep 2021
+"315,000","22 Hucker Street,",MACKAY QLD 4740,House,3,1,2,809m² ,03 Sep 2021
+"1,210,000 ","802/2 Nelson Street,",MACKAY QLD 4740,House,3,3,3,297m² ,31 Aug 2021
+"385,000 ","6 Boddington Street,",MACKAY QLD 4740,House,3,1,1,809m² ,31 Aug 2021
+"333,000 ","2 Jubilee Street,",MACKAY QLD 4740,House,3,1,1,378m² ,31 Aug 2021
+"480,000 ","14 Keswick Island Drive,",MACKAY QLD 4740,House,3,2,2,"2,032m² ",24 Aug 2021
+"392,000 ","5 Hinton Street,",MACKAY QLD 4740,House,3,1,4,751m² ,23 Aug 2021
+"295,000 ","47A Peel Street,",MACKAY QLD 4740,House,4,1,−,678m² ,20 Aug 2021
+"250,000 ","14 Keats Street,",MACKAY QLD 4740,House,3,1,1,703m² ,17 Aug 2021
+"606,000 ","26 Shakespeare Street,",MACKAY QLD 4740,House,4,2,2,559m² ,16 Aug 2021
+"275,000 ","17 Park Street,",MACKAY QLD 4740,House,3,1,4,728m² ,11 Aug 2021
+"335,000 ","86 Milton Street,",MACKAY QLD 4740,House,3,2,2,676m² ,20 Jul 2021
+"160,000 ","5/28 Sophia Street,",MACKAY QLD 4740,House,2,1,−,82m² ,19 Jul 2021
+"242,500 ","Lot CK Keswick Island,",MACKAY QLD 4740,House,2,1,−,"1,320m² ",23 Jun 2021
+"565,000 ","347 Alfred Street,",MACKAY QLD 4740,House,4,2,2,"1,206m² ",21 Jun 2021
+"650,000 ","5 Griffin Street,",MACKAY QLD 4740,House,4,1,4,"2,041m² ",17 Jun 2021
+"295,000 ","11 James Street,",MACKAY QLD 4740,House,3,1,1,810m² ,04 Jun 2021
+"457,500 ","6 Normanby Court,",MACKAY QLD 4740,House,5,2,2,750m² ,27 May 2021
+"439,000 ","51 Carlyle St,",MACKAY QLD 4740,House,3,1,2,822m² ,26 May 2021
+"800,000 ","504/2 Nelson Street,",MACKAY QLD 4740,House,3,2,2,158m² ,20 May 2021
+"210,000 ","12 Keats Street,",MACKAY QLD 4740,House,2,1,−,405m² ,20 May 2021
+"285,000","7 Margaret Street,",MACKAY QLD 4740,House,3,1,2,809m² ,18 May 2021
+"565,000 ","9 Hinton Street,",MACKAY QLD 4740,House,7,2,4,809m² ,14 May 2021
+"300,000","5 Byron Street,",MACKAY QLD 4740,House,2,1,2,764m² ,13 May 2021
+"300,000 ","3 Byron Street,",MACKAY QLD 4740,House,3,1,−,"1,027m² ",13 May 2021
+"245,000","78 Carlyle Street,",MACKAY QLD 4740,House,2,1,1,502m² ,15 Apr 2021
+"1,100,000","4 James Street,",MACKAY QLD 4740,House,5,2,4,809m² ,
+"1,100,000","6 James Street,",MACKAY QLD 4740,House,2,1,4,809m² ,
+"1,100,000","8 James Street,",MACKAY QLD 4740,House,3,1,4,809m² ,
+"485,000 ","27 Hucker Street,",MACKAY QLD 4740,House,4,2,2,809m² ,10 Mar 2021
+"295,000 ","319 Shakespeare Street,",MACKAY QLD 4740,House,2,1,1,809m² ,08 Mar 2021
+"288,000 ","33 Bannister Street,",MACKAY QLD 4740,House,3,2,4,663m² ,04 Mar 2021
+"360,000 ","4 Norris Street,",MACKAY QLD 4740,House,4,2,6,"1,275m² ",01 Mar 2021
+"355,000 ","58 Nelson Street,",MACKAY QLD 4740,House,3,1,2,"1,149m² ",22 Feb 2021
+"279,000","1/13 Hamlet street,",MACKAY QLD 4740,House,3,1,2,266m² ,04 Jan 2021
+"390,000 ","33 Hucker Street,",MACKAY QLD 4740,House,4,2,1,857m² ,27 Nov 2020
+"355,000 ","58 Nelson Street,",MACKAY QLD 4740,House,3,1,−,"1,149m² ",28 Oct 2020
+"963,128","16 Boddington Street,",MACKAY QLD 4740,House,30,3,−,"1,604m² ",27 Oct 2020
+"258,000 ","10 Gold Street,",MACKAY QLD 4740,House,2,2,2,405m² ,05 Oct 2020
+"205,000","110 Milton Street,",MACKAY QLD 4740,House,3,1,1,"1,088m² ",04 Oct 2020
+"285,000 ","23 Sophia Street,",MACKAY QLD 4740,House,3,1,2,405m² ,23 Sep 2020
+"230,000 ","5 Porter Street,",MACKAY QLD 4740,House,3,1,1,827m² ,03 Aug 2020
+"365,000 ","11 Margaret Street,",MACKAY QLD 4740,House,3,2,3,809m² ,30 Jul 2020
+"175,000 ","3/3 Romeo Street,",MACKAY QLD 4740,House,2,1,1,183m² ,24 Jul 2020
+"275,000 ","25 Sophia Street,",MACKAY QLD 4740,House,3,1,−,405m² ,23 Jun 2020
+"460,000 ","231 Nebo Road,",MACKAY QLD 4740,House,4,2,4,"1,126m² ",20 Jun 2020
+"307,000 ","352 Alfred Street,",MACKAY QLD 4740,House,3,1,1,670m² ,28 May 2020
+"245,000","5 Luscombe Street,",MACKAY QLD 4740,House,4,1,2,687m² ,07 Apr 2020
+"300,000 ","608 Rivermarque,",MACKAY QLD 4740,House,2,1,1,94m² ,25 Mar 2020
+"380,000","329 Shakespeare Street,",MACKAY QLD 4740,House,4,2,10,774m² ,14 Mar 2020
+"370,000 ","354 Alfred Street,",MACKAY QLD 4740,House,3,2,1,700m² ,27 Feb 2020
+"221,700 ","3 Turner Street,",MACKAY QLD 4740,House,2,1,1,779m² ,10 Feb 2020
+"230,000","38 Hucker Street,",MACKAY QLD 4740,House,3,1,2,772m² ,13 Jan 2020
+"295,000 ","2/9A Byron Street,",MACKAY QLD 4740,House,3,1,2,318m² ,10 Jan 2020
+"280,000 ","26 Juliet Street,",MACKAY QLD 4740,House,3,1,2,665m² ,06 Jan 2020
+"354,000 ","48 George Street,",MACKAY QLD 4740,House,5,2,5,"1,011m² ",24 Dec 2019
+"280,000","104 Evan Street,",MACKAY QLD 4740,House,2,1,1,615m² ,04 Nov 2019
+"310,000 ","5A Hinton Street,",MACKAY QLD 4740,House,3,2,4,867m² ,24 Oct 2019
+"245,000 ","105 Malcomson Street,",MACKAY QLD 4740,House,2,1,2,921m² ,28 Sep 2019
+"355,000 ","64 Goldsmith Street,",MACKAY QLD 4740,House,3,1,1,673m² ,20 Aug 2019
+"230,000","399 Shakespeare St,",MACKAY QLD 4740,House,3,2,6,946m² ,29 Jun 2019
+"289,000 ","46 George Street,",MACKAY QLD 4740,House,2,1,1,"1,011m² ",17 Jun 2019
+"300,000 ","27 Norris Street,",MACKAY QLD 4740,House,3,2,1,789m² ,12 Jun 2019
+"204,000","78 Carlyle Street,",MACKAY QLD 4740,House,2,1,1,502m² ,25 May 2019
+"330,000 ","43 Wellington Street,",MACKAY QLD 4740,House,3,1,3,772m² ,11 Mar 2019
+"220,000 ","113 Shakespeare Street,",MACKAY QLD 4740,House,5,2,2,"1,272m² ",04 Mar 2019
+"120,000","8 Keats Street,",MACKAY QLD 4740,House,2,1,−,405m² ,01 Feb 2019
+"415,000 ","92 George Street,",MACKAY QLD 4740,House,3,2,2,670m² ,26 Jan 2019
+"310,000","67 Brisbane Street,",MACKAY QLD 4740,House,3,2,4,"1,027m² ",23 Jan 2019
+"288,000 ","11 Hucker Street,",MACKAY QLD 4740,House,3,1,1,716m² ,10 Jan 2019
+"425,000 ","22 Wentford Street,",MACKAY QLD 4740,House,3,2,3,809m² ,09 Jan 2019
+"240,000 ","6 Baxter Street,",MACKAY QLD 4740,House,4,1,1,685m² ,28 Dec 2018
+"330,000","23 River Street,",MACKAY QLD 4740,House,2,1,−,"1,317m² ",26 Dec 2018
+"128,000 ","2/6 Wentford Street,",MACKAY QLD 4740,House,2,1,1,107m² ,07 Nov 2018
+"201,000 ","29 Hucker Street,",MACKAY QLD 4740,House,3,1,2,809m² ,2018
+"149,000","10 Keats Street,",MACKAY QLD 4740,House,3,1,1,405m² ,21 Sep 2018
+"265,000 ","110 Evan Street,",MACKAY QLD 4740,House,3,1,1,610m² ,07 Sep 2018
+"480,000 ","3 Nelson Street,",MACKAY QLD 4740,House,5,2,2,830m² ,27 Aug 2018
+"160,000 ","7 Moore Street,",MACKAY QLD 4740,House,3,1,1,"1,019m² ",11 Jul 2018
+"415,000 ","1/61 Carlyle Street,",MACKAY QLD 4740,House,3,2,3,307m² ,09 Jul 2018
+"185,000 ","2 Byron Street,",MACKAY QLD 4740,House,2,1,1,834m² ,05 Jul 2018
+"207,000 ","40 Evan Street,",MACKAY QLD 4740,House,2,2,1,930m² ,19 Mar 2018
+"249,000 ","1/19 Norris Street,",MACKAY QLD 4740,House,3,1,2,245m² ,14 Mar 2018
+"239,500 ","8 Dennis Street,",MACKAY QLD 4740,House,3,1,1,749m² ,02 Mar 2018
+"310,000 ","106 Evan Street,",MACKAY QLD 4740,House,4,2,2,610m² ,23 Feb 2018
+"270,000 ","13 Norris Street,",MACKAY QLD 4740,House,2,1,−,"1,080m² ",21 Feb 2018
+"240,000 ","3 Luscombe Street,",MACKAY QLD 4740,House,2,1,−,687m² ,07 Feb 2018
+"195,000","15 Hamlet Street,",MACKAY QLD 4740,House,3,2,2,682m² ,30 Jan 2018
+"410,000 ","36 George Street,",MACKAY QLD 4740,House,4,2,2,"1,022m² ",13 Oct 2017
+"225,000","6 Romeo Street,",MACKAY QLD 4740,House,3,1,4,910m² ,24 Aug 2017
+"420,000 ","8 George Street,",MACKAY QLD 4740,House,4,2,4,910m² ,24 Jul 2017
+"307,500","32 Hucker Street,",MACKAY QLD 4740,House,3,2,4,809m² ,15 Jul 2017
+"131,000 ","12 Keats Street,",MACKAY QLD 4740,House,3,1,1,405m² ,07 Jul 2017
+"190,000 ","3 Park Street,",MACKAY QLD 4740,House,3,1,2,708m² ,2017
+"180,000 ","9 Keats Street,",MACKAY QLD 4740,House,3,1,−,405m² ,15 May 2017
+"223,000 ","58 Napier Street,",MACKAY QLD 4740,House,3,1,1,711m² ,10 Mar 2017
+"320,000 ","3 Hamlet St,",MACKAY QLD 4740,House,3,3,1,607m² ,06 Mar 2017
+"142,500 ","6/331 Shakespeare Street,",MACKAY QLD 4740,House,2,1,3,106m² ,01 Mar 2017
+"160,000 ","11 Baxter Street,",MACKAY QLD 4740,House,2,1,1,660m² ,2017
+"265,000 ","274 Shakespeare Street,",MACKAY QLD 4740,House,3,2,1,668m² ,19 Jan 2017
+"190,000","38 Rae Street,",MACKAY QLD 4740,House,3,1,1,931m² ,20 Sep 2016
+"180,000","21 Hucker Street,",MACKAY QLD 4740,House,3,1,2,809m² ,15 Sep 2016
+"475,000","18 Goldsmith Street,",MACKAY QLD 4740,House,5,3,2,950m² ,11 Sep 2016
+"210,000","12 Boddington Street,",MACKAY QLD 4740,House,3,1,1,809m² ,15 Aug 2016
+"167,000","106 Evan Street,",MACKAY QLD 4740,House,3,1,1,610m² ,07 Jun 2016
+"160,000","38 Hucker Street,",MACKAY QLD 4740,House,3,1,1,772m² ,28 Apr 2016
+"122,000 ","104 Evan Street,",MACKAY QLD 4740,House,2,1,1,615m² ,19 Apr 2016
+"405,000","14 Bridge Road,",MACKAY QLD 4740,House,4,2,2,700m² ,21 Feb 2016
+"345,000 ","38 George Street,",MACKAY QLD 4740,House,4,1,4,"1,077m² ",20 Jan 2016
+"230,000","12 Hinton Street,",MACKAY QLD 4740,House,2,1,1,809m² ,11 Dec 2015
+"275,000 ","87 Shakespeare Street,",MACKAY QLD 4740,House,3,2,1,809m² ,03 Dec 2015
+"445,000 ","5 Sophia Street,",MACKAY QLD 4740,House,4,2,3,405m² ,23 Oct 2015
+"360,000","203 Kippen Street,",MACKAY QLD 4740,House,3,1,3,809m² ,10 Oct 2015
+"185,000 ","7 Hucker Street,",MACKAY QLD 4740,House,2,1,1,809m² ,12 Aug 2015
+"310,000","1/8 Jubilee Street,",MACKAY QLD 4740,Duplex,3,1,3,311m² ,31 Jul 2015
+"405,000 ","20 Hucker Street,",MACKAY QLD 4740,House,5,3,2,809m² ,16 Jun 2015
+"265,000 ","3 Jubilee Street,",MACKAY QLD 4740,House,4,1,2,809m² ,10 Apr 2015
+"320,000","8 Nelson Street,",MACKAY QLD 4740,House,3,1,1,766m² ,28 Jan 2015
+"340,000 ","3 Margaret Street,",MACKAY QLD 4740,House,3,1,−,809m² ,12 Sep 2014
+"340,000","3 Margaret Street,",MACKAY QLD 4740,House,3,1,−,809m² ,22 Aug 2014
+"465,000 ","17 Hinton St,",MACKAY QLD 4740,House,4,2,4,809m² ,14 Jun 2014
+"205,000 ","38 George Street,",MACKAY QLD 4740,House,4,1,4,"1,077m² ",05 May 2014
+"353,000","271 Shakespeare Street,",MACKAY QLD 4740,House,2,2,2,809m² ,26 Feb 2014
+"353,000","271 Shakespeare Street,",MACKAY QLD 4740,House,2,2,2,809m² ,26 Feb 2014
+"285,000","7 Luscombe Street,",MACKAY QLD 4740,House,2,1,−,687m² ,21 Aug 2013
+"540,000","80 Scott Street,",MACKAY QLD 4740,House,4,2,2,809m² ,24 May 2013
+"380,000","110 Evan Street,",MACKAY QLD 4740,House,4,1,1,610m² ,24 Dec 2012
+"450,000","10 Hucker Street,",MACKAY QLD 4740,House,3,2,3,812m² ,03 Dec 2012
+"417,500","7/5 Kate Street,",MACKAY QLD 4740,House,3,2,2,232m² ,28 Nov 2012
+"310,000","8 Hayes Lane,",MACKAY QLD 4740,House,2,1,2,393m² ,2012
+"375,000","9 Ennio Court,",MACKAY QLD 4740,House,3,1,1,700m² ,31 Aug 2012
+"430,000","60 Nelson Street,",MACKAY QLD 4740,House,3,1,−,879m² ,10 Aug 2012
+"350,000","42 Edward Street,",MACKAY QLD 4740,House,2,1,1,816m² ,23 Jan 2012
+"560,000","352 Alfred Street,",MACKAY QLD 4740,House,3,1,1,680m² ,28 Sep 2010
+"392,500","28 Griffin Street,",MACKAY QLD 4740,House,3,1,−,570m² ,04 Aug 2010
+"320,000","9 Celeber Dr,",MACKAY QLD 4740,House,2,1,−,799m² ,12 Oct 2009
+"230,000","17 Kenilworth Street,",MACKAY QLD 4740,House,2,1,−,253m² ,01 Jun 2009
+"430,000 ","22A Newport Pde,",BLACKS BEACH QLD 4740,House,4,3,2,429m² ,24 Apr 2024
+"560,000 ","13 Hartog Street,",ANDERGROVE QLD 4740,House,4,2,3,775m² ,23 Apr 2024
+"450,000 ","19 Scriha Street,",NORTH MACKAY QLD 4740,House,4,1,2,719m² ,23 Apr 2024
+"680,000 ","9 Paul Hopkins Street,",WEST MACKAY QLD 4740,House,5,2,4,809m² ,22 Apr 2024
+"645,000 ","52 Patricia Drive,",ANDERGROVE QLD 4740,House,4,2,3,760m² ,19 Apr 2024
+"779,000 ","19 Botha Street,",BLACKS BEACH QLD 4740,House,4,2,2,800m² ,19 Apr 2024
+"520,000 ","4 Beckett Court,",OORALEA QLD 4740,House,3,2,−,800m² ,17 Apr 2024
+"550,000 ","14 Lancaster Way,",OORALEA QLD 4740,House,4,2,2,576m² ,17 Apr 2024
+"585,000 ","5 Mccready Street,",RURAL VIEW QLD 4740,House,4,2,2,800m² ,17 Apr 2024
+"407,000 ","69 Pratt Street,",SOUTH MACKAY QLD 4740,House,3,1,3,701m² ,17 Apr 2024
+"486,000 ","11 Surrey Court,",OORALEA QLD 4740,House,3,2,4,383m² ,16 Apr 2024
+"542,000 ","178 Goldsmith Street,",SOUTH MACKAY QLD 4740,House,4,2,2,"1,045m² ",16 Apr 2024
+"432,000 ","10 Osprey Close,",SLADE POINT QLD 4740,House,3,2,1,791m² ,15 Apr 2024
+"542,150 ","7 Galway Court,",ANDERGROVE QLD 4740,House,4,2,4,819m² ,12 Apr 2024
+"420,000 ","1 Matthews Street,",ANDERGROVE QLD 4740,House,3,1,2,682m² ,12 Apr 2024
+"550,000 ","15 Primavera Boulevard,",BEACONSFIELD QLD 4740,House,4,2,2,700m² ,12 Apr 2024
+"830,000 ","27 Botha Street,",BLACKS BEACH QLD 4740,House,4,2,3,800m² ,12 Apr 2024
+"769,000 ","7 McIlwraith Way,",RURAL VIEW QLD 4740,House,4,2,3,804m² ,12 Apr 2024
+"490,000 ","8 Johnson Street,",WEST MACKAY QLD 4740,House,3,1,4,812m² ,12 Apr 2024
+"510,000 ","46 Mansfield Drive,",BEACONSFIELD QLD 4740,House,3,2,2,718m² ,11 Apr 2024
+"460,000 ","4 Gans Court,",EIMEO QLD 4740,House,3,1,2,891m² ,11 Apr 2024
+"550,000 ","35 Wing Crescent,",MOUNT PLEASANT QLD 4740,House,4,2,4,700m² ,11 Apr 2024
+"440,000 ","39 Scarborough Circuit,",BLACKS BEACH QLD 4740,House,4,2,2,300m² ,10 Apr 2024
+"499,500 ","142 Malcomson Street,",NORTH MACKAY QLD 4740,House,4,2,3,809m² ,10 Apr 2024
+"570,000 ","58 Cinnamon Drive,",GLENELLA QLD 4740,House,4,2,2,701m² ,09 Apr 2024
+"520,000 ","30 Thorn Avenue,",RURAL VIEW QLD 4740,House,4,2,2,390m² ,09 Apr 2024
+"345,000 ","293 Bridge Road,",WEST MACKAY QLD 4740,House,3,1,−,532m² ,09 Apr 2024
+"590,000 ","3 Jacob Street,",GLENELLA QLD 4740,House,4,2,2,395m² ,08 Apr 2024
+"615,000 ","75 Dawson Boulevard,",RURAL VIEW QLD 4740,House,4,2,2,858m² ,08 Apr 2024
+"366,000 ","25 Kingfisher Street,",SLADE POINT QLD 4740,House,3,1,1,620m² ,08 Apr 2024
+"570,000 ","4 Podosky Street,",WEST MACKAY QLD 4740,House,3,1,5,997m² ,08 Apr 2024
+"440,000 ","105 Donaldson Street,",WEST MACKAY QLD 4740,House,4,2,−,809m² ,08 Apr 2024
+"605,000 ","52 Perry Street,",WEST MACKAY QLD 4740,House,4,2,2,814m² ,08 Apr 2024
+"455,000 ","24 Eaglemount Road,",ANDERGROVE QLD 4740,House,4,2,2,717m² ,05 Apr 2024
+"780,000 ","6 Heritage Drive,",OORALEA QLD 4740,House,4,2,4,871m² ,05 Apr 2024
+"528,000 ","7 Westaway Crescent,",ANDERGROVE QLD 4740,House,4,2,2,555m² ,04 Apr 2024
+"690,000 ","59 Corella Way,",BLACKS BEACH QLD 4740,House,4,2,2,596m² ,04 Apr 2024
+"470,000 ","24 Cosford Drive,",EIMEO QLD 4740,House,3,1,1,825m² ,04 Apr 2024
+"490,000 ","39 John Oxley Avenue,",RURAL VIEW QLD 4740,House,3,1,5,800m² ,04 Apr 2024
+"713,750 ","1 Shakespeare Street,",EAST MACKAY QLD 4740,House,3,2,2,769m² ,03 Apr 2024
+"665,000 ","50 Windsor Dve,",HAY POINT QLD 4740,House,6,2,6,"4,097m² ",03 Apr 2024
+"440,000 ","29 Pharlap Parade,",OORALEA QLD 4740,House,3,2,1,615m² ,03 Apr 2024
+"505,000 ","18 Clark St,",GRASSTREE BEACH QLD 4740,House,4,3,4,879m² ,02 Apr 2024
+"610,000 ","31 Novar Court,",SOUTH MACKAY QLD 4740,House,5,2,1,701m² ,02 Apr 2024
+"607,500 ","100 Droughtmaster Drive,",HAY POINT QLD 4740,House,3,1,7,0,29 Mar 2024
+"520,000 ","29 Kerrisdale Crescent,",BEACONSFIELD QLD 4740,House,4,2,2,647m² ,28 Mar 2024
+"410,000 ","164 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,3,2,1,300m² ,28 Mar 2024
+"915,000 ","14 Seajaysmith Way,",RICHMOND QLD 4740,House,4,3,2,660m² ,28 Mar 2024
+"491,500 ","14 Ivana Court,",SOUTH MACKAY QLD 4740,House,3,2,2,700m² ,28 Mar 2024
+"490,000 ","1 Edmonds Street,",WEST MACKAY QLD 4740,House,3,1,2,697m² ,28 Mar 2024
+"573,000 ","13 Huron Crescent,",ANDERGROVE QLD 4740,House,4,2,3,452m² ,27 Mar 2024
+"450,500 ","5 Richard Street,",ANDERGROVE QLD 4740,House,3,1,6,743m² ,27 Mar 2024
+"875,000 ","12 Driftwood Close,",GRASSTREE BEACH QLD 4740,House,4,2,4,"1,003m² ",27 Mar 2024
+"613,000 ","38 Montgomery Street,",RURAL VIEW QLD 4740,House,4,2,2,572m² ,27 Mar 2024
+"750,000 ","293 Slade Point Road,",SLADE POINT QLD 4740,House,6,3,5,"1,274m² ",27 Mar 2024
+"610,000 ","55 Fairway Drive,",BAKERS CREEK QLD 4740,House,4,2,2,585m² ,26 Mar 2024
+"495,000 ","10 Camilleri Street,",EIMEO QLD 4740,House,3,2,3,890m² ,26 Mar 2024
+"880,000 ","7 Pavillion Court,",GLENELLA QLD 4740,House,5,3,2,808m² ,26 Mar 2024
+"427,000 ","38 Wardrop Street,",WEST MACKAY QLD 4740,House,3,1,1,790m² ,26 Mar 2024
+"505,000 ","277 Bridge Road,",WEST MACKAY QLD 4740,House,4,1,1,"1,012m² ",26 Mar 2024
+"370,000 ","13/23 Cabbage Tree Road,",ANDERGROVE QLD 4740,House,4,2,2,522m² ,25 Mar 2024
+"355,000 ","11 Lynch Street,",EAST MACKAY QLD 4740,House,3,2,−,660m² ,25 Mar 2024
+"485,000 ","3 Danastas Avenue,",EIMEO QLD 4740,House,3,1,2,787m² ,25 Mar 2024
+"515,000 ","76 Lagoon Street,",WEST MACKAY QLD 4740,House,2,1,10,"1,037m² ",25 Mar 2024
+"480,000 ","30 Cavanagh Drive,",BLACKS BEACH QLD 4740,House,4,1,2,800m² ,24 Mar 2024
+"425,000 ","3 Dennis Street,",SOUTH MACKAY QLD 4740,House,3,1,−,704m² ,22 Mar 2024
+"165,000 ","19 Main Street,",BAKERS CREEK QLD 4740,House,3,1,2,781m² ,21 Mar 2024
+"540,000 ","1 Wandoo Court,",BEACONSFIELD QLD 4740,House,3,1,2,704m² ,21 Mar 2024
+"475,000 ","50 Donovan Street,",BLACKS BEACH QLD 4740,House,4,2,2,450m² ,21 Mar 2024
+"412,000 ","68 Scarborough Circuit,",BLACKS BEACH QLD 4740,House,4,2,2,300m² ,21 Mar 2024
+"490,000 ","52 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,2,601m² ,20 Mar 2024
+"600,000 ","2418 Sarina Homebush Road,",HOMEBUSH QLD 4740,House,4,2,3,"6,879m² ",20 Mar 2024
+"425,000 ","3 Short Street,",NORTH MACKAY QLD 4740,House,3,2,2,678m² ,20 Mar 2024
+"490,000 ","16 College Court,",NORTH MACKAY QLD 4740,House,4,2,2,450m² ,19 Mar 2024
+"500,500 ","8 Majesty Street,",RURAL VIEW QLD 4740,House,3,2,2,466m² ,19 Mar 2024
+"500,000 ","9 Morrison Street,",WEST MACKAY QLD 4740,House,3,1,2,817m² ,19 Mar 2024
+"701,000 ","36 Paulette Street,",WEST MACKAY QLD 4740,House,4,2,3,827m² ,18 Mar 2024
+"401,000 ","1 Calliandra Court,",ANDERGROVE QLD 4740,House,3,1,1,815m² ,15 Mar 2024
+"473,000 ","11 Dumfries Court,",BEACONSFIELD QLD 4740,House,4,1,1,800m² ,15 Mar 2024
+"540,000 ","62 Montgomery Street,",RURAL VIEW QLD 4740,House,4,2,2,689m² ,15 Mar 2024
+"535,000","5 Marshall Avenue,",ANDERGROVE QLD 4740,House,4,1,3,800m² ,14 Mar 2024
+"775,000 ","28 Coral Drive,",BLACKS BEACH QLD 4740,House,4,2,2,737m² ,14 Mar 2024
+"507,000","6 Beth Street,",BLACKS BEACH QLD 4740,House,3,2,4,798m² ,14 Mar 2024
+"530,000 ","4 Mccrossin Court,",EIMEO QLD 4740,House,3,1,3,800m² ,14 Mar 2024
+"380,000 ","25 Canberra Street,",NORTH MACKAY QLD 4740,House,3,1,−,514m² ,14 Mar 2024
+"450,000 ","19 Chauvel Street,",SOUTH MACKAY QLD 4740,House,3,1,2,776m² ,14 Mar 2024
+"425,000 ","5 Graves Street,",NORTH MACKAY QLD 4740,House,3,2,1,607m² ,13 Mar 2024
+"1,100,000 ","96 Palm Ridge Drive,",RICHMOND QLD 4740,House,4,4,7,0,13 Mar 2024
+"710,000 ","31 Field Street,",WEST MACKAY QLD 4740,House,4,3,1,723m² ,13 Mar 2024
+"360,000 ","425 Bridge Rd,",WEST MACKAY QLD 4740,House,3,1,−,809m² ,13 Mar 2024
+"750,000 ","12A Sapphire Court,",NORTH MACKAY QLD 4740,House,3,2,4,782m² ,12 Mar 2024
+"875,000 ","148 Ian Reddacliff Drive,",THE LEAP QLD 4740,House,4,2,5,0,12 Mar 2024
+"451,000 ","29 Trinity Parade,",BLACKS BEACH QLD 4740,House,4,2,2,440m² ,11 Mar 2024
+"565,000 ","75 Mclaughlin Drive,",EIMEO QLD 4740,House,4,1,2,958m² ,11 Mar 2024
+"410,000 ","65 Bridge Road,",SOUTH MACKAY QLD 4740,House,3,1,1,779m² ,11 Mar 2024
+"522,000 ","3 Charlotte Street,",WEST MACKAY QLD 4740,House,4,2,2,365m² ,11 Mar 2024
+"1,000,000 ","136 IAN REDDACLIFF DRIVE,",THE LEAP QLD 4740,House,4,2,4,0,10 Mar 2024
+"402,500","17 Milne Lane,",WEST MACKAY QLD 4740,House,3,1,1,"1,012m² ",09 Mar 2024
+"498,500 ","9 Inverness Court,",BEACONSFIELD QLD 4740,House,4,2,4,816m² ,08 Mar 2024
+"800,100 ","14 Evan Street,",EAST MACKAY QLD 4740,House,3,2,4,804m² ,08 Mar 2024
+"470,000 ","36 Hoey Street,",EAST MACKAY QLD 4740,House,3,1,−,726m² ,08 Mar 2024
+"430,000 ","22 Tolcher Street,",MOUNT PLEASANT QLD 4740,House,3,1,1,807m² ,08 Mar 2024
+"720,000 ","1 Montys Place,",NORTH MACKAY QLD 4740,House,3,2,2,514m² ,08 Mar 2024
+"482,000","35 Lancaster Way,",OORALEA QLD 4740,House,3,2,4,320m² ,08 Mar 2024
+"445,000 ","1 Stuart Hindle Drive,",MOUNT PLEASANT QLD 4740,House,3,2,2,839m² ,07 Mar 2024
+"334,000","27 Zammit Street,",NORTH MACKAY QLD 4740,House,3,1,1,599m² ,07 Mar 2024
+"470,000 ","28 Novar Court,",SOUTH MACKAY QLD 4740,House,3,2,4,700m² ,07 Mar 2024
+"630,000 ","315 Shakespeare Street,",SOUTH MACKAY QLD 4740,House,8,4,2,"1,613m² ",07 Mar 2024
+"582,000 ","30 Kirkconell Street,",BEACONSFIELD QLD 4740,House,4,1,1,800m² ,06 Mar 2024
+"700,000 ","24 Village Circuit,",EIMEO QLD 4740,House,4,2,2,467m² ,06 Mar 2024
+"747,000 ","14 Riverleigh Drive,",NORTH MACKAY QLD 4740,House,6,4,4,758m² ,06 Mar 2024
+"530,000","65 Peak Downs Highway,",OORALEA QLD 4740,House,4,2,3,799m² ,06 Mar 2024
+"449,500 ","15 Sandpiper Court,",SLADE POINT QLD 4740,House,3,1,2,699m² ,06 Mar 2024
+"455,500 ","21 Burwood Close,",ANDERGROVE QLD 4740,House,4,2,2,802m² ,05 Mar 2024
+"460,000 ","23 Macrossan Street,",EAST MACKAY QLD 4740,House,3,1,2,761m² ,05 Mar 2024
+"1,100,000 ","34 Marina Beach Parade,",MACKAY HARBOUR QLD 4740,House,3,2,2,698m² ,05 Mar 2024
+"535,000 ","18 Edmonds Street,",WEST MACKAY QLD 4740,House,3,1,3,817m² ,05 Mar 2024
+"625,000 ","5 Albion Crescent,",MOUNT PLEASANT QLD 4740,House,4,2,2,614m² ,04 Mar 2024
+"550,000 ","48 Canberra Street,",NORTH MACKAY QLD 4740,House,4,2,4,809m² ,04 Mar 2024
+"700,000 ","11 Radiata Street,",RURAL VIEW QLD 4740,House,4,2,4,705m² ,04 Mar 2024
+"400,000 ","254 Milton Street,",SOUTH MACKAY QLD 4740,House,3,1,3,782m² ,04 Mar 2024
+"581,000 ","219 Kippen Street,",SOUTH MACKAY QLD 4740,House,4,1,4,809m² ,04 Mar 2024
+"670,000 ","19 Mogford Street,",WEST MACKAY QLD 4740,House,5,2,6,809m² ,04 Mar 2024
+"530,000 ","25 Benson Avenue,",MOUNT PLEASANT QLD 4740,House,4,3,2,700m² ,02 Mar 2024
+"707,000 ","7 Ferngrove Lane,",ANDERGROVE QLD 4740,House,4,2,4,"2,463m² ",01 Mar 2024
+"545,000 ","31/8 Petrie Street,",EAST MACKAY QLD 4740,House,4,2,2,467m² ,01 Mar 2024
+"662,500 ","36 Northview Terrace,",MOUNT PLEASANT QLD 4740,House,4,2,2,700m² ,01 Mar 2024
+"425,000 ","4A Knobel Street,",NORTH MACKAY QLD 4740,House,2,2,1,485m² ,01 Mar 2024
+"425,000 ","113 Grendon Street,",NORTH MACKAY QLD 4740,House,3,2,2,547m² ,01 Mar 2024
+"600,000 ","30 Hinze Circuit,",RURAL VIEW QLD 4740,House,4,2,2,744m² ,01 Mar 2024
+"420,000 ","4 Shane Court,",ANDERGROVE QLD 4740,House,4,1,3,906m² ,29 Feb 2024
+"350,000 ","7 Morrison Street,",WEST MACKAY QLD 4740,House,3,1,1,442m² ,29 Feb 2024
+"585,000 ","3 Flounder Court,",ANDERGROVE QLD 4740,House,4,2,3,800m² ,28 Feb 2024
+"430,000 ","10 Trinity Street,",BLACKS BEACH QLD 4740,House,4,2,3,412m² ,28 Feb 2024
+"495,000 ","1 Narrabeen Street,",BLACKS BEACH QLD 4740,House,4,2,2,601m² ,28 Feb 2024
+"345,000 ","15 Ness Street,",WEST MACKAY QLD 4740,House,3,1,1,718m² ,28 Feb 2024
+"365,000 ","5 Poincettia Court,",ANDERGROVE QLD 4740,House,3,1,1,726m² ,27 Feb 2024
+"457,000 ","5 Malone Drive,",ANDERGROVE QLD 4740,House,3,2,1,416m² ,27 Feb 2024
+"552,000 ","54 Beachwood Circuit,",BAKERS CREEK QLD 4740,House,4,2,2,619m² ,27 Feb 2024
+"550,000 ","47 Broomdykes Drive,",BEACONSFIELD QLD 4740,House,4,2,2,801m² ,27 Feb 2024
+"530,000 ","12 Hocken Street,",NORTH MACKAY QLD 4740,House,4,2,−,"1,136m² ",27 Feb 2024
+"715,000 ","6 Sir Griffith Way,",RURAL VIEW QLD 4740,House,4,2,2,878m² ,27 Feb 2024
+"457,000 ","18A Hunter Street,",WEST MACKAY QLD 4740,House,3,2,2,476m² ,27 Feb 2024
+"550,000","85 Donaldson Street,",WEST MACKAY QLD 4740,House,3,1,3,804m² ,27 Feb 2024
+"508,000 ","41 Whitehaven Dr,",BLACKS BEACH QLD 4740,House,4,2,2,742m² ,26 Feb 2024
+"571,000 ","63 William Street,",SOUTH MACKAY QLD 4740,House,3,2,4,810m² ,26 Feb 2024
+"248,000 ","23 Cicada Lane,",ANDERGROVE QLD 4740,House,1,1,1,157m² ,23 Feb 2024
+"592,000 ","101 Oldmill Drive,",BEACONSFIELD QLD 4740,House,4,4,2,595m² ,23 Feb 2024
+"475,000 ","14 Nathan Court,",BEACONSFIELD QLD 4740,House,3,2,4,728m² ,23 Feb 2024
+"850,000 ","28 Summerhill Rise,",HABANA QLD 4740,House,4,2,2,0,23 Feb 2024
+"466,000 ","32 Hodges Street,",EAST MACKAY QLD 4740,House,4,2,4,784m² ,22 Feb 2024
+"740,000 ","4 Cedar Court,",EIMEO QLD 4740,House,4,3,2,801m² ,22 Feb 2024
+"640,000 ","11 Wicks Court,",ERAKALA QLD 4740,House,4,2,2,"2,697m² ",22 Feb 2024
+"521,200 ","1-3 Fiona Court,",MOUNT PLEASANT QLD 4740,House,4,2,3,727m² ,22 Feb 2024
+"1,325,000 ","8 Emma Drive,",RICHMOND QLD 4740,House,4,2,6,"2,156m² ",22 Feb 2024
+"645,000 ","23 James Cook Drive,",RURAL VIEW QLD 4740,House,4,2,2,795m² ,22 Feb 2024
+"1,200,000 ","507 Munbura Road,",BALBERRA QLD 4740,House,4,2,10,0,21 Feb 2024
+"610,000 ","4 Alan Naish Court,",EIMEO QLD 4740,House,4,1,5,"1,845m² ",21 Feb 2024
+"711,150 ","61 Manning Street,",RURAL VIEW QLD 4740,House,4,2,2,757m² ,21 Feb 2024
+"435,000","29 Adrian Street,",WEST MACKAY QLD 4740,House,3,1,1,735m² ,21 Feb 2024
+"499,000 ","44 Coogee Terrace,",BLACKS BEACH QLD 4740,House,4,2,2,419m² ,20 Feb 2024
+"480,000 ","111 Grendon Street,",NORTH MACKAY QLD 4740,House,2,2,1,435m² ,20 Feb 2024
+"325,000","93 Malcomson Street,",NORTH MACKAY QLD 4740,House,4,1,2,852m² ,20 Feb 2024
+"465,000 ","60 Phoenix Crescent,",RURAL VIEW QLD 4740,House,4,2,2,529m² ,20 Feb 2024
+"545,000 ","66 Edward Street,",SOUTH MACKAY QLD 4740,House,3,2,1,732m² ,20 Feb 2024
+"410,000 ","1/12 Wisteria Way,",BAKERS CREEK QLD 4740,House,3,2,1,134m² ,19 Feb 2024
+"572,000 ","52 Kippen Street,",EAST MACKAY QLD 4740,House,3,1,3,696m² ,19 Feb 2024
+"549,000 ","3 Matilda Court,",EIMEO QLD 4740,House,4,2,4,667m² ,19 Feb 2024
+"680,000 ","18 Woodlands Drive,",EIMEO QLD 4740,House,5,3,2,821m² ,19 Feb 2024
+"340,000 ","13 Howland Street,",NORTH MACKAY QLD 4740,House,3,1,1,698m² ,19 Feb 2024
+"565,000 ","3 Mccready Street,",RURAL VIEW QLD 4740,House,3,2,2,860m² ,19 Feb 2024
+"330,000 ","6 Ibis Street,",SLADE POINT QLD 4740,House,4,1,3,803m² ,19 Feb 2024
+"812,000 ","52 Norwood Parade,",BEACONSFIELD QLD 4740,House,4,2,3,805m² ,17 Feb 2024
+"510,000 ","28 Harvison Street,",EAST MACKAY QLD 4740,House,3,1,3,792m² ,16 Feb 2024
+"764,000","3 Canberra Street,",NORTH MACKAY QLD 4740,House,6,3,7,"1,012m² ",16 Feb 2024
+"378,000 ","6 Eagle Street,",SLADE POINT QLD 4740,House,3,1,2,660m² ,16 Feb 2024
+"420,000 ","16 Matsen Street,",BAKERS CREEK QLD 4740,House,5,2,2,819m² ,15 Feb 2024
+"420,000 ","12 Skye Court,",BEACONSFIELD QLD 4740,House,3,1,2,747m² ,15 Feb 2024
+"430,000","79 Evans Avenue,",NORTH MACKAY QLD 4740,House,3,1,4,787m² ,15 Feb 2024
+"450,000 ","2/48 High Street,",NORTH MACKAY QLD 4740,House,4,2,2,825m² ,15 Feb 2024
+"415,000 ","36 Finch Street,",SLADE POINT QLD 4740,House,4,2,3,607m² ,15 Feb 2024
+"750,000 ","10 Chapman Court,",EIMEO QLD 4740,House,5,3,3,800m² ,14 Feb 2024
+"1,196,089 ","63 Attards Road,",HABANA QLD 4740,House,5,3,9,0,14 Feb 2024
+"395,000 ","38 Whitefig Close,",ANDERGROVE QLD 4740,House,3,1,1,285m² ,13 Feb 2024
+"2,000,000 ","1 Coral Drive,",BLACKS BEACH QLD 4740,House,4,2,6,809m² ,13 Feb 2024
+"415,000 ","26 Trinity Parade,",BLACKS BEACH QLD 4740,House,4,2,2,401m² ,13 Feb 2024
+"625,000 ","8 Hodges Street,",EAST MACKAY QLD 4740,House,3,2,2,"1,462m² ",13 Feb 2024
+"725,000 ","15 Victor Avenue,",GLENELLA QLD 4740,House,4,2,4,919m² ,13 Feb 2024
+"575,000 ","19 Burge Court,",GLENELLA QLD 4740,House,4,2,2,647m² ,13 Feb 2024
+"790,000 ","40-44 Stevens Drive,",HOMEBUSH QLD 4740,House,4,2,6,0,13 Feb 2024
+"867,500 ","6 Rosalind Vista,",RICHMOND QLD 4740,House,4,2,4,853m² ,13 Feb 2024
+"431,000 ","20 Kenilworth Street,",SOUTH MACKAY QLD 4740,House,3,2,2,678m² ,13 Feb 2024
+"440,000","76 Archibald Street,",SOUTH MACKAY QLD 4740,House,3,1,2,450m² ,13 Feb 2024
+"607,000 ","9 Beaton Street,",WEST MACKAY QLD 4740,House,4,1,4,862m² ,13 Feb 2024
+"512,000 ","42 Michigan Way,",ANDERGROVE QLD 4740,House,4,2,2,231m² ,12 Feb 2024
+"485,000 ","24 Cassia Street,",BEACONSFIELD QLD 4740,House,3,1,3,697m² ,12 Feb 2024
+"499,000 ","60 Grendon Street,",NORTH MACKAY QLD 4740,Duplex,4,3,4,"1,012m² ",12 Feb 2024
+"437,500 ","73 Kippen Street,",SOUTH MACKAY QLD 4740,House,3,2,−,367m² ,12 Feb 2024
+"680,000 ","9 Thorning Street,",WEST MACKAY QLD 4740,House,4,2,2,797m² ,12 Feb 2024
+"475,000 ","87 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,2,641m² ,09 Feb 2024
+"547,000 ","54 Stuart Hindle Drive,",MOUNT PLEASANT QLD 4740,House,4,2,1,728m² ,09 Feb 2024
+"545,000","90 Mogford St,",WEST MACKAY QLD 4740,House,5,2,3,916m² ,09 Feb 2024
+"389,000 ","153 Bedford Road,",ANDERGROVE QLD 4740,House,3,1,1,959m² ,08 Feb 2024
+"735,000 ","29 Bernborough Avenue,",OORALEA QLD 4740,House,4,1,5,"2,532m² ",08 Feb 2024
+"405,000","302 Bridge Rd,",WEST MACKAY QLD 4740,House,3,1,1,450m² ,08 Feb 2024
+"565,000 ","7 Lakeview Drive,",BEACONSFIELD QLD 4740,House,4,2,6,764m² ,07 Feb 2024
+"490,000 ","12 Miami Terrace,",BLACKS BEACH QLD 4740,House,4,2,2,606m² ,07 Feb 2024
+"1,080,000 ","40 Logan Crescent,",ERAKALA QLD 4740,House,4,2,2,"2,061m² ",07 Feb 2024
+"549,000 ","47 Bradman Drive,",GLENELLA QLD 4740,House,4,2,4,773m² ,07 Feb 2024
+"750,000","3 Romaine Court,",GLENELLA QLD 4740,House,4,2,4,810m² ,07 Feb 2024
+"490,000 ","18 Andrew Fordyce Road,",MOUNT JUKES QLD 4740,House,3,1,4,0,07 Feb 2024
+"490,000 ","59 Ungerer Street,",NORTH MACKAY QLD 4740,House,3,2,2,832m² ,07 Feb 2024
+"756,000 ","7 Murray Close,",RURAL VIEW QLD 4740,House,5,2,3,907m² ,07 Feb 2024
+"380,000 ","38 Archibald Street,",SOUTH MACKAY QLD 4740,House,3,1,−,"1,100m² ",07 Feb 2024
+"485,000 ","18 Lambrook Court,",ALEXANDRA QLD 4740,House,4,1,3,819m² ,06 Feb 2024
+"572,500 ","8 Denise Court,",BEACONSFIELD QLD 4740,House,3,2,2,971m² ,06 Feb 2024
+"542,000 ","11 Cameron Street,",EAST MACKAY QLD 4740,House,3,2,2,792m² ,06 Feb 2024
+"460,000 ","8 Adamson Street,",HALIDAY BAY QLD 4740,House,3,1,2,607m² ,06 Feb 2024
+"310,000 ","1 Hocken Street,",NORTH MACKAY QLD 4740,House,3,2,1,"1,309m² ",06 Feb 2024
+"674,000 ","18 Manning Street,",RURAL VIEW QLD 4740,House,4,2,4,775m² ,06 Feb 2024
+"377,000 ","220 Bedford Road,",ANDERGROVE QLD 4740,House,3,1,4,809m² ,05 Feb 2024
+"549,000","56 Beachwood Circuit,",BAKERS CREEK QLD 4740,House,4,2,4,563m² ,05 Feb 2024
+"438,000 ","23 Newport Parade,",BLACKS BEACH QLD 4740,House,4,2,2,435m² ,05 Feb 2024
+"430,000 ","15 Newport Parade,",BLACKS BEACH QLD 4740,House,4,2,2,525m² ,05 Feb 2024
+"390,000 ","69 Edward Street,",SOUTH MACKAY QLD 4740,House,3,1,1,607m² ,05 Feb 2024
+"475,000 ","25 Nella Drive,",SOUTH MACKAY QLD 4740,House,3,1,3,772m² ,05 Feb 2024
+"530,000 ","37 Maguire Street,",ANDERGROVE QLD 4740,House,3,2,5,836m² ,02 Feb 2024
+"510,000 ","28 Kensington Court,",GLENELLA QLD 4740,House,4,2,2,442m² ,02 Feb 2024
+"637,500 ","9 Fiona Court,",MOUNT PLEASANT QLD 4740,House,4,2,4,731m² ,02 Feb 2024
+"410,000 ","13 Pacific Drive,",HAY POINT QLD 4740,House,4,3,2,553m² ,01 Feb 2024
+"350,000 ","60 Hamilton Street,",NORTH MACKAY QLD 4740,House,3,1,−,627m² ,01 Feb 2024
+"375,000 ","2/4 Pirie Street,",SOUTH MACKAY QLD 4740,House,4,2,1,290m² ,01 Feb 2024
+"525,000","29 SCHAEFER STREET,",WEST MACKAY QLD 4740,House,3,2,2,759m² ,
+"370,000 ","66 Lagoon Street,",WEST MACKAY QLD 4740,House,2,1,1,932m² ,01 Feb 2024
+"395,700 ","49 TROPICAL AVENUE,",ANDERGROVE QLD 4740,House,3,1,2,712m² ,31 Jan 2024
+"600,000","34 Petrie Street,",EAST MACKAY QLD 4740,House,3,2,8,809m² ,31 Jan 2024
+"710,000 ","1 Mussett Court,",GLENELLA QLD 4740,House,5,2,2,728m² ,31 Jan 2024
+"535,000 ","1107 Mackay Habana Road,",HABANA QLD 4740,House,5,2,4,"1,532m² ",31 Jan 2024
+"466,000 ","40 Phillip Street,",MOUNT PLEASANT QLD 4740,House,3,2,2,700m² ,31 Jan 2024
+"455,000 ","3 Little Street,",NORTH MACKAY QLD 4740,House,3,2,2,883m² ,31 Jan 2024
+"420,000 ","9 Ulanda Drive,",SOUTH MACKAY QLD 4740,House,3,1,2,704m² ,31 Jan 2024
+"689,000 ","63 Bellavista Circuit,",BEACONSFIELD QLD 4740,House,4,2,4,726m² ,30 Jan 2024
+"710,000 ","6 Leura Court,",GLENELLA QLD 4740,House,4,2,2,598m² ,30 Jan 2024
+"649,500 ","16 Pioneer Street,",MOUNT PLEASANT QLD 4740,House,4,3,4,700m² ,30 Jan 2024
+"520,000 ","21 Lamb Street,",SOUTH MACKAY QLD 4740,House,4,2,2,814m² ,30 Jan 2024
+"410,000 ","35 Carbeen Street,",ANDERGROVE QLD 4740,House,3,1,1,752m² ,29 Jan 2024
+"650,000 ","19 Lakeside Way,",ANDERGROVE QLD 4740,House,4,2,2,477m² ,29 Jan 2024
+"475,000 ","110 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,4,695m² ,29 Jan 2024
+"770,000 ","102 Rasmussen Avenue,",HAY POINT QLD 4740,Semi-detached,4,4,2,800m² ,29 Jan 2024
+"487,000 ","51 Burgess Street,",NORTH MACKAY QLD 4740,House,4,2,−,599m² ,29 Jan 2024
+"945,000 ","4 Palm Ridge Drive,",RICHMOND QLD 4740,House,3,2,3,"6,971m² ",29 Jan 2024
+"450,000 ","53 Manning Street,",RURAL VIEW QLD 4740,House,4,2,1,600m² ,29 Jan 2024
+"493,500 ","1 Dickson Court,",RURAL VIEW QLD 4740,House,4,2,2,451m² ,29 Jan 2024
+"430,000","15 Novar Court,",SOUTH MACKAY QLD 4740,House,3,2,4,692m² ,28 Jan 2024
+"390,000 ","25924 Peak Downs Highway,",ALEXANDRA QLD 4740,House,3,1,1,809m² ,26 Jan 2024
+"419,000 ","7 Cable Court,",BLACKS BEACH QLD 4740,House,4,2,2,444m² ,25 Jan 2024
+"607,500 ","12/8 Petrie Street,",EAST MACKAY QLD 4740,Duplex,4,3,2,450m² ,25 Jan 2024
+"540,000 ","6 Talara Court,",RURAL VIEW QLD 4740,House,4,2,2,764m² ,25 Jan 2024
+"655,000 ","25 Bellavista Circuit,",BEACONSFIELD QLD 4740,House,4,2,3,702m² ,24 Jan 2024
+"515,000 ","31 Mclaughlin Drive,",EIMEO QLD 4740,House,3,1,2,839m² ,24 Jan 2024
+"680,000","12 Kensington Court,",GLENELLA QLD 4740,House,5,3,4,796m² ,24 Jan 2024
+"413,100","21 Short Street,",NORTH MACKAY QLD 4740,House,2,1,3,678m² ,24 Jan 2024
+"801,000","21 Denham Crescent,",RURAL VIEW QLD 4740,House,5,2,4,"1,364m² ",24 Jan 2024
+"525,000 ","26 Bjelke Circuit,",RURAL VIEW QLD 4740,House,4,2,2,765m² ,24 Jan 2024
+"435,000 ","76 Napier Street,",SOUTH MACKAY QLD 4740,House,3,1,2,600m² ,24 Jan 2024
+"375,000 ","63 Juliet Street,",SOUTH MACKAY QLD 4740,House,3,1,3,460m² ,24 Jan 2024
+"532,000 ","13 Mosta Court,",ANDERGROVE QLD 4740,House,3,2,2,751m² ,23 Jan 2024
+"367,000 ","55 Maple Drive,",ANDERGROVE QLD 4740,House,3,2,2,"1,217m² ",23 Jan 2024
+"510,000 ","71 Canberra Street,",NORTH MACKAY QLD 4740,House,3,1,1,809m² ,23 Jan 2024
+"410,000 ","10 Freeman Avenue,",SLADE POINT QLD 4740,House,3,1,2,812m² ,23 Jan 2024
+"407,000","57 Dimmock Street,",SOUTH MACKAY QLD 4740,House,3,1,1,809m² ,23 Jan 2024
+"475,000","33 Lugano Mews,",ANDERGROVE QLD 4740,House,3,2,2,319m² ,22 Jan 2024
+"655,000 ","24 Almora Drive,",BEACONSFIELD QLD 4740,House,4,2,3,605m² ,22 Jan 2024
+"545,000 ","19 Kingslea Court,",OORALEA QLD 4740,House,4,2,2,719m² ,22 Jan 2024
+"493,000 ","20 Moreton Drive,",RURAL VIEW QLD 4740,House,4,2,2,675m² ,22 Jan 2024
+"478,000 ","11 Digby Street,",EAST MACKAY QLD 4740,House,3,2,1,784m² ,19 Jan 2024
+"535,000 ","5 Nott Street,",EAST MACKAY QLD 4740,House,3,2,3,769m² ,19 Jan 2024
+"450,000 ","91 Village Circuit,",EIMEO QLD 4740,House,4,2,2,532m² ,19 Jan 2024
+"318,000 ","57 Ungerer Street,",NORTH MACKAY QLD 4740,House,3,1,2,842m² ,19 Jan 2024
+"535,000 ","27 Gunsynd Street,",OORALEA QLD 4740,House,3,1,4,799m² ,19 Jan 2024
+"642,500 ","22 Devereux Street,",RURAL VIEW QLD 4740,House,4,2,2,828m² ,19 Jan 2024
+"640,000 ","46 Mackenzie Street,",WEST MACKAY QLD 4740,House,3,2,5,807m² ,19 Jan 2024
+"375,000 ","1592 Bruce Highway,",THE LEAP QLD 4740,House,2,1,5,"2,292m² ",18 Jan 2024
+"480,000","26 Streeter Avenue,",WEST MACKAY QLD 4740,House,3,1,1,325m² ,18 Jan 2024
+"622,000 ","6 Marlin Court,",ANDERGROVE QLD 4740,House,4,2,5,705m² ,17 Jan 2024
+"430,000 ","6 Warland Street,",SOUTH MACKAY QLD 4740,House,4,2,3,783m² ,17 Jan 2024
+"387,000 ","3 Lloyd Street,",WEST MACKAY QLD 4740,House,3,1,1,419m² ,17 Jan 2024
+"456,500 ","65 Pacific Drive,",HAY POINT QLD 4740,House,4,2,2,934m² ,16 Jan 2024
+"491,000 ","12 Flors Ave,",MOUNT PLEASANT QLD 4740,House,4,1,3,831m² ,16 Jan 2024
+"570,000 ","20 Caroval Drive,",RURAL VIEW QLD 4740,House,3,2,3,700m² ,16 Jan 2024
+"978,000","9 MARYVALE CIRCUIT,",BEACONSFIELD QLD 4740,House,4,2,6,849m² ,
+"590,000","22 Kippen Street,",EAST MACKAY QLD 4740,House,4,2,5,803m² ,15 Jan 2024
+"475,000","35 Burston Street,",NORTH MACKAY QLD 4740,House,4,1,4,764m² ,15 Jan 2024
+"335,000 ","23 Ready Street,",SOUTH MACKAY QLD 4740,House,3,2,5,711m² ,15 Jan 2024
+"395,000 ","5 English Street,",SOUTH MACKAY QLD 4740,House,3,1,3,527m² ,15 Jan 2024
+"460,000 ","83 Bonsons Scrub Road,",THE LEAP QLD 4740,House,2,1,2,0,15 Jan 2024
+"435,000 ","106 Bedford Road,",ANDERGROVE QLD 4740,House,3,1,2,794m² ,12 Jan 2024
+"485,000 ","2 Gemini Drive,",ANDERGROVE QLD 4740,House,4,3,4,777m² ,12 Jan 2024
+"432,000 ","4 Cable Court,",BLACKS BEACH QLD 4740,House,4,2,2,620m² ,12 Jan 2024
+"375,000 ","64 Webberley Street,",WEST MACKAY QLD 4740,House,3,1,1,759m² ,12 Jan 2024
+"370,000 ","12 Macartney Drive,",BELMUNDA QLD 4740,House,2,1,−,900m² ,11 Jan 2024
+"585,000 ","15 Christie Street,",EAST MACKAY QLD 4740,House,5,2,4,741m² ,11 Jan 2024
+"410,000 ","28 Scott Street,",SOUTH MACKAY QLD 4740,House,3,1,1,809m² ,11 Jan 2024
+"582,500 ","16 Beaton Street,",WEST MACKAY QLD 4740,House,3,1,2,832m² ,11 Jan 2024
+"700,000 ","4 Seafarer Court,",BLACKS BEACH QLD 4740,House,5,2,2,800m² ,10 Jan 2024
+"575,000 ","12 Vaucluse Crescent,",EAST MACKAY QLD 4740,House,4,2,4,490m² ,10 Jan 2024
+"450,000 ","1 Jason Street,",ANDERGROVE QLD 4740,House,3,2,2,743m² ,09 Jan 2024
+"560,523 ","7 Corella Way,",BLACKS BEACH QLD 4740,House,4,2,2,735m² ,09 Jan 2024
+"500,000 ","54 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,2,609m² ,09 Jan 2024
+"577,000 ","4 Corella Way,",BLACKS BEACH QLD 4740,House,4,2,2,544m² ,09 Jan 2024
+"495,000 ","11/8 Petrie Street,",EAST MACKAY QLD 4740,House,4,2,2,450m² ,09 Jan 2024
+"310,000 ","22 Warrener Street,",ANDERGROVE QLD 4740,House,3,1,1,810m² ,08 Jan 2024
+"430,000 ","7 Hill End Road,",GLENELLA QLD 4740,House,3,1,2,680m² ,08 Jan 2024
+"525,000 ","77 Norris Road,",MOUNT PLEASANT QLD 4740,House,4,2,3,760m² ,08 Jan 2024
+"485,000","75 Broomdykes Drive,",BEACONSFIELD QLD 4740,House,3,1,5,802m² ,06 Jan 2024
+"500,000 ","10 Aberdeen Court,",BEACONSFIELD QLD 4740,House,3,1,2,752m² ,05 Jan 2024
+"370,000 ","12 English Street,",SOUTH MACKAY QLD 4740,House,3,1,−,"1,060m² ",04 Jan 2024
+"690,000 ","45 Habana Woods Court,",HABANA QLD 4740,House,4,2,3,0,03 Jan 2024
+"590,000 ","29 Garraway Street,",WEST MACKAY QLD 4740,House,4,2,2,867m² ,03 Jan 2024
+"1,592,606 ","2 Ian Wood Drive,",DOLPHIN HEADS QLD 4740,House,4,3,4,"3,356m² ",02 Jan 2024
+"515,000 ","23/8 Petrie Street,",EAST MACKAY QLD 4740,House,4,2,2,450m² ,02 Jan 2024
+"2,100,000 ","5 Coral Ridge Drive,",EIMEO QLD 4740,House,4,3,5,"1,217m² ",27 Dec 2023
+"470,000 ","3 Scarborough Circuit,",BLACKS BEACH QLD 4740,House,4,2,4,581m² ,23 Dec 2023
+"580,000 ","19 James Cook Drive,",RURAL VIEW QLD 4740,House,4,2,2,820m² ,23 Dec 2023
+"375,000 ","40 Schaefer Street,",WEST MACKAY QLD 4740,House,2,1,2,776m² ,23 Dec 2023
+"655,000 ","26 Vaucluse Crescent,",EAST MACKAY QLD 4740,Duplex,5,3,2,452m² ,22 Dec 2023
+"810,000 ","1 Gingham Street,",GLENELLA QLD 4740,House,4,2,4,818m² ,22 Dec 2023
+"460,000 ","10 Sapphire Court,",NORTH MACKAY QLD 4740,House,4,2,2,540m² ,22 Dec 2023
+"350,000 ","35 Tulloch Street,",OORALEA QLD 4740,House,3,1,7,615m² ,22 Dec 2023
+"455,000 ","33 Mckenney Street,",SOUTH MACKAY QLD 4740,House,4,2,1,830m² ,22 Dec 2023
+"430,000 ","61 Kippen Street,",SOUTH MACKAY QLD 4740,House,3,1,1,509m² ,22 Dec 2023
+"540,000 ","34 Wardrop Street,",WEST MACKAY QLD 4740,House,5,1,2,811m² ,22 Dec 2023
+"575,000 ","43 Corella Way,",BLACKS BEACH QLD 4740,House,4,2,2,455m² ,21 Dec 2023
+"332,500 ","2/8 Ribbon Court,",GLENELLA QLD 4740,House,3,1,1,296m² ,21 Dec 2023
+"796,500 ","23 Chelsea Crescent,",GLENELLA QLD 4740,House,4,2,3,931m² ,21 Dec 2023
+"475,000 ","8 Gunsynd Street,",OORALEA QLD 4740,House,4,2,3,780m² ,21 Dec 2023
+"650,000","1 Mackenzie Street,",WEST MACKAY QLD 4740,House,2,2,4,"1,012m² ",21 Dec 2023
+"676,000 ","84 Maple Drive,",ANDERGROVE QLD 4740,House,4,2,4,"2,395m² ",20 Dec 2023
+"485,000 ","20 Coogee Terrace,",BLACKS BEACH QLD 4740,House,4,2,2,600m² ,20 Dec 2023
+"320,000 ","19/7 Bilgola Place,",BLACKS BEACH QLD 4740,House,3,2,1,134m² ,20 Dec 2023
+"825,000","26 Riverleigh Drive,",NORTH MACKAY QLD 4740,House,5,2,2,807m² ,20 Dec 2023
+"193,000 ","5/49 Hamilton Street,",NORTH MACKAY QLD 4740,House,2,1,1,62m² ,20 Dec 2023
+"910,000 ","23 Lockyer Court,",RURAL VIEW QLD 4740,House,4,2,4,"1,356m² ",20 Dec 2023
+"315,000 ","26140 Peak Downs Highway,",TE KOWAI QLD 4740,House,3,1,2,"1,012m² ",20 Dec 2023
+"610,000 ","10 Camellen Street,",BEACONSFIELD QLD 4740,House,4,2,2,708m² ,19 Dec 2023
+"575,000 ","33 Thorn Avenue,",RURAL VIEW QLD 4740,House,4,2,2,725m² ,19 Dec 2023
+"410,000 ","6 Anthony Vella Drive,",RURAL VIEW QLD 4740,House,3,1,2,800m² ,19 Dec 2023
+"575,000 ","35 Lamb Street,",SOUTH MACKAY QLD 4740,House,4,2,4,769m² ,19 Dec 2023
+"617,500 ","16 Chapman Court,",EIMEO QLD 4740,House,4,3,2,852m² ,18 Dec 2023
+"1,370,000 ","22 Sailaway Drive,",EIMEO QLD 4740,House,4,3,4,"1,798m² ",18 Dec 2023
+"400,500 ","70 Edward Street,",SOUTH MACKAY QLD 4740,House,3,1,1,322m² ,18 Dec 2023
+"720,000","10 Neill Street,",EAST MACKAY QLD 4740,House,5,3,2,700m² ,16 Dec 2023
+"725,000 ","14/42 Wattle Street,",ANDERGROVE QLD 4740,House,5,4,2,746m² ,15 Dec 2023
+"620,000","11 Botha Street,",BLACKS BEACH QLD 4740,House,4,2,3,800m² ,15 Dec 2023
+"640,000 ","3 Roy Court,",GLENELLA QLD 4740,House,4,2,2,813m² ,15 Dec 2023
+"550,000 ","52-54 Douglas Crescent,",RURAL VIEW QLD 4740,House,4,2,2,822m² ,15 Dec 2023
+"615,000","4 Neill Street,",EAST MACKAY QLD 4740,House,4,2,2,700m² ,14 Dec 2023
+"625,000 ","16 Frank Cowley Drive,",GLENELLA QLD 4740,House,4,3,2,806m² ,14 Dec 2023
+"525,000 ","50 Montgomery Street,",RURAL VIEW QLD 4740,House,4,2,2,847m² ,14 Dec 2023
+"295,000 ","34 Graffunder Street,",SOUTH MACKAY QLD 4740,House,3,1,2,473m² ,14 Dec 2023
+"315,000 ","3/32 Rae Street,",EAST MACKAY QLD 4740,House,3,1,1,250m² ,13 Dec 2023
+"620,000 ","50 Cinnamon Drive,",GLENELLA QLD 4740,House,4,2,2,844m² ,13 Dec 2023
+"625,000 ","5 Cocos Court,",NORTH MACKAY QLD 4740,House,4,2,3,946m² ,13 Dec 2023
+"290,000 ","67 Broadsound Road,",PAGET QLD 4740,House,2,1,1,809m² ,13 Dec 2023
+"400,000","40 O'Keefe Street,",WEST MACKAY QLD 4740,House,3,1,1,741m² ,13 Dec 2023
+"385,000 ","1/32 Warilla View,",BLACKS BEACH QLD 4740,House,3,2,2,167m² ,12 Dec 2023
+"515,000 ","71 Grendon Street,",NORTH MACKAY QLD 4740,House,3,2,4,464m² ,12 Dec 2023
+"315,000 ","1/3 Pratt Street,",SOUTH MACKAY QLD 4740,House,2,1,1,390m² ,12 Dec 2023
+"672,500 ","26/4 Bourke Street,",BLACKS BEACH QLD 4740,House,4,2,2,450m² ,11 Dec 2023
+"420,000","12 Davey Street,",GLENELLA QLD 4740,House,5,2,2,"1,012m² ",11 Dec 2023
+"550,000 ","49 Douglas Crescent,",RURAL VIEW QLD 4740,House,4,2,2,912m² ,11 Dec 2023
+"542,500 ","3 Shelley Court,",ANDERGROVE QLD 4740,House,4,2,2,832m² ,08 Dec 2023
+"450,000 ","3 Peregian Court,",BLACKS BEACH QLD 4740,House,4,2,2,474m² ,08 Dec 2023
+"595,000 ","17 Burge Court,",GLENELLA QLD 4740,House,4,2,2,648m² ,08 Dec 2023
+"499,000 ","16 Raylene Street,",MOUNT PLEASANT QLD 4740,House,3,2,2,724m² ,08 Dec 2023
+"455,250 ","8 Emu Street,",SLADE POINT QLD 4740,House,4,1,4,809m² ,08 Dec 2023
+"505,000 ","45 Jasmine Drive,",BLACKS BEACH QLD 4740,House,4,2,2,700m² ,07 Dec 2023
+"410,000 ","62 Pacific Drive,",BLACKS BEACH QLD 4740,House,3,1,−,829m² ,07 Dec 2023
+"412,234 ","32 High Street,",NORTH MACKAY QLD 4740,House,3,1,4,712m² ,07 Dec 2023
+"385,000","55 Mogford Street,",WEST MACKAY QLD 4740,House,3,1,2,809m² ,07 Dec 2023
+"365,000 ","11 Donaldson Street,",WEST MACKAY QLD 4740,House,3,1,−,620m² ,07 Dec 2023
+"775,000 ","1359 Maraju Yakapari Road,",BALNAGOWAN QLD 4740,House,4,2,5,"1,731m² ",06 Dec 2023
+"438,000 ","4 Melissa Court,",BEACONSFIELD QLD 4740,House,3,1,1,791m² ,06 Dec 2023
+"455,500 ","69 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,2,629m² ,06 Dec 2023
+"800,000 ","30 Mercy Drive,",NORTH MACKAY QLD 4740,House,4,2,2,778m² ,06 Dec 2023
+"545,000","22 Woden Crescent,",OORALEA QLD 4740,House,4,2,2,601m² ,06 Dec 2023
+"790,000 ","19 Ultimo Court,",BEACONSFIELD QLD 4740,House,4,2,2,710m² ,05 Dec 2023
+"449,000 ","7 Farrell Court,",BEACONSFIELD QLD 4740,House,3,1,2,815m² ,05 Dec 2023
+"493,000 ","6 Trasero Lane,",BEACONSFIELD QLD 4740,House,4,2,−,400m² ,05 Dec 2023
+"420,000 ","12 Trinity Parade,",BLACKS BEACH QLD 4740,House,4,2,2,511m² ,05 Dec 2023
+"370,000 ","29 Shakespeare Street,",EAST MACKAY QLD 4740,House,4,1,−,450m² ,05 Dec 2023
+"550,000 ","12 Marcella Street,",RURAL VIEW QLD 4740,House,3,2,6,802m² ,05 Dec 2023
+"740,000 ","2 Panorama Court,",RURAL VIEW QLD 4740,House,3,2,3,"1,592m² ",05 Dec 2023
+"345,000 ","32 Edmonds Street,",WEST MACKAY QLD 4740,House,3,1,2,817m² ,05 Dec 2023
+"299,000 ","20 Rae Street,",EAST MACKAY QLD 4740,House,3,1,2,"1,024m² ",04 Dec 2023
+"1,650,000 ","45 Logan Crescent,",ERAKALA QLD 4740,House,4,3,6,"2,010m² ",04 Dec 2023
+"445,000 ","7 Reflection Street,",MOUNT PLEASANT QLD 4740,House,3,2,2,225m² ,04 Dec 2023
+"470,000 ","12 Northview Terrace,",MOUNT PLEASANT QLD 4740,House,5,2,2,771m² ,04 Dec 2023
+"385,000 ","48 Ungerer Street,",NORTH MACKAY QLD 4740,House,2,1,1,888m² ,04 Dec 2023
+"459,000 ","1/1 Quail Street,",SLADE POINT QLD 4740,House,5,2,1,473m² ,04 Dec 2023
+"622,000 ","22 Galletly Street,",WEST MACKAY QLD 4740,House,4,2,3,832m² ,04 Dec 2023
+"305,000 ","25 Cicada Lane,",ANDERGROVE QLD 4740,House,2,1,1,157m² ,01 Dec 2023
+"760,000 ","18 Eleanor Drive,",BEACONSFIELD QLD 4740,House,4,2,2,751m² ,01 Dec 2023
+"580,000 ","17 Hillcrest Street,",EIMEO QLD 4740,House,3,2,3,831m² ,01 Dec 2023
+"390,000 ","12 Churchill Avenue,",OORALEA QLD 4740,House,3,1,2,800m² ,01 Dec 2023
+"495,000","15 Morehead Drive,",RURAL VIEW QLD 4740,House,4,2,2,840m² ,01 Dec 2023
+"581,300 ","14 Klingner Street,",SOUTH MACKAY QLD 4740,House,4,2,3,813m² ,01 Dec 2023
+"655,000","9 MICHENER COURT,",WEST MACKAY QLD 4740,House,4,2,5,960m² ,
+"263,500 ","2/3 Wagtail Street,",ANDERGROVE QLD 4740,House,1,1,1,83m² ,30 Nov 2023
+"520,000","14 Marzan Street,",RURAL VIEW QLD 4740,House,4,2,1,873m² ,30 Nov 2023
+"530,000 ","23 Hinze Circuit,",RURAL VIEW QLD 4740,House,4,3,2,708m² ,30 Nov 2023
+"695,000 ","10 Monterrico Circuit,",BEACONSFIELD QLD 4740,House,4,2,3,747m² ,29 Nov 2023
+"400,000 ","5-7 Armitage Drive,",EIMEO QLD 4740,House,2,2,1,810m² ,29 Nov 2023
+"480,000 ","1 Janz Street,",SLADE POINT QLD 4740,House,3,1,3,859m² ,29 Nov 2023
+"485,000 ","12 Edmonds Street,",WEST MACKAY QLD 4740,House,3,1,4,819m² ,29 Nov 2023
+"410,000 ","8 Cable Court,",BLACKS BEACH QLD 4740,House,4,2,2,495m² ,28 Nov 2023
+"530,000 ","17 Narrabeen Street,",BLACKS BEACH QLD 4740,House,4,2,2,634m² ,28 Nov 2023
+"450,000 ","85 Scarborough Circuit,",BLACKS BEACH QLD 4740,House,4,2,2,433m² ,28 Nov 2023
+"550,000 ","14 Outlook Crescent,",MOUNT PLEASANT QLD 4740,House,5,2,2,700m² ,28 Nov 2023
+"378,000 ","11 Gaylard Street,",NORTH MACKAY QLD 4740,House,3,2,4,936m² ,28 Nov 2023
+"800,000 ","25 Warland Street,",SOUTH MACKAY QLD 4740,House,4,2,6,805m² ,28 Nov 2023
+"540,000 ","93 Donaldson Street,",WEST MACKAY QLD 4740,House,3,1,4,807m² ,28 Nov 2023
+"510,000 ","35 Wattle Street,",ANDERGROVE QLD 4740,House,5,2,2,796m² ,27 Nov 2023
+"390,000 ","52 Rae Street,",EAST MACKAY QLD 4740,House,3,1,1,"1,003m² ",27 Nov 2023
+"480,000","2/4 Kirribilli Avenue,",EAST MACKAY QLD 4740,House,4,2,2,232m² ,27 Nov 2023
+"970,000 ","128 The Esplanade,",GRASSTREE BEACH QLD 4740,House,4,2,3,607m² ,27 Nov 2023
+"580,000 ","17 Windsor Street,",GLENELLA QLD 4740,House,3,2,2,750m² ,26 Nov 2023
+"475,000 ","14 Viola Street,",GLENELLA QLD 4740,House,3,2,2,751m² ,24 Nov 2023
+"870,000","16 Bonsai Court,",GLENELLA QLD 4740,House,5,2,4,872m² ,24 Nov 2023
+"480,000","11 Knobel Street,",NORTH MACKAY QLD 4740,House,4,2,5,847m² ,24 Nov 2023
+"645,000 ","33 Douglas Crescent,",RURAL VIEW QLD 4740,House,4,2,2,617m² ,24 Nov 2023
+"577,900 ","1 Abel Tasman Court,",RURAL VIEW QLD 4740,House,4,2,4,791m² ,24 Nov 2023
+"940,000","6 Sailaway Drive,",EIMEO QLD 4740,House,4,2,2,745m² ,23 Nov 2023
+"590,000 ","1B Eulbertie Avenue,",EIMEO QLD 4740,House,4,2,5,"1,520m² ",23 Nov 2023
+"560,000 ","33 Montgomery Street,",RURAL VIEW QLD 4740,House,3,2,3,616m² ,23 Nov 2023
+"490,500 ","65 Edward Street,",SOUTH MACKAY QLD 4740,House,4,2,2,810m² ,23 Nov 2023
+"575,000 ","3 Orania Court,",ANDERGROVE QLD 4740,House,4,2,4,745m² ,22 Nov 2023
+"391,000 ","7 Banyan Street,",ANDERGROVE QLD 4740,House,3,2,1,265m² ,22 Nov 2023
+"380,000 ","32 Beaconsfield Road,",BEACONSFIELD QLD 4740,House,3,1,2,"2,023m² ",22 Nov 2023
+"640,000 ","1487 Yakapari-Seaforth Road,",MOUNT JUKES QLD 4740,House,5,2,8,0,22 Nov 2023
+"475,000 ","21 William Street,",SOUTH MACKAY QLD 4740,House,3,1,4,789m² ,22 Nov 2023
+"362,500 ","12 Lambrook Court,",ALEXANDRA QLD 4740,House,3,1,3,"1,285m² ",21 Nov 2023
+"435,000 ",,ANDERGROVE QLD 4740,House,3,1,2,809m² ,21 Nov 2023
+"670,000","13 Chantilly Court,",GLENELLA QLD 4740,House,4,2,2,788m² ,21 Nov 2023
+"350,000","8 Creek Street,",NORTH MACKAY QLD 4740,House,3,1,1,814m² ,21 Nov 2023
+"475,000 ","10 Hi Grove Terrace,",ANDERGROVE QLD 4740,House,4,1,2,779m² ,20 Nov 2023
+"408,000 ","31 Mansfield Drive,",BEACONSFIELD QLD 4740,House,3,1,2,632m² ,20 Nov 2023
+"695,000 ","53 Bellavista Circuit,",BEACONSFIELD QLD 4740,House,4,2,3,749m² ,20 Nov 2023
+"579,000 ","8 Dalrymple Street,",EAST MACKAY QLD 4740,House,4,3,3,708m² ,20 Nov 2023
+"795,000 ","3 Neill Street,",EAST MACKAY QLD 4740,House,4,2,1,700m² ,20 Nov 2023
+"590,000 ","10 Teanna Court,",EIMEO QLD 4740,House,3,2,2,808m² ,20 Nov 2023
+"399,000 ","53 Daniel Street,",NORTH MACKAY QLD 4740,House,3,1,2,670m² ,20 Nov 2023
+"539,000 ","33 Cahill Crescent,",RURAL VIEW QLD 4740,House,4,2,2,862m² ,20 Nov 2023
+"325,000 ","14 Kenilworth Street,",SOUTH MACKAY QLD 4740,House,5,2,2,362m² ,20 Nov 2023
+"760,000 ","87 Andrew Fordyce Road,",MOUNT JUKES QLD 4740,House,4,2,6,0,17 Nov 2023
+"440,000 ","11 Davinelle Close,",ANDERGROVE QLD 4740,House,3,1,2,"1,222m² ",16 Nov 2023
+"432,000 ","5 Jason Street,",ANDERGROVE QLD 4740,House,3,1,1,743m² ,16 Nov 2023
+"430,000 ","5 Jorgensen Street,",BAKERS CREEK QLD 4740,House,3,1,1,817m² ,16 Nov 2023
+"540,000 ","1 Beschen Court,",BLACKS BEACH QLD 4740,House,4,2,3,838m² ,16 Nov 2023
+"680,000","9 Iluka Court,",EAST MACKAY QLD 4740,House,4,2,3,580m² ,16 Nov 2023
+"575,000 ","13 Mowlam Street,",EIMEO QLD 4740,House,3,3,4,410m² ,16 Nov 2023
+"450,000","3 Robinson Street,",NORTH MACKAY QLD 4740,House,3,1,2,607m² ,16 Nov 2023
+"397,500 ","16 Langer Drive,",EIMEO QLD 4740,House,4,1,1,899m² ,15 Nov 2023
+"440,000 ","40 Maralyn Avenue,",GRASSTREE BEACH QLD 4740,House,3,2,4,"1,012m² ",15 Nov 2023
+"486,000 ","284 Bedford Road,",ANDERGROVE QLD 4740,House,4,2,2,800m² ,14 Nov 2023
+"462,500","1 Norfolk Drive,",ANDERGROVE QLD 4740,House,5,2,5,796m² ,14 Nov 2023
+"810,000 ","4 Wilcox Street,",EIMEO QLD 4740,House,5,3,2,775m² ,14 Nov 2023
+"655,000","9/3 Mango Avenue,",EIMEO QLD 4740,House,3,2,3,361m² ,14 Nov 2023
+"425,000 ","15 Van Eldik Avenue,",ANDERGROVE QLD 4740,House,4,2,2,"1,140m² ",13 Nov 2023
+"475,000 ","4 Telina Drive,",BEACONSFIELD QLD 4740,House,3,2,5,704m² ,13 Nov 2023
+"462,000 ","91 Broomdykes Drive,",BEACONSFIELD QLD 4740,House,4,2,1,815m² ,13 Nov 2023
+"900,000 ","12 CORAL RIDGE DRIVE,",EIMEO QLD 4740,House,4,2,3,758m² ,13 Nov 2023
+"675,000 ","29 Raffia Street,",RURAL VIEW QLD 4740,House,4,2,3,718m² ,13 Nov 2023
+"350,000 ","43 Penn Street,",SOUTH MACKAY QLD 4740,House,3,2,2,931m² ,13 Nov 2023
+"355,000 ","418 Bridge Road,",WEST MACKAY QLD 4740,House,2,1,2,817m² ,13 Nov 2023
+"495,000 ","27 Grevillea Drive,",GLENELLA QLD 4740,House,4,2,2,750m² ,11 Nov 2023
+"440,000 ","2 Muldoon Court,",EIMEO QLD 4740,House,3,2,4,906m² ,10 Nov 2023
+"765,000 ","15 Oasis Drive,",NORTH MACKAY QLD 4740,House,5,2,2,717m² ,10 Nov 2023
+"420,000 ","22 Hart Street,",SOUTH MACKAY QLD 4740,House,3,1,5,746m² ,10 Nov 2023
+"650,000 ","2 Milne Lane,",WEST MACKAY QLD 4740,House,7,4,4,802m² ,10 Nov 2023
+"629,000","7 Iluka Court,",EAST MACKAY QLD 4740,House,4,2,2,552m² ,09 Nov 2023
+"620,000 ","10 Windsor Street,",GLENELLA QLD 4740,House,3,2,2,737m² ,09 Nov 2023
+"385,000","2 Tay Street,",SOUTH MACKAY QLD 4740,House,3,1,1,374m² ,09 Nov 2023
+"385,000 ","11 Burleigh Court,",BLACKS BEACH QLD 4740,House,4,2,2,400m² ,08 Nov 2023
+"539,000 ","38 Lancaster Way,",OORALEA QLD 4740,House,4,2,2,513m² ,08 Nov 2023
+"412,700 ","34 Peatey Street,",ANDERGROVE QLD 4740,House,3,1,3,805m² ,07 Nov 2023
+"355,000 ","5 Contor Drive,",BAKERS CREEK QLD 4740,House,3,2,2,806m² ,07 Nov 2023
+"535,000 ","30 Kensington Court,",GLENELLA QLD 4740,House,3,2,2,425m² ,07 Nov 2023
+"370,000 ","3 Nightingale Court,",SLADE POINT QLD 4740,House,3,2,2,893m² ,07 Nov 2023
+"500,000 ","241 Bedford Road,",ANDERGROVE QLD 4740,House,5,2,4,"1,052m² ",06 Nov 2023
+"545,000 ","14 Vaucluse Crescent,",EAST MACKAY QLD 4740,House,4,2,2,481m² ,06 Nov 2023
+"650,000 ","23 Norris Road,",MOUNT PLEASANT QLD 4740,House,6,3,4,971m² ,06 Nov 2023
+"465,000 ","20 Woden Crescent,",OORALEA QLD 4740,House,3,1,3,601m² ,06 Nov 2023
+"495,000 ","8 Sneyd Street,",WEST MACKAY QLD 4740,House,3,1,1,764m² ,04 Nov 2023
+"675,000 ","1&2/31 Primavera Boulevard,",BEACONSFIELD QLD 4740,Duplex,5,4,2,633m² ,03 Nov 2023
+"455,000 ","4 Moody Street,",EAST MACKAY QLD 4740,House,3,1,3,708m² ,03 Nov 2023
+"400,000 ","2 Willetts Road,",NORTH MACKAY QLD 4740,House,3,1,2,655m² ,03 Nov 2023
+"349,000 ","8 Keller Street,",NORTH MACKAY QLD 4740,House,4,2,1,852m² ,03 Nov 2023
+"370,000 ","193 Bedford Road,",ANDERGROVE QLD 4740,House,3,1,1,"1,004m² ",02 Nov 2023
+"515,000 ","44 Trout Avenue,",ANDERGROVE QLD 4740,House,3,2,4,866m² ,02 Nov 2023
+"435,000 ","9 Miami Terrace,",BLACKS BEACH QLD 4740,House,4,2,2,612m² ,02 Nov 2023
+"680,000 ","56 John Oxley Avenue,",RURAL VIEW QLD 4740,House,4,3,2,701m² ,02 Nov 2023
+"530,000","24 Warland Street,",SOUTH MACKAY QLD 4740,House,4,3,5,760m² ,02 Nov 2023
+"490,000 ","39 PHILLIP STREET,",MOUNT PLEASANT QLD 4740,House,3,2,2,700m² ,01 Nov 2023
+"545,000","195a Bedford Road,",ANDERGROVE QLD 4740,House,3,2,2,"3,012m² ",31 Oct 2023
+"560,000 ","1 Pellage Court,",BEACONSFIELD QLD 4740,House,3,2,2,526m² ,31 Oct 2023
+"615,000","15 Corella Way,",BLACKS BEACH QLD 4740,House,5,2,2,700m² ,31 Oct 2023
+"585,000","33 Canberra Street,",NORTH MACKAY QLD 4740,House,3,2,4,801m² ,31 Oct 2023
+"450,000","117 Evans Avenue,",NORTH MACKAY QLD 4740,House,3,2,3,830m² ,31 Oct 2023
+"480,000 ","12 Ontario Parade,",ANDERGROVE QLD 4740,House,3,2,2,450m² ,30 Oct 2023
+"440,000 ","19 Gunsynd Street,",OORALEA QLD 4740,House,3,1,3,780m² ,30 Oct 2023
+"395,000","66 Grendon Street,",NORTH MACKAY QLD 4740,House,3,1,3,809m² ,28 Oct 2023
+"565,000 ","40 Blacks Beach Road,",BLACKS BEACH QLD 4740,House,4,3,2,800m² ,27 Oct 2023
+"425,000 ","3 Graham Court,",MOUNT PLEASANT QLD 4740,House,4,2,1,809m² ,27 Oct 2023
+"365,000 ","75 Peak Downs Highway,",OORALEA QLD 4740,House,3,1,2,840m² ,27 Oct 2023
+"715,000 ","6 Yatay Street,",RURAL VIEW QLD 4740,House,4,2,4,710m² ,27 Oct 2023
+"885,000","12 Glenhorn Close,",WEST MACKAY QLD 4740,House,4,3,3,"1,420m² ",27 Oct 2023
+"950,000 ","26 Banksia Avenue,",ANDERGROVE QLD 4740,House,4,1,4,0,26 Oct 2023
+"420,000 ","8 Burleigh Court,",BLACKS BEACH QLD 4740,House,4,2,2,362m² ,26 Oct 2023
+"699,000 ","5 Baur Street,",NORTH MACKAY QLD 4740,House,4,2,5,"1,085m² ",26 Oct 2023
+"790,000 ","24 Monash Way,",OORALEA QLD 4740,House,4,2,2,756m² ,26 Oct 2023
+"790,000 ","21 Vassallo Drive,",GLENELLA QLD 4740,House,4,2,2,850m² ,25 Oct 2023
+"466,500 ","11 Kirkconell Street,",BEACONSFIELD QLD 4740,House,3,2,2,800m² ,24 Oct 2023
+"580,000 ","5 Bonsai Court,",GLENELLA QLD 4740,House,4,2,2,782m² ,24 Oct 2023
+"565,000","111 Scott Street,",SOUTH MACKAY QLD 4740,House,6,2,6,752m² ,24 Oct 2023
+"390,000","1 O'Keefe Street,",WEST MACKAY QLD 4740,House,3,1,1,799m² ,24 Oct 2023
+"460,000 ","26 Crowley Drive,",WEST MACKAY QLD 4740,House,3,2,3,794m² ,24 Oct 2023
+"507,500 ","28 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,2,601m² ,23 Oct 2023
+"585,000 ","19 Mulherin Street,",EAST MACKAY QLD 4740,House,3,2,2,809m² ,23 Oct 2023
+"575,000 ","59 Makybe Diva Drive,",OORALEA QLD 4740,House,4,2,2,794m² ,23 Oct 2023
+"455,000 ","8 Aberdeen Court,",BEACONSFIELD QLD 4740,House,3,2,2,776m² ,20 Oct 2023
+"440,000 ","3 Davey Street,",GLENELLA QLD 4740,House,3,1,2,750m² ,20 Oct 2023
+"585,000 ","26 Sologinkin Road,",RURAL VIEW QLD 4740,House,4,2,4,878m² ,20 Oct 2023
+"390,000 ","2 Dobel Court,",MOUNT PLEASANT QLD 4740,House,3,1,3,748m² ,19 Oct 2023
+"627,000 ","20 Salisbury Place,",OORALEA QLD 4740,House,3,2,3,576m² ,19 Oct 2023
+"757,000 ","12 Regent Avenue,",RICHMOND QLD 4740,House,4,2,3,757m² ,19 Oct 2023
+"499,000 ","19 Majesty Street,",RURAL VIEW QLD 4740,House,4,2,2,569m² ,19 Oct 2023
+"689,000 ","15 Lockyer Court,",RURAL VIEW QLD 4740,House,4,2,5,"1,111m² ",19 Oct 2023
+"660,000 ","8A Pelican Street,",SLADE POINT QLD 4740,House,3,2,2,"1,447m² ",19 Oct 2023
+"719,000","5 Louise Court,",ANDERGROVE QLD 4740,House,5,2,2,"1,565m² ",18 Oct 2023
+"360,000 ","14 Langer Drive,",EIMEO QLD 4740,House,3,1,1,767m² ,18 Oct 2023
+"885,000 ","646 Farleigh-Habana Road,",HABANA QLD 4740,House,4,2,8,0,2023
+"523,000 ","12 Davlyn Drive,",ANDERGROVE QLD 4740,House,4,2,1,774m² ,17 Oct 2023
+"536,000 ","12 Geoffrey Nolan Drive,",ANDERGROVE QLD 4740,House,4,2,4,762m² ,17 Oct 2023
+"730,000 ","13 Olivia Place,",RICHMOND QLD 4740,House,4,2,4,613m² ,17 Oct 2023
+"468,000 ","20 Phoenix Crescent,",RURAL VIEW QLD 4740,House,4,2,2,539m² ,17 Oct 2023
+"369,000 ","1/14 William Street,",SOUTH MACKAY QLD 4740,House,3,2,2,175m² ,17 Oct 2023
+"640,000 ","130 Balnagowan Mandarana Road,",THE LEAP QLD 4740,House,3,1,10,"1,404m² ",17 Oct 2023
+"484,000 ","3 Bagley Street,",WEST MACKAY QLD 4740,House,3,1,2,809m² ,17 Oct 2023
+"370,000 ","13 Silver Gum Drive,",ANDERGROVE QLD 4740,House,3,1,1,806m² ,16 Oct 2023
+"1,100,000 ","106 Eaglemount Road,",BEACONSFIELD QLD 4740,House,3,1,4,"2,478m² ",16 Oct 2023
+"326,500 ","2/4 Coogee Terrace,",BLACKS BEACH QLD 4740,Duplex,3,2,2,441m² ,16 Oct 2023
+"1,175,000","580 Cape Hillsborough Road,",CAPE HILLSBOROUGH QLD 4740,House,5,4,10,0,16 Oct 2023
+"1,000,000 ","135 Carranya Road,",HABANA QLD 4740,House,4,2,7,0,16 Oct 2023
+"470,000","6 Berkshire Lane,",OORALEA QLD 4740,House,3,2,3,340m² ,16 Oct 2023
+"474,000 ","43 Hart Street,",SOUTH MACKAY QLD 4740,House,3,1,2,778m² ,16 Oct 2023
+"350,000 ","109 Evan Street,",SOUTH MACKAY QLD 4740,House,2,1,1,789m² ,16 Oct 2023
+"470,000 ","45 Simpson Street,",WEST MACKAY QLD 4740,House,3,1,4,802m² ,16 Oct 2023
+"220,000 ","2/45 Whitefig Close,",ANDERGROVE QLD 4740,House,1,1,1,62m² ,13 Oct 2023
+"745,000 ","53 Jasmine Drive,",BLACKS BEACH QLD 4740,House,4,2,4,"1,144m² ",13 Oct 2023
+"610,000","3 Eden Court,,",GLENELLA QLD 4740,House,5,2,2,747m² ,13 Oct 2023
+"455,000","5 Mortensen Street,",NORTH MACKAY QLD 4740,House,3,2,2,879m² ,13 Oct 2023
+"340,000 ","12 Kenilworth Street,",SOUTH MACKAY QLD 4740,House,3,2,2,"1,012m² ",13 Oct 2023
+"440,000","7 Azalea Court,",BEACONSFIELD QLD 4740,House,4,2,1,731m² ,12 Oct 2023
+"500,000 ","77 Newport Parade,",BLACKS BEACH QLD 4740,House,4,2,2,600m² ,12 Oct 2023
+"555,000 ","16 Elizabeth St,",NORTH MACKAY QLD 4740,House,3,2,4,475m² ,12 Oct 2023
+"422,000","41 Broomdykes Drive,",BEACONSFIELD QLD 4740,House,3,1,3,802m² ,11 Oct 2023
+"600,000 ","47 Coakley Court,",ERAKALA QLD 4740,House,4,1,2,"9,153m² ",11 Oct 2023
+"400,000 ","14 Holack Street,",NORTH MACKAY QLD 4740,House,3,1,−,736m² ,11 Oct 2023
+"925,000 ","43 Sharp Street,",RURAL VIEW QLD 4740,House,5,3,4,796m² ,11 Oct 2023
+"340,000 ","8 Dennis Street,",SOUTH MACKAY QLD 4740,House,3,1,1,749m² ,11 Oct 2023
+"413,000 ","6A Mary Street,",WEST MACKAY QLD 4740,House,3,2,1,483m² ,11 Oct 2023
+"385,000 ","18 Duncan Street,",WEST MACKAY QLD 4740,House,3,1,1,809m² ,11 Oct 2023
+"410,000 ","63 Banksia Avenue,",ANDERGROVE QLD 4740,House,3,1,2,800m² ,10 Oct 2023
+"425,000","15 Davlyn Drive,",ANDERGROVE QLD 4740,House,3,1,1,772m² ,10 Oct 2023
+"412,000 ","4 Donovan Street,",BLACKS BEACH QLD 4740,House,4,2,2,469m² ,10 Oct 2023
+"950,000","21 Jardine Drive,",ERAKALA QLD 4740,House,4,2,6,"2,034m² ",
+"590,000 ","9 Wellby Court,",NORTH MACKAY QLD 4740,House,4,2,2,791m² ,10 Oct 2023
+"405,000 ","16 Yatay Street,",RURAL VIEW QLD 4740,House,3,2,1,355m² ,10 Oct 2023
+"540,000 ","19 Fairway Drive,",BAKERS CREEK QLD 4740,House,4,2,2,570m² ,09 Oct 2023
+"450,000 ","15 Cassia Street,",BEACONSFIELD QLD 4740,House,4,1,1,621m² ,09 Oct 2023
+"395,000 ","61 Chenoweth Drive,",BLACKS BEACH QLD 4740,House,4,2,2,387m² ,09 Oct 2023
+"415,000 ","85 Evans Avenue,",NORTH MACKAY QLD 4740,House,2,1,1,895m² ,09 Oct 2023
+"605,000 ","13 Perry Street,",WEST MACKAY QLD 4740,House,3,1,4,813m² ,09 Oct 2023
+"750,000 ","16 Benson Avenue,",MOUNT PLEASANT QLD 4740,House,3,3,2,700m² ,07 Oct 2023
+"850,000","46 Pacific Esplanade,",SLADE POINT QLD 4740,House,4,2,3,708m² ,07 Oct 2023
+"400,000 ","48 Investigator Street,",ANDERGROVE QLD 4740,House,3,1,1,"3,154m² ",06 Oct 2023
+"500,000 ","4 Fairway Drive,",BAKERS CREEK QLD 4740,House,4,2,2,547m² ,06 Oct 2023
+"480,000 ","53 Duranbah Circuit,",BLACKS BEACH QLD 4740,House,4,2,2,620m² ,06 Oct 2023
+"400,000 ","11 Cassia Street,",BEACONSFIELD QLD 4740,House,3,1,1,621m² ,05 Oct 2023
+"725,000 ","14 Albion Crescent,",MOUNT PLEASANT QLD 4740,House,4,2,4,717m² ,05 Oct 2023
+"515,000 ","89 Grendon Street,",NORTH MACKAY QLD 4740,House,4,2,2,787m² ,05 Oct 2023
+"425,000 ","51 Mengel Street,",SOUTH MACKAY QLD 4740,House,3,2,1,794m² ,05 Oct 2023
+"710,000 ","28/4 Bourke Street,",BLACKS BEACH QLD 4740,House,4,2,4,"1,183m² ",04 Oct 2023
+"525,000 ","56 Zelma Street,",GRASSTREE BEACH QLD 4740,House,5,2,3,931m² ,04 Oct 2023
+"1,520,000 ","28 Swan Street,",SLADE POINT QLD 4740,House,4,2,2,889m² ,04 Oct 2023
+"440,000 ","16 Burwood Close,",ANDERGROVE QLD 4740,House,4,1,3,803m² ,2023
+"445,000 ","2 Nicole Court,",ANDERGROVE QLD 4740,House,3,1,3,751m² ,03 Oct 2023
+"850,000 ","3 Cassley Street,",BEACONSFIELD QLD 4740,House,4,2,4,814m² ,03 Oct 2023
+"440,000","2A Hannaford Street,",NORTH MACKAY QLD 4740,House,3,2,1,372m² ,03 Oct 2023
+"380,000 ","220 Slade Point Road,",SLADE POINT QLD 4740,House,3,1,1,"1,012m² ",03 Oct 2023
+"685,000 ","8 Lambert Court,",SLADE POINT QLD 4740,House,4,3,5,777m² ,03 Oct 2023
+"480,000 ","19 Denton Street,",SOUTH MACKAY QLD 4740,House,4,1,2,815m² ,03 Oct 2023
+"485,000 ","18 Minster Street,",SOUTH MACKAY QLD 4740,House,3,2,4,800m² ,03 Oct 2023
+"510,000 ","27 Field Street,",WEST MACKAY QLD 4740,House,5,2,3,903m² ,03 Oct 2023
+"275,000 ","13 Paulette Street,",WEST MACKAY QLD 4740,House,2,1,−,814m² ,02 Oct 2023
+"662,500","14 Magellan Drive,",ANDERGROVE QLD 4740,House,4,2,2,798m² ,29 Sep 2023
+"600,000 ","18 Angelina Avenue,",GLENELLA QLD 4740,House,4,2,4,743m² ,29 Sep 2023
+"445,000","46 Hamilton Street,",NORTH MACKAY QLD 4740,House,4,2,2,809m² ,29 Sep 2023
+"655,000","8 Lockyer Court,",RURAL VIEW QLD 4740,House,4,2,4,802m² ,29 Sep 2023
+"385,000 ","11 Glamis Court,",BEACONSFIELD QLD 4740,House,3,2,1,450m² ,28 Sep 2023
+"415,000 ","27 Pittman Street,",BEACONSFIELD QLD 4740,House,4,2,2,752m² ,28 Sep 2023
+"495,000 ","66 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,2,605m² ,28 Sep 2023
+"395,000 ","22 Newport Parade,",BLACKS BEACH QLD 4740,House,4,2,2,432m² ,28 Sep 2023
+"590,000 ","36 Horsburgh Road,",HAY POINT QLD 4740,House,3,2,5,0,28 Sep 2023
+"260,000 ","2/22 Macdonald Street,",SOUTH MACKAY QLD 4740,House,2,1,1,96m² ,28 Sep 2023
+"450,000 ","13 Beth Street,",BLACKS BEACH QLD 4740,House,3,2,1,800m² ,26 Sep 2023
+"775,000 ","988 Yakapari-Habana Road,",HABANA QLD 4740,House,5,2,8,"4,073m² ",26 Sep 2023
+"465,000 ","11 McKenney Street,",SOUTH MACKAY QLD 4740,House,2,1,2,862m² ,26 Sep 2023
+"435,000 ","164 Goldsmith Street,",SOUTH MACKAY QLD 4740,House,3,2,1,"1,019m² ",26 Sep 2023
+"310,000 ","14 Bunya Way,",ANDERGROVE QLD 4740,House,2,1,1,166m² ,25 Sep 2023
+"321,000 ","2 Peppertree Crescent,",ANDERGROVE QLD 4740,House,2,1,1,128m² ,25 Sep 2023
+"338,000 ","16 Gans Court,",EIMEO QLD 4740,House,1,1,1,"1,223m² ",25 Sep 2023
+"370,000","58 Zelma Street,",GRASSTREE BEACH QLD 4740,House,3,1,1,959m² ,25 Sep 2023
+"520,000 ","9 Majesty Street,,",RURAL VIEW QLD 4740,House,4,2,2,549m² ,25 Sep 2023
+"515,000 ","97 Maple Drive,",ANDERGROVE QLD 4740,House,3,2,2,800m² ,22 Sep 2023
+"517,500 ","14 Van Eldik Avenue,",ANDERGROVE QLD 4740,House,4,2,6,813m² ,21 Sep 2023
+"495,000 ","8 Cove Court,",BAKERS CREEK QLD 4740,House,4,2,2,559m² ,21 Sep 2023
+"740,000 ","2 Cameron Street,",EAST MACKAY QLD 4740,House,4,3,2,769m² ,21 Sep 2023
+"375,000 ","18 Kenzey Street,",NORTH MACKAY QLD 4740,House,3,1,−,809m² ,21 Sep 2023
+"440,000 ","8 Ennio Court,",SOUTH MACKAY QLD 4740,House,3,1,2,700m² ,21 Sep 2023
+"415,000 ","30a Newport Parade,",BLACKS BEACH QLD 4740,House,4,3,2,335m² ,20 Sep 2023
+"699,000 ","4 Iluka Court,",EAST MACKAY QLD 4740,House,4,2,2,583m² ,20 Sep 2023
+"600,000 ","7 Porpoise Place,",ANDERGROVE QLD 4740,House,4,2,3,819m² ,19 Sep 2023
+"480,000 ","18 Scarborough Circuit,",BLACKS BEACH QLD 4740,House,4,2,2,564m² ,19 Sep 2023
+"320,000 ","29 Burgess Street,",NORTH MACKAY QLD 4740,House,3,1,2,655m² ,19 Sep 2023
+"570,000 ","36 Lancaster Way,",OORALEA QLD 4740,House,3,2,3,631m² ,19 Sep 2023
+"448,000 ","44 Miami Terrace,",BLACKS BEACH QLD 4740,House,4,2,2,634m² ,18 Sep 2023
+"825,000 ","38 Monash Way,",OORALEA QLD 4740,House,5,2,4,873m² ,18 Sep 2023
+"401,000 ","1/53 Westaway Crescent,",ANDERGROVE QLD 4740,Semi-detached,3,2,1,141m² ,16 Sep 2023
+"350,000 ","10 McKenny Street,",SOUTH MACKAY QLD 4740,House,3,1,3,793m² ,16 Sep 2023
+"480,000 ","11 Grosvenor Place,",WEST MACKAY QLD 4740,House,3,1,2,700m² ,16 Sep 2023
+"420,000 ","25 Paulette Street,",WEST MACKAY QLD 4740,House,3,1,1,814m² ,15 Sep 2023
+"400,000 ","89 Scarborough Circuit,",BLACKS BEACH QLD 4740,House,4,2,2,300m² ,14 Sep 2023
+"335,000 ","17/3 Kirribilli Avenue,",EAST MACKAY QLD 4740,House,2,2,1,100m² ,14 Sep 2023
+"925,000 ","6 James Croker Drive,",MOUNT PLEASANT QLD 4740,House,4,2,2,759m² ,14 Sep 2023
+"332,000 ","36 Maranark Avenue,",MOUNT PLEASANT QLD 4740,House,2,1,1,238m² ,14 Sep 2023
+"390,000 ","3 Taylor Street,",WEST MACKAY QLD 4740,House,3,2,1,742m² ,14 Sep 2023
+"450,000 ","48 Bradman Drive,",GLENELLA QLD 4740,House,4,2,2,754m² ,13 Sep 2023
+"511,000 ","82 Phillip Street,",MOUNT PLEASANT QLD 4740,House,3,1,2,801m² ,13 Sep 2023
+"615,000 ","10 Farming Road,",OORALEA QLD 4740,House,4,2,4,794m² ,13 Sep 2023
+"450,000 ","21 Gunsynd Street,",OORALEA QLD 4740,House,3,1,2,780m² ,13 Sep 2023
+"860,000 ","37 Emma Drive,",RICHMOND QLD 4740,House,4,2,4,815m² ,13 Sep 2023
+"416,000 ","99 Tropical Avenue,",ANDERGROVE QLD 4740,House,3,1,1,763m² ,12 Sep 2023
+"437,000 ","7 Redwood Street,",ANDERGROVE QLD 4740,House,4,2,2,449m² ,12 Sep 2023
+"495,000 ","1&2/49 Wattle Street,",ANDERGROVE QLD 4740,Duplex,4,2,1,820m² ,12 Sep 2023
+"416,000 ","24B Newport Parade,",BLACKS BEACH QLD 4740,House,4,2,2,456m² ,12 Sep 2023
+"390,000 ","2/18 Danastas Avenue,",EIMEO QLD 4740,Duplex,3,2,2,168m² ,12 Sep 2023
+"310,000 ","82 Canberra Street,",NORTH MACKAY QLD 4740,House,3,1,1,809m² ,12 Sep 2023
+"360,000 ","10 Podosky Street,",WEST MACKAY QLD 4740,House,3,2,4,797m² ,12 Sep 2023
+"323,000 ","45 Mary Street,",WEST MACKAY QLD 4740,Duplex,2,1,1,214m² ,12 Sep 2023
+"495,000 ","27 Wheeler Drive,",GLENELLA QLD 4740,House,3,1,3,833m² ,09 Sep 2023
+"390,000 ","21 Gorman Street,",BAKERS CREEK QLD 4740,House,3,1,7,900m² ,08 Sep 2023
+"395,000 ","162 Whitehaven Drive,",BLACKS BEACH QLD 4740,House,4,2,2,300m² ,08 Sep 2023
+"422,000 ","70 Bannister Street,",SOUTH MACKAY QLD 4740,House,2,1,1,809m² ,08 Sep 2023
+"320,000 ","10 Archibald Street,",SOUTH MACKAY QLD 4740,House,3,1,2,787m² ,08 Sep 2023
+"785,000 ","12 Dulcis Drive,",RURAL VIEW QLD 4740,House,4,2,2,998m² ,07 Sep 2023
+"445,000 ","UNIT 1 & 2/19 Casuarina Street,",SLADE POINT QLD 4740,Duplex,4,2,2,708m² ,07 Sep 2023
+"550,000 ","46 Thorning Street,",WEST MACKAY QLD 4740,House,4,2,4,"1,114m² ",07 Sep 2023
+"369,000 ","6 Hughes St,",GLENELLA QLD 4740,House,4,2,2,809m² ,06 Sep 2023
+"460,000 ","4 Rasmussen Avenue,",HAY POINT QLD 4740,House,3,2,4,"1,196m² ",06 Sep 2023
+"540,000 ","4 Pelorus Court,",OORALEA QLD 4740,House,4,2,2,640m² ,06 Sep 2023
+"550,000 ","41 Superior Boulevard,",ANDERGROVE QLD 4740,House,3,2,2,475m² ,05 Sep 2023
+"305,000 ","1/458 Bridge Road,",WEST MACKAY QLD 4740,House,2,1,1,98m² ,05 Sep 2023
+"410,000 ","10 Tindaridge Court,",HAY POINT QLD 4740,House,3,2,4,813m² ,04 Sep 2023
+"945,000 ","1/4 Marina Beach Parade,",MACKAY HARBOUR QLD 4740,House,4,2,2,442m² ,04 Sep 2023
+"1,250,000 ","20 Windmill Crossing,",MOUNT PLEASANT QLD 4740,House,4,2,2,990m² ,04 Sep 2023
+"350,000 ","13 Knight Street,",MOUNT PLEASANT QLD 4740,House,3,1,2,756m² ,04 Sep 2023
+"440,000 ","14 Adair Court,",RURAL VIEW QLD 4740,House,3,1,2,981m² ,04 Sep 2023
+"635,000 ","53 Penn Street,",SOUTH MACKAY QLD 4740,House,4,2,4,840m² ,04 Sep 2023
+"510,000","15 Wallace Court,",SOUTH MACKAY QLD 4740,House,4,2,3,700m² ,02 Sep 2023
+"749,900 ","6 Roma Court,",BEACONSFIELD QLD 4740,House,4,2,2,775m² ,01 Sep 2023
+"459,000 ","24 Joseph Court,",GLENELLA QLD 4740,House,4,2,2,386m² ,01 Sep 2023
+"291,000 ","3 Morrison Street,",WEST MACKAY QLD 4740,House,2,1,−,677m² ,01 Sep 2023
+"610,000 ","156 Rosewood Drive,",RURAL VIEW QLD 4740,House,4,2,3,624m² ,31 Aug 2023
+"380,000 ","11 Zamia Court,",ANDERGROVE QLD 4740,House,3,1,1,455m² ,30 Aug 2023
+"295,000 ","19 Cicada Lane,",ANDERGROVE QLD 4740,House,2,1,1,117m² ,30 Aug 2023
+"670,000 ","47 Superior Boulevard,",ANDERGROVE QLD 4740,Semi-detached,6,4,2,601m² ,30 Aug 2023
+"410,000 ","119 Goldsmith Street,",EAST MACKAY QLD 4740,House,3,1,2,690m² ,30 Aug 2023
+"590,000 ","33 Wall Street,",EIMEO QLD 4740,House,4,2,2,405m² ,30 Aug 2023
+"475,000 ","1 Pharlap Parade,",OORALEA QLD 4740,House,3,1,2,637m² ,30 Aug 2023
+"443,500 ","14 Cahill Crescent,",RURAL VIEW QLD 4740,House,3,1,1,731m² ,30 Aug 2023
+"485,000 ","133 Goldsmith Street,",EAST MACKAY QLD 4740,House,3,2,5,708m² ,29 Aug 2023
+"575,000 ","6 Gans Court,",EIMEO QLD 4740,House,5,3,2,891m² ,29 Aug 2023
+"690,000 ","39 Frank Cowley Drive,",GLENELLA QLD 4740,House,4,2,2,854m² ,29 Aug 2023
+"415,000 ","6 Callan Court,",EIMEO QLD 4740,House,3,1,2,901m² ,28 Aug 2023
+"387,000 ","67 Heaths Road,",MOUNT PLEASANT QLD 4740,House,4,1,3,809m² ,28 Aug 2023
+"475,000 ","12 Green Street,",NORTH MACKAY QLD 4740,House,5,3,4,809m² ,28 Aug 2023
+"492,000 ","12-14 Aspen Street,",RURAL VIEW QLD 4740,House,4,2,2,671m² ,28 Aug 2023
+"330,000 ","112 Haliday Bay Road,",HALIDAY BAY QLD 4740,House,3,1,−,838m² ,25 Aug 2023
+"455,000 ","25 Charles Hodge Avenue,",MOUNT PLEASANT QLD 4740,House,4,3,6,813m² ,25 Aug 2023
+"420,000 ","12 Cuthbert Court,",SLADE POINT QLD 4740,House,3,1,2,972m² ,25 Aug 2023
+"416,000 ","23 Fatnowna Street,",ANDERGROVE QLD 4740,House,3,1,2,760m² ,24 Aug 2023
+"590,000 ","7 Shelley Court,",ANDERGROVE QLD 4740,House,4,2,3,"1,030m² ",24 Aug 2023
+"383,000 ","15 Ocean Avenue,",SLADE POINT QLD 4740,House,3,1,2,647m² ,24 Aug 2023
+"660,000","1 Roma Court,",BEACONSFIELD QLD 4740,House,4,2,2,783m² ,23 Aug 2023
+"490,000","12 Tropical Avenue,",ANDERGROVE QLD 4740,House,3,1,2,"1,014m² ",22 Aug 2023
+"900,000","20 Kinnon Street,",GLENELLA QLD 4740,House,5,3,3,"1,033m² ",22 Aug 2023
+"290,000 ","18 Archibald Street,",SOUTH MACKAY QLD 4740,House,3,1,1,792m² ,2023
+"492,000 ","22 Mogford Street,",WEST MACKAY QLD 4740,House,3,2,2,812m² ,22 Aug 2023
+"405,000","15 Caledonian Drive,",BEACONSFIELD QLD 4740,House,3,1,2,829m² ,21 Aug 2023
+"455,000 ","25 Montgomery Street,",RURAL VIEW QLD 4740,House,4,3,2,544m² ,21 Aug 2023
+"440,000 ","27 Montgomery Street,",RURAL VIEW QLD 4740,House,4,2,2,544m² ,21 Aug 2023
+"258,000","26 Graffunder Street,",SOUTH MACKAY QLD 4740,House,2,1,1,"1,012m² ",21 Aug 2023
+"397,000 ","13 Warilla View,",BLACKS BEACH QLD 4740,House,4,2,2,372m² ,19 Aug 2023
+"460,000","2 Denise Court,",BEACONSFIELD QLD 4740,House,3,2,3,752m² ,18 Aug 2023
+"554,000 ","7 Oysterlee Street,",BEACONSFIELD QLD 4740,House,5,2,2,729m² ,18 Aug 2023
+"430,000 ","38 Amelia Drive,,",NORTH MACKAY QLD 4740,House,3,1,3,821m² ,18 Aug 2023
+"740,000 ","15 Lancaster Way,",OORALEA QLD 4740,House,4,2,3,691m² ,18 Aug 2023
+"901,000 ","9 Ronnie Court,",RURAL VIEW QLD 4740,House,4,3,4,"1,730m² ",18 Aug 2023
+"370,000","118 Donaldson Street,",WEST MACKAY QLD 4740,House,3,1,3,802m² ,18 Aug 2023
+"370,000 ","48 Donovan Street,",BLACKS BEACH QLD 4740,House,4,2,2,420m² ,17 Aug 2023
+"475,000 ","6 Bonney Street,",RURAL VIEW QLD 4740,House,4,2,2,752m² ,17 Aug 2023
+"520,000 ","20 Crispin Drive,",MOUNT PLEASANT QLD 4740,House,4,2,2,800m² ,16 Aug 2023
+"322,500 ","6 Laird Street,",NORTH MACKAY QLD 4740,House,3,1,1,660m² ,16 Aug 2023
+"615,000 ","38 Gumnut Drive,",ALLIGATOR CREEK QLD 4740,House,3,2,4,"4,782m² ",15 Aug 2023
+"339,000 ","1 Carl Murray Street,",BEACONSFIELD QLD 4740,House,3,2,1,793m² ,15 Aug 2023
+"485,000 ","21 Kirkconell Street,",BEACONSFIELD QLD 4740,House,3,1,3,800m² ,15 Aug 2023
+"305,000","20 Graves Street,",NORTH MACKAY QLD 4740,House,3,1,1,607m² ,15 Aug 2023
+"700,000 ","100 Peri Road,",TE KOWAI QLD 4740,House,4,2,7,"8,326m² ",15 Aug 2023
+"442,550 ","11 Maguire Street,",ANDERGROVE QLD 4740,House,4,1,1,800m² ,14 Aug 2023
+"365,000 ","44 Donovan Street,",BLACKS BEACH QLD 4740,House,3,2,2,300m² ,14 Aug 2023
+"650,000","257 Sugarshed Road,",ERAKALA QLD 4740,House,4,2,4,"1,741m² ",14 Aug 2023
+"700,000 ","87 Rasmussen Avenue,",HAY POINT QLD 4740,House,4,2,2,796m² ,14 Aug 2023

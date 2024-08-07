@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"450,000 ",,BUNDABERG QLD 4670,House,3,2,4,"5,000m² ",21 Jul 2021
+"280,000 ","10 Murray Court,",BUNDABERG QLD 4670,House,4,2,1,642m² ,18 Sep 2014
+"217,000 ","10 Finnis Street,",BUNDABERG QLD 4670,House,3,1,4,888m² ,18 Sep 2014
+"329,000 ","5 Ernie Twyford Street,",BUNDABERG QLD 4670,House,4,2,4,"1,354m² ",08 Sep 2014
+"210,000 ","178a Barolin St,",BUNDABERG QLD 4670,House,3,1,1,"1,088m² ",25 Aug 2014
+"160,000 ","51 Steuart Street,",BUNDABERG QLD 4670,House,3,1,2,513m² ,19 Aug 2014
+"290,000 ","29 Anderson Street,",BUNDABERG QLD 4670,House,3,1,3,873m² ,14 Aug 2014
+"249,500 ","49 Alice St,",BUNDABERG QLD 4670,House,3,2,1,"1,083m² ",14 Aug 2014
+"228,000 ","43 Walla Street,",BUNDABERG QLD 4670,House,4,1,2,"1,195m² ",07 Aug 2014
+"277,000 ","3 Walk Street,",BUNDABERG QLD 4670,House,3,1,1,830m² ,02 Aug 2014
+"257,500 ","10 Kookaburra St,",BUNDABERG QLD 4670,House,3,1,1,860m² ,29 Jul 2014
+"250,000 ","23 Novakoski Street,",BUNDABERG QLD 4670,House,5,1,1,840m² ,29 Jul 2014
+"520,000 ","21 Slocomb Street,",BUNDABERG QLD 4670,House,5,3,3,"1,730m² ",28 Jul 2014
+"255,000 ","22 Arnold Street,",BUNDABERG QLD 4670,House,3,1,2,635m² ,10 Jul 2014
+"495,000 ","268 Coonarr Road,",BUNDABERG QLD 4670,House,4,2,6,"10,000m² ",10 Jul 2014
+"435,000 ","147 Kalbar Road,",BUNDABERG QLD 4670,House,4,2,2,0,04 Jul 2014
+"398,500 ","16 Wedgeleaf Place,",BUNDABERG QLD 4670,House,4,2,4,743m² ,03 Jul 2014
+"307,000 ","6 Hooper Court,",BUNDABERG QLD 4670,House,3,1,3,735m² ,23 Jun 2014
+"372,500 ","5 Hurley Court,",BUNDABERG QLD 4670,House,4,2,4,825m² ,17 Jun 2014
+"260,000 ","36 Mitchell Street,",BUNDABERG QLD 4670,House,4,2,2,"1,012m² ",11 Jun 2014
+"319,000 ","91 Lamb Street,",BUNDABERG QLD 4670,House,4,2,2,954m² ,29 May 2014
+"284,000","3 Carmen Court,",BUNDABERG QLD 4670,House,4,2,−,801m² ,16 May 2014
+"453,500","10 Sweetwater Court,",BUNDABERG QLD 4670,House,4,2,2,768m² ,13 May 2014
+"230,000 ","98 Lamb Street,",BUNDABERG QLD 4670,House,3,1,−,954m² ,09 May 2014
+"455,000 ","1512 Rosedale Road,",BUNDABERG QLD 4670,House,4,2,6,0,06 May 2014
+"235,000 ","256 FE Walker Street,",BUNDABERG QLD 4670,House,3,1,3,"1,162m² ",28 Apr 2014
+"325,000 ","29 Tropicana Drive,",BUNDABERG QLD 4670,House,4,2,3,658m² ,28 Apr 2014
+"303,000 ","132 Woods Road,",BUNDABERG QLD 4670,House,3,2,4,0,24 Apr 2014
+"165,000","98 Walker Street,",BUNDABERG QLD 4670,House,4,1,1,607m² ,23 Apr 2014
+"325,000 ","38 Clive Crescent,",BUNDABERG QLD 4670,House,3,1,2,730m² ,17 Apr 2014
+"269,000 ","96 Lamb Street,",BUNDABERG QLD 4670,House,3,1,3,954m² ,15 Apr 2014
+"370,000 ","11 Polo Place,",BUNDABERG QLD 4670,House,4,2,3,"4,000m² ",14 Apr 2014
+"274,000 ","47 Grange Street,",BUNDABERG QLD 4670,House,3,1,5,809m² ,10 Apr 2014
+"288,000 ","60a Watson Street,",BUNDABERG QLD 4670,House,4,2,2,486m² ,09 Apr 2014
+"275,000 ","13 De Ville Court,",BUNDABERG QLD 4670,House,3,1,2,"6,000m² ",04 Apr 2014
+"200,000","13 One Mile Road,",BUNDABERG QLD 4670,House,3,1,3,961m² ,03 Apr 2014
+"53,590,223 ","16 Coral Garden Drive,",BUNDABERG QLD 4670,House,4,2,4,945m² ,31 Mar 2014
+"358,000 ","1657 Bundaberg Gin Gin Road,",BUNDABERG QLD 4670,House,4,2,9,"5,852m² ",28 Mar 2014
+"319,000 ","3a McCormack Street,",BUNDABERG QLD 4670,House,3,1,1,814m² ,27 Mar 2014
+"290,000 ","29 Arnold Street,",BUNDABERG QLD 4670,House,4,2,2,759m² ,25 Mar 2014
+"362,500 ","115 Woondooma St,",BUNDABERG QLD 4670,House,3,1,3,967m² ,21 Mar 2014
+"187,500 ","14 Franklin Street,",BUNDABERG QLD 4670,House,3,1,1,"1,012m² ",18 Mar 2014
+"150,000","28A Donald Street,",BUNDABERG QLD 4670,House,3,1,−,"4,208m² ",06 Mar 2014
+"4,449 ","530 Burnett Heads Road,",BUNDABERG QLD 4670,House,4,1,2,"2,154m² ",03 Mar 2014
+"187,500 ","22a High Street,",BUNDABERG QLD 4670,House,2,1,2,506m² ,26 Feb 2014
+"315,000 ","4 Carswell Court,",BUNDABERG QLD 4670,House,3,1,3,760m² ,18 Feb 2014
+"449,000 ","2 Lomandra Drive,",BUNDABERG QLD 4670,House,4,2,3,739m² ,07 Feb 2014
+"323,000 ","46 Commodore Drive,",BUNDABERG QLD 4670,House,3,2,4,"6,908m² ",04 Feb 2014
+"320,000 ","2 Berghofer Drive,",BUNDABERG QLD 4670,House,3,2,2,724m² ,03 Feb 2014
+"355,000","19 Clearview Ave,",BUNDABERG QLD 4670,House,4,2,6,800m² ,29 Jan 2014
+"333,500 ","39 Cunnington Street,",BUNDABERG QLD 4670,House,4,2,3,724m² ,16 Jan 2014
+"225,000 ","39 May Street,",BUNDABERG QLD 4670,House,2,1,2,"1,012m² ",15 Jan 2014
+"242,000 ","15 Centennial Circuit,",BUNDABERG QLD 4670,House,3,1,1,620m² ,15 Jan 2014
+"297,000","13 Schmidt St,",BUNDABERG QLD 4670,House,3,1,3,890m² ,12 Jan 2014
+"617,500 ","23 Zorzan Drive,",BUNDABERG QLD 4670,House,4,2,7,"4,246m² ",10 Jan 2014
+"228,000 ","44 Electra Street,",BUNDABERG QLD 4670,House,3,1,1,668m² ,09 Jan 2014
+"215,000","34 Sydney Street,",BUNDABERG QLD 4670,House,2,1,2,792m² ,08 Jan 2014
+"315,000","5 Pitt Street,",BUNDABERG QLD 4670,House,3,2,2,"1,012m² ",11 Dec 2013
+"277,000","14 Wyper Street,",BUNDABERG QLD 4670,House,3,1,3,962m² ,21 Nov 2013
+"213,000","15 Coomber Street,",BUNDABERG QLD 4670,House,3,1,1,739m² ,18 Nov 2013
+"430,000","7 Inspiration Court,",BUNDABERG QLD 4670,House,5,2,2,914m² ,12 Oct 2012
+"254,000","24 Cameron Street,",BUNDABERG QLD 4670,House,3,1,3,809m² ,10 Oct 2012
+"362,000","36 Santina Drive,",BUNDABERG QLD 4670,House,4,2,2,951m² ,28 Sep 2012
+"225,000","38 Gaffel Street,",BUNDABERG QLD 4670,House,3,1,2,809m² ,20 Sep 2012
+"252,500","24 Walker Street,",BUNDABERG QLD 4670,House,4,2,2,809m² ,17 Sep 2012
+"370,000","14 Davis Road,",BUNDABERG QLD 4670,House,6,2,5,"9,871m² ",08 Aug 2012
+"395,000","6 Magee Court,",BUNDABERG QLD 4670,House,4,2,4,"1,705m² ",04 Aug 2012
+"325,000","1406 Moore Park Road,",BUNDABERG QLD 4670,House,4,2,2,808m² ,14 Jul 2012
+"440,000","32 Verdant Siding Road,",BUNDABERG QLD 4670,House,5,1,5,"4,047m² ",19 Jun 2012
+"205,000","17 Daniel Drive,",BUNDABERG QLD 4670,House,3,1,1,701m² ,04 Jun 2012
+"450,000","5 Pearlshell Court,",BUNDABERG QLD 4670,House,4,2,4,988m² ,29 May 2012
+"295,000","21 Alamein Street,",BUNDABERG QLD 4670,House,4,2,1,878m² ,21 May 2012
+"342,500","51 Sims Road,",BUNDABERG QLD 4670,House,5,2,3,"1,413m² ",24 Apr 2012
+"327,000","6 Glen Court,",BUNDABERG QLD 4670,House,3,2,2,984m² ,07 Apr 2012
+"290,000","2 Captivation Court,",BUNDABERG QLD 4670,House,4,2,2,854m² ,2012
+"270,000 ","15 Wallace St,",BUNDABERG QLD 4670,House,3,1,2,798m² ,09 Mar 2012
+"195,000 ","15 Moran St,",BUNDABERG QLD 4670,House,3,1,1,809m² ,03 Mar 2012
+"265,000 ",,BUNDABERG QLD 4670,House,3,2,3,607m² ,22 Feb 2012
+"205,000 ","61 Heaps,",BUNDABERG QLD 4670,House,4,1,1,693m² ,24 Jan 2012
+"310,000 ","56 McCarthy Rd,",BUNDABERG QLD 4670,House,3,1,4,855m² ,24 Jan 2012
+"270,000 ","20 loney St,",BUNDABERG QLD 4670,House,4,1,2,951m² ,24 Jan 2012
+"270,000 ","9 Premier Tce,",BUNDABERG QLD 4670,House,4,2,3,"2,116m² ",24 Jan 2012
+"300,000 ","40 NEWITT DRIVE,",BUNDABERG QLD 4670,Duplex,4,2,2,714m² ,24 Jan 2012
+"178,000 ","12 Dr Mays Road,",BUNDABERG QLD 4670,House,2,1,1,447m² ,10 Jan 2012
+"325,000 ","71 Chancellor Dr,",BUNDABERG QLD 4670,House,3,2,2,811m² ,15 Dec 2011
+"330,000 ","18 Mariners Way,",BUNDABERG QLD 4670,House,4,2,1,"2,284m² ",06 Dec 2011
+"250,000 ","42 Orchid Drive,",BUNDABERG QLD 4670,Duplex,4,2,2,606m² ,01 Dec 2011
+"235,000 ","19A Svensson Street,",BUNDABERG QLD 4670,House,4,2,2,825m² ,28 Oct 2011
+"185,000 ","18 Coomber Street,",BUNDABERG QLD 4670,House,2,2,3,808m² ,28 Oct 2011
+"319,000 ","6 Baxter St,",BUNDABERG QLD 4670,House,4,2,4,946m² ,28 Oct 2011
+"240,000 ","57 Crofton St,",BUNDABERG QLD 4670,House,3,1,2,"1,012m² ",28 Oct 2011
+"245,000","21 Avenell Street,",BUNDABERG QLD 4670,House,3,1,2,"2,023m² ",27 Oct 2011
+"240,000 ",,BUNDABERG QLD 4670,House,4,2,1,825m² ,17 Oct 2011
+"150,000","76 Princess St,",BUNDABERG QLD 4670,House,3,1,1,817m² ,06 Oct 2011
+"269,000 ","55 Searle St,",BUNDABERG QLD 4670,House,3,1,2,600m² ,24 Sep 2011
+"335,000 ",,BUNDABERG QLD 4670,House,3,1,−,721m² ,15 Sep 2011
+"252,000 ","8 Page Street,",BUNDABERG QLD 4670,House,3,1,3,744m² ,15 Sep 2011
+"278,000 ","5 Fleming,",BUNDABERG QLD 4670,House,4,2,5,799m² ,13 Sep 2011
+"285,000 ","28 Moore Street,",BUNDABERG QLD 4670,House,3,2,2,750m² ,23 Aug 2011
+"180,000 ","65 Loeskow Street,",BUNDABERG QLD 4670,House,3,1,1,"7,103m² ",17 Aug 2011
+"200,000 ","3 BUSS STREET,",BUNDABERG QLD 4670,House,3,1,2,938m² ,27 Jul 2011
+"225,000 ","35 Bonney St,",BUNDABERG QLD 4670,House,3,1,3,809m² ,26 Jul 2011
+"390,000 ","12 Brewer St,",BUNDABERG QLD 4670,House,2,1,4,"1,366m² ",22 Jul 2011
+"385,000 ","742 Gooburrum Rd,",BUNDABERG QLD 4670,House,4,2,3,"10,000m² ",19 Jul 2011
+"280,000 ","37 Anderson St,",BUNDABERG QLD 4670,House,3,1,2,739m² ,11 Jul 2011
+"303,000 ","409 Rubyanna Rd,",BUNDABERG QLD 4670,House,3,1,8,"1,507m² ",11 Jul 2011
+"215,000 ","62 Maynard,",BUNDABERG QLD 4670,House,3,1,3,"1,126m² ",14 Jun 2011
+"240,000 ","16 Panorama Dr,",BUNDABERG QLD 4670,House,3,1,1,685m² ,25 May 2011
+"247,000 ","25 Heritage Dr,",BUNDABERG QLD 4670,House,3,1,1,708m² ,05 May 2011
+"303,500","38 Avoca Street,",BUNDABERG QLD 4670,House,3,2,5,"1,518m² ",27 Apr 2011
+"295,000 ","10 Lamb Street,",BUNDABERG QLD 4670,Duplex,2,1,2,795m² ,21 Apr 2011
+"380,000 ","338 Bourbong St,",BUNDABERG QLD 4670,House,4,2,4,"1,113m² ",19 Apr 2011
+"245,000 ",,BUNDABERG QLD 4670,House,3,1,2,735m² ,15 Apr 2011
+"215,000 ",,BUNDABERG QLD 4670,House,2,1,1,"1,012m² ",05 Apr 2011
+"345,000 ","6 Baxter St,",BUNDABERG QLD 4670,House,4,2,4,946m² ,30 Mar 2011
+"600,000 ",,BUNDABERG QLD 4670,House,3,2,2,"4,125m² ",30 Mar 2011
+"205,000 ","14 Greenwood Street,",BUNDABERG QLD 4670,House,4,2,1,938m² ,23 Mar 2011
+"261,000","1a Duncraigen Street,",BUNDABERG QLD 4670,House,3,1,2,857m² ,22 Oct 2010
+"327,000 ","13 Kookaburra Street,",BUNDABERG QLD 4670,House,4,2,4,"1,000m² ",15 Feb 2010
+"337,500 ","76 Cunnington Street,",BUNDABERG QLD 4670,House,4,2,2,783m² ,04 Jan 2010
+"316,500 ","2 Bryde Place,",BUNDABERG QLD 4670,House,4,1,1,"1,009m² ",09 Dec 2009
+"260,000 ","25 Glenview Crescent,",BUNDABERG QLD 4670,House,1,3,2,637m² ,30 Nov 2009
+"369,000 ","30 Santina Drive,",BUNDABERG QLD 4670,House,4,2,4,810m² ,23 Nov 2009
+"420,000 ","4 Harper Court,",BUNDABERG QLD 4670,House,4,2,2,825m² ,23 Nov 2009
+"302,500 ","45 Pickett Street,",BUNDABERG QLD 4670,House,4,2,2,617m² ,11 Nov 2009
+"310,000 ","51 Pickett Street,",BUNDABERG QLD 4670,House,4,2,2,890m² ,10 Nov 2009
+"365,000 ","5 Emery Court,",BUNDABERG QLD 4670,House,4,2,2,800m² ,10 Nov 2009
+"229,000 ","5 Brasch Street,",BUNDABERG QLD 4670,House,3,1,3,809m² ,09 Nov 2009
+"227,500 ","2 Montgomery Street,",BUNDABERG QLD 4670,House,3,1,2,807m² ,02 Nov 2009
+"305,000 ","1 Priebe Street,",BUNDABERG QLD 4670,House,3,1,2,812m² ,26 Oct 2009
+"270,000 ","18 Courtice Street,",BUNDABERG QLD 4670,House,3,1,3,"1,191m² ",13 Oct 2009
+"330,000 ","32 Cunnington Street,",BUNDABERG QLD 4670,House,3,2,3,735m² ,12 Oct 2009
+"277,500 ","1 Semmens Street,",BUNDABERG QLD 4670,House,3,1,1,756m² ,09 Oct 2009
+"280,000 ","22 Southern Cross Drive,",BUNDABERG QLD 4670,House,3,1,1,638m² ,25 Sep 2009
+"234,000 ","42 High Street,",BUNDABERG QLD 4670,House,2,1,2,"1,012m² ",24 Sep 2009
+"234,000 ","3 Hinkler Avenue,",BUNDABERG QLD 4670,House,3,1,1,"1,027m² ",21 Sep 2009
+"372,000 ","248 Hawe Road,",BUNDABERG QLD 4670,House,4,2,2,0,21 Sep 2009
+"266,500 ","12 Hofer Court,",BUNDABERG QLD 4670,House,3,1,1,614m² ,20 Sep 2009
+"282,500 ","14 Pecton Place,",BUNDABERG QLD 4670,House,3,1,4,721m² ,16 Sep 2009
+"227,000 ","66 Victoria Street,",BUNDABERG QLD 4670,House,3,1,1,"1,009m² ",11 Sep 2009
+"202,000 ","42 May Street,",BUNDABERG QLD 4670,House,2,1,1,809m² ,31 Aug 2009
+"240,000 ","21 Jamieson Street,",BUNDABERG QLD 4670,House,3,1,2,"1,325m² ",24 Aug 2009
+"430,000 ","54 McNeilly Street,",BUNDABERG QLD 4670,House,4,3,3,"1,189m² ",09 Aug 2009
+"225,000 ","23 Mimnagh Street,",BUNDABERG QLD 4670,House,3,1,−,607m² ,07 Aug 2009
+"135,000 ","12 Price Street,",BUNDABERG QLD 4670,House,2,1,−,"1,106m² ",31 Jul 2009
+"260,000 ","5 McLucas Street,",BUNDABERG QLD 4670,House,3,1,2,885m² ,21 Jul 2009
+"380,000 ","6 Rekow Street,",BUNDABERG QLD 4670,House,4,2,4,880m² ,17 Jul 2009
+"24,900 ","154 McCarthy Road,",BUNDABERG QLD 4670,House,4,1,3,"1,012m² ",17 Jul 2009
+"248,000 ","58 Svensson Street,",BUNDABERG QLD 4670,House,3,1,4,"1,219m² ",13 Jul 2009
+"278,000 ","53 Telegraph Road,",BUNDABERG QLD 4670,House,3,2,1,641m² ,10 Jul 2009
+"340,000 ","6 Elizabeth Street,",BUNDABERG QLD 4670,House,3,3,2,811m² ,10 Jul 2009
+"295,000 ","6 Galea Street,",BUNDABERG QLD 4670,House,3,1,4,"1,745m² ",06 Jul 2009
+"300,000 ","67 Water Street,",BUNDABERG QLD 4670,House,3,2,2,"1,011m² ",06 Jul 2009
+"377,000 ","13 Hilltop Avenue,",BUNDABERG QLD 4670,House,4,3,2,863m² ,03 Jul 2009
+"210,000 ","3 Prospect Street,",BUNDABERG QLD 4670,House,3,1,1,809m² ,01 Jul 2009
+"288,000 ","454 Elliott Heads Road,",BUNDABERG QLD 4670,House,3,1,2,"2,032m² ",30 Jun 2009
+"425,000 ","13 Ferny Dale Crescent,",BUNDABERG QLD 4670,House,4,2,2,"2,532m² ",26 Jun 2009
+"285,000 ","253 Branyan Drive,",BUNDABERG QLD 4670,House,3,1,2,796m² ,24 Jun 2009
+"255,000 ","18 Avoca Street,",BUNDABERG QLD 4670,House,3,1,3,949m² ,23 Jun 2009
+"430,000 ","2 Harmony Court,",BUNDABERG QLD 4670,House,4,2,2,929m² ,16 May 2009
+"252,000","14 Clive Crescent,",BUNDABERG QLD 4670,House,3,1,1,701m² ,13 Feb 2009
+"217,500","44 Alice Street,",BUNDABERG QLD 4670,House,3,1,−,544m² ,09 Feb 2009
+"192,000","76 Boundary Street,",BUNDABERG QLD 4670,House,2,1,−,680m² ,08 Jan 2009
+"215,000","35 Nott Street,",BUNDABERG QLD 4670,House,3,1,1,607m² ,18 Dec 2008
+"180,000","7 Sims Road,",BUNDABERG QLD 4670,House,3,1,3,"1,012m² ",18 Dec 2008
+"210,000 ","65 Maryborough Street,",BUNDABERG QLD 4670,House,4,1,2,809m² ,2008
+"725,000 ","10 Sandstone Street,",BURNETT HEADS QLD 4670,House,4,2,2,"1,012m² ",26 Apr 2024
+"730,000 ","6 Badilla Street,",INNES PARK QLD 4670,House,4,2,2,809m² ,26 Apr 2024
+"368,000 ","24 Coomber Street,",SVENSSON HEIGHTS QLD 4670,House,2,1,2,774m² ,26 Apr 2024
+"715,000 ","1 Cormorant Court,",BARGARA QLD 4670,House,3,2,2,713m² ,24 Apr 2024
+"410,000 ","8 Peek Street,",BUNDABERG NORTH QLD 4670,House,4,2,3,709m² ,24 Apr 2024
+"340,000 ","1/128 George Street,",BUNDABERG WEST QLD 4670,House,2,1,1,110m² ,24 Apr 2024
+"475,000 ","36 Rowlands Road,",BURNETT HEADS QLD 4670,House,3,1,2,"1,174m² ",24 Apr 2024
+"965,000 ","22 Beachcomber Place,",BARGARA QLD 4670,House,3,2,4,818m² ,23 Apr 2024
+"950,000 ","51 Miller Street,",BARGARA QLD 4670,House,4,1,1,653m² ,23 Apr 2024
+"773,000 ","27 Chantelle Circuit,",CORAL COVE QLD 4670,House,4,2,2,510m² ,23 Apr 2024
+"380,500 ","22 Moran Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,1,797m² ,23 Apr 2024
+"1,310,000 ","9 Breaker Court,",BARGARA QLD 4670,House,5,3,2,"1,156m² ",22 Apr 2024
+"670,000 ","8 Bayview Terrace,",QUNABA QLD 4670,House,4,2,2,800m² ,22 Apr 2024
+"721,000 ","23 Chantilly Street,",BARGARA QLD 4670,House,4,2,2,878m² ,19 Apr 2024
+"519,000 ","385 Tantitha Road,",GOOBURRUM QLD 4670,House,3,1,4,"1,000m² ",19 Apr 2024
+"615,000 ","11 Zac Street,",KALKIE QLD 4670,House,4,2,2,970m² ,19 Apr 2024
+"647,000 ","15 Gaffel Street,",SVENSSON HEIGHTS QLD 4670,House,4,3,3,809m² ,19 Apr 2024
+"770,000 ","16 Freshwater Drive,",BRANYAN QLD 4670,House,4,2,2,800m² ,18 Apr 2024
+"960,000 ","25 Diamantina Drive,",BRANYAN QLD 4670,House,5,2,5,"2,304m² ",18 Apr 2024
+"472,500 ","39 Burnett Heads Road,",BURNETT HEADS QLD 4670,House,3,1,2,809m² ,18 Apr 2024
+"670,000 ","12 Amronel Close,",INNES PARK QLD 4670,House,3,2,1,"1,593m² ",18 Apr 2024
+"410,000 ","4a Baker Street,",KEPNOCK QLD 4670,House,3,1,1,"1,176m² ",18 Apr 2024
+"450,000 ","345 Bourbong Street,",MILLBANK QLD 4670,House,3,2,1,"1,012m² ",18 Apr 2024
+"545,000 ","188 Seaview Road,",QUNABA QLD 4670,House,4,1,2,"1,476m² ",18 Apr 2024
+"775,000 ","11 Blain Street,",BARGARA QLD 4670,House,4,2,3,700m² ,17 Apr 2024
+"695,000 ","4 Pearlshell Court,",ASHFIELD QLD 4670,House,3,3,2,"1,122m² ",16 Apr 2024
+"590,000 ","6 Jacaranda Drive,",BARGARA QLD 4670,House,4,2,2,600m² ,15 Apr 2024
+"482,000 ","18 Donald Street,",BUNDABERG NORTH QLD 4670,House,3,2,4,"1,012m² ",15 Apr 2024
+"640,000 ","27 Walker Street,",BUNDABERG SOUTH QLD 4670,House,4,2,4,"1,002m² ",15 Apr 2024
+"675,000 ","8 Blue Water Drive,",ELLIOTT HEADS QLD 4670,House,3,2,2,812m² ,12 Apr 2024
+"717,000 ","3 Coral Court,",BARGARA QLD 4670,House,4,2,3,906m² ,10 Apr 2024
+"480,000 ","19 Bonding Street,",KEPNOCK QLD 4670,House,3,1,2,"1,897m² ",10 Apr 2024
+"503,000 ","6 Dennis Court,",AVOCA QLD 4670,House,3,1,2,718m² ,09 Apr 2024
+"490,000 ","55 Ruddell Street,",BUNDABERG SOUTH QLD 4670,House,3,1,2,981m² ,09 Apr 2024
+"816,000 ","21 Wisteria Street,",BARGARA QLD 4670,House,4,2,2,608m² ,08 Apr 2024
+"335,000 ","12 Price Street,",KENSINGTON QLD 4670,House,2,1,1,"1,106m² ",08 Apr 2024
+"487,000 ","90 Foster Drive,",BUNDABERG NORTH QLD 4670,House,4,2,2,670m² ,05 Apr 2024
+"850,000 ","22 McKenzie Street,",BURNETT HEADS QLD 4670,House,4,2,3,902m² ,05 Apr 2024
+"930,000 ","27 Garson Drive,",BARGARA QLD 4670,House,4,2,3,693m² ,04 Apr 2024
+"617,000 ","1 Killara Court,",BUNDABERG EAST QLD 4670,House,5,2,2,718m² ,04 Apr 2024
+"720,000 ","22 Tarakan Street,",SVENSSON HEIGHTS QLD 4670,House,4,3,5,875m² ,04 Apr 2024
+"375,000 ","5 Gavin Street,",BUNDABERG NORTH QLD 4670,House,4,1,2,506m² ,03 Apr 2024
+"840,000 ","5 Oak Avenue,",COONARR QLD 4670,House,3,2,4,0,03 Apr 2024
+"460,000 ","93 Lamb Street,",WALKERVALE QLD 4670,House,4,2,2,888m² ,03 Apr 2024
+"748,000 ","4 Habitat Drive,",BRANYAN QLD 4670,House,4,2,2,838m² ,02 Apr 2024
+"520,000 ","4 De Ville Court,",SOUTH BINGERA QLD 4670,House,3,2,5,"7,528m² ",02 Apr 2024
+"675,000 ","30 Mary Fox Street,",INNES PARK QLD 4670,House,3,2,4,"1,011m² ",30 Mar 2024
+"510,000 ","42 Houston Drive,",AVOCA QLD 4670,House,3,2,2,700m² ,28 Mar 2024
+"615,000 ","24 Forbes Court,",AVOCA QLD 4670,House,3,2,2,723m² ,28 Mar 2024
+"485,000 ","28 Olsen Street,",BUNDABERG EAST QLD 4670,Duplex,4,2,2,870m² ,27 Mar 2024
+"760,000 ","2/23 Greenview Drive,",BARGARA QLD 4670,House,3,2,2,513m² ,26 Mar 2024
+"1,670,000 ","5 Atlantis Blvd,",BARGARA QLD 4670,House,4,3,3,920m² ,26 Mar 2024
+"476,000","1 Hodgetts Court,",BUNDABERG NORTH QLD 4670,House,3,1,2,630m² ,26 Mar 2024
+"374,500 ","8 Slocomb Street,",AVENELL HEIGHTS QLD 4670,House,2,1,1,810m² ,25 Mar 2024
+"835,000 ","4 Knox Court,",BARGARA QLD 4670,House,4,2,4,880m² ,25 Mar 2024
+"815,000 ","10 Erindale Avenue,",KENSINGTON QLD 4670,House,4,2,2,"8,077m² ",25 Mar 2024
+"800,000 ","13 Luke Court,",BARGARA QLD 4670,House,4,2,2,823m² ,22 Mar 2024
+"428,000 ","19 Normanby Street,",BUNDABERG SOUTH QLD 4670,House,4,2,1,762m² ,22 Mar 2024
+"305,000 ","3/11 Auer Street,",KEPNOCK QLD 4670,House,2,1,1,92m² ,22 Mar 2024
+"1,200,000 ","11 Beachcomber Place,",BARGARA QLD 4670,House,4,3,3,831m² ,21 Mar 2024
+"1,145,000 ","16 Knox Court,",BARGARA QLD 4670,House,4,2,3,"1,040m² ",21 Mar 2024
+"800,000 ","12 Betty Close,",CORAL COVE QLD 4670,House,4,2,3,936m² ,20 Mar 2024
+"782,000 ","2 Magnolia Court,",INNES PARK QLD 4670,House,4,2,3,993m² ,20 Mar 2024
+"550,000 ","9 Zac Street,",KALKIE QLD 4670,House,4,2,2,726m² ,19 Mar 2024
+"1,180,000 ","28 Greenview Drive,",BARGARA QLD 4670,House,3,2,2,600m² ,18 Mar 2024
+"550,000 ","80 Sea Park Road,",BURNETT HEADS QLD 4670,Retirement Living,3,1,2,"1,012m² ",18 Mar 2024
+"700,000 ","4 Martins Court,",QUNABA QLD 4670,House,4,3,2,754m² ,18 Mar 2024
+"650,000 ","23 Jenalyn Crescent,",AVOCA QLD 4670,House,3,2,4,959m² ,15 Mar 2024
+"740,000 ","11 Tranquility Place,",BARGARA QLD 4670,House,4,2,4,880m² ,15 Mar 2024
+"590,000 ","31 Burnett Heads Road,",BURNETT HEADS QLD 4670,House,3,1,2,809m² ,15 Mar 2024
+"400,000 ","7 Dunkirk Street,",SVENSSON HEIGHTS QLD 4670,House,2,1,2,"1,012m² ",15 Mar 2024
+"540,000 ","1367 Bucca Road,",BUCCA QLD 4670,House,3,2,1,0,14 Mar 2024
+"570,000 ","9 Fixter Avenue,",KALKIE QLD 4670,House,4,2,2,617m² ,14 Mar 2024
+"463,000 ","3 Taylor Street,",KEPNOCK QLD 4670,House,3,1,3,809m² ,14 Mar 2024
+"490,000 ","32 Tanderra Drive,",SOUTH KOLAN QLD 4670,House,3,1,3,"5,712m² ",14 Mar 2024
+"462,500 ","18 Kendalls Road,",AVOCA QLD 4670,House,4,1,2,845m² ,13 Mar 2024
+"390,000 ","3 Hinkler Avenue,",BUNDABERG NORTH QLD 4670,House,3,1,1,"1,027m² ",13 Mar 2024
+"950,000 ","12 Esplanade,",ELLIOTT HEADS QLD 4670,House,4,2,2,"1,012m² ",12 Mar 2024
+"735,000","42 Palermo Avenue,",ASHFIELD QLD 4670,House,4,2,3,735m² ,11 Mar 2024
+"775,000 ","8 Diamantina Drive,",BRANYAN QLD 4670,House,4,2,6,"2,124m² ",11 Mar 2024
+"410,000 ","25 Parker Street,",MILLBANK QLD 4670,House,4,2,3,"1,012m² ",11 Mar 2024
+"555,000 ","9 Kirkwood Street,",BRANYAN QLD 4670,House,4,2,2,720m² ,08 Mar 2024
+"490,000 ","2 Neville Drive,",BRANYAN QLD 4670,House,4,2,2,795m² ,08 Mar 2024
+"705,000","9 Avalon St,",BURNETT HEADS QLD 4670,House,4,2,4,"1,012m² ",08 Mar 2024
+"645,000","13 LOGAN ROAD,",INNES PARK QLD 4670,House,3,1,3,"1,047m² ",
+"385,000 ","12 Faldt Street,",NORVILLE QLD 4670,House,3,1,3,803m² ,08 Mar 2024
+"540,000 ","36 McNeilly Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,4,"1,864m² ",08 Mar 2024
+"500,000 ","61 Neville Drive,",BRANYAN QLD 4670,House,4,2,2,600m² ,07 Mar 2024
+"660,000 ","31 Beachmere Street,",BURNETT HEADS QLD 4670,House,4,2,4,"1,012m² ",07 Mar 2024
+"500,000 ","22 Walker Street,",WALKERVALE QLD 4670,House,5,2,7,809m² ,07 Mar 2024
+"775,000 ","596 Elliott Heads Road,",WOONGARRA QLD 4670,House,4,3,8,"1,273m² ",07 Mar 2024
+"465,000","56 Gavin Street,",BUNDABERG NORTH QLD 4670,House,3,1,4,"1,012m² ",06 Mar 2024
+"720,000 ","19 Chantilly Street,",BARGARA QLD 4670,House,4,2,2,949m² ,05 Mar 2024
+"482,000 ","91 Elliott Heads Road,",KEPNOCK QLD 4670,House,4,1,2,865m² ,05 Mar 2024
+"775,000 ","5 Lugano Street,",ASHFIELD QLD 4670,House,4,3,2,825m² ,04 Mar 2024
+"400,000 ","16 Marks Street,",BUNDABERG NORTH QLD 4670,House,3,1,1,"1,012m² ",04 Mar 2024
+"610,000","34 Shelley st,",BURNETT HEADS QLD 4670,House,4,2,5,"1,012m² ",04 Mar 2024
+"655,000","2 Toppers Drive,",CORAL COVE QLD 4670,House,4,2,2,532m² ,04 Mar 2024
+"810,000 ","21 Torrisi Place,",KALKIE QLD 4670,House,4,2,4,832m² ,01 Mar 2024
+"585,000","27 Mccavanagh Street,",BARGARA QLD 4670,House,4,1,2,625m² ,29 Feb 2024
+"385,000 ","2/53 Ruddell Street,",BUNDABERG SOUTH QLD 4670,House,3,2,1,124m² ,29 Feb 2024
+"552,000","11 Adams Street,",BUNDABERG WEST QLD 4670,House,4,2,3,"1,012m² ",29 Feb 2024
+"390,000 ","31 Mimnagh Street,",NORVILLE QLD 4670,House,3,1,4,607m² ,28 Feb 2024
+"700,000 ","2 Settlers Court,",BARGARA QLD 4670,House,4,2,3,654m² ,27 Feb 2024
+"825,000 ","14 Back Hill Drive,",CORAL COVE QLD 4670,House,4,2,5,"1,137m² ",27 Feb 2024
+"450,000 ","410 Riverview Road,",ELLIOTT HEADS QLD 4670,House,2,1,1,"2,023m² ",27 Feb 2024
+"842,500 ","55 Pacific Bvd,",MOORE PARK BEACH QLD 4670,House,3,2,2,607m² ,27 Feb 2024
+"495,000","28 Southern Cross Drive,",AVOCA QLD 4670,House,3,1,−,638m² ,26 Feb 2024
+"560,000 ","28 Tropicana Drive,",AVOCA QLD 4670,House,3,2,2,735m² ,26 Feb 2024
+"512,500 ","38 Wilfred St,",BARGARA QLD 4670,House,3,1,2,606m² ,26 Feb 2024
+"515,000 ","17 MOORE PARK ROAD,",MOORE PARK BEACH QLD 4670,House,2,1,3,"2,135m² ",26 Feb 2024
+"820,000 ","2 Elm St,",MOORE PARK BEACH QLD 4670,House,3,2,2,817m² ,26 Feb 2024
+"484,000 ","11 Tea Tree Ct,",MOORE PARK BEACH QLD 4670,House,3,1,−,655m² ,26 Feb 2024
+"380,000","7 Rowland Street,",BUNDABERG SOUTH QLD 4670,House,4,1,5,809m² ,23 Feb 2024
+"725,000 ","8 Tulip Ct,",MOORE PARK BEACH QLD 4670,House,4,2,4,"1,064m² ",23 Feb 2024
+"920,000","238 Woongarra Scenic Drive,",BARGARA QLD 4670,House,3,1,2,620m² ,22 Feb 2024
+"452,000","6 Murrell Court,",BUNDABERG EAST QLD 4670,House,3,1,2,"1,501m² ",22 Feb 2024
+"485,000 ","75 Foster Drive,",BUNDABERG NORTH QLD 4670,House,4,1,2,650m² ,22 Feb 2024
+"475,000 ","25 Milton Street,",BURNETT HEADS QLD 4670,House,2,1,1,640m² ,22 Feb 2024
+"525,000","25 Steffensen Street,",SVENSSON HEIGHTS QLD 4670,House,3,2,3,809m² ,22 Feb 2024
+"610,000 ","1A East West Avenue,",AVOCA QLD 4670,House,3,2,2,913m² ,21 Feb 2024
+"630,000 ","20 Acacia St,",MOORE PARK BEACH QLD 4670,House,5,2,2,735m² ,21 Feb 2024
+"470,000","40 High Street,",WALKERVALE QLD 4670,House,3,2,6,"1,012m² ",21 Feb 2024
+"610,000","18 Dennis Court,",AVOCA QLD 4670,House,3,2,4,919m² ,20 Feb 2024
+"422,000","10 One Mile Road,",BUNDABERG NORTH QLD 4670,House,4,1,3,635m² ,20 Feb 2024
+"330,000 ","1 Stringer Street,",MILLBANK QLD 4670,House,3,1,1,607m² ,20 Feb 2024
+"540,000 ","21 Moore Park Rd,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,065m² ",20 Feb 2024
+"645,000","8 Hills Road,",SOUTH BINGERA QLD 4670,House,5,2,8,0,20 Feb 2024
+"477,400 ","7 Soblusky Street,",AVENELL HEIGHTS QLD 4670,House,4,1,1,759m² ,19 Feb 2024
+"700,000 ","13 Marshall Street,",BURNETT HEADS QLD 4670,House,3,2,6,991m² ,19 Feb 2024
+"1,500,000","79 Sea Esplanade,",BURNETT HEADS QLD 4670,House,5,3,4,"1,012m² ",16 Feb 2024
+"985,000 ","67 Sylvan Drive,",MOORE PARK BEACH QLD 4670,House,4,2,2,"4,002m² ",16 Feb 2024
+"595,000 ","1 Schirmers Ct,",MOORE PARK BEACH QLD 4670,House,3,1,8,"5,137m² ",16 Feb 2024
+"545,000 ","1 Belvedere Ct,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,513m² ",15 Feb 2024
+"505,000 ","5 Courtice Street,",WALKERVALE QLD 4670,House,3,2,3,799m² ,14 Feb 2024
+"500,000 ","57 Orchid Dr,",MOORE PARK BEACH QLD 4670,House,2,1,1,738m² ,13 Feb 2024
+"750,000 ","67 Commodore Drive,",SOUTH BINGERA QLD 4670,House,5,3,9,"7,092m² ",13 Feb 2024
+"550,000 ","2B Kedge Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,2,760m² ,13 Feb 2024
+"525,000","6 Cauchi Court,",AVOCA QLD 4670,House,4,1,4,829m² ,
+"485,000 ","12 Franklin Street,",BUNDABERG SOUTH QLD 4670,House,3,2,1,"1,012m² ",12 Feb 2024
+"510,000 ","5 Cox Crescent,",MILLBANK QLD 4670,House,3,2,4,792m² ,12 Feb 2024
+"357,000 ","20 Mimnagh Street,",NORVILLE QLD 4670,House,2,1,2,703m² ,12 Feb 2024
+"410,000 ","8 Hurst Street,",WALKERVALE QLD 4670,House,3,1,4,865m² ,12 Feb 2024
+"600,000 ","17 Rowland Street,",BUNDABERG SOUTH QLD 4670,House,4,2,2,809m² ,10 Feb 2024
+"435,000 ","4C Fitzgerald Street,",NORVILLE QLD 4670,House,3,1,3,623m² ,10 Feb 2024
+"669,000 ","47 Bargara Lakes Drive,",BARGARA QLD 4670,House,4,2,2,853m² ,09 Feb 2024
+"800,000 ","29 Arcadia Drive,",BRANYAN QLD 4670,House,3,2,6,"5,853m² ",09 Feb 2024
+"600,000 ","17a Lovers Walk,",THABEBAN QLD 4670,House,4,2,3,967m² ,09 Feb 2024
+"440,000","59 Boundary Street,",WALKERVALE QLD 4670,House,3,1,1,596m² ,09 Feb 2024
+"780,000","21 Murdochs Road,",MOORE PARK BEACH QLD 4670,House,4,2,8,0,08 Feb 2024
+"550,000","32 Welch Street,",ELLIOTT HEADS QLD 4670,House,3,1,1,840m² ,07 Feb 2024
+"535,000 ","7 Harris Street,",NORVILLE QLD 4670,House,3,2,2,787m² ,07 Feb 2024
+"449,000 ","5 Finnis Street,",AVENELL HEIGHTS QLD 4670,House,4,2,3,"1,108m² ",06 Feb 2024
+"510,000 ","4 Darby Street,",BRANYAN QLD 4670,House,4,2,2,600m² ,06 Feb 2024
+"400,000","8 Rae Street,,",BUNDABERG NORTH QLD 4670,House,3,1,1,"1,012m² ",06 Feb 2024
+"492,500","80 Fe Walker Street,",KEPNOCK QLD 4670,House,3,1,2,"1,100m² ",06 Feb 2024
+"340,000 ","56 Maynard Street,",NORVILLE QLD 4670,House,3,2,2,976m² ,06 Feb 2024
+"520,000 ","2 Martins Court,",QUNABA QLD 4670,House,3,2,1,745m² ,06 Feb 2024
+"410,000","258 Goodwood Road,",THABEBAN QLD 4670,House,3,1,2,"1,112m² ",06 Feb 2024
+"555,000 ","15 Pettigrew Drive,",KALKIE QLD 4670,House,4,2,1,629m² ,05 Feb 2024
+"405,000 ","54 Nott Street,",NORVILLE QLD 4670,House,4,1,4,799m² ,05 Feb 2024
+"760,000 ","11 Rehbein Avenue,",QUNABA QLD 4670,House,4,2,4,"1,366m² ",05 Feb 2024
+"970,000 ","2 Tranquility Place,",BARGARA QLD 4670,House,4,2,4,982m² ,02 Feb 2024
+"479,000 ","182 Walker Street,",SVENSSON HEIGHTS QLD 4670,House,4,1,1,807m² ,02 Feb 2024
+"572,000 ","20 Bryde Place,",THABEBAN QLD 4670,House,4,1,3,832m² ,02 Feb 2024
+"417,160 ","1 Marsh Street,",BUNDABERG NORTH QLD 4670,House,3,1,2,620m² ,01 Feb 2024
+"285,000 ","36 Burnett Heads Road,",BURNETT HEADS QLD 4670,House,2,1,4,809m² ,01 Feb 2024
+"710,000 ","24 Voss Court,",MILLBANK QLD 4670,House,4,2,4,967m² ,01 Feb 2024
+"490,000 ","11 Child Street,",SVENSSON HEIGHTS QLD 4670,House,4,1,4,622m² ,01 Feb 2024
+"465,000 ","31 Smiths Road,",AVOCA QLD 4670,House,3,1,1,779m² ,31 Jan 2024
+"555,000","17 Barlow Street,",BUNDABERG NORTH QLD 4670,House,4,2,2,811m² ,31 Jan 2024
+"675,000 ","17 Hilltop Avenue,",QUNABA QLD 4670,House,4,2,2,815m² ,31 Jan 2024
+"617,000 ","10 Heritage Drive,",BARGARA QLD 4670,House,4,1,1,807m² ,30 Jan 2024
+"800,000 ","3 Bunker Court,",BARGARA QLD 4670,House,4,2,2,814m² ,30 Jan 2024
+"385,000 ","4 Dawn Parade,",THABEBAN QLD 4670,House,3,1,1,706m² ,30 Jan 2024
+"385,000","53 Gorlicks Road,",BRANYAN QLD 4670,House,2,1,1,800m² ,29 Jan 2024
+"480,000","39 Mariners Way,",BUNDABERG NORTH QLD 4670,House,4,2,2,"2,378m² ",29 Jan 2024
+"285,000 ","113 Targo Street,",BUNDABERG SOUTH QLD 4670,House,2,1,1,969m² ,29 Jan 2024
+"450,000 ","100 Electra Street,",BUNDABERG WEST QLD 4670,House,3,1,3,759m² ,29 Jan 2024
+"565,000 ","13 The Strand West,",THABEBAN QLD 4670,House,4,2,3,725m² ,29 Jan 2024
+"380,000","17 Theodore Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,1,"1,012m² ",27 Jan 2024
+"392,500 ","8 Hussey Street,",AVENELL HEIGHTS QLD 4670,House,3,1,1,959m² ,26 Jan 2024
+"330,000","6 Donaldson Street,",BURNETT HEADS QLD 4670,House,3,2,1,481m² ,26 Jan 2024
+"620,000 ","3 Jensen Street,",AVENELL HEIGHTS QLD 4670,House,5,2,1,"1,460m² ",25 Jan 2024
+"490,000","36 Davenport Drive,",COONARR QLD 4670,House,2,1,5,"6,000m² ",25 Jan 2024
+"730,000","40 Lagoon Drive,",MOORE PARK BEACH QLD 4670,House,5,3,−,"4,035m² ",25 Jan 2024
+"900,000 ","298 Ten Mile Road,",SHARON QLD 4670,House,4,3,10,"18,300m² ",25 Jan 2024
+"660,000","5 Reynella Drive,",AVOCA QLD 4670,House,5,2,5,721m² ,24 Jan 2024
+"545,000 ","7 Shoreline Crescent,",BARGARA QLD 4670,House,4,1,1,630m² ,24 Jan 2024
+"625,000 ","6 Rosewood Place,",BUNDABERG NORTH QLD 4670,House,4,2,2,854m² ,24 Jan 2024
+"532,500 ","32 Cortes Drive,",THABEBAN QLD 4670,House,3,2,3,752m² ,23 Jan 2024
+"464,000 ","253 Branyan Drive,",AVOCA QLD 4670,House,4,1,2,796m² ,22 Jan 2024
+"610,000","8 Hansen Street,",BURNETT HEADS QLD 4670,House,4,2,4,"1,109m² ",22 Jan 2024
+"730,000 ","7 Majestic Place,",CORAL COVE QLD 4670,House,4,3,4,"1,824m² ",22 Jan 2024
+"280,000 ","117 Lenihans Road,",ELECTRA QLD 4670,House,2,1,2,0,22 Jan 2024
+"530,000 ","52 Grevillea Avenue,",INNES PARK QLD 4670,House,3,1,2,"1,116m² ",22 Jan 2024
+"784,000 ","14 Malvern Drive,",MOORE PARK BEACH QLD 4670,House,4,2,4,"1,543m² ",22 Jan 2024
+"317,000 ","77 High Street,",WALKERVALE QLD 4670,House,2,1,1,415m² ,22 Jan 2024
+"335,000","1 Bell St,",BUNDABERG SOUTH QLD 4670,House,2,2,2,498m² ,20 Jan 2024
+"935,000 ","14 Chantilly Street,",BARGARA QLD 4670,House,5,3,2,894m² ,19 Jan 2024
+"570,000 ","22 Strathdee Avenue,",BUNDABERG SOUTH QLD 4670,House,4,2,4,696m² ,19 Jan 2024
+"865,000 ","40 Whistler Cl,",MOORE PARK BEACH QLD 4670,House,4,2,3,0,19 Jan 2024
+"560,000 ","13 Panorama Drive,",QUNABA QLD 4670,House,3,2,2,766m² ,19 Jan 2024
+"750,000 ","7 Muller Court,",BARGARA QLD 4670,House,4,2,2,820m² ,18 Jan 2024
+"350,000","78 Welch Street,",ELLIOTT HEADS QLD 4670,House,2,1,1,759m² ,18 Jan 2024
+"630,000 ","8 Studholme Court,",KALKIE QLD 4670,House,4,2,3,803m² ,18 Jan 2024
+"425,000 ","7 Cox Crescent,",MILLBANK QLD 4670,House,3,1,3,792m² ,18 Jan 2024
+"550,000 ","44B McNeilly Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,2,647m² ,18 Jan 2024
+"1,190,000 ","39 Fairway Drive,",BARGARA QLD 4670,House,5,2,2,987m² ,17 Jan 2024
+"515,000","33 Davenport Drive,",COONARR QLD 4670,House,3,1,1,"4,008m² ",17 Jan 2024
+"850,000 ","171 SYLVAN DRIVE,",MOORE PARK BEACH QLD 4670,House,4,2,4,"4,000m² ",17 Jan 2024
+"490,000 ","27 MONARCH AVE,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,400m² ",17 Jan 2024
+"577,000 ","73a High Street,",WALKERVALE QLD 4670,Duplex,5,3,3,556m² ,17 Jan 2024
+"540,000 ","12 Lakeside Close,",BARGARA QLD 4670,House,3,2,2,800m² ,16 Jan 2024
+"512,000 ","1/2 Crawford Street,",WALKERVALE QLD 4670,Duplex,3,1,1,746m² ,16 Jan 2024
+"700,000 ","12 Keiran Place,",BUNDABERG EAST QLD 4670,House,4,3,4,"1,920m² ",15 Jan 2024
+"405,000 ","23 Fairymead Road,",BUNDABERG NORTH QLD 4670,House,3,1,2,809m² ,15 Jan 2024
+"945,000 ","9 Lakeview Drive,",BUNDABERG NORTH QLD 4670,House,3,3,6,"2,004m² ",15 Jan 2024
+"595,000 ","86 Walker Street,",WALKERVALE QLD 4670,House,4,2,1,947m² ,15 Jan 2024
+"465,000","25 Dawson Ave,",THABEBAN QLD 4670,House,4,2,2,600m² ,13 Jan 2024
+"684,000 ","5 Placid Court,",AVENELL HEIGHTS QLD 4670,House,5,2,3,907m² ,12 Jan 2024
+"480,500","266 Branyan Drive,",AVOCA QLD 4670,House,3,1,1,731m² ,12 Jan 2024
+"880,000 ","12 Pelican Drive,",BARGARA QLD 4670,House,4,2,2,920m² ,12 Jan 2024
+"511,000 ","12 McCullough Street,",KEPNOCK QLD 4670,House,3,1,2,842m² ,12 Jan 2024
+"415,000 ","12 Grange Street,",NORVILLE QLD 4670,House,3,1,1,814m² ,12 Jan 2024
+"445,000 ","713 Gooburrum Road,",WELCOME CREEK QLD 4670,House,3,1,5,"3,099m² ",12 Jan 2024
+"371,500 ","7 Hodgetts Court,",BUNDABERG NORTH QLD 4670,House,3,1,1,705m² ,11 Jan 2024
+"386,000 ","1 May Street,",WALKERVALE QLD 4670,House,3,1,2,"1,083m² ",11 Jan 2024
+"665,000 ","27 Longview Street,",ASHFIELD QLD 4670,House,4,3,4,800m² ,10 Jan 2024
+"795,000 ","139 Fairway Drive,",BARGARA QLD 4670,House,4,2,4,839m² ,10 Jan 2024
+"635,000 ","21 Oakwood Road,",OAKWOOD QLD 4670,House,3,2,2,"2,250m² ",10 Jan 2024
+"360,000 ","16/3 Ann Street,",BUNDABERG EAST QLD 4670,House,3,2,2,169m² ,09 Jan 2024
+"610,000 ","9 Wedgeleaf Place,",ASHFIELD QLD 4670,House,4,2,2,701m² ,08 Jan 2024
+"487,000","9 Nicolson St,",NORVILLE QLD 4670,House,3,1,2,600m² ,08 Jan 2024
+"900,000 ","60 Fantail Place,",SHARON QLD 4670,House,4,2,5,"4,253m² ",08 Jan 2024
+"441,000 ","14 Child Street,",SVENSSON HEIGHTS QLD 4670,House,4,1,2,938m² ,08 Jan 2024
+"360,000 ","72 Boundary Street,",WALKERVALE QLD 4670,House,2,1,3,"1,366m² ",08 Jan 2024
+"816,000 ","10 Sorrento Drive,",BARGARA QLD 4670,House,4,2,2,706m² ,05 Jan 2024
+"360,000 ","9 Eastgate Street,",BUNDABERG EAST QLD 4670,House,3,1,2,883m² ,05 Jan 2024
+"855,000 ","25 Deering Place,",INNES PARK QLD 4670,House,4,2,2,"1,013m² ",05 Jan 2024
+"330,000 ","31 Grange Street,",NORVILLE QLD 4670,House,2,1,2,607m² ,05 Jan 2024
+"790,000 ","1 FISCHER COURT,",ASHFIELD QLD 4670,House,5,2,4,933m² ,03 Jan 2024
+"505,000 ","136 Moodies Road,",BARGARA QLD 4670,House,4,1,2,615m² ,03 Jan 2024
+"635,000","1 Allana Court,",ELLIOTT HEADS QLD 4670,House,4,2,7,823m² ,02 Jan 2024
+"495,000 ","100 Sims Road,",KEPNOCK QLD 4670,House,3,1,3,769m² ,02 Jan 2024
+"945,000 ","39 Palmerston Drive,",BRANYAN QLD 4670,House,6,2,4,"4,009m² ",27 Dec 2023
+"422,000 ","128 Barolin Street,",WALKERVALE QLD 4670,House,3,1,2,"1,012m² ",27 Dec 2023
+"490,000 ","1a Avenell Street,",AVENELL HEIGHTS QLD 4670,House,4,2,2,662m² ,22 Dec 2023
+"235,000 ","8 Rae Street,",BUNDABERG NORTH QLD 4670,House,4,1,1,"1,012m² ",2023
+"1,410,000 ","4 Selmar Place,",INNES PARK QLD 4670,House,4,3,4,"2,000m² ",22 Dec 2023
+"575,000 ","28 Dunkirk Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,2,603m² ,22 Dec 2023
+"615,000 ","70 Chancellor Drive,",AVENELL HEIGHTS QLD 4670,House,4,2,2,823m² ,21 Dec 2023
+"415,000 ","13 Redmond Street,",AVENELL HEIGHTS QLD 4670,House,3,1,2,"1,007m² ",21 Dec 2023
+"608,000 ","4 Davidson Street,",BARGARA QLD 4670,House,3,1,2,700m² ,21 Dec 2023
+"700,000 ","13 June Place,",BUNDABERG EAST QLD 4670,House,4,2,2,802m² ,21 Dec 2023
+"380,000","68 Maryborough Street,",BUNDABERG SOUTH QLD 4670,House,3,2,−,809m² ,21 Dec 2023
+"547,000 ","43 Burnett Street,",BUNDABERG SOUTH QLD 4670,Semi-detached,6,3,3,840m² ,21 Dec 2023
+"785,000 ","42 Currawong Road,",GOOBURRUM QLD 4670,House,4,2,4,"4,005m² ",21 Dec 2023
+"700,000 ","14 Georgia Terrace,",KALKIE QLD 4670,Duplex,6,3,2,802m² ,21 Dec 2023
+"559,000 ","5 Mandi Court,",KALKIE QLD 4670,House,5,3,2,757m² ,21 Dec 2023
+"510,000 ","3 Horton Street,",NORVILLE QLD 4670,House,4,1,2,608m² ,21 Dec 2023
+"1,170,000 ","18 Trinity Close,",BARGARA QLD 4670,House,4,2,4,"1,039m² ",20 Dec 2023
+"909,360 ","Lot 3 Basalt Court,",BARGARA QLD 4670,House,3,2,2,296m² ,20 Dec 2023
+"676,000 ","14 Fixter Avenue,",KALKIE QLD 4670,House,4,2,4,"1,144m² ",20 Dec 2023
+"780,000 ","40 Shoreline Crescent,",BARGARA QLD 4670,House,7,3,2,660m² ,19 Dec 2023
+"550,000","40 Egret Lane,",MOORE PARK BEACH QLD 4670,House,4,1,3,"2,262m² ",19 Dec 2023
+"450,000 ","11 Theodore Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,7,"1,012m² ",19 Dec 2023
+"720,000 ","3 Moray Ct,",BARGARA QLD 4670,House,4,2,2,751m² ,18 Dec 2023
+"390,000 ","6 Ann Street,",BUNDABERG EAST QLD 4670,House,3,1,3,"1,012m² ",18 Dec 2023
+"500,000 ","8 McNeilly Street,",NORVILLE QLD 4670,House,4,2,1,749m² ,18 Dec 2023
+"528,500 ","114 Woodbury Drive,",SOUTH KOLAN QLD 4670,House,4,2,7,0,18 Dec 2023
+"352,000","51 Churchill Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,3,900m² ,18 Dec 2023
+"700,000 ","21 Thomas Healy Drive,",BUNDABERG EAST QLD 4670,House,4,2,4,742m² ,17 Dec 2023
+"410,000","4 Lamb Street,",WALKERVALE QLD 4670,House,3,1,3,769m² ,17 Dec 2023
+"960,000 ","13 Knox Court,",BARGARA QLD 4670,House,3,2,4,"1,130m² ",15 Dec 2023
+"460,000 ","10 Hintz Street,",BRANYAN QLD 4670,House,3,2,2,573m² ,15 Dec 2023
+"435,000 ","7 Peirson Street,",MILLBANK QLD 4670,House,3,1,2,663m² ,15 Dec 2023
+"412,800 ","46 Moran Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,2,693m² ,15 Dec 2023
+"1,221,964","120 Douglas Road,",ALLOWAY QLD 4670,House,6,3,6,"4,566m² ",14 Dec 2023
+"565,000 ","2 Aymone Close,",AVOCA QLD 4670,House,4,2,3,792m² ,14 Dec 2023
+"705,000 ","5 Woodglen Close,",BARGARA QLD 4670,House,3,3,−,708m² ,14 Dec 2023
+"1,600,000 ","6 Shady Grove,",BARGARA QLD 4670,House,3,3,2,911m² ,14 Dec 2023
+"905,000 ","8 Knudsen Street,",ELLIOTT HEADS QLD 4670,House,4,3,5,825m² ,14 Dec 2023
+"540,200 ","38 Clive Crescent,",KEPNOCK QLD 4670,House,3,1,2,730m² ,14 Dec 2023
+"430,000 ","38 Windermere Street,",NORVILLE QLD 4670,House,3,1,1,608m² ,14 Dec 2023
+"525,000 ","8 Svensson Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,8,850m² ,13 Dec 2023
+"365,000","67 Boundary Street,",WALKERVALE QLD 4670,House,3,1,3,852m² ,13 Dec 2023
+"600,000 ","5 Aleta Court,",AVOCA QLD 4670,House,4,2,2,706m² ,12 Dec 2023
+"626,000 ","21 Whalley Street,",BARGARA QLD 4670,House,2,1,2,"1,029m² ",12 Dec 2023
+"610,000","3 Cycad Court,",MOORE PARK BEACH QLD 4670,House,4,2,2,801m² ,12 Dec 2023
+"305,000","2 Faldt Street,",NORVILLE QLD 4670,House,3,1,1,809m² ,12 Dec 2023
+"530,000","5 Cocas Drive,",AVOCA QLD 4670,House,3,1,3,773m² ,11 Dec 2023
+"845,000 ","4 Fiona Place,",BARGARA QLD 4670,House,4,2,3,963m² ,11 Dec 2023
+"250,000 ","37 Princess Street,",BUNDABERG EAST QLD 4670,House,2,1,−,481m² ,11 Dec 2023
+"395,000 ","53 Skyring Street,",BUNDABERG EAST QLD 4670,House,3,1,2,885m² ,11 Dec 2023
+"650,000 ","40 Lakeview Drive,",BUNDABERG NORTH QLD 4670,House,5,2,2,"1,012m² ",11 Dec 2023
+"565,000 ","5 Aldridge Street,",BURNETT HEADS QLD 4670,House,3,2,3,"1,012m² ",11 Dec 2023
+"406,000","77 Zielke Av,",KALKIE QLD 4670,House,3,1,4,"1,012m² ",11 Dec 2023
+"423,000","28 Wynter Street,",NORVILLE QLD 4670,House,2,1,2,607m² ,11 Dec 2023
+"580,000 ","2 Halloran Street,",THABEBAN QLD 4670,House,4,2,2,709m² ,11 Dec 2023
+"687,000 ","24 Baker Finch Dr,",BARGARA QLD 4670,House,4,2,4,700m² ,09 Dec 2023
+"325,000","30 Skyring Street,",BUNDABERG EAST QLD 4670,House,3,1,1,607m² ,09 Dec 2023
+"502,000","10 Christsen Street,",BUNDABERG NORTH QLD 4670,House,3,1,3,"1,012m² ",09 Dec 2023
+"680,000 ","1 Hilltop Avenue,",QUNABA QLD 4670,House,4,2,2,808m² ,09 Dec 2023
+"760,000 ","31 Belle Eden Drive,",ASHFIELD QLD 4670,House,4,2,3,765m² ,08 Dec 2023
+"610,000 ","18 Mountney Street,",AVOCA QLD 4670,House,4,2,2,600m² ,08 Dec 2023
+"480,000","7 Darby Street,",BRANYAN QLD 4670,House,4,2,2,600m² ,08 Dec 2023
+"600,000","41 Gibsons Road,",BURNETT HEADS QLD 4670,House,3,1,5,"1,012m² ",08 Dec 2023
+"385,000 ","1042 Gin Gin Road,",SHARON QLD 4670,House,2,1,4,"8,132m² ",08 Dec 2023
+"540,000 ","51 Gibsons Road,",BURNETT HEADS QLD 4670,House,4,2,2,"1,012m² ",06 Dec 2023
+"930,000 ","38 Welch Street,",ELLIOTT HEADS QLD 4670,House,6,2,5,"1,493m² ",06 Dec 2023
+"450,000 ","117 Targo Street,",BUNDABERG SOUTH QLD 4670,House,4,1,4,969m² ,05 Dec 2023
+"385,000 ","50 Barolin Street,",BUNDABERG SOUTH QLD 4670,Duplex,4,4,5,555m² ,05 Dec 2023
+"650,000","23 Seymore Avenue,",KALKIE QLD 4670,House,4,2,3,841m² ,05 Dec 2023
+"465,000","700 Rosedale Road,",MEADOWVALE QLD 4670,House,3,1,4,"2,993m² ",05 Dec 2023
+"470,000 ","166 Avoca Road,",AVOCA QLD 4670,House,4,2,2,814m² ,04 Dec 2023
+"478,000 ","6 Jeune Court,",BRANYAN QLD 4670,House,4,2,1,448m² ,04 Dec 2023
+"502,000 ","72 Neville Drive,",BRANYAN QLD 4670,House,4,2,2,672m² ,04 Dec 2023
+"500,000 ","32 Maryborough Street,",BUNDABERG SOUTH QLD 4670,House,4,2,3,"1,012m² ",04 Dec 2023
+"535,000 ","29 Erindale Avenue,",KENSINGTON QLD 4670,House,3,1,3,"5,496m² ",04 Dec 2023
+"960,000 ","3 Verona Street,",NORVILLE QLD 4670,House,4,2,4,"1,074m² ",04 Dec 2023
+"645,000 ","78 Lamb Street,",WALKERVALE QLD 4670,House,5,3,2,955m² ,04 Dec 2023
+"510,000","41 Mulgrave Street,",BUNDABERG WEST QLD 4670,House,4,2,4,"1,173m² ",03 Dec 2023
+"360,000","5 Peatey Street,",KEPNOCK QLD 4670,House,2,1,2,733m² ,02 Dec 2023
+"600,000 ","41 River Terrace,",MILLBANK QLD 4670,House,4,3,2,604m² ,02 Dec 2023
+"770,000 ","3 Paddy Melon Place,",GOOBURRUM QLD 4670,House,5,2,8,"4,001m² ",01 Dec 2023
+"420,000 ","21 Moran Street,",SVENSSON HEIGHTS QLD 4670,House,5,2,3,809m² ,01 Dec 2023
+"450,000 ","4 Rekow Street,",THABEBAN QLD 4670,House,3,1,4,860m² ,01 Dec 2023
+"540,000 ","20 Avenell Street,",AVENELL HEIGHTS QLD 4670,House,5,2,3,858m² ,30 Nov 2023
+"490,000 ","16 Sandhills Drive,",BARGARA QLD 4670,House,3,1,1,700m² ,30 Nov 2023
+"515,000","1 Redshaw Street,",BUNDABERG EAST QLD 4670,House,4,2,4,852m² ,30 Nov 2023
+"315,000 ","27 Sugden Street,",BUNDABERG SOUTH QLD 4670,House,3,2,2,809m² ,30 Nov 2023
+"420,000 ","15 Diamond Street,",MILLBANK QLD 4670,House,3,2,1,630m² ,30 Nov 2023
+"730,000 ","48 Palermo Avenue,",ASHFIELD QLD 4670,House,4,2,4,735m² ,29 Nov 2023
+"510,000 ","30 Bingera Street,",BUNDABERG WEST QLD 4670,House,4,1,2,814m² ,29 Nov 2023
+"335,000 ","1 Donaldson Street,",BURNETT HEADS QLD 4670,House,1,1,−,"1,275m² ",29 Nov 2023
+"510,000","2 Lovett Street,",NORVILLE QLD 4670,House,4,2,4,612m² ,29 Nov 2023
+"285,000 ","24 Mimnagh Street,",NORVILLE QLD 4670,House,2,1,1,703m² ,29 Nov 2023
+"648,000 ","8 Anthonys Rest,",QUNABA QLD 4670,House,4,2,3,"1,720m² ",29 Nov 2023
+"571,000 ","2 Langbeckers Road,",THABEBAN QLD 4670,House,5,2,2,0,29 Nov 2023
+"760,000 ","2 McGill Crescent,",AVENELL HEIGHTS QLD 4670,House,4,2,2,683m² ,28 Nov 2023
+"420,000","170 Byrne Street,",MILLBANK QLD 4670,House,3,1,3,911m² ,28 Nov 2023
+"470,000 ","41 Avenell Street,",AVENELL HEIGHTS QLD 4670,House,3,1,3,751m² ,27 Nov 2023
+"433,000 ","9 Ferny Avenue,",AVOCA QLD 4670,House,3,1,1,802m² ,27 Nov 2023
+"770,000 ","36 Sarra Place,",BUNDABERG EAST QLD 4670,House,4,3,4,801m² ,27 Nov 2023
+"920,000 ","109 Woongarra Street,",BUNDABERG WEST QLD 4670,House,5,3,4,"1,204m² ",27 Nov 2023
+"805,000","11 Cochrane Street,",MILLBANK QLD 4670,House,4,2,2,834m² ,27 Nov 2023
+"425,000 ","43 Nott Street,",NORVILLE QLD 4670,House,3,1,1,814m² ,27 Nov 2023
+"465,000 ","110 Clearview Avenue,",THABEBAN QLD 4670,House,4,2,2,844m² ,27 Nov 2023
+"493,000 ","3 St Ives Court,",BUNDABERG EAST QLD 4670,House,4,1,2,715m² ,24 Nov 2023
+"434,000 ","96 Malvern Drive,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,495m² ",24 Nov 2023
+"385,000 ","40 Duncraigen Street,",NORVILLE QLD 4670,House,3,1,2,607m² ,24 Nov 2023
+"660,000 ","7 Heathwood Crescent,",QUNABA QLD 4670,House,4,2,3,979m² ,24 Nov 2023
+"455,000 ","150 Walker Street,",SVENSSON HEIGHTS QLD 4670,House,3,2,3,736m² ,24 Nov 2023
+"649,000 ","44 Avenell Street,",AVENELL HEIGHTS QLD 4670,House,4,2,6,"1,502m² ",23 Nov 2023
+"900,000 ","6 Outrigger Close,",BARGARA QLD 4670,House,4,2,4,"1,214m² ",23 Nov 2023
+"332,500 ","4 Russell Street,",BUNDABERG NORTH QLD 4670,House,3,1,2,766m² ,23 Nov 2023
+"605,000 ","14 Brandon Court,",CORAL COVE QLD 4670,House,4,2,2,502m² ,23 Nov 2023
+"749,500","29 Lucas Street,",KEPNOCK QLD 4670,House,4,2,2,912m² ,23 Nov 2023
+"710,000 ","15 Gum Nut Drive,",ASHFIELD QLD 4670,House,4,2,4,750m² ,22 Nov 2023
+"640,000 ","2 Cauchi Court,",AVOCA QLD 4670,House,5,4,3,"1,019m² ",22 Nov 2023
+"361,000","17 Steuart Street,",BUNDABERG NORTH QLD 4670,House,3,1,2,804m² ,22 Nov 2023
+"453,000 ","41 Duffy Street,",MILLBANK QLD 4670,House,3,1,3,809m² ,22 Nov 2023
+"490,000","35 Windermere Street,",NORVILLE QLD 4670,House,5,3,2,751m² ,21 Nov 2023
+"482,000","34 Leivesley Street,",BUNDABERG EAST QLD 4670,House,3,2,2,885m² ,20 Nov 2023
+"750,000 ","11 Fraser Avenue,",INNES PARK QLD 4670,House,4,2,2,701m² ,20 Nov 2023
+"692,000 ","8 Haylock Street,",MILLBANK QLD 4670,House,5,3,3,814m² ,20 Nov 2023
+"450,000 ","776 Gooburrum Road,",WELCOME CREEK QLD 4670,House,3,1,4,"4,574m² ",20 Nov 2023
+"205,000 ","29 Gahans Road,",KALKIE QLD 4670,House,2,1,−,756m² ,2023
+"515,000","68 Bathurst Street,",ELLIOTT HEADS QLD 4670,House,2,1,2,759m² ,17 Nov 2023
+"715,000","24 Blue Water Drive,",ELLIOTT HEADS QLD 4670,House,4,2,2,763m² ,17 Nov 2023
+"570,000 ","24 Kinghorn Street,",KALKIE QLD 4670,House,4,2,3,945m² ,17 Nov 2023
+"445,000 ","32 Avokahville Avenue,",AVOCA QLD 4670,House,3,1,2,800m² ,16 Nov 2023
+"605,000 ","20 Kehls Road,",AVONDALE QLD 4670,House,3,1,6,"88,800m² ",16 Nov 2023
+"660,000 ","11 Chantilly Street,",BARGARA QLD 4670,House,4,2,2,824m² ,16 Nov 2023
+"625,000","2 Trevors Road,",BARGARA QLD 4670,House,3,1,4,607m² ,16 Nov 2023
+"915,000 ","8 Plover Court,",BARGARA QLD 4670,House,4,2,4,"1,026m² ",16 Nov 2023
+"400,000","6 Giovanni Court,",BUNDABERG NORTH QLD 4670,House,3,1,2,804m² ,16 Nov 2023
+"477,000 ","359 Bourbong Street,",MILLBANK QLD 4670,House,3,2,2,"1,012m² ",16 Nov 2023
+"440,000 ","10 Brand Street,",WALKERVALE QLD 4670,House,4,2,−,650m² ,16 Nov 2023
+"720,000 ","5 Zucchero Lane,",ASHFIELD QLD 4670,House,4,2,4,762m² ,15 Nov 2023
+"640,000 ","15 Santa Fe Drive,",AVOCA QLD 4670,House,4,2,2,802m² ,15 Nov 2023
+"470,000","75 Neville Drive,",BRANYAN QLD 4670,House,4,2,2,636m² ,15 Nov 2023
+"460,000 ","16 Marine Terrace,",BURNETT HEADS QLD 4670,House,3,1,2,"1,012m² ",15 Nov 2023
+"471,000 ","7 Sloane Street,",KALKIE QLD 4670,House,3,1,3,764m² ,15 Nov 2023
+"469,500 ","74 Clive Crescent,",KEPNOCK QLD 4670,House,3,1,4,735m² ,15 Nov 2023
+"455,000 ","15 Dunkirk Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,1,870m² ,15 Nov 2023
+"346,000 ","2 McCrohon Street,",AVENELL HEIGHTS QLD 4670,House,3,1,1,600m² ,14 Nov 2023
+"770,000","9 Letinic St,",MILLBANK QLD 4670,House,5,2,5,"1,628m² ",14 Nov 2023
+"376,000 ","57 Pickett Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,2,751m² ,14 Nov 2023
+"778,000 ","10 Hillcrest Court,",BARGARA QLD 4670,House,4,2,3,881m² ,13 Nov 2023
+"610,000 ","13 Palmer Avenue,",BARGARA QLD 4670,House,3,1,1,813m² ,13 Nov 2023
+"490,000","129 Davidson Street,",BARGARA QLD 4670,House,3,1,1,660m² ,13 Nov 2023
+"555,000 ","7 Banner Court,",BRANYAN QLD 4670,House,4,2,2,600m² ,13 Nov 2023
+"863,000 ","59 Arcadia Drive,",BRANYAN QLD 4670,House,4,2,10,"2,403m² ",13 Nov 2023
+"351,000 ","9 Franklin Street,",BUNDABERG SOUTH QLD 4670,House,4,1,1,504m² ,13 Nov 2023
+"710,000 ","7 Marian Street,",CORAL COVE QLD 4670,House,5,2,2,843m² ,13 Nov 2023
+"825,000 ","7 San Vito Court,",NORVILLE QLD 4670,House,4,2,2,870m² ,13 Nov 2023
+"480,000 ","14 Cullen Street,",WALKERVALE QLD 4670,House,4,1,4,814m² ,13 Nov 2023
+"480,000","42 Miles Street,",KEPNOCK QLD 4670,House,3,1,3,890m² ,12 Nov 2023
+"570,000 ","11 Johnston Street,",MILLBANK QLD 4670,House,4,2,3,"1,041m² ",11 Nov 2023
+"450,000","12 Memory Bvd,",INNES PARK QLD 4670,House,3,1,3,607m² ,10 Nov 2023
+"320,000","108 Ashfield Road,",KALKIE QLD 4670,House,2,1,3,810m² ,10 Nov 2023
+"660,000 ","14 Emerick Street,",KEPNOCK QLD 4670,House,4,2,1,"5,686m² ",10 Nov 2023
+"460,000","27 Malvern Drive,",MOORE PARK BEACH QLD 4670,House,4,2,1,"1,394m² ",10 Nov 2023
+"485,000 ","4 Deegan Court,",AVENELL HEIGHTS QLD 4670,House,4,2,2,770m² ,09 Nov 2023
+"440,000 ","10 Aleta Court,",AVOCA QLD 4670,House,3,1,1,742m² ,09 Nov 2023
+"395,000 ","12a Bell Street,",BUNDABERG SOUTH QLD 4670,House,4,2,2,645m² ,09 Nov 2023
+"845,000","10 Marlin Dr,",INNES PARK QLD 4670,House,4,2,2,"1,138m² ",09 Nov 2023
+"380,000 ","2 Leo Street,",NORVILLE QLD 4670,House,2,1,2,969m² ,09 Nov 2023
+"425,000 ","18 Fritz Street,",THABEBAN QLD 4670,House,3,1,4,860m² ,09 Nov 2023
+"595,000 ","59 Wilfred Street,",BARGARA QLD 4670,House,3,2,1,624m² ,08 Nov 2023
+"770,000 ","9 Basalt Court,",BARGARA QLD 4670,House,3,2,2,234m² ,08 Nov 2023
+"429,000 ","68 Neville Drive,",BRANYAN QLD 4670,House,4,2,2,615m² ,08 Nov 2023
+"495,000 ","52 Leivesley Street,",BUNDABERG EAST QLD 4670,House,3,1,2,664m² ,08 Nov 2023
+"405,000 ","6 Aberdeen Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,597m² ,08 Nov 2023
+"715,000 ","17 June Place,",BUNDABERG EAST QLD 4670,House,4,2,2,803m² ,07 Nov 2023
+"340,000","4 Reddan Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,850m² ,07 Nov 2023
+"570,000 ","5 Waratah Drive,",AVOCA QLD 4670,House,4,2,2,741m² ,06 Nov 2023
+"630,000","3 Polo Place,",BRANYAN QLD 4670,House,3,1,2,"9,962m² ",06 Nov 2023
+"530,000 ","5 Foster Drive,",BUNDABERG NORTH QLD 4670,House,4,2,2,688m² ,06 Nov 2023
+"675,000 ","19 Currawong Road,",GOOBURRUM QLD 4670,House,4,1,6,"5,345m² ",06 Nov 2023
+"490,000 ","3 Hickman Court,",KALKIE QLD 4670,House,3,2,1,600m² ,06 Nov 2023
+"477,500 ","24 Moran Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,4,756m² ,06 Nov 2023
+"725,000 ","69 Pickett Street,",SVENSSON HEIGHTS QLD 4670,House,5,3,2,823m² ,06 Nov 2023
+"530,000","23 Montgomery Street,",SVENSSON HEIGHTS QLD 4670,House,4,1,3,809m² ,04 Nov 2023
+"610,000 ","6 Villa Court,",ASHFIELD QLD 4670,House,4,2,2,700m² ,03 Nov 2023
+"495,000 ","22 McLachlan Drive,",AVENELL HEIGHTS QLD 4670,House,3,1,2,829m² ,03 Nov 2023
+"450,000","5/12 Morshead Street,",AVENELL HEIGHTS QLD 4670,House,3,2,2,165m² ,03 Nov 2023
+"460,000","60 Anderson Street,",AVENELL HEIGHTS QLD 4670,Semi-detached,4,2,2,809m² ,03 Nov 2023
+"340,000","15 Normanby Square,",BUNDABERG SOUTH QLD 4670,House,3,1,2,928m² ,03 Nov 2023
+"450,000","104 Sea Park Road,",BURNETT HEADS QLD 4670,House,3,2,2,"1,015m² ",03 Nov 2023
+"820,000 ","6 Cedar Street,",INNES PARK QLD 4670,House,4,2,3,"1,047m² ",03 Nov 2023
+"459,000 ","6 Thorburn Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,1,779m² ,03 Nov 2023
+"400,000 ","34 Avenell Street,",AVENELL HEIGHTS QLD 4670,House,3,1,1,898m² ,02 Nov 2023
+"420,000 ","28 Sugden Street,",BUNDABERG SOUTH QLD 4670,House,4,1,2,809m² ,02 Nov 2023
+"755,000 ","49 Workmans Road,",SHARON QLD 4670,House,4,2,2,"5,460m² ",02 Nov 2023
+"410,000 ","4 Bates Street,",SVENSSON HEIGHTS QLD 4670,House,4,1,2,809m² ,02 Nov 2023
+"430,000 ","9 High Street,",WALKERVALE QLD 4670,House,3,1,2,769m² ,02 Nov 2023
+"705,000 ","13e Quay Street,",BUNDABERG EAST QLD 4670,House,4,3,5,911m² ,01 Nov 2023
+"595,000","34 Markham Road,",COONARR QLD 4670,House,4,2,2,0,01 Nov 2023
+"430,000","7 Thomsen Street,",MILLBANK QLD 4670,House,4,2,2,498m² ,01 Nov 2023
+"499,000 ","29 Penny Street,",MILLBANK QLD 4670,House,5,2,1,"1,012m² ",01 Nov 2023
+"880,000 ","215 Sylvan Drive,",MOORE PARK BEACH QLD 4670,House,4,2,6,"4,001m² ",01 Nov 2023
+"410,750 ","1 Barnes Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,1,632m² ,01 Nov 2023
+"440,000","65 Svensson Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,1,"1,009m² ",01 Nov 2023
+"530,000","33 Shell Street,",BURNETT HEADS QLD 4670,House,3,1,3,"1,012m² ",31 Oct 2023
+"540,000 ","10 Morgan Way,",KALKIE QLD 4670,House,4,2,2,716m² ,31 Oct 2023
+"995,000 ","25 Black Beauty Court,",KENSINGTON QLD 4670,House,5,2,6,"3,958m² ",31 Oct 2023
+"492,000 ","58 Pickett Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,2,693m² ,31 Oct 2023
+"740,000 ","1 Fairway Drive,",BARGARA QLD 4670,House,4,2,3,741m² ,30 Oct 2023
+"609,000","9 Cove Street,",BURNETT HEADS QLD 4670,House,3,1,3,"1,541m² ",30 Oct 2023
+"415,000 ","15 Barellan Parade,",QUNABA QLD 4670,House,4,1,3,763m² ,30 Oct 2023
+"540,000 ","14 Cooper Court,",AVENELL HEIGHTS QLD 4670,House,4,2,1,785m² ,27 Oct 2023
+"755,000 ","4 Blue Sea Court,",BARGARA QLD 4670,House,3,2,3,413m² ,27 Oct 2023
+"875,000 ","3 San Vito Court,",NORVILLE QLD 4670,House,4,2,4,994m² ,27 Oct 2023
+"875,000 ","43 Lakeview Drive,",ALLOWAY QLD 4670,House,3,1,2,"182,108m² ",25 Oct 2023
+"421,000 ","48 Vasey Street,",AVENELL HEIGHTS QLD 4670,House,4,1,2,592m² ,25 Oct 2023
+"381,000 ","74 Avenell Street,",AVENELL HEIGHTS QLD 4670,House,4,1,2,759m² ,25 Oct 2023
+"558,000 ","10 East West Avenue,",AVOCA QLD 4670,House,4,2,2,"1,052m² ",25 Oct 2023
+"470,000 ","133 Avoca Road,",AVOCA QLD 4670,House,3,1,1,883m² ,25 Oct 2023
+"465,000","11 Lathouras Court,",BUNDABERG SOUTH QLD 4670,Semi-detached,4,2,2,600m² ,25 Oct 2023
+"710,000","22 Grevillea Avenue,",INNES PARK QLD 4670,House,4,2,6,"1,000m² ",25 Oct 2023
+"520,000","7 Ernies Court,",AVOCA QLD 4670,House,3,1,2,884m² ,24 Oct 2023
+"531,000 ","1 Seabreeze Street,",BARGARA QLD 4670,House,3,1,1,591m² ,24 Oct 2023
+"635,000","18 Bernborough Boulevard,",BRANYAN QLD 4670,House,4,1,−,0,24 Oct 2023
+"270,000 ","4 Hunter St,",BUNDABERG SOUTH QLD 4670,House,3,1,2,"1,157m² ",24 Oct 2023
+"530,000 ","3 Avalon Street,",BURNETT HEADS QLD 4670,House,3,2,2,"1,012m² ",24 Oct 2023
+"363,200 ","12 Johnston Street,",MILLBANK QLD 4670,House,2,1,1,879m² ,24 Oct 2023
+"547,000 ","29 Linden Crescent,",QUNABA QLD 4670,House,3,1,2,739m² ,24 Oct 2023
+"475,000","31 Walsh Street,",WALKERVALE QLD 4670,House,4,1,3,721m² ,24 Oct 2023
+"629,200 ","17 Wearing Road,",BARGARA QLD 4670,House,4,2,3,651m² ,23 Oct 2023
+"600,000 ","9 Willis Street,",SHARON QLD 4670,House,4,2,4,"7,061m² ",23 Oct 2023
+"1,500,000 ","49 Hutchins Road,",ALLOWAY QLD 4670,House,5,3,5,0,20 Oct 2023
+"560,000 ","11 Seventy Four Court,",AVOCA QLD 4670,House,4,2,2,"1,052m² ",20 Oct 2023
+"460,000 ","14 Fagg Street,",BUNDABERG NORTH QLD 4670,House,4,1,6,830m² ,20 Oct 2023
+"680,000 ","28 Regency Rd,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,967m² ",20 Oct 2023
+"433,800 ","3 Grohn Street,",BUNDABERG NORTH QLD 4670,House,3,1,1,706m² ,19 Oct 2023
+"1,000,000","15 Esplanade,",COONARR QLD 4670,House,5,4,3,516m² ,19 Oct 2023
+"584,000 ","5 Kalina Street,",INNES PARK QLD 4670,House,3,2,1,803m² ,19 Oct 2023
+"448,000","18 Courtice Street,",KEPNOCK QLD 4670,House,3,1,4,"1,191m² ",19 Oct 2023
+"830,000 ","29 Altivole Drive,",NORVILLE QLD 4670,House,4,2,2,958m² ,19 Oct 2023
+"435,000 ","31a May Street,",WALKERVALE QLD 4670,House,3,1,1,450m² ,19 Oct 2023
+"346,000 ","40 Victoria Street,",BUNDABERG EAST QLD 4670,House,2,1,1,"1,012m² ",18 Oct 2023
+"900,000 ","67 Stevenson Street,",KEPNOCK QLD 4670,House,5,3,3,"6,706m² ",18 Oct 2023
+"450,000 ","51 Commodore Drive,",SOUTH BINGERA QLD 4670,House,3,1,1,"6,005m² ",18 Oct 2023
+"480,000 ","32 May Street,",WALKERVALE QLD 4670,House,3,2,2,607m² ,18 Oct 2023
+"879,000 ","190 Woongarra Scenic Drive,",BARGARA QLD 4670,House,4,2,3,850m² ,17 Oct 2023
+"610,000","54 Gibsons Rd,",BURNETT HEADS QLD 4670,House,4,2,6,939m² ,17 Oct 2023
+"455,000 ","29 Corser Street,",BURNETT HEADS QLD 4670,House,3,1,4,"1,012m² ",17 Oct 2023
+"492,000 ","6 Boronia Court,",AVOCA QLD 4670,House,3,3,3,935m² ,16 Oct 2023
+"505,000 ","16 Darby Street,",BRANYAN QLD 4670,House,4,2,2,730m² ,16 Oct 2023
+"330,000 ","52 Ann Street,",BUNDABERG EAST QLD 4670,House,2,1,3,941m² ,16 Oct 2023
+"475,000","9 Zunker Street,",BURNETT HEADS QLD 4670,House,2,1,2,776m² ,16 Oct 2023
+"605,000 ","20 Chantelle Circuit,",CORAL COVE QLD 4670,House,4,2,2,537m² ,16 Oct 2023
+"1,035,000 ","11 Headlands Esplanade,",INNES PARK QLD 4670,House,4,2,3,600m² ,16 Oct 2023
+"510,000","6 Empress Drive,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,700m² ",16 Oct 2023
+"500,000","27 Clearview Avenue,",THABEBAN QLD 4670,House,4,1,4,800m² ,16 Oct 2023
+"410,000 ","14 Slocomb Street,",AVENELL HEIGHTS QLD 4670,House,4,2,2,907m² ,13 Oct 2023
+"440,000","66 Steuart Street,",BUNDABERG NORTH QLD 4670,House,5,1,2,"1,015m² ",13 Oct 2023
+"485,000 ","41 Powers Street,",BUNDABERG WEST QLD 4670,House,4,1,2,997m² ,13 Oct 2023
+"535,000 ","99 Malvern Drive,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,628m² ",13 Oct 2023
+"425,000 ","35 Moncrieff Street,",WALKERVALE QLD 4670,House,3,1,1,"1,505m² ",13 Oct 2023
+"640,000","72A Greathead Road,",ASHFIELD QLD 4670,House,4,2,2,710m² ,12 Oct 2023
+"790,000 ","262 Woongarra Scenic Drive,",BARGARA QLD 4670,House,3,2,2,660m² ,12 Oct 2023
+"630,000 ","37 Heritage Drive,",BARGARA QLD 4670,House,4,2,2,726m² ,12 Oct 2023
+"655,000 ","38 Clydesdale Avenue,",BRANYAN QLD 4670,House,4,2,2,"4,805m² ",12 Oct 2023
+"390,200 ","63 Hunter Street,",WALKERVALE QLD 4670,House,4,1,1,809m² ,12 Oct 2023
+"550,000","146 George Street,",BUNDABERG WEST QLD 4670,Duplex,2,2,3,849m² ,11 Oct 2023
+"428,000 ","164 Woongarra Street,",BUNDABERG WEST QLD 4670,House,3,1,1,809m² ,11 Oct 2023
+"1,695,000 ","15 James Henderson Way,",GOOBURRUM QLD 4670,House,4,2,6,"4,528m² ",11 Oct 2023
+"420,000 ","13 Penny Street,",MILLBANK QLD 4670,Duplex,4,2,2,610m² ,11 Oct 2023
+"285,000 ","25 Alice Street,",WALKERVALE QLD 4670,House,3,1,−,"1,012m² ",11 Oct 2023
+"400,000 ","6 Barlow Street,",BUNDABERG NORTH QLD 4670,House,4,1,2,809m² ,10 Oct 2023
+"472,000 ","7 Peek Street,",BUNDABERG NORTH QLD 4670,House,5,2,2,810m² ,10 Oct 2023
+"273,700 ","192 Bargara Road,",KALKIE QLD 4670,House,3,1,1,724m² ,10 Oct 2023
+"410,000","29 Lloyd Street,",WALKERVALE QLD 4670,House,3,2,3,865m² ,10 Oct 2023
+"580,000","6 Cole Street,",AVENELL HEIGHTS QLD 4670,House,4,2,2,770m² ,09 Oct 2023
+"1,160,000","76 Miller Street,",BARGARA QLD 4670,House,4,3,2,769m² ,09 Oct 2023
+"1,552,000 ","8 Woongarra Scenic Drive,",BARGARA QLD 4670,House,6,3,4,957m² ,09 Oct 2023
+"485,000","26 Monarch Avenue,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,252m² ",09 Oct 2023
+"335,000 ","9 Dexter Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,2,809m² ,09 Oct 2023
+"490,000 ","7 Cocas Drive,",AVOCA QLD 4670,House,3,2,1,747m² ,05 Oct 2023
+"476,000 ",,BRANYAN QLD 4670,House,4,2,2,600m² ,05 Oct 2023
+"390,000","162 Bargara Road,",BUNDABERG EAST QLD 4670,House,4,2,4,"1,107m² ",05 Oct 2023
+"310,000","12 George Street,",BUNDABERG SOUTH QLD 4670,House,2,1,4,"1,062m² ",05 Oct 2023
+"473,000","20 Mclachlan Drive,",AVENELL HEIGHTS QLD 4670,House,3,1,2,829m² ,04 Oct 2023
+"975,000 ","15 Fierro Drive,",BARGARA QLD 4670,House,4,2,2,896m² ,04 Oct 2023
+"785,000 ","10 June Place,",BUNDABERG EAST QLD 4670,House,4,2,4,865m² ,04 Oct 2023
+"391,000 ","8/54 Avoca Street,",MILLBANK QLD 4670,House,3,2,2,184m² ,04 Oct 2023
+"595,000","71 Henricksens Road,",SHARON QLD 4670,House,4,1,3,0,04 Oct 2023
+"392,000 ","1/3 Maynard Street,",WALKERVALE QLD 4670,House,5,2,2,475m² ,04 Oct 2023
+"485,000 ","5 See Crescent,",AVENELL HEIGHTS QLD 4670,House,4,1,4,"1,115m² ",03 Oct 2023
+"490,000 ","35 CUMMINS ROAD,",AVOCA QLD 4670,House,3,1,1,702m² ,03 Oct 2023
+"700,000","7 Clarke Street,",BARGARA QLD 4670,House,3,2,2,734m² ,
+"400,000 ","13 Daniel Drive,",BUNDABERG NORTH QLD 4670,House,3,1,−,700m² ,03 Oct 2023
+"375,000 ","66 Watson St,",BUNDABERG SOUTH QLD 4670,House,5,3,1,801m² ,03 Oct 2023
+"343,000 ","385 Bourbong Street,",MILLBANK QLD 4670,House,2,1,2,"1,012m² ",03 Oct 2023
+"540,000 ","32 Fritz Street,",THABEBAN QLD 4670,House,3,1,4,820m² ,03 Oct 2023
+"640,000","13 Salter Street,",KEPNOCK QLD 4670,House,4,2,2,721m² ,02 Oct 2023
+"447,000 ","10 Brewer Street,",BUNDABERG NORTH QLD 4670,House,2,1,1,"1,492m² ",2023
+"590,000","1 Branyan Street,",BUNDABERG WEST QLD 4670,Duplex,4,2,2,645m² ,29 Sep 2023
+"805,000 ","15 Woodlands Lane,",MOORE PARK BEACH QLD 4670,House,4,2,4,"3,964m² ",29 Sep 2023
+"885,000 ","7 Basalt Court,",BARGARA QLD 4670,House,3,2,2,261m² ,28 Sep 2023
+"985,000 ","464 Branyan Drive,",BRANYAN QLD 4670,House,4,4,3,"3,483m² ",28 Sep 2023
+"2,700,000","64 Corser St,",BURNETT HEADS QLD 4670,House,5,4,2,"1,186m² ",28 Sep 2023
+"265,000 ","3 Statesman Drive,",SOUTH BINGERA QLD 4670,House,3,1,3,"2,250m² ",2023
+"623,000 ","16 Park Estate Drive,",BRANYAN QLD 4670,House,3,2,4,"4,000m² ",27 Sep 2023
+"485,000","22 Tomato Island Road,",BRANYAN QLD 4670,House,4,2,2,501m² ,27 Sep 2023
+"490,000 ","4 Seymore Avenue,",KALKIE QLD 4670,House,3,1,1,775m² ,27 Sep 2023
+"355,000 ","8 Stringer Street,",MILLBANK QLD 4670,House,3,1,2,"1,098m² ",27 Sep 2023
+"630,000 ","3 Banks Court,",BARGARA QLD 4670,House,4,2,2,992m² ,26 Sep 2023
+"335,000 ","12 Avoca Street,",BUNDABERG WEST QLD 4670,House,3,1,3,897m² ,26 Sep 2023
+"360,000 ","8 McCrohon St,",AVENELL HEIGHTS QLD 4670,House,3,1,1,600m² ,25 Sep 2023
+"800,000 ","4 Rosander Place,",BARGARA QLD 4670,House,4,2,2,707m² ,25 Sep 2023
+"430,000 ","79 Foster Drive,",BUNDABERG NORTH QLD 4670,House,4,2,2,655m² ,25 Sep 2023
+"630,000 ","46 Innes Park Road,",INNES PARK QLD 4670,House,3,2,2,874m² ,25 Sep 2023
+"500,000","42 Malvern Drive,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,609m² ",25 Sep 2023
+"590,000 ","37 Island View Drive,",WINFIELD QLD 4670,House,3,2,3,725m² ,25 Sep 2023
+"700,000 ","402 Quinns Road,",MOORLAND QLD 4670,House,3,1,9,0,22 Sep 2023
+"457,000","11 Bourke Street,",NORVILLE QLD 4670,House,4,1,2,630m² ,22 Sep 2023
+"340,000 ","7 Lamb Street,",WALKERVALE QLD 4670,House,3,1,2,769m² ,22 Sep 2023
+"555,000 ","61 Boundary Street,",WALKERVALE QLD 4670,House,4,2,4,"1,077m² ",22 Sep 2023
+"879,000 ","18 Whitewash Street,",BARGARA QLD 4670,House,4,2,4,810m² ,21 Sep 2023
+"710,000 ","18 Grevillea Avenue,",INNES PARK QLD 4670,House,4,2,2,948m² ,21 Sep 2023
+"659,000 ","16 Lagoon Dr,",MOORE PARK BEACH QLD 4670,House,4,3,3,933m² ,21 Sep 2023
+"720,000 ","9 Reef Court,",BARGARA QLD 4670,House,3,2,5,"1,046m² ",20 Sep 2023
+"810,000 ","67 Durdins Road,",BARGARA QLD 4670,House,3,2,4,"1,234m² ",20 Sep 2023
+"600,000 ","15 Bostons Road,",BUCCA QLD 4670,House,3,1,4,"10,000m² ",20 Sep 2023
+"345,000","36 Steuart Street,",BUNDABERG NORTH QLD 4670,House,3,1,3,817m² ,20 Sep 2023
+"335,000 ","16 Phillips Street,",BUNDABERG NORTH QLD 4670,House,3,1,1,601m² ,20 Sep 2023
+"660,000 ","138 Walker Street,",SVENSSON HEIGHTS QLD 4670,House,5,3,4,941m² ,20 Sep 2023
+"625,000 ","2/109 Davidson Street,",BARGARA QLD 4670,Semi-detached,3,2,2,182m² ,19 Sep 2023
+"1,250,000","110 Tarrants Road,",CALAVOS QLD 4670,House,3,2,6,0,19 Sep 2023
+"530,000","23 Sutherland Road,",BRANYAN QLD 4670,House,3,2,2,600m² ,18 Sep 2023
+"445,000 ","35 Cottell Street,",BUNDABERG NORTH QLD 4670,House,3,2,2,850m² ,18 Sep 2023
+"610,000 ","2 Lathouras Court,",BUNDABERG SOUTH QLD 4670,House,5,3,2,"1,118m² ",18 Sep 2023
+"950,000 ","3 Clipper Court,",INNES PARK QLD 4670,House,4,3,6,"3,281m² ",18 Sep 2023
+"400,000 ","17 Cattermull Street,",SVENSSON HEIGHTS QLD 4670,House,3,2,2,911m² ,18 Sep 2023
+"735,000","49 Sienna Boulevard,",ASHFIELD QLD 4670,House,3,2,8,"2,003m² ",15 Sep 2023
+"570,000 ","8 Michel Lane,",AVOCA QLD 4670,House,4,2,2,938m² ,15 Sep 2023
+"335,000 ","87 George Street,",BUNDABERG CENTRAL QLD 4670,House,5,2,−,855m² ,15 Sep 2023
+"500,000 ","16 Leivesley Street,",BUNDABERG EAST QLD 4670,House,4,2,2,805m² ,15 Sep 2023
+"610,000 ","25 Mariners Way,",BUNDABERG NORTH QLD 4670,House,4,2,4,"2,113m² ",15 Sep 2023
+"455,000 ","96 Sea Park Rd,",BURNETT HEADS QLD 4670,House,3,1,1,"1,015m² ",15 Sep 2023
+"952,000 ","19 Deering Place,",INNES PARK QLD 4670,House,4,2,2,"1,013m² ",15 Sep 2023
+"475,000 ","11 Meghan Crescent,",QUNABA QLD 4670,House,3,1,2,800m² ,15 Sep 2023
+"255,000","76 Boundary Street,",WALKERVALE QLD 4670,House,2,1,−,680m² ,15 Sep 2023
+"405,000 ","10 High Street,",WALKERVALE QLD 4670,House,4,1,2,"1,083m² ",15 Sep 2023
+"415,000 ","20/62 Avoca Street,",MILLBANK QLD 4670,House,3,1,2,649m² ,14 Sep 2023
+"810,000","2 Sutherland Road,",BRANYAN QLD 4670,House,4,2,3,814m² ,13 Sep 2023
+"325,000 ","2 Bonney Street,",BUNDABERG NORTH QLD 4670,House,3,1,3,749m² ,13 Sep 2023
+"230,000 ","7 Windermere Street,",WALKERVALE QLD 4670,House,3,1,1,482m² ,13 Sep 2023
+"350,000 ","6 Heaps Street,",AVENELL HEIGHTS QLD 4670,House,3,1,1,"1,012m² ",12 Sep 2023
+"620,000 ","2/119 Davidson Street,",BARGARA QLD 4670,Semi-detached,3,2,3,181m² ,12 Sep 2023
+"529,500 ","1 Edgar Street,",KEPNOCK QLD 4670,House,4,2,3,726m² ,12 Sep 2023
+"505,000 ","12 Westview Terrace,",AVOCA QLD 4670,House,3,2,3,875m² ,11 Sep 2023
+"792,000 ","15 Shoreline Crescent,",BARGARA QLD 4670,Duplex,5,3,2,673m² ,11 Sep 2023
+"500,000 ","14 Wonderland Avenue,",BRANYAN QLD 4670,House,3,1,3,"22,662m² ",11 Sep 2023
+"485,000 ","15 Hintz Street,",BRANYAN QLD 4670,House,3,2,2,600m² ,11 Sep 2023
+"315,000 ","7 Curtis Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,"1,012m² ",2023
+"449,800 ","76 Hunter Street,",WALKERVALE QLD 4670,House,3,1,3,"1,105m² ",11 Sep 2023
+"320,000 ","34 High Street,",WALKERVALE QLD 4670,House,3,1,1,"1,012m² ",10 Sep 2023
+"600,000 ","9 Waratah Drive,",AVOCA QLD 4670,House,4,2,2,736m² ,08 Sep 2023
+"425,000 ","32 Novakoski Street,",KEPNOCK QLD 4670,House,3,1,4,850m² ,08 Sep 2023
+"390,000 ","5 Griffith Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,801m² ,07 Sep 2023
+"325,000 ","29 Steuart Street,",BUNDABERG NORTH QLD 4670,House,3,2,3,807m² ,06 Sep 2023
+"1,500,000 ","107 Fairway Drive,",BARGARA QLD 4670,House,5,3,4,"1,817m² ",05 Sep 2023
+"2,100,000 ","103 Esplanade & 42 See Street,",BARGARA QLD 4670,House,3,1,−,"2,031m² ",05 Sep 2023
+"858,000 ","150 Bonna Road,",BRANYAN QLD 4670,House,4,2,7,0,05 Sep 2023
+"365,000 ","26 Penny Street,",MILLBANK QLD 4670,House,3,2,6,911m² ,05 Sep 2023
+"390,000 ","49 Elliott Heads Road,",KEPNOCK QLD 4670,House,3,1,2,809m² ,04 Sep 2023
+"460,000 ","29 Shaw Street,",NORVILLE QLD 4670,House,3,2,2,751m² ,04 Sep 2023
+"665,000 ","19 Mountney Street,",AVOCA QLD 4670,House,4,2,3,"1,102m² ",01 Sep 2023
+"610,000","50 Bargara Lakes Dr,",BARGARA QLD 4670,House,4,2,2,802m² ,01 Sep 2023
+"565,000 ","19 Hunter Street,",BUNDABERG SOUTH QLD 4670,House,4,2,3,"1,012m² ",01 Sep 2023
+"1,270,000 ","8 Davin Place,",CORAL COVE QLD 4670,House,5,3,8,"2,125m² ",01 Sep 2023
+"575,000 ","1 & 2/1 Donovan Street,",KEPNOCK QLD 4670,House,4,2,2,233m² ,01 Sep 2023
+"357,000 ","7 Camira Court,",SOUTH BINGERA QLD 4670,House,3,1,4,"5,602m² ",01 Sep 2023
+"400,000","12 Chambers Road,",SOUTH KOLAN QLD 4670,House,3,1,6,"1,199m² ",01 Sep 2023
+"347,500 ","3 McMannie Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,916m² ,31 Aug 2023
+"525,000","23 Moncrieff Street,",KEPNOCK QLD 4670,House,3,1,2,809m² ,31 Aug 2023
+"425,000 ","5 Finney Street,",MILLBANK QLD 4670,House,3,1,2,789m² ,31 Aug 2023
+"590,000 ","38 Chancellor Drive,",AVENELL HEIGHTS QLD 4670,House,4,2,4,813m² ,30 Aug 2023
+"560,000 ","8 Shell Street,",BURNETT HEADS QLD 4670,House,4,2,5,792m² ,30 Aug 2023
+"460,000","19 Donovan Street,",KEPNOCK QLD 4670,House,3,1,2,749m² ,30 Aug 2023
+"445,388 ","55 Coomber Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,1,809m² ,30 Aug 2023
+"580,000 ","37 Croft Street,",BARGARA QLD 4670,House,3,1,1,926m² ,29 Aug 2023
+"355,000 ","62 Watson St,",BUNDABERG SOUTH QLD 4670,House,3,1,1,801m² ,29 Aug 2023
+"400,000 ","22 Goodwin Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,"1,012m² ",29 Aug 2023
+"534,000 ","26 Bells Road,",AVENELL HEIGHTS QLD 4670,House,4,2,7,"1,012m² ",28 Aug 2023
+"231,000 ","2/38 Jefferis,",BUNDABERG NORTH QLD 4670,House,2,1,1,88m² ,28 Aug 2023
+"455,000 ","60 Wave Street,",BURNETT HEADS QLD 4670,House,3,1,1,"1,012m² ",28 Aug 2023
+"377,700 ","6 Gaffel Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,2,809m² ,28 Aug 2023
+"850,000","9 Pelican Drive,",BARGARA QLD 4670,House,4,2,4,790m² ,24 Aug 2023
+"625,000 ","54 Zunker Street,",BURNETT HEADS QLD 4670,House,3,1,8,802m² ,24 Aug 2023
+"760,000 ","11 Orlabah Avenue,",INNES PARK QLD 4670,House,4,2,3,"2,023m² ",24 Aug 2023
+"680,000 ","155 Sylvan Drive,",MOORE PARK BEACH QLD 4670,House,3,2,2,"4,000m² ",24 Aug 2023
+"341,000 ","7 Newitt Street,",THABEBAN QLD 4670,House,3,1,1,751m² ,24 Aug 2023
+"675,000","56 Polo Place,",BRANYAN QLD 4670,House,4,2,4,"2,524m² ",23 Aug 2023
+"600,000","11 Fern Tree Drive,",COONARR QLD 4670,House,3,2,4,0,23 Aug 2023
+"690,000 ","11 Palermo Avenue,",ASHFIELD QLD 4670,House,5,2,3,805m² ,22 Aug 2023
+"454,375 ","14 Maynard Street,",AVENELL HEIGHTS QLD 4670,House,3,2,4,809m² ,22 Aug 2023
+"405,000 ","156 McCarthy Road,",AVENELL HEIGHTS QLD 4670,House,3,1,5,"1,004m² ",22 Aug 2023
+"450,000 ","22A Blamey Street,",AVENELL HEIGHTS QLD 4670,House,3,1,2,578m² ,22 Aug 2023
+"444,000","16 Reynella Drive,",AVOCA QLD 4670,House,3,1,1,721m² ,22 Aug 2023
+"850,000 ","1 Samuels Road,",BRANYAN QLD 4670,House,3,2,10,"9,398m² ",22 Aug 2023
+"330,000 ","102 Sims Road,",KEPNOCK QLD 4670,House,4,1,3,819m² ,22 Aug 2023
+"280,000 ","73 Branyan Street,",SVENSSON HEIGHTS QLD 4670,House,2,1,−,941m² ,22 Aug 2023
+"550,000 ","32 Davidson Street,",BARGARA QLD 4670,House,3,1,2,700m² ,21 Aug 2023
+"885,000 ","18 Lakefield Court,",BRANYAN QLD 4670,House,4,2,5,"2,024m² ",21 Aug 2023
+"530,000 ","2 Cotton Tree Court,",INNES PARK QLD 4670,House,3,2,3,963m² ,21 Aug 2023
+"475,000","49 Stevenson Street,",KEPNOCK QLD 4670,House,3,2,1,817m² ,21 Aug 2023
+"570,000","7 Foster Drive,",BUNDABERG NORTH QLD 4670,House,4,2,4,814m² ,20 Aug 2023
+"565,000 ","67 Sinclair Street,",AVENELL HEIGHTS QLD 4670,House,5,2,6,876m² ,18 Aug 2023
+"330,000 ","10 Cooper Court,",AVENELL HEIGHTS QLD 4670,House,3,1,1,689m² ,2023
+"420,000 ","14 Aleta Court,",AVOCA QLD 4670,House,3,1,1,708m² ,18 Aug 2023
+"359,000 ","24 Steuart Street,",BUNDABERG NORTH QLD 4670,House,3,1,2,926m² ,2023
+"340,000 ","63 Walker Street,",BUNDABERG SOUTH QLD 4670,House,3,1,2,801m² ,18 Aug 2023
+"550,000 ","36 Welch Street,",ELLIOTT HEADS QLD 4670,House,3,1,3,746m² ,18 Aug 2023
+"595,000 ","27 Emperor Drive,",ELLIOTT HEADS QLD 4670,House,3,2,2,861m² ,17 Aug 2023
+"407,000 ","2 Shaw Street,",NORVILLE QLD 4670,House,3,1,1,690m² ,17 Aug 2023
+"466,000 ","16 Macklin Street,",WALKERVALE QLD 4670,House,4,2,3,607m² ,17 Aug 2023
+"420,000 ","16 Sandhills Drive,",BARGARA QLD 4670,House,3,1,1,700m² ,15 Aug 2023
+"440,000 ","94 Foster Drive,",BUNDABERG NORTH QLD 4670,House,4,2,2,670m² ,15 Aug 2023
+"650,000 ","42 McKenzies Road,",BUNDABERG NORTH QLD 4670,House,4,2,2,"7,650m² ",15 Aug 2023
+"512,000","47 Electra Street,",BUNDABERG WEST QLD 4670,House,3,1,4,"1,012m² ",15 Aug 2023
+"610,000","19 Shell St,",BURNETT HEADS QLD 4670,House,4,2,−,818m² ,15 Aug 2023
+"410,000 ","34 Black Street,",NORVILLE QLD 4670,House,3,1,2,794m² ,15 Aug 2023
+"420,000 ","75 Maryborough Street,",WALKERVALE QLD 4670,House,4,2,2,809m² ,15 Aug 2023
+"405,000 ","54 Thabeban Street,",AVENELL HEIGHTS QLD 4670,House,3,1,4,809m² ,14 Aug 2023
+"443,000 ","307 Avoca Road,",AVOCA QLD 4670,House,3,2,4,"1,909m² ",14 Aug 2023
+"570,000 ","7 Thomas Healy Drive,",BUNDABERG EAST QLD 4670,House,3,2,3,655m² ,14 Aug 2023
+"465,000 ","6 Clay Court,",KEPNOCK QLD 4670,House,3,1,3,747m² ,14 Aug 2023
+"500,000","14 Toft Street,",MILLBANK QLD 4670,House,4,2,2,809m² ,11 Aug 2023
+"785,000 ","6 Blue Sea Court,",BARGARA QLD 4670,House,3,2,2,429m² ,10 Aug 2023
+"325,000","5 NORMANBY SQUARE,",BUNDABERG SOUTH QLD 4670,House,3,1,2,509m² ,10 Aug 2023
+"355,000 ","39 Wynter Street,",NORVILLE QLD 4670,House,3,1,1,608m² ,10 Aug 2023
+"465,000","21 Montgomery Street,",SVENSSON HEIGHTS QLD 4670,House,3,2,2,809m² ,10 Aug 2023
+"570,000 ","32 Greathead Road,",ASHFIELD QLD 4670,House,4,2,2,660m² ,09 Aug 2023
+"281,000 ","14 River Street,",AVONDALE QLD 4670,House,2,1,2,"1,012m² ",09 Aug 2023
+"406,000","1 Tadgell Court,",AVENELL HEIGHTS QLD 4670,House,3,1,1,652m² ,08 Aug 2023
+"770,000 ","6 Rosander Place,",BARGARA QLD 4670,House,4,2,2,769m² ,08 Aug 2023
+"610,000","23 Wearing Rd,",BARGARA QLD 4670,House,4,2,2,651m² ,08 Aug 2023
+"385,000","29 Scotland Street,",BUNDABERG EAST QLD 4670,House,3,1,2,"1,435m² ",08 Aug 2023
+"910,000 ","8 Moodies Road,",BARGARA QLD 4670,House,4,2,2,776m² ,07 Aug 2023
+"555,555","6 Mary Fox St,",INNES PARK QLD 4670,House,4,1,2,865m² ,07 Aug 2023
+"490,000 ","9A River Terrace,",MILLBANK QLD 4670,House,3,1,2,600m² ,07 Aug 2023
+"700,000 ","11 Martins Court,",QUNABA QLD 4670,House,5,3,3,734m² ,07 Aug 2023
+"445,000 ","6 McKewen Street,",SVENSSON HEIGHTS QLD 4670,House,4,1,1,827m² ,07 Aug 2023
+"559,000","6 Santa Fe Drive,",AVOCA QLD 4670,House,4,1,3,779m² ,04 Aug 2023
+"950,000 ","14 Knox Court,",BARGARA QLD 4670,House,3,2,6,932m² ,04 Aug 2023
+"1,100,000 ","33/20 One Mile Road,",BUNDABERG NORTH QLD 4670,House,5,4,4,538m² ,04 Aug 2023
+"775,000 ","4 Poinciana Drive,",INNES PARK QLD 4670,House,4,2,2,"1,000m² ",04 Aug 2023
+"605,000","31 Weir Road,",SOUTH KOLAN QLD 4670,House,3,2,7,"2,023m² ",04 Aug 2023
+"290,000 ","76 George Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,"1,012m² ",03 Aug 2023
+"469,000 ","94 Kepnock Road,",KEPNOCK QLD 4670,House,3,1,1,708m² ,03 Aug 2023
+"395,000","67 Alice Street,",WALKERVALE QLD 4670,House,3,2,2,911m² ,03 Aug 2023
+"495,000","1 Alice Street,",WALKERVALE QLD 4670,House,3,1,8,"1,083m² ",03 Aug 2023
+"560,000 ","33 Santina Drive,",KALKIE QLD 4670,House,4,2,3,809m² ,02 Aug 2023
+"915,555 ","26 Kingfisher Crescent,",MOORE PARK BEACH QLD 4670,House,4,2,6,"4,855m² ",02 Aug 2023
+"550,000 ","13 Hughes Road,",BARGARA QLD 4670,House,3,1,3,708m² ,01 Aug 2023
+"504,200 ","11 Evergreen Drive,",BRANYAN QLD 4670,House,3,1,3,"9,793m² ",01 Aug 2023
+"435,000 ","15 Eastgate Street,",BUNDABERG EAST QLD 4670,House,5,1,4,869m² ,01 Aug 2023
+"495,000","67 Water Street,",WALKERVALE QLD 4670,House,4,2,2,"1,012m² ",01 Aug 2023
+"600,000","171 Targo Street,",WALKERVALE QLD 4670,House,5,3,2,"1,012m² ",01 Aug 2023
+"769,000 ","18 Endeavour Court,",BARGARA QLD 4670,House,6,3,2,723m² ,31 Jul 2023
+"710,000 ","169 Innes Park Road,",INNES PARK QLD 4670,House,3,2,3,"10,000m² ",31 Jul 2023
+"1,120,000 ","159 Innes Park Road,",INNES PARK QLD 4670,House,5,3,8,"10,000m² ",31 Jul 2023
+"650,000 ","33 Maike Street,",KALKIE QLD 4670,House,3,1,2,740m² ,31 Jul 2023
+"482,000",,KEPNOCK QLD 4670,House,3,1,2,700m² ,31 Jul 2023
+"476,000","51 Svensson Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,3,819m² ,31 Jul 2023
+"430,100 ","18 Doctor Street,",BURNETT HEADS QLD 4670,House,3,1,−,"1,012m² ",29 Jul 2023
+"1,105,000","17 Kathleen Drive,",INNES PARK QLD 4670,House,4,2,8,"2,041m² ",29 Jul 2023
+"615,000 ","5 Broadwater Close,",BARGARA QLD 4670,House,4,2,2,814m² ,28 Jul 2023
+"365,000 ","4 Brown Street,",NORVILLE QLD 4670,House,3,1,2,607m² ,28 Jul 2023
+"437,500","6 Mooney Court,",NORVILLE QLD 4670,House,3,2,2,600m² ,28 Jul 2023
+"451,000 ","9 Stuckey Drive,",KALKIE QLD 4670,House,3,1,1,600m² ,27 Jul 2023
+"480,000 ","8 Orchid Dr,",MOORE PARK BEACH QLD 4670,House,3,2,1,646m² ,27 Jul 2023
+"550,000","24 Avokahville Avenue,",AVOCA QLD 4670,House,3,1,4,800m² ,26 Jul 2023
+"270,000","13 Queen Street,",BUNDABERG NORTH QLD 4670,House,3,1,1,506m² ,26 Jul 2023
+"590,000 ","75 Mariners Way,",BUNDABERG NORTH QLD 4670,House,3,2,2,"1,755m² ",26 Jul 2023
+"455,000","29 McVeigh Street,",KEPNOCK QLD 4670,House,3,1,1,607m² ,26 Jul 2023
+"450,000","14 Somers Street,",KEPNOCK QLD 4670,House,4,2,2,604m² ,25 Jul 2023
+"587,500","7 Caprice Drive,",SOUTH BINGERA QLD 4670,House,5,3,4,"3,219m² ",25 Jul 2023
+"625,000 ","42 Glenview Crescent,",AVOCA QLD 4670,House,4,2,4,"1,510m² ",24 Jul 2023
+"755,000 ","70 Moodies Road,",BARGARA QLD 4670,House,3,2,2,"1,092m² ",24 Jul 2023
+"425,000","41 Hinkler Ave,",BUNDABERG NORTH QLD 4670,House,3,1,−,"1,012m² ",24 Jul 2023
+"595,000 ","11 Hunter Street,",BUNDABERG SOUTH QLD 4670,House,5,2,4,"1,012m² ",24 Jul 2023
+"350,000","1A Spear Street,",BUNDABERG SOUTH QLD 4670,House,3,1,2,921m² ,24 Jul 2023
+"435,000 ","6 Novakoski Street,",KEPNOCK QLD 4670,House,3,1,4,809m² ,24 Jul 2023
+"345,000 ","62 Elliott Heads Road,",KEPNOCK QLD 4670,House,3,2,1,505m² ,24 Jul 2023
+"780,000 ","1 Puie Street,",NORVILLE QLD 4670,House,4,2,7,"2,170m² ",24 Jul 2023
+"254,000 ","90 Walker Street,",NORVILLE QLD 4670,House,3,1,4,607m² ,2023
+"365,000","1 Lester Street,",NORVILLE QLD 4670,House,3,1,1,809m² ,22 Jul 2023
+"435,000 ","9 Baldwin Crescent,",AVOCA QLD 4670,House,4,1,4,842m² ,21 Jul 2023
+"360,000","11 Taylor Street,",KEPNOCK QLD 4670,House,2,1,1,911m² ,21 Jul 2023
+"260,000 ","1 Johnston Street,",MILLBANK QLD 4670,House,2,1,1,812m² ,21 Jul 2023
+"389,700 ","25 McCracken Street,",WALKERVALE QLD 4670,House,3,1,2,"1,012m² ",21 Jul 2023
+"812,500 ","9 Rennell Street,",BARGARA QLD 4670,House,4,2,2,806m² ,20 Jul 2023
+"355,000 ","25 Walker Street,",BUNDABERG SOUTH QLD 4670,House,3,1,−,"1,002m² ",20 Jul 2023
+"552,000","20 Moore Park Road,",MOORE PARK BEACH QLD 4670,House,4,2,4,"1,012m² ",20 Jul 2023
+"525,000","429 Birthamba Road,",SOUTH KOLAN QLD 4670,House,3,1,6,0,20 Jul 2023
+"475,000 ","57 Churchill Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,3,728m² ,20 Jul 2023
+"385,000 ","109 Branyan Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,2,855m² ,20 Jul 2023
+"298,000 ","41 Steuart Street,",BUNDABERG NORTH QLD 4670,House,3,1,2,802m² ,19 Jul 2023
+"298,000 ","44 Boundary Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,900m² ,19 Jul 2023
+"585,000 ","4 Knudsen Street,",ELLIOTT HEADS QLD 4670,House,3,1,3,725m² ,18 Jul 2023
+"410,000 ","409 Riverview Road,",ELLIOTT HEADS QLD 4670,House,2,1,1,817m² ,18 Jul 2023
+"765,000 ","27 Sextant Drive,",INNES PARK QLD 4670,House,3,2,4,"3,108m² ",18 Jul 2023
+"547,000 ","1 Sunseeker Avenue,",BARGARA QLD 4670,House,3,1,1,591m² ,17 Jul 2023
+"460,000 ","39 Avoca Street,",MILLBANK QLD 4670,House,4,2,4,885m² ,17 Jul 2023
+"362,000 ","6 Ritchie Street,",NORVILLE QLD 4670,House,3,1,2,809m² ,17 Jul 2023
+"380,000","25 Black St,",NORVILLE QLD 4670,House,2,1,3,802m² ,17 Jul 2023
+"465,000","2 Ross Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,4,802m² ,17 Jul 2023
+"460,000","6 Parsons Street,",SVENSSON HEIGHTS QLD 4670,House,3,1,2,663m² ,17 Jul 2023
+"2,150,000 ","135 Gooburrum Road,",GOOBURRUM QLD 4670,House,5,3,5,0,15 Jul 2023
+"540,000","42 Sienna Boulevard,",ASHFIELD QLD 4670,House,4,2,2,786m² ,14 Jul 2023
+"910,000","3 Chantilly St,",BARGARA QLD 4670,House,4,2,4,857m² ,14 Jul 2023
+"430,000 ","104 Foster Drive,",BUNDABERG NORTH QLD 4670,House,4,2,2,781m² ,14 Jul 2023
+"305,000 ","23A Walker Street,",BUNDABERG SOUTH QLD 4670,House,2,1,1,"1,204m² ",14 Jul 2023
+"650,000","1 Hicks Street,",BURNETT HEADS QLD 4670,House,3,1,1,797m² ,14 Jul 2023
+"437,000 ","11 Garland Street,",NORVILLE QLD 4670,House,3,1,3,809m² ,14 Jul 2023
+"880,000 ","2 San Vito Court,",NORVILLE QLD 4670,House,4,2,6,"1,011m² ",14 Jul 2023
+"360,000","51 Whalleys Road,",SOUTH KOLAN QLD 4670,House,3,1,4,"10,000m² ",14 Jul 2023
+"1,000,000 ","22 Byron Street,",BURNETT HEADS QLD 4670,House,4,2,5,"1,041m² ",12 Jul 2023
+"600,000 ","8 Beach Street,",BURNETT HEADS QLD 4670,House,3,1,4,"1,012m² ",12 Jul 2023
+"700,000 ","38 Woods Road,",SHARON QLD 4670,House,3,2,3,0,12 Jul 2023
+"375,000","39 Pitt Street,",WALKERVALE QLD 4670,House,3,1,2,"1,012m² ",12 Jul 2023
+"460,000","6 Aymone Close,",AVOCA QLD 4670,House,3,1,1,749m² ,11 Jul 2023
+"515,000 ","13 Amronel Close,",INNES PARK QLD 4670,House,4,1,6,"1,784m² ",11 Jul 2023
+"390,000 ","213 McCarthy Road,",AVENELL HEIGHTS QLD 4670,House,3,1,1,600m² ,10 Jul 2023
+"680,000 ","228 Murdochs Rd,",MOORE PARK BEACH QLD 4670,House,4,2,2,"2,302m² ",10 Jul 2023
+"980,000 ","14 Edenbrook Drive,",NORVILLE QLD 4670,House,4,2,3,950m² ,10 Jul 2023
+"880,000 ","14 Nautilus Drive,",INNES PARK QLD 4670,House,5,2,9,"3,659m² ",09 Jul 2023
+"380,000 ","12 Steuart Street,",BUNDABERG NORTH QLD 4670,House,3,1,3,686m² ,07 Jul 2023
+"800,000","65 Parklands Drive,",BRANYAN QLD 4670,House,4,2,8,"4,160m² ",06 Jul 2023
+"450,000","24 Queen Street,",BUNDABERG NORTH QLD 4670,House,4,2,3,900m² ,06 Jul 2023
+"440,000 ","70 Searle Street,",THABEBAN QLD 4670,House,3,2,1,600m² ,06 Jul 2023
+"539,000 ","6 Outlook Court,",ASHFIELD QLD 4670,House,4,2,2,775m² ,05 Jul 2023
+"510,000 ","37 Hansen street,",BURNETT HEADS QLD 4670,New house and land,3,1,1,956m² ,05 Jul 2023
+"435,000","23 Ocean Street,",BURNETT HEADS QLD 4670,House,3,1,1,"1,014m² ",05 Jul 2023
+"400,000 ","228 Bargara Road,",KALKIE QLD 4670,House,3,1,3,775m² ,05 Jul 2023
+"325,000 ","11A Duncraigen Street,",NORVILLE QLD 4670,House,2,1,1,"1,237m² ",05 Jul 2023
+"521,000 ","1 Gretton Court,",AVOCA QLD 4670,House,4,2,2,771m² ,04 Jul 2023
+"536,000","3 Finbay Avenue,",AVOCA QLD 4670,House,4,2,4,"1,000m² ",04 Jul 2023
+"550,000 ","2 Morgan Way,",KALKIE QLD 4670,House,4,2,2,"1,071m² ",04 Jul 2023
+"505,000 ","29 Regency Road,",MOORE PARK BEACH QLD 4670,House,4,2,2,"1,521m² ",04 Jul 2023
+"937,500 ","10 Kingfisher Crescent,",MOORE PARK BEACH QLD 4670,House,5,3,5,"4,007m² ",04 Jul 2023
+"425,000","13 Hilltop Parade,",AVOCA QLD 4670,House,3,1,1,796m² ,01 Jul 2023
+"550,000","48 Gaffel Street,",SVENSSON HEIGHTS QLD 4670,House,4,2,3,759m² ,01 Jul 2023
+"435,000 ","12 Harvey Street,",AVENELL HEIGHTS QLD 4670,House,3,2,2,797m² ,30 Jun 2023
+"747,500 ","78 Fairway Drive,",BARGARA QLD 4670,House,4,2,2,647m² ,30 Jun 2023
+"628,000 ","302 Woongarra Scenic Drive,",BARGARA QLD 4670,House,4,2,2,600m² ,30 Jun 2023
+"240,000 ","37 George Street,",BUNDABERG SOUTH QLD 4670,House,4,1,1,782m² ,30 Jun 2023
+"305,000","83 Burnett Street,",BUNDABERG SOUTH QLD 4670,House,3,1,1,782m² ,30 Jun 2023
+"515,000 ","80 Electra Street,",BUNDABERG WEST QLD 4670,House,4,2,2,"1,012m² ",30 Jun 2023
+"655,000 ","15 Yates Court,",KEPNOCK QLD 4670,House,4,2,2,841m² ,30 Jun 2023
+"340,000","242 Walker Street,",MILLBANK QLD 4670,House,3,1,2,666m² ,30 Jun 2023
+"430,000","190 Targo Street,",WALKERVALE QLD 4670,House,3,2,2,845m² ,29 Jun 2023
+"395,000","51 Heaps Street,",AVENELL HEIGHTS QLD 4670,House,3,1,3,609m² ,28 Jun 2023
+"386,000 ","80 Gavin Street,",BUNDABERG NORTH QLD 4670,House,3,1,4,"1,180m² ",28 Jun 2023
+"417,000 ","57 Gahans Road,",KALKIE QLD 4670,House,3,1,1,603m² ,28 Jun 2023
+"560,000 ","1 Belmont Way,",SOUTH BINGERA QLD 4670,House,3,2,4,"6,054m² ",28 Jun 2023
+"490,000","8 Brady Street,",AVENELL HEIGHTS QLD 4670,House,3,1,3,932m² ,27 Jun 2023
+"615,000","19 Gum Nut Drive,",ASHFIELD QLD 4670,House,3,1,3,750m² ,26 Jun 2023
+"435,000 ","35 Mclachlan Drive,",AVENELL HEIGHTS QLD 4670,House,3,1,1,720m² ,26 Jun 2023
+"555,000 ","10 Cascade Parade,",BARGARA QLD 4670,House,3,1,1,726m² ,26 Jun 2023
+"850,000 ","62 Isaac Moore Dr,",MOORE PARK BEACH QLD 4670,House,4,2,10,0,26 Jun 2023
+"525,000 ","12 McCarthy Road,",THABEBAN QLD 4670,Duplex,4,2,2,789m² ,26 Jun 2023
+"368,000 ","13 Warrell Street,",MILLBANK QLD 4670,House,3,1,2,875m² ,23 Jun 2023
+"377,842 ","26 Brown Street,",NORVILLE QLD 4670,House,3,1,1,728m² ,23 Jun 2023
+"530,000 ","12 Linden Crescent,",QUNABA QLD 4670,House,3,1,1,825m² ,23 Jun 2023
+"430,000","10 Commodore Drive,",SOUTH BINGERA QLD 4670,House,3,1,2,"4,121m² ",23 Jun 2023

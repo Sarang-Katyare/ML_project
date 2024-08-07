@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,400,000","37 Perkins Street,",NEWCASTLE NSW 2300,Terrace,2,1,−,183m² ,2 Feb 2024
+"1,950,000 ","54 Watt Street,",NEWCASTLE NSW 2300,House,4,3,−,145m² ,19 Jan 2024
+"3,200,000","48 Watt Street,",NEWCASTLE NSW 2300,House,− 0,3,−,931m² ,18 Oct 2023
+"1,250,000 ","33 Perkins Street,",NEWCASTLE NSW 2300,House,2,2,−,221m² ,4 Jan 2023
+"1,600,000","24 Parnell Place,",NEWCASTLE NSW 2300,House,3,2,−,83m² ,07 Oct 2022
+"950,000 ","27 Gibson Street,",NEWCASTLE NSW 2300,House,3,1,1,94m² ,18 Aug 2022
+"1,987,500 ","52 Watt Street,",NEWCASTLE NSW 2300,Terrace,4,3,−,145m² ,2022
+"1,500,000 ","15 Gibson Street,",NEWCASTLE NSW 2300,House,4,1,2,175m² ,21 Jan 2022
+"1,250,000 ","27 Perkins Street,",NEWCASTLE NSW 2300,House,3,1,2,550m² ,16 Apr 2021
+"2,350,000 ","21 Brown Street,",NEWCASTLE NSW 2300,House,4,3,4,369m² ,2021
+"1,500,000 ","38 Perkins Street,",NEWCASTLE NSW 2300,Terrace,4,2,1,139m² ,2020
+"1,650,000 ","23 Brown Street,",NEWCASTLE NSW 2300,House,7,3,4,453m² ,13 Oct 2020
+"1,000,000","33 Perkins Street,",NEWCASTLE NSW 2300,Terrace,2,2,−,240m² ,21 Jul 2020
+"870,000 ","12 Pacific Street,",NEWCASTLE NSW 2300,Terrace,1,2,−,130m² ,16 Jul 2020
+"3,350,000","49 Church Street,",NEWCASTLE NSW 2300,House,4,3,4,"1,007m² ",19 May 2020
+"1,250,000 ","37 Newcomen Street,",NEWCASTLE NSW 2300,Terrace,3,1,−,172m² ,2020
+"1,350,000 ","4 Noster Place,",NEWCASTLE NSW 2300,House,2,2,−,168m² ,2019
+"642,500 ","1 Lee Terrace,",NEWCASTLE NSW 2300,Terrace,2,1,−,62m² ,08 Nov 2019
+"2,040,000 ","25 Parnell Place,",NEWCASTLE NSW 2300,House,3,2,−,147m² ,2018
+"1,630,000 ","17 High Street,",NEWCASTLE NSW 2300,House,4,2,1,319m² ,2018
+"1,475,000","2 Noster Place,",NEWCASTLE NSW 2300,House,3,2,1,175m² ,2018
+"1,260,000 ","51 Perkins Street,",NEWCASTLE NSW 2300,House,3,1,−,122m² ,13 Mar 2018
+"1,300,000","50 Watt Street,",NEWCASTLE NSW 2300,House,4,1,−,152m² ,2017
+"650,000 ","338 Wharf Road,",NEWCASTLE NSW 2300,House,3,2,1,50m² ,2016
+"990,000 ","26 Church Street,",NEWCASTLE NSW 2300,House,9,3,−,101m² ,11 May 2016
+"980,000 ","28 Church Street,",NEWCASTLE NSW 2300,House,9,3,−,101m² ,05 May 2016
+"1,050,000 ","17 Kitchener Parade,",NEWCASTLE NSW 2300,House,3,2,2,679m² ,2016
+"1,102,000","4 Noster Place,",NEWCASTLE NSW 2300,House,0,0,0,168m² ,2016
+"770,000 ","19 Brown Street,",NEWCASTLE NSW 2300,House,3,2,−,108m² ,20 Jan 2016
+"1,850,000 ","140 King Street,",NEWCASTLE NSW 2300,House,3,2,−,298m² ,2015
+"930,000 ","16 Church Street,",NEWCASTLE NSW 2300,House,6,2,2,101m² ,17 Aug 2015
+"840,000 ","56 Watt Street,",NEWCASTLE NSW 2300,House,5,2,−,151m² ,13 Aug 2015
+"630,000","17 Brown Street,",NEWCASTLE NSW 2300,House,4,2,−,108m² ,10 Jul 2015
+"5,000,000","34 Brown Street,",NEWCASTLE NSW 2300,House,7,4,2,"4,130m² ",22 May 2015
+"1,400,000 ","20 Bingle Street,",NEWCASTLE NSW 2300,House,4,3,2,424m² ,22 Apr 2015
+"1,300,000 ","6 Noster Place,",NEWCASTLE NSW 2300,House,4,2,2,319m² ,09 Apr 2015
+"465,000 ","481 Hunter Street,",NEWCASTLE NSW 2300,House,2,1,−,404m² ,2014
+"520,000 ","15 Brown Street,",NEWCASTLE NSW 2300,House,3,2,−,108m² ,19 Aug 2014
+"1,750,000 ","88A Scott Street,",NEWCASTLE NSW 2300,House,3,2,2,379m² ,2013
+"625,000 ","22 Church Street,",NEWCASTLE NSW 2300,House,4,1,−,101m² ,02 Dec 2011
+"775,000 ","2 Shepherds Place,",NEWCASTLE NSW 2300,House,3,2,2,292m² ,30 Nov 2011
+"590,000","27 Perkins Street,",NEWCASTLE NSW 2300,House,3,2,2,253m² ,22 Dec 2009
+"945,000 ","3 Thornton Avenue,",MAYFIELD WEST NSW 2304,House,3,2,1,480m² ,2024
+"730,000 ","424 Maitland Road,",MAYFIELD WEST NSW 2304,House,3,1,1,353m² ,2024
+"775,000 ","4 Gregson Avenue,",MAYFIELD WEST NSW 2304,House,2,1,1,377m² ,26 Apr 2024
+"666,666 ","29 Fawcett Street,",MAYFIELD NSW 2304,House,3,1,−,386m² ,2024
+"1,110,000 ","45 Albert Street,",WICKHAM NSW 2293,House,3,2,1,234m² ,2024
+"1,250,000 ","35 Crebert Street,",MAYFIELD EAST NSW 2304,House,3,1,3,402m² ,19 Apr 2024
+"885,000 ","108 Woodstock Street,",MAYFIELD NSW 2304,House,2,1,−,413m² ,17 Apr 2024
+"2,950,000 ","120 Corlette Street,",COOKS HILL NSW 2300,House,4,3,2,281m² ,16 Apr 2024
+"1,425,000 ","36 Northumberland Street,",MARYVILLE NSW 2293,House,3,1,−,304m² ,15 Apr 2024
+"890,000 ","9 Denison Street,",MAYFIELD NSW 2304,House,3,2,1,458m² ,2024
+"1,100,000 ","17 Bull Street,",COOKS HILL NSW 2300,Terrace,3,2,2,107m² ,12 Apr 2024
+"771,000 ","6 Corona Street,",MAYFIELD NSW 2304,House,3,1,1,574m² ,12 Apr 2024
+"1,100,000 ","4 Henry Street,",TIGHES HILL NSW 2297,House,2,1,1,436m² ,12 Apr 2024
+"751,000 ","17 Clara Street,",MAYFIELD EAST NSW 2304,House,3,1,−,332m² ,2024
+"1,290,000 ","33 Woodstock Street,",MAYFIELD NSW 2304,House,4,2,2,601m² ,2024
+"950,000 ","40 Apple Street,",FERN BAY NSW 2295,House,4,2,2,550m² ,05 Apr 2024
+"1,120,000 ","10 Jabiru Drive,",FERN BAY NSW 2295,House,4,2,2,533m² ,05 Apr 2024
+"735,000 ","136 Hanbury Street,",MAYFIELD NSW 2304,House,2,1,−,411m² ,05 Apr 2024
+"1,860,000 ","56 Hunter Street,",STOCKTON NSW 2295,House,4,2,2,395m² ,05 Apr 2024
+"1,530,000 ","8 Union Street,",TIGHES HILL NSW 2297,House,3,2,1,701m² ,5 Apr 2024
+"917,000 ","32 Rawson Street,",MAYFIELD NSW 2304,House,2,1,1,478m² ,2024
+"930,000 ","7 Barenya Street,",MAYFIELD NSW 2304,House,3,2,2,481m² ,03 Apr 2024
+"910,000 ","25 Texas Street,",MAYFIELD NSW 2304,House,3,1,2,579m² ,2024
+"845,000 ","52 Waratah Street,",MAYFIELD NSW 2304,House,3,1,1,310m² ,03 Apr 2024
+"985,000 ","26 Kerr Street,",MAYFIELD NSW 2304,House,2,1,−,360m² ,02 Apr 2024
+"920,000 ","9 Rawson Street,",MAYFIELD NSW 2304,House,4,2,1,569m² ,28 Mar 2024
+"1,530,000 ","16 Nelson Street,",MAYFIELD NSW 2304,House,3,2,2,366m² ,2024
+"1,350,000 ","26 Flint Street,",STOCKTON NSW 2295,House,3,1,−,630m² ,28 Mar 2024
+"1,060,000 ","30 Greaves Street,",MAYFIELD EAST NSW 2304,House,3,2,−,271m² ,27 Mar 2024
+"1,105,000 ","28 Holt Street,",MAYFIELD EAST NSW 2304,House,3,1,1,449m² ,23 Mar 2024
+"900,000 ","36 Gregson Avenue,",MAYFIELD WEST NSW 2304,House,3,2,1,360m² ,2024
+"860,000 ","106 Mitchell Street,",STOCKTON NSW 2295,Semi-detached,2,1,−,303m² ,2024
+"1,775,000 ","50 Union Street,",TIGHES HILL NSW 2297,House,4,2,1,311m² ,2024
+"4,300,000","18 Wrightson Avenue,",BAR BEACH NSW 2300,House,4,3,2,557m² ,22 Mar 2024
+"945,000 ","38 Apple Street,",FERN BAY NSW 2295,House,4,2,2,525m² ,22 Mar 2024
+"881,000 ","18 Fin Street,",FERN BAY NSW 2295,House,4,2,2,644m² ,22 Mar 2024
+"1,975,000 ","65 Tooke Street,",COOKS HILL NSW 2300,House,3,1,1,335m² ,21 Mar 2024
+"1,325,000 ","6 Munmora Avenue,",FERN BAY NSW 2295,House,4,2,2,705m² ,21 Mar 2024
+"865,000 ","14 Thornton Avenue,",MAYFIELD WEST NSW 2304,House,2,1,1,493m² ,21 Mar 2024
+"1,225,000 ","69 Estell Street,",MARYVILLE NSW 2293,House,3,1,−,304m² ,20 Mar 2024
+"860,000 ","13 Gardiner Street,",MAYFIELD NSW 2304,House,3,1,3,540m² ,20 Mar 2024
+"1,100,000 ","87 Gipps Street,",CARRINGTON NSW 2294,House,3,2,2,253m² ,19 Mar 2024
+"898,500 ","105 Douglas Street,",STOCKTON NSW 2295,House,2,1,1,505m² ,2024
+"980,000 ","12 Ironbark Drive,",FERN BAY NSW 2295,House,4,2,2,675m² ,18 Mar 2024
+"940,000 ","12 Harris Street,",MARYVILLE NSW 2293,House,2,1,−,228m² ,18 Mar 2024
+"955,000 ","35 Valencia Street,",MAYFIELD NSW 2304,House,3,1,3,405m² ,18 Mar 2024
+"910,000 ","116 Hanbury Street,",MAYFIELD NSW 2304,House,3,1,1,367m² ,2024
+"751,550 ","13 Irelands Avenue,",MAYFIELD NSW 2304,House,2,1,−,559m² ,5 Mar 2024
+"1,250,000 ","30 Texas Street,",MAYFIELD NSW 2304,House,5,3,4,692m² ,15 Mar 2024
+"1,401,000 ","12 Gamack Street,",MAYFIELD NSW 2304,House,4,2,2,474m² ,2024
+"1,110,000 ","3 Avon Street,",MAYFIELD NSW 2304,House,4,2,2,629m² ,2024
+"1,005,000 ","77 Havelock Street,",MAYFIELD NSW 2304,House,4,1,2,308m² ,07 Mar 2024
+"850,000 ","26 Decora Crescent,",WARABROOK NSW 2304,House,3,2,2,430m² ,07 Mar 2024
+"1,320,000 ","28 Victoria Street,",CARRINGTON NSW 2294,House,3,2,3,347m² ,2024
+"1,040,000","3 Hyde Lane,",FERN BAY NSW 2295,House,4,2,1,404m² ,06 Mar 2024
+"760,000 ","43 Groongal Street,",MAYFIELD WEST NSW 2304,House,3,1,2,512m² ,2024
+"1,180,000 ","6 Foxtail Street,",FERN BAY NSW 2295,House,4,2,2,550m² ,05 Mar 2024
+"820,000 ","2 Dundas Street,",MAYFIELD NSW 2304,House,3,1,2,454m² ,05 Mar 2024
+"920,000 ","40 Sunderland Street,",MAYFIELD NSW 2304,House,3,2,1,662m² ,2024
+"850,000 ","86 Woodstock Street,",MAYFIELD NSW 2304,House,3,1,2,413m² ,2024
+"766,529 ","18 Greaves Street,",MAYFIELD EAST NSW 2304,House,2,1,−,139m² ,04 Mar 2024
+"1,122,500","50 Mounter Street,",MAYFIELD EAST NSW 2304,House,3,1,2,398m² ,04 Mar 2024
+"960,000 ","14 George Street,",TIGHES HILL NSW 2297,House,3,1,−,303m² ,03 Mar 2024
+"800,000 ","9 Nile Street,",MAYFIELD NSW 2304,House,3,1,1,332m² ,2024
+"680,000 ","2A Fawcett Street,",MAYFIELD NSW 2304,House,3,1,1,302m² ,01 Mar 2024
+"800,550 ","57 Ingall Street,",MAYFIELD NSW 2304,House,3,1,−,296m² ,01 Mar 2024
+"750,000 ","35 Nile Street,",MAYFIELD NSW 2304,House,3,1,−,253m² ,29 Feb 2024
+"1,290,000","13 Windsurf Circuit,",FERN BAY NSW 2295,House,4,2,2,542m² ,28 Feb 2024
+"1,170,000 ","52 Union Street,",TIGHES HILL NSW 2297,House,4,1,2,326m² ,28 Feb 2024
+"725,000 ","26 Ackeron Street,",MAYFIELD NSW 2304,House,2,1,1,367m² ,2024
+"894,000 ","11 Norris Avenue,",MAYFIELD WEST NSW 2304,House,3,1,1,474m² ,2024
+"840,000 ","7 Gordon Street,",MAYFIELD WEST NSW 2304,House,2,1,1,424m² ,2024
+"1,050,000 ","56 Young Street,",CARRINGTON NSW 2294,House,3,1,−,253m² ,23 Feb 2024
+"985,000 ","15 Ingall Street,",MAYFIELD NSW 2304,House,3,2,2,336m² ,2024
+"818,000 ","27 George Street,",TIGHES HILL NSW 2297,House,2,1,2,306m² ,2024
+"963,000 ","28 Norris Avenue,",MAYFIELD WEST NSW 2304,House,3,1,4,600m² ,2024
+"1,675,000 ","17 Ferndale Street,",TIGHES HILL NSW 2297,House,4,2,−,615m² ,6 Feb 2024
+"627,000 ","112 Woodstock Street,",MAYFIELD NSW 2304,House,2,1,−,413m² ,2024
+"3,550,000 ","72 Parkway Avenue,",COOKS HILL NSW 2300,House,4,3,4,632m² ,14 Feb 2024
+"1,263,000 ","3 The Avenue,",MARYVILLE NSW 2293,House,3,1,1,369m² ,14 Feb 2024
+"1,280,000 ","25 Margaret Street,",TIGHES HILL NSW 2297,House,3,1,1,347m² ,2024
+"1,100,000 ","12A Angophora Drive,",WARABROOK NSW 2304,House,5,2,2,987m² ,13 Feb 2024
+"1,475,000 ","88 Corlette Street,",COOKS HILL NSW 2300,House,3,1,−,307m² ,9 Feb 2024
+"839,000 ","73 Fitzroy Street,",MAYFIELD NSW 2304,House,2,1,1,429m² ,2024
+"868,000 ","68 Roe Street,",MAYFIELD NSW 2304,House,2,1,−,304m² ,09 Feb 2024
+"905,000 ","31 King Street,",STOCKTON NSW 2295,House,3,2,1,455m² ,09 Feb 2024
+"1,890,000 ","34 Brooks Street,",COOKS HILL NSW 2300,Terrace,3,3,2,141m² ,07 Feb 2024
+"770,000 ","6 Hay Street,",MAYFIELD NSW 2304,House,3,1,1,379m² ,07 Feb 2024
+"650,008 ","1018 Nelson Bay Road,",FERN BAY NSW 2295,House,3,1,1,588m² ,05 Feb 2024
+"810,000 ","46 Nile Street,",MAYFIELD NSW 2304,House,2,1,2,304m² ,2024
+"881,300 ","15 Sunderland Street,",MAYFIELD NSW 2304,House,3,1,1,341m² ,02 Feb 2024
+"1,430,000 ","200 Dunbar Street,",STOCKTON NSW 2295,House,6,3,2,506m² ,02 Feb 2024
+"2,030,000","1 Cardigan Street,",STOCKTON NSW 2295,House,5,3,4,505m² ,02 Feb 2024
+"950,000 ","3 Tooroong Road,",FERN BAY NSW 2295,House,4,2,2,609m² ,01 Feb 2024
+"950,000 ","44 Gamack Street,",MAYFIELD NSW 2304,House,3,2,1,297m² ,01 Feb 2024
+"1,195,000 ","28 Seaside Boulevard,",FERN BAY NSW 2295,House,5,2,2,707m² ,31 Jan 2024
+"940,000 ","37 Miller Street,",MAYFIELD WEST NSW 2304,House,6,2,2,506m² ,30 Jan 2024
+"835,000 ","18 Walsh Street,",MAYFIELD EAST NSW 2304,House,3,1,−,303m² ,25 Jan 2024
+"600,000 ","35 Albert Street,",WICKHAM NSW 2293,House,1,1,−,114m² ,25 Jan 2024
+"926,100 ","56 Dora Street,",MAYFIELD NSW 2304,House,3,2,2,415m² ,4 Jan 2024
+"830,000 ","33 Smith Street,",MAYFIELD EAST NSW 2304,House,3,1,−,271m² ,4 Jan 2024
+"1,300,000 ","27 Foxtail Street,",FERN BAY NSW 2295,House,4,3,4,538m² ,23 Jan 2024
+"1,310,000 ","10 Tooroong Road,",FERN BAY NSW 2295,House,5,2,2,600m² ,23 Jan 2024
+"910,000 ","60 Bishopsgate Street,",WICKHAM NSW 2293,Semi-detached,3,1,−,175m² ,23 Jan 2024
+"800,000 ","17 Robert Street,",MAYFIELD NSW 2304,House,2,1,1,474m² ,22 Jan 2024
+"1,020,000 ","44 Roe Street,",MAYFIELD NSW 2304,House,3,2,2,417m² ,22 Jan 2024
+"830,000 ","70 Rodgers Street,",CARRINGTON NSW 2294,House,2,1,1,243m² ,19 Jan 2024
+"755,000 ","46 Fawcett Street,",MAYFIELD NSW 2304,House,2,1,−,308m² ,19 Jan 2024
+"780,000 ","38 Hanbury Street,",MAYFIELD NSW 2304,House,2,1,1,504m² ,19 Jan 2024
+"875,000 ","33 Maitland Street,",STOCKTON NSW 2295,House,3,2,1,202m² ,19 Jan 2024
+"1,065,000 ","19 Pembroke Street,",STOCKTON NSW 2295,House,4,1,1,342m² ,18 Jan 2024
+"760,000 ","15 Vardon Road,",FERN BAY NSW 2295,House,3,1,1,807m² ,12 Jan 2024
+"1,475,000 ","17 Watson Street,",MAYFIELD NSW 2304,House,4,2,2,632m² ,12 Jan 2024
+"1,100,000","34 Church Street,",STOCKTON NSW 2295,House,4,1,1,366m² ,12 Jan 2024
+"1,330,000","77 Henry Street,",TIGHES HILL NSW 2297,House,4,2,2,430m² ,12 Jan 2024
+"1,135,000 ","40 Omara Street,",MAYFIELD EAST NSW 2304,House,3,2,1,367m² ,10 Jan 2024
+"740,000 ","56 Elizabeth Street,",TIGHES HILL NSW 2297,House,3,1,1,270m² ,27 Dec 2023
+"607,500 ","57 Casuarina Circuit,",WARABROOK NSW 2304,House,3,1,1,287m² ,23 Dec 2023
+"750,000 ","36 Gipps Street,",CARRINGTON NSW 2294,House,2,1,−,175m² ,22 Dec 2023
+"1,303,000 ","18 Valencia Street,",MAYFIELD NSW 2304,House,4,1,4,878m² ,22 Dec 2023
+"970,000 ","25 Newcastle Street,",STOCKTON NSW 2295,House,2,1,1,246m² ,22 Dec 2023
+"795,000 ","6 Scholey Street,",MAYFIELD NSW 2304,House,2,2,1,283m² ,21 Dec 2023
+"1,100,000 ","67 Carrington Street,",MAYFIELD NSW 2304,House,4,2,2,242m² ,20 Dec 2023
+"782,000 ","62 Greaves Street,",MAYFIELD EAST NSW 2304,House,3,1,−,272m² ,20 Dec 2023
+"575,000 ","171 Maitland Road,",SANDGATE NSW 2304,House,3,1,1,913m² ,20 Dec 2023
+"1,400,000 ","60 Dawson Street,",COOKS HILL NSW 2300,House,2,1,−,278m² ,19 Dec 2023
+"1,060,000 ","8 Griffith Avenue,",STOCKTON NSW 2295,House,3,1,2,676m² ,19 Dec 2023
+"610,000 ","2 Wilkinson Street,",MAYFIELD NSW 2304,House,2,1,1,249m² ,16 Dec 2023
+"1,125,000 ","73 Northumberland Street,",MARYVILLE NSW 2293,House,2,2,2,304m² ,2023
+"1,325,000 ","50 Henson Avenue,",MAYFIELD EAST NSW 2304,House,3,2,1,385m² ,15 Dec 2023
+"950,000 ","21 Bishopsgate Street,",WICKHAM NSW 2293,House,3,2,−,278m² ,2023
+"850,000 ","23 Bishopsgate Street,",WICKHAM NSW 2293,Semi-detached,2,1,−,279m² ,2023
+"975,000 ","21 Eucalyptus Circuit,",WARABROOK NSW 2304,House,4,2,2,661m² ,2023
+"1,270,000 ","46 Forbes Street,",CARRINGTON NSW 2294,House,3,2,−,310m² ,13 Dec 2023
+"1,160,000","6A Griffith Avenue,",STOCKTON NSW 2295,House,3,2,2,305m² ,13 Dec 2023
+"655,000 ","1 Taylor Road,",FERN BAY NSW 2295,House,3,1,1,448m² ,12 Dec 2023
+"835,000 ","24 Hanbury Street,",MAYFIELD NSW 2304,House,4,2,2,461m² ,12 Dec 2023
+"770,000","523 Maitland Road,",MAYFIELD WEST NSW 2304,House,3,2,2,576m² ,2 Dec 2023
+"920,000 ","4 Fawcett Street,",MAYFIELD NSW 2304,House,3,2,1,328m² ,11 Dec 2023
+"1,320,000 ","79 Havelock Street,",MAYFIELD NSW 2304,House,3,2,2,464m² ,2023
+"995,000 ","20 Villiers Street,",MAYFIELD NSW 2304,House,3,2,3,404m² ,2023
+"810,000 ","25 Gregson Avenue,",MAYFIELD WEST NSW 2304,House,2,1,−,319m² ,11 Dec 2023
+"742,000 ","41 Holt Street,",MAYFIELD EAST NSW 2304,House,2,1,2,303m² ,8 Dec 2023
+"930,000 ","26 Queens Road,",TIGHES HILL NSW 2297,House,3,1,1,306m² ,08 Dec 2023
+"845,000 ","6 Proctor Street,",TIGHES HILL NSW 2297,House,3,1,2,354m² ,08 Dec 2023
+"922,500 ","29 Gavey Street,",MAYFIELD NSW 2304,House,4,3,1,541m² ,07 Dec 2023
+"1,025,000 ","52 Barton Street,",MAYFIELD NSW 2304,House,4,2,2,303m² ,2023
+"1,360,000 ","40 Hereford Street,",STOCKTON NSW 2295,House,3,1,1,668m² ,2023
+"585,000 ","3/5 Norfolk Street,",FERN BAY NSW 2295,Duplex,2,1,1,177m² ,05 Dec 2023
+"970,000","52 Maitland Street,",STOCKTON NSW 2295,House,2,1,−,468m² ,04 Dec 2023
+"1,710,000 ","179 Dawson Street,",COOKS HILL NSW 2300,House,2,1,1,556m² ,2023
+"950,000 ","21 McIsaac Street,",TIGHES HILL NSW 2297,House,3,1,1,304m² ,2023
+"715,000 ","15 Griffiths Street,",MAYFIELD NSW 2304,House,3,1,2,623m² ,01 Dec 2023
+"890,000 ","2 Villiers Street,",MAYFIELD NSW 2304,House,3,1,1,331m² ,01 Dec 2023
+"826,000 ","67 Scott Street,",CARRINGTON NSW 2294,House,3,1,1,253m² ,30 Nov 2023
+"780,000 ","47 Woodstock Street,",MAYFIELD NSW 2304,House,3,1,1,373m² ,30 Nov 2023
+"880,000 ","30 Church Street,",STOCKTON NSW 2295,House,4,2,2,301m² ,30 Nov 2023
+"1,650,000 ","2 Stevenson Place,",NEWCASTLE EAST NSW 2300,House,2,1,1,152m² ,29 Nov 2023
+"3,450,000 ","168 Brooks Street,",BAR BEACH NSW 2300,House,4,3,2,749m² ,27 Nov 2023
+"1,460,000 ","47 Denison Street,",CARRINGTON NSW 2294,House,3,1,3,506m² ,2023
+"1,100,000 ","22 Carrington Street,",MAYFIELD NSW 2304,House,3,1,1,606m² ,2023
+"590,000 ","3 Regent Street,",MAYFIELD NSW 2304,House,2,1,−,126m² ,2023
+"990,000 ","20 Annie Street,",WICKHAM NSW 2293,House,3,1,−,203m² ,2023
+"1,150,000 ","5 Munmora Avenue,",FERN BAY NSW 2295,House,4,2,2,713m² ,24 Nov 2023
+"7,050,000 ","2 Bar Beach Avenue,",BAR BEACH NSW 2300,House,5,3,4,574m² ,22 Nov 2023
+"915,000 ","113 Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,500m² ,21 Nov 2023
+"969,000","5 O'Hara Street,",MARYVILLE NSW 2293,House,2,1,1,354m² ,21 Nov 2023
+"615,000 ","517 Maitland Road,",MAYFIELD WEST NSW 2304,House,3,1,1,575m² ,20 Nov 2023
+"1,185,000 ","30 Crown Street,",STOCKTON NSW 2295,House,3,2,2,285m² ,18 Nov 2023
+"1,500,000 ","10 Union Street,",TIGHES HILL NSW 2297,House,2,2,1,514m² ,2023
+"785,000","6 Coachwood Drive,",WARABROOK NSW 2304,House,3,2,2,841m² ,17 Nov 2023
+"811,000 ","44 Barton Street,",MAYFIELD NSW 2304,House,2,1,2,455m² ,2023
+"1,825,000 ","2 Fullerton Street,",STOCKTON NSW 2295,House,3,2,2,290m² ,14 Nov 2023
+"1,140,000 ","1 Foxtail Street,",FERN BAY NSW 2295,House,4,2,2,680m² ,13 Nov 2023
+"1,076,500 ","57 Havelock Street,",MAYFIELD NSW 2304,House,3,2,−,303m² ,2023
+"877,000 ","9 Margaret Street,",TIGHES HILL NSW 2297,House,3,1,−,312m² ,2023
+"1,280,000 ","22 Estell Street,",MARYVILLE NSW 2293,House,3,2,−,311m² ,10 Nov 2023
+"1,050,000","100 Roxburgh Street,",STOCKTON NSW 2295,House,4,2,1,297m² ,09 Nov 2023
+"960,000 ","32 Southon Street,",MAYFIELD NSW 2304,House,3,1,3,394m² ,07 Nov 2023
+"590,000 ","75 Maud Street,",MAYFIELD WEST NSW 2304,House,3,1,2,233m² ,06 Nov 2023
+"795,000 ","58 Roe Street,",MAYFIELD NSW 2304,House,3,1,2,304m² ,2023
+"2,625,000","92 Railway Street,",COOKS HILL NSW 2300,House,3,2,−,228m² ,03 Nov 2023
+"810,000 ","19 Nile Street,",MAYFIELD NSW 2304,House,2,1,1,354m² ,03 Nov 2023
+"900,000 ","12 Groundsel Street,",FERN BAY NSW 2295,House,4,2,2,510m² ,01 Nov 2023
+"700,000 ","27 Ida Street,",MAYFIELD NSW 2304,House,2,1,−,304m² ,30 Oct 2023
+"1,210,000","133A Roxburgh Street,",STOCKTON NSW 2295,House,3,1,2,505m² ,30 Oct 2023
+"910,000 ","86 Kerr Street,",MAYFIELD NSW 2304,House,3,1,1,493m² ,29 Oct 2023
+"795,000 ","30 Wilkinson Street,",MAYFIELD NSW 2304,House,2,1,1,252m² ,27 Oct 2023
+"745,000 ","17 Maud Street,",MAYFIELD WEST NSW 2304,House,3,1,2,446m² ,27 Oct 2023
+"2,380,000 ","81 Nesca Parade,",THE HILL NSW 2300,House,4,2,2,695m² ,27 Oct 2023
+"1,245,000 ","7/4 Lemnos Parade,",THE HILL NSW 2300,House,3,2,2,178m² ,2023
+"860,000 ","3 Melia Close,",WARABROOK NSW 2304,House,3,1,2,692m² ,27 Oct 2023
+"1,325,000 ","84 Bruce Street,",COOKS HILL NSW 2300,House,2,1,2,372m² ,2023
+"785,000","130 Douglas Street,",STOCKTON NSW 2295,House,2,1,1,479m² ,25 Oct 2023
+"260,000 ","254/1126 Nelson Bay Road,",FERN BAY NSW 2295,House,2,1,1,0,24 Oct 2023
+"1,850,000","16 McMichael Street,",MARYVILLE NSW 2293,House,4,2,2,303m² ,2023
+"1,125,000 ","57 Bull Street,",MAYFIELD NSW 2304,House,3,2,2,670m² ,2023
+"700,000 ","71 Stevenson Avenue,",MAYFIELD WEST NSW 2304,House,3,1,1,569m² ,2023
+"593,000 ","58 Bishopsgate Street,",WICKHAM NSW 2293,House,3,1,−,177m² ,21 Oct 2023
+"3,000,000 ","151 Brooks Street,",BAR BEACH NSW 2300,House,3,4,2,614m² ,20 Oct 2023
+"800,000 ","10 Werribi Street,",MAYFIELD WEST NSW 2304,House,4,2,3,551m² ,20 Oct 2023
+"1,150,000 ","32 Fullerton Street,",STOCKTON NSW 2295,House,3,1,1,402m² ,20 Oct 2023
+"850,000 ","22 Rosemary Street,",FERN BAY NSW 2295,House,4,2,2,585m² ,19 Oct 2023
+"1,100,000 ","40 Pitt Street,",STOCKTON NSW 2295,House,2,1,1,500m² ,19 Oct 2023
+"1,050,000","116 Mitchell Street,",STOCKTON NSW 2295,House,2,1,3,440m² ,19 Oct 2023
+"1,100,000 ","31 Nesca Parade,",THE HILL NSW 2300,House,3,1,1,692m² ,19 Oct 2023
+"2,900,000 ","126 Corlette Street,",COOKS HILL NSW 2300,House,4,3,4,279m² ,17 Oct 2023
+"802,000","4 Thornton Avenue,",MAYFIELD WEST NSW 2304,House,2,1,1,588m² ,16 Oct 2023
+"940,000 ","13 Barenya Street,",MAYFIELD NSW 2304,House,3,1,2,488m² ,2023
+"759,000 ","1/21 Wyvern Street,",MAYFIELD NSW 2304,House,3,2,1,237m² ,2023
+"690,000 ","1033 Nelson Bay Road,",FERN BAY NSW 2295,House,3,1,1,580m² ,13 Oct 2023
+"853,000","36 Fleming Street,",WICKHAM NSW 2293,House,3,1,−,227m² ,2023
+"1,285,000 ","91 Bull Street,",COOKS HILL NSW 2300,House,3,1,−,202m² ,2023
+"2,200,000","33 The Avenue,",MARYVILLE NSW 2293,House,4,3,2,364m² ,06 Oct 2023
+"755,000 ","45 Smith Street,",MAYFIELD EAST NSW 2304,House,2,1,1,272m² ,06 Oct 2023
+"900,000","19 Douglas Street,",STOCKTON NSW 2295,House,2,1,3,511m² ,6 Oct 2023
+"1,015,000 ","30 Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,692m² ,05 Oct 2023
+"820,000 ","63 Waratah Street,",MAYFIELD NSW 2304,House,3,1,1,303m² ,5 Oct 2023
+"1,850,000","131 Dunbar Street,",STOCKTON NSW 2295,House,4,3,4,505m² ,05 Oct 2023
+"918,000 ","9 Foxtail Street,",FERN BAY NSW 2295,House,4,2,4,538m² ,04 Oct 2023
+"1,150,000 ","1C Newcastle Street,",STOCKTON NSW 2295,Semi-detached,3,2,1,226m² ,04 Oct 2023
+"925,000 ","17 Fitzroy Street,",MAYFIELD NSW 2304,House,3,1,2,575m² ,2023
+"1,125,000 ","22 Robert Street,",MAYFIELD NSW 2304,House,3,1,1,307m² ,2023
+"830,000 ","16 Burnett Street,",MAYFIELD WEST NSW 2304,House,3,1,2,424m² ,2023
+"850,000 ","9 Bay Street,",STOCKTON NSW 2295,House,3,2,1,455m² ,30 Sep 2023
+"970,000 ","11 Hart Street,",MAYFIELD NSW 2304,House,3,1,2,462m² ,29 Sep 2023
+"1,100,000 ","14 Groundsel Street,",FERN BAY NSW 2295,House,4,2,2,544m² ,28 Sep 2023
+"1,100,000 ","14 Bell Street,",MARYVILLE NSW 2293,House,4,1,3,436m² ,28 Sep 2023
+"1,200,000 ","6 Beeston Road,",STOCKTON NSW 2295,House,4,1,1,607m² ,28 Sep 2023
+"890,000","12 Pacific Street,",STOCKTON NSW 2295,House,2,1,1,322m² ,28 Sep 2023
+"720,000","29 Grey Street,",WICKHAM NSW 2293,House,3,1,−,209m² ,26 Sep 2023
+"3,570,000","28 Wrightson Avenue,",BAR BEACH NSW 2300,House,4,2,2,913m² ,2023
+"1,600,000 ","99 Laman Street,",COOKS HILL NSW 2300,House,4,2,1,186m² ,22 Sep 2023
+"955,000 ","37 Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,646m² ,22 Sep 2023
+"940,000 ","11 O'Hara Street,",MARYVILLE NSW 2293,House,3,1,−,359m² ,2023
+"711,000 ","5 Macquarie Street,",MAYFIELD NSW 2304,House,2,1,2,347m² ,20 Sep 2023
+"680,000","226 Hannell Street,",MARYVILLE NSW 2293,House,2,1,−,120m² ,19 Sep 2023
+"825,000","11A Beeston Road,",STOCKTON NSW 2295,House,2,1,1,400m² ,18 Sep 2023
+"775,000 ","4 Hargrave Street,",CARRINGTON NSW 2294,House,3,1,−,214m² ,2023
+"1,460,000 ","106 Bull Street,",COOKS HILL NSW 2300,House,3,2,−,165m² ,2023
+"1,550,000 ","5 Francis Street,",TIGHES HILL NSW 2297,House,3,1,2,545m² ,2023
+"1,020,000 ","58 Henry Street,",TIGHES HILL NSW 2297,House,3,1,1,399m² ,2023
+"1,025,000 ","10 Hewison Street,",TIGHES HILL NSW 2297,House,3,1,2,506m² ,15 Sep 2023
+"705,000 ","64 Decora Crescent,",WARABROOK NSW 2304,House,3,1,1,375m² ,15 Sep 2023
+"850,000","146 Douglas Street,",STOCKTON NSW 2295,House,2,1,2,657m² ,12 Sep 2023
+"836,000 ","30 Valencia Street,",MAYFIELD NSW 2304,House,3,1,1,443m² ,2023
+"970,000 ","20 Rosemary Street,",FERN BAY NSW 2295,House,4,2,4,585m² ,08 Sep 2023
+"3,400,000","2 Parnell Place,",NEWCASTLE EAST NSW 2300,House,4,2,−,126m² ,2023
+"850,000","24 George Street,",MAYFIELD EAST NSW 2304,House,4,2,1,392m² ,05 Sep 2023
+"757,000 ","14 Mathieson Street,",CARRINGTON NSW 2294,House,2,1,−,147m² ,2023
+"1,406,000 ","22 Margaret Street,",TIGHES HILL NSW 2297,House,3,2,1,312m² ,2023
+"750,000 ","22 Rankin Road,",FERN BAY NSW 2295,House,2,2,2,809m² ,01 Sep 2023
+"680,000 ","57 William Street,",MAYFIELD NSW 2304,House,2,1,2,404m² ,01 Sep 2023
+"875,000 ","10 Macquarie Street,",MAYFIELD NSW 2304,House,4,1,1,544m² ,01 Sep 2023
+"920,000 ","153 Wilson Street,",CARRINGTON NSW 2294,House,3,2,−,202m² ,31 Aug 2023
+"750,000 ","17 Sunnyside Street,",MAYFIELD NSW 2304,House,3,1,2,531m² ,28 Aug 2023
+"1,000,000 ","15 Elizabeth Street,",MAYFIELD NSW 2304,House,3,2,1,311m² ,28 Aug 2023
+"1,550,000 ","74 Douglas Street,",STOCKTON NSW 2295,House,5,3,2,620m² ,28 Aug 2023
+"1,500,000 ","39 Throsby Street,",WICKHAM NSW 2293,House,3,2,1,354m² ,2023
+"865,000 ","29 Rosemary Street,",FERN BAY NSW 2295,House,4,2,2,500m² ,25 Aug 2023
+"935,000 ","40 Apple Street,",FERN BAY NSW 2295,House,4,2,2,550m² ,25 Aug 2023
+"625,000 ","29 Church Street,",MAYFIELD NSW 2304,House,3,1,1,302m² ,25 Aug 2023
+"770,000 ","5/124 Young Street,",CARRINGTON NSW 2294,House,3,1,1,148m² ,24 Aug 2023
+"830,000 ","15 George Street,",MAYFIELD EAST NSW 2304,House,3,1,2,397m² ,2023
+"860,000 ","13 Rosemary Street,",FERN BAY NSW 2295,House,4,2,2,585m² ,18 Aug 2023
+"1,200,000","163 Dunbar Street,",STOCKTON NSW 2295,House,3,1,2,509m² ,18 Aug 2023
+"1,150,000 ","42 Apple Street,",FERN BAY NSW 2295,House,4,2,2,602m² ,17 Aug 2023
+"951,000 ","8 Vine Street,",MAYFIELD NSW 2304,House,3,2,2,491m² ,17 Aug 2023
+"950,000","17 Queen Street,",STOCKTON NSW 2295,House,3,1,1,329m² ,17 Aug 2023
+"940,000 ","13 Scholey Street,",MAYFIELD NSW 2304,House,3,2,2,417m² ,14 Aug 2023
+"920,000 ","24 Annie Street,",WICKHAM NSW 2293,House,3,1,3,184m² ,14 Aug 2023
+"675,000 ","11 Texas Street,",MAYFIELD NSW 2304,House,3,1,−,439m² ,2023
+"733,000 ","30 Greaves Street,",MAYFIELD EAST NSW 2304,House,2,1,−,272m² ,2023
+"790,000 ","16 Mathieson Street,",CARRINGTON NSW 2294,House,2,1,−,146m² ,11 Aug 2023
+"806,000 ","62 Fitzroy Street,",MAYFIELD NSW 2304,House,3,1,2,347m² ,11 Aug 2023
+"825,000 ","17 Regent Street,",MAYFIELD NSW 2304,House,3,2,2,517m² ,11 Aug 2023
+"721,000 ","9 James Street,",MAYFIELD NSW 2304,House,2,1,1,303m² ,2023
+"830,000 ","6 Norris Avenue,",MAYFIELD WEST NSW 2304,House,3,1,1,645m² ,11 Aug 2023
+"995,000 ","2 Basil Street,",MAYFIELD WEST NSW 2304,House,3,2,4,594m² ,10 Aug 2023
+"1,420,000 ","3/28 Kitchener Parade,",THE HILL NSW 2300,House,3,2,2,133m² ,09 Aug 2023
+"705,000 ","12 Mitchell Street,",TIGHES HILL NSW 2297,House,2,1,−,253m² ,2023
+"900,000","170 Dunbar Street,",STOCKTON NSW 2295,House,3,1,1,505m² ,04 Aug 2023
+"1,170,000","49 Angophora Drive,",WARABROOK NSW 2304,House,6,4,2,886m² ,04 Aug 2023
+"1,500,000 ","19 Dangar Street,",WICKHAM NSW 2293,House,3,2,2,304m² ,04 Aug 2023
+"1,650,000","52 Brooks Street,",COOKS HILL NSW 2300,House,3,1,2,142m² ,03 Aug 2023
+"992,500 ","8 O'Hara Street,",MARYVILLE NSW 2293,House,2,2,1,303m² ,2023
+"1,020,000 ","30 Moolcha Street,",MAYFIELD NSW 2304,House,3,1,3,488m² ,03 Aug 2023
+"970,000","3 George Street,",MAYFIELD EAST NSW 2304,House,3,1,2,374m² ,02 Aug 2023
+"840,000 ","5 Newcastle Street,",MAYFIELD NSW 2304,House,4,1,3,304m² ,01 Aug 2023
+"950,000 ","47 Monmouth Street,",STOCKTON NSW 2295,House,3,1,1,553m² ,01 Aug 2023
+"790,000 ","239 Maitland Road,",MAYFIELD NSW 2304,House,3,2,2,415m² ,28 Jul 2023
+"795,000 ","18 Barber Street,",MAYFIELD NSW 2304,House,2,1,1,297m² ,28 Jul 2023
+"875,000 ","4 Rawson Street,",MAYFIELD NSW 2304,House,3,1,2,370m² ,27 Jul 2023
+"1,200,000 ","42 Fleming Street,",WICKHAM NSW 2293,House,4,2,2,230m² ,25 Jul 2023
+"700,000 ","47 Howden Street,",CARRINGTON NSW 2294,House,2,1,−,171m² ,2023
+"1,616,000 ","75 Lewis Street,",MARYVILLE NSW 2293,House,4,2,−,304m² ,2023
+"880,000","16 Norris Avenue,",MAYFIELD WEST NSW 2304,House,3,1,1,601m² ,21 Jul 2023
+"810,000 ","5 Kings Road,",TIGHES HILL NSW 2297,House,2,2,1,306m² ,21 Jul 2023
+"810,000","5 Kings Road,",TIGHES HILL NSW 2297,House,2,2,1,306m² ,21 Jul 2023
+"822,000 ","22 Thomas Street,",MAYFIELD NSW 2304,House,3,1,−,306m² ,2023
+"920,000","5 George Street,",MAYFIELD EAST NSW 2304,House,3,1,2,376m² ,2023
+"900,000 ","15 Cedrella Crescent,",WARABROOK NSW 2304,House,5,2,2,598m² ,19 Jul 2023
+"735,000 ","9 Baker Street,",MAYFIELD NSW 2304,House,3,2,1,341m² ,2023
+"1,020,000","66 Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,550m² ,4 Jul 2023
+"650,000 ","114 Elizabeth Street,",MAYFIELD NSW 2304,House,3,1,2,284m² ,14 Jul 2023
+"1,100,000 ","11 Ackeron Street,",MAYFIELD NSW 2304,House,4,2,2,490m² ,13 Jul 2023
+"750,000","33 Eucalyptus Circuit,",WARABROOK NSW 2304,House,3,2,2,661m² ,12 Jul 2023
+"1,050,000 ","5b Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,638m² ,10 Jul 2023
+"1,255,000 ","45 Howden Street,",CARRINGTON NSW 2294,House,3,1,2,525m² ,2023
+"867,000 ","52 Bishopsgate Street,",WICKHAM NSW 2293,House,2,1,−,130m² ,2023
+"865,000 ","10 Sandcastle Street,",FERN BAY NSW 2295,House,4,2,2,505m² ,06 Jul 2023
+"4,300,000 ","17 Kitchener Parade,",THE HILL NSW 2300,House,4,3,4,672m² ,05 Jul 2023
+"1,047,000 ","72 Henry Street,",TIGHES HILL NSW 2297,House,2,1,2,416m² ,05 Jul 2023
+"830,000 ","1 Norris Avenue,",MAYFIELD WEST NSW 2304,House,4,2,4,569m² ,04 Jul 2023
+"746,000 ","285A Maitland Road,",MAYFIELD WEST NSW 2304,House,4,1,1,411m² ,2023
+"955,000 ","8 Buruda Street,",MAYFIELD WEST NSW 2304,House,3,1,2,450m² ,2023
+"2,750,000 ","245 Mitchell Street,",STOCKTON NSW 2295,House,5,3,3,506m² ,01 Jul 2023
+"2,400,000 ","49 Newcastle Street,",STOCKTON NSW 2295,House,5,1,2,"1,247m² ",2023
+"854,000 ","13 Foxtail Street,",FERN BAY NSW 2295,House,4,2,2,538m² ,30 Jun 2023
+"2,300,000","82 Tooke Street,",COOKS HILL NSW 2300,House,4,2,1,466m² ,28 Jun 2023
+"710,000 ","9 Fullerton Street,",FERN BAY NSW 2295,House,2,1,3,752m² ,23 Jun 2023
+"1,010,000","25 King Street,",STOCKTON NSW 2295,House,4,3,1,460m² ,23 Jun 2023
+"825,000 ","39 Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,646m² ,20 Jun 2023
+"1,066,000 ","22 Uralla St,",FERN BAY NSW 2295,House,4,2,2,500m² ,19 Jun 2023
+"935,000 ","11 Apple Street,",FERN BAY NSW 2295,House,4,2,2,518m² ,19 Jun 2023
+"1,275,000","10 Sheoak Street,",FERN BAY NSW 2295,House,4,3,2,691m² ,17 Jun 2023
+"862,250 ","6 Groundsel Street,",FERN BAY NSW 2295,House,4,2,2,510m² ,16 Jun 2023
+"960,000","6 King Street,",STOCKTON NSW 2295,House,3,2,1,275m² ,13 Jun 2023
+"3,100,000","315 Darby Street,",BAR BEACH NSW 2300,House,4,3,2,522m² ,09 Jun 2023
+"1,043,000 ","9 Agnes Street,",MAYFIELD NSW 2304,House,3,2,1,373m² ,09 Jun 2023
+"1,085,000 ","2 Smith Street,",MAYFIELD EAST NSW 2304,House,3,1,1,379m² ,2023
+"985,000 ","18 Upfold Street,",MAYFIELD NSW 2304,House,4,2,2,505m² ,07 Jun 2023
+"870,000 ","95 Margaret Street,",MAYFIELD EAST NSW 2304,House,3,1,1,508m² ,06 Jun 2023
+"1,000,000 ","71 Northumberland Street,",MARYVILLE NSW 2293,House,2,1,−,303m² ,01 Jun 2023
+"1,357,500 ","35 Buruda Street,",MAYFIELD WEST NSW 2304,House,3,2,1,672m² ,2023
+"765,000 ","120 Barton Street,",MAYFIELD NSW 2304,House,2,1,1,303m² ,2023
+"870,000 ","27 Queen Street,",COOKS HILL NSW 2300,Terrace,2,1,−,126m² ,29 May 2023
+"1,060,000 ","56 Scholey Street,",MAYFIELD NSW 2304,House,3,1,2,594m² ,29 May 2023
+"935,000 ","8 Mounter Street,",MAYFIELD EAST NSW 2304,House,3,2,1,385m² ,29 May 2023
+"850,000 ","3 Adrian Street,",MAYFIELD WEST NSW 2304,House,3,2,2,310m² ,2023
+"2,925,000 ","130 Corlette Street,",COOKS HILL NSW 2300,House,4,3,2,297m² ,26 May 2023
+"1,015,000 ","36 Popplewell Road,",FERN BAY NSW 2295,House,4,2,3,714m² ,26 May 2023
+"1,825,000","9 Kitchener Parade,",MAYFIELD EAST NSW 2304,House,5,2,3,601m² ,26 May 2023
+"1,020,000 ","9 William Street,",STOCKTON NSW 2295,House,3,2,1,303m² ,26 May 2023
+"950,000","9 Fleming Street,",WICKHAM NSW 2293,House,3,1,−,228m² ,26 May 2023
+"1,350,000 ","34 Parry Street,",COOKS HILL NSW 2300,House,3,1,1,145m² ,2023
+"770,000 ","16 Holt Street,",MAYFIELD EAST NSW 2304,House,3,1,−,329m² ,24 May 2023
+"960,000 ","52 Silsoe Street,",MAYFIELD NSW 2304,House,3,2,2,338m² ,3 May 2023
+"3,860,000","71 Parkway Avenue,",COOKS HILL NSW 2300,House,4,2,3,576m² ,2023
+"1,050,000 ","13 Wyvern Street,",MAYFIELD NSW 2304,House,3,2,2,488m² ,22 May 2023
+"2,150,000 ","46 Tighes Terrace,",TIGHES HILL NSW 2297,House,4,3,2,412m² ,22 May 2023
+"1,040,000 ","38 Lewis Street,",MARYVILLE NSW 2293,House,2,1,1,304m² ,2023
+"1,010,000 ","60 Newcastle Street,",STOCKTON NSW 2295,House,4,2,1,439m² ,2023
+"845,000 ","26 Foxtail Street,",FERN BAY NSW 2295,House,4,2,2,500m² ,18 May 2023
+"907,000","11a Werribi Street East,",MAYFIELD WEST NSW 2304,House,3,2,1,487m² ,18 May 2023
+"830,000 ","172 Fullerton Street,",STOCKTON NSW 2295,House,3,1,1,366m² ,18 May 2023
+"1,000,000 ","40B Gipps Street,",CARRINGTON NSW 2294,House,3,2,1,214m² ,17 May 2023
+"1,050,000 ","4 Abel Street,",MAYFIELD NSW 2304,House,3,1,1,304m² ,16 May 2023
+"1,510,000 ","71 Henry Street,",TIGHES HILL NSW 2297,House,4,2,1,428m² ,15 May 2023
+"1,555,000 ","34 Fleming Street,",WICKHAM NSW 2293,House,4,2,1,229m² ,15 May 2023
+"1,620,000 ","3 Park Road,",TIGHES HILL NSW 2297,House,5,2,2,627m² ,2023
+"870,000 ","42 Fullerton Street,",STOCKTON NSW 2295,House,3,1,2,354m² ,12 May 2023
+"825,000 ","7 Kings Road,",TIGHES HILL NSW 2297,House,3,1,1,306m² ,2023
+"990,000 ","53 Bourke Street,",CARRINGTON NSW 2294,House,3,1,1,253m² ,10 May 2023
+"1,160,000 ","154 Dunbar Street,",STOCKTON NSW 2295,House,3,2,2,322m² ,10 May 2023
+"2,300,000 ","14 Kitchener Parade,",THE HILL NSW 2300,House,5,1,2,851m² ,09 May 2023
+"900,000 ","18 Olearia Cr,",WARABROOK NSW 2304,House,5,2,2,480m² ,09 May 2023
+"1,610,000","39 Hewison Street,",TIGHES HILL NSW 2297,House,4,1,3,"1,011m² ",2023
+"705,000 ","66 Valencia Street,",MAYFIELD NSW 2304,House,2,1,1,379m² ,05 May 2023
+"1,028,000 ","25 Henson Avenue,",MAYFIELD EAST NSW 2304,House,3,1,2,381m² ,2023
+"975,000","108 Dunbar Street,",STOCKTON NSW 2295,House,2,1,1,505m² ,05 May 2023
+"752,000 ","13 Nelson Street,",MAYFIELD NSW 2304,House,3,1,1,360m² ,03 May 2023
+"1,210,000 ","1 Coal Street,",STOCKTON NSW 2295,House,3,3,2,347m² ,02 May 2023
+"1,165,000","312 Darby Street,",COOKS HILL NSW 2300,House,3,1,1,532m² ,01 May 2023
+"857,000 ","14 Apple Street,",FERN BAY NSW 2295,House,4,2,2,500m² ,01 May 2023
+"2,020,000 ","103 Lewis Street,",MARYVILLE NSW 2293,House,4,2,1,304m² ,30 Apr 2023
+"690,000 ","16 Albion Street,",MAYFIELD EAST NSW 2304,House,3,1,−,363m² ,27 Apr 2023
+"842,500 ","18 Gregson Avenue,",MAYFIELD WEST NSW 2304,House,4,1,1,294m² ,27 Apr 2023
+"530,000 ","1/55 Barton Street,",MAYFIELD NSW 2304,Villa,2,1,1,610m² ,2023
+"1,212,000 ","34 Sygna Street,",FERN BAY NSW 2295,House,4,2,2,695m² ,21 Apr 2023
+"830,000 ","86 Upfold Street,",MAYFIELD NSW 2304,House,3,1,2,556m² ,21 Apr 2023
+"1,200,000 ","15 Roxburgh Street,",STOCKTON NSW 2295,House,3,1,2,398m² ,21 Apr 2023
+"740,000","29a Bakeri Circuit,",WARABROOK NSW 2304,House,3,1,1,389m² ,21 Apr 2023
+"950,000","207 Dunbar Street,",STOCKTON NSW 2295,House,3,1,2,505m² ,20 Apr 2023
+"815,000 ","24 Margaret Street,",TIGHES HILL NSW 2297,House,3,1,−,311m² ,20 Apr 2023
+"1,500,000 ","18 Light Street,",BAR BEACH NSW 2300,House,2,1,1,670m² ,18 Apr 2023
+"790,500 ","26 Antill Street,",MAYFIELD NSW 2304,House,3,1,1,367m² ,18 Apr 2023
+"1,001,000 ","62 Laman Street,",COOKS HILL NSW 2300,House,2,1,1,83m² ,2023
+"1,030,000 ","1 Oimara Street,",FERN BAY NSW 2295,House,4,2,2,683m² ,7 Apr 2023
+"720,000 ","18 Greaves Street,",MAYFIELD EAST NSW 2304,House,2,1,−,139m² ,17 Apr 2023
+"885,000 ","19 Werribi Street,",MAYFIELD WEST NSW 2304,House,3,1,2,708m² ,17 Apr 2023
+"2,300,000 ","261 Mitchell Street,",STOCKTON NSW 2295,House,4,2,5,505m² ,2023
+"843,000 ","59 Hanbury Street,",MAYFIELD NSW 2304,House,3,1,2,708m² ,14 Apr 2023
+"845,000 ","38 Fitzroy Street,",MAYFIELD NSW 2304,House,3,1,2,612m² ,14 Apr 2023
+"800,000 ","202 Fullerton Street,",STOCKTON NSW 2295,House,3,1,1,657m² ,14 Apr 2023
+"1,501,050","28 Dawson Street,",COOKS HILL NSW 2300,House,4,1,−,170m² ,3 Apr 2023
+"810,000 ","6 Hargrave Street,",CARRINGTON NSW 2294,House,2,1,−,106m² ,12 Apr 2023
+"1,700,000 ","59 Bruce Street,",COOKS HILL NSW 2300,House,5,2,1,164m² ,06 Apr 2023
+"2,600,000","26 Pitt Street,",STOCKTON NSW 2295,House,5,3,3,670m² ,06 Apr 2023
+"1,190,000 ","18 Fitzroy Street,",MAYFIELD NSW 2304,House,4,1,4,695m² ,05 Apr 2023
+"760,000 ","34 Gregson Avenue,",MAYFIELD WEST NSW 2304,House,3,1,1,577m² ,05 Apr 2023
+"920,000 ","16 Jabiru Drive,",FERN BAY NSW 2295,House,3,2,2,500m² ,04 Apr 2023
+"880,000 ","18 Bourke Street,",MAYFIELD NSW 2304,House,4,2,1,515m² ,04 Apr 2023
+"555,000 ","6 Croydon Street,",MAYFIELD NSW 2304,House,3,1,1,322m² ,03 Apr 2023
+"900,000 ","6a Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,501m² ,31 Mar 2023
+"660,000 ","34 Gamack Street,",MAYFIELD NSW 2304,House,2,1,1,297m² ,31 Mar 2023
+"1,210,000 ","18 Margaret Street,",TIGHES HILL NSW 2297,House,3,2,−,312m² ,31 Mar 2023
+"1,650,000 ","23 Tyrrell Street,",THE HILL NSW 2300,House,4,2,−,154m² ,30 Mar 2023
+"1,090,000 ","71 Silsoe Street,",MAYFIELD NSW 2304,House,4,2,−,538m² ,28 Mar 2023
+"885,000 ","108 Rodgers Street,",CARRINGTON NSW 2294,House,3,1,1,249m² ,27 Mar 2023
+"795,000 ","42 Fitzroy Street,",MAYFIELD NSW 2304,House,4,1,3,670m² ,27 Mar 2023
+"1,250,000 ","119 Gipps Street,",CARRINGTON NSW 2294,House,3,2,1,304m² ,24 Mar 2023
+"1,100,000","34 Norfolk Street,",FERN BAY NSW 2295,House,5,3,2,612m² ,24 Mar 2023
+"660,000 ","84 Elizabeth Street,",MAYFIELD NSW 2304,House,3,1,1,339m² ,24 Mar 2023
+"960,000 ","8 Oimara Street,",FERN BAY NSW 2295,House,4,2,4,576m² ,23 Mar 2023
+"690,000 ","23 Ingall Street,",MAYFIELD NSW 2304,House,2,1,−,370m² ,23 Mar 2023
+"1,000,000 ","51 Havelock Street,",MAYFIELD NSW 2304,House,3,2,1,309m² ,23 Mar 2023
+"1,050,000 ","80 Margaret Street,",MAYFIELD EAST NSW 2304,House,3,1,1,525m² ,22 Mar 2023
+"740,000 ","18 Garrett Street,",CARRINGTON NSW 2294,House,2,1,1,236m² ,21 Mar 2023
+"900,000","30 Lewis St,",MARYVILLE NSW 2293,House,3,1,1,303m² ,17 Mar 2023
+"790,000 ","7 Lott Street,",MARYVILLE NSW 2293,House,3,1,−,271m² ,2023
+"1,660,000 ","28 McMichael Street,",MARYVILLE NSW 2293,House,4,2,1,303m² ,7 Mar 2023
+"5,700,000","38 The Terrace,",THE HILL NSW 2300,House,5,4,2,581m² ,17 Mar 2023
+"1,250,000 ","69 Dune Drive,",FERN BAY NSW 2295,House,4,2,2,712m² ,16 Mar 2023
+"795,000 ","48 Scholey Street,",MAYFIELD NSW 2304,House,3,1,1,360m² ,16 Mar 2023
+"1,270,000 ","100 Carrington Street,",MAYFIELD NSW 2304,House,3,1,1,510m² ,2023
+"910,000 ","41 Church Street,",MAYFIELD NSW 2304,House,4,1,1,705m² ,14 Mar 2023
+"1,200,000 ","45 Scott Street,",CARRINGTON NSW 2294,House,4,2,3,253m² ,13 Mar 2023
+"1,150,000 ","60 Railway Street,",COOKS HILL NSW 2300,House,3,2,−,243m² ,13 Mar 2023
+"990,000 ","20 Apple Street,",FERN BAY NSW 2295,House,4,2,2,520m² ,13 Mar 2023
+"650,000 ","5 Hanbury Street,",MAYFIELD NSW 2304,House,3,1,2,408m² ,3 Mar 2023
+"2,058,000","63 Railway Street,",COOKS HILL NSW 2300,House,3,3,4,242m² ,2023
+"800,000 ","25 Mcisaac Street,",TIGHES HILL NSW 2297,House,3,1,−,304m² ,11 Mar 2023
+"725,000 ","31 Scholey Street,",MAYFIELD NSW 2304,House,3,1,2,468m² ,10 Mar 2023
+"788,000 ","22 Ironbark Drive,",FERN BAY NSW 2295,House,4,2,2,711m² ,08 Mar 2023
+"820,000 ","11 McMichael Street,",MARYVILLE NSW 2293,House,2,1,−,286m² ,08 Mar 2023
+"760,000 ","27 Holt Street,",MAYFIELD EAST NSW 2304,House,2,1,1,202m² ,08 Mar 2023
+"770,000 ","35 King Street,",STOCKTON NSW 2295,House,3,1,1,500m² ,07 Mar 2023
+"875,000 ","9 Sandcastle Street,",FERN BAY NSW 2295,House,4,2,2,504m² ,06 Mar 2023
+"1,775,000 ","16 McMichael Street,",MARYVILLE NSW 2293,House,4,2,2,303m² ,06 Mar 2023
+"960,000 ","30 Mounter Street,",MAYFIELD EAST NSW 2304,House,2,1,2,385m² ,06 Mar 2023
+"670,000 ","13 Adrian Street,",MAYFIELD WEST NSW 2304,House,2,1,2,424m² ,2023
+"1,125,000 ","112 Roxburgh Street,",STOCKTON NSW 2295,House,4,2,2,506m² ,03 Mar 2023
+"1,400,000 ","39 Roxburgh Street,",STOCKTON NSW 2295,House,4,2,1,505m² ,03 Mar 2023
+"770,000","12 McIsaac Street,",TIGHES HILL NSW 2297,House,2,1,−,304m² ,02 Mar 2023
+"782,000 ","6 Bull Street,",MAYFIELD NSW 2304,House,3,1,2,512m² ,01 Mar 2023
+"587,000","3 Taylor Road,",FERN BAY NSW 2295,House,3,1,1,536m² ,28 Feb 2023
+"775,000 ","3 Bakeri Circuit,",WARABROOK NSW 2304,House,3,1,2,472m² ,28 Feb 2023
+"1,150,000 ","21 Scott Street,",CARRINGTON NSW 2294,House,3,2,3,335m² ,7 Feb 2023
+"810,000","8 Foxtail Street,",FERN BAY NSW 2295,House,4,2,2,500m² ,27 Feb 2023
+"1,050,000 ","12 Rose Street,",TIGHES HILL NSW 2297,House,3,1,1,582m² ,27 Feb 2023
+"685,000 ","58 Mounter Street,",MAYFIELD EAST NSW 2304,House,4,1,1,437m² ,2023
+"1,625,000 ","116 Dawson Street,",COOKS HILL NSW 2300,House,4,2,−,202m² ,2023
+"1,250,000 ","4 Paperbark Court,",FERN BAY NSW 2295,House,5,2,3,800m² ,24 Feb 2023
+"725,000 ","60A Elizabeth Street,",MAYFIELD NSW 2304,House,3,1,1,334m² ,24 Feb 2023
+"970,000 ","31 Morris Street,",MAYFIELD WEST NSW 2304,House,4,1,4,512m² ,24 Feb 2023
+"1,630,000 ","35 Dunbar Street,",STOCKTON NSW 2295,House,4,2,2,775m² ,24 Feb 2023
+"1,040,000 ","31 Sygna Street,",FERN BAY NSW 2295,House,4,3,2,525m² ,23 Feb 2023
+"1,325,000 ","82 Mcmichael Street,",MARYVILLE NSW 2293,House,3,1,−,303m² ,23 Feb 2023
+"910,000 ","46a Carrington Street,",MAYFIELD NSW 2304,House,3,1,1,519m² ,2023
+"865,000 ","42 Seaside Boulevard,",FERN BAY NSW 2295,House,4,2,2,551m² ,22 Feb 2023
+"1,821,700 ","8 Kitchener Parade,",MAYFIELD EAST NSW 2304,House,4,1,1,594m² ,2023
+"1,100,000","170 Douglas Street,",STOCKTON NSW 2295,House,3,1,3,505m² ,22 Feb 2023
+"880,000","9 Eurabbie Avenue,",WARABROOK NSW 2304,House,4,2,2,562m² ,22 Feb 2023
+"1,260,000","35 Brooks Street,",COOKS HILL NSW 2300,House,3,1,1,406m² ,20 Feb 2023
+"4,230,000 ","62 Memorial Drive,",BAR BEACH NSW 2300,House,4,4,4,600m² ,2023
+"4,230,000 ","62 Memorial Drive,",BAR BEACH NSW 2300,House,4,4,4,600m² ,2023
+"1,500,000","1A Mitchell Street,",TIGHES HILL NSW 2297,House,4,2,1,335m² ,18 Feb 2023
+"1,225,000 ","6 John Street,",MAYFIELD NSW 2304,House,3,2,2,538m² ,17 Feb 2023
+"720,000 ","14 Braid Road,",FERN BAY NSW 2295,House,3,1,2,505m² ,16 Feb 2023
+"740,000 ","38 Hanbury Street,",MAYFIELD NSW 2304,House,2,1,1,504m² ,2023
+"740,000 ","38 Gipps Street,",CARRINGTON NSW 2294,House,2,1,−,170m² ,14 Feb 2023
+"737,000","1 Church Street,",STOCKTON NSW 2295,House,4,1,−,354m² ,14 Feb 2023
+"785,000 ","60 Wilson Street,",CARRINGTON NSW 2294,House,2,1,2,329m² ,13 Feb 2023
+"935,000 ","5 Avon Street,",MAYFIELD NSW 2304,House,3,2,2,455m² ,13 Feb 2023
+"2,660,000 ","243 Mitchell Street,",STOCKTON NSW 2295,House,4,3,3,505m² ,13 Feb 2023
+"855,000 ","155 Dunbar Street,",STOCKTON NSW 2295,House,3,1,2,506m² ,2023
+"1,100,000 ","79 Gipps Street,",CARRINGTON NSW 2294,House,4,1,1,253m² ,2023
+"1,180,000 ","8 Queens Road,",TIGHES HILL NSW 2297,House,3,2,−,306m² ,07 Feb 2023
+"740,000 ","45 Gipps Street,",CARRINGTON NSW 2294,House,2,1,−,169m² ,06 Feb 2023
+"2,082,000 ","167 Dawson Street,",COOKS HILL NSW 2300,House,4,2,−,259m² ,06 Feb 2023
+"880,000 ","128 Douglas Street,",STOCKTON NSW 2295,House,2,1,1,367m² ,06 Feb 2023
+"922,000","30 Bishopsgate Street,",WICKHAM NSW 2293,House,3,2,2,115m² ,06 Feb 2023
+"1,850,000 ","13 Forbes Street,",CARRINGTON NSW 2294,House,4,2,2,607m² ,2023
+"850,000 ","50 Downie Street,",MARYVILLE NSW 2293,House,3,1,−,240m² ,2023
+"1,270,000 ","32 Kitchener Parade,",MAYFIELD EAST NSW 2304,House,4,1,3,592m² ,01 Feb 2023
+"1,150,000 ","11 Buruda Street,",MAYFIELD WEST NSW 2304,House,4,2,4,674m² ,2023
+"750,000 ","7 Burnett Street,",MAYFIELD WEST NSW 2304,House,2,1,5,428m² ,2023
+"1,580,000 ","52a Parry Street,",COOKS HILL NSW 2300,House,3,2,1,178m² ,5 Jan 2023
+"840,000 ","198 Fullerton Street,",STOCKTON NSW 2295,House,2,1,1,689m² ,25 Jan 2023
+"1,270,000 ","30 Victoria Street,",CARRINGTON NSW 2294,House,4,2,1,196m² ,23 Jan 2023
+"750,000 ","116 Doran Street,",CARRINGTON NSW 2294,House,2,1,−,101m² ,20 Jan 2023
+"1,150,000","55 Hereford Street,",STOCKTON NSW 2295,House,4,2,1,392m² ,20 Jan 2023
+"695,000 ","3 Eucalyptus Circuit,",WARABROOK NSW 2304,House,3,3,1,391m² ,19 Jan 2023
+"1,800,000 ","105 Gipps Street,",CARRINGTON NSW 2294,House,4,2,−,253m² ,18 Jan 2023
+"2,375,000 ","2/45 Church Street,",THE HILL NSW 2300,House,3,2,2,215m² ,17 Jan 2023
+"1,375,000 ","85 Douglas Street,",STOCKTON NSW 2295,House,3,1,2,796m² ,13 Jan 2023
+"520,000","280 Fullerton Street,",STOCKTON NSW 2295,House,2,1,−,351m² ,13 Jan 2023
+"1,196,000 ","17 McIsaac Street,",TIGHES HILL NSW 2297,House,3,2,2,304m² ,13 Jan 2023
+"770,000 ","103 Gipps Street,",CARRINGTON NSW 2294,House,2,1,−,253m² ,12 Jan 2023
+"1,975,000","221 Mitchell Street,",STOCKTON NSW 2295,House,4,2,3,505m² ,12 Jan 2023
+"880,000 ","44 Railway Street,",COOKS HILL NSW 2300,Terrace,2,1,1,88m² ,10 Jan 2023
+"575,000 ","1/43 Simpson Court,",MAYFIELD NSW 2304,Villa,2,1,2,167m² ,10 Jan 2023
+"1,380,000 ","9 Paperbark Court,",FERN BAY NSW 2295,House,5,2,3,967m² ,06 Jan 2023
+"1,010,000 ","116 Railway Street,",COOKS HILL NSW 2300,House,2,1,1,88m² ,05 Jan 2023
+"1,102,000 ","17 Kerr Street,",MAYFIELD NSW 2304,House,3,3,2,455m² ,02 Jan 2023
+"785,000 ","21 Ferndale Street,",TIGHES HILL NSW 2297,House,3,1,1,291m² ,30 Dec 2022
+"1,050,000 ","20 Forbes Street,",CARRINGTON NSW 2294,House,3,1,−,297m² ,23 Dec 2022
+"740,000 ","12 Victoria Street,",MAYFIELD NSW 2304,House,2,1,−,336m² ,22 Dec 2022
+"805,000 ","65 Barton Street,",MAYFIELD NSW 2304,House,3,1,1,303m² ,22 Dec 2022
+"650,000 ","15 Gorrick Street,",MAYFIELD EAST NSW 2304,Semi-detached,1,1,−,249m² ,22 Dec 2022
+"870,000 ","233 Dunbar Street,",STOCKTON NSW 2295,House,3,1,1,613m² ,22 Dec 2022
+"1,515,000 ","139 Mitchell Street,",STOCKTON NSW 2295,House,4,3,2,765m² ,22 Dec 2022
+"815,000 ","67 Bourke Street,",CARRINGTON NSW 2294,House,3,1,−,252m² ,21 Dec 2022
+"800,000 ","8 Nagle Close,",FERN BAY NSW 2295,House,3,2,2,634m² ,21 Dec 2022
+"1,062,500 ","51 Paperbark Court,",FERN BAY NSW 2295,House,4,2,2,573m² ,20 Dec 2022
+"720,000 ","29 Ferndale Street,",TIGHES HILL NSW 2297,House,3,1,1,303m² ,20 Dec 2022
+"575,000 ","82 Woodstock Street,",MAYFIELD NSW 2304,House,2,1,2,425m² ,2022
+"745,000 ","24 Cedrella Crescent,",WARABROOK NSW 2304,House,3,2,2,636m² ,2022
+"680,000 ","107A Barton Street,",MAYFIELD NSW 2304,House,3,2,−,304m² ,16 Dec 2022
+"950,000 ","59 Douglas Street,",STOCKTON NSW 2295,House,2,1,1,383m² ,16 Dec 2022
+"1,250,000","22 Newcastle Street,",STOCKTON NSW 2295,House,3,2,2,427m² ,16 Dec 2022
+"930,000 ","45 Forbes Street,",CARRINGTON NSW 2294,House,3,1,3,328m² ,5 Dec 2022
+"935,000 ","27 Gamack Street,",MAYFIELD NSW 2304,House,3,2,2,424m² ,15 Dec 2022
+"667,000 ","14 McIsaac Street,",TIGHES HILL NSW 2297,House,3,1,−,303m² ,2022
+"667,000 ","14 McIsaac Street,",TIGHES HILL NSW 2297,House,3,1,−,303m² ,2022
+"740,000 ","29 Mathieson Street,",CARRINGTON NSW 2294,House,2,1,−,166m² ,2 Dec 2022
+"960,000","46 Angophora Drive,",WARABROOK NSW 2304,House,4,2,2,770m² ,12 Dec 2022
+"750,000 ","2/54 Angophora Dr,",WARABROOK NSW 2304,Semi-detached,3,1,1,277m² ,12 Dec 2022
+"1,365,000 ","72 Newcomen Street,",THE HILL NSW 2300,Terrace,3,2,−,158m² ,2022
+"1,000,000 ","52 Union Street,",TIGHES HILL NSW 2297,House,4,1,2,326m² ,2022
+"1,010,000","99 McMichael Street,",MARYVILLE NSW 2293,House,3,1,−,263m² ,09 Dec 2022
+"1,005,000 ","30 Vine Street,",MAYFIELD NSW 2304,House,4,2,2,500m² ,2022
+"695,000 ","3 Norris Avenue,",MAYFIELD WEST NSW 2304,House,3,1,1,531m² ,09 Dec 2022
+"1,700,000","207 Mitchell Street,",STOCKTON NSW 2295,House,3,2,2,335m² ,09 Dec 2022
+"1,640,000","15 Hewison Street,",TIGHES HILL NSW 2297,House,4,3,−,505m² ,09 Dec 2022
+"730,000 ","8 William Street,",MAYFIELD NSW 2304,House,2,1,1,488m² ,07 Dec 2022
+"630,000 ","13 Gorrick Street,",MAYFIELD EAST NSW 2304,Semi-detached,1,1,1,249m² ,07 Dec 2022
+"1,180,000 ","47 Hereford Street,",STOCKTON NSW 2295,House,4,2,2,348m² ,07 Dec 2022
+"760,000 ","10 Watson Street,",MAYFIELD NSW 2304,House,3,1,1,455m² ,06 Dec 2022
+"935,000 ","6 Barclay Street,",MAYFIELD NSW 2304,House,3,2,1,310m² ,05 Dec 2022
+"975,000 ","63 McMichael Street,",MARYVILLE NSW 2293,House,3,1,1,266m² ,2022
+"933,000","15 Henson Avenue,",MAYFIELD EAST NSW 2304,House,3,1,2,404m² ,2 Dec 2022
+"1,910,000","63 Fullerton Street,",STOCKTON NSW 2295,House,5,2,2,809m² ,02 Dec 2022
+"780,000 ","15 Carrington Street,",MAYFIELD NSW 2304,House,2,1,1,379m² ,2022
+"1,200,000","19 Stone Street,",STOCKTON NSW 2295,House,3,1,−,565m² ,01 Dec 2022
+"2,750,000 ","7 High Street,",THE HILL NSW 2300,House,4,2,2,342m² ,01 Dec 2022
+"755,000 ","84 Rodgers Street,",CARRINGTON NSW 2294,House,2,1,1,169m² ,30 Nov 2022
+"1,480,000","21 Stone Street,",STOCKTON NSW 2295,House,3,1,2,550m² ,29 Nov 2022
+"741,500","10 Melliodora Close,",WARABROOK NSW 2304,House,3,1,2,577m² ,24 Nov 2022
+"910,000 ","40 Robert Street,",WICKHAM NSW 2293,House,3,2,1,202m² ,22 Nov 2022
+"1,200,000 ","27 Forbes Street,",CARRINGTON NSW 2294,House,3,2,2,303m² ,2022
+"1,010,000 ","82 Rodgers Street,",CARRINGTON NSW 2294,House,3,2,1,169m² ,18 Nov 2022
+"850,500 ","58 Mathieson Street,",CARRINGTON NSW 2294,House,2,1,−,254m² ,18 Nov 2022
+"1,200,000","97 Laman Street,",COOKS HILL NSW 2300,House,3,2,−,95m² ,18 Nov 2022
+"640,000 ","21 Bourke Street,",MAYFIELD NSW 2304,House,2,1,1,255m² ,18 Nov 2022
+"810,000 ","83 Ingall Street,",MAYFIELD NSW 2304,House,3,1,1,223m² ,18 Nov 2022
+"1,030,000 ","17 Rushland Drive,",FERN BAY NSW 2295,House,4,2,2,710m² ,17 Nov 2022
+"1,077,000 ","15 Nevill Street,",MAYFIELD NSW 2304,House,3,2,1,398m² ,17 Nov 2022
+"2,120,000 ","61 Fullerton Street,",STOCKTON NSW 2295,House,5,3,3,815m² ,2022
+"950,000 ","13 Pembroke Street,",STOCKTON NSW 2295,House,4,1,1,395m² ,17 Nov 2022
+"1,380,000 ","72 Douglas Street,",STOCKTON NSW 2295,House,4,3,2,460m² ,17 Nov 2022
+"1,030,000 ","40 Newcastle Street,",STOCKTON NSW 2295,House,3,1,2,441m² ,17 Nov 2022
+"975,000 ","9 Roxburgh Street,",STOCKTON NSW 2295,House,3,2,2,373m² ,17 Nov 2022
+"1,000,010 ","104 Fullerton Street,",STOCKTON NSW 2295,House,3,1,1,547m² ,17 Nov 2022
+"3,500,000 ","36 Parkway Avenue,",BAR BEACH NSW 2300,House,4,2,2,695m² ,16 Nov 2022
+"800,000 ","44 Forbes Street,",CARRINGTON NSW 2294,House,3,1,1,309m² ,2022
+"965,000 ","6 Forfar Street,",STOCKTON NSW 2295,House,3,2,−,347m² ,15 Nov 2022
+"1,250,000 ","115 Gipps Street,",CARRINGTON NSW 2294,House,3,1,1,322m² ,14 Nov 2022
+"850,000 ","18 Rosemary Street,",FERN BAY NSW 2295,House,4,2,2,500m² ,14 Nov 2022
+"825,000 ","26 Simpson Court,",MAYFIELD NSW 2304,House,3,2,2,450m² ,14 Nov 2022
+"975,000 ","216 Dunbar Street,",STOCKTON NSW 2295,House,3,1,2,506m² ,14 Nov 2022
+"2,650,000 ","61 Dawson Street,",COOKS HILL NSW 2300,House,3,1,1,"1,012m² ",2022
+"1,330,000 ","1 Francis Street,",TIGHES HILL NSW 2297,House,3,2,3,352m² ,2022
+"1,020,000 ","44 Bryant Street,",TIGHES HILL NSW 2297,House,3,1,2,342m² ,2022
+"1,110,000 ","54 Gipps Street,",CARRINGTON NSW 2294,House,3,2,−,164m² ,11 Nov 2022
+"1,030,000","109 Dune Drive,",FERN BAY NSW 2295,House,4,2,2,600m² ,11 Nov 2022
+"1,150,000 ","46 Waratah Street,",MAYFIELD NSW 2304,House,3,2,4,549m² ,11 Nov 2022
+"630,000 ","34 Sunnyside Street,",MAYFIELD NSW 2304,House,2,1,1,297m² ,11 Nov 2022
+"705,000 ","48 Braye Street,",MAYFIELD NSW 2304,House,4,1,2,405m² ,10 Nov 2022
+"950,000 ","79 Seaside Boulevard,",FERN BAY NSW 2295,House,5,3,2,585m² ,09 Nov 2022
+"1,200,000","105 Henry Street,",TIGHES HILL NSW 2297,House,2,1,2,398m² ,09 Nov 2022
+"990,000 ","17 O'Hara Street,",MARYVILLE NSW 2293,House,3,1,−,359m² ,08 Nov 2022
+"810,000 ","42 Villiers Street,",MAYFIELD NSW 2304,House,3,1,1,405m² ,08 Nov 2022
+"1,060,000 ","14 Dora Street,",MAYFIELD NSW 2304,House,4,1,2,500m² ,2022
+"592,000 ","82 Roe Street,",MAYFIELD NSW 2304,House,3,1,−,361m² ,2022
+"1,150,000","105 Roxburgh Street,",STOCKTON NSW 2295,House,3,2,2,506m² ,04 Nov 2022
+"3,200,000 ","183A Mitchell Street,",STOCKTON NSW 2295,House,4,3,2,506m² ,04 Nov 2022
+"760,000 ","5 Stevenson Avenue,",MAYFIELD WEST NSW 2304,House,3,1,2,660m² ,03 Nov 2022
+"800,000 ","14 Vickers Street,",MAYFIELD WEST NSW 2304,House,3,2,1,386m² ,02 Nov 2022
+"980,000 ","18 Fleming Street,",WICKHAM NSW 2293,House,3,1,1,237m² ,2 Nov 2022
+"705,000 ","164 Douglas Street,",STOCKTON NSW 2295,House,3,1,2,505m² ,01 Nov 2022
+"785,000 ","20 Denison Street,",MAYFIELD NSW 2304,House,2,1,−,328m² ,2022
+"1,655,000 ","46 Lewis Street,",MARYVILLE NSW 2293,House,3,2,2,304m² ,2022
+"630,000 ","29 Smith Street,",MAYFIELD EAST NSW 2304,House,3,1,1,253m² ,26 Oct 2022
+"755,000 ","9 Agnes Street,",MAYFIELD NSW 2304,House,3,1,1,373m² ,25 Oct 2022
+"935,000 ","6 Diuris Street,",FERN BAY NSW 2295,House,4,2,2,510m² ,24 Oct 2022
+"980,000 ","35 Elizabeth Street,",MAYFIELD NSW 2304,House,3,2,1,369m² ,24 Oct 2022
+"1,900,000 ","38 Eames Avenue,",STOCKTON NSW 2295,House,3,2,1,270m² ,21 Oct 2022
+"860,000 ","1A Ferndale Street,",TIGHES HILL NSW 2297,House,3,1,1,386m² ,21 Oct 2022
+"1,625,000","26 Dawson Street,",COOKS HILL NSW 2300,House,3,1,1,285m² ,20 Oct 2022
+"1,775,000","14 McMichael Street,",MARYVILLE NSW 2293,House,4,2,1,304m² ,19 Oct 2022
+"1,100,000 ","32 Popplewell Road,",FERN BAY NSW 2295,House,4,2,2,"1,221m² ",17 Oct 2022
+"962,500","16 Queen Street,",STOCKTON NSW 2295,House,3,1,2,382m² ,17 Oct 2022
+"1,800,000 ","157a Dawson Street,",COOKS HILL NSW 2300,House,3,1,1,420m² ,2022
+"1,115,000 ","30 Council Street,",COOKS HILL NSW 2300,House,3,1,−,103m² ,14 Oct 2022
+"710,000 ","42 Decora Crescent,",WARABROOK NSW 2304,House,3,1,1,409m² ,14 Oct 2022
+"985,000 ","10 Liguori Court,",MAYFIELD NSW 2304,House,3,2,3,506m² ,13 Oct 2022
+"1,070,000 ","28 Scholey Street,",MAYFIELD NSW 2304,House,3,2,2,516m² ,12 Oct 2022
+"711,000 ","130 Hanbury Street,",MAYFIELD NSW 2304,House,3,1,1,354m² ,2022
+"821,000 ","1 Frith Street,",MAYFIELD NSW 2304,House,3,2,2,424m² ,12 Oct 2022
+"670,000","1/3 Eurabbie Avenue,",WARABROOK NSW 2304,House,3,1,1,293m² ,11 Oct 2022
+"1,615,000","78 Robert Street,",WICKHAM NSW 2293,House,4,3,2,221m² ,2022
+"970,000 ","66 Crebert Street,",MAYFIELD NSW 2304,House,3,2,1,439m² ,07 Oct 2022
+"750,000 ","78A Fawcett Street,",MAYFIELD NSW 2304,House,3,1,−,309m² ,07 Oct 2022
+"1,850,000","59 Brown Street,",THE HILL NSW 2300,House,3,1,2,403m² ,07 Oct 2022
+"630,000 ","33 Dora Street,",MAYFIELD NSW 2304,House,2,1,1,367m² ,06 Oct 2022
+"790,000 ","51 Woodstock Street,",MAYFIELD NSW 2304,House,3,1,2,373m² ,06 Oct 2022
+"580,000","2 Buruda Street,",MAYFIELD WEST NSW 2304,House,1,1,1,379m² ,06 Oct 2022
+"1,560,000","34 Scott Street,",NEWCASTLE EAST NSW 2300,Terrace,4,1,−,99m² ,30 Sep 2022
+"725,000 ","6 Elata Way,",WARABROOK NSW 2304,House,3,1,1,405m² ,30 Sep 2022
+"580,000 ","41 Robertson Street,",CARRINGTON NSW 2294,House,2,1,−,138m² ,29 Sep 2022
+"690,000 ","40 McMichael Street,",MARYVILLE NSW 2293,House,2,1,−,231m² ,28 Sep 2022
+"800,000","4 Morris Street,",MAYFIELD NSW 2304,House,3,1,2,591m² ,27 Sep 2022
+"755,000 ","265 Maitland Road,",MAYFIELD NSW 2304,House,3,1,1,474m² ,7 Sep 2022
+"1,050,000 ","26 Gregson Avenue,",MAYFIELD WEST NSW 2304,House,2,2,2,676m² ,27 Sep 2022
+"930,000 ","17 Margaret Street,",TIGHES HILL NSW 2297,House,3,2,1,311m² ,2022
+"3,100,000","25 Wrightson Avenue,",BAR BEACH NSW 2300,House,3,1,2,606m² ,23 Sep 2022
+"905,000 ","9 Robertson Street,",CARRINGTON NSW 2294,House,3,1,2,379m² ,2022
+"860,000 ","12 Dundas Street,",MAYFIELD NSW 2304,House,4,1,1,539m² ,20 Sep 2022
+"1,150,000 ","98 Barton Street,",MAYFIELD NSW 2304,House,5,3,3,607m² ,19 Sep 2022
+"560,000 ","5 Maud Street,",MAYFIELD WEST NSW 2304,House,2,1,2,498m² ,19 Sep 2022
+"870,000 ","75 Margaret Street,",MAYFIELD EAST NSW 2304,House,4,1,−,505m² ,15 Sep 2022
+"560,000 ","601/11 Charles Street,",WICKHAM NSW 2293,House,1,1,1,81m² ,15 Sep 2022
+"1,730,000","157 Dawson Street,",COOKS HILL NSW 2300,House,3,1,2,232m² ,13 Sep 2022
+"835,000 ","19 Jabiru Drive,",FERN BAY NSW 2295,House,4,2,2,589m² ,12 Sep 2022
+"940,000","1 Edwin Street,",MARYVILLE NSW 2293,House,− 0,1,4,228m² ,12 Sep 2022
+"880,000 ","50 Avon Street,",MAYFIELD NSW 2304,House,4,1,2,531m² ,2022
+"1,175,000 ","90 Fullerton Street,",STOCKTON NSW 2295,House,4,2,2,461m² ,12 Sep 2022
+"750,000 ","24 Waratah Street,",MAYFIELD NSW 2304,House,2,1,1,632m² ,2022
+"2,000,000 ","84 Estell Street,",MARYVILLE NSW 2293,House,3,2,1,336m² ,09 Sep 2022
+"520,000 ","23 Gordon Street,",MAYFIELD WEST NSW 2304,House,3,1,−,287m² ,09 Sep 2022
+"950,000 ","117 Norfolk Street,",FERN BAY NSW 2295,House,4,2,2,532m² ,08 Sep 2022
+"710,000","53 Roe Street,",MAYFIELD NSW 2304,House,3,1,2,291m² ,08 Sep 2022
+"975,000","21 Dunbar Street,",STOCKTON NSW 2295,House,3,1,1,524m² ,08 Sep 2022
+"955,000","18 Apple Street,",FERN BAY NSW 2295,House,4,2,2,520m² ,06 Sep 2022
+"2,710,000","25 Parnell Place,",NEWCASTLE EAST NSW 2300,House,3,2,1,146m² ,2022
+"1,600,000 ","18B Union Street,",TIGHES HILL NSW 2297,House,3,2,2,368m² ,06 Sep 2022
+"735,000 ","40 Gipps Street,",CARRINGTON NSW 2294,House,2,1,−,171m² ,05 Sep 2022
+"1,500,000 ","3 Mena Street,",MAYFIELD NSW 2304,House,4,2,2,519m² ,2022
+"1,600,000","57 Denison Street,",CARRINGTON NSW 2294,House,3,1,2,508m² ,02 Sep 2022
+"700,000 ","52 Southon Street,",MAYFIELD NSW 2304,House,3,1,1,215m² ,02 Sep 2022
+"770,000 ","5 Edmund Street,",MAYFIELD NSW 2304,House,3,1,1,274m² ,02 Sep 2022
+"1,225,000 ","80B Roxburgh Street,",STOCKTON NSW 2295,House,4,2,4,607m² ,02 Sep 2022
+"1,000,000 ","23 Elizabeth Street,",TIGHES HILL NSW 2297,House,2,2,1,259m² ,02 Sep 2022
+"652,457 ","12 Viminaria Place,",WARABROOK NSW 2304,House,3,1,1,476m² ,02 Sep 2022
+"937,000 ","45 Henson Avenue,",MAYFIELD EAST NSW 2304,House,2,1,1,379m² ,2022
+"1,160,000 ","18 Newcastle Street,",STOCKTON NSW 2295,House,2,1,2,834m² ,01 Sep 2022
+"862,000 ","27 Mathieson Street,",CARRINGTON NSW 2294,House,3,1,2,328m² ,31 Aug 2022
+"1,570,000 ","43 Grey Street,",WICKHAM NSW 2293,House,3,2,3,288m² ,31 Aug 2022
+"935,000","170 Darby Street,",COOKS HILL NSW 2300,Terrace,2,1,2,266m² ,26 Aug 2022
+"835,000 ","31 Ironbark Drive,",FERN BAY NSW 2295,House,4,2,2,720m² ,26 Aug 2022
+"865,000 ","1049 Nelson Bay Road,",FERN BAY NSW 2295,House,3,2,2,575m² ,26 Aug 2022
+"935,000","19 Dune Drive,",FERN BAY NSW 2295,House,3,2,2,613m² ,26 Aug 2022
+"747,000 ","15 Woodstock Street,",MAYFIELD NSW 2304,House,3,1,1,367m² ,26 Aug 2022
+"675,000 ","41 Maud Street,",MAYFIELD NSW 2304,House,3,1,1,450m² ,26 Aug 2022
+"850,000 ","46 Havelock Street,",MAYFIELD NSW 2304,House,3,1,1,349m² ,26 Aug 2022
+"1,050,000 ","208 Dunbar Street,",STOCKTON NSW 2295,House,3,2,5,506m² ,25 Aug 2022
+"2,100,000 ","44 Bull Street,",MAYFIELD NSW 2304,House,4,2,2,"1,088m² ",24 Aug 2022
+"885,000 ","101 Margaret Street,",MAYFIELD EAST NSW 2304,House,4,1,1,506m² ,24 Aug 2022
+"735,000","19 Fitzroy Street,",MAYFIELD NSW 2304,House,3,2,2,354m² ,23 Aug 2022
+"760,000 ","20 Baker Street,",MAYFIELD NSW 2304,House,3,1,1,538m² ,22 Aug 2022
+"920,000 ","4 John Street,",TIGHES HILL NSW 2297,House,3,2,2,556m² ,2022
+"5,800,000","80 Memorial Drive,",BAR BEACH NSW 2300,House,4,3,3,602m² ,9 Aug 2022
+"850,000","66 Braye Street,",MAYFIELD NSW 2304,House,3,1,1,402m² ,2022
+"805,000 ","16 Gordon Street,",MAYFIELD NSW 2304,House,2,1,1,424m² ,19 Aug 2022
+"740,000","486 Maitland Road,",MAYFIELD NSW 2304,House,3,1,1,404m² ,19 Aug 2022
+"1,080,000","70 Roxburgh Street,",STOCKTON NSW 2295,House,3,2,4,510m² ,19 Aug 2022
+"850,000 ","84 Mathieson Street,",CARRINGTON NSW 2294,House,3,1,2,253m² ,18 Aug 2022
+"980,000 ","81 Corlette Street,",COOKS HILL NSW 2300,House,2,1,−,200m² ,8 Aug 2022
+"975,000 ","44 Newcastle Street,",STOCKTON NSW 2295,House,3,1,1,413m² ,17 Aug 2022
+"650,000 ","43 Robert Street,",WICKHAM NSW 2293,House,2,1,−,120m² ,16 Aug 2022
+"625,000 ","104 Elizabeth Street,",MAYFIELD NSW 2304,House,3,1,2,284m² ,12 Aug 2022
+"680,000 ","31 Vickers Street,",MAYFIELD NSW 2304,House,3,2,2,297m² ,12 Aug 2022
+"1,300,000 ","46 Mounter Street,",MAYFIELD EAST NSW 2304,House,4,2,1,407m² ,12 Aug 2022
+"790,000 ","35 Fullerton Street,",STOCKTON NSW 2295,House,2,1,−,278m² ,11 Aug 2022
+"1,195,000","6 Dianella Court,",WARABROOK NSW 2304,House,6,3,2,943m² ,10 Aug 2022
+"890,000 ","61 Rodgers Street,",CARRINGTON NSW 2294,House,3,1,−,151m² ,2022
+"760,000 ","35 Ferndale Street,",TIGHES HILL NSW 2297,House,2,1,1,177m² ,2022
+"913,000 ","110 Kerr Street,",MAYFIELD NSW 2304,House,3,1,2,379m² ,05 Aug 2022
+"1,600,000","44 Maitland Street,",STOCKTON NSW 2295,House,5,3,2,487m² ,05 Aug 2022
+"2,250,000","10 McCormack Street,",THE HILL NSW 2300,House,5,3,−,284m² ,05 Aug 2022
+"895,000 ","62 Seaside Boulevard,",FERN BAY NSW 2295,House,3,2,2,509m² ,04 Aug 2022
+"1,046,773","38 Newcastle Street,",MAYFIELD NSW 2304,House,3,2,2,550m² ,04 Aug 2022
+"840,000 ","17 Ingall Street,",MAYFIELD NSW 2304,House,3,1,1,280m² ,04 Aug 2022
+"711,555","533 Maitland Road,",MAYFIELD WEST NSW 2304,House,4,1,2,556m² ,04 Aug 2022
+"1,175,000","40 Kerr Street,",MAYFIELD NSW 2304,House,5,2,2,700m² ,03 Aug 2022
+"1,070,000","73 Corlette Street,",COOKS HILL NSW 2300,House,2,1,−,115m² ,02 Aug 2022
+"935,000 ","22 Flint Street,",STOCKTON NSW 2295,House,3,2,2,310m² ,02 Aug 2022
+"800,000","9 Antill Street,",MAYFIELD NSW 2304,House,3,1,1,374m² ,01 Aug 2022
+"785,000 ","6 Watson Street,",MAYFIELD NSW 2304,House,3,1,1,373m² ,01 Aug 2022
+"810,000 ","11 Abel Street,",MAYFIELD NSW 2304,House,2,1,1,304m² ,01 Aug 2022
+"1,125,000 ","539 Hunter Street,",NEWCASTLE WEST NSW 2302,House,3,2,−,242m² ,01 Aug 2022
+"975,000 ","46 Annie Street,",WICKHAM NSW 2293,House,2,2,3,191m² ,1 Aug 2022
+"780,000 ","53 Holt Street,",MAYFIELD EAST NSW 2304,House,2,1,4,411m² ,2022
+"953,000 ","20 Groundsel Street,",FERN BAY NSW 2295,House,5,2,2,544m² ,29 Jul 2022
+"825,000 ","1 Southon Street,",MAYFIELD NSW 2304,House,2,1,1,395m² ,29 Jul 2022
+"3,100,000","110 Church Street,",THE HILL NSW 2300,House,6,6,3,582m² ,2022
+"1,000,000 ","59 Railway Street,",COOKS HILL NSW 2300,House,3,2,−,116m² ,28 Jul 2022
+"1,200,000 ","12 Sharpe Street,",MAYFIELD NSW 2304,House,3,2,3,386m² ,27 Jul 2022
+"965,000","18 Hinkler Street,",MAYFIELD NSW 2304,House,3,1,1,367m² ,26 Jul 2022
+"890,000 ","75 Doran Street,",CARRINGTON NSW 2294,House,3,1,1,252m² ,25 Jul 2022
+"752,800",,MAYFIELD NSW 2304,House,2,1,−,306m² ,25 Jul 2022
+"1,200,000 ","26 Smith Street,",MAYFIELD EAST NSW 2304,House,3,2,−,379m² ,22 Jul 2022
+"1,050,000 ","89 Doran Street,",CARRINGTON NSW 2294,House,2,1,1,328m² ,20 Jul 2022
+"1,075,000","30 Crown Street,",STOCKTON NSW 2295,House,3,2,2,285m² ,20 Jul 2022
+"955,000","17 Stringybark Drive,",FERN BAY NSW 2295,House,4,2,2,649m² ,15 Jul 2022
+"1,850,000 ","14 Hogue Street,",MARYVILLE NSW 2293,House,3,3,2,240m² ,2022
+"775,000 ","28 Miller Street,",MAYFIELD WEST NSW 2304,House,3,1,1,525m² ,15 Jul 2022
+"715,000 ","41 Grey Street,",WICKHAM NSW 2293,House,3,1,−,187m² ,15 Jul 2022
+"965,000 ","14 Macquarie Street,",MAYFIELD NSW 2304,House,4,1,4,547m² ,14 Jul 2022
+"1,060,000 ","35 Casuarina Circuit,",WARABROOK NSW 2304,House,4,3,2,637m² ,2022
+"6,900,000","96 Memorial Drive,",BAR BEACH NSW 2300,House,5,3,5,602m² ,12 Jul 2022
+"825,000 ","29A Cowper Street,",CARRINGTON NSW 2294,House,2,1,1,347m² ,12 Jul 2022
+"1,230,000 ","68 Bruce Street,",COOKS HILL NSW 2300,Duplex,2,1,−,190m² ,2022
+"940,000 ","23 Bourke Street,",CARRINGTON NSW 2294,House,3,1,−,252m² ,11 Jul 2022
+"1,260,000 ","33 Dawson Street,",COOKS HILL NSW 2300,Terrace,2,2,−,101m² ,11 Jul 2022
+"1,075,000 ","138 Doran Street,",CARRINGTON NSW 2294,House,3,2,2,266m² ,8 Jul 2022
+"722,000",,MAYFIELD NSW 2304,House,2,1,1,297m² ,08 Jul 2022
+"1,600,000","60 Douglas Street,",STOCKTON NSW 2295,House,3,1,3,"1,016m² ",08 Jul 2022
+"1,200,000 ","100 Roxburgh Street,",STOCKTON NSW 2295,House,4,2,1,297m² ,08 Jul 2022
+"770,000 ","11 Eurabbie Avenue,",WARABROOK NSW 2304,House,4,2,2,573m² ,08 Jul 2022
+"610,000 ","3/58 Ingall Street,",MAYFIELD NSW 2304,Villa,3,1,1,143m² ,2022
+"835,000 ","84 Rodgers Street,",CARRINGTON NSW 2294,House,2,1,1,169m² ,06 Jul 2022
+"985,000 ","5 Victoria Street,",CARRINGTON NSW 2294,House,3,1,1,181m² ,06 Jul 2022
+"785,000 ","32 Greaves Street,",MAYFIELD EAST NSW 2304,House,3,1,2,276m² ,05 Jul 2022
+"955,000 ","52 Elizabeth Street,",MAYFIELD NSW 2304,House,3,1,1,304m² ,04 Jul 2022
+"910,000 ","47 Stevenson Avenue,",MAYFIELD WEST NSW 2304,House,3,1,4,562m² ,04 Jul 2022
+"930,000","9 Foxtail Street,",FERN BAY NSW 2295,House,4,2,2,538m² ,01 Jul 2022
+"1,300,000 ","16 King Street,",STOCKTON NSW 2295,House,4,3,2,599m² ,01 Jul 2022
+"960,000 ","12 Nelson Street,",MAYFIELD NSW 2304,House,3,1,2,366m² ,28 Jun 2022
+"900,000 ","17 Hewison Street,",TIGHES HILL NSW 2297,House,3,1,1,506m² ,28 Jun 2022
+"1,795,000 ","7A Barrie Crescent,",STOCKTON NSW 2295,House,2,2,2,260m² ,2022
+"1,470,000 ","15 Grey Street,",WICKHAM NSW 2293,House,3,3,2,141m² ,24 Jun 2022
+"750,000 ","18 Pembroke Street,",STOCKTON NSW 2295,House,2,1,1,285m² ,23 Jun 2022
+"790,000 ","27 Ferndale Street,",TIGHES HILL NSW 2297,House,3,1,2,376m² ,23 Jun 2022
+"1,050,000 ","2 Rose Street,",TIGHES HILL NSW 2297,House,3,2,2,216m² ,23 Jun 2022
+"3,650,000 ","135 Dawson Street,",COOKS HILL NSW 2300,Terrace,5,3,2,462m² ,2022
+"3,650,000 ","135 Dawson Street,",COOKS HILL NSW 2300,Terrace,5,3,2,462m² ,2022
+"1,050,000 ","38 Ingall Street,",MAYFIELD NSW 2304,House,3,1,1,575m² ,2022
+"890,000 ","5 Belgrave Street,",MAYFIELD WEST NSW 2304,House,3,2,2,502m² ,2022
+"798,672","53 Margaret Street,",MAYFIELD EAST NSW 2304,House,2,1,2,505m² ,20 Jun 2022
+"947,000 ","13 & 15 Gorrick Street,",MAYFIELD EAST NSW 2304,House,2,2,2,500m² ,2022
+"1,800,000","11 Scott Street,",NEWCASTLE EAST NSW 2300,House,3,2,−,151m² ,7 Jun 2022
+"801,000 ","114 Woodstock Street,",MAYFIELD NSW 2304,House,3,1,1,413m² ,16 Jun 2022
+"900,000","29 Crebert Street,",MAYFIELD EAST NSW 2304,House,3,2,2,394m² ,14 Jun 2022
+"910,000 ","4 Henry Street,",TIGHES HILL NSW 2297,House,2,1,1,436m² ,2022
+"907,000","36 George Street,",MAYFIELD EAST NSW 2304,House,3,3,2,469m² ,10 Jun 2022
+"907,000","36 George Street,",MAYFIELD EAST NSW 2304,House,3,3,2,469m² ,10 Jun 2022
+"1,050,000","137A Douglas Street,",STOCKTON NSW 2295,House,3,1,2,506m² ,10 Jun 2022
+"1,360,000 ","42 Robert Street,",WICKHAM NSW 2293,House,2,2,2,202m² ,2022
+"1,020,000 ","11 Antill Street,",MAYFIELD NSW 2304,House,3,1,2,371m² ,2022
+"1,100,000","44 Douglas Street,",STOCKTON NSW 2295,House,3,1,2,506m² ,08 Jun 2022
+"1,295,000 ","4 Boatmens Way,",WICKHAM NSW 2293,House,3,2,2,201m² ,08 Jun 2022
+"830,000 ","16 Bourke Street,",CARRINGTON NSW 2294,House,2,1,−,164m² ,2022
+"1,200,000","61 Hereford Street,",STOCKTON NSW 2295,House,4,2,2,510m² ,06 Jun 2022
+"950,000","52 Nile Street,",MAYFIELD NSW 2304,House,5,2,1,304m² ,03 Jun 2022
+"850,000 ","6 John Street,",MAYFIELD NSW 2304,House,3,2,2,538m² ,03 Jun 2022
+"1,400,000 ","15 Telford Street,",NEWCASTLE EAST NSW 2300,House,3,2,1,99m² ,03 Jun 2022
+"800,000","4 Douglas Street,",STOCKTON NSW 2295,House,2,1,1,298m² ,03 Jun 2022
+"790,000 ","11 Cowie Street,",MAYFIELD NSW 2304,House,2,1,1,468m² ,2 Jun 2022
+"903,000 ",,MAYFIELD NSW 2304,House,3,1,1,369m² ,02 Jun 2022
+"930,000 ","56 Maitland Street,",STOCKTON NSW 2295,House,3,1,1,234m² ,02 Jun 2022
+"925,000 ","8 DIANELLA COURT,",WARABROOK NSW 2304,House,4,2,4,800m² ,01 Jun 2022
+"860,000 ","8 Wickham Street,",WICKHAM NSW 2293,Terrace,2,1,−,174m² ,30 May 2022
+"1,075,000 ","50 Estell Street,",MARYVILLE NSW 2293,House,2,1,−,303m² ,2022
+"860,000","6 William Street,",MAYFIELD NSW 2304,House,3,1,1,490m² ,27 May 2022
+"1,045,000","8 ALBION STREET,",MAYFIELD EAST NSW 2304,House,3,1,1,336m² ,
+"900,000 ","27 George Street,",MAYFIELD EAST NSW 2304,House,2,1,2,355m² ,27 May 2022
+"1,400,000 ","15 Telford Street,",NEWCASTLE EAST NSW 2300,House,3,2,1,99m² ,27 May 2022
+"840,000 ","18a Croydon Street,",MAYFIELD NSW 2304,House,2,1,−,304m² ,26 May 2022
+"735,000 ","11 McIsaac Street,",TIGHES HILL NSW 2297,House,2,1,1,308m² ,26 May 2022
+"832,000 ","19 Carrington Street,",MAYFIELD NSW 2304,House,3,1,2,405m² ,2022
+"1,350,000 ","84 Bull Street,",COOKS HILL NSW 2300,House,2,1,2,117m² ,2022
+"853,500 ","12 Harris Street,",MARYVILLE NSW 2293,House,2,1,−,228m² ,23 May 2022
+"920,000 ","82 Margaret Street,",MAYFIELD EAST NSW 2304,House,3,1,1,391m² ,2022
+"765,000","19 Holt Street,",MAYFIELD EAST NSW 2304,House,2,1,2,204m² ,21 May 2022
+"1,000,000 ","8 Hinkler Street,",MAYFIELD NSW 2304,House,2,1,1,366m² ,20 May 2022
+"800,000","25 Newcastle Street,",STOCKTON NSW 2295,House,2,1,1,266m² ,20 May 2022
+"1,100,000 ","12 Beeston Road,",STOCKTON NSW 2295,House,3,2,2,626m² ,20 May 2022
+"778,500 ","13 Proctor Street,",TIGHES HILL NSW 2297,House,2,1,−,204m² ,20 May 2022
+"1,350,000","2 Annie Street,",WICKHAM NSW 2293,House,3,2,1,177m² ,17 May 2022
+"750,000 ","79 Railway Street,",COOKS HILL NSW 2300,Terrace,4,2,2,140m² ,16 May 2022
+"720,000 ","42 Nelson Street,",MAYFIELD NSW 2304,House,2,1,1,346m² ,16 May 2022
+"785,000 ","91 Woodstock Street,",MAYFIELD NSW 2304,House,3,1,1,414m² ,16 May 2022
+"935,000 ","17 Denison Street,",CARRINGTON NSW 2294,House,2,1,1,252m² ,2022
+"805,000 ","29 Valencia Street,",MAYFIELD NSW 2304,House,3,1,−,402m² ,13 May 2022
+"1,010,000","16 Smith Street,",MAYFIELD EAST NSW 2304,House,3,1,2,381m² ,3 May 2022
+"1,085,000 ","57 Bourke Street,",CARRINGTON NSW 2294,House,3,1,2,335m² ,12 May 2022
+"790,000 ","32 Smith Street,",MAYFIELD EAST NSW 2304,House,2,1,−,225m² ,12 May 2022
+"800,000 ","5 Railway Terrace,",MAYFIELD NSW 2304,House,3,2,1,335m² ,11 May 2022
+"2,200,000 ","14 Anzac Parade,",THE HILL NSW 2300,House,3,1,1,551m² ,10 May 2022
+"925,000 ","2 Darvall Street,",CARRINGTON NSW 2294,House,3,1,2,296m² ,9 May 2022
+"1,250,000 ","56 Laman Street,",COOKS HILL NSW 2300,House,2,1,1,95m² ,2022
+"998,000 ","2B The Avenue,",MARYVILLE NSW 2293,House,2,1,1,290m² ,2022
+"1,030,000 ","5 Bell Street,",MARYVILLE NSW 2293,House,3,1,−,304m² ,06 May 2022
+"1,265,000 ","24 Hunter Street,",STOCKTON NSW 2295,House,2,1,1,316m² ,06 May 2022
+"1,250,000 ","12 Hereford Street,",STOCKTON NSW 2295,House,5,2,1,569m² ,06 May 2022
+"920,000 ","27 Uralla Street,",FERN BAY NSW 2295,House,4,2,2,538m² ,05 May 2022
+"1,160,000 ","26 Northumberland Street,",MARYVILLE NSW 2293,House,3,1,−,304m² ,05 May 2022
+"970,000 ","5 Cadell Avenue,",MAYFIELD NSW 2304,House,3,2,1,589m² ,04 May 2022
+"750,000","2 Greaves Street,",MAYFIELD EAST NSW 2304,House,3,1,−,272m² ,04 May 2022
+"900,000 ","121 Dune Drive,",FERN BAY NSW 2295,House,4,2,2,500m² ,03 May 2022
+"717,000","8 Abel Street,",MAYFIELD NSW 2304,House,2,1,−,304m² ,03 May 2022
+"960,000 ","101 Dune Drive,",FERN BAY NSW 2295,House,4,2,2,502m² ,02 May 2022
+"940,000","3 Water Street,",FERN BAY NSW 2295,House,4,2,3,534m² ,02 May 2022
+"685,000","21 Valencia Street,",MAYFIELD NSW 2304,House,2,1,−,305m² ,02 May 2022
+"920,000 ","73 Woodstock Street,",MAYFIELD NSW 2304,House,4,2,2,428m² ,02 May 2022
+"1,150,000","7 Lomond Street,",STOCKTON NSW 2295,House,3,2,2,567m² ,02 May 2022
+"1,080,000","58B Fullerton Street,",STOCKTON NSW 2295,House,3,1,1,468m² ,02 May 2022
+"1,240,000","5 Roxburgh Street,",STOCKTON NSW 2295,House,4,2,2,379m² ,30 Apr 2022
+"1,750,000 ","97 Margaret Street,",MAYFIELD EAST NSW 2304,House,4,2,1,454m² ,29 Apr 2022
+"881,300 ","16 Thornton Avenue,",MAYFIELD WEST NSW 2304,House,3,2,1,519m² ,29 Apr 2022
+"1,435,000 ","8 Annie Street,",WICKHAM NSW 2293,House,3,2,3,177m² ,2022
+"845,050 ","51 William Street,",MAYFIELD NSW 2304,House,4,3,1,405m² ,28 Apr 2022
+"1,390,000 ","114 Bruce Street,",COOKS HILL NSW 2300,House,3,1,−,235m² ,2022
+"1,540,000 ","69 Laman Street,",COOKS HILL NSW 2300,House,3,2,1,117m² ,26 Apr 2022
+"1,540,000 ","69 Laman Street,",COOKS HILL NSW 2300,House,3,2,1,117m² ,26 Apr 2022
+"1,310,000 ","64 Ingall Street,",MAYFIELD NSW 2304,House,4,3,2,607m² ,2022
+"2,100,000 ","25 Stevenson Place,",NEWCASTLE EAST NSW 2300,Terrace,3,1,−,116m² ,2022
+"2,050,000 ","9 Parry Street,",COOKS HILL NSW 2300,House,3,1,2,369m² ,2022
+"2,050,000 ","9 Parry Street,",COOKS HILL NSW 2300,House,3,1,2,369m² ,2022
+"1,239,000 ","36 Crebert Street,",MAYFIELD NSW 2304,House,4,2,3,561m² ,1 Apr 2022
+"1,085,000 ","83 Havelock Street,",MAYFIELD NSW 2304,House,4,2,4,621m² ,21 Apr 2022
+"750,000 ","9 Cowie Street,",MAYFIELD NSW 2304,House,2,1,2,500m² ,0 Apr 2022
+"1,135,000 ","25 Mitchell Street,",TIGHES HILL NSW 2297,House,3,1,1,253m² ,20 Apr 2022
+"555,000 ","3/246 Maitland Road,",MAYFIELD NSW 2304,House,4,3,−,238m² ,19 Apr 2022
+"915,000 ","8 Dundas Street,",MAYFIELD NSW 2304,House,3,2,2,550m² ,19 Apr 2022
+"885,000","7 Moolcha Street,",MAYFIELD NSW 2304,House,3,1,1,491m² ,19 Apr 2022
+"800,000 ","5 Texas Street,",MAYFIELD NSW 2304,House,3,1,1,480m² ,14 Apr 2022
+"1,400,000","80 Kerr Street,",MAYFIELD NSW 2304,House,4,2,2,842m² ,14 Apr 2022
+"1,275,000 ","48 Elizabeth Street,",TIGHES HILL NSW 2297,House,3,2,1,257m² ,2022
+"6,850,000 ","92 Memorial Drive,",BAR BEACH NSW 2300,House,4,2,4,603m² ,2022
+"1,250,000 ","35 Bourke Street,",CARRINGTON NSW 2294,House,2,1,2,382m² ,2022
+"1,340,000","33 Rosemary Street,",FERN BAY NSW 2295,House,5,3,2,585m² ,13 Apr 2022
+"1,440,000 ","51 Waratah Street,",MAYFIELD NSW 2304,House,4,2,3,465m² ,2022
+"1,350,000 ","9 Elizabeth Street,",TIGHES HILL NSW 2297,House,3,2,2,362m² ,13 Apr 2022
+"900,000","2 Cedrella Crescent,",WARABROOK NSW 2304,House,3,2,2,"1,308m² ",13 Apr 2022
+"1,200,000 ","3 Curtis Street,",MAYFIELD NSW 2304,House,3,2,2,309m² ,1 Apr 2022
+"800,000 ","37 Holt Street,",MAYFIELD EAST NSW 2304,House,2,1,−,204m² ,11 Apr 2022
+"1,750,000 ","38 Margaret Street,",MAYFIELD EAST NSW 2304,House,5,2,9,"1,056m² ",2022
+"800,000 ","15 Corona Street,",MAYFIELD NSW 2304,House,3,1,1,491m² ,2022
+"980,000 ","214 Fullerton Street,",STOCKTON NSW 2295,House,3,1,1,670m² ,2022
+"785,000 ","24 Garrett Street,",CARRINGTON NSW 2294,House,2,1,−,151m² ,08 Apr 2022
+"1,850,000 ","168 Darby Street,",COOKS HILL NSW 2300,House,3,2,2,250m² ,08 Apr 2022
+"815,000 ","14 Clara Street,",MAYFIELD EAST NSW 2304,House,3,1,1,303m² ,2022
+"1,350,000","19 Robert Street,",WICKHAM NSW 2293,House,3,1,1,266m² ,06 Apr 2022
+"1,350,000 ","10 Sheoak Street,",FERN BAY NSW 2295,House,4,3,2,691m² ,04 Apr 2022
+"1,095,000 ","57 Fawcett Street,",MAYFIELD NSW 2304,House,3,1,1,304m² ,2022
+"675,000 ","23 Olearia Crescent,",WARABROOK NSW 2304,House,3,1,1,395m² ,2022
+"870,000 ","11 Victoria Street,",CARRINGTON NSW 2294,House,3,1,−,201m² ,2022
+"2,900,000","124 Corlette Street,",COOKS HILL NSW 2300,House,4,3,2,281m² ,01 Apr 2022
+"850,000",,FERN BAY NSW 2295,House,4,2,2,603m² ,01 Apr 2022
+"1,625,000 ","39 Estell Street,",MARYVILLE NSW 2293,House,4,2,2,304m² ,1 Apr 2022
+"765,000 ","33 Denison Street,",MAYFIELD NSW 2304,House,3,1,1,510m² ,01 Apr 2022
+"990,000 ","38 Nevill Street,",MAYFIELD NSW 2304,House,4,2,2,392m² ,01 Apr 2022
+"845,000 ","30 Fleming Street,",WICKHAM NSW 2293,House,3,1,−,235m² ,01 Apr 2022
+"1,040,000 ","10 Cross Street,",MAYFIELD NSW 2304,House,3,2,1,461m² ,2022
+"1,100,000 ","54 Fitzroy Street,",MAYFIELD NSW 2304,House,3,1,2,505m² ,2022
+"1,150,000 ","1 Coal Street,",STOCKTON NSW 2295,House,3,2,2,348m² ,28 Mar 2022
+"625,000 ","58 Fitzroy St,",MAYFIELD NSW 2304,House,3,2,−,204m² ,2022
+"800,000","23 Pembroke Street,",STOCKTON NSW 2295,House,2,1,2,300m² ,25 Mar 2022
+"1,000,000 ","92 Scobies Lane,",STOCKTON NSW 2295,House,3,1,1,278m² ,25 Mar 2022
+"3,800,000","4 High Street,",THE HILL NSW 2300,House,5,4,1,918m² ,25 Mar 2022
+"1,350,000 ","83 Mitchell Street,",STOCKTON NSW 2295,House,4,2,2,375m² ,24 Mar 2022
+"1,100,000 ","18 Dianella Court,",WARABROOK NSW 2304,House,3,3,4,866m² ,24 Mar 2022
+"1,065,000 ","59 Angophora Drive,",WARABROOK NSW 2304,House,4,3,4,785m² ,23 Mar 2022
+"1,605,000 ","110 Bull Street,",COOKS HILL NSW 2300,House,3,2,−,132m² ,2022
+"1,605,000 ","110 Bull Street,",COOKS HILL NSW 2300,House,3,2,−,132m² ,2022
+"805,000 ","14 Downie Street,",MARYVILLE NSW 2293,House,2,1,1,240m² ,2022
+"680,000 ","263 Maitland Road,",MAYFIELD NSW 2304,House,2,2,2,322m² ,18 Mar 2022
+"710,000 ","2 Bull Street,",MAYFIELD NSW 2304,House,3,1,−,261m² ,17 Mar 2022
+"3,850,000 ","77 Wolfe Street,",THE HILL NSW 2300,House,4,2,2,227m² ,2022
+"1,140,000 ","79 Norfolk Street,",FERN BAY NSW 2295,House,4,2,2,520m² ,16 Mar 2022
+"810,000 ","40 George Street,",MAYFIELD EAST NSW 2304,House,2,1,2,367m² ,16 Mar 2022
+"752,500","35 Maud Street,",MAYFIELD WEST NSW 2304,House,3,2,2,446m² ,16 Mar 2022
+"749,990 ","16 Nelson Street,",MAYFIELD NSW 2304,House,3,2,1,367m² ,15 Mar 2022
+"720,000 ","64 Kerr Street,",MAYFIELD NSW 2304,House,2,1,2,382m² ,2022
+"3,200,000","94 Tooke Street,",COOKS HILL NSW 2300,House,4,2,2,539m² ,1 Mar 2022
+"1,590,000 ","42 Havelock Street,",MAYFIELD NSW 2304,House,4,2,2,605m² ,2022
+"930,000 ","23 Sandcastle Street,",FERN BAY NSW 2295,House,4,2,2,512m² ,10 Mar 2022
+"1,530,000 ","50 Elizabeth Street,",TIGHES HILL NSW 2297,House,3,2,2,285m² ,9 Mar 2022
+"830,000 ","4 Ingall Street,",MAYFIELD NSW 2304,House,3,1,−,506m² ,08 Mar 2022
+"825,000 ","11 Hogue Street,",MARYVILLE NSW 2293,House,3,1,−,230m² ,07 Mar 2022
+"3,750,000 ","87 Wolfe Street,",THE HILL NSW 2300,House,5,2,2,250m² ,2022
+"920,000 ","103 Lewis Street,",MARYVILLE NSW 2293,House,3,1,−,303m² ,04 Mar 2022
+"945,000 ","67 Braye Street,",MAYFIELD NSW 2304,House,3,1,2,402m² ,04 Mar 2022
+"1,400,000 ","30 Alfred Street,",NEWCASTLE EAST NSW 2300,Terrace,2,1,−,76m² ,4 Mar 2022
+"785,000 ","1 Texas Street,",MAYFIELD NSW 2304,House,3,1,−,245m² ,03 Mar 2022
+"1,090,000 ","44 Dora Street,",MAYFIELD NSW 2304,House,2,1,2,386m² ,3 Mar 2022
+"850,000 ","50 Dora Street,",MAYFIELD NSW 2304,House,3,1,1,378m² ,3 Mar 2022
+"775,000 ","80 Sunderland Street,",MAYFIELD NSW 2304,House,3,2,1,394m² ,28 Feb 2022
+"925,000 ","8 Henson Avenue,",MAYFIELD EAST NSW 2304,House,4,1,2,400m² ,2022
+"1,500,000 ","41 Parry Street,",COOKS HILL NSW 2300,House,3,2,1,240m² ,2022
+"840,000 ","11 Baker Street,",MAYFIELD NSW 2304,House,3,1,1,366m² ,2022
+"815,000 ","38 Greaves Street,",MAYFIELD EAST NSW 2304,House,3,1,−,271m² ,2022
+"1,410,000 ","11 Nickson Street,",BAR BEACH NSW 2300,House,3,1,3,676m² ,25 Feb 2022
+"1,350,000 ","13 Paperbark Court,",FERN BAY NSW 2295,House,4,3,2,"1,063m² ",25 Feb 2022
+"1,275,000 ","77 Crebert Street,",MAYFIELD NSW 2304,House,3,2,4,519m² ,5 Feb 2022
+"790,000 ","152 Fullerton Street,",STOCKTON NSW 2295,House,4,3,2,291m² ,25 Feb 2022
+"1,475,000 ","213 Dunbar Street,",STOCKTON NSW 2295,House,4,3,2,506m² ,2022
+"6,000,000","18 Parkway Avenue,",BAR BEACH NSW 2300,House,5,3,2,695m² ,3 Feb 2022
+"770,000","21 William Street,",STOCKTON NSW 2295,House,2,1,−,373m² ,23 Feb 2022
+"1,100,000 ","58 Union Street,",TIGHES HILL NSW 2297,House,3,2,3,259m² ,23 Feb 2022
+"930,000 ","7 Angophora Drive,",WARABROOK NSW 2304,House,5,2,2,842m² ,23 Feb 2022
+"950,000","9 Kitchener Parade,",MAYFIELD EAST NSW 2304,House,4,1,2,613m² ,22 Feb 2022
+"1,110,000 ","130 Dunbar Street,",STOCKTON NSW 2295,House,3,2,3,405m² ,21 Feb 2022
+"692,500 ","25 Tarin Street,",MAYFIELD EAST NSW 2304,House,2,1,1,258m² ,18 Feb 2022
+"2,600,000","13 Barrie Crescent,",STOCKTON NSW 2295,House,5,3,2,667m² ,18 Feb 2022
+"800,000 ","7 Taylor Road,",FERN BAY NSW 2295,House,3,2,2,540m² ,17 Feb 2022
+"1,050,000","13 Victoria Street,",CARRINGTON NSW 2294,House,5,2,1,316m² ,16 Feb 2022
+"940,000 ","51 Mounter Street,",MAYFIELD EAST NSW 2304,House,2,1,1,347m² ,2022
+"1,050,000 ","14 Roxburgh Street,",STOCKTON NSW 2295,House,3,1,3,479m² ,15 Feb 2022
+"2,500,000","227 Mitchell Street,",STOCKTON NSW 2295,House,4,2,2,506m² ,15 Feb 2022
+"1,310,000 ","27 Foxtail Street,",FERN BAY NSW 2295,House,4,3,2,538m² ,14 Feb 2022
+"1,010,000","44 Estell Street,",MARYVILLE NSW 2293,House,3,1,−,303m² ,2022
+"1,230,000 ","21 Barton Street,",MAYFIELD NSW 2304,House,5,2,3,610m² ,2022
+"940,000 ","73 Fleming Street,",WICKHAM NSW 2293,House,3,1,1,202m² ,11 Feb 2022
+"1,050,000","118 Norfolk Street,",FERN BAY NSW 2295,House,4,2,2,558m² ,10 Feb 2022
+"1,240,000 ","72 - 74 Bishopsgate Street,",WICKHAM NSW 2293,House,2,1,3,373m² ,2022
+"1,040,000","10 Council Street,",COOKS HILL NSW 2300,Terrace,2,1,−,96m² ,09 Feb 2022
+"1,100,000 ","14 Vardon Road,",FERN BAY NSW 2295,House,3,2,2,"1,152m² ",09 Feb 2022
+"770,000 ","21 Waratah Street,",MAYFIELD NSW 2304,House,2,1,1,332m² ,09 Feb 2022
+"875,000 ","58 Rodgers Street,",CARRINGTON NSW 2294,House,4,2,−,202m² ,08 Feb 2022
+"840,000",,FERN BAY NSW 2295,House,4,2,2,561m² ,08 Feb 2022
+"1,020,000 ","77 Elizabeth Street,",MAYFIELD NSW 2304,House,3,1,2,550m² ,2022
+"855,000 ","24 Apple Street,",FERN BAY NSW 2295,House,4,2,2,520m² ,07 Feb 2022
+"1,100,000","69 Estell Street,",MARYVILLE NSW 2293,House,3,1,−,304m² ,07 Feb 2022

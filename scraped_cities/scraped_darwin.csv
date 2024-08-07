@@ -1,0 +1,534 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"2,060,000 ","3/78 Esplanade,",DARWIN CITY NT 0800,House,3,2,4,848m² ,2022
+"450,000 ","6607/7 Anchorage Court,",DARWIN CITY NT 0800,House,1,1,1,81m² ,29 Jul 2022
+"526,000 ","29/8 Knuckey Street,",DARWIN CITY NT 0800,House,3,2,1,209m² ,05 Jul 2022
+"758,000","6605/7 Anchorage Court,",DARWIN CITY NT 0800,House,2,2,2,103m² ,24 Nov 2021
+"1,200,000 ","20 Charlotte Street,",PARAP NT 0820,House,5,2,2,758m² ,15 Apr 2024
+"837,000 ","23 Graham Street,",STUART PARK NT 0820,House,3,2,4,"1,140m² ",5 Apr 2024
+"1,075,000 ","48 Charles Street,",STUART PARK NT 0820,House,4,2,2,"1,210m² ",2024
+"805,000 ","5 Nudl St,",STUART PARK NT 0820,House,4,3,4,984m² ,27 Mar 2024
+"1,825,000","7 Knight Street,",FANNIE BAY NT 0820,House,5,3,4,"1,160m² ",20 Mar 2024
+"1,330,000 ","8 Wells Street,",PARAP NT 0820,House,3,3,3,861m² ,20 Mar 2024
+"1,035,000 ","11 Temira Crescent,",LARRAKEYAH NT 0820,House,3,1,3,"1,050m² ",19 Mar 2024
+"745,000","22 Gothenburg Crescent,",STUART PARK NT 0820,House,4,2,5,935m² ,15 Mar 2024
+"1,255,000 ","52 Charles Street,",STUART PARK NT 0820,House,5,3,6,966m² ,2024
+"998,000 ","11 Marella Street,",LARRAKEYAH NT 0820,House,3,1,4,"1,115m² ",2024
+"830,000 ","2 May Street,",LUDMILLA NT 0820,House,3,2,3,779m² ,19 Feb 2024
+"700,000 ","52 Eden Street,",STUART PARK NT 0820,House,3,2,2,"1,100m² ",19 Feb 2024
+"615,000 ","2/13 Winston Avenue,",STUART PARK NT 0820,House,3,2,2,347m² ,16 Feb 2024
+"570,000 ","66 Hudson Fysh Avenue,",LUDMILLA NT 0820,House,4,1,2,780m² ,15 Feb 2024
+"680,000 ","6 Nelson Street,",STUART PARK NT 0820,House,4,2,4,800m² ,2024
+"740,000 ","7 Helpman Street,",STUART PARK NT 0820,House,4,2,2,923m² ,2 Jan 2024
+"1,205,000","2 Hinkler Crescent,",FANNIE BAY NT 0820,House,4,3,3,"1,020m² ",17 Jan 2024
+"570,000 ","11 Attawomba Court,",LUDMILLA NT 0820,House,3,1,4,766m² ,12 Jan 2024
+"960,000","10 Daniels Street,",LUDMILLA NT 0820,House,5,3,4,766m² ,9 Dec 2023
+"800,000 ","2 Margaret Court,",STUART PARK NT 0820,House,5,2,2,920m² ,27 Nov 2023
+"1,240,000 ","65 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,4,3,3,"1,020m² ",17 Nov 2023
+"820,000 ","53 Ruddick Circuit,",STUART PARK NT 0820,House,4,2,2,576m² ,09 Nov 2023
+"1,690,000 ","36 Ross Smith Avenue,",PARAP NT 0820,House,5,3,6,"1,110m² ",03 Nov 2023
+"800,000 ","27 Conigrave Street,",FANNIE BAY NT 0820,House,5,2,5,"1,110m² ",26 Oct 2023
+"1,750,000 ","18 Giles Street,",FANNIE BAY NT 0820,House,5,3,4,"1,050m² ",1 Oct 2023
+"1,400,000 ","4/34 George Crescent,",FANNIE BAY NT 0820,House,4,3,2,275m² ,2023
+"1,560,000 ","8 Macartney Street,",FANNIE BAY NT 0820,House,4,3,3,"1,160m² ",17 Oct 2023
+"930,000","54 Gregory Street,",PARAP NT 0820,House,5,2,2,"1,100m² ",2023
+"801,500 ","73 Hudson Fysh Avenue,",LUDMILLA NT 0820,House,4,2,2,"1,000m² ",14 Oct 2023
+"730,000 ","2 Broadbent Street,",PARAP NT 0820,House,3,2,2,512m² ,05 Oct 2023
+"1,850,000","39 Ruddick Circuit,",STUART PARK NT 0820,House,5,3,4,535m² ,05 Oct 2023
+"2,250,000 ","7 Paspaley Place,",CULLEN BAY NT 0820,House,4,3,2,872m² ,04 Oct 2023
+"662,500","3 Mackillop Street,",PARAP NT 0820,House,4,1,1,927m² ,29 Sep 2023
+"718,000 ","29 Bermingham Crescent,",BAYVIEW NT 0820,House,4,1,2,804m² ,27 Sep 2023
+"910,000 ","17 Henry Street,",STUART PARK NT 0820,House,4,3,6,"1,110m² ",26 Sep 2023
+"1,270,000 ","37 Bayview Boulevard,",BAYVIEW NT 0820,House,4,2,2,996m² ,19 Sep 2023
+"930,000 ","54 Gregory Street,",PARAP NT 0820,House,5,3,2,"1,100m² ",2023
+"1,236,671 ","9 Notley Place,",PARAP NT 0820,House,4,2,2,838m² ,02 Sep 2023
+"768,000 ","1/10 Annear Court,",STUART PARK NT 0820,House,3,2,2,517m² ,2023
+"620,000 ","32 Nemarluk Drive,",LUDMILLA NT 0820,House,3,1,3,788m² ,29 Aug 2023
+"1,000,000 ","9 Stokes Street,",PARAP NT 0820,House,5,2,3,"1,100m² ",28 Aug 2023
+"775,000","28 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,471m² ,25 Aug 2023
+"517,500 ","13 Fitzer Drive,",LUDMILLA NT 0820,House,5,2,6,817m² ,22 Aug 2023
+"409,000 ","52 Wells Street,",LUDMILLA NT 0820,House,3,1,2,"1,000m² ",18 Aug 2023
+"698,000 ","21 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,450m² ,14 Aug 2023
+"690,000 ","2 Dolphin Court,",PARAP NT 0820,House,3,2,2,495m² ,11 Aug 2023
+"1,777,000 ","4 Giles Street,",FANNIE BAY NT 0820,House,5,2,4,"1,330m² ",2023
+"945,000","25 Cullen Bay Crescent,",LARRAKEYAH NT 0820,House,3,2,2,615m² ,27 Jul 2023
+"1,200,000","14 Fanning Dr,",BAYVIEW NT 0820,House,5,3,2,828m² ,19 Jul 2023
+"610,000 ","12 Mawalan Court,",LUDMILLA NT 0820,House,3,1,2,766m² ,08 Jul 2023
+"317,500 ","5/13 Coronation Drive,",STUART PARK NT 0820,House,3,1,1,120m² ,07 Jul 2023
+"1,070,000","20 Ruddick Circuit,",STUART PARK NT 0820,House,4,3,2,452m² ,26 Jun 2023
+"1,100,000 ","23 Cullen Bay Crescent,",LARRAKEYAH NT 0820,House,4,3,4,612m² ,14 Jun 2023
+"940,000 ","6 Latrobe Street,",BAYVIEW NT 0820,House,4,2,2,651m² ,07 Jun 2023
+"1,415,000 ","51 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,4,3,2,777m² ,02 Jun 2023
+"790,000 ","74 May Street,",PARAP NT 0820,House,3,2,2,502m² ,01 Jun 2023
+"980,000 ","6 McKinlay Street,",FANNIE BAY NT 0820,House,3,1,2,"1,206m² ",24 May 2023
+"1,300,000","4 Morice Court,",LARRAKEYAH NT 0820,House,4,2,3,794m² ,22 May 2023
+"1,330,000 ","20 Packard Street,",LARRAKEYAH NT 0820,House,4,3,2,"1,020m² ",12 May 2023
+"1,200,000 ","2 Sleigh Place,",STUART PARK NT 0820,House,4,3,2,563m² ,12 May 2023
+"1,400,000 ","33 Ruddick Cct,",STUART PARK NT 0820,House,5,5,2,582m² ,11 May 2023
+"1,201,588 ","24 Wells Street,",LUDMILLA NT 0820,House,4,2,2,961m² ,10 May 2023
+"700,000 ","3 Luxton Street,",STUART PARK NT 0820,House,3,1,2,"1,330m² ",9 May 2023
+"935,000","1 Hingston Street,",PARAP NT 0820,House,4,2,2,689m² ,2023
+"965,000 ","47 Stoddart Drive,",BAYVIEW NT 0820,House,4,2,5,800m² ,24 Apr 2023
+"750,000 ","20 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,457m² ,24 Apr 2023
+"690,000 ","3 Margaret Court,",STUART PARK NT 0820,House,3,1,4,"1,150m² ",18 Apr 2023
+"729,000 ","1 Ashley Street,",STUART PARK NT 0820,House,3,2,3,833m² ,15 Apr 2023
+"725,000 ","72 May Street,",PARAP NT 0820,House,3,2,2,502m² ,14 Apr 2023
+"1,290,000 ","19 Verburg Court,",STUART PARK NT 0820,House,5,2,2,966m² ,14 Apr 2023
+"980,000 ","6 Dew Place,",BAYVIEW NT 0820,House,4,2,2,963m² ,11 Apr 2023
+"875,000 ","6 Bul Bul Court,",LUDMILLA NT 0820,House,4,2,3,871m² ,04 Apr 2023
+"850,000","3 Ruddick Circuit,",STUART PARK NT 0820,House,4,2,3,522m² ,03 Apr 2023
+"1,900,000 ","9 Macartney Street,",FANNIE BAY NT 0820,House,5,3,4,"1,160m² ",6 Mar 2023
+"1,900,000","11 Allen Street,",FANNIE BAY NT 0820,House,5,4,2,"1,220m² ",17 Mar 2023
+"1,740,000","20 Duke Street,",STUART PARK NT 0820,House,5,4,2,453m² ,2023
+"780,000 ","2 Packard Street,",LARRAKEYAH NT 0820,House,4,2,4,881m² ,2023
+"612,000 ","14 Cardo Court,",LUDMILLA NT 0820,House,3,2,2,872m² ,24 Feb 2023
+"780,000 ","43 Wilmot Street,",THE NARROWS NT 0820,House,5,3,4,905m² ,18 Feb 2023
+"985,000 ","10 Daniels Street,",LUDMILLA NT 0820,House,5,3,4,766m² ,13 Feb 2023
+"2,950,000","100 East Point Road,",FANNIE BAY NT 0820,House,4,3,−,"1,260m² ",31 Jan 2023
+"2,200,000 ","7 Marella Street,",LARRAKEYAH NT 0820,House,6,4,4,"1,110m² ",24 Jan 2023
+"979,000","22 Ruddick Circuit,",STUART PARK NT 0820,House,5,3,2,452m² ,24 Jan 2023
+"830,000 ","15 Wells Street,",LUDMILLA NT 0820,House,5,2,2,"1,011m² ",13 Jan 2023
+"825,000 ","7 Maranungu Street,",LUDMILLA NT 0820,House,3,2,3,843m² ,11 Jan 2023
+"575,000 ","1/6 Stoddart Drive,",BAYVIEW NT 0820,House,3,2,2,301m² ,03 Jan 2023
+"730,000 ","4 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,532m² ,21 Dec 2022
+"1,240,000 ","3/34 George Crescent,",FANNIE BAY NT 0820,House,4,3,2,275m² ,15 Dec 2022
+"1,850,000","3 Melville Street,",THE GARDENS NT 0820,House,4,2,4,"1,780m² ",13 Dec 2022
+"870,000 ","28 May Street,",PARAP NT 0820,House,4,2,2,652m² ,09 Dec 2022
+"1,000,000 ","22 Urquhart Street,",PARAP NT 0820,House,4,2,4,891m² ,08 Dec 2022
+"13,200,000 ","4 Zealandia Crescent,",LARRAKEYAH NT 0820,House,6,5,6,"1,110m² ",07 Dec 2022
+"980,000 ","11 Wonggu Court,",LUDMILLA NT 0820,House,5,3,5,872m² ,09 Nov 2022
+"1,750,000 ","26 Eden Street,",STUART PARK NT 0820,House,12,6,12,"1,030m² ",2022
+"2,250,000","2 Leichhardt Crescent,",FANNIE BAY NT 0820,House,5,6,4,"1,210m² ",03 Nov 2022
+"823,000 ","1 Kent Court,",STUART PARK NT 0820,House,8,5,2,"1,390m² ",02 Nov 2022
+"855,000 ","9 Douglas Street,",PARAP NT 0820,House,4,2,4,"1,350m² ",31 Oct 2022
+"1,000,000 ","6 Bleeser Street,",FANNIE BAY NT 0820,House,5,2,4,"1,050m² ",28 Oct 2022
+"845,000 ","18 Bermingham Crescent,",BAYVIEW NT 0820,House,4,1,3,840m² ,26 Oct 2022
+"875,000 ","12 Doctors Gully Road,",LARRAKEYAH NT 0820,House,3,2,2,728m² ,2022
+"851,000 ","5 Winston Ave,",STUART PARK NT 0820,House,4,2,1,"1,390m² ",14 Oct 2022
+"800,000 ","25 Henry Street,",STUART PARK NT 0820,House,4,2,4,"1,110m² ",12 Oct 2022
+"1,180,000 ","53 Flinders Drive,",STUART PARK NT 0820,House,4,3,5,"1,350m² ",10 Oct 2022
+"780,000 ","48 Wells Street,",LUDMILLA NT 0820,House,3,1,−,"1,000m² ",06 Oct 2022
+"780,000 ","2 May Street,",LUDMILLA NT 0820,House,3,2,3,779m² ,2022
+"850,000 ","24 Gothenburg Crescent,",STUART PARK NT 0820,House,4,2,2,796m² ,20 Sep 2022
+"960,000 ","32 Bermingham Crescent,",BAYVIEW NT 0820,House,4,2,2,818m² ,19 Sep 2022
+"2,150,000 ","7 Temira Crescent,",LARRAKEYAH NT 0820,House,4,3,4,"1,110m² ",09 Sep 2022
+"700,000","7 Mary Street,",STUART PARK NT 0820,House,4,2,3,"1,000m² ",01 Sep 2022
+"970,000 ","13 Wickham Street,",LUDMILLA NT 0820,House,4,3,2,952m² ,29 Aug 2022
+"1,050,000 ","5 Basedow Court,",FANNIE BAY NT 0820,House,4,3,2,"1,120m² ",19 Aug 2022
+"455,000","13/7 St John Court,",THE GARDENS NT 0820,Villa,2,2,2,206m² ,19 Aug 2022
+"1,275,000 ","13 Notley Place,",PARAP NT 0820,House,4,3,2,807m² ,17 Aug 2022
+"578,250 ","13 Cardo Court,",LUDMILLA NT 0820,House,3,2,2,786m² ,11 Aug 2022
+"425,000 ","6/5 Mangola Court,",LARRAKEYAH NT 0820,House,3,2,2,186m² ,26 Jul 2022
+"1,500,000 ","30 Packard Street,",LARRAKEYAH NT 0820,House,4,4,2,930m² ,25 Jul 2022
+"960,000 ","34 Stoddart Dr,",BAYVIEW NT 0820,House,4,2,4,804m² ,19 Jul 2022
+"412,500","11/11 Geranium Street,",THE GARDENS NT 0820,Villa,2,1,1,235m² ,19 Jul 2022
+"1,125,000 ","3 Gilbert Street,",LUDMILLA NT 0820,House,3,2,3,"1,120m² ",14 Jul 2022
+"790,000 ","6 Laurie Street,",STUART PARK NT 0820,House,4,2,4,"1,150m² ",08 Jul 2022
+"726,000 ","34 Ross Smith Avenue,",PARAP NT 0820,House,4,2,2,"1,100m² ",2022
+"720,000 ","22 Gothenburg Crescent,",STUART PARK NT 0820,House,4,2,4,926m² ,07 Jul 2022
+"925,000 ","2 Gregory Street,",FANNIE BAY NT 0820,House,4,2,2,"1,160m² ",05 Jul 2022
+"1,500,000 ","3 Conigrave Street,",FANNIE BAY NT 0820,House,4,2,3,"1,240m² ",2022
+"432,500 ","3/35 Coronation Drive,",STUART PARK NT 0820,Villa,2,1,1,285m² ,05 Jul 2022
+"480,000","103 Bagot Road,",LUDMILLA NT 0820,House,3,1,2,870m² ,04 Jul 2022
+"900,000 ","10 Crush Street,",FANNIE BAY NT 0820,House,3,2,2,"1,120m² ",30 Jun 2022
+"625,000 ","66 Hudson Fysh Avenue,",LUDMILLA NT 0820,House,4,1,2,780m² ,30 Jun 2022
+"795,000 ","58 May St,",PARAP NT 0820,House,3,2,2,586m² ,26 Jun 2022
+"660,000 ","1 Maranungu Street,",LUDMILLA NT 0820,House,4,2,2,864m² ,24 Jun 2022
+"847,000","1 Trochus Crescent,",WOOLNER NT 0820,House,4,2,4,532m² ,17 Jun 2022
+"825,000 ","10 Mosec Street,",LUDMILLA NT 0820,House,4,2,2,870m² ,06 Jun 2022
+"778,000 ","57 Narrows Road,",THE NARROWS NT 0820,House,5,2,4,"1,200m² ",6 Jun 2022
+"860,000 ","1 Leichhardt Crescent,",FANNIE BAY NT 0820,House,3,1,3,"1,190m² ",30 May 2022
+"1,720,000 ","6 Wells Street,",PARAP NT 0820,House,7,4,3,993m² ,27 May 2022
+"1,350,000 ","23 Gunbar Street,",BAYVIEW NT 0820,House,5,3,2,804m² ,20 May 2022
+"872,000 ","36 Fanning Drive,",BAYVIEW NT 0820,House,3,2,2,700m² ,19 May 2022
+"948,000 ","14 Porter Street,",LUDMILLA NT 0820,House,5,3,4,762m² ,18 May 2022
+"840,000 ","4 Meigs Crescent,",STUART PARK NT 0820,House,4,2,3,"1,440m² ",13 May 2022
+"1,760,000 ","2 Kellaway Street,",FANNIE BAY NT 0820,House,5,3,4,"1,190m² ",03 May 2022
+"380,000","1/5 May Street,",LUDMILLA NT 0820,House,2,1,2,249m² ,03 May 2022
+"805,000 ","10 Villaflor Crescent,",WOOLNER NT 0820,House,4,2,2,449m² ,2022
+"1,285,000 ","11 Douglas Street,",PARAP NT 0820,House,4,2,4,"1,110m² ",13 Apr 2022
+"830,000 ","39 Stoddart Drive,",BAYVIEW NT 0820,House,4,3,2,801m² ,12 Apr 2022
+"765,000 ","23 Ross Smith Avenue,",PARAP NT 0820,House,3,2,2,787m² ,08 Apr 2022
+"775,000","16 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,505m² ,08 Apr 2022
+"1,120,000 ","2 Inverell Court,",BAYVIEW NT 0820,House,4,3,2,646m² ,22 Mar 2022
+"885,000 ","20 Ashley Street,",STUART PARK NT 0820,House,4,2,2,"1,270m² ",22 Mar 2022
+"400,000 ","5 Wonggu Court,",LUDMILLA NT 0820,House,6,2,2,969m² ,2022
+"575,000 ","22 Mosec Street,",LUDMILLA NT 0820,House,4,2,4,870m² ,17 Mar 2022
+"1,285,000 ","11 Douglas Street,",PARAP NT 0820,House,4,2,4,"1,110m² ",14 Mar 2022
+"500,000 ","32 Harney Street,",LUDMILLA NT 0820,House,3,1,2,797m² ,11 Mar 2022
+"850,000 ","5 Douglas Street,",PARAP NT 0820,House,3,1,4,"1,460m² ",03 Mar 2022
+"1,830,000","14 Temira Crescent,",LARRAKEYAH NT 0820,House,4,2,3,806m² ,25 Feb 2022
+"640,000 ","1 Attawomba Court,",LUDMILLA NT 0820,House,3,2,4,794m² ,25 Feb 2022
+"768,000 ","11 Broadbent Street,",PARAP NT 0820,House,5,3,2,691m² ,23 Feb 2022
+"1,250,000 ","20 Bayview Boulevarde,",BAYVIEW NT 0820,House,5,3,2,636m² ,21 Feb 2022
+"731,000 ","6 Trochus Crescent,",WOOLNER NT 0820,House,4,2,2,583m² ,2022
+"1,250,000","8 Parsons Street,",FANNIE BAY NT 0820,House,4,2,4,"1,280m² ",10 Feb 2022
+"824,000 ","19 Bul Bul Court,",LUDMILLA NT 0820,House,4,1,2,961m² ,10 Feb 2022
+"901,000 ","46 Eden Street,",STUART PARK NT 0820,House,4,3,3,"1,088m² ",10 Feb 2022
+"750,000 ","3 May Street,",LUDMILLA NT 0820,House,4,2,4,802m² ,27 Jan 2022
+"1,581,500 ","5 Knight Street,",FANNIE BAY NT 0820,House,5,4,2,"1,160m² ",24 Jan 2022
+"600,000 ","6 Guy Court,",STUART PARK NT 0820,House,3,1,2,"1,000m² ",21 Jan 2022
+"775,000 ","2 Gordon Street,",PARAP NT 0820,House,7,3,2,881m² ,2022
+"1,620,000 ","7 Hinkler Crescent,",FANNIE BAY NT 0820,House,5,2,2,"1,190m² ",12 Jan 2022
+"530,000 ","42 Nemarluk Drive,",LUDMILLA NT 0820,House,3,1,2,787m² ,11 Jan 2022
+"1,200,000 ","67 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,5,5,3,948m² ,09 Jan 2022
+"900,000 ","21 Gothenburg Crescent,",STUART PARK NT 0820,House,5,2,3,938m² ,07 Jan 2022
+"930,000 ","13 & 15 Maranungu Street,",LUDMILLA NT 0820,House,4,1,8,"1,799m² ",23 Dec 2021
+"1,500,000","38 East Point Road,",FANNIE BAY NT 0820,House,5,3,8,"1,150m² ",14 Dec 2021
+"350,000 ","2/9 Fleming Street,",THE NARROWS NT 0820,Villa,2,1,2,194m² ,10 Dec 2021
+"600,000 ","5 Hazelbane Place,",WOOLNER NT 0820,House,3,2,2,400m² ,09 Dec 2021
+"830,000 ","21 Drysdale Street,",PARAP NT 0820,House,4,2,4,956m² ,2021
+"955,000 ","2 Macdonald Street,",PARAP NT 0820,House,4,2,4,"1,250m² ",08 Dec 2021
+"830,000 ","6 Inverell Court,",BAYVIEW NT 0820,House,3,2,2,990m² ,06 Dec 2021
+"1,465,000 ","7 Goldsmith Street,",FANNIE BAY NT 0820,House,5,2,5,"1,050m² ",03 Dec 2021
+"520,000","7 Malabar Street,",LARRAKEYAH NT 0820,House,2,1,4,968m² ,01 Dec 2021
+"640,000","8 Armidale Street,",STUART PARK NT 0820,House,3,1,6,"1,410m² ",26 Nov 2021
+"1,655,655 ","10 Parsons Street,",FANNIE BAY NT 0820,House,5,3,2,"1,360m² ",24 Nov 2021
+"435,000 ","203/2 Elsey Street,",PARAP NT 0820,House,2,2,2,125m² ,19 Nov 2021
+"840,000","4 Camilla Place,",PARAP NT 0820,House,4,2,2,748m² ,18 Nov 2021
+"650,000 ","45 Charles Street,",STUART PARK NT 0820,House,3,1,6,"1,112m² ",17 Nov 2021
+"970,000 ","29 Wells Street,",LUDMILLA NT 0820,House,5,3,4,"1,180m² ",11 Nov 2021
+"790,000 ","3 Coorong Court,",STUART PARK NT 0820,House,3,2,3,"1,060m² ",2021
+"1,510,000 ","36 O'Ferrals Road,",BAYVIEW NT 0820,House,5,4,2,"1,010m² ",10 Nov 2021
+"960,000 ","36 Douglas Street,",LUDMILLA NT 0820,House,4,3,2,"1,000m² ",10 Nov 2021
+"860,000 ","4 Seale Street,",FANNIE BAY NT 0820,House,4,2,2,887m² ,08 Nov 2021
+"1,850,000","1/36 Tipperary Court,",STUART PARK NT 0820,House,4,3,2,809m² ,04 Nov 2021
+"750,000 ","105 Ross Smith Avenue,",FANNIE BAY NT 0820,House,4,2,2,992m² ,2021
+"892,200 ","21 Mosec Street,",LUDMILLA NT 0820,House,5,2,4,840m² ,14 Oct 2021
+"1,250,000 ","20 May Street,",PARAP NT 0820,House,4,2,2,795m² ,4 Oct 2021
+"765,000 ","2 Crush Street,",FANNIE BAY NT 0820,House,3,2,2,992m² ,2021
+"830,000","44 Hudson Fysh Avenue,",PARAP NT 0820,House,4,2,4,981m² ,13 Oct 2021
+"790,000 ","3 Range Place,",STUART PARK NT 0820,House,4,2,2,530m² ,12 Oct 2021
+"839,600 ","4 Bul Bul Court,",LUDMILLA NT 0820,House,4,2,4,799m² ,07 Oct 2021
+"1,080,000 ","34 Douglas Street,",LUDMILLA NT 0820,House,4,2,4,999m² ,5 Sep 2021
+"1,000,000","7 Zealandia Crescent,",LARRAKEYAH NT 0820,House,3,2,2,"1,010m² ",22 Sep 2021
+"890,000 ","19 Verburg Court,",STUART PARK NT 0820,House,5,2,2,966m² ,2021
+"1,541,000 ","9 Knight Street,",FANNIE BAY NT 0820,House,5,3,4,"1,160m² ",16 Sep 2021
+"875,000","11 Eden Street,",STUART PARK NT 0820,House,5,1,2,887m² ,13 Sep 2021
+"952,000 ","1 Wickham Street,",LUDMILLA NT 0820,House,5,3,2,"1,000m² ",07 Sep 2021
+"750,000 ","8 Quarry Crescent,",STUART PARK NT 0820,House,4,2,2,966m² ,7 Sep 2021
+"800,000 ","1 Crush Street,",FANNIE BAY NT 0820,House,4,2,2,"1,037m² ",06 Sep 2021
+"780,000 ","20 Drysdale Street,",PARAP NT 0820,House,3,2,2,711m² ,02 Sep 2021
+"980,001","28 Douglas Street,",LUDMILLA NT 0820,House,4,2,2,"1,000m² ",2021
+"780,000 ","4 Lovegrove Street,",LUDMILLA NT 0820,House,4,2,4,"1,000m² ",2021
+"1,050,000 ","3 Graham Street,",STUART PARK NT 0820,House,4,3,3,874m² ,2021
+"730,000 ","9 Graham Street,",STUART PARK NT 0820,House,4,2,1,917m² ,10 Aug 2021
+"610,000","9 Verburg Court,",STUART PARK NT 0820,House,3,1,2,966m² ,29 Jul 2021
+"650,000 ","22 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,471m² ,21 Jul 2021
+"994,000 ","74 Ruddick Circuit,",STUART PARK NT 0820,House,4,3,2,451m² ,20 Jul 2021
+"650,000 ","19 Henry St,",STUART PARK NT 0820,House,4,1,2,"1,110m² ",19 Jul 2021
+"730,000 ","7 Broadbent Street,",PARAP NT 0820,House,4,2,2,558m² ,12 Jul 2021
+"550,000 ","7 Mawalan Court,",LUDMILLA NT 0820,House,3,1,2,766m² ,09 Jul 2021
+"965,000","141 Playford Street,",PARAP NT 0820,House,4,3,1,800m² ,07 Jul 2021
+"790,000 ","1 Beatrice Street,",STUART PARK NT 0820,House,4,3,2,924m² ,06 Jul 2021
+"1,310,000 ","3 Latrobe Street,",BAYVIEW NT 0820,House,4,3,4,853m² ,28 Jun 2021
+"2,500,000","104 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,5,3,2,"1,120m² ",24 Jun 2021
+"839,000 ","43 Eden Street,",STUART PARK NT 0820,House,3,1,3,"1,180m² ",21 Jun 2021
+"1,050,000","38 Bayview Boulevard,",BAYVIEW NT 0820,House,4,3,4,759m² ,18 Jun 2021
+"716,500 ","37 Wells Street,",LUDMILLA NT 0820,House,4,2,2,"1,260m² ",15 Jun 2021
+"725,000 ","22/17 Dinah Court,",STUART PARK NT 0820,House,3,2,2,201m² ,10 Jun 2021
+"1,370,000 ","6 Macartney Street,",FANNIE BAY NT 0820,House,4,3,2,"1,160m² ",2021
+"1,050,000 ","72 O'Ferrals Road,",BAYVIEW NT 0820,House,4,2,2,759m² ,07 Jun 2021
+"655,000 ","11 Graham Street,",STUART PARK NT 0820,House,4,2,4,917m² ,04 Jun 2021
+"1,200,000 ","53 Hudson Fysh Avenue,",LUDMILLA NT 0820,House,4,2,2,"1,440m² ",2021
+"850,000","26 East Point Road,",FANNIE BAY NT 0820,House,3,1,6,"1,100m² ",26 May 2021
+"650,000 ","1 Dolphin Court,",PARAP NT 0820,House,3,2,2,488m² ,21 May 2021
+"970,000 ","6 Edwards Street,",PARAP NT 0820,House,3,2,2,"1,110m² ",18 May 2021
+"610,000 ","49 Flinders Drive,",STUART PARK NT 0820,House,1,1,4,889m² ,14 May 2021
+"820,000 ","4 Macartney Street,",FANNIE BAY NT 0820,House,4,1,2,"1,160m² ",07 May 2021
+"740,000 ","32 Gothenburg Crescent,",STUART PARK NT 0820,House,3,1,1,846m² ,19 Apr 2021
+"705,000 ","143 Playford Street,",PARAP NT 0820,House,4,3,2,800m² ,05 Apr 2021
+"775,000 ","6 Beatrice Street,",STUART PARK NT 0820,House,3,1,2,943m² ,29 Mar 2021
+"610,000 ","26 Harney Street,",LUDMILLA NT 0820,House,3,2,4,771m² ,19 Mar 2021
+"890,000 ","9 Holtze Street,",FANNIE BAY NT 0820,House,3,1,2,"1,410m² ",2021
+"710,000 ","18 Bayview Boulevard,",BAYVIEW NT 0820,House,4,2,2,640m² ,02 Mar 2021
+"920,000 ","32 East Point Road,",FANNIE BAY NT 0820,House,4,2,2,"1,150m² ",25 Feb 2021
+"965,500 ","14 Christie Street,",FANNIE BAY NT 0820,House,4,3,4,"1,110m² ",2021
+"1,270,000 ","38 O'Ferrals Road,",BAYVIEW NT 0820,House,5,4,2,"1,010m² ",08 Feb 2021
+"950,000 ","9 Seale Street,",FANNIE BAY NT 0820,House,6,4,3,817m² ,01 Feb 2021
+"725,000 ","16 Charles Street,",STUART PARK NT 0820,House,4,2,4,"1,070m² ",2021
+"650,000 ","27 Villaflor Crescent,",WOOLNER NT 0820,House,3,2,2,578m² ,01 Feb 2021
+"860,000 ","22 Leichhardt Crescent,",FANNIE BAY NT 0820,House,4,3,3,"1,110m² ",28 Jan 2021
+"650,000 ","14 Bul Bul Court,",LUDMILLA NT 0820,House,3,2,3,953m² ,27 Jan 2021
+"285,000","3/6 Fleming Street,",THE NARROWS NT 0820,Semi-detached,2,1,2,206m² ,25 Jan 2021
+"650,000 ","6 Dolphin Court,",PARAP NT 0820,House,3,2,2,613m² ,21 Dec 2020
+"1,025,000 ","3 Gilbert Street,",LUDMILLA NT 0820,House,3,2,4,"1,120m² ",15 Dec 2020
+"790,000","24 Conigrave Street,",FANNIE BAY NT 0820,House,4,2,2,"1,230m² ",08 Dec 2020
+"1,200,000 ","64 O'ferrals Road,",BAYVIEW NT 0820,House,5,3,2,780m² ,03 Dec 2020
+"355,000 ","39 Cardo Court,",LUDMILLA NT 0820,House,3,1,4,"1,190m² ",30 Nov 2020
+"815,000 ","2 Brown Street,",FANNIE BAY NT 0820,House,4,2,2,"1,100m² ",2020
+"271,000","26 Bagot Rd,",THE NARROWS NT 0820,House,3,2,3,854m² ,2020
+"720,000 ","30 Graham Street,",STUART PARK NT 0820,House,4,2,4,859m² ,29 Oct 2020
+"600,000 ","2 Broadbent Street,",PARAP NT 0820,House,3,2,2,512m² ,28 Oct 2020
+"690,000 ","48 Meigs Crescent,",STUART PARK NT 0820,House,4,2,3,"1,310m² ",09 Oct 2020
+"975,000 ","25 George Crescent,",FANNIE BAY NT 0820,House,4,2,2,"1,360m² ",08 Oct 2020
+"380,000 ","38 Harney Street,",LUDMILLA NT 0820,House,3,2,−,797m² ,2020
+"1,355,000 ","10 Parsons Street,",FANNIE BAY NT 0820,House,5,3,2,"1,360m² ",2020
+"765,000","3 McMaster Crescent,",PARAP NT 0820,House,3,2,3,472m² ,2020
+"1,600,000","31 Bayview Boulevard,",BAYVIEW NT 0820,House,5,3,2,999m² ,04 Sep 2020
+"685,250 ","12 Porter Street,",LUDMILLA NT 0820,House,3,1,2,"1,000m² ",18 Aug 2020
+"632,500 ","30 Charles Street,",STUART PARK NT 0820,House,3,1,2,"1,200m² ",2020
+"520,000 ","3 Bul Bul,",LUDMILLA NT 0820,House,3,1,2,"1,000m² ",13 Aug 2020
+"500,000 ","16 Tudawali Street,",LUDMILLA NT 0820,House,4,3,2,817m² ,27 Jul 2020
+"575,000 ","21 Graham Street,",STUART PARK NT 0820,House,3,2,4,"1,010m² ",27 Jul 2020
+"450,000 ","1/7 Bambra Crescent,",LARRAKEYAH NT 0820,House,3,2,2,305m² ,09 Jul 2020
+"480,000 ","2/37 Bermingham Crescent,",BAYVIEW NT 0820,House,4,2,3,333m² ,02 Jul 2020
+"970,000 ","29 Bayview Boulevard,",BAYVIEW NT 0820,House,4,2,−,"1,050m² ",16 Jun 2020
+"525,000 ","3 Margaret Court,",STUART PARK NT 0820,House,3,1,2,"1,150m² ",15 Jun 2020
+"395,000 ","6 Wilmot Street,",THE NARROWS NT 0820,House,2,1,2,"1,037m² ",09 Jun 2020
+"800,000","11 Stoddart Drive,",BAYVIEW NT 0820,House,4,3,4,"1,030m² ",14 May 2020
+"702,000 ","23 Graham Street,",STUART PARK NT 0820,House,3,2,2,"1,140m² ",08 May 2020
+"650,000","10 Dolphin Court,",PARAP NT 0820,House,4,2,2,700m² ,05 May 2020
+"675,000","21 Bermingham Crescent,",BAYVIEW NT 0820,House,4,1,2,879m² ,24 Apr 2020
+"2,719,500","30 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,2,3,2,933m² ,16 Apr 2020
+"1,100,000 ","4 Schultze Street,",LARRAKEYAH NT 0820,House,4,3,2,955m² ,08 Apr 2020
+"1,075,000 ","7 Notley Place,",PARAP NT 0820,House,5,3,2,840m² ,2020
+"880,000 ","40 Hudson Fysh Avenue,",PARAP NT 0820,House,4,3,2,981m² ,07 Apr 2020
+"735,000 ","4 Parsons Street,",FANNIE BAY NT 0820,House,4,2,2,"1,280m² ",25 Mar 2020
+"665,000","32 Ah Mat Street,",WOOLNER NT 0820,House,3,2,2,429m² ,17 Mar 2020
+"590,000 ","3 Broadbent Street,",PARAP NT 0820,House,3,2,2,563m² ,25 Feb 2020
+"670,000","2 Margaret Court,",STUART PARK NT 0820,House,4,2,2,920m² ,10 Feb 2020
+"650,000 ","6 Nemarluk Court,",LUDMILLA NT 0820,House,4,2,2,"1,100m² ",07 Feb 2020
+"600,000","16 Ashley Street,",STUART PARK NT 0820,House,3,2,3,"1,840m² ",03 Feb 2020
+"1,000,000 ","68 East Point Road,",FANNIE BAY NT 0820,House,4,4,6,"1,370m² ",28 Jan 2020
+"720,000 ","26 Broadbent Street,",PARAP NT 0820,House,4,2,2,626m² ,15 Jan 2020
+"837,000 ","15 Gordon Street,",PARAP NT 0820,House,4,3,3,986m² ,2020
+"520,000 ","2 Douglas Street,",LUDMILLA NT 0820,House,4,3,4,"1,000m² ",24 Dec 2019
+"703,500 ","7 Seale Street,",FANNIE BAY NT 0820,House,5,3,2,817m² ,20 Dec 2019
+"790,000 ","4 Clancy Street,",FANNIE BAY NT 0820,House,4,2,5,958m² ,20 Dec 2019
+"835,000","68 May Street,",PARAP NT 0820,House,5,3,2,603m² ,19 Dec 2019
+"570,000","23 Mosec Street,",LUDMILLA NT 0820,House,3,2,3,"1,011m² ",05 Dec 2019
+"631,000 ","27 Drysdale Street,",PARAP NT 0820,House,3,1,2,956m² ,25 Nov 2019
+"780,000 ","7 Edwards Street,",PARAP NT 0820,House,4,2,3,"1,100m² ",07 Nov 2019
+"950,000","4 Gardens Road,",THE GARDENS NT 0820,House,26,5,−,"1,740m² ",2019
+"650,000 ","13 Fanning Drive,",BAYVIEW NT 0820,House,4,2,2,818m² ,18 Oct 2019
+"745,600 ","7 Brown Street,",FANNIE BAY NT 0820,House,3,1,2,"1,220m² ",12 Sep 2019
+"1,225,000 ","12 Castlemaine Close,",BAYVIEW NT 0820,House,4,3,2,"1,100m² ",11 Sep 2019
+"430,000 ","4 Mosec Street,",LUDMILLA NT 0820,House,4,2,−,870m² ,09 Sep 2019
+"250,000","19 Cardo Court,",LUDMILLA NT 0820,House,3,1,1,786m² ,2019
+"460,000 ","42 Wilmot Street,",THE NARROWS NT 0820,House,3,1,2,766m² ,23 Aug 2019
+"1,375,000 ","5 Bradhurst Court,",BAYVIEW NT 0820,House,5,3,5,"1,160m² ",14 Aug 2019
+"890,000 ","61 Hudson Fysh Avenue,",LUDMILLA NT 0820,House,5,3,4,992m² ,14 Aug 2019
+"825,000 ","5 Gothenburg Court,",STUART PARK NT 0820,House,5,4,4,929m² ,2019
+"550,000 ","2/81 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,3,2,2,356m² ,02 Aug 2019
+"540,000","35 Graham Street,",STUART PARK NT 0820,House,3,1,2,"1,010m² ",01 Aug 2019
+"680,000","12 Temira Crescent,",LARRAKEYAH NT 0820,House,3,2,2,758m² ,25 Jul 2019
+"540,000 ","3 Cardo Court,",LUDMILLA NT 0820,House,3,1,2,786m² ,19 Jul 2019
+"525,000 ","4 Mawalan Court,",LUDMILLA NT 0820,House,4,2,2,766m² ,19 Jul 2019
+"745,000 ","15 Margaret Street,",STUART PARK NT 0820,House,4,2,2,975m² ,03 Jul 2019
+"1,270,000 ","38 O'Ferrals Road,",BAYVIEW NT 0820,House,5,4,2,"1,010m² ",27 Jun 2019
+"675,000 ","18 Ludmilla Terrace,",LUDMILLA NT 0820,House,4,2,2,"1,050m² ",20 Jun 2019
+"690,000 ","137 Playford Street,",PARAP NT 0820,House,3,3,4,800m² ,12 Jun 2019
+"580,000 ","27 Latrobe Street,",BAYVIEW NT 0820,House,3,2,4,548m² ,11 Jun 2019
+"595,000 ","1 May St,",LUDMILLA NT 0820,House,4,2,3,695m² ,27 May 2019
+"650,000 ","18 Harney Street,",LUDMILLA NT 0820,House,4,4,6,878m² ,23 May 2019
+"950,000","29 Bayview Boulevard,",BAYVIEW NT 0820,House,4,2,2,"1,050m² ",09 May 2019
+"865,000 ","14 Christie Street,",FANNIE BAY NT 0820,House,4,3,6,"1,110m² ",09 May 2019
+"890,000 ","5 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,5,4,6,630m² ,08 May 2019
+"370,000 ","38 Wilmot Street,",THE NARROWS NT 0820,House,3,2,2,778m² ,03 May 2019
+"610,000 ","23 Henry Street,",STUART PARK NT 0820,House,4,1,2,"1,020m² ",2019
+"550,000","36 Gothenburg Crescent,",STUART PARK NT 0820,House,6,2,2,732m² ,23 Apr 2019
+"920,000 ","22 Conigrave Street,",FANNIE BAY NT 0820,House,4,2,2,"1,230m² ",03 Apr 2019
+"1,008,000 ","133 Smith Street,",LARRAKEYAH NT 0820,House,20,4,10,726m² ,2019
+"550,000","8 Seale Street,",FANNIE BAY NT 0820,House,3,2,2,887m² ,21 Mar 2019
+"750,000","9 Macartney Street,",FANNIE BAY NT 0820,House,4,2,2,"1,160m² ",20 Mar 2019
+"625,000 ","74 May Street,",PARAP NT 0820,House,3,2,2,502m² ,20 Mar 2019
+"590,000 ","19 Gothenburg Crescent,",STUART PARK NT 0820,House,4,2,2,898m² ,20 Mar 2019
+"660,000","9 Latrobe Street,",BAYVIEW NT 0820,House,4,2,2,769m² ,04 Mar 2019
+"740,000","34 Broadbent Street,",PARAP NT 0820,House,4,2,4,762m² ,18 Feb 2019
+"485,000","21 Bagot Road,",LUDMILLA NT 0820,House,3,2,2,720m² ,08 Feb 2019
+"799,000 ","11 Giles Street,",FANNIE BAY NT 0820,House,3,2,2,"1,390m² ",01 Feb 2019
+"450,000 ","11 Mosec Street,",LUDMILLA NT 0820,House,4,2,4,838m² ,31 Jan 2019
+"510,000 ","26 Jolly Street,",WOOLNER NT 0820,House,4,2,2,407m² ,29 Jan 2019
+"640,000 ","27 Meigs Crescent,",STUART PARK NT 0820,House,3,1,2,885m² ,24 Jan 2019
+"650,000 ","1 Trochus Crescent,",WOOLNER NT 0820,House,3,2,4,532m² ,24 Jan 2019
+"1,480,000","32 Muzzell Street,",BAYVIEW NT 0820,House,5,3,2,"1,060m² ",21 Jan 2019
+"715,000 ","3 McMaster Crescent,",PARAP NT 0820,House,3,2,3,472m² ,11 Dec 2018
+"395,000 ","12 Hudson Court,",PARAP NT 0820,House,3,1,2,694m² ,2018
+"540,000","13 Bremer St,",LUDMILLA NT 0820,House,6,2,4,929m² ,05 Dec 2018
+"950,000 ","31 Temira Crescent,",LARRAKEYAH NT 0820,House,3,2,2,829m² ,28 Nov 2018
+"711,000","2 Knight Street,",FANNIE BAY NT 0820,House,4,2,4,"1,180m² ",23 Nov 2018
+"1,250,000 ","12 Ruddick Circuit,",STUART PARK NT 0820,House,4,4,2,453m² ,21 Nov 2018
+"650,000 ","9 Nelson Street,",STUART PARK NT 0820,House,5,2,3,752m² ,08 Nov 2018
+"350,000","6/16 Henry Street,",STUART PARK NT 0820,House,6,3,2,746m² ,07 Nov 2018
+"930,000 ","89 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,5,2,2,880m² ,12 Oct 2018
+"465,000","2/18 Queen Street,",STUART PARK NT 0820,House,3,1,1,271m² ,03 Oct 2018
+"490,000 ","10 Daniels Street,",LUDMILLA NT 0820,House,3,1,2,766m² ,02 Oct 2018
+"599,000","16 Narrows Rd,",THE NARROWS NT 0820,House,4,1,2,923m² ,01 Oct 2018
+"650,000 ","26 Ah Mat St,",WOOLNER NT 0820,House,4,2,2,471m² ,25 Sep 2018
+"720,000","7 Railway Street,",PARAP NT 0820,House,3,2,2,"1,160m² ",20 Sep 2018
+"545,000 ","17 Daniels Street,",LUDMILLA NT 0820,House,3,1,3,870m² ,12 Sep 2018
+"980,000","10 Leichhardt Crescent,",FANNIE BAY NT 0820,House,5,2,2,"1,220m² ",07 Sep 2018
+"797,500 ","23 Drysdale Street,",PARAP NT 0820,House,4,2,5,956m² ,2018
+"450,000","4 Harney Street,",LUDMILLA NT 0820,House,3,2,4,766m² ,31 Aug 2018
+"430,000 ","9 Fitzer Drive,",LUDMILLA NT 0820,House,3,2,4,910m² ,29 Aug 2018
+"780,000","6 Stretton Street,",PARAP NT 0820,House,4,2,4,"1,100m² ",26 Jul 2018
+"549,000 ","16 Eden Street,",STUART PARK NT 0820,House,4,2,2,872m² ,18 Jul 2018
+"1,170,000","37 Bayview Boulevard,",BAYVIEW NT 0820,House,4,2,2,996m² ,17 Jul 2018
+"1,200,000 ","5 Inverell Court,",BAYVIEW NT 0820,House,5,3,4,753m² ,05 Jul 2018
+"2,000,000","16 Cullen Bay Crescent,",CULLEN BAY NT 0820,House,5,3,3,851m² ,04 Jul 2018
+"945,000 ","7 Kellaway Street,",FANNIE BAY NT 0820,House,4,5,6,"1,300m² ",28 Jun 2018
+"980,000 ","10 Leichhardt Crescent,",FANNIE BAY NT 0820,House,5,2,2,"1,220m² ",22 Jun 2018
+"720,000 ","3 Gardens Hill Crescent,",THE GARDENS NT 0820,House,4,2,2,672m² ,15 Jun 2018
+"1,020,000 ","64 Ruddick Circuit,",STUART PARK NT 0820,House,5,3,2,463m² ,11 May 2018
+"575,000 ","20 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,457m² ,19 Apr 2018
+"625,000","31 May Street,",PARAP NT 0820,House,3,2,2,505m² ,29 Mar 2018
+"460,000","34 Harney Street,",LUDMILLA NT 0820,House,3,1,2,797m² ,21 Mar 2018
+"660,000 ","5 Meigs Court,",STUART PARK NT 0820,House,6,2,4,"1,410m² ",21 Mar 2018
+"950,000 ","14 Packard Street,",LARRAKEYAH NT 0820,House,5,2,2,897m² ,30 Jan 2018
+"760,000","2 Brown Street,",FANNIE BAY NT 0820,House,4,2,2,"1,200m² ",24 Jan 2018
+"560,000","13 Railway Street,",PARAP NT 0820,House,3,1,2,"1,150m² ",17 Jan 2018
+"660,000 ","5 Meigs Court,",STUART PARK NT 0820,House,6,2,4,"1,410m² ",12 Jan 2018
+"1,300,000 ","10 Christie Street,",FANNIE BAY NT 0820,House,4,3,4,"1,110m² ",22 Dec 2017
+"1,260,000 ","16 Conigrave Street,",FANNIE BAY NT 0820,House,5,4,5,"1,290m² ",08 Dec 2017
+"950,000","34 Bayview Boulevard,",BAYVIEW NT 0820,House,4,2,2,753m² ,07 Dec 2017
+"535,000 ","50 Nemarluk Drive,",LUDMILLA NT 0820,House,3,1,2,922m² ,2017
+"600,000 ","25 Narrows Road,",THE NARROWS NT 0820,House,3,2,2,"1,210m² ",28 Nov 2017
+"630,000 ","6 Broadbent Street,",PARAP NT 0820,House,3,2,4,488m² ,30 Oct 2017
+"840,000 ","1/43 Bayview Blvd,",BAYVIEW NT 0820,Semi-detached,3,3,3,462m² ,20 Oct 2017
+"810,000","7 Christie Street,",FANNIE BAY NT 0820,House,5,3,2,"1,050m² ",20 Oct 2017
+"810,000","7 Christie Street,",FANNIE BAY NT 0820,House,5,3,2,"1,050m² ",20 Oct 2017
+"835,000","28 Packard Street,",LARRAKEYAH NT 0820,House,3,2,1,886m² ,2017
+"490,000 ","31 Wilmot Street,",THE NARROWS NT 0820,House,3,2,4,932m² ,06 Oct 2017
+"765,000 ","16 Ludmilla Terrace,",LUDMILLA NT 0820,House,4,2,4,"1,040m² ",30 Sep 2017
+"780,000 ","29 Eden Street,",STUART PARK NT 0820,House,3,1,9,"1,110m² ",26 Sep 2017
+"1,345,000","9 Castlemaine Close,",BAYVIEW NT 0820,House,4,2,2,"1,250m² ",21 Sep 2017
+"890,000","7 Basedow Court,",FANNIE BAY NT 0820,House,4,2,2,"1,130m² ",2017
+"860,000","127 Playford Street,",PARAP NT 0820,House,4,3,4,800m² ,21 Jul 2017
+"820,000","16 Urquhart Street,",PARAP NT 0820,House,5,4,3,891m² ,21 Jun 2017
+"575,000","10/16 Marina Boulevard,",CULLEN BAY NT 0820,House,3,2,2,281m² ,02 Jun 2017
+"838,000 ","3 Clancy Street,",FANNIE BAY NT 0820,House,4,2,4,"1,000m² ",01 Jun 2017
+"775,000 ","15 Wells Street,",LUDMILLA NT 0820,House,5,2,2,"1,011m² ",01 Jun 2017
+"950,000 ","27 O'Ferrals Road,",BAYVIEW NT 0820,House,5,3,2,607m² ,24 May 2017
+"950,000 ","27 O'Ferrals Road,",BAYVIEW NT 0820,House,5,3,2,607m² ,24 May 2017
+"610,000 ","10 May Street,",LUDMILLA NT 0820,House,4,2,2,799m² ,19 May 2017
+"445,000","48 Wilmot Street,",THE NARROWS NT 0820,House,3,1,1,774m² ,19 May 2017
+"730,000","22 Tudawali St,",LUDMILLA NT 0820,House,4,2,4,757m² ,28 Apr 2017
+"1,900,000 ","38 East Point Road,",FANNIE BAY NT 0820,House,5,3,8,"1,150m² ",24 Feb 2017
+"670,000 ","82 May Street,",PARAP NT 0820,House,3,2,2,502m² ,24 Feb 2017
+"1,500,000","18 Giles Street,",FANNIE BAY NT 0820,House,5,3,−,"1,050m² ",03 Feb 2017
+"600,000 ","16 Graham Street,",STUART PARK NT 0820,House,3,1,4,"1,010m² ",27 Jan 2017
+"730,000 ","16 Porter Street,",LUDMILLA NT 0820,House,3,2,2,"1,040m² ",20 Jan 2017
+"635,000 ","17 Eden Street,",STUART PARK NT 0820,House,5,3,2,936m² ,20 Jan 2017
+"430,000","20 Wilmot St,",THE NARROWS NT 0820,House,3,1,−,822m² ,19 Jan 2017
+"826,000","1 Broadbent Street,",PARAP NT 0820,House,4,3,3,553m² ,16 Dec 2016
+"1,000,000","17 Stoddart Drive,",BAYVIEW NT 0820,House,5,3,5,849m² ,12 Dec 2016
+"665,000 ","24 May Street,",PARAP NT 0820,House,3,2,2,689m² ,01 Dec 2016
+"1,120,000 ","7 Temira Crescent,",LARRAKEYAH NT 0820,House,4,2,1,"1,110m² ",22 Nov 2016
+"420,000","85 Bagot Road,",LUDMILLA NT 0820,House,4,2,2,870m² ,15 Nov 2016
+"835,000 ","50 May Street,",PARAP NT 0820,House,5,2,2,670m² ,07 Nov 2016
+"650,000 ","28 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,471m² ,12 Oct 2016
+"1,825,000 ","50 Meigs Crescent,",STUART PARK NT 0820,House,4,3,6,"1,580m² ",28 Sep 2016
+"740,000 ","53 May Street,",PARAP NT 0820,House,4,2,2,498m² ,26 Aug 2016
+"740,000 ","21 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,450m² ,26 Aug 2016
+"827,000","29 Stoddart Drive,",BAYVIEW NT 0820,House,4,3,6,880m² ,19 Aug 2016
+"630,000","7 Verburg Court,",STUART PARK NT 0820,House,3,1,4,966m² ,12 Aug 2016
+"1,000,000 ","1 Kent Court,",STUART PARK NT 0820,House,8,5,2,"1,390m² ",03 Aug 2016
+"650,000 ","44 Hudson Fysh Avenue,",PARAP NT 0820,House,4,2,3,981m² ,2016
+"590,000 ","5 Railway Street,",PARAP NT 0820,House,3,1,2,"1,160m² ",13 Jul 2016
+"1,280,000 ","8 Gunbar Street,",BAYVIEW NT 0820,House,6,4,4,820m² ,01 Jul 2016
+"50,000 ","12 Wickham Street,",LUDMILLA NT 0820,House,4,3,3,"1,390m² ",30 Jun 2016
+"1,000,000 ","2 Inverell Court,",BAYVIEW NT 0820,House,4,3,2,646m² ,17 Jun 2016
+"2,125,000 ","9 Bayview Boulevard,",BAYVIEW NT 0820,House,5,4,2,977m² ,02 Jun 2016
+"740,000 ","4 Wickham Street,",LUDMILLA NT 0820,House,4,2,2,908m² ,24 May 2016
+"695,000 ","22 Gothenburg Crescent,",STUART PARK NT 0820,House,4,2,2,926m² ,06 May 2016
+"700,000 ","29 Westralia Street,",STUART PARK NT 0820,House,4,2,2,"1,210m² ",26 Apr 2016
+"660,000 ","39 Villaflor Crescent,",WOOLNER NT 0820,House,4,2,2,535m² ,05 Apr 2016
+"1,650,000 ","11 Worgan Street,",PARAP NT 0820,House,4,3,2,"1,110m² ",31 Mar 2016
+"830,818 ","5 Goldsmith Street,",FANNIE BAY NT 0820,House,4,2,2,"1,050m² ",2016
+"796,000 ","10 Bul Bul Court,",LUDMILLA NT 0820,House,4,2,4,"1,090m² ",26 Feb 2016
+"569,000 ","4 Price Street,",PARAP NT 0820,House,3,1,2,747m² ,17 Feb 2016
+"730,000 ","27 Bermingham Cres,",BAYVIEW NT 0820,House,4,2,2,857m² ,10 Feb 2016
+"960,000 ","2 Gunbar Street,",BAYVIEW NT 0820,House,5,2,2,827m² ,08 Feb 2016
+"1,150,000 ","13 Lambell Terrace,",LARRAKEYAH NT 0820,House,4,2,2,"1,160m² ",15 Jan 2016
+"1,440,000","6 Conigrave Street,",FANNIE BAY NT 0820,House,3,3,4,"1,214m² ",18 Dec 2015
+"380,000 ","6/5 Manila Place,",WOOLNER NT 0820,House,2,2,2,122m² ,10 Dec 2015
+"733,000","5 Gilbert Street,",LUDMILLA NT 0820,House,3,2,2,"1,110m² ",24 Nov 2015
+"750,000 ","26 Philip Street,",FANNIE BAY NT 0820,House,3,2,5,"1,080m² ",18 Nov 2015
+"1,750,000 ","5 Bradhurst Court,",BAYVIEW NT 0820,House,5,3,3,"1,160m² ",05 Nov 2015
+"600,000 ","71 Hudson Fysh Avenue,",LUDMILLA NT 0820,House,4,1,2,"1,000m² ",2015
+"950,000 ","9 Macartney Street,",FANNIE BAY NT 0820,House,4,2,4,"1,160m² ",2015
+"590,000","21 Gilbert Street,",LUDMILLA NT 0820,House,2,1,2,"1,000m² ",2015
+"820,000 ","1 Godfrey Court,",LARRAKEYAH NT 0820,House,7,2,2,864m² ,28 Jul 2015
+"1,300,000 ","3 Latrobe Street,",BAYVIEW NT 0820,House,4,3,2,853m² ,22 Jul 2015
+"940,000",,LUDMILLA NT 0820,House,4,2,4,897m² ,08 Jul 2015
+"950,000","28 Henry Street,",STUART PARK NT 0820,House,6,3,4,"1,390m² ",2015
+"650,000","17 Ross Smith Avenue,",PARAP NT 0820,House,3,1,3,690m² ,10 Jun 2015
+"1,400,000 ","34 Fanning Drive,",BAYVIEW NT 0820,House,4,2,2,763m² ,2015
+"865,000 ","9 Holtze Street,",FANNIE BAY NT 0820,House,3,1,2,"1,410m² ",01 Jun 2015
+"849,000 ","36 May Street,",PARAP NT 0820,House,4,2,2,502m² ,29 May 2015
+"755,000 ","21 Bermingham Crescent,",BAYVIEW NT 0820,House,3,1,4,879m² ,28 May 2015
+"525,000 ","7 Cardo Court,",LUDMILLA NT 0820,House,3,2,2,786m² ,26 May 2015
+"640,000 ","19 Wilmot Street,",THE NARROWS NT 0820,House,3,2,2,936m² ,22 May 2015
+"762,000 ","6 Beatrice Street,",STUART PARK NT 0820,House,3,1,2,943m² ,2015
+"935,000 ","23 Barossa Street,",LARRAKEYAH NT 0820,House,3,2,2,904m² ,12 Mar 2015
+"680,000 ","39 Wilmot Street,",THE NARROWS NT 0820,House,3,2,3,983m² ,08 Mar 2015
+"620,000 ","75 Hudson Fysh Avenue,",LUDMILLA NT 0820,House,3,2,2,"1,000m² ",07 Mar 2015
+"1,825,000","3 Bradhurst Court,",BAYVIEW NT 0820,House,5,3,3,"1,090m² ",18 Feb 2015
+"795,000","3 Sariago Court,",WOOLNER NT 0820,House,4,2,−,581m² ,27 Jan 2015
+"875,000","13 Wickham Street,",LUDMILLA NT 0820,House,4,3,3,916m² ,23 Jan 2015
+"745,000 ","4 Ah Mat Street,",WOOLNER NT 0820,House,4,2,2,532m² ,26 Dec 2014
+"1,200,000 ","7 Knight Street,",FANNIE BAY NT 0820,House,5,3,2,"1,160m² ",19 Dec 2014
+"610,500","5 Daniels Street,",LUDMILLA NT 0820,House,3,1,2,870m² ,24 Nov 2014
+"715,000","8 Wells Street,",PARAP NT 0820,House,2,1,1,861m² ,17 Nov 2014
+"885,000 ","17 Bermingham Crescent,",BAYVIEW NT 0820,House,4,2,2,"1,140m² ",14 Nov 2014
+"830,000 ","9 Broadbent Street,",PARAP NT 0820,House,4,2,2,468m² ,30 Oct 2014
+"745,000 ","9 Nelson Street,",STUART PARK NT 0820,House,4,2,1,752m² ,15 Oct 2014
+"1,100,000 ","7 Goldsmith Street,",FANNIE BAY NT 0820,House,5,2,2,"1,050m² ",04 Oct 2014
+"511,000 ","20 Tudawali Street,",LUDMILLA NT 0820,House,3,2,2,817m² ,02 Oct 2014
+"790,000 ","39 Stoddart Drive,",BAYVIEW NT 0820,House,4,3,2,801m² ,23 Sep 2014
+"785,000","1 Beatrice Street,",STUART PARK NT 0820,House,4,3,2,924m² ,2014
+"750,000 ","17 Margaret Street,",STUART PARK NT 0820,House,3,1,2,842m² ,2014
+"790,000 ","12 Narrows Road,",THE NARROWS NT 0820,House,4,2,2,918m² ,2014
+"710,000","10 Wells Street,",LUDMILLA NT 0820,House,3,1,2,"1,180m² ",2014
+"995,000","43 Stoddart Drive,",BAYVIEW NT 0820,House,5,3,4,801m² ,27 Jun 2014
+"672,000 ","28 Nemarluk Drive,",LUDMILLA NT 0820,House,4,2,2,786m² ,24 Jun 2014
+"1,199,000 ","28 Barossa Street,",LARRAKEYAH NT 0820,House,4,2,4,"1,470m² ",2014
+"1,060,000 ","21 Mackillop Street,",PARAP NT 0820,House,4,2,2,907m² ,17 Jun 2014
+"1,150,000 ","5 Brown Street,",FANNIE BAY NT 0820,House,4,3,3,"1,220m² ",05 Jun 2014
+"788,000 ","4 Dew Place,",BAYVIEW NT 0820,House,3,2,2,816m² ,29 May 2014
+"860,000 ","15 Wells Street,",LUDMILLA NT 0820,House,5,2,2,"1,011m² ",28 Apr 2014
+"580,000","5 Wilmot Street,",THE NARROWS NT 0820,House,3,2,3,889m² ,16 Apr 2014
+"768,000","3 Guy Street,",STUART PARK NT 0820,House,3,2,2,987m² ,18 Mar 2014
+"1,300,000 ","9 Green Street,",FANNIE BAY NT 0820,House,5,3,4,"1,380m² ",16 Feb 2014
+"935,000","10 Bradhurst Court,",BAYVIEW NT 0820,House,4,2,2,819m² ,29 Jan 2014
+"805,000","6 Trochus Crescent,",WOOLNER NT 0820,House,4,2,2,583m² ,13 Jan 2014
+"1,330,000","26 Charlotte Street,",PARAP NT 0820,House,4,4,4,797m² ,09 Jan 2014
+"1,100,000","4 Leichhardt Crescent,",FANNIE BAY NT 0820,House,4,2,4,"1,390m² ",2013
+"880,000","16 Bremer Street,",LUDMILLA NT 0820,House,4,2,1,986m² ,2013
+"3,488,888 ","96 East Point Road,",FANNIE BAY NT 0820,House,4,5,4,"2,860m² ",09 Dec 2013
+"800,000","3 Worgan Street,",PARAP NT 0820,House,3,− 0,3,"1,114m² ",07 Nov 2013
+"1,225,000 ","11 Castlemaine Close,",BAYVIEW NT 0820,House,4,3,2,"1,180m² ",2013
+"650,000","26 Jolly Street,",WOOLNER NT 0820,House,4,2,2,407m² ,10 Oct 2013
+"900,000","3 McMaster Crescent,",PARAP NT 0820,House,3,2,2,472m² ,2013
+"780,000","26 Douglas Street,",LUDMILLA NT 0820,House,3,2,2,"1,000m² ",10 Sep 2013
+"790,000 ","13 Ah Mat Street,",WOOLNER NT 0820,House,4,3,2,425m² ,06 Sep 2013
+"1,400,000 ","2/23 Paspaley Place,",CULLEN BAY NT 0820,House,3,2,2,448m² ,23 Aug 2013
+"960,300","7 Coorong Court,",STUART PARK NT 0820,House,5,2,2,980m² ,13 Aug 2013
+"1,600,000 ","18 Giles Street,",FANNIE BAY NT 0820,House,5,3,4,"1,050m² ",2013
+"945,000","2 Gothenburg Court,",STUART PARK NT 0820,House,3,3,4,"1,568m² ",09 Aug 2013
+"940,000 ","19 Weddell Street,",PARAP NT 0820,House,4,2,2,758m² ,07 Aug 2013
+"865,000 ","3 Bleeser Street,",FANNIE BAY NT 0820,House,3,1,2,"1,110m² ",06 Aug 2013
+"880,000","21 Latrobe Street,",BAYVIEW NT 0820,House,4,2,2,532m² ,24 Jul 2013
+"920,000 ","4 Nemarluk Court,",LUDMILLA NT 0820,House,4,3,2,"1,100m² ",24 Jul 2013
+"1,000,000 ","25 Conigrave Street,",FANNIE BAY NT 0820,House,4,2,2,"1,110m² ",19 Jul 2013
+"1,050,000 ","7 Hinkler Crescent,",FANNIE BAY NT 0820,House,5,2,2,"1,190m² ",09 Jul 2013
+"870,000","17 O'Ferrals Road,",BAYVIEW NT 0820,House,3,2,3,602m² ,01 Jul 2013
+"802,500 ","5 Lovegrove Street,",LUDMILLA NT 0820,House,4,1,2,"1,180m² ",2013
+"1,320,000","32 Bayview Boulevard,",BAYVIEW NT 0820,House,5,3,2,751m² ,21 Jun 2013
+"745,000 ","3 Lovegrove Street,",LUDMILLA NT 0820,House,3,1,2,"1,130m² ",2013
+"1,000,000 ","5 Bleeser Street,",FANNIE BAY NT 0820,House,4,3,4,"1,110m² ",2013
+"880,000","1 Schultze Street,",LARRAKEYAH NT 0820,House,4,2,1,"1,253m² ",2013
+"680,000 ","16 Harney Street,",LUDMILLA NT 0820,House,3,2,2,878m² ,29 May 2013
+"585,000 ","6 Cardo Court,",LUDMILLA NT 0820,House,3,1,2,"1,130m² ",24 May 2013
+"1,061,001","2 Lovegrove Street,",LUDMILLA NT 0820,House,4,2,2,"1,000m² ",14 May 2013
+"740,000","56 May Street,",PARAP NT 0820,House,4,2,2,502m² ,24 Apr 2013
+"900,000 ","1 Anne Street,",STUART PARK NT 0820,House,5,3,4,"1,260m² ",2013
+"1,650,000 ","60 O'Ferrals Road,",BAYVIEW NT 0820,House,4,3,3,753m² ,11 Mar 2013
+"745,000 ","48 Wells Street,",LUDMILLA NT 0820,House,3,1,1,"1,000m² ",2013
+"650,000 ","4 May Street,",LUDMILLA NT 0820,House,4,2,2,820m² ,21 Nov 2012
+"580,000","10 Hudson Court,",PARAP NT 0820,House,3,1,2,735m² ,21 Nov 2012
+"560,000 ","38 Harney Street,",LUDMILLA NT 0820,House,4,2,1,797m² ,07 Nov 2012
+"690,000 ","15 Dolphin Court,",PARAP NT 0820,House,3,2,2,512m² ,01 Jun 2012
+"670,000","11 Ah Mat Street,",WOOLNER NT 0820,House,3,2,2,400m² ,11 Nov 2011
+"800,000","39 Stoddart Drive,",BAYVIEW NT 0820,House,4,2,2,801m² ,21 Dec 2009
+"699,000","21 Narrows Road,",THE NARROWS NT 0820,House,4,2,2,"1,380m² ",2009

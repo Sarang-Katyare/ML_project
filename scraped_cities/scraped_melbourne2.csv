@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"815,000 ","1103/108 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,93m² ,27 Mar 2024
+"3,350,000 ","3801/35 Spring Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,2,175m² ,2024
+"590,000 ","508/181 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,80m² ,8 Dec 2023
+"318,000 ","1305/238 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,57m² ,06 Dec 2023
+"285,000 ","314/339 Swanston Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,55m² ,06 Dec 2023
+"1,180,000 ","3908/63 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,83m² ,16 Oct 2023
+"450,000 ","3202/8 Sutherland Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,59m² ,14 Oct 2023
+"925,000 ","403/390 Little Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,−,107m² ,13 Oct 2023
+"425,000 ","512/57 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,25 Sep 2023
+"575,000 ","313/399 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,73m² ,13 Sep 2023
+"350,000 ","511/17 Singers Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,31 May 2023
+"325,000 ","2301/288 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,62m² ,24 Apr 2023
+"460,000 ","3703/285 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,55m² ,19 Apr 2023
+"360,000 ","3103/350 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,11 Apr 2023
+"350,000 ","2603/350 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,55m² ,31 Mar 2023
+"552,000 ","1510/500 Elizabeth Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,66m² ,20 Mar 2023
+"270,000 ","3006/350 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,20 Feb 2023
+"410,000 ","2506/7 Katherine Place,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,60m² ,13 Jan 2023
+"445,000 ","1206/31 Spring Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,55m² ,01 Dec 2022
+"1,650,000 ","5/192 Little Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,164m² ,30 Nov 2022
+"380,000 ","705/87 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,63m² ,17 Nov 2022
+"470,000 ","213/399 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,65m² ,02 Nov 2022
+"1,130,000 ","4909/560 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,1,114m² ,02 Nov 2022
+"850,000 ","7008/228 La Trobe St,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,62m² ,27 Oct 2022
+"258,000","704/380 Little Lonsdale,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,64m² ,11 Oct 2022
+"661,000 ","705/620 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,110m² ,29 Sep 2022
+"340,000 ","802/25 Wills Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,52m² ,20 Sep 2022
+"458,000","102/100 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,2,60m² ,22 Aug 2022
+"645,000 ","1701/318 Russell Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,77m² ,2022
+"387,000","610/220 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,59m² ,06 Aug 2022
+"2,500,000 ","7206/228 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,4,4,2,194m² ,03 Aug 2022
+"1,243,400 ","8207/228 La Trobe Street,",MELBOURNE VIC 3000,New apartments / off the plan,2,2,1,90m² ,03 Aug 2022
+"850,000 ","7008/228 La Trobe Street,",MELBOURNE VIC 3000,New apartments / off the plan,2,1,1,62m² ,03 Aug 2022
+"500,000 ","5104/462 Elizabeth,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,61m² ,27 Jul 2022
+"550,000 ","2404/620 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,65m² ,27 Jul 2022
+"295,000","404/471 Little Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,50m² ,16 Jul 2022
+"604,000 ","905/181 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,81m² ,2022
+"1,350,000 ","5107/318 Russell Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,1,116m² ,10 Jun 2022
+"646,000 ","1311/87 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,100m² ,08 Jun 2022
+"517,000 ","201/538 Little Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,72m² ,07 Jun 2022
+"3,600,000","1701/8 Bowen Crescent,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,3,3,312m² ,10 May 2022
+"320,000","414/471 Little Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,− 0,1,−,50m² ,27 Apr 2022
+"663,000 ","1301/620 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,95m² ,13 Apr 2022
+"765,000 ","37/300 King Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,123m² ,13 Apr 2022
+"455,000 ","207/296 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,70m² ,11 Apr 2022
+"313,000 ","Level 30, 3007/639 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,50m² ,02 Apr 2022
+"465,000","1712/333 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,70m² ,30 Mar 2022
+"2,900,000","1112/108 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,3,2,195m² ,30 Mar 2022
+"680,000 ","2603/27 Therry Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,90m² ,20 Mar 2022
+"630,000 ","908/480 St Kilda Road,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,79m² ,14 Mar 2022
+"710,000 ","1702/265 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,81m² ,2022
+"335,000 ","2503/350 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,50m² ,06 Jan 2022
+"1,287,200 ","8110/228 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,1,91m² ,24 Dec 2021
+"1,281,900 ","8706/228 La Trobe Street,",MELBOURNE VIC 3000,New apartments / off the plan,3,2,1,104m² ,24 Dec 2021
+"404,000 ","Level 17, 1705/60 Market Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,68m² ,03 Dec 2021
+"480,000 ","Level 28, 2812/639 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,80m² ,05 Nov 2021
+"530,000 ","Level 18, 1811/7 Katherine Place,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,84m² ,25 Oct 2021
+"348,000 ","503/55-57 Flinders Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,54m² ,14 Oct 2021
+"400,000 ","4010/220 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,65m² ,27 Aug 2021
+"365,000 ","1307/8 Downie Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,60m² ,13 Aug 2021
+"434,600 ","Level 4, 423/181 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,75m² ,23 Jul 2021
+"720,000 ","117/61 MacKenzie Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,70m² ,14 Jul 2021
+"750,000 ","603/155 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,"930,000m² ",07 Jul 2021
+"782,500 ","Level 21, 2104/265 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,103m² ,28 Jun 2021
+"1,350,000 ","10/181 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,182m² ,10 Jun 2021
+"955,000 ","701/300 Swanston Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,1,110m² ,09 Apr 2021
+"355,000","1210/333 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,55m² ,09 Mar 2021
+"473,000 ","86/538 Little Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,80m² ,2021
+"650,000 ","706/18 Russell Place,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,108m² ,27 May 2020
+"345,000 ","321/757 BOURKE STREET,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,60m² ,07 Feb 2020
+"320,000 ","17 Singers Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,01 Dec 2019
+"400,000 ","505/442 Elizabeth Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,65m² ,17 Oct 2019
+"350,000 ","2602/350 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,58m² ,16 Oct 2019
+"782,000 ","1001/618 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,1,"2,094m² ",2019
+"340,000 ","503/547 Flinders Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,53m² ,25 Sep 2019
+"752,000 ","42/398 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,115m² ,2019
+"480,000","4001/639 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,65m² ,20 May 2019
+"630,000 ","3013/350 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,75m² ,01 May 2019
+"680,000 ","2102/8 Downie Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,110m² ,01 Apr 2019
+"335,000 ","2805/80 A'Beckett Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,998m² ,22 Mar 2019
+"290,000 ","401/17 Singers Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,01 Mar 2019
+"348,000 ","4806/568 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,2,−,53m² ,20 Nov 2018
+"707,000 ","1800/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,91m² ,2018
+"315,000 ","608/17 Singers Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,02 Nov 2018
+"701,000 ","3501/288 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,104m² ,1 Nov 2018
+"410,000 ","1006/200 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,63m² ,2018
+"640,000 ","4408/618 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,78m² ,17 Oct 2018
+"662,000 ","1300/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,91m² ,2018
+"480,000 ","1026/199 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,71m² ,12 Oct 2018
+"515,000 ","3706/618 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,63m² ,26 Sep 2018
+"640,500 ","1702/618 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,87m² ,13 Sep 2018
+"392,000 ","814/555 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,74m² ,0 Sep 2018
+"530,000 ","1207/565 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,89m² ,2018
+"455,000 ","1407/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,56m² ,2018
+"490,000 ","1415/325 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,71m² ,2018
+"619,300 ","806/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,82m² ,2018
+"668,800 ","3711/220 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,80m² ,31 Aug 2018
+"555,000 ","705/639 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,75m² ,29 Aug 2018
+"358,888 ","1110/565 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,62m² ,27 Aug 2018
+"610,000 ","1703/8 Sutherland Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,−,76m² ,24 Aug 2018
+"650,000 ","3701/601 Little Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,82m² ,14 Aug 2018
+"605,000 ","621/118 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,−,103m² ,2018
+"643,000 ","3011/220 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,77m² ,31 Jul 2018
+"706,000 ","1208/22-24 Jane Bell Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,95m² ,2018
+"420,000 ","408/422 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,54m² ,19 Jul 2018
+"573,000 ","2002/200 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,77m² ,13 Jul 2018
+"600,000 ","1108/265 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,76m² ,13 Jul 2018
+"423,000 ","2305/7 Katherine Place,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,60m² ,26 Jun 2018
+"605,000 ","301/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,2,72m² ,2018
+"840,000 ","153/33 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,2,112m² ,5 Jun 2018
+"611,000 ","1405/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,73m² ,2018
+"661,000 ","1702/22-24 Jane Bell Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,78m² ,2018
+"720,000 ","51/283 Spring Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,98m² ,2018
+"612,000 ","406/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,81m² ,2018
+"980,000 ","401/340 Russell Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,132m² ,2018
+"465,800 ","4305/33 Rose Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,59m² ,20 Apr 2018
+"520,000 ","3406/618 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,62m² ,18 Apr 2018
+"534,000 ","906/639 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,79m² ,17 Apr 2018
+"770,000 ","2003/68 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,133m² ,2018
+"330,000 ","903/565 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,54m² ,06 Apr 2018
+"340,000 ","42/287 Exhibition Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,56m² ,23 Mar 2018
+"657,000 ","1705/22-24 Jane Bell Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,79m² ,2018
+"585,000 ","3007/618 Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,68m² ,22 Mar 2018
+"680,000 ","46/283 Spring Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,90m² ,2018
+"522,000 ","1502/31 A'Beckett Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,63m² ,16 Mar 2018
+"600,000 ","85/538 Little Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,92m² ,13 Mar 2018
+"431,000 ","2004/200 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,57m² ,09 Mar 2018
+"499,000 ","1410/318 Russell Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,64m² ,07 Mar 2018
+"675,000 ","606/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,2,82m² ,07 Mar 2018
+"888,000 ","98/33 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,1,108m² ,2018
+"780,000 ","352/299 Spring Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,99m² ,2018
+"640,000 ","2309/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,72m² ,2018
+"525,500 ","104/166 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,64m² ,14 Feb 2018
+"335,000 ","103/25-33 Wills Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,65m² ,07 Feb 2018
+"455,000 ","1915/250 Elizabeth Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,64m² ,31 Jan 2018
+"390,000 ","207/253 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,57m² ,30 Jan 2018
+"645,000 ","1312/555 Flinders Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,117m² ,29 Dec 2017
+"470,000 ","1409/601 Little Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,55m² ,19 Dec 2017
+"380,000 ","2003/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,55m² ,14 Dec 2017
+"1,000,000 ","401/340 Russell Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,132m² ,2017
+"750,000 ","2608/620 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,2,112m² ,2017
+"669,000 ","345/299 Spring Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,104m² ,29 Nov 2017
+"670,000 ","3006/5 Sutherland Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,71m² ,0 Nov 2017
+"578,000 ","309/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,93m² ,08 Nov 2017
+"580,000 ","902/87 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,93m² ,2017
+"470,000 ","2713/33 Rose Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,55m² ,23 Oct 2017
+"655,500 ","3405/350 William Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,79m² ,20 Oct 2017
+"540,000 ","41/16-18 Bennetts Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,64m² ,2017
+"632,000 ","3509/200 Spencer Street,",MELBOURNE VIC 3000,New apartments / off the plan,2,2,1,73m² ,2017
+"536,000 ","3/114 Hardware Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,88m² ,06 Oct 2017
+"661,000 ","2714/87 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,93m² ,2017
+"470,000 ","1602/690 Elizabeth Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,57m² ,2017
+"570,000 ","1601/690 Elizabeth Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,66m² ,29 Sep 2017
+"800,000 ","143/33 La Trobe Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,2,111m² ,25 Sep 2017
+"581,000 ","2105/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,73m² ,2017
+"630,000 ","1002/22-24 Jane Bell Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,71m² ,2017
+"650,000 ","906/25 Therry Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,74m² ,31 Aug 2017
+"458,000 ","2107/80 A'Beckett Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,55m² ,2017
+"440,000 ","813/25 Therry Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,59m² ,24 Aug 2017
+"391,000 ","1603/668 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,56m² ,2017
+"565,000 ","709/87 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,89m² ,2017
+"1,310,000 ","909/576-578 St Kilda Road,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,2,152m² ,09 Jul 2017
+"800,000 ","G17/61 Mackenzie Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,124m² ,03 Jul 2017
+"340,000 ","903/25-33 Wills Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,51m² ,22 May 2017
+"440,000 ","711/25 Therry Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,62m² ,18 Apr 2017
+"680,000 ","205/151 Berkeley Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,74m² ,01 Apr 2017
+"575,000 ","1008/225 Elizabeth Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,70m² ,10 Mar 2017
+"475,000 ","904/380 Lt Lonsdale Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,64m² ,09 Mar 2017
+"440,000 ","811/25 Therry Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,62m² ,05 Mar 2017
+"425,000 ","1008/25 Therry Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,56m² ,22 Feb 2017
+"560,000 ","3004/318 Russell Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,63m² ,31 Jan 2017
+"456,000 ","2206/318 Russell Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,52m² ,18 Jan 2017
+"450,000 ","1708/218 A'beckett Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,57m² ,18 Jan 2017
+"775,000 ","3004/8 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,2,87m² ,24 Sep 2016
+"410,000 ","1210/250 Elizabeth Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,−,62m² ,01 Sep 2016
+"482,000 ","2008/620 Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,55m² ,04 Aug 2016
+"380,000 ","1010/270 King Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,59m² ,18 Apr 2016
+"1,100,000 ","801/111 Hardware Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,151m² ,09 Mar 2016
+"512,000 ","31/18 Queen Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,78m² ,16 Jan 2016
+"620,000 ","1207/8 Franklin Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,70m² ,13 Nov 2015
+"400,000 ","406/25 Wills Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,60m² ,14 Aug 2015
+"500,000 ","2810/220 Spencer Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,1,68m² ,30 Jul 2015
+"599,999 ","504/501 Little Collins Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,−,98m² ,18 May 2015
+"520,000 ","1301/22-24 Jane Bell Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,1,1,1,70m² ,24 Mar 2015
+"1,460,000 ","10/30 Oliver Lane,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,1,180m² ,2015
+"951,000 ","16/50 Bourke Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,2,1,145m² ,24 Feb 2015
+"1,350,000 ","223/299 Queen Street,",MELBOURNE VIC 3000,Apartment / Unit / Flat,3,2,2,163m² ,02 May 2014
+"379,000 ","808/233 Collins St,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,65m² ,19 Mar 2014
+"500,000 ","1401/639 LONSDALE,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,60m² ,07 Jan 2014
+"379,000 ","1109/233 Collins St,",MELBOURNE VIC 3000,Apartment / Unit / Flat,2,1,−,62m² ,25 Oct 2013
+"650,000 ","2/104 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,75m² ,26 Apr 2024
+"480,000 ","212/28 Bank Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,1,72m² ,23 Apr 2024
+"780,000 ","1101/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,103m² ,2024
+"918,000 ","14/12 Kensington Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,3,1,1,105m² ,27 Mar 2024
+"622,000 ","111/102 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,111m² ,2024
+"585,000 ","2401/18 Hoff Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,−,78m² ,19 Mar 2024
+"525,000 ","214/33 Spencer Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,65m² ,15 Mar 2024
+"535,000 ","501/93 Flemington Road,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,2,1,1,74m² ,04 Mar 2024
+"455,000","125/63 Spencer Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,55m² ,27 Feb 2024
+"1,756,000 ","135 Chetwynd Street,",NORTH MELBOURNE VIC 3051,Townhouse,3,2,2,105m² ,2024
+"680,000 ","149/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,96m² ,23 Feb 2024
+"670,000 ","2/4-6 Dobson Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,1,83m² ,20 Feb 2024
+"1,300,000 ","2204S/883 Collins Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,145m² ,12 Feb 2024
+"440,000","303/8 New Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,1,1,1,50m² ,03 Feb 2024
+"850,000","507/243 Toorak Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,94m² ,02 Feb 2024
+"760,000 ","1808/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,97m² ,24 Jan 2024
+"580,000 ","Unit 101/392 Spencer St,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,112m² ,22 Jan 2024
+"725,000 ","116/17-37 Abbotsford Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,89m² ,15 Jan 2024
+"1,205,000","906/188 Macaulay Road,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,4,2,3,127m² ,03 Jan 2024
+"760,000 ","405/37 Palmerston Street,",CARLTON VIC 3053,Apartment / Unit / Flat,3,2,1,133m² ,28 Dec 2023
+"620,000 ","1207/45 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,97m² ,28 Dec 2023
+"920,020 ","1401/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,124m² ,24 Dec 2023
+"455,000 ","318/74 Queens Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,1,1,69m² ,22 Dec 2023
+"690,000 ","219/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,96m² ,21 Dec 2023
+"628,888 ","903/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,2,101m² ,18 Dec 2023
+"610,000","3402/245 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,70m² ,10 Dec 2023
+"660,000 ","150B Wells Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,93m² ,2023
+"772,000 ","1/95 Dodds Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,127m² ,2023
+"1,680,000 ","41 Bendigo Street,",RICHMOND VIC 3121,Vacant land,0,0,0,360m² ,2023
+"1,250,000","11 MARY STREET,",NORTH MELBOURNE VIC 3051,Townhouse,3,2,1,61m² ,
+"1,650,000 ","5203/11 Bale Circuit,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,130m² ,01 Dec 2023
+"730,000 ","703/97 Palmerston Crescent,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,2,2,79m² ,25 Nov 2023
+"1,005,000 ","202/800 Chapel Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,123m² ,24 Nov 2023
+"1,300,000 ","402/10 Wominjeka Walk,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,2,2,191m² ,22 Nov 2023
+"725,000 ","304/668 Swanston Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,2,1,106m² ,20 Nov 2023
+"600,400","2/3 Chapel Mews,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,1,85m² ,17 Nov 2023
+"480,000","1507/8 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,60m² ,09 Nov 2023
+"1,340,000","3/36 Grey Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,3,2,1,169m² ,09 Nov 2023
+"483,000 ","1110/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,68m² ,08 Nov 2023
+"925,000 ","4/7-9 Park Street,",ST KILDA WEST VIC 3182,Apartment / Unit / Flat,2,1,−,90m² ,2023
+"625,000 ","3608/105 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,71m² ,20 Oct 2023
+"1,360,000","706/30 St Andrews Place,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,2,1,110m² ,18 Oct 2023
+"1,632,000","56 Kent Street,",RICHMOND VIC 3121,Townhouse,3,2,2,208m² ,2023
+"550,000","3/2-4 Mona Place,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,2,54m² ,14 Oct 2023
+"750,000","12/21-23 Brighton Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,1,87m² ,12 Oct 2023
+"574,000","403/38 Cunningham Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,1,1,75m² ,11 Oct 2023
+"925,000","704/9 Waterside Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,144m² ,09 Oct 2023
+"485,000 ","2917/555 Swanston Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,2,−,66m² ,06 Oct 2023
+"485,000 ","2917/551 Swanston Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,2,−,66m² ,06 Oct 2023
+"686,000","301/8 Waterview Walk,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,99m² ,05 Oct 2023
+"845,000 ","2/328 Malvern Road,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,2,−,120m² ,28 Sep 2023
+"410,000 ","101/89 Gladstone Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,−,67m² ,20 Sep 2023
+"1,350,000 ","2904N/883 Collins Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,189m² ,19 Sep 2023
+"582,000 ","2405/109 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,83m² ,2023
+"600,000 ","1105/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,86m² ,13 Sep 2023
+"11,800,000","275 Domain Road,",SOUTH YARRA VIC 3141,Block of units,25,25,11,660m² ,12 Sep 2023
+"4,800,000","146 Domain Street,",SOUTH YARRA VIC 3141,Block of units,6,7,−,283m² ,11 Sep 2023
+"1,542,000 ","106 Keppel Street,",CARLTON VIC 3053,Townhouse,2,2,1,92m² ,7 Sep 2023
+"938,000 ","9/83 Dodds Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,118m² ,04 Sep 2023
+"675,000 ","229/539 St Kilda Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,2,2,91m² ,02 Sep 2023
+"900,000 ","117/39 Dorcas Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,3,2,2,114m² ,2023
+"4,800,000 ","2701/45 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,5,4,5,600m² ,23 Aug 2023
+"730,000","415/23 Batman Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,108m² ,21 Aug 2023
+"715,000 ","303/2 McGoun Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,114m² ,18 Aug 2023
+"597,500","701/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,90m² ,18 Aug 2023
+"870,000 ","702/243 Toorak Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,99m² ,17 Aug 2023
+"425,000 ","1409/9 Power Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,55m² ,16 Aug 2023
+"728,500 ","103/10 Wominjeka Walk,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,130m² ,16 Aug 2023
+"526,500 ","3/26 Little Cardigan Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,1,1,66m² ,04 Aug 2023
+"780,000 ","1/79 Dodds Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,115m² ,2023
+"685,000","1/240 Punt Road,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,1,2,305m² ,22 Jul 2023
+"370,000 ","87/38 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,51m² ,18 Jul 2023
+"825,000 ","62/88 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,112m² ,2023
+"480,000 ","409/55 Queens Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,1,1,1,70m² ,06 Jul 2023
+"520,000 ","313/22 Chatham Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,1,1,60m² ,06 Jul 2023
+"740,000","511/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,197m² ,03 Jul 2023
+"1,200,000 ","1708/33 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,3,113m² ,02 Jul 2023
+"650,000 ","27/333 Coventry Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,76m² ,26 Jun 2023
+"553,500","203/112 Adderley Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,1,69m² ,22 Jun 2023
+"2,950,000","502/279 Wellington Parade South,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,3,3,2,194m² ,20 Jun 2023
+"575,000 ","3104/133 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,79m² ,15 Jun 2023
+"735,000 ","310/17-37 Abbotsford Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,87m² ,14 Jun 2023
+"680,000","29/16 Kensington Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,1,1,"1,890m² ",02 Jun 2023
+"740,000 ","2503/38 Albert Road,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,2,1,97m² ,31 May 2023
+"595,000 ","197/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,31 May 2023
+"875,000 ","106/83 Queens Bridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,153m² ,30 May 2023
+"440,000 ","2207/39 Caravel Lane,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,68m² ,26 May 2023
+"670,000 ","1705/628 Flinders Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,−,92m² ,24 May 2023
+"1,350,000","7308/70 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,126m² ,23 May 2023
+"425,000 ","703/70 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,69m² ,23 May 2023
+"5,250,000","1501/279 Wellington Parade South,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,4,3,3,350m² ,20 May 2023
+"705,000","1/272 Walsh Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,−,80m² ,16 May 2023
+"410,000 ","1008S/883 Collins Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,55m² ,12 May 2023
+"710,000 ","309/23 Queens Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,1,1,102m² ,09 May 2023
+"1,561,000 ","110 Wells Street,",SOUTHBANK VIC 3006,Townhouse,3,2,1,167m² ,2023
+"485,000 ","1506/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,70m² ,02 May 2023
+"1,435,000","401/42 Ralston Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,2,121m² ,25 Apr 2023
+"787,000 ","1110/7 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,110m² ,22 Apr 2023
+"618,000","506/1 Palmer Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,1,1,1,67m² ,15 Apr 2023
+"2,950,000 ","1-4/27 Larnook Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,12,4,4,673m² ,14 Apr 2023
+"680,000 ","7/33 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,129m² ,14 Apr 2023
+"1,250,000 ","805/112 Adderley Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,2,2,112m² ,13 Apr 2023
+"905,000","42/106 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,111m² ,2023
+"877,000 ","1/8 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,91m² ,2023
+"499,000 ","1703/38 Albert Road,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,1,67m² ,29 Mar 2023
+"1,080,000","202/1 Chapel Mews,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,116m² ,29 Mar 2023
+"765,000 ","1011/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,105m² ,24 Mar 2023
+"686,000 ","11/15 River Boulevard,",RICHMOND VIC 3121,Apartment / Unit / Flat,1,1,1,77m² ,3 Mar 2023
+"317,000","303/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,60m² ,2023
+"525,000 ","1/17 Burnett Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,1,70m² ,18 Mar 2023
+"565,000","1005/1 Point Park Crescent,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,70m² ,17 Mar 2023
+"560,000 ","414/2 McGoun Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,84m² ,16 Mar 2023
+"109,000 ","410/24 Barkly Place,",CARLTON VIC 3053,Apartment / Unit / Flat,1,1,−,358m² ,11 Mar 2023
+"795,900 ","4709E/18 Hoff Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,−,70m² ,07 Mar 2023
+"260,000","UNIT 12/35 CHARLES STREET,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,−,601m² ,
+"632,000 ","1003/70 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,82m² ,02 Mar 2023
+"560,000","3103/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,79m² ,28 Feb 2023
+"700,000","13 Alma Place,",ST KILDA VIC 3182,Vacant land,0,0,0,309m² ,2023
+"855,000 ","93/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,117m² ,22 Feb 2023
+"345,000","324/757 Bourke Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,−,62m² ,20 Feb 2023
+"748,000 ","3/86 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,110m² ,17 Feb 2023
+"428,000 ","S1410/231 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,50m² ,16 Feb 2023
+"560,000","308/6 Lord Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,1,1,72m² ,2023
+"315,000","6/2 Rotherwood Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,1,1,1,50m² ,16 Feb 2023
+"1,400,000","6/50 Walsh Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,3,1,1,118m² ,2023
+"600,000","1906/18 Hoff Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,−,73m² ,13 Feb 2023
+"1,340,000","30 Rowena Parade,",RICHMOND VIC 3121,Vacant land,0,0,0,200m² ,10 Feb 2023
+"2,161,603","28 Dove Street,",CREMORNE VIC 3121,Townhouse,3,4,6,200m² ,01 Feb 2023
+"988,888","26 Emu Lane,",PARKVILLE VIC 3052,Townhouse,3,2,2,154m² ,27 Jan 2023
+"620,000 ","159/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,23 Jan 2023
+"1,705,000 ","13/55 Canterbury Road (Entrance from Canterbury Place),",MIDDLE PARK VIC 3206,Townhouse,3,2,1,130m² ,09 Jan 2023
+"805,000 ","1/110 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,146m² ,2022
+"450,000","209/1 Palmer Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,1,1,1,65m² ,16 Dec 2022
+"640,000","302/47 Murphy Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,106m² ,12 Dec 2022
+"1,203,000 ","2902N/883 Collins Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,128m² ,08 Dec 2022
+"759,999","217/275 Abbotsford Street,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,2,2,1,80m² ,08 Dec 2022
+"650,000 ","1106/9 Power Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,75m² ,08 Dec 2022
+"457,000 ","318/74 Queens Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,1,1,69m² ,07 Dec 2022
+"1,705,000","305/85 Rathdowne Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,2,2,155m² ,2022
+"660,000 ","204/58 Stead Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,2,1,85m² ,25 Nov 2022
+"700,000","603/45 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,165m² ,24 Nov 2022
+"441,000 ","2408/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,68m² ,23 Nov 2022
+"507,000 ","1403/677 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,68m² ,1 Nov 2022
+"710,000 ","1705/39 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,83m² ,20 Nov 2022
+"500,000 ","1907/11 Bale Circuit,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,"3,700m² ",17 Nov 2022
+"413,000 ","2402/46-50 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,59m² ,11 Nov 2022
+"645,000 ","1403/70 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,82m² ,08 Nov 2022
+"657,000 ","48/28 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,80m² ,2022
+"375,000","5A/8 Waterside Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,78m² ,02 Nov 2022
+"1,320,000","59 Baker Street,",RICHMOND VIC 3121,Townhouse,3,1,1,110m² ,1 Oct 2022
+"850,000 ","84 York Street,",RICHMOND VIC 3121,Vacant land,0,0,0,166m² ,10 Oct 2022
+"510,000","2707/11 Bale Circuit,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,"254,951m² ",07 Oct 2022
+"670,000 ","3602/60 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,86m² ,06 Oct 2022
+"485,000 ","1717/22 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,70m² ,04 Oct 2022
+"575,000","2111/18 Hoff Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,−,"3,700m² ",04 Oct 2022
+"370,000 ","103/99 Palmerston Crescent,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,−,55m² ,03 Oct 2022
+"1,385,000 ","103 O'Shanassy Street,",NORTH MELBOURNE VIC 3051,Townhouse,3,1,2,147m² ,2022
+"835,000 ","6/106 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,190m² ,2022
+"3,200,000 ","1-3/67 Darling Street,",SOUTH YARRA VIC 3141,Block of units,5,3,3,714m² ,27 Sep 2022
+"790,000 ","38/101 Leveson Street,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,2,2,1,91m² ,21 Sep 2022
+"435,000","4007/18 Hoff Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,"3,700m² ",21 Sep 2022
+"910,000 ","310/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,121m² ,2022
+"1,080,000 ","7/18 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,140m² ,2022
+"2,000,000 ","102/28 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,188m² ,2022
+"2,500,000 ",,RICHMOND VIC 3121,Vacant land,0,0,0,408m² ,03 Sep 2022
+"310,000 ","5/82 Wellington Street,",ST KILDA VIC 3182,Studio,− 0,1,1,590m² ,31 Aug 2022
+"1,085,000","4602/45 Clarke Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,160m² ,20 Aug 2022
+"640,000 ","186/38 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,2,95m² ,17 Aug 2022
+"405,000 ","190/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,56m² ,15 Aug 2022
+"475,000 ","3/386 Toorak Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,1,74m² ,12 Aug 2022
+"367,000","405/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,−,62m² ,10 Aug 2022
+"1,210,000 ","3405/7 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,2,109m² ,01 Aug 2022
+"735,000","78/8 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,90m² ,2022
+"2,178,000","540-542 City Road,",SOUTH MELBOURNE VIC 3205,Vacant land,0,0,0,302m² ,26 Jul 2022
+"810,000","3/51 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,120m² ,2022
+"570,000 ","114/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,92m² ,15 Jul 2022
+"480,000 ","12/48 Chomley Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,1,1,66m² ,14 Jul 2022
+"835,000","22/83 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,109m² ,04 Jul 2022
+"335,000 ","10/42 Eastbourne Street,",WINDSOR VIC 3181,Apartment / Unit / Flat,1,1,1,501m² ,27 Jun 2022
+"1,943,000 ","87-89 Gardner Street,",RICHMOND VIC 3121,Block of units,10,3,−,266m² ,2022
+"540,000 ","309/100 Lorimer Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,79m² ,24 Jun 2022
+"815,000 ","2905/628 Flinders Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,92m² ,24 Jun 2022
+"829,000","1201/9 Waterside Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,93m² ,24 Jun 2022
+"430,500","5/22 Eildon Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,−,54m² ,20 Jun 2022
+"808,000 ","71/8 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,90m² ,2022
+"1,740,000","15A The Avenue,",WINDSOR VIC 3181,Townhouse,2,2,2,390m² ,2022
+"5,210,000 ","44 Gatehouse Street,",PARKVILLE VIC 3052,Block of units,15,15,7,737m² ,2022
+"668,800 ","1807/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,90m² ,09 Jun 2022
+"582,500 ","23/161 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,81m² ,08 Jun 2022
+"989,999","509/102 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,136m² ,2022
+"585,000 ","1302/26 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,65m² ,03 Jun 2022
+"500,000 ","1709/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,"1,495m² ",30 May 2022
+"2,400,000 ","1-4/261 Barkly Street,",ST KILDA VIC 3182,Block of units,7,4,4,475m² ,2022
+"2,500,000","3/2 Como Avenue,",SOUTH YARRA VIC 3141,Townhouse,3,2,2,236m² ,2022
+"320,000","801/109 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,50m² ,18 May 2022
+"515,000","106/275 Abbotsford Street,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,1,1,1,70m² ,16 May 2022
+"800,000 ","36/38 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,122m² ,2022
+"472,500 ","303/3 Alma Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,1,70m² ,13 May 2022
+"780,000 ","403/148 Wells Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,3,2,1,105m² ,11 May 2022
+"625,000 ","50/88 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,81m² ,07 May 2022
+"1,018,000 ","23/8 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,2,115m² ,05 May 2022
+"380,000 ","714/8 Marmion Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,60m² ,04 May 2022
+"570,000 ","29/15 River Boulevard,",RICHMOND VIC 3121,Apartment / Unit / Flat,1,1,1,82m² ,04 May 2022
+"388,000 ","2608/9 Power Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,55m² ,04 May 2022
+"720,000 ","1001/18 Waterview Walk,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,99m² ,03 May 2022
+"2,500,000","1404/296 Victoria Parade,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,2,2,151m² ,03 May 2022
+"14,500,000","1007/150 Clarendon Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,3,3,4,444m² ,28 Apr 2022
+"385,000 ","1004/109 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,60m² ,28 Apr 2022
+"360,000 ","13/89 Roden Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,−,50m² ,26 Apr 2022
+"460,000 ","1002/31 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,91m² ,20 Apr 2022
+"530,000","1002/2 Albert Road,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,1,68m² ,19 Apr 2022
+"724,000 ","302K/211 Powlett Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,1,1,117m² ,14 Apr 2022
+"485,000","440/111 Punt Road,",WINDSOR VIC 3181,Apartment / Unit / Flat,2,2,1,70m² ,14 Apr 2022
+"715,000 ","69/88 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,83m² ,2022
+"1,498,000 ","103/102 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,364m² ,2022
+"800,000 ","2/95 Dodds Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,127m² ,2022
+"450,000 ","2007/39 Caravel Lane,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,70m² ,08 Apr 2022
+"600,000 ","Level 7, 706/15 Caravel Lane,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,96m² ,07 Apr 2022
+"1,700,000 ","2407/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,3,2,351m² ,07 Apr 2022
+"3,325,000","226 Canterbury Road,",ST KILDA WEST VIC 3182,Block of units,12,6,2,445m² ,2022
+"615,000 ","36/352 Canterbury Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,2,85m² ,2022
+"570,000 ","234/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,80m² ,01 Apr 2022
+"4,400,000","41 Longmore Street,",ST KILDA WEST VIC 3182,Block of units,16,8,−,635m² ,2022
+"940,000 ","4/108 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,108m² ,2022
+"555,000","1704/109 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,82m² ,21 Mar 2022
+"930,000","1/219 Dandenong Road,",WINDSOR VIC 3181,Apartment / Unit / Flat,3,2,2,215m² ,21 Mar 2022
+"1,750,000 ","905/25 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,3,3,157m² ,17 Mar 2022
+"675,000 ","229/539 St Kilda Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,2,1,91m² ,16 Mar 2022
+"1,350,000","505/26 Queens Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,2,2,116m² ,15 Mar 2022
+"660,000 ","204/39 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,78m² ,10 Mar 2022
+"740,000 ","2004/23 Batman Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,84m² ,10 Mar 2022
+"513,000 ","1102/8 McCrae Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,78m² ,09 Mar 2022
+"4,330,000 ","153/28 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,4,4,2,463m² ,2022
+"2,500,150 ","413/280 Albert Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,2,2,142m² ,08 Mar 2022
+"1,475,000","1312/478a St Kilda Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,3,2,3,134m² ,02 Mar 2022
+"880,000 ","1/9 Thomas Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,1,1,110m² ,2022
+"520,000","2118/8 Marmion Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,64m² ,23 Feb 2022
+"1,255,000 ","2203/421 Docklands Drive,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,2,216m² ,22 Feb 2022
+"2,335,000 ","5302/35 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,175m² ,18 Feb 2022
+"1,470,000 ","901/700 Chapel Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,3,3,3,197m² ,15 Feb 2022
+"430,000 ","1703/231 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,57m² ,12 Feb 2022
+"440,000 ","1014/9 Power Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,97m² ,09 Feb 2022
+"665,000 ","703/1 Encounter Way,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,79m² ,07 Feb 2022
+"780,000","2303/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,119m² ,04 Feb 2022
+"565,000 ","403/2 Albert Road,,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,1,70m² ,02 Feb 2022
+"540,000 ","1106/18 Waterview Walk,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,84m² ,1 Jan 2022
+"800,000 ","14/185 Barkly Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,2,120m² ,2022
+"1,499,998","2/380 Toorak Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,3,2,2,168m² ,28 Jan 2022
+"520,531","57/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,81m² ,25 Jan 2022
+"600,000 ","109/68 Leveson Street,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,2,1,1,68m² ,14 Jan 2022
+"1,100,000 ","2305/9 Waterside Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,2,126m² ,12 Jan 2022
+"720,000 ","1111/77 Queens Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,2,1,86m² ,10 Jan 2022
+"330,000 ","2407/3 Yarra Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,−,600m² ,31 Dec 2021
+"350,000 ","1108/815 Bourke Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,50m² ,24 Dec 2021
+"1,075,000 ","1211 & 1212/26 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,99m² ,08 Dec 2021
+"755,000 ","5/90 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,80m² ,2021
+"406,000","6/7 Lambeth Place,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,1,62m² ,03 Dec 2021
+"373,000 ","813/8 Marmion Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,58m² ,2021
+"520,000 ","201/40-44 Pakington Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,2,1,79m² ,25 Nov 2021
+"750,000 ","365/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,90m² ,24 Nov 2021
+"450,000 ","1206/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,64m² ,22 Nov 2021
+"2,700,000","301/125 Fitzroy Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,3,2,5,210m² ,22 Nov 2021
+"545,000","16/21 Park Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,70m² ,20 Nov 2021
+"1,763,000 ","72 Coventry Street,",SOUTHBANK VIC 3006,Townhouse,3,2,1,206m² ,2021
+"560,000 ","3010/1 Freshwater Place,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,74m² ,16 Nov 2021
+"395,000 ","1301/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,60m² ,11 Nov 2021
+"800,000","2502/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,120m² ,11 Nov 2021
+"700,000","9/48 Darling Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,3,1,2,82m² ,04 Nov 2021
+"380,000 ","806/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,85m² ,29 Oct 2021
+"651,000","3/25 Octavia Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,1,539m² ,8 Oct 2021
+"646,000","1109/8 KAVANAGH STREET,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,96m² ,27 Oct 2021
+"1,270,000 ","54 Lambert Street,",RICHMOND VIC 3121,Townhouse,3,1,1,114m² ,23 Oct 2021
+"4,300,000","76 Osborne Street,",SOUTH YARRA VIC 3141,Vacant land,0,0,0,576m² ,20 Oct 2021
+"712,000 ","G17/555 St Kilda Road,",MELBOURNE VIC 3004,Apartment / Unit / Flat,2,2,1,114m² ,14 Oct 2021
+"545,000 ","805/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,81m² ,13 Oct 2021
+"732,000 ","22/88 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,128m² ,2021
+"386,000 ","2106/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,64m² ,11 Oct 2021
+"1,385,000 ","71A Alma Road,",ST KILDA VIC 3182,Townhouse,3,2,1,135m² ,2021
+"620,000 ","9/64 Alma Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,3,1,1,"1,318m² ",2 Oct 2021
+"670,000 ","126/38 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,2,101m² ,29 Sep 2021
+"495,000 ","1711/673-683 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,"6,898m² ",15 Sep 2021
+"400,000 ","1209/14 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,57m² ,23 Aug 2021
+"829,000","1/320 Toorak Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,95m² ,07 Aug 2021
+"555,000 ","609/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,72m² ,06 Aug 2021
+"999,888 ","1313/23 BATMAN STREET,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,2,2,100m² ,05 Aug 2021
+"462,500","G3/85 Leveson Street,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,1,1,1,54m² ,4 Aug 2021
+"658,000 ","87/22 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,140m² ,2021
+"885,000 ","5/17 Charnwood Grove,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,−,100m² ,2021
+"750,000","41 Little Buckingham Street,",RICHMOND VIC 3121,Vacant land,4,2,3,136m² ,20 Jul 2021
+"540,000 ","2/80 Fawkner Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,93m² ,19 Jul 2021
+"470,000 ","1207/61 Galada Avenue,",PARKVILLE VIC 3052,Apartment / Unit / Flat,2,1,1,72m² ,16 Jul 2021
+"525,000","405/101 St Kilda Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,2,1,77m² ,07 Jul 2021
+"715,000","2307/35 Malcolm Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,1,1,86m² ,05 Jul 2021
+"1,622,000","3/17A Fitzroy Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,3,1,−,175m² ,2021
+"765,000 ","36/38 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,2,138m² ,2021
+"710,000 ","3411/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,85m² ,9 Jun 2021
+"1,150,000","11 Howard Street,",SOUTH YARRA VIC 3141,Townhouse,2,2,−,58m² ,23 Jun 2021
+"620,000 ","1207/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,98m² ,17 Jun 2021
+"405,000 ","103/149 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,51m² ,17 Jun 2021
+"590,000 ","103/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,83m² ,03 Jun 2021
+"590,000","1706/22 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,77m² ,01 Jun 2021
+"1,601,500 ","118 Wells Street,",SOUTHBANK VIC 3006,Townhouse,3,2,1,130m² ,2021
+"1,155,000","1/78 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,148m² ,2021
+"365,000 ","608/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,53m² ,27 May 2021
+"690,000 ","406/1 Encounter Way,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,94m² ,1 May 2021
+"695,000 ","62/1 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,88m² ,2021
+"2,400,000","1101/182 Wellington Parade,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,2,2,130m² ,10 May 2021
+"380,000 ","1410/33 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,63m² ,10 May 2021
+"432,500 ","1109/14 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,57m² ,07 May 2021
+"415,000 ","156/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,59m² ,04 May 2021
+"637,000 ","8/8 Charnwood Grove,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,1,86m² ,8 Apr 2021
+"585,000 ","211/162 Albert Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,1,1,77m² ,27 Apr 2021
+"6,850,000 ","23 Darling Street,",SOUTH YARRA VIC 3141,Block of units,24,12,6,624m² ,2021
+"465,000","2302/3 St Kilda Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,1,50m² ,20 Apr 2021
+"810,000 ","3/104 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,93m² ,2021
+"865,000 ","2502/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,120m² ,16 Apr 2021
+"865,000 ","2502/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,120m² ,16 Apr 2021
+"570,000 ","111/124 Palmerston Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,1,−,89m² ,2021
+"1,430,000","14 Ellesmere Lane,",PRAHRAN VIC 3181,Townhouse,2,2,2,164m² ,2021
+"800,000 ","18/38 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,2021
+"550,000 ","3807/1 Freshwater Place,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,65m² ,30 Mar 2021
+"491,000 ","712/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,91m² ,0 Mar 2021
+"385,000 ","201/6 Duke Street,",WINDSOR VIC 3181,Apartment / Unit / Flat,1,1,−,50m² ,30 Mar 2021
+"800,000 ","18/38 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,27 Mar 2021
+"950,000 ","20/185 Barkly Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,3,3,1,120m² ,2021
+"478,500","8/84 Cromwell Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,111m² ,2021
+"400,000 ","29 Fawkner Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,70m² ,11 Mar 2021
+"437,000 ","110/8-18 Mccrae Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,135m² ,05 Mar 2021
+"343,750 ","1506/22 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,51m² ,02 Mar 2021
+"540,000","213/118 DUDLEY STREET,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,80m² ,01 Mar 2021
+"551,000","1502/8 Marmion Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,80m² ,24 Feb 2021
+"705,000 ","807/14 David St,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,83m² ,22 Feb 2021
+"999,999 ","701/665 Chapel Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,113m² ,22 Feb 2021
+"447,000 ","9/72 Withers Street,",ALBERT PARK VIC 3206,Apartment / Unit / Flat,1,1,1,425m² ,2021
+"580,000","3005/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,81m² ,2021
+"727,500 ","89/88 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,2021
+"680,000 ","31/539 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,2,2,140m² ,04 Feb 2021
+"556,500 ","302/20 Burnley Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,77m² ,29 Jan 2021
+"620,000","2309/7 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,65m² ,28 Jan 2021
+"570,000 ","712/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,88m² ,22 Jan 2021
+"420,000 ","1504/33 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,"1,151m² ",20 Jan 2021
+"640,000 ","702/83 Queens Bridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,95m² ,28 Dec 2020
+"1,350,000","706/30 St Andrews Place,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,2,1,110m² ,15 Dec 2020
+"1,350,000","706/30 St Andrews Place,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,2,1,110m² ,15 Dec 2020
+"375,000 ","1803/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,58m² ,11 Dec 2020
+"861,000 ","6/100 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,147m² ,2020
+"620,000 ","3/118 Dodds Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,82m² ,2020
+"920,000 ","61/211 Wellington Parade South,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,2,−,90m² ,09 Dec 2020
+"500,000","2003/8 Marmion Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,"3,089m² ",08 Dec 2020
+"1,951,000","81/1 Sandilands Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,3,3,2,257m² ,08 Dec 2020
+"1,850,000","13 Barry Street,",SOUTH YARRA VIC 3141,Vacant land,0,0,0,433m² ,06 Dec 2020
+"600,000 ","601/2 Glenti Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,91m² ,30 Nov 2020
+"427,200 ","606/18 Claremont Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,−,"8,667m² ",27 Nov 2020
+"1,780,000","29 Edinburgh Street,",RICHMOND VIC 3121,Townhouse,3,2,2,178m² ,13 Nov 2020
+"350,000","608/50 Claremont Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,−,"1,091m² ",09 Nov 2020
+"715,000 ","416/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,117m² ,09 Nov 2020
+"815,000 ","4/4 Moore Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,102m² ,2020
+"657,000 ","2/90 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,117m² ,2020
+"1,800,000 ","33 Clara Street,",SOUTH YARRA VIC 3141,Vacant land,0,0,0,218m² ,22 Sep 2020
+"550,000 ","1904/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,90m² ,15 Sep 2020
+"375,000 ","214/65 Dudley Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,−,72m² ,27 Aug 2020
+"1,043,000","309/28 Curzon Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,2,2,120m² ,20 Jul 2020
+"881,000 ","10/355 Beaconsfield Parade,",ST KILDA WEST VIC 3182,Apartment / Unit / Flat,2,1,−,79m² ,2020
+"735,000 ","501/9 Griffiths Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,84m² ,30 Jun 2020
+"425,000 ","202/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,52m² ,24 Jun 2020
+"387,000 ","1211/1 Freshwater Place,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,52m² ,24 Jun 2020
+"555,000","1206/45 Clarke Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,62m² ,23 Jun 2020
+"630,000 ","47 Fawkner Street,",ST KILDA VIC 3182,Vacant land,0,0,0,133m² ,04 Jun 2020
+"631,000","1106/14 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,99m² ,01 Jun 2020
+"811,000 ","3/1 Miles Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,93m² ,2020
+"940,500","6/38 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,112m² ,2020
+"570,000 ","306/46-49 Porter Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,1,1,76m² ,15 May 2020
+"845,000","6/91 Dodds Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,115m² ,21 Apr 2020
+"372,000 ","1004/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,52m² ,09 Apr 2020
+"1,441,000 ","76 Coventry Street,",SOUTHBANK VIC 3006,Townhouse,3,2,1,141m² ,2020
+"853,000 ","4/82 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,95m² ,2020
+"590,000 ","204/38 Cunningham Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,1,1,"1,623m² ",13 Mar 2020
+"565,000 ","411/35 Wilson Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,1,1,82m² ,10 Mar 2020
+"600,000 ","110/10 Porter Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,2,1,80m² ,06 Mar 2020
+"776,000 ","702/582 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,2,1,100m² ,2020
+"510,000 ","1303/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,60m² ,17 Feb 2020
+"550,000","913/65 Dudley Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,64m² ,17 Feb 2020
+"836,000","2/133 Dodds Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,123m² ,2020
+"345,000 ","321/757 BOURKE STREET,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,60m² ,07 Feb 2020
+"530,999 ","1507/57-61 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,913m² ,2020
+"580,000","308/79 Market Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,64m² ,20 Jan 2020
+"330,000 ","802/463 Docklands Drive,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,70m² ,13 Jan 2020
+"927,500 ","1204/915 Collins Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,95m² ,11 Jan 2020
+"445,000","121/285 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,60m² ,24 Dec 2019
+"690,000","1/26 Clifton Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,1,1,113m² ,16 Dec 2019
+"937,000","88/108 Greville Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,3,2,1,130m² ,2019
+"710,000 ","3106/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,92m² ,2019
+"495,000 ","2211/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,69m² ,2019
+"600,000 ","1001/22 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,"1,827m² ",09 Dec 2019
+"783,350 ","10/38 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,2019
+"1,036,000 ","93/8 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,2,127m² ,2019
+"340,000 ","3206/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,57m² ,26 Nov 2019
+"580,000 ","511/10 Burnley Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,80m² ,19 Nov 2019
+"1,830,000","1/171 Fitzroy Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,3,2,−,300m² ,03 Nov 2019
+"448,000 ","1608/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,"1,495m² ",28 Oct 2019
+"645,000 ","104/632 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,2,1,84m² ,10 Oct 2019
+"345,000 ","21/18 Lennon Street,",PARKVILLE VIC 3052,Townhouse,1,1,1,70m² ,2019
+"607,000 ","101/88 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,81m² ,2019
+"565,000 ","151/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,"2,637m² ",02 Oct 2019
+"500,000 ","2510/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,71m² ,01 Oct 2019
+"375,000 ","87/38 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,51m² ,2019
+"360,000 ","311/320 St Kilda Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,53m² ,21 Aug 2019
+"420,000","22 Prendergast Lane,",NORTH MELBOURNE VIC 3051,Townhouse,1,1,−,62m² ,09 Aug 2019
+"405,000 ","2200/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,50m² ,2019
+"378,000 ","57/38 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,51m² ,23 Jul 2019
+"550,000 ","1512/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,80m² ,22 Jul 2019
+"372,500 ","704/109 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,57m² ,15 Jul 2019
+"820,000 ","2002/915 Collins,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,86m² ,03 Jul 2019
+"600,000 ","2105/109 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,83m² ,02 Jul 2019
+"465,000 ","1906/135 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,"1,346m² ",2019
+"880,000 ","180/480 La Trobe Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,2,1,125m² ,2019
+"637,000 ","805/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,112m² ,2019
+"1,815,000 ","289/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,247m² ,19 May 2019
+"317,000 ","509/815 Bourke Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,58m² ,08 May 2019
+"540,000 ","1708/46-50 Haig street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,81m² ,04 May 2019
+"295,000 ","421/757 BOURKE STREET,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,60m² ,29 Apr 2019
+"295,000 ","421/757 BOURKE STREET,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,60m² ,29 Apr 2019
+"510,000","3/297 Dandenong Road,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,1,1,92m² ,29 Apr 2019
+"904,000 ","41 & 43 Courtney Street,",NORTH MELBOURNE VIC 3051,Vacant land,0,0,0,150m² ,2019
+"835,000 ","511/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,197m² ,2019
+"1,010,000 ","2604/3 Yarra Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,2,112m² ,27 Mar 2019
+"1,341,000 ","104/55 Victoria Harbour Promenade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,173m² ,19 Mar 2019
+"2,735,000 ","15 Balmoral Street,",SOUTH YARRA VIC 3141,Vacant land,0,0,0,387m² ,14 Mar 2019
+"1,355,000 ","2407/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,3,2,315m² ,07 Mar 2019
+"1,600,000","55 Graham Street,",ALBERT PARK VIC 3206,Vacant land,0,0,0,212m² ,03 Mar 2019
+"620,000 ","8/30 Miles Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,130m² ,02 Mar 2019
+"348,000 ","269/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,59m² ,01 Mar 2019
+"350,000 ","910/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,61m² ,2019
+"640,000 ","4/73 Queens Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,2,1,115m² ,2019
+"1,370,000 ","84 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,"11,445m² ",22 Feb 2019
+"725,000 ","207/19 Queens Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,2,1,102m² ,2019
+"600,000","2312/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,86m² ,12 Feb 2019
+"435,000 ","1110/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,68m² ,08 Feb 2019
+"445,000 ","2907/231 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,57m² ,07 Feb 2019
+"512,500","2405/109 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,83m² ,06 Feb 2019
+"815,000","1906/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,133m² ,04 Feb 2019
+"685,000 ","34/801 Bourke Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,107m² ,30 Jan 2019
+"420,000","2404/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,60m² ,27 Jan 2019
+"370,000 ","3007/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,"1,495m² ",24 Jan 2019
+"490,000 ","S3001/231 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,72m² ,18 Jan 2019
+"570,000","904/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,134m² ,17 Jan 2019
+"330,000","2410/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,56m² ,15 Jan 2019
+"409,987 ","7/22-24 EILDON ROAD,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,1,"1,003m² ",12 Jan 2019
+"537,000 ","1608/50 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,80m² ,01 Jan 2019
+"515,000 ","803/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,104m² ,01 Jan 2019
+"361,000 ","1306/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,"1,495m² ",01 Jan 2019
+"535,000","301/101 St Kilda Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,2,1,79m² ,24 Dec 2018
+"418,500 ","226/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,57m² ,17 Dec 2018
+"585,000","242/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,92m² ,14 Dec 2018
+"560,000","2106/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,81m² ,12 Dec 2018
+"297,000","11/14 Fitzroy Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,−,945m² ,12 Dec 2018
+"1,035,000","34/1 Flagstaff Lane,",WEST MELBOURNE VIC 3003,Townhouse,3,2,1,216m² ,12 Dec 2018
+"490,000 ","112/74 Queens Rd,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,1,1,1,108m² ,10 Dec 2018
+"530,000","148/83 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,84m² ,10 Dec 2018
+"565,000 ","23/161 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,81m² ,09 Dec 2018
+"660,000 ","8/23 Queens Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,1,2,163m² ,2018
+"235,432 ","10/42 WATERLOO CRESCENT,",ST KILDA VIC 3182,Studio,1,1,1,942m² ,08 Dec 2018
+"535,000 ","1305/8 Waterview Walk,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,82m² ,04 Dec 2018
+"700,000 ","2/56 Leicester Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,1,1,113m² ,30 Nov 2018
+"545,000 ","3303/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,"1,495m² ",29 Nov 2018
+"425,000","2904/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,61m² ,29 Nov 2018
+"500,000 ","8 De Le More Place,",NORTH MELBOURNE VIC 3051,Vacant land,0,0,0,93m² ,27 Nov 2018
+"350,000","806/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,59m² ,24 Nov 2018
+"520,000 ","1112/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,78m² ,2 Nov 2018
+"385,000 ","295/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,63m² ,21 Nov 2018
+"809,000","1703/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,125m² ,19 Nov 2018
+"588,000 ","237/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,1,1,92m² ,2018
+"960,000 ","1101/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,151m² ,2018
+"425,000 ","1009/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,65m² ,16 Nov 2018
+"366,000","3909/1 Balston Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,54m² ,16 Nov 2018
+"445,000 ","1902/57-61 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,−,76m² ,16 Nov 2018
+"770,000 ","2806/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,109m² ,13 Nov 2018
+"445,000 ","1102/58 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,1,64m² ,13 Nov 2018
+"478,000 ","1006/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,1,78m² ,12 Nov 2018
+"430,000 ","129/22 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,53m² ,09 Nov 2018
+"690,000 ","11/41 Marine Parade,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,1,"1,219m² ",07 Nov 2018
+"450,000 ","1311/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,63m² ,02 Nov 2018
+"607,729 ","8/41 EILDON ROAD,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,−,532m² ,02 Nov 2018
+"555,000","209/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,87m² ,01 Nov 2018
+"745,000 ","5406/7 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,2,1,73m² ,0 Oct 2018
+"530,000 ","231/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,77m² ,2018
+"940,000 ","902/15 Caravel Lane,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,130m² ,26 Oct 2018
+"440,000 ","65/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,121m² ,26 Oct 2018
+"895,000","352/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,113m² ,4 Oct 2018
+"780,000","9/28 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,123m² ,18 Oct 2018
+"315,000 ","28/233 Canterbury Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,1,1,1,"1,690m² ",2018
+"880,000 ","167/416A St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,3,2,1,111m² ,6 Oct 2018
+"645,000","803/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,149m² ,16 Oct 2018
+"600,000 ","801/8 McCrae Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,115m² ,15 Oct 2018
+"445,000 ","207/118 Dudley Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,81m² ,11 Oct 2018
+"330,000","507/838 Bourke St,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,55m² ,10 Oct 2018
+"460,000 ","421/539 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,1,1,1,88m² ,0 Oct 2018
+"550,000 ","292/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,10 Oct 2018
+"580,000 ","139/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,93m² ,08 Oct 2018
+"595,000 ","405/10 Porter Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,2,2,1,77m² ,07 Oct 2018
+"1,030,000 ","1902/39 Caravel Lane,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,140m² ,05 Oct 2018
+"550,000 ","2110/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,71m² ,2 Oct 2018
+"3,072,000","1 Kensington Road,",SOUTH YARRA VIC 3141,Vacant land,0,0,0,518m² ,01 Oct 2018
+"455,000 ","1005/61 Galada Avenue,",PARKVILLE VIC 3052,Apartment / Unit / Flat,2,1,1,72m² ,29 Sep 2018
+"640,000 ","2809/1 Freshwater Place,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,80m² ,27 Sep 2018
+"580,000 ","1008/3-5 St Kilda Road,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,2,1,70m² ,27 Sep 2018
+"455,000 ","1009/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,"6,903m² ",26 Sep 2018
+"391,500 ","111/22 Chatham Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,1,1,1,52m² ,24 Sep 2018
+"430,000 ","1709/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,69m² ,21 Sep 2018
+"415,000 ","2107/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,62m² ,1 Sep 2018
+"450,000 ","1215/52 Park Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,57m² ,20 Sep 2018
+"533,000","2301/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,75m² ,20 Sep 2018
+"528,000 ","1310/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,70m² ,20 Sep 2018
+"1,255,000 ","1808/7 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,144m² ,19 Sep 2018
+"490,000 ","148/28 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,67m² ,19 Sep 2018
+"701,000 ","6/38 Chapman Street,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,2,1,1,"1,877,743m² ",2018
+"505,000","1209/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,75m² ,15 Sep 2018
+"680,000 ","311/58 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,2,1,99m² ,2018
+"1,600,000 ","11M/9 Waterside Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,161m² ,14 Sep 2018
+"545,000 ","1605/80 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,14 Sep 2018
+"635,888 ","2903/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,95m² ,10 Sep 2018
+"440,000 ","3509/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,68m² ,10 Sep 2018
+"918,000 ","3402/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,2,123m² ,09 Sep 2018
+"590,000 ","2805/1 Balston Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,77m² ,09 Sep 2018
+"350,000 ","189/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,58m² ,08 Sep 2018
+"547,000 ","1906/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,77m² ,07 Sep 2018
+"605,000 ","146/99 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,94m² ,6 Sep 2018
+"580,000 ","2609/50 Albert Road,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,2,1,74m² ,04 Sep 2018
+"843,000 ","211/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,119m² ,2018
+"528,000","2201/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,76m² ,01 Sep 2018
+"375,000 ","315/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,59m² ,1 Aug 2018
+"455,000 ","114/123 Pelham Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,1,−,60m² ,4 Aug 2018
+"589,000 ","69/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,95m² ,24 Aug 2018
+"560,000 ","1103/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,86m² ,24 Aug 2018
+"560,000 ","1012/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,87m² ,23 Aug 2018
+"600,000","199/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,87m² ,3 Aug 2018
+"510,000","1709/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,76m² ,22 Aug 2018
+"990,000 ","123/8 Waterside Place,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,102m² ,21 Aug 2018
+"350,000 ","809/22 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,50m² ,17 Aug 2018
+"530,000 ","901/46-50 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,79m² ,16 Aug 2018
+"420,000 ","136/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,59m² ,5 Aug 2018
+"560,000 ","209/88 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,88m² ,13 Aug 2018
+"500,000","1109/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,66m² ,2018
+"500,000 ","611/80 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,101m² ,10 Aug 2018
+"606,000","602/1 Balston Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,82m² ,10 Aug 2018
+"538,000 ","183/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,87m² ,10 Aug 2018
+"580,000 ","112/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,91m² ,09 Aug 2018
+"430,000 ","2700/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,55m² ,09 Aug 2018
+"710,000 ","507/102 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,103m² ,2018
+"410,000 ","22/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,57m² ,3 Aug 2018
+"700,000 ","4005/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,85m² ,03 Aug 2018
+"380,000 ","303/27 Macquarie Street,",PRAHRAN VIC 3181,Apartment / Unit / Flat,1,1,−,59m² ,31 Jul 2018
+"590,000","1010/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,84m² ,30 Jul 2018
+"544,000","912/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,86m² ,2018
+"600,000 ","39/632 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,1,1,91m² ,23 Jul 2018
+"305,000","513/65 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,51m² ,21 Jul 2018
+"340,000 ","1200/8 Waterview Walk,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,56m² ,18 Jul 2018
+"895,000 ","3105/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,2,136m² ,18 Jul 2018
+"1,000,000 ","64/380 Toorak Road,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,3,2,2,111m² ,18 Jul 2018
+"728,000 ","2508/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,97m² ,17 Jul 2018
+"855,000 ","3304/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,2,149m² ,16 Jul 2018
+"585,000 ","909/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,75m² ,2018
+"525,000 ","47/99 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,148m² ,16 Jul 2018
+"1,160,000","3602/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,3,2,2,166m² ,2018
+"520,000 ","176/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,72m² ,2018
+"515,000 ","2204/151 City Road,",SOUTHBANK VIC 3006,New apartments / off the plan,2,1,1,70m² ,13 Jul 2018
+"590,000 ","203/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,92m² ,10 Jul 2018
+"585,000 ","609/2 Claremont Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,2,1,82m² ,04 Jul 2018
+"440,000 ","1406/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,64m² ,01 Jul 2018
+"1,175,000","145a Burnley St,",RICHMOND VIC 3121,Block of units,3,1,2,206m² ,2018
+"655,000","706/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,119m² ,28 Jun 2018
+"525,000 ","1405/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,72m² ,27 Jun 2018
+"609,000 ","318/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,93m² ,27 Jun 2018
+"690,000 ","1114/26 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,75m² ,27 Jun 2018
+"705,000 ","1909/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,102m² ,27 Jun 2018
+"546,000 ","1810/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,73m² ,26 Jun 2018
+"405,000 ","1105/65 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,50m² ,24 Jun 2018
+"665,000 ","613/28 Bank Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,2,1,82m² ,2018
+"686,000 ","258/22 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,104m² ,2018
+"410,000 ","1407/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,72m² ,2018
+"445,000 ","2606/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,65m² ,21 Jun 2018
+"750,000 ","17/1 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,108m² ,0 Jun 2018
+"512,500 ","507/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,74m² ,18 Jun 2018
+"433,000 ","2707/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,57m² ,18 Jun 2018
+"365,000 ","608/67-71 Stead Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,1,54m² ,16 Jun 2018
+"590,000 ","1805/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,82m² ,12 Jun 2018
+"695,000 ","1400/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,95m² ,12 Jun 2018
+"1,450,000 ","216/99 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,4,3,2,474m² ,12 Jun 2018
+"2,500,000 ","332 Victoria Street,",RICHMOND VIC 3121,Vacant land,0,0,0,511m² ,08 Jun 2018
+"451,500 ","21/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,67m² ,2018
+"497,500 ","1405/883 Collin St,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,53m² ,04 Jun 2018
+"512,000 ","173/38 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,76m² ,2018
+"1,565,000 ","42 Provost Street,",NORTH MELBOURNE VIC 3051,Townhouse,4,2,2,93m² ,02 Jun 2018
+"545,000 ","913/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,81m² ,29 May 2018
+"850,000","281/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,120m² ,2018
+"650,000 ","3605/133 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,2,74m² ,28 May 2018
+"399,000 ","505/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,58m² ,25 May 2018
+"890,880 ","2602/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,125m² ,24 May 2018
+"950,000 ","1011-1012/26 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,110m² ,24 May 2018
+"785,500 ","160/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,118m² ,23 May 2018
+"508,000","2404/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,70m² ,23 May 2018
+"815,000 ","3400/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,101m² ,2018
+"480,000 ","102/123 Pelham Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,1,−,64m² ,2018
+"410,000 ","259/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,57m² ,17 May 2018
+"570,500 ","2705/133 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,74m² ,16 May 2018
+"563,000 ","249/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,96m² ,16 May 2018
+"2,210,000 ","8 Hosie Street,",RICHMOND VIC 3121,Vacant land,0,0,0,337m² ,2018
+"604,000 ","1013/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,77m² ,2018
+"525,000 ","178/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,93m² ,11 May 2018
+"420,000 ","902/673 La Trobe Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,64m² ,08 May 2018
+"4,880,000","10 Park Avenue,",RICHMOND VIC 3121,Vacant land,0,0,0,813m² ,08 May 2018
+"535,000 ","2610/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,70m² ,07 May 2018
+"515,000 ","309/135 Roden Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,61m² ,07 May 2018
+"520,000 ","4/86 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,94m² ,05 May 2018
+"3,280,000 ","231 Queensberry Street,",CARLTON VIC 3053,Apartment / Unit / Flat,4,2,2,179m² ,02 May 2018
+"360,000","285/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,61m² ,02 May 2018
+"370,000 ","1104/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,62m² ,01 May 2018
+"348,000 ","85/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,63m² ,01 May 2018
+"580,000","45/69 Dorcas Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,91m² ,30 Apr 2018
+"390,000 ","2101/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,62m² ,30 Apr 2018
+"569,000 ","1/42-44 Albion Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,1,1,1,82m² ,2018
+"540,000 ","118/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,85m² ,2018
+"750,000 ","18/33 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,1,1,110m² ,26 Apr 2018
+"700,000 ","36/418 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,1,1,105m² ,24 Apr 2018
+"560,000 ","1605/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,80m² ,24 Apr 2018
+"652,000 ","2512/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,95m² ,23 Apr 2018
+"648,000 ","901/18 Waterview Walk,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,104m² ,19 Apr 2018
+"578,000 ","517/838 Bourke Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,76m² ,18 Apr 2018
+"505,000 ","2103/38 Albert Road,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,69m² ,18 Apr 2018
+"600,000 ","104/149 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,83m² ,18 Apr 2018
+"571,000 ","2403/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,72m² ,18 Apr 2018
+"790,000 ","225/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,121m² ,18 Apr 2018
+"655,000","105/69 Dorcas Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,97m² ,2018
+"361,500","1002/421 Docklands Drive,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,1,1,−,51m² ,14 Apr 2018
+"1,011,000 ","40 Little Curran Street,",NORTH MELBOURNE VIC 3051,Townhouse,3,2,1,128m² ,2018
+"1,100,000 ","41 Parkville Avenue,",PARKVILLE VIC 3052,Townhouse,3,2,2,183m² ,2018
+"626,000 ","1100/58 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,90m² ,2018
+"450,550 ","2900/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,55m² ,11 Apr 2018
+"375,000 ","2204/58 Clarke Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,52m² ,11 Apr 2018
+"505,888 ","203/33 Batman Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,91m² ,11 Apr 2018
+"390,000 ","125/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,62m² ,07 Apr 2018
+"380,000","1/26 Wynnstay Road,",PRAHRAN VIC 3181,Apartment / Unit / Flat,1,1,2,872m² ,04 Apr 2018
+"605,000 ","1008/12 Yarra Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,1,1,78m² ,30 Mar 2018
+"425,000 ","1103/58 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,1,56m² ,30 Mar 2018
+"596,000 ","1209/18 Waterview Walk,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,94m² ,27 Mar 2018
+"925,000 ","301/33-34 Queens Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,1,2,"4,496m² ",27 Mar 2018
+"415,000 ","187/83 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,61m² ,27 Mar 2018
+"823,000 ","503/38 Bank Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,3,2,2,119m² ,25 Mar 2018
+"500,000 ","204/33 Inkerman Street,",ST KILDA VIC 3182,Apartment / Unit / Flat,2,1,1,655m² ,23 Mar 2018
+"430,000 ","1011/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,60m² ,22 Mar 2018
+"370,000","405/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,58m² ,22 Mar 2018
+"526,500 ","108/264 Drummond Street,",CARLTON VIC 3053,Apartment / Unit / Flat,1,1,1,59m² ,21 Mar 2018
+"635,500 ","84/632 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,1,1,100m² ,21 Mar 2018
+"387,500 ","3114/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,56m² ,20 Mar 2018
+"475,000 ","3003/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,73m² ,19 Mar 2018
+"351,000 ","346/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,61m² ,19 Mar 2018
+"1,422,000 ","206 Kerferd Road,",ALBERT PARK VIC 3206,Townhouse,2,2,1,"1,488m² ",2018
+"700,000 ","8/22 Agnes Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,1,1,1,78m² ,2018
+"390,000 ","256/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,62m² ,16 Mar 2018
+"610,000 ","902/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,107m² ,16 Mar 2018
+"730,000 ","1109/26 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,66m² ,15 Mar 2018
+"580,000","3104/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,76m² ,14 Mar 2018
+"380,000 ","1811/22 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,53m² ,14 Mar 2018
+"382,000 ","304/211 Dorcas Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,1,1,1,50m² ,13 Mar 2018
+"758,000 ","3308/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,93m² ,11 Mar 2018
+"612,000 ","1204/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,81m² ,09 Mar 2018
+"2,335,000 ","501/430 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,4,3,2,"2,348m² ",04 Mar 2018
+"634,000 ","513/38 Bank Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,100m² ,03 Mar 2018
+"700,000 ","157/468 La Trobe Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,130m² ,2018
+"356,000 ","3009/133 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,58m² ,01 Mar 2018
+"610,100 ","51/69 Dorcas Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,99m² ,27 Feb 2018
+"345,000 ","1910/163 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,64m² ,27 Feb 2018
+"690,000 ","12/140 Kerferd Road,",ALBERT PARK VIC 3206,Apartment / Unit / Flat,2,1,1,810m² ,2018
+"728,500 ","9/46 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,102m² ,2018
+"592,000","2010/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,75m² ,3 Feb 2018
+"770,000 ","140/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,117m² ,23 Feb 2018
+"616,000 ","1605/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,87m² ,22 Feb 2018
+"345,000 ","606/33 Batman Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,−,50m² ,20 Feb 2018
+"1,005,000 ","89 York Street,",RICHMOND VIC 3121,Townhouse,2,1,1,182m² ,2018
+"592,000 ","31/38 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,88m² ,17 Feb 2018
+"2,160,000","17 Thomas Place,",PRAHRAN VIC 3181,Townhouse,3,2,4,450m² ,16 Feb 2018
+"536,000 ","168/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,85m² ,15 Feb 2018
+"430,000 ","502/35 Malcolm Street,",SOUTH YARRA VIC 3141,Apartment / Unit / Flat,2,1,−,59m² ,12 Feb 2018
+"615,000 ","2708/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,89m² ,11 Feb 2018
+"850,000 ","2901/63 Whiteman St,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,117m² ,05 Feb 2018
+"530,000 ","58/88 Southbank Boulevard,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,76m² ,2018
+"800,750 ","191/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,118m² ,2018
+"950,000","75/55 Victoria Harbour Prom,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,116m² ,02 Feb 2018
+"550,000","3201/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,76m² ,02 Feb 2018
+"673,000 ","12/28 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,136m² ,01 Feb 2018
+"535,000 ","2006/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,77m² ,31 Jan 2018
+"700,000 ","2906/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,109m² ,30 Jan 2018
+"710,000 ","901/222 Kings Way,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,90m² ,29 Jan 2018
+"625,000 ","1413/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,102m² ,25 Jan 2018
+"298,000 ","6208/570 Lygon Street,",CARLTON VIC 3053,Apartment / Unit / Flat,1,1,−,0,19 Jan 2018
+"475,000 ","1810/39 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,56m² ,15 Jan 2018
+"495,000 ","1702/39 Coventry Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,58m² ,14 Jan 2018
+"517,000 ","1311/283 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,75m² ,08 Jan 2018
+"2,400,000 ",,ST KILDA VIC 3182,Apartment / Unit / Flat,3,2,2,339m² ,31 Dec 2017
+"447,000 ","311/89 Roden Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,1,69m² ,27 Dec 2017
+"1,330,000 ","6/78 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,4,3,2,225m² ,23 Dec 2017
+"547,000 ","2501/89 Gladstone Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,816m² ,22 Dec 2017
+"558,000 ","1210/83 Queensbridge Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,96m² ,21 Dec 2017
+"670,000 ","806/102 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,103m² ,20 Dec 2017
+"570,000 ","1808/15 Caravel Lane,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,1,1,76m² ,15 Dec 2017
+"499,000 ","1208/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,15 Dec 2017
+"555,000 ","510/152 Sturt Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,71m² ,14 Dec 2017
+"260,000","345/800 Swanston Street,",CARLTON VIC 3053,Apartment / Unit / Flat,1,1,−,"7,272m² ",13 Dec 2017
+"505,000 ","276/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,76m² ,13 Dec 2017
+"373,000 ","1208/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,52m² ,12 Dec 2017
+"436,000 ","29/28 Southgate Avenue,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,106m² ,11 Dec 2017
+"635,000 ","309V/162 Albert Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,1,1,84m² ,2017
+"655,000 ","5/50 Leicester Street,",CARLTON VIC 3053,Apartment / Unit / Flat,2,1,1,89m² ,08 Dec 2017
+"568,000","306/815 Bourke Street,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,93m² ,08 Dec 2017
+"380,000 ","2814/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,56m² ,08 Dec 2017
+"365,000 ","101/704 Victoria Street,",NORTH MELBOURNE VIC 3051,Apartment / Unit / Flat,1,1,−,55m² ,2017
+"462,000 ","804/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,93m² ,06 Dec 2017
+"601,600 ","55/63 Dorcas Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,85m² ,05 Dec 2017
+"1,480,000","116/8 Wells Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,157m² ,05 Dec 2017
+"1,210,000","2D/18 Albert Road,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,3,2,2,151m² ,2017
+"427,500 ","2408/63 Whiteman Street,",SOUTHBANK VIC 3006,New apartments / off the plan,1,1,1,61m² ,30 Nov 2017
+"585,000 ","233/88 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,87m² ,29 Nov 2017
+"702,000 ","1601/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,103m² ,28 Nov 2017
+"705,000 ","5/46 Clarendon Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,107m² ,28 Nov 2017
+"1,010,000 ","5604/7 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,93m² ,28 Nov 2017
+"685,000 ","2109/180 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,108m² ,2017
+"580,000 ","307/23 Queens Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,2,1,1,98m² ,24 Nov 2017
+"400,000 ","1304/58 Clarke Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,52m² ,24 Nov 2017
+"740,000 ","3006/100 Harbour Esplanade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,108m² ,22 Nov 2017
+"623,000 ","2703/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,95m² ,21 Nov 2017
+"738,000 ","67/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,1,110m² ,20 Nov 2017
+"692,500 ","18/9 Tennyson Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,1,1,82m² ,2017
+"770,000 ","44/1 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,91m² ,17 Nov 2017
+"783,000 ","32/63 Dorcas Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,3,2,2,111m² ,15 Nov 2017
+"953,888 ","113/55 Victoria Harbour Promenade,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,1,123m² ,14 Nov 2017
+"580,000 ","2012/151 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,87m² ,2017
+"6,000,000 ","450-456 Victoria Street,",RICHMOND VIC 3121,Vacant land,0,0,0,"1,085m² ",09 Nov 2017
+"1,531,000","21A Barry Street,",SOUTH YARRA VIC 3141,Townhouse,2,2,1,149m² ,2017
+"1,505,000","80A Lewisham Road North,",PRAHRAN VIC 3181,Townhouse,2,2,1,109m² ,2017
+"780,000 ","406/30 Newquay Promenade,",DOCKLANDS VIC 3008,New apartments / off the plan,3,2,2,101m² ,2017
+"440,000 ","236/416 St Kilda Road,",MELBOURNE 3004 VIC 3004,Apartment / Unit / Flat,1,1,1,55m² ,01 Nov 2017
+"620,600 ","145/79 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,89m² ,01 Nov 2017
+"3,500,000","3/214 Albert Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,3,2,2,250m² ,30 Oct 2017
+"645,350 ","6/30 Miles Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,102m² ,30 Oct 2017
+"359,500 ","111/118 Dudley Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,1,53m² ,29 Oct 2017
+"850,000 ","189/480 La Trobe Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,3,2,1,150m² ,2017
+"520,000 ","5/33 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,1,114m² ,2017
+"575,000 ","289/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,92m² ,27 Oct 2017
+"388,000 ","202/8 Dorcas Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,59m² ,26 Oct 2017
+"740,000 ","2010/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,106m² ,24 Oct 2017
+"900,000","801/15 Caravel Lane,",DOCKLANDS VIC 3008,Apartment / Unit / Flat,2,2,2,130m² ,21 Oct 2017
+"770,000 ","83/1 Riverside Quay,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,96m² ,20 Oct 2017
+"575,000","2905/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,80m² ,19 Oct 2017
+"613,500","107/10 Burnley Street,",RICHMOND VIC 3121,Apartment / Unit / Flat,2,2,1,78m² ,15 Oct 2017
+"536,500 ","111/33 Cliveden Close,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,1,1,1,68m² ,2017
+"625,000 ","34 Miles Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,88m² ,12 Oct 2017
+"1,727,500","2/23 Wynnstay Road,",PRAHRAN VIC 3181,Townhouse,3,2,2,283m² ,2017
+"1,700,000 ","312-314 Burnley Street,",RICHMOND VIC 3121,Development site,0,0,0,328m² ,05 Oct 2017
+"595,000 ","1906/80 Clarendon St,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,88m² ,05 Oct 2017
+"655,000 ","113M/201 Powlett Street,",EAST MELBOURNE VIC 3002,Apartment / Unit / Flat,2,1,1,79m² ,2017
+"1,220,000 ","17 Shands Lane,",NORTH MELBOURNE VIC 3051,Townhouse,2,2,1,137m² ,03 Oct 2017
+"565,000 ","701/148 Wells Street,",SOUTH MELBOURNE VIC 3205,Apartment / Unit / Flat,2,1,1,76m² ,03 Oct 2017
+"625,000 ","2002/63 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,95m² ,03 Oct 2017
+"560,500 ","163/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,92m² ,25 Sep 2017
+"780,000 ","231/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,117m² ,25 Sep 2017
+"1,795,000","20 Atkinson Close,",PRAHRAN VIC 3181,Townhouse,3,2,2,150m² ,22 Sep 2017
+"535,000 ","2101/50 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,72m² ,22 Sep 2017
+"385,000 ","176/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,61m² ,12 Sep 2017
+"538,000 ","247/183 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,86m² ,11 Sep 2017
+"390,000 ","175/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,62m² ,10 Sep 2017
+"590,000 ","293/22 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,84m² ,04 Sep 2017
+"505,000 ","133/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,87m² ,2017
+"705,000 ","4/593 Spencer Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,2,92m² ,2017
+"3,510,000","6 Peter Street,",SOUTH YARRA VIC 3141,Townhouse,3,2,2,312m² ,2017
+"660,000 ","17/33 Jeffcott Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,2,1,86m² ,2017
+"500,000","16/44 Chetwynd Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,2,1,1,78m² ,26 Aug 2017
+"555,000 ","Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,91m² ,23 Aug 2017
+"565,000","3106/118 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,2,1,76m² ,23 Aug 2017
+"498,000 ","3/67 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,82m² ,17 Aug 2017
+"435,000 ","405/162 Rosslyn Street,",WEST MELBOURNE VIC 3003,Apartment / Unit / Flat,1,1,1,56m² ,11 Aug 2017
+"553,000 ","272/100 Kavanagh Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,93m² ,09 Aug 2017
+"345,000 ","345/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,−,59m² ,09 Aug 2017
+"516,000 ","1107/241 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,80m² ,08 Aug 2017
+"550,000 ","161/83 Whiteman Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,94m² ,04 Aug 2017
+"385,000 ","195/173 City Road,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,1,1,1,61m² ,24 Jul 2017
+"890,000 ","601/83 Queensbridge Street,",SOUTHBANK VIC 3006,New apartments / off the plan,3,2,3,144m² ,21 Jul 2017
+"1,640,000 ","14/21 Marine Parade,",ST KILDA VIC 3182,Apartment / Unit / Flat,3,2,2,161m² ,21 Jul 2017
+"610,000 ","2506/50 Haig Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,1,"1,214m² ",20 Jul 2017
+"1,360,000 ","2701/1 Freshwater Place,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,3,2,2,142m² ,17 Jul 2017
+"405,000 ","2304/58 Clarke Street,",SOUTHBANK VIC 3006,Apartment / Unit / Flat,2,1,−,56m² ,15 Jul 2017

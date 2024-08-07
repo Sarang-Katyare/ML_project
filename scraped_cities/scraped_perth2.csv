@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"526,000 ","36/255 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,116m² ,22 Apr 2024
+"670,000 ","126/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,122m² ,22 Apr 2024
+"689,000 ","2603/1 Geoffrey Bolton Avenue,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,73m² ,18 Apr 2024
+"565,000 ","1003/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,108m² ,16 Apr 2024
+"525,000 ","43/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,118m² ,08 Apr 2024
+"429,000 ","77/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,101m² ,02 Apr 2024
+"417,500 ","706/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,69m² ,28 Mar 2024
+"445,000 ","52/118 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,109m² ,28 Mar 2024
+"685,000 ","129/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,120m² ,27 Mar 2024
+"320,000 ","510/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,64m² ,26 Mar 2024
+"900,000 ","15/82 King Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,153m² ,25 Mar 2024
+"675,000 ","40/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,91m² ,20 Mar 2024
+"468,500 ","17/5 Smith Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,94m² ,19 Mar 2024
+"650,000 ","38/211 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,117m² ,18 Mar 2024
+"410,000 ","608/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,97m² ,18 Mar 2024
+"430,000 ","38/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,113m² ,15 Mar 2024
+"525,000 ","28/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,93m² ,14 Mar 2024
+"529,000 ","15C/811 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,−,119m² ,12 Mar 2024
+"450,000 ","2/59 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,128m² ,06 Mar 2024
+"635,000 ","27/65 Palmerston St,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,"635,356m² ",05 Mar 2024
+"385,000 ","37/180 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,91m² ,04 Mar 2024
+"480,000 ","29/474 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,123m² ,29 Feb 2024
+"475,000 ","7/33 Windsor Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,82m² ,26 Feb 2024
+"660,000 ","127/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,119m² ,21 Feb 2024
+"465,000 ","131/250 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,100m² ,19 Feb 2024
+"480,000 ","23/150 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,145m² ,19 Feb 2024
+"680,000 ","101/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,134m² ,16 Feb 2024
+"370,000 ","78/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,84m² ,12 Feb 2024
+"530,000 ","37/69 Milligan Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,112m² ,08 Feb 2024
+"375,000 ","37/280 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,79m² ,07 Feb 2024
+"465,000 ","31/122 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,116m² ,05 Feb 2024
+"518,000 ","28/378 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,107m² ,05 Feb 2024
+"320,000 ","147/250 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,79m² ,02 Feb 2024
+"900,000 ","11/65 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,208m² ,01 Feb 2024
+"500,000 ","705/2 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,106m² ,30 Jan 2024
+"735,000 ","4/63 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,4,2,2,253m² ,22 Jan 2024
+"410,000 ","177/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,84m² ,19 Jan 2024
+"500,000 ","44/255 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,116m² ,17 Jan 2024
+"718,000 ","11/918 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,4,2,1,152m² ,10 Jan 2024
+"390,000 ","38/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,92m² ,10 Jan 2024
+"790,000 ","1004/238 Adelaide Terrace,",PERTH WA 6000,New apartments / off the plan,2,2,1,116m² ,06 Jan 2024
+"390,000 ","102/238 Adelaide Terrace,",PERTH WA 6000,Studio,− 0,1,−,51m² ,05 Jan 2024
+"360,000 ","61/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,86m² ,04 Jan 2024
+"590,000 ","49/580 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,137m² ,02 Jan 2024
+"460,000 ","1017/380 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,72m² ,02 Jan 2024
+"380,000 ","7/116 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,112m² ,02 Jan 2024
+"385,000 ","30/152 Fitzgerald Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,86m² ,28 Dec 2023
+"340,000 ","22/126 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,59m² ,22 Dec 2023
+"385,000 ","38/76 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,93m² ,20 Dec 2023
+"553,000 ","32/67 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,113m² ,17 Dec 2023
+"320,000 ","18/126 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,59m² ,15 Dec 2023
+"550,000 ","501/2 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,125m² ,12 Dec 2023
+"410,000 ","114/126-128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,110m² ,04 Dec 2023
+"740,000 ","6/63 Palmerston Street,",PERTH WA 6000,Townhouse,3,2,2,270m² ,30 Nov 2023
+"357,500 ","505/9 Victoria Avenue,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,80m² ,27 Nov 2023
+"390,000 ","103/126-128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,107m² ,24 Nov 2023
+"369,000 ","12/126 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,76m² ,23 Nov 2023
+"504,999 ","706/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,108m² ,23 Nov 2023
+"340,000 ","4/33 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,66m² ,21 Nov 2023
+"680,000 ","3/250 Bulwer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,165m² ,20 Nov 2023
+"434,000 ","4/10 Wright Street,",PERTH WA 6000,Townhouse,2,1,1,62m² ,17 Nov 2023
+"642,000 ","1503/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,116m² ,17 Nov 2023
+"400,000 ","26/134 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,98m² ,15 Nov 2023
+"610,000 ","19 Throssell Street,",PERTH WA 6000,Vacant land,0,0,0,180m² ,15 Nov 2023
+"610,000 ","84/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,157m² ,10 Nov 2023
+"515,000 ","46/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,112m² ,07 Nov 2023
+"365,000 ","2/76 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,93m² ,03 Nov 2023
+"372,000 ","4/122 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,117m² ,02 Nov 2023
+"645,000 ","2201/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,167m² ,02 Nov 2023
+"562,000 ","26/258-264 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,165m² ,02 Nov 2023
+"515,000 ","1005/238 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,83m² ,31 Oct 2023
+"495,000 ","9/138 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,133m² ,31 Oct 2023
+"950,000 ","28/448 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,4,284m² ,31 Oct 2023
+"599,000 ","39/122 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,157m² ,29 Oct 2023
+"615,000 ","1601/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,114m² ,26 Oct 2023
+"506,000 ","14/145 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,107m² ,23 Oct 2023
+"450,000 ","10/5 Smith Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,94m² ,23 Oct 2023
+"292,000 ","6B/811 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,59m² ,23 Oct 2023
+"370,000 ","50/76 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,92m² ,22 Oct 2023
+"380,000 ","14/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,111m² ,19 Oct 2023
+"301,000 ","508/2 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,60m² ,18 Oct 2023
+"350,000 ","43/154-156 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,85m² ,17 Oct 2023
+"298,000 ","5M/811 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,56m² ,06 Oct 2023
+"930,000 ","8/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,197m² ,06 Oct 2023
+"370,000 ","71/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,92m² ,04 Oct 2023
+"500,000 ","3/58 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,165m² ,04 Oct 2023
+"610,000 ","143/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,161m² ,27 Sep 2023
+"430,000 ","801/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,95m² ,26 Sep 2023
+"380,000 ","35/211 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,83m² ,21 Sep 2023
+"485,000 ","804/2 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,101m² ,21 Sep 2023
+"610,000 ","146/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,120m² ,20 Sep 2023
+"370,000 ","7/110 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,103m² ,19 Sep 2023
+"292,000 ","10C/811 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,60m² ,18 Sep 2023
+"520,000 ","135/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,125m² ,15 Sep 2023
+"640,000 ","1901/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,114m² ,14 Sep 2023
+"450,000 ","44/122 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,194m² ,10 Sep 2023
+"355,000 ","26/569 Wellington Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,82m² ,06 Sep 2023
+"328,000 ","18/130 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,67m² ,31 Aug 2023
+"389,000 ","29/229 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,96m² ,26 Aug 2023
+"485,000 ","14/240 Bulwer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,114m² ,24 Aug 2023
+"350,000 ","103/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,76m² ,21 Aug 2023
+"560,000 ","46/280 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,127m² ,19 Aug 2023
+"360,000 ","34/180 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,83m² ,15 Aug 2023
+"520,000 ","2/3 Greenway Street,",PERTH WA 6000,Townhouse,2,1,1,104m² ,15 Aug 2023
+"360,000 ","54/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,111m² ,14 Aug 2023
+"525,000 ","12/226 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,81m² ,09 Aug 2023
+"355,000 ","3/418 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,93m² ,07 Aug 2023
+"945,000 ","88/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,183m² ,01 Aug 2023
+"265,000 ","310/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,67m² ,30 Jul 2023
+"485,000 ","501/238 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,80m² ,27 Jul 2023
+"265,000 ","505/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,67m² ,22 Jul 2023
+"1,600,000 ","2502/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,266m² ,21 Jul 2023
+"520,000 ","35/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,1,144m² ,20 Jul 2023
+"460,000 ","90/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,104m² ,17 Jul 2023
+"555,000 ","86/580 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,1,153m² ,13 Jul 2023
+"356,000 ","55/154-156 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,99m² ,2023
+"309,000 ","26/448 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,−,94m² ,06 Jul 2023
+"452,000 ","1/296 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,117m² ,05 Jul 2023
+"355,000 ","38/180 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,81m² ,30 Jun 2023
+"290,000 ","41/193 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,96m² ,30 Jun 2023
+"550,000 ","16/138 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,169m² ,29 Jun 2023
+"730,000 ","1904/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,133m² ,29 Jun 2023
+"499,000 ","905/238 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,82m² ,23 Jun 2023
+"320,000 ","3/448 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,−,97m² ,19 Jun 2023
+"410,000 ","313/126-128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,102m² ,19 Jun 2023
+"470,000 ","35/378 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,108m² ,19 Jun 2023
+"540,000 ","40/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,125m² ,14 Jun 2023
+"525,000 ","1502/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,109m² ,13 Jun 2023
+"830,000 ","7/18 Robinson Avenue,",PERTH WA 6000,Townhouse,3,2,2,233m² ,02 Jun 2023
+"375,000 ","24/280 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,80m² ,02 Jun 2023
+"630,000 ","58/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,149m² ,30 May 2023
+"470,000 ","74/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,100m² ,29 May 2023
+"425,000 ","34/28 Robinson Avenue,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,110m² ,19 May 2023
+"549,450 ","1502/238 Adelaide Terrace,",PERTH WA 6000,New apartments / off the plan,1,1,1,85m² ,15 May 2023
+"400,000 ","127/15 Aberdeen Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,95m² ,08 May 2023
+"465,000 ","130/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,108m² ,24 Apr 2023
+"450,000 ","1/10 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,112m² ,22 Apr 2023
+"355,000 ","403/238 Adelaide Terrace,",PERTH WA 6000,Studio,− 0,1,−,51m² ,20 Apr 2023
+"460,000 ","19/378 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,79m² ,19 Apr 2023
+"510,000 ","18/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,113m² ,16 Apr 2023
+"320,000 ","412/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,2,106m² ,16 Apr 2023
+"347,000 ","63/177 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,85m² ,16 Apr 2023
+"495,000 ","175/471 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,124m² ,04 Apr 2023
+"430,000 ","143/22 St. Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,100m² ,02 Apr 2023
+"662,500 ","9 Chapman Street,",PERTH WA 6000,Townhouse,3,1,2,163m² ,31 Mar 2023
+"567,500 ","48/34 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,166m² ,31 Mar 2023
+"370,000 ","5/211 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,87m² ,28 Mar 2023
+"560,000 ","7/138 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,133m² ,25 Mar 2023
+"243,000 ","307/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,68m² ,11 Mar 2023
+"400,088 ","11/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,119m² ,03 Mar 2023
+"615,000 ","157/143 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,148m² ,27 Feb 2023
+"435,000 ","12/33 Windsor Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,89m² ,21 Feb 2023
+"330,000 ","501/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,2,111m² ,10 Feb 2023
+"480,000 ","17/134 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,118m² ,30 Jan 2023
+"635,000 ","1/43 Bulwer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,207m² ,20 Jan 2023
+"270,000 ","9H/811 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,−,54m² ,14 Jan 2023
+"415,500 ","6/65 Milligan Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,100m² ,13 Jan 2023
+"307,500 ","36/65 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,"5,964m² ",29 Dec 2022
+"420,000 ","15/14 Money Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,111m² ,21 Dec 2022
+"520,000 ","35/67 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,119m² ,16 Dec 2022
+"525,000 ","58/280 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,126m² ,14 Dec 2022
+"680,000 ","65/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,136m² ,13 Dec 2022
+"400,000 ","25/120 Lake Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,101m² ,09 Dec 2022
+"440,000 ","26/10 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,125m² ,07 Dec 2022
+"429,000 ","42/33 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,113m² ,06 Dec 2022
+"380,000 ","49/280 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,79m² ,28 Nov 2022
+"400,000 ","5/10 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,116m² ,27 Nov 2022
+"346,000 ","10/8 Victoria Avenue,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,60m² ,25 Nov 2022
+"440,000 ","6/296 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,116m² ,19 Nov 2022
+"565,000 ","20/138 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,167m² ,19 Nov 2022
+"534,000 ","59/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,141m² ,15 Nov 2022
+"295,000 ","56/250 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,77m² ,27 Oct 2022
+"385,000 ","2/15 Aberdeen Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,94m² ,27 Oct 2022
+"428,000 ","9 Ioppolo Lane,",PERTH WA 6000,Vacant land,0,0,0,192m² ,26 Oct 2022
+"465,000 ","705/78 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,90m² ,24 Oct 2022
+"380,000 ","8/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,117m² ,11 Oct 2022
+"455,000 ","99/69 Milligan Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,105m² ,05 Oct 2022
+"625,000 ","23/14 Money Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,130m² ,2022
+"525,000 ","6/58 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,194m² ,19 Sep 2022
+"685,000 ","21/34 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,197m² ,15 Sep 2022
+"594,000 ","12/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,148m² ,14 Sep 2022
+"1,028,000 ","1802/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,174m² ,09 Sep 2022
+"345,000 ","612/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,2,139m² ,31 Aug 2022
+"535,000 ","44/180 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,134m² ,28 Aug 2022
+"300,000 ","25/114 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,55m² ,24 Aug 2022
+"630,000 ","18/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,134m² ,19 Aug 2022
+"412,500 ","35/250 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,126m² ,17 Aug 2022
+"540,000 ","3/138 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,142m² ,03 Aug 2022
+"740,000 ","20/134 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,191m² ,29 Jul 2022
+"350,000 ","704/78 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,71m² ,27 Jul 2022
+"715,000 ","23/211 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,237m² ,23 Jul 2022
+"416,000 ","5/10 Wright Street,",PERTH WA 6000,Townhouse,2,1,1,"1,363m² ",21 Jul 2022
+"345,000 ","110/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,75m² ,20 Jul 2022
+"475,000 ","29/150 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,130m² ,17 Jul 2022
+"315,000 ","912/305 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,80m² ,17 Jul 2022
+"610,000 ","13/258-264 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,171m² ,13 Jul 2022
+"395,000 ","2906/380 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,73m² ,08 Jul 2022
+"510,000 ","115/99 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,101m² ,04 Jul 2022
+"500,000 ","903/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,92m² ,29 Jun 2022
+"470,000 ","66/580 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,125m² ,27 Jun 2022
+"738,000 ","62/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,193m² ,22 Jun 2022
+"590,000 ","5/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,161m² ,22 Jun 2022
+"615,000 ","4/149 Vincent Street,",PERTH WA 6000,Townhouse,3,1,2,172m² ,21 Jun 2022
+"490,000 ","34/118 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,159m² ,14 Jun 2022
+"308,000 ","39/133 Lincoln Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,76m² ,14 Jun 2022
+"370,000 ","82/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,98m² ,07 Jun 2022
+"345,500 ","21/116 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,110m² ,06 Jun 2022
+"330,000 ","65/418 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,100m² ,05 Jun 2022
+"345,000 ","44/150 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,99m² ,01 Jun 2022
+"410,000 ","128/250 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,116m² ,31 May 2022
+"385,000 ","42/177 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,78m² ,10 May 2022
+"420,000 ","21/65 Milligan Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,99m² ,02 May 2022
+"402,000 ","11/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,119m² ,29 Apr 2022
+"385,000 ","16/29 Hill Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,75m² ,20 Apr 2022
+"338,000 ","114/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,62m² ,18 Apr 2022
+"750,000 ","30/65 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,155m² ,11 Apr 2022
+"555,000 ","10/14 Money Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,132m² ,07 Apr 2022
+"445,000 ","11/20 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,88m² ,06 Apr 2022
+"361,500 ","15/114 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,54m² ,03 Apr 2022
+"380,000 ","1202/78 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,83m² ,01 Apr 2022
+"292,000 ","11/375 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,84m² ,01 Apr 2022
+"353,000 ","71/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,92m² ,29 Mar 2022
+"344,000 ","63/418 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,93m² ,24 Mar 2022
+"440,000 ","11/71 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,99m² ,13 Mar 2022
+"800,000 ","24 Monger Street,",PERTH WA 6000,Vacant land,0,0,0,657m² ,03 Mar 2022
+"312,500 ","88/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,98m² ,02 Mar 2022
+"310,000 ","77/418 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,91m² ,01 Mar 2022
+"585,000 ","5/17 Gladstone Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,157m² ,26 Feb 2022
+"340,000 ","112/418 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,98m² ,24 Feb 2022
+"480,000 ","32/99 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,100m² ,17 Feb 2022
+"350,000 ","7/152 Fitzgerald Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,67m² ,13 Feb 2022
+"510,000 ","30/28 Robinson Avenue,",PERTH WA 6000,Apartment / Unit / Flat,3,1,2,140m² ,04 Feb 2022
+"605,000 ","7/39 Monger Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,137m² ,25 Jan 2022
+"240,000 ","510/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,64m² ,10 Jan 2022
+"370,000 ","53/99 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,79m² ,18 Dec 2021
+"1,080,000 ","120/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,182m² ,17 Dec 2021
+"490,000 ","9/918 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,111m² ,09 Dec 2021
+"570,000 ","22/14 Money Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,130m² ,2021
+"560,000 ","16/14 Money Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,119m² ,07 Dec 2021
+"535,000 ","44/280 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,154m² ,26 Nov 2021
+"1,310,000 ","506/11 Barrack Square,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,169m² ,24 Nov 2021
+"500,000 ","29/10 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,130m² ,22 Nov 2021
+"540,000 ","77/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,158m² ,17 Nov 2021
+"500,000 ","6/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,144m² ,17 Nov 2021
+"455,000 ","66/69 Milligan Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,117m² ,12 Nov 2021
+"605,000 ","58/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,149m² ,05 Nov 2021
+"400,000 ","10/59 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,109m² ,01 Nov 2021
+"600,000 ","6/39 Monger Street,",PERTH WA 6000,Townhouse,3,1,1,100m² ,28 Oct 2021
+"540,000 ","10/918 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,103m² ,18 Oct 2021
+"380,000 ","89/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,119m² ,14 Oct 2021
+"528,000 ","36/118 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,159m² ,07 Oct 2021
+"661,000 ","5/31 Windsor Street,",PERTH WA 6000,Townhouse,3,2,2,219m² ,02 Oct 2021
+"387,000 ","53/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,108m² ,26 Sep 2021
+"580,000 ","1/18 Brisbane Street,",PERTH WA 6000,Townhouse,2,2,2,185m² ,21 Sep 2021
+"315,000 ","103/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,99m² ,16 Sep 2021
+"255,000 ","11/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,93m² ,07 Sep 2021
+"315,000 ","12/2 Pisconeri Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,61m² ,29 Aug 2021
+"410,000 ","30/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,132m² ,24 Aug 2021
+"395,000 ","54/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,113m² ,16 Aug 2021
+"475,000 ","83/171 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,140m² ,04 Aug 2021
+"346,000 ","4/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,124m² ,20 Jul 2021
+"540,000 ","31/14 Money Street,",PERTH WA 6000,Townhouse,2,2,1,127m² ,18 Jul 2021
+"740,000 ","5/65 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,1,155m² ,11 Jul 2021
+"815,000 ","26/14 Money Street,",PERTH WA 6000,Townhouse,3,2,1,178m² ,28 Jun 2021
+"490,000 ","25/226 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,110m² ,15 Jun 2021
+"620,000 ","17/34 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,147m² ,08 Jun 2021
+"2,700,000 ","2701/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,4,4,2,509m² ,03 Jun 2021
+"475,000 ","601/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,2,143m² ,01 Jun 2021
+"362,000 ","56/378 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,84m² ,30 May 2021
+"365,000 ","401/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,88m² ,27 May 2021
+"535,000 ","18/10 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,127m² ,18 May 2021
+"535,000 ","18/10 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,127m² ,18 May 2021
+"375,000 ","106/69 Milligan Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,78m² ,14 May 2021
+"620,000 ","11/18 Robinson Avenue,",PERTH WA 6000,Townhouse,3,1,1,201m² ,25 Apr 2021
+"465,000 ","30/918 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,145m² ,23 Apr 2021
+"315,000 ","47/76 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,91m² ,09 Apr 2021
+"450,000 ","79/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,93m² ,07 Apr 2021
+"463,611 ","611/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,2,148m² ,29 Mar 2021
+"335,000 ","6/38 Bulwer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,71m² ,17 Mar 2021
+"440,000 ","63/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,103m² ,07 Mar 2021
+"350,000 ","17/116 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,111m² ,02 Mar 2021
+"295,000 ","50/154 Newcastle Street,",PERTH WA 6000,New apartments / off the plan,1,1,1,84m² ,26 Feb 2021
+"1,500,000 ","2006/1 Geoffrey Bolton Avenue,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,140m² ,16 Feb 2021
+"555,000 ","7/176 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,1,126m² ,13 Feb 2021
+"448,000 ","57/33 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,114m² ,11 Feb 2021
+"375,000 ","7/120 Lake Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,113m² ,10 Feb 2021
+"315,000 ","37/65 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,62m² ,08 Feb 2021
+"423,000 ","22/65 Milligan Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,100m² ,20 Jan 2021
+"650,000 ","15/229 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,150m² ,08 Jan 2021
+"292,000 ","U70/33 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,67m² ,05 Jan 2021
+"470,000 ","157/15 Aberdeen Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,98m² ,05 Jan 2021
+"320,000 ","83/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,84m² ,22 Dec 2020
+"470,000 ","159/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,137m² ,17 Dec 2020
+"290,000 ","4/838 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,63m² ,10 Dec 2020
+"350,000 ","107/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,70m² ,05 Dec 2020
+"295,000 ","73/154 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,64m² ,02 Dec 2020
+"455,000 ","98/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,85m² ,06 Nov 2020
+"485,000 ","3/478 William Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,169m² ,04 Nov 2020
+"305,000 ","85/33 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,67m² ,06 Oct 2020
+"500,000 ","7/117 Lake Street,",PERTH WA 6000,Townhouse,2,2,1,114m² ,19 Sep 2020
+"310,000 ","18/150 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,146m² ,15 Sep 2020
+"780,000 ","27/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,182m² ,13 Sep 2020
+"324,000 ","610/2 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,90m² ,01 Sep 2020
+"330,000 ","100/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,70m² ,31 Aug 2020
+"262,500 ","909/305 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,81m² ,19 Aug 2020
+"505,000 ","56/34 Palmerston Street,",PERTH WA 6000,Townhouse,2,2,1,196m² ,2020
+"360,000 ","1/33 Windsor Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,97m² ,08 Jul 2020
+"333,000 ","93/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,70m² ,01 Jul 2020
+"275,000 ","9/67 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,63m² ,30 Jun 2020
+"620,000 ","29/101 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,164m² ,21 Jun 2020
+"315,000 ","8/418-428 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,136m² ,19 May 2020
+"453,000 ","23/22 St Georges Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,91m² ,15 Apr 2020
+"319,000 ","49/229 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,94m² ,14 Apr 2020
+"335,000 ","16/448 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,90m² ,24 Mar 2020
+"550,000 ","4/54 Cheriton Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,163m² ,05 Mar 2020
+"365,000 ","14/122 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,112m² ,18 Feb 2020
+"240,000 ","207/112 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,68m² ,13 Feb 2020
+"345,000 ","16/250 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,116m² ,05 Feb 2020
+"520,000 ","1506/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,122m² ,09 Jan 2020
+"535,000 ","1906/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,122m² ,06 Jan 2020
+"645,000 ","15/34 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,170m² ,18 Dec 2019
+"499,000 ","58/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,135m² ,19 Nov 2019
+"600,000 ","63/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,159m² ,13 Nov 2019
+"270,000 ","52/133 Lincoln Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,69m² ,01 Nov 2019
+"386,000 ","89/262 Lord Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,113m² ,27 Oct 2019
+"720,000 ","64/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,289m² ,24 Oct 2019
+"400,000 ","18/59 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,103m² ,26 Sep 2019
+"395,000 ","802/237 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,107m² ,18 Sep 2019
+"800,000 ","88/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,183m² ,27 Aug 2019
+"520,000 ","1305/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,124m² ,14 Aug 2019
+"390,000 ","32/250 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,100m² ,10 Aug 2019
+"749,000 ","53/255 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,226m² ,04 Aug 2019
+"332,000 ","53/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,122m² ,02 Aug 2019
+"575,000 ","1803/105 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,116m² ,05 Jul 2019
+"330,000 ","8/33 Windsor Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,82m² ,14 Jun 2019
+"360,000 ","15/474 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,87m² ,16 Mar 2019
+"395,000 ","29/59 Brewer Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,118m² ,29 Oct 2018
+"290,000 ","3i/811 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,−,75m² ,23 Oct 2018
+"1,100,000 ","8/82 King Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,279m² ,06 Oct 2018
+"805,000 ","10/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,203m² ,29 Aug 2018
+"445,000 ","27/10 Pendal Lane,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,125m² ,09 Aug 2018
+"370,000 ","13/229 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,91m² ,27 Jun 2018
+"320,000 ","83/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,84m² ,20 May 2018
+"895,000 ","96/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,182m² ,15 Apr 2018
+"519,000 ","124/138 Barrack Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,1,145m² ,09 Apr 2018
+"250,000 ","19/29 Hill Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,−,67m² ,27 Feb 2018
+"475,000 ","27/76 Newcastle Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,117m² ,23 Jan 2018
+"490,000 ","7/226 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,110m² ,12 Dec 2017
+"710,000 ","12/18 Robinson Avenue,",PERTH WA 6000,Townhouse,3,2,2,152m² ,14 Nov 2017
+"600,000 ","74/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,2,151m² ,11 Nov 2017
+"752,000 ","11/580 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,243m² ,30 Oct 2017
+"430,000 ","57/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,114m² ,26 Oct 2017
+"535,500 ","61/128 Mounts Bay Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,155m² ,24 Jun 2017
+"355,000 ","53/418 Murray Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,100m² ,06 Jun 2017
+"1,310,000 ","9-11 Robinson Avenue,",PERTH WA 6000,Block of units,4,4,−,440m² ,04 May 2017
+"750,000 ","12/65 Palmerston Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,226m² ,17 Apr 2017
+"555,000 ","Level 4, 81/369 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,138m² ,24 Feb 2017
+"350,000 ","98/996 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,108m² ,30 Jan 2017
+"415,000 ","5/33 Windsor Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,88m² ,13 Jan 2017
+"685,000 ","2/210 Stirling Street,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,198m² ,11 Nov 2016
+"438,000 ","58/375 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,111m² ,07 Nov 2016
+"1,140,000 ","61/132 Terrace Road,",PERTH WA 6000,Apartment / Unit / Flat,3,2,2,227m² ,14 Oct 2016
+"370,000 ","3/33 Windsor Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,109m² ,15 Aug 2016
+"539,000 ","4/918 Hay Street,",PERTH WA 6000,Apartment / Unit / Flat,2,1,1,105m² ,16 Dec 2015
+"550,000 ","27/255 Adelaide Terrace,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,117m² ,12 Oct 2015
+"640,000 ","3/226 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,2,2,1,156m² ,09 Jan 2015
+"493,000 ","20/226 Beaufort Street,",PERTH WA 6000,Apartment / Unit / Flat,1,1,1,93m² ,30 Oct 2014
+"665,000 ","56/208 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,143m² ,24 Apr 2024
+"905,000 ","10/5 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,3,2,288m² ,24 Apr 2024
+"900,000 ","407/108 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,161m² ,24 Apr 2024
+"375,000 ","38/175 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,23 Apr 2024
+"760,000 ","1C Fourth Avenue,",MOUNT LAWLEY WA 6050,Townhouse,3,2,2,236m² ,22 Apr 2024
+"432,500 ","802/251 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,2,81m² ,17 Apr 2024
+"474,000 ","35/22 Nile Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,90m² ,16 Apr 2024
+"960,000 ","4/41 Ord Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,205m² ,15 Apr 2024
+"340,000 ","49/147 Charles Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,67m² ,15 Apr 2024
+"349,000 ","45A Scarborough Beach Road,",NORTH PERTH WA 6006,Vacant land,0,0,0,155m² ,12 Apr 2024
+"515,000 ","2/76 Guildford Road,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,85m² ,08 Apr 2024
+"437,500 ","56/128 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,113m² ,04 Apr 2024
+"420,000 ","208/122 Brown Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,99m² ,03 Apr 2024
+"650,000 ","2/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,244m² ,03 Apr 2024
+"480,000 ","7/5 Clarence Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,96m² ,03 Apr 2024
+"470,000 ","95/131 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,117m² ,02 Apr 2024
+"525,000 ","1408/8 Adelaide Tce,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,92m² ,02 Apr 2024
+"575,000 ","16/28 Stirling Highway,",NEDLANDS WA 6009,Apartment / Unit / Flat,2,1,1,96m² ,01 Apr 2024
+"1,450,000 ","95/78 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,3,2,283m² ,28 Mar 2024
+"495,000 ","14/18 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,196m² ,27 Mar 2024
+"600,000 ","3/16 Monash Avenue,",NEDLANDS WA 6009,Apartment / Unit / Flat,2,1,1,106m² ,26 Mar 2024
+"750,000 ","1/39 Labouchere Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,2,2,209m² ,25 Mar 2024
+"495,000 ","23/103 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,1,1,96m² ,24 Mar 2024
+"615,000 ","7/1 Fourth Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,2,1,109m² ,22 Mar 2024
+"400,000 ","701/35 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,72m² ,21 Mar 2024
+"555,000 ","5/76 Guildford Road,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,105m² ,21 Mar 2024
+"485,000 ","63/188 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,114m² ,20 Mar 2024
+"445,000 ","1/9 Shenton Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,1,1,128m² ,20 Mar 2024
+"505,500 ","6/323 STIRLING STREET,",HIGHGATE WA 6003,Townhouse,2,1,1,74m² ,19 Mar 2024
+"630,000 ","96/131 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,144m² ,18 Mar 2024
+"620,000 ","121/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,139m² ,15 Mar 2024
+"540,000 ","102/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,109m² ,15 Mar 2024
+"495,000 ","805/26 Charles Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,1,1,1,90m² ,14 Mar 2024
+"650,000 ","76/148 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,124m² ,13 Mar 2024
+"440,000 ","9/61 Elizabeth Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,1,1,88m² ,13 Mar 2024
+"800,000 ","52B Coode Street,",SOUTH PERTH WA 6151,Townhouse,3,1,2,226m² ,12 Mar 2024
+"331,000 ","8/21 Cook Street,",CRAWLEY WA 6009,Apartment / Unit / Flat,1,1,1,52m² ,11 Mar 2024
+"1,130,000 ","33/98 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,195m² ,11 Mar 2024
+"520,000 ","18/37-43 Florence Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,104m² ,07 Mar 2024
+"735,000 ","41/100 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,139m² ,01 Mar 2024
+"357,000 ","2/26 Little Walcott Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,1,1,1,80m² ,01 Mar 2024
+"875,000 ","4/36 Hopetoun Street,",SOUTH PERTH WA 6151,Townhouse,3,2,2,147m² ,01 Mar 2024
+"350,000 ","9/188 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,105m² ,27 Feb 2024
+"328,000 ","6/4 Kingston Avenue,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,50m² ,25 Feb 2024
+"415,000 ","3/336 Walcott Street,",COOLBINIA WA 6050,Apartment / Unit / Flat,2,1,1,118m² ,19 Feb 2024
+"525,000 ","3/32 Fielder Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,124m² ,19 Feb 2024
+"600,000 ","16/1 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,156m² ,17 Feb 2024
+"385,000 ","13/34 Kings Park Road,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,82m² ,15 Feb 2024
+"735,000 ","908/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,144m² ,12 Feb 2024
+"670,000 ","10/100 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,136m² ,09 Feb 2024
+"615,000 ","145/149-151 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,124m² ,09 Feb 2024
+"530,000 ","607/108 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,166m² ,08 Feb 2024
+"1,300,000 ","51/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,185m² ,07 Feb 2024
+"850,500 ","2/64 Wittenoom Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,4,2,2,180m² ,06 Feb 2024
+"371,000 ","6/65 Fourth Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,60m² ,05 Feb 2024
+"440,000 ","2/50 Fitzgerald Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,1,1,124m² ,05 Feb 2024
+"340,000 ","81/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,74m² ,04 Feb 2024
+"545,000 ","29/148 Adelaide Tce,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,124m² ,03 Feb 2024
+"375,000 ","65/273 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,101m² ,02 Feb 2024
+"1,075,000 ","26 Albert Street,",SOUTH PERTH WA 6151,Vacant land,0,0,0,349m² ,01 Feb 2024
+"500,000 ","36/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,120m² ,31 Jan 2024
+"600,000 ","25/16 Kings Park Road,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,133m² ,31 Jan 2024
+"330,000 ","56/190 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,86m² ,30 Jan 2024
+"540,000 ","8/103 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,106m² ,30 Jan 2024
+"355,000 ","101/311 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,112m² ,29 Jan 2024
+"620,000 ","209/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,124m² ,29 Jan 2024
+"325,500 ","2/121 Hill Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,74m² ,29 Jan 2024
+"545,000 ","34/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,109m² ,25 Jan 2024
+"475,000 ","5/5 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,111m² ,24 Jan 2024
+"560,000 ","36/148 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,124m² ,19 Jan 2024
+"530,000 ","23/19 Bowman Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,2,1,127m² ,19 Jan 2024
+"1,050,000 ","4/17 King Edward Street,",SOUTH PERTH WA 6151,Townhouse,3,2,2,261m² ,18 Jan 2024
+"360,000 ","806/251 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,−,75m² ,17 Jan 2024
+"395,000 ","25/43 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,81m² ,17 Jan 2024
+"410,000 ","1/217 Walcott Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,1,1,95m² ,17 Jan 2024
+"363,500 ","30/17 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,16 Jan 2024
+"978,900 ","24/42-52 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,196m² ,15 Jan 2024
+"701,555 ","2/5 Broome Street,",HIGHGATE WA 6003,Townhouse,3,2,1,215m² ,15 Jan 2024
+"385,000 ","18/1 Rookwood Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,92m² ,15 Jan 2024
+"490,000 ","17/48 Havelock Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,107m² ,15 Jan 2024
+"460,000 ","1/34 Carr Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,60m² ,15 Jan 2024
+"400,000 ","57/89 Aberdeen Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,1,1,1,64m² ,14 Jan 2024
+"495,000 ","59/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,119m² ,12 Jan 2024
+"337,500 ","5/18 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,115m² ,11 Jan 2024
+"385,000 ","4 Brio Lane,",NORTH PERTH WA 6006,Vacant land,0,0,0,221m² ,11 Jan 2024
+"995,000 ","Unit 1/41-43 Mount Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,288m² ,08 Jan 2024
+"490,000 ","306/2 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,104m² ,04 Jan 2024
+"610,000 ","7 Donley Lane,",NORTH PERTH WA 6006,Vacant land,0,0,0,350m² ,04 Jan 2024
+"700,000 ","80 Auckland Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,353m² ,03 Jan 2024
+"530,000 ","1/216 Loftus Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,1,98m² ,01 Jan 2024
+"450,000 ","802/9 Tully Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,86m² ,29 Dec 2023
+"490,000 ","37/259 - 269 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,134m² ,29 Dec 2023
+"422,000 ","3/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,105m² ,29 Dec 2023
+"345,000 ","3/33 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,80m² ,27 Dec 2023
+"312,000 ","5/11 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,91m² ,22 Dec 2023
+"860,000 ","54/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,157m² ,22 Dec 2023
+"505,000 ","58/134 Aberdeen Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,132m² ,2023
+"450,000 ","9/98 Lake Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,103m² ,22 Dec 2023
+"1,115,000 ","33/100 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,195m² ,21 Dec 2023
+"820,000 ","2/1 Kings Park Avenue,",CRAWLEY WA 6009,Apartment / Unit / Flat,3,2,2,195m² ,20 Dec 2023
+"360,000 ","80/18 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,88m² ,20 Dec 2023
+"595,000 ","1810/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,107m² ,20 Dec 2023
+"625,000 ","4/68 Coode Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,2,158m² ,20 Dec 2023
+"550,000 ","909/251 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,124m² ,18 Dec 2023
+"386,000 ","73/190 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,97m² ,18 Dec 2023
+"1,250,000 ","7/115 Wright Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,3,3,2,200m² ,17 Dec 2023
+"500,000 ","6/149-151 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,137m² ,15 Dec 2023
+"460,000 ","7C Cone Place,",MENORA WA 6050,Vacant land,0,0,0,354m² ,15 Dec 2023
+"475,000 ","65/42-52 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,115m² ,14 Dec 2023
+"492,000 ","8/14 Queens Crescent,",MOUNT LAWLEY WA 6050,Townhouse,2,1,1,75m² ,14 Dec 2023
+"397,000 ","5/1 Rookwood Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,92m² ,14 Dec 2023
+"290,000 ","6/187 Walcott Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,55m² ,13 Dec 2023
+"550,000 ","19A Norfolk Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,231m² ,13 Dec 2023
+"487,000 ","68/131 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,118m² ,12 Dec 2023
+"480,000 ","2/1 Stone Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,1,1,1,87m² ,12 Dec 2023
+"730,000 ","9/3 Mitchell Street,",MOUNT LAWLEY WA 6050,Townhouse,3,2,2,181m² ,11 Dec 2023
+"657,000 ","8/591 Beaufort Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,2,1,128m² ,11 Dec 2023
+"535,000 ","10/8 Prowse Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,108m² ,11 Dec 2023
+"360,000 ","53/6 Manning Terrace,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,61m² ,07 Dec 2023
+"475,000 ","2/7 Princess Road,",CRAWLEY WA 6009,Apartment / Unit / Flat,2,1,1,65m² ,06 Dec 2023
+"3,200,000 ","86 Victoria Avenue,",DALKEITH WA 6009,Vacant land,0,0,0,719m² ,06 Dec 2023
+"349,888 ","70/193 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,97m² ,06 Dec 2023
+"705,000 ","19A Burt Street,",MOUNT LAWLEY WA 6050,Vacant land,0,0,0,324m² ,06 Dec 2023
+"415,000 ","308/403 Newcastle Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,99m² ,06 Dec 2023
+"600,000 ","12 Little Shenton Lane,",NORTHBRIDGE WA 6003,Townhouse,2,1,2,138m² ,05 Dec 2023
+"555,000 ","2/21 Altona Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,107m² ,02 Dec 2023
+"390,000 ","54/43 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,80m² ,01 Dec 2023
+"455,000 ","36A Cleaver Street,",WEST PERTH WA 6005,Vacant land,0,0,0,216m² ,01 Dec 2023
+"535,000 ","22/123 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,120m² ,30 Nov 2023
+"385,000 ","90/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,1,1,1,77m² ,29 Nov 2023
+"500,000 ","1/103 Francis Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,110m² ,27 Nov 2023
+"482,000 ","17/1 Stone Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,1,1,1,90m² ,25 Nov 2023
+"410,000 ","202/4 Harper Terrace,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,1,1,1,50m² ,25 Nov 2023
+"590,000 ","87/149-151 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,131m² ,24 Nov 2023
+"645,000 ","11/98 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,138m² ,24 Nov 2023
+"530,000 ","1/19 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,142m² ,20 Nov 2023
+"371,777 ","7/36 Monmouth Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,98m² ,20 Nov 2023
+"483,000 ","4/62 Fitzgerald Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,109m² ,20 Nov 2023
+"511,000 ","23/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,153m² ,17 Nov 2023
+"600,000 ","106/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,133m² ,15 Nov 2023
+"418,000 ","44/103 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,1,1,1,75m² ,15 Nov 2023
+"460,000 ","45/5 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,110m² ,14 Nov 2023
+"425,000 ","9/333 Charles Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,2,126m² ,13 Nov 2023
+"445,000 ","9/1 Thirlmere Road,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,1,1,1,104m² ,10 Nov 2023
+"580,000 ","4N/9 Parker Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,85m² ,09 Nov 2023
+"850,000 ","59/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,157m² ,08 Nov 2023
+"305,000 ","177/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,68m² ,07 Nov 2023
+"700,000 ","11 Forrest Street,",MOUNT LAWLEY WA 6050,Vacant land,0,0,0,273m² ,07 Nov 2023
+"470,000 ","2/113 Royal Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,124m² ,02 Nov 2023
+"925,000 ","3/100 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,193m² ,02 Nov 2023
+"950,000 ","8/152A Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,1,132m² ,02 Nov 2023
+"450,250 ","13/386 Stirling Street,",HIGHGATE WA 6003,Townhouse,1,1,1,62m² ,01 Nov 2023
+"625,000 ","5/34 York Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,3,1,2,154m² ,01 Nov 2023
+"459,000 ","30/125 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,125m² ,31 Oct 2023
+"1,430,000 ","2/29 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,2,228m² ,31 Oct 2023
+"1,315,000 ","3/26 Renwick Street,",SOUTH PERTH WA 6151,Townhouse,4,2,2,297m² ,30 Oct 2023
+"485,000 ","24/1331 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,2,126m² ,30 Oct 2023
+"375,000 ","309/122 Brown Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,76m² ,26 Oct 2023
+"1,560,000 ","18B Karoo Street,",SOUTH PERTH WA 6151,Vacant land,0,0,0,558m² ,26 Oct 2023
+"440,000 ","72 Emmerson Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,199m² ,25 Oct 2023
+"290,000 ","109/106 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,−,53m² ,24 Oct 2023
+"300,000 ","Level 2, 303/29 Melville Parade,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,1,1,1,71m² ,24 Oct 2023
+"605,000 ","124/189 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,132m² ,22 Oct 2023
+"460,000 ","4/61 Elizabeth Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,1,1,109m² ,20 Oct 2023
+"362,000 ","38/190 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,101m² ,16 Oct 2023
+"755,000 ","45B Fourth Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,3,1,1,298m² ,16 Oct 2023
+"460,000 ","51/18 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,95m² ,14 Oct 2023
+"315,000 ","9/189 Adelaide Terrace,",EAST PERTH WA 6004,Studio,− 0,1,1,57m² ,12 Oct 2023
+"583,000 ","125/181 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,121m² ,12 Oct 2023
+"395,000 ","8/259-269 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,114m² ,11 Oct 2023
+"580,000 ","12/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,112m² ,11 Oct 2023
+"285,000 ","108/106 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,−,53m² ,10 Oct 2023
+"2,100,000 ","32 York Street,",NORTH PERTH WA 6006,Block of units,8,8,8,"1,012m² ",10 Oct 2023
+"431,000 ","#6 Brio Lane,",NORTH PERTH WA 6006,Vacant land,0,0,0,221m² ,09 Oct 2023
+"470,000 ","55/134 Aberdeen Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,140m² ,09 Oct 2023
+"222,000 ","1005/112-122 Goderich Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,50m² ,06 Oct 2023
+"470,000 ","1/288 Lord St,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,138m² ,05 Oct 2023
+"527,500 ","4/2 Douro Place,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,145m² ,02 Oct 2023
+"810,000 ","21/539 Beaufort Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,2,2,127m² ,01 Oct 2023
+"415,000 ","25/7-9 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,113m² ,28 Sep 2023
+"360,000 ","3/155 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,104m² ,27 Sep 2023
+"445,000 ","2/189 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,81m² ,26 Sep 2023
+"460,000 ","76/18 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,114m² ,22 Sep 2023
+"545,000 ","32/8 Prowse Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,148m² ,22 Sep 2023
+"460,000 ","31/33 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,101m² ,20 Sep 2023
+"378,500 ","407/251 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,93m² ,20 Sep 2023
+"750,000 ","2/24 Charles Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,2,180m² ,18 Sep 2023
+"470,000 ","38/118 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,122m² ,15 Sep 2023
+"360,000 ","14/7 Vincent Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,60m² ,15 Sep 2023
+"490,000 ","3/17 Adair Parade,",COOLBINIA WA 6050,Apartment / Unit / Flat,2,2,1,89m² ,14 Sep 2023
+"345,000 ","14/21 Cook Street,",CRAWLEY WA 6009,Apartment / Unit / Flat,1,1,1,52m² ,14 Sep 2023
+"1,000,000 ","3/9 Bowman Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,2,269m² ,13 Sep 2023
+"1,105,000 ","46/78 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,240m² ,12 Sep 2023
+"728,000 ","44/98 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,137m² ,11 Sep 2023
+"705,000 ","107/181 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,126m² ,11 Sep 2023
+"700,000 ","5/14 Little Walcott Street,",NORTH PERTH WA 6006,Townhouse,2,2,2,240m² ,11 Sep 2023
+"475,000 ","13/1020 Wellington Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,131m² ,11 Sep 2023
+"590,000 ","1302/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,97m² ,06 Sep 2023
+"950,000 ","80/42 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,198m² ,01 Sep 2023
+"850,000 ","54/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,157m² ,01 Sep 2023
+"680,000 ","6/374 Stirling Street,",HIGHGATE WA 6003,Townhouse,3,2,1,201m² ,31 Aug 2023
+"575,000 ","414/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,126m² ,29 Aug 2023
+"260,000 ","515/45 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,52m² ,28 Aug 2023
+"700,000 ","65/54 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,2,109m² ,24 Aug 2023
+"522,500 ","15/5 Antonas Road,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,124m² ,23 Aug 2023
+"483,000 ","22/8 Prowse Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,121m² ,21 Aug 2023
+"410,000 ","801/35 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,72m² ,20 Aug 2023
+"850,000 ","39/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,156m² ,18 Aug 2023
+"530,000 ","601/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,113m² ,18 Aug 2023
+"385,000 ","604/18 Rheola Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,97m² ,16 Aug 2023
+"640,000 ","73/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,3,2,2,156m² ,12 Aug 2023
+"760,000 ","63 Forrest Avenue,",EAST PERTH WA 6004,Vacant land,0,0,0,410m² ,2023
+"400,000 ","72/9 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,62m² ,11 Aug 2023
+"465,000 ","34/1 Bourke Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,1,92m² ,10 Aug 2023
+"490,000 ","3004/63 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,09 Aug 2023
+"357,000 ","15/60 Smith Street,",HIGHGATE WA 6003,Townhouse,2,1,1,91m² ,04 Aug 2023
+"545,000 ","130/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,107m² ,04 Aug 2023
+"445,000 ","70 Emmerson Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,197m² ,04 Aug 2023
+"390,000 ","3/1331 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,87m² ,04 Aug 2023
+"410,000 ","9/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,88m² ,02 Aug 2023
+"625,000 ","407/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,163m² ,01 Aug 2023
+"2,050,000 ","67 Mary Street,",HIGHGATE WA 6003,Vacant land,0,0,0,427m² ,01 Aug 2023
+"430,000 ","12/4 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,154m² ,01 Aug 2023
+"365,000 ","17/151 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,91m² ,27 Jul 2023
+"605,000 ","6/31 Kadina Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,2,178m² ,27 Jul 2023
+"1,100,000 ","107/42 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,217m² ,20 Jul 2023
+"735,000 ","3/21 Hardy St,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,2,2,154m² ,20 Jul 2023
+"760,000 ","2/8 Tully Road,",EAST PERTH WA 6004,Townhouse,3,2,2,229m² ,19 Jul 2023
+"460,000 ","61/151 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,119m² ,18 Jul 2023
+"450,000 ","11/134 Aberdeen Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,134m² ,15 Jul 2023
+"530,000 ","502/35 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,109m² ,14 Jul 2023
+"345,000 ","304/108 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,14 Jul 2023
+"341,888 ","14/269 James St,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,1,1,1,107m² ,14 Jul 2023
+"457,000 ","1/48 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,2,180m² ,12 Jul 2023
+"723,000 ","4/46 Gwenyfred Road,",KENSINGTON WA 6151,Townhouse,3,2,2,170m² ,11 Jul 2023
+"585,000 ","13/18-22 Plain Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,113m² ,10 Jul 2023
+"615,000 ","130 Vincent Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,228m² ,10 Jul 2023
+"545,000 ","1608/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,103m² ,10 Jul 2023
+"350,000 ","2/11 Regal Place,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,92m² ,06 Jul 2023
+"950,000 ","81/189 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,195m² ,05 Jul 2023
+"439,000 ","19/188 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,114m² ,05 Jul 2023
+"330,000 ","3/122 Brown Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,72m² ,05 Jul 2023
+"321,000 ","12/169 Railway Parade,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,84m² ,05 Jul 2023
+"700,000 ","4/37 Cleaver Street,",WEST PERTH WA 6005,Townhouse,3,1,2,166m² ,05 Jul 2023
+"628,000 ","5/6 Emerald Terrace,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,110m² ,04 Jul 2023
+"856,000 ","807/108 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,147m² ,30 Jun 2023
+"395,000 ","6 Little Saunders Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,91m² ,30 Jun 2023
+"1,880,000 ","10/65 Mount Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,250m² ,30 Jun 2023
+"415,000 ","16/48-50 Outram Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,103m² ,29 Jun 2023
+"1,100,000 ","4/47 Forrest Avenue,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,315m² ,28 Jun 2023
+"382,000 ","1A Chertsey Street,",MOUNT LAWLEY WA 6050,Vacant land,0,0,0,135m² ,26 Jun 2023
+"1,100,000 ","62B Wittenoom Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,4,3,1,304m² ,22 Jun 2023
+"303,000 ","9/188 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,105m² ,20 Jun 2023
+"330,000 ","20/36 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,80m² ,20 Jun 2023
+"590,000 ","2/34 Cowle Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,111m² ,20 Jun 2023
+"608,000 ","2/13 Kadina Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,2,126m² ,18 Jun 2023
+"120,000 ","68 Angelo Street,",SOUTH PERTH WA 6151,Development site,0,0,0,200m² ,17 Jun 2023
+"530,000 ","124/154 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,67m² ,15 Jun 2023
+"1,100,000 ","2D/73 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,2,225m² ,14 Jun 2023
+"602,000 ","1701/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,114m² ,13 Jun 2023
+"390,000 ","17/61 Elizabeth Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,1,1,95m² ,12 Jun 2023
+"430,000 ","2/3 Prowse Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,114m² ,12 Jun 2023
+"415,000 ","21/188 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,121m² ,09 Jun 2023
+"670,000 ","92/181 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,120m² ,09 Jun 2023
+"377,000 ","59/148 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,90m² ,09 Jun 2023
+"470,000 ","704/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,86m² ,06 Jun 2023
+"500,000 ","51/43 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,106m² ,06 Jun 2023
+"590,000 ","12/33 Malcolm Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,110m² ,06 Jun 2023
+"379,000 ","15/48 Havelock Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,77m² ,03 Jun 2023
+"1,100,000 ","3 Holmfirth Street,",MENORA WA 6050,Vacant land,0,0,0,916m² ,02 Jun 2023
+"485,000 ","11/39 Brown Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,118m² ,01 Jun 2023
+"337,000 ","68/118 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,85m² ,31 May 2023
+"350,000 ","25/17 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,31 May 2023
+"710,000 ","6 David Street,",KENSINGTON WA 6151,Vacant land,0,0,0,506m² ,31 May 2023
+"920,000 ","27A Wasley Street,",MOUNT LAWLEY WA 6050,Townhouse,3,2,2,181m² ,31 May 2023
+"390,000 ","804/63 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,80m² ,30 May 2023
+"351,000 ","7/340 Stirling Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,1,1,63m² ,30 May 2023
+"1,350,000 ","11/33 Royal Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,4,2,2,302m² ,29 May 2023
+"625,000 ","16/9 Parker Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,85m² ,29 May 2023
+"285,000 ","187/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,67m² ,28 May 2023
+"269,000 ","16/4 Kingston Avenue,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,50m² ,28 May 2023
+"1,900,000 ","11/8 Mounts Bay Road,",CRAWLEY WA 6009,Apartment / Unit / Flat,2,3,2,301m² ,27 May 2023
+"375,000 ","24/102 Goderich Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,108m² ,26 May 2023
+"340,000 ","2/156-158 Lincoln Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,1,1,1,117m² ,24 May 2023
+"360,000 ","5/59 Second Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,65m² ,24 May 2023
+"615,000 ","6/114 Stirling Highway,",NEDLANDS WA 6009,Apartment / Unit / Flat,2,1,1,114m² ,24 May 2023
+"775,000 ","4/40 Gwenyfred Road,",KENSINGTON WA 6151,Townhouse,3,2,2,256m² ,23 May 2023
+"730,000 ","1/8 Tully Road,",EAST PERTH WA 6004,Townhouse,3,2,2,197m² ,22 May 2023
+"554,000 ","9/337 Lord Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,2,152m² ,21 May 2023
+"430,000 ","90/9 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,104m² ,21 May 2023
+"560,000 ","8 Little Brown Street,",EAST PERTH WA 6004,Townhouse,2,1,1,82m² ,19 May 2023
+"1,020,000 ","1/10 Stone St,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,4,314m² ,19 May 2023
+"460,000 ","138/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,117m² ,18 May 2023
+"550,000 ","15/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,107m² ,17 May 2023
+"1,450,000 ","2A Archdeacon Street,",NEDLANDS WA 6009,Townhouse,4,2,2,443m² ,17 May 2023
+"415,000 ","39/570 William Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,1,1,1,78m² ,15 May 2023
+"415,000 ","14/1 Douro Place,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,128m² ,14 May 2023
+"520,000 ","9/22 Eastbrook Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,116m² ,13 May 2023
+"510,000 ","14/484 Fitzgerald Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,1,107m² ,12 May 2023
+"352,000 ","512/8 Moreau Parade,",EAST PERTH WA 6004,Studio,− 0,1,1,60m² ,11 May 2023
+"318,000 ","35/105 Colin Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,77m² ,10 May 2023
+"389,000 ","104/35 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,92m² ,08 May 2023
+"1,150,000 ",,NEDLANDS WA 6009,Apartment / Unit / Flat,2,2,2,189m² ,08 May 2023
+"790,000 ","4/1 Sekem Street,",NORTH PERTH WA 6006,Townhouse,3,2,2,134m² ,08 May 2023
+"420,000 ","6/28 Knutsford Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,1,1,1,111m² ,08 May 2023
+"369,000 ","24/49-53 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,93m² ,07 May 2023
+"285,000 ","4/16 Gwenyfred Road,",KENSINGTON WA 6151,Apartment / Unit / Flat,2,1,1,70m² ,05 May 2023
+"365,000 ","60/20 Royal Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,82m² ,04 May 2023
+"305,000 ","68/193 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,93m² ,04 May 2023
+"470,000 ","19/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,113m² ,04 May 2023
+"740,000 ","104/181 Central Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,2,1,139m² ,04 May 2023
+"770,000 ","68/100 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,140m² ,02 May 2023
+"490,000 ","14/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,159m² ,01 May 2023
+"405,000 ","7G/1303 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,107m² ,01 May 2023
+"3,000,000 ","112 Stirling Highway,",NEDLANDS WA 6009,Block of units,8,4,8,"1,045m² ",30 Apr 2023
+"455,000 ","18/134 Aberdeen Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,123m² ,30 Apr 2023
+"370,000 ","1509/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,80m² ,28 Apr 2023
+"465,000 ","32/17 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,103m² ,27 Apr 2023
+"305,000 ","5/193 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,94m² ,27 Apr 2023
+"525,000 ","E1/161 Colin Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,198m² ,21 Apr 2023
+"340,000 ","413/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,64m² ,20 Apr 2023
+"340,000 ","11/147 Charles Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,67m² ,20 Apr 2023
+"360,000 ","208/29 Melville Parade,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,99m² ,19 Apr 2023
+"270,000 ","311/201 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,−,81m² ,14 Apr 2023
+"575,000 ","3/69 Guildford Road,",MOUNT LAWLEY WA 6050,Townhouse,3,1,1,107m² ,14 Apr 2023
+"457,000 ","25/269 James Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,113m² ,13 Apr 2023
+"620,000 ","41/9 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,150m² ,13 Apr 2023
+"370,000 ","1302/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,75m² ,12 Apr 2023
+"585,000 ","7/52 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,133m² ,11 Apr 2023
+"832,000 ","68/78 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,153m² ,11 Apr 2023
+"540,000 ","18/32 Eastbrook Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,185m² ,2023
+"600,000 ","1206/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,117m² ,06 Apr 2023
+"586,000 ","601/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,121m² ,05 Apr 2023
+"585,000 ","21/83 Walcott Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,2,2,154m² ,05 Apr 2023
+"440,000 ","303/48 Outram Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,104m² ,04 Apr 2023
+"625,000 ","1608/63 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,108m² ,03 Apr 2023
+"600,000 ","30/16 Kings Park Road,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,149m² ,03 Apr 2023
+"500,000 ","32/1324 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,126m² ,03 Apr 2023
+"600,000 ","14/178 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,133m² ,02 Apr 2023
+"560,000 ","21/16 Kings Park Road,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,134m² ,01 Apr 2023
+"330,000 ","30/188 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,85m² ,31 Mar 2023
+"730,000 ","3/51 Mount Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,146m² ,30 Mar 2023
+"780,000 ","8/32 Outram Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,182m² ,29 Mar 2023
+"365,000 ","102/122 Brown Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,24 Mar 2023
+"325,000 ","17/48 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,91m² ,24 Mar 2023
+"335,000 ","10/23 Ardross Crescent,",COOLBINIA WA 6050,Apartment / Unit / Flat,2,1,−,62m² ,23 Mar 2023
+"1,600,000 ","1807/1 Harper Terrace,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,2,3,181m² ,21 Mar 2023
+"381,000 ","16/863-867 Wellington Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,88m² ,20 Mar 2023
+"715,000 ","1/143 Carr Street,",WEST PERTH WA 6005,Townhouse,3,2,2,207m² ,20 Mar 2023
+"508,000 ","6/28 Oak Lane,",WEST PERTH WA 6005,Townhouse,3,1,2,166m² ,20 Mar 2023
+"365,000 ","13/2 Mayfair Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,88m² ,19 Mar 2023
+"1,900,000 ","3/22 The Avenue,",CRAWLEY WA 6009,Apartment / Unit / Flat,2,2,2,142m² ,17 Mar 2023
+"670,000 ","12/47 Forrest Avenue,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,179m² ,14 Mar 2023
+"370,000 ","8/182 James Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,1,1,94m² ,14 Mar 2023
+"400,000 ","1/1 Erskine Link,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,159m² ,13 Mar 2023
+"390,000 ","61/43 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,98m² ,12 Mar 2023
+"385,000 ","28/2 Mayfair Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,91m² ,12 Mar 2023
+"390,000 ","18/570 William Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,1,1,1,87m² ,10 Mar 2023
+"770,000 ","12w/161 Colin Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,3,2,239m² ,10 Mar 2023
+"360,000 ","18/288 Lord Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,1,1,1,98m² ,08 Mar 2023
+"340,000 ","4/32 Outram Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,94m² ,08 Mar 2023
+"460,000 ","61/134 Aberdeen,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,127m² ,07 Mar 2023
+"465,000 ","9/141 Railway Parade,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,2,1,95m² ,28 Feb 2023
+"850,000 ","58 Burt Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,506m² ,23 Feb 2023
+"398,000 ","1503/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,82m² ,22 Feb 2023
+"450,000 ","4/24 Adair Parade,",COOLBINIA WA 6050,Apartment / Unit / Flat,2,1,1,155m² ,17 Feb 2023
+"471,285 ","23/48 Mount Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,105m² ,16 Feb 2023
+"425,000 ","42/863 Wellington Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,103m² ,16 Feb 2023
+"545,000 ","111A Second Avenue,",MOUNT LAWLEY WA 6050,Vacant land,0,0,0,315m² ,15 Feb 2023
+"210,000 ","310/112-122 Goderich Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,52m² ,13 Feb 2023
+"435,000 ","31/170 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,161m² ,13 Feb 2023
+"369,000 ","203/403 Newcastle Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,97m² ,13 Feb 2023
+"1,170,000 ","Apt 149/189 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,195m² ,10 Feb 2023
+"570,000 ","402/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,124m² ,10 Feb 2023
+"1,245,000 ","14/118 Royal Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,257m² ,08 Feb 2023
+"425,500 ","1/59 Second Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,2,102m² ,07 Feb 2023
+"400,000 ","1/22 Caporn Street,",CRAWLEY WA 6009,Apartment / Unit / Flat,1,1,1,57m² ,06 Feb 2023
+"589,000 ","3/21 Altona Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,123m² ,04 Feb 2023
+"875,000 ","1503/1 Harper Terrace,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,2,2,154m² ,02 Feb 2023
+"325,000 ","51/35 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,82m² ,01 Feb 2023
+"290,000 ","31/273 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,92m² ,01 Feb 2023
+"420,000 ","4/588 Newcastle Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,96m² ,01 Feb 2023
+"848,000 ","901/108 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,119m² ,29 Jan 2023
+"535,000 ","8/129 Carr Street,",WEST PERTH WA 6005,Townhouse,2,1,1,156m² ,28 Jan 2023
+"400,000 ","7/33 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,101m² ,27 Jan 2023
+"550,000 ","202/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,113m² ,27 Jan 2023
+"1,120,000 ","63/98 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,197m² ,25 Jan 2023
+"700,000 ","1C Field Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,2,2,138m² ,25 Jan 2023
+"367,000 ","5/287 Walcott Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,1,84m² ,22 Jan 2023
+"920,000 ","45A Milson Street,",SOUTH PERTH WA 6151,Townhouse,3,2,2,201m² ,22 Jan 2023
+"370,000 ","22/60 Smith Street,",HIGHGATE WA 6003,Townhouse,2,1,1,91m² ,19 Jan 2023
+"920,000 ","45/100 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,196m² ,17 Jan 2023
+"385,000 ","40/155 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,103m² ,16 Jan 2023
+"560,000 ","1/39-41 Bronte Street,",EAST PERTH WA 6004,Townhouse,3,2,2,176m² ,11 Jan 2023
+"365,000 ","4/990 Wellington Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,92m² ,11 Jan 2023
+"345,000 ","80/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,84m² ,10 Jan 2023
+"360,000 ","409/251 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,102m² ,09 Jan 2023
+"420,000 ","2704/63 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,80m² ,09 Jan 2023
+"482,000 ","92/131 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,115m² ,06 Jan 2023
+"570,000 ","18/65 Wittenoom Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,110m² ,05 Jan 2023
+"485,000 ","31/125 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,124m² ,22 Dec 2022
+"440,000 ","18/118 Adelaide Tce,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,100m² ,20 Dec 2022
+"672,000 ","3/2 Third Avenue,",MOUNT LAWLEY WA 6050,Townhouse,2,1,1,188m² ,20 Dec 2022
+"475,000 ","24/103-105 Francis Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,1,1,105m² ,20 Dec 2022
+"515,000 ","77/9 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,148m² ,19 Dec 2022
+"285,000 ","107/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,− 0,1,1,66m² ,17 Dec 2022
+"680,000 ","31 Sholl Lane,",NORTH PERTH WA 6006,Townhouse,3,2,2,120m² ,14 Dec 2022
+"472,000 ","53/9 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,123m² ,14 Dec 2022
+"540,000 ","4/20 Bellevue Terrace,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,2,148m² ,13 Dec 2022
+"558,000 ","305/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,101m² ,08 Dec 2022
+"603,000 ","214/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,134m² ,07 Dec 2022
+"470,000 ","1304/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,86m² ,07 Dec 2022
+"580,000 ","5/19 Little Shenton Lane,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,3,2,2,159m² ,07 Dec 2022
+"800,000 ","29/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,156m² ,06 Dec 2022
+"380,000 ","32/155 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,104m² ,06 Dec 2022
+"312,000 ","7/156 - 158 Lincoln Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,1,1,1,118m² ,06 Dec 2022
+"745,000 ","177D Fitzgerald Street,",WEST PERTH WA 6005,Townhouse,3,3,2,255m² ,06 Dec 2022
+"220,000 ","16/572 Newcastle Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,96m² ,06 Dec 2022
+"555,000 ","8 Little Brown Street,",EAST PERTH WA 6004,Townhouse,2,1,1,82m² ,05 Dec 2022
+"1,450,000 ",,NORTH PERTH WA 6006,Vacant land,0,0,0,"1,012m² ",05 Dec 2022
+"390,000 ","1403/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,88m² ,02 Dec 2022
+"420,000 ","2/53 Stirling Hwy,",NEDLANDS WA 6009,Apartment / Unit / Flat,2,1,1,84m² ,01 Dec 2022
+"345,000 ","3/287 Walcott Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,1,84m² ,01 Dec 2022
+"532,000 ","9/2 Douro Place,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,138m² ,01 Dec 2022
+"437,000 ","18/2 Outram Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,98m² ,01 Dec 2022
+"295,000 ","8/863 Wellington Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,2,69m² ,01 Dec 2022
+"435,000 ","4/48 Havelock Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,109m² ,30 Nov 2022
+"475,000 ","3/131 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,1,125m² ,29 Nov 2022
+"248,000 ","64/193 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,85m² ,25 Nov 2022
+"637,500 ","17/69 Malcolm Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,172m² ,23 Nov 2022
+"583,000 ","7E/9 Parker Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,85m² ,22 Nov 2022
+"475,000 ","202/71 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,101m² ,21 Nov 2022
+"1,300,000 ","221/189 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,196m² ,21 Nov 2022
+"430,000 ","9/48 Outram Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,104m² ,19 Nov 2022
+"1,625,000 ","24/3 Park Avenue,",CRAWLEY WA 6009,Apartment / Unit / Flat,3,2,2,175m² ,17 Nov 2022
+"510,000 ","88a Third Avenue,",MOUNT LAWLEY WA 6050,Vacant land,0,0,0,316m² ,15 Nov 2022
+"465,000 ","44/8 Kadina Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,3,2,2,125m² ,15 Nov 2022
+"650,000 ","57/103 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,2,123m² ,14 Nov 2022
+"540,500 ","2/39-41 Bronte Street,",EAST PERTH WA 6004,Townhouse,3,2,2,176m² ,11 Nov 2022
+"624,000 ","106/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,215m² ,10 Nov 2022
+"1,700,000 ","46/88 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,3,252m² ,09 Nov 2022
+"480,000 ","8/52 Third Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,56m² ,09 Nov 2022
+"515,000 ","59/1178 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,141m² ,09 Nov 2022
+"600,000 ","32/16 Kings Park Road,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,134m² ,07 Nov 2022
+"780,000 ","16D Princess Road,",CRAWLEY WA 6009,Townhouse,2,2,1,159m² ,04 Nov 2022
+"1,435,000 ","96/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,186m² ,04 Nov 2022
+"359,500 ","4/36B Third Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,1,1,1,106m² ,04 Nov 2022
+"539,000 ","193/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,131m² ,03 Nov 2022
+"410,000 ","33/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,91m² ,02 Nov 2022
+"379,000 ","68/43 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,01 Nov 2022
+"450,000 ","3/555 William Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,120m² ,01 Nov 2022
+"820,000 ","1/7 Stone Street,",SOUTH PERTH WA 6151,Townhouse,3,2,2,171m² ,01 Nov 2022
+"775,000 ","19/20 Bellevue Terrace,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,2,129m² ,31 Oct 2022
+"462,500 ","17/134 Aberdeen Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,123m² ,30 Oct 2022
+"378,500 ","4/111 Colin Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,119m² ,27 Oct 2022
+"400,000 ","19/7-9 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,91m² ,26 Oct 2022
+"335,000 ","60/131 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,84m² ,25 Oct 2022
+"340,000 ","66/128 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,82m² ,24 Oct 2022
+"280,000 ","9/240 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,71m² ,24 Oct 2022
+"750,000 ","12/20 Royal Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,202m² ,22 Oct 2022
+"285,000 ","34/193 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,101m² ,21 Oct 2022
+"323,000 ","45/11 Regal Place,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,90m² ,20 Oct 2022
+"750,000 ","58/98 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,138m² ,20 Oct 2022
+"800,000 ","42/78 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,155m² ,18 Oct 2022
+"365,000 ","8/83 First Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,61m² ,17 Oct 2022
+"427,500 ","5/2 Colin Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,99m² ,17 Oct 2022
+"460,000 ","72/118 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,122m² ,14 Oct 2022
+"460,000 ","4/11 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,153m² ,14 Oct 2022
+"820,000 ","126/181 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,176m² ,14 Oct 2022
+"255,000 ","12/27 Adair Parade,",COOLBINIA WA 6050,Apartment / Unit / Flat,1,1,1,74m² ,12 Oct 2022
+"520,000 ","3/36 Martin Avenue,",NEDLANDS WA 6009,Apartment / Unit / Flat,2,1,1,130m² ,10 Oct 2022
+"410,000 ","8/48 Havelock Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,104m² ,10 Oct 2022
+"368,000 ","2F/1303 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,96m² ,10 Oct 2022
+"1,280,000 ","3/125 Hensman Street,",SOUTH PERTH WA 6151,Townhouse,4,3,2,343m² ,09 Oct 2022
+"608,000 ","128/151 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,123m² ,07 Oct 2022
+"333,000 ","201/71 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,−,53m² ,07 Oct 2022
+"770,000 ","19/3 Mitchell Street,",MOUNT LAWLEY WA 6050,Townhouse,3,2,2,122m² ,04 Oct 2022
+"530,000 ","42/208 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,147m² ,03 Oct 2022
+"499,000 ","43/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,113m² ,30 Sep 2022
+"500,000 ","402/71 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,102m² ,30 Sep 2022
+"705,000 ","2706/63 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,108m² ,30 Sep 2022
+"677,500 ","503B Fitzgerald Street,",NORTH PERTH WA 6006,Townhouse,3,2,2,163m² ,30 Sep 2022
+"450,000 ","4D/1303 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,102m² ,30 Sep 2022
+"750,000 ","4/1 Clive Street,",WEST PERTH WA 6005,Townhouse,3,2,2,189m² ,30 Sep 2022
+"1,350,000 ","38 Rookwood St,",MOUNT LAWLEY WA 6050,Vacant land,0,0,0,814m² ,28 Sep 2022
+"350,000 ","24/17 Wickham Street,,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,79m² ,27 Sep 2022
+"320,000 ","29/4 Manning Terrace,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,80m² ,27 Sep 2022
+"622,500 ","6/73 Central Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,3,2,2,135m² ,20 Sep 2022
+"470,000 ","9 Little Brown Street,",EAST PERTH WA 6004,Townhouse,2,1,1,72m² ,19 Sep 2022
+"260,000 ","69/96 Guildford Road,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,95m² ,19 Sep 2022
+"360,000 ","101/148 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,90m² ,16 Sep 2022
+"420,000 ","19/141 Fitzgerald Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,1,128m² ,16 Sep 2022
+"1,325,000 ","20A Hensman Street,",SOUTH PERTH WA 6151,Vacant land,0,0,0,607m² ,15 Sep 2022
+"685,000 ","2/49 Albert Street,",NORTH PERTH WA 6006,Townhouse,3,2,2,153m² ,14 Sep 2022
+"625,000 ","16/5 Antonas Road,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,3,2,2,168m² ,12 Sep 2022
+"370,000 ","16/34 Carr Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,67m² ,09 Sep 2022
+"480,000 ","5 Little Saunders Street,",EAST PERTH WA 6004,Townhouse,2,1,1,122m² ,07 Sep 2022
+"500,000 ","5/21 Altona Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,107m² ,07 Sep 2022
+"560,000 ","10/337 Lord Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,2,147m² ,06 Sep 2022
+"220,000 ","17/187 Walcott Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,55m² ,06 Sep 2022
+"595,000 ","10/1 Delhi Street,",WEST PERTH WA 6005,Townhouse,3,2,2,174m² ,01 Sep 2022
+"525,000 ","12/153 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,2,145m² ,31 Aug 2022
+"455,000 ","18/34 Brandon Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,1,1,121m² ,31 Aug 2022
+"470,000 ","59/2 Mayfair Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,105m² ,31 Aug 2022
+"380,000 ","31/2 Mayfair Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,83m² ,30 Aug 2022
+"392,500 ","1/611 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,130m² ,28 Aug 2022
+"380,000 ","3/59 Second Avenue,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,2,84m² ,24 Aug 2022
+"392,000 ","53/48 Havelock Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,76m² ,24 Aug 2022
+"455,000 ","16/27 Eastbrook Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,113m² ,23 Aug 2022
+"440,000 ","202/9 Tully Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,91m² ,22 Aug 2022
+"678,000 ","19/98 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,133m² ,22 Aug 2022
+"585,000 ","504/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,126m² ,19 Aug 2022
+"755,000 ","2W/4 Crawley Avenue,",CRAWLEY WA 6009,Apartment / Unit / Flat,3,2,2,187m² ,18 Aug 2022
+"325,000 ","62/154 Newcastle Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,1,1,1,84m² ,18 Aug 2022
+"445,000 ","4/386 Stirling Street,",HIGHGATE WA 6003,Townhouse,1,1,1,103m² ,17 Aug 2022
+"635,000 ","41/17 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,126m² ,16 Aug 2022
+"500,000 ","9/19 Ventnor Avenue,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,1,138m² ,16 Aug 2022
+"355,000 ","62/43 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,86m² ,15 Aug 2022
+"275,000 ","113/29 Melville Parade,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,1,1,1,73m² ,15 Aug 2022
+"451,000 ","72/1178 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,1,1,91m² ,14 Aug 2022
+"368,000 ","25/9 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,97m² ,13 Aug 2022
+"380,000 ","12/77 Second Avenue,",MOUNT LAWLEY WA 6050,Townhouse,2,1,1,63m² ,08 Aug 2022
+"550,000 ","13/929 Wellington Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,2,163m² ,08 Aug 2022
+"407,000 ","27/190 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,109m² ,05 Aug 2022
+"435,000 ","6/2 Colin Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,99m² ,03 Aug 2022
+"495,000 ","9/1 Carr Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,2,1,130m² ,02 Aug 2022
+"349,000 ","11/611 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,92m² ,30 Jul 2022
+"501,111 ","55/15-19 Carr Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,2,126m² ,28 Jul 2022
+"465,000 ","13/42-52 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,114m² ,26 Jul 2022
+"390,000 ","21/1 Weston Avenue,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,73m² ,26 Jul 2022
+"645,000 ","704/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,143m² ,25 Jul 2022
+"845,000 ","4/63 Anstey Street,",SOUTH PERTH WA 6151,Townhouse,4,2,2,260m² ,23 Jul 2022
+"377,500 ","104/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,−,70m² ,20 Jul 2022
+"550,000 ","63/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,115m² ,18 Jul 2022
+"639,000 ","26/47 Forrest Avenue,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,160m² ,15 Jul 2022
+"490,000 ","53/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,108m² ,13 Jul 2022
+"295,000 ","12/193 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,94m² ,13 Jul 2022
+"2,400,000 ","16/60-62 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,3,3,2,379m² ,09 Jul 2022
+"555,000 ","511/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,137m² ,08 Jul 2022
+"629,500 ","708/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,− 0,2,1,176m² ,07 Jul 2022
+"410,000 ","20/2 Mayfair Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,101m² ,06 Jul 2022
+"280,000 ","13/187 Walcott Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,65m² ,03 Jul 2022
+"775,000 ","24/32 Fielder Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,196m² ,02 Jul 2022
+"322,000 ","5/33 Adair Parade,",COOLBINIA WA 6050,Apartment / Unit / Flat,2,1,−,62m² ,01 Jul 2022
+"429,000 ","5/9 Delhi Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,117m² ,30 Jun 2022
+"305,000 ","14/259-269 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,93m² ,29 Jun 2022
+"650,000 ","203/108 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,130m² ,29 Jun 2022
+"550,000 ","4/337 Lord Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,2,149m² ,29 Jun 2022
+"565,000 ","2/10 Alma Road,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,2,172m² ,29 Jun 2022
+"390,000 ","31/863-867 Wellington Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,106m² ,29 Jun 2022
+"465,000 ","15/33 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,101m² ,28 Jun 2022
+"580,000 ","12/345 Stirling Street,",HIGHGATE WA 6003,Townhouse,2,1,2,167m² ,28 Jun 2022
+"275,000 ","106/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,− 0,1,1,67m² ,27 Jun 2022
+"530,000 ","17/5 Antonas Road,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,2,1,127m² ,27 Jun 2022
+"270,000 ","14/156 Lincoln Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,1,1,1,68m² ,24 Jun 2022
+"470,000 ","30/43 Wickham Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,106m² ,23 Jun 2022
+"517,000 ","1505/8 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,108m² ,23 Jun 2022
+"350,000 ","16/23 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,105m² ,21 Jun 2022
+"680,000 ","1B Fourth Avenue,",MOUNT LAWLEY WA 6050,Townhouse,3,2,1,235m² ,20 Jun 2022
+"467,000 ","5/6 Campbell Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,2,2,1,150m² ,20 Jun 2022
+"650,000 ","60/103 Harold Street,",HIGHGATE WA 6003,Apartment / Unit / Flat,2,2,2,122m² ,17 Jun 2022
+"275,000 ","18/28 Onslow Street,",SOUTH PERTH WA 6151,Block of units,1,1,1,59m² ,16 Jun 2022
+"440,000 ","12/27 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,69m² ,16 Jun 2022
+"440,000 ","12/27 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,69m² ,16 Jun 2022
+"425,320 ","2e/1303 Hay Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,97m² ,14 Jun 2022
+"625,000 ","59/42 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,151m² ,10 Jun 2022
+"298,000 ","510A Charles Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,153m² ,09 Jun 2022
+"660,000 ","2B Norton Street,",SOUTH PERTH WA 6151,Townhouse,3,1,2,358m² ,06 Jun 2022
+"870,000 ","6 Boans Lane,",EAST PERTH WA 6004,Townhouse,3,2,2,217m² ,02 Jun 2022
+"430,000 ","13/143 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,108m² ,01 Jun 2022
+"580,000 ","16 Little Brown Street,",EAST PERTH WA 6004,Townhouse,2,1,1,129m² ,01 Jun 2022
+"415,000 ","12/144 Mill Point Road,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,97m² ,01 Jun 2022
+"387,500 ","17/7-9 Bennett Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,112m² ,30 May 2022
+"385,000 ","30/48 Havelock Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,79m² ,28 May 2022
+"480,000 ","1607/63 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,88m² ,27 May 2022
+"680,000 ","12/78 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,152m² ,25 May 2022
+"398,000 ","1505/659 Murray Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,1,1,1,83m² ,24 May 2022
+"571,658 ","207/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,128m² ,23 May 2022
+"277,000 ","25/273 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,103m² ,19 May 2022
+"305,000 ","70/193 Hay Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,97m² ,18 May 2022
+"460,888 ","70/118 Adelaide Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,122m² ,18 May 2022
+"457,000 ","27/7 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,124m² ,18 May 2022
+"630,000 ","87 Angove Street,",NORTH PERTH WA 6006,Vacant land,0,0,0,323m² ,16 May 2022
+"815,000 ","19/42 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,157m² ,13 May 2022
+"286,000 ","28/102 Goderich Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,86m² ,11 May 2022
+"660,000 ","28/18 Plain Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,135m² ,11 May 2022
+"1,035,000 ","3/113 Royal Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,2,239m² ,11 May 2022
+"585,000 ","1/98 Walcott Street,",MOUNT LAWLEY WA 6050,Apartment / Unit / Flat,2,1,1,134m² ,10 May 2022
+"510,000 ","17/98 Lake Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,3,2,1,150m² ,10 May 2022
+"850,000 ","49/90 Terrace Road,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,157m² ,06 May 2022
+"820,000 ","3/64 Wittenoom Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,145m² ,05 May 2022
+"655,000 ","17/21 Angelo Street,",SOUTH PERTH WA 6151,Townhouse,3,2,2,111m² ,05 May 2022
+"440,000 ","72/125 Wellington Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,1,1,119m² ,03 May 2022
+"715,000 ","8/8 Hensman Street,",SOUTH PERTH WA 6151,Townhouse,3,2,1,205m² ,03 May 2022
+"555,000 ","15/52 Albert Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,2,147m² ,2022
+"550,000 ","313/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,129m² ,28 Apr 2022
+"435,000 ","45/34 East Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,1,1,1,91m² ,27 Apr 2022
+"547,000 ","10/68 Coode Street,",SOUTH PERTH WA 6151,Apartment / Unit / Flat,2,1,1,177m² ,26 Apr 2022
+"675,000 ","5/16 Kayle Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,2,2,1,170m² ,25 Apr 2022
+"635,000 ","4/118 Royal Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,146m² ,24 Apr 2022
+"988,000 ","15A John Street,",MOUNT LAWLEY WA 6050,Townhouse,3,2,2,242m² ,24 Apr 2022
+"442,000 ","20/141 Fitzgerald Street,",WEST PERTH WA 6005,Apartment / Unit / Flat,3,1,1,163m² ,17 Apr 2022
+"500,000 ","10/25 Eastbrook Terrace,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,2,133m² ,14 Apr 2022
+"412,000 ","17/484 Fitzgerald Street,",NORTH PERTH WA 6006,Apartment / Unit / Flat,1,1,1,81m² ,14 Apr 2022
+"800,000 ","5/43 Anstey Street,",SOUTH PERTH WA 6151,Townhouse,3,2,2,277m² ,14 Apr 2022
+"275,000 ","4/27 Adair Parade,",COOLBINIA WA 6050,Apartment / Unit / Flat,1,1,1,73m² ,12 Apr 2022
+"920,000 ","75 Wright Street,",HIGHGATE WA 6003,Townhouse,3,2,2,159m² ,11 Apr 2022
+"387,500 ","14/30 Bronte Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,1,1,120m² ,10 Apr 2022
+"465,000 ","2/30 Coode Street,",MOUNT LAWLEY WA 6050,Townhouse,2,1,1,80m² ,08 Apr 2022
+"370,000 ","38/191 James Street,",NORTHBRIDGE WA 6003,Apartment / Unit / Flat,2,1,1,99m² ,07 Apr 2022
+"545,000 ","9/38 Fielder Street,",EAST PERTH WA 6004,Apartment / Unit / Flat,3,2,1,156m² ,06 Apr 2022
+"582,500 ","209/8 Moreau Parade,",EAST PERTH WA 6004,Apartment / Unit / Flat,2,2,1,126m² ,04 Apr 2022
+"380,000 ","6/61 Stirling Highway,",NEDLANDS WA 6009,Apartment / Unit / Flat,2,1,1,96m² ,04 Apr 2022

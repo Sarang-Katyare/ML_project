@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"810,000 ","3 Conloi St,",TOOWOOMBA CITY QLD 4350,Block of units,6,3,3,716m² ,22 Nov 2023
+"1,200,000","14 Taylor Street,",TOOWOOMBA CITY QLD 4350,Block of units,8,5,5,809m² ,25 Sep 2023
+"697,500 ","1 Scouts Way,",TOOWOOMBA CITY QLD 4350,Townhouse,1,1,1,119m² ,07 Aug 2023
+"510,000 ","1 & 2/33 Taylor Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,2,2,357m² ,05 Jul 2023
+"220,000 ","1/51 Grenier Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,88m² ,01 Jun 2023
+"364,000 ","405/532-544 Ruthven Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,2,1,89m² ,25 May 2023
+"900,000 ","1-4/27 Isabel Street,",TOOWOOMBA CITY QLD 4350,Block of units,8,4,4,"1,067m² ",16 May 2023
+"1,060,000 ","99 Campbell Street,",TOOWOOMBA CITY QLD 4350,Block of units,8,4,4,878m² ,10 May 2023
+"250,000 ","3/3 Langton Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,87m² ,27 Apr 2023
+"289,600 ","8/3 Cory Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,93m² ,23 Jan 2023
+"239,000 ","8/3 Langton Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,"2,111m² ",11 Jan 2023
+"950,000 ","33 Isabel Street,",TOOWOOMBA CITY QLD 4350,Block of units,7,4,3,964m² ,22 Dec 2022
+"2,170,000 ","1-9/164 Campbell Street,",TOOWOOMBA CITY QLD 4350,Block of units,18,9,9,"1,886m² ",12 Sep 2022
+"274,000 ","2/92 West Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,122m² ,25 Aug 2022
+"300,000 ","Unit 5/5 Kenric Street,",TOOWOOMBA CITY QLD 4350,Townhouse,2,1,1,64m² ,22 Aug 2022
+"440,000 ","1/3 Hamwood Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,2,2,453m² ,09 Aug 2022
+"558,000 ","37 Hill Street,",TOOWOOMBA CITY QLD 4350,Block of units,4,2,4,455m² ,22 Jun 2022
+"590,000 ","7A Conloi Street,",TOOWOOMBA CITY QLD 4350,Townhouse,3,2,2,169m² ,03 May 2022
+"345,000 ","10/5 Joseph Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,3,1,1,132m² ,05 Apr 2022
+"290,000 ","3/5 Joseph Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,118m² ,07 Mar 2022
+"185,000 ","1/116 West Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,90m² ,04 Sep 2021
+"179,000 ","8/174 Campbell Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,79m² ,02 Sep 2021
+"569,000 ","46 Raff Street,",TOOWOOMBA CITY QLD 4350,Block of units,4,4,3,898m² ,26 Jul 2021
+"775,000 ","1-4/5 Royal Street,",TOOWOOMBA CITY QLD 4350,Block of units,8,4,−,409m² ,09 Jul 2021
+"250,000 ","27/5 Clifford Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,95m² ,17 Jun 2021
+"172,000 ","4/14 Ascot Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,− 0,1,140m² ,16 Nov 2020
+"410,000 ","36A Goggs Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,3,2,1,370m² ,26 Aug 2020
+"375,000 ","2/74 West Street,",TOOWOOMBA CITY QLD 4350,Townhouse,3,1,1,81m² ,22 Jul 2020
+"160,000 ","6/3 Langton Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,1,1,1,"2,111m² ",28 Feb 2020
+"149,000 ","4/31 Isabel Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,1,1,1,602m² ,13 Aug 2019
+"260,000 ","45A Taylor Street,",TOOWOOMBA CITY QLD 4350,Vacant land,0,0,0,"1,593m² ",14 Jun 2019
+"750,000 ","99 Campbell Street,",TOOWOOMBA CITY QLD 4350,Block of units,8,4,8,878m² ,22 Apr 2019
+"508,000 ","41 Raff Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,7,5,5,898m² ,28 Aug 2017
+"220,000 ","Unit 3/2 Kenric Street,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,2,1,1,121m² ,22 May 2017
+"260,000 ","34A Raff Street,",TOOWOOMBA CITY QLD 4350,Vacant land,0,0,0,768m² ,29 Jun 2016
+"1,185,000 ",,TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,18,4,8,"1,295m² ",13 Dec 2013
+"237,500","1/322 Goombungee Road,",TOOWOOMBA CITY QLD 4350,Apartment / Unit / Flat,3,1,1,119m² ,06 Aug 2013
+"90,000 ",,TOOWOOMBA CITY QLD 4350,Vacant land,0,0,0,587m² ,30 Oct 2008
+"390,000 ","Unit 3/226 Herries Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,1,1,125m² ,23 Apr 2024
+"332,750 ","3/31 Moloney Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,82m² ,22 Apr 2024
+"345,000 ","6/51 Gipps Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,2,1,1,108m² ,16 Apr 2024
+"328,000 ","9/33 Margaret Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,90m² ,12 Apr 2024
+"465,500 ","Unit 1/26 Brim Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,2,170m² ,12 Apr 2024
+"405,000 ","4/25 Furness Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,111m² ,11 Apr 2024
+"757,500 ","1 & 2/430 West Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,5,3,3,685m² ,11 Apr 2024
+"196,000 ","17 Reserve Road,",CRANLEY QLD 4350,Vacant land,0,0,0,637m² ,08 Apr 2024
+"305,000 ","60 Holberton Street,",ROCKVILLE QLD 4350,Vacant land,0,0,0,712m² ,05 Apr 2024
+"610,000 ","3/10A Cooper Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,180m² ,05 Apr 2024
+"200,000 ","55 Reserve Road,",CRANLEY QLD 4350,Vacant land,0,0,0,541m² ,03 Apr 2024
+"322,000 ","2/22 Wallace Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,77m² ,03 Apr 2024
+"345,000 ","7 Guyana Court,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,743m² ,02 Apr 2024
+"430,000 ","2/1c Lyndall Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,2,2,118m² ,02 Apr 2024
+"315,000 ","1/10 Doncaster Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,92m² ,02 Apr 2024
+"300,000 ","122 Shoesmith Road,",WESTBROOK QLD 4350,Vacant land,0,0,0,"1,013m² ",27 Mar 2024
+"350,000 ","7/6 Scott Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,1,1,174m² ,25 Mar 2024
+"305,000 ",,NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,100m² ,25 Mar 2024
+"445,000 ","1/12 Adelaide Street,",CRANLEY QLD 4350,Apartment / Unit / Flat,3,2,1,212m² ,22 Mar 2024
+"425,000 ","3/2 Prospect Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,117m² ,19 Mar 2024
+"900,000 ","20 Glendower Street,",MOUNT LOFTY QLD 4350,Block of units,6,3,4,903m² ,15 Mar 2024
+"415,000 ","5/116-118 Taylor Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,141m² ,14 Mar 2024
+"365,000 ","Lot 14 Habitat Mt Kynoch, Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,747m² ,13 Mar 2024
+"670,000 ","Unit 2/68 Calypso Cres,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,3,2,2,404m² ,12 Mar 2024
+"1,350,000 ","6 Goode Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,11,6,6,"1,344m² ",11 Mar 2024
+"380,000 ","Lot 34 Habitat Mt Kynoch, Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,790m² ,06 Mar 2024
+"395,000 ","3/39 Anzac Avenue,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,106m² ,05 Mar 2024
+"460,000 ","1/6 Prospect Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,2,211m² ,05 Mar 2024
+"340,000 ","4/389 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,70m² ,05 Mar 2024
+"662,500 ","1 & 2/12 Aster Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,4,2,2,734m² ,04 Mar 2024
+"1,075,000 ","Lot 36 Hunt Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,0,28 Feb 2024
+"250,000 ","7 Botha Court,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,"1,327m² ",26 Feb 2024
+"360,500 ","112-120 Greenwattle Street,",CRANLEY QLD 4350,Vacant land,0,0,0,"8,010m² ",22 Feb 2024
+"440,000 ","1/11 McInnes Crescent,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,123m² ,22 Feb 2024
+"340,000 ","5/87 Boshammer Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,"1,335m² ",22 Feb 2024
+"420,000 ","67 Fraser Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"4,500m² ",20 Feb 2024
+"740,000 ","1 & 2/15 Cardamon Crescent,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,2,508m² ,20 Feb 2024
+"320,000 ","Proposed Lot 29 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,680m² ,19 Feb 2024
+"285,000 ","Lot 13 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,550m² ,16 Feb 2024
+"630,000 ","4/18 Tourist Road,",EAST TOOWOOMBA QLD 4350,Townhouse,3,2,2,212m² ,16 Feb 2024
+"505,000 ","1/6 View Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,153m² ,16 Feb 2024
+"330,000 ","Proposed Lot 28 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,650m² ,15 Feb 2024
+"1,075,000 ","274 Long Street,",SOUTH TOOWOOMBA QLD 4350,Block of units,9,6,6,946m² ,13 Feb 2024
+"220,000 ","92 Adelaide Street,",CRANLEY QLD 4350,Vacant land,0,0,0,700m² ,12 Feb 2024
+"590,000 ","45 Hoepper Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,4,2,2,673m² ,12 Feb 2024
+"250,000 ","13 Lyndhurst Court,",NEWTOWN QLD 4350,Vacant land,0,0,0,801m² ,12 Feb 2024
+"353,000 ","32 Leichhardt Street,",CENTENARY HEIGHTS QLD 4350,Vacant land,0,0,0,728m² ,10 Feb 2024
+"660,000 ","3/245a Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,2,169m² ,09 Feb 2024
+"263,000 ","3/40 Vacy Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,77m² ,09 Feb 2024
+"620,000 ","31 Cooloola Drive,",RANGEVILLE QLD 4350,Vacant land,0,0,0,"1,000m² ",08 Feb 2024
+"249,000 ","Proposed Lot 25 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,536m² ,06 Feb 2024
+"280,000 ","Lot 14 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,578m² ,02 Feb 2024
+"285,000 ","Proposed Lot 24 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,558m² ,01 Feb 2024
+"367,000 ","Unit 1/6 Ocean Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,95m² ,31 Jan 2024
+"285,000 ","Lot 27 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,599m² ,30 Jan 2024
+"330,000 ","Proposed Lot 16 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,646m² ,29 Jan 2024
+"312,000 ","1/2A Park Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,2,303m² ,29 Jan 2024
+"285,000 ","Proposed Lot 26 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,550m² ,25 Jan 2024
+"370,000 ","9/256 Geddes Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,109m² ,22 Jan 2024
+"695,000 ","7 Abbey Street,",CRANLEY QLD 4350,Apartment / Unit / Flat,5,3,3,452m² ,22 Jan 2024
+"285,000 ","Proposed Lot 18 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,588m² ,22 Jan 2024
+"420,000 ","5 Top Camp Court,",TOP CAMP QLD 4350,Vacant land,0,0,0,"5,266m² ",22 Jan 2024
+"285,000 ","Proposed Lot 17 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,578m² ,19 Jan 2024
+"288,000 ","Lot 15 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,578m² ,19 Jan 2024
+"456,000 ","1/22 Sambar Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,117m² ,19 Jan 2024
+"452,900 ","5/53 Pascoe Lane,",HARLAXTON QLD 4350,Apartment / Unit / Flat,3,2,2,179m² ,18 Jan 2024
+"320,000 ","Lot 19 Rub Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,665m² ,17 Jan 2024
+"950,000 ","11 Barry Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,"1,198m² ",17 Jan 2024
+"485,000 ","5/43 Hoey Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,140m² ,15 Jan 2024
+"780,000 ","6 Minnett Street,",GLENVALE QLD 4350,Block of units,6,4,2,517m² ,10 Jan 2024
+"840,000 ","1 & 2/4 Wolff Street,",COTSWOLD HILLS QLD 4350,Apartment / Unit / Flat,6,4,2,620m² ,09 Jan 2024
+"485,000 ","3/27 McGregor Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,3,2,2,158m² ,08 Jan 2024
+"285,000 ","1/67 Taylor Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,97m² ,02 Jan 2024
+"256,000 ","6 Rob Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,956m² ,29 Dec 2023
+"280,000 ","14/6 O'Brien Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,3,1,1,138m² ,22 Dec 2023
+"310,000 ","Lot 43 Habitat Mt Kynoch, Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,602m² ,22 Dec 2023
+"646,000 ","30 Williamson Lane,",WILSONTON QLD 4350,Apartment / Unit / Flat,4,2,2,582m² ,21 Dec 2023
+"847,300 ","23 Winstanley Court,",NEWTOWN QLD 4350,Block of units,7,3,2,"1,141m² ",19 Dec 2023
+"345,000","5/89 Herries Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,1,2,72m² ,15 Dec 2023
+"280,000 ",,MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,79m² ,15 Dec 2023
+"378,000 ","2/2 Burns Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,102m² ,13 Dec 2023
+"440,000 ","2/16 Tempest Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,2,156m² ,13 Dec 2023
+"435,000","8/68 Holberton Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,208m² ,12 Dec 2023
+"340,000 ","1/364 Bridge Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,166m² ,11 Dec 2023
+"380,000 ","1/3 Prospect Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,1,1,"1,263m² ",09 Dec 2023
+"425,000 ","18 Catherine Circuit,,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,635m² ,08 Dec 2023
+"720,000 ","1 & 2/19 Cardamon Crescent,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,3,2,623m² ,07 Dec 2023
+"545,000 ","6 Cressbrook Court,",NEWTOWN QLD 4350,Block of units,4,2,2,600m² ,07 Dec 2023
+"429,000 ","2/48 Gostwyck Street,",NEWTOWN QLD 4350,Townhouse,3,2,1,140m² ,06 Dec 2023
+"340,000 ","3/66 Tara Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,120m² ,06 Dec 2023
+"263,000 ","1/352A Bridge Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,77m² ,05 Dec 2023
+"260,000 ","17/9 Uniplaza Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,60m² ,04 Dec 2023
+"335,000 ","6a Empress Street,",CENTENARY HEIGHTS QLD 4350,Vacant land,0,0,0,803m² ,01 Dec 2023
+"400,000 ","1/160 Glenvale Road,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,144m² ,30 Nov 2023
+"440,000 ","1/3 Whitefield Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,137m² ,30 Nov 2023
+"618,000 ","14 Murrumba Road,",RANGEVILLE QLD 4350,Vacant land,0,0,0,589m² ,27 Nov 2023
+"420,000 ","Unit 3/35 Perth St,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,129m² ,27 Nov 2023
+"550,000 ","2/102 Rowbotham Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,145m² ,23 Nov 2023
+"367,000 ","3/66 Mary Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,67m² ,22 Nov 2023
+"199,000 ","6/2 Long Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,1,1,1,63m² ,22 Nov 2023
+"452,000 ","5/39 Anzac Avenue,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,106m² ,21 Nov 2023
+"625,000 ","1 & 2/5 Fleet Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,4,2,2,607m² ,20 Nov 2023
+"232,500 ","3 Bonita Court,",WESTBROOK QLD 4350,Vacant land,0,0,0,750m² ,17 Nov 2023
+"749,000 ","2/36 Parsons Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,182m² ,16 Nov 2023
+"600,000 ","13 Adelaide Street,",CRANLEY QLD 4350,Block of units,6,4,4,559m² ,15 Nov 2023
+"360,000 ","Lot 35 Habitat Mt Kynoch, Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,790m² ,15 Nov 2023
+"685,000 ","35 Esmond Street,",ROCKVILLE QLD 4350,Block of units,7,3,3,870m² ,15 Nov 2023
+"260,000 ","3/210 Russell Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,108m² ,14 Nov 2023
+"490,000 ","Unit 4/397 Stenner Street,",KEARNEYS SPRING QLD 4350,Townhouse,3,2,2,168m² ,13 Nov 2023
+"430,000 ","13/436 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,2,2,1,155m² ,13 Nov 2023
+"2,500,000 ","6 Swallow Court,",NEWTOWN QLD 4350,Block of units,19,12,12,"1,544m² ",13 Nov 2023
+"770,000 ","4 Kaytons Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,6,4,2,553m² ,09 Nov 2023
+"375,000 ","4/16 Pascoe Lane,",HARLAXTON QLD 4350,Apartment / Unit / Flat,3,1,1,191m² ,09 Nov 2023
+"278,000 ",,NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,75m² ,07 Nov 2023
+"176,000 ","37A Monash Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,373m² ,06 Nov 2023
+"342,000 ","Unit 11/381 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,116m² ,01 Nov 2023
+"481,000 ","169a Postle Street,",MOUNT RASCAL QLD 4350,Vacant land,0,0,0,"4,003m² ",30 Oct 2023
+"290,000 ","Unit 5/299 James Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,96m² ,30 Oct 2023
+"515,000 ","269 Hume Street,",SOUTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,809m² ,27 Oct 2023
+"610,750 ","13 Gabrielle Street,",KEARNEYS SPRING QLD 4350,Block of units,4,2,5,700m² ,26 Oct 2023
+"258,000 ","2/1a Fanny Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,1,1,1,84m² ,26 Oct 2023
+"310,000 ","Lot 22 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,661m² ,25 Oct 2023
+"440,000 ","2/541 South Street,",GLENVALE QLD 4350,Townhouse,3,2,2,163m² ,23 Oct 2023
+"365,000 ","Lot 36 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,770m² ,23 Oct 2023
+"315,000 ","Lot 44 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,602m² ,20 Oct 2023
+"367,500 ","Unit 4/4-6 Crosby Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,1,1,122m² ,18 Oct 2023
+"408,000 ","1/17 Grandslam Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,128m² ,18 Oct 2023
+"315,000 ","Lot 45 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,602m² ,18 Oct 2023
+"216,000 ","155B South Street,",SOUTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,291m² ,18 Oct 2023
+"355,000 ","Lot 33 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,790m² ,17 Oct 2023
+"415,000 ","2/17 Grandslam Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,128m² ,16 Oct 2023
+"610,000 ","4/308 Mackenzie Street,",RANGEVILLE QLD 4350,Townhouse,2,2,2,208m² ,16 Oct 2023
+"442,000 ","7/436 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,2,2,1,110m² ,13 Oct 2023
+"635,000 ","1 & 2/14 Klein Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,4,2,2,612m² ,13 Oct 2023
+"462,000 ","2/8 Duncraggon Street,",SOUTH TOOWOOMBA QLD 4350,Townhouse,2,2,1,186m² ,13 Oct 2023
+"447,000","1/351 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,3,2,1,170m² ,13 Oct 2023
+"788,000 ","4 Minnett Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,2,663m² ,10 Oct 2023
+"465,000 ","2/446 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,3,2,1,145m² ,06 Oct 2023
+"2,010,000 ","1 - 8/9 & 11 Leichhardt Street,",CENTENARY HEIGHTS QLD 4350,Block of units,10,8,8,"1,584m² ",03 Oct 2023
+"400,000 ","16 Grenda Street,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,872m² ,03 Oct 2023
+"870,000 ","1/8 Stonehaven Street Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,3,2,2,324m² ,27 Sep 2023
+"325,000 ","1/16a Glenvale Road,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,135m² ,25 Sep 2023
+"215,000 ","104 Adelaide Street,",CRANLEY QLD 4350,Vacant land,0,0,0,565m² ,22 Sep 2023
+"495,000 ","128 Taylor Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,"1,255m² ",22 Sep 2023
+"385,000 ","2/11 Lynne Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,83m² ,19 Sep 2023
+"405,000 ","1/38 Rudd Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,6,4,2,500m² ,18 Sep 2023
+"405,000 ","2/38 Rudd Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,3,2,2,500m² ,18 Sep 2023
+"400,000 ","2/20 Tempest Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,117m² ,18 Sep 2023
+"325,000 ","18/81 Vacy Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,120m² ,18 Sep 2023
+"325,000 ","23/81 Vacy Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,120m² ,15 Sep 2023
+"380,000","6/8 Tara Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,110m² ,14 Sep 2023
+"354,000 ","3/34 Stephen Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,102m² ,13 Sep 2023
+"360,000 ","2/48 Edwin Street,",WESTBROOK QLD 4350,Townhouse,2,2,1,129m² ,12 Sep 2023
+"452,000 ","1/1D Lyndall Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,122m² ,08 Sep 2023
+"367,500 ","1/13 Taragon Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,2,2,1,106m² ,07 Sep 2023
+"298,000 ","5 Lillian Court,",HARRISTOWN QLD 4350,Vacant land,0,0,0,604m² ,05 Sep 2023
+"239,000 ","12/1-3 Uniplaza Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,811m² ,05 Sep 2023
+"285,000 ","2/367-369 Margaret Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,121m² ,04 Sep 2023
+"275,000 ","4/295 Hume Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,124m² ,02 Sep 2023
+"263,000 ","6/203 Campbell Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,82m² ,01 Sep 2023
+"450,000 ",,WESTBROOK QLD 4350,Apartment / Unit / Flat,3,2,1,562m² ,01 Sep 2023
+"500,000","4/276 Alderley Street,",CENTENARY HEIGHTS QLD 4350,Townhouse,3,2,2,173m² ,30 Aug 2023
+"580,000 ","7/446 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,3,2,2,181m² ,30 Aug 2023
+"530,000 ","2/5 Leichhardt Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,2,171m² ,29 Aug 2023
+"352,500 ","2/42 Parkview Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,2,1,1,98m² ,28 Aug 2023
+"720,000 ","1 & 2/34 Woleebee Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,2,546m² ,28 Aug 2023
+"439,000 ","2/3 Minnett Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,119m² ,28 Aug 2023
+"457,500 ","1/34 High Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,2,1,116m² ,25 Aug 2023
+"320,000 ","2/67 Luck Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,2,1,1,97m² ,23 Aug 2023
+"435,000 ","4/279 Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,1,1,247m² ,21 Aug 2023
+"415,000 ","2/5a Frederick Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,1,176m² ,21 Aug 2023
+"510,000 ","9/14-16 Empress Street,",CENTENARY HEIGHTS QLD 4350,Townhouse,3,2,2,174m² ,18 Aug 2023
+"760,000 ","1 Moloney Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,"1,214m² ",18 Aug 2023
+"125,000 ",,SOUTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,358m² ,15 Aug 2023
+"450,000 ","20 Ward Street,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,673m² ,14 Aug 2023
+"595,000","376 Bridge Street,",WILSONTON QLD 4350,Block of units,5,2,2,905m² ,12 Aug 2023
+"665,000 ","1 & 2/4 Northpoint Avenue,",HARLAXTON QLD 4350,Apartment / Unit / Flat,6,4,2,567m² ,11 Aug 2023
+"705,000 ","2/362 Hume Street,",CENTENARY HEIGHTS QLD 4350,Townhouse,3,2,2,199m² ,10 Aug 2023
+"435,000 ","2/77-81 Bouganvillea Drive,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,2,1,1,116m² ,10 Aug 2023
+"585,000 ","385 Greenwattle Street,",WILSONTON QLD 4350,Block of units,5,2,2,"1,072m² ",10 Aug 2023
+"380,000 ","Unit 5/19B Gladstone Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,2,227m² ,09 Aug 2023
+"840,000 ","222-240 Cambooya Street,",DRAYTON QLD 4350,Vacant land,0,0,0,0,08 Aug 2023
+"380,000 ","3/8 Tara Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,122m² ,08 Aug 2023
+"326,500 ","1/22 O'Beirne Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,102m² ,07 Aug 2023
+"970,000 ","267B Geddes Street,",CENTENARY HEIGHTS QLD 4350,Block of units,8,4,4,954m² ,04 Aug 2023
+"310,000 ","Lot 42 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,602m² ,03 Aug 2023
+"350,000 ","1/446 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,2,1,1,123m² ,02 Aug 2023
+"440,000 ","9/28 Ellis Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,3,2,2,165m² ,01 Aug 2023
+"395,000 ","21/33-35 Tourist Road,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,98m² ,28 Jul 2023
+"665,000 ","5 McGrory Drive,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,708m² ,28 Jul 2023
+"355,000 ","2/6 Ocean Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,92m² ,27 Jul 2023
+"401,000 ","1/19 Sandalwood Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,2,1,1,109m² ,24 Jul 2023
+"315,000 ","2/6 Sherry Street,",WILSONTON HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,72m² ,24 Jul 2023
+"580,000 ","1 & 2/71 Ruthven Street,",HARLAXTON QLD 4350,Block of units,5,2,3,753m² ,21 Jul 2023
+"345,000 ","13 O'Neill Circuit,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,640m² ,19 Jul 2023
+"218,000 ","2/203 Campbell Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,82m² ,19 Jul 2023
+"310,000","3/52 Campbell Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,84m² ,14 Jul 2023
+"237,000 ","23 Reserve Road,",CRANLEY QLD 4350,Vacant land,0,0,0,707m² ,12 Jul 2023
+"480,000 ","62 Frew Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"5,631m² ",12 Jul 2023
+"390,000 ","5 Eymard Street,",RANGEVILLE QLD 4350,Vacant land,0,0,0,852m² ,12 Jul 2023
+"615,000 ","20 Tatum Ct,",GLENVALE QLD 4350,Apartment / Unit / Flat,4,4,2,586m² ,10 Jul 2023
+"570,000 ","3/36 High Street,",RANGEVILLE QLD 4350,Townhouse,3,2,2,181m² ,07 Jul 2023
+"200,000 ","5 Thompson Lane,",EAST TOOWOOMBA QLD 4350,Vacant land,0,0,0,346m² ,05 Jul 2023
+"330,000 ","1/519 Hume Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,117m² ,05 Jul 2023
+"320,000 ","1/77 Ruthven Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,2,1,104m² ,03 Jul 2023
+"267,500 ","8/9 Whitefriars Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,61m² ,03 Jul 2023
+"500,000 ","19/279 Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,211m² ,30 Jun 2023
+"425,000 ","3/108 Neil Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,202m² ,30 Jun 2023
+"345,000 ","5/42 Herries Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,80m² ,27 Jun 2023
+"546,500 ","1/186 Kearney Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,263m² ,27 Jun 2023
+"520,000 ","15 Boyes Street,",HARRISTOWN QLD 4350,Block of units,4,2,3,729m² ,26 Jun 2023
+"350,000 ","Lot 5 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,747m² ,26 Jun 2023
+"700,000 ","Lot 4 Athol School Road,",ATHOL QLD 4350,Vacant land,0,0,0,0,21 Jun 2023
+"345,000 ","6/55 Phillip Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,114m² ,21 Jun 2023
+"510,000","58 Frew Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"6,134m² ",20 Jun 2023
+"375,000 ","2/18 Chainey Court,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,117m² ,19 Jun 2023
+"295,000 ","117 McEwan Crescent,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,613m² ,19 Jun 2023
+"300,500 ","1/163 Mary Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,94m² ,16 Jun 2023
+"435,000 ","2/11 Horrocks Crescent,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,320m² ,16 Jun 2023
+"298,000 ","39/2 Benjamin Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,79m² ,16 Jun 2023
+"435,000 ","5 Perth Street,",RANGEVILLE QLD 4350,Vacant land,0,0,0,648m² ,16 Jun 2023
+"580,000 ","5a Kimberley Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"4,889m² ",13 Jun 2023
+"595,000 ","1 & 2/38 Crotty Street,",CENTENARY HEIGHTS QLD 4350,Block of units,4,2,1,723m² ,09 Jun 2023
+"345,000 ","3/15 Sambar Court,",KEARNEYS SPRING QLD 4350,Block of units,2,1,1,812m² ,09 Jun 2023
+"305,500 ","8/81 Vacy Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,117m² ,08 Jun 2023
+"340,000 ","Lot 18 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,747m² ,06 Jun 2023
+"360,000 ","2/9 Taragon Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,132m² ,05 Jun 2023
+"215,000 ","28 Welcombe Avenue,",ROCKVILLE QLD 4350,Vacant land,0,0,0,668m² ,05 Jun 2023
+"503,000 ","11 Garde Street,,",CENTENARY HEIGHTS QLD 4350,Vacant land,0,0,0,918m² ,02 Jun 2023
+"320,000 ","2/51 Gipps Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,2,1,1,112m² ,01 Jun 2023
+"489,000","2/4 Grace Court,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,2,164m² ,29 May 2023
+"380,000 ","3 Victor Street,",EAST TOOWOOMBA QLD 4350,Vacant land,0,0,0,665m² ,25 May 2023
+"400,000 ","18 Erin Street,",WILSONTON QLD 4350,Vacant land,0,0,0,"1,017m² ",24 May 2023
+"295,000 ","1/4a Rose Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,2,76m² ,24 May 2023
+"342,000 ","3/9-11 Amber Court,",DARLING HEIGHTS QLD 4350,Townhouse,3,2,1,144m² ,22 May 2023
+"500,000 ","28/17 Catherine Circuit,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,603m² ,22 May 2023
+"175,000 ","18 Burnage Street,",EAST TOOWOOMBA QLD 4350,Vacant land,0,0,0,500m² ,19 May 2023
+"1,135,000 ","10 Cohoe Street,",EAST TOOWOOMBA QLD 4350,Block of units,12,6,7,943m² ,19 May 2023
+"363,000 ","1/7 Lexi Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,240m² ,19 May 2023
+"515,000 ","Unit 2/36 High Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,163m² ,19 May 2023
+"785,000 ","1-2/15 Sambar Court,",KEARNEYS SPRING QLD 4350,Block of units,5,3,2,812m² ,18 May 2023
+"335,000 ","3/3 Sunning Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,113m² ,17 May 2023
+"320,000 ","25/81 Vacy Street,",NEWTOWN QLD 4350,Townhouse,2,2,1,121m² ,15 May 2023
+"230,000 ","26 London Circuit,",TORRINGTON QLD 4350,Vacant land,0,0,0,"1,380m² ",12 May 2023
+"220,000 ",,HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,77m² ,10 May 2023
+"315,000 ","Lot 46 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,602m² ,09 May 2023
+"200,000 ","74A Ramsay Street,",CENTENARY HEIGHTS QLD 4350,Vacant land,0,0,0,426m² ,08 May 2023
+"595,000 ","1 & 2, 58 Wuth Street,",DARLING HEIGHTS QLD 4350,Block of units,4,2,2,601m² ,08 May 2023
+"355,000 ","4/85 North Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,1,1,110m² ,08 May 2023
+"775,000 ","2/78 Curzon Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,220m² ,05 May 2023
+"405,000 ","8/34 Gordon Avenue,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,2,251m² ,04 May 2023
+"900,000 ","1-3/2 Tame Street,",SOUTH TOOWOOMBA QLD 4350,Block of units,5,3,3,617m² ,02 May 2023
+"410,000 ","15A Buckland Street,",HARRISTOWN QLD 4350,Vacant land,0,0,0,"1,376m² ",28 Apr 2023
+"670,000 ","1-3/2 Cullen Court,",ROCKVILLE QLD 4350,Block of units,6,3,3,"1,059m² ",28 Apr 2023
+"325,000 ","Lot 8 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,747m² ,27 Apr 2023
+"610,000 ","1 & 2/6 Harth Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,4,2,2,819m² ,26 Apr 2023
+"895,000 ","269 North Street,",WILSONTON HEIGHTS QLD 4350,Block of units,7,3,3,"1,291m² ",26 Apr 2023
+"620,000 ","18 Keira Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"5,424m² ",24 Apr 2023
+"595,000 ","28 Boyes Street,",HARRISTOWN QLD 4350,Block of units,5,2,2,557m² ,24 Apr 2023
+"700,000 ","1-3/62 Hoey Street,",KEARNEYS SPRING QLD 4350,Block of units,6,3,3,761m² ,24 Apr 2023
+"326,000 ","4/10 Sunning Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,111m² ,23 Apr 2023
+"540,000 ","5/170 Mary Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,230m² ,21 Apr 2023
+"322,500 ","2/13 Agnes Street,,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,2,1,89m² ,20 Apr 2023
+"405,000 ","2/14 Opal Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,118m² ,15 Apr 2023
+"345,000 ","2/30a Alpine Court,",CRANLEY QLD 4350,Apartment / Unit / Flat,2,2,1,123m² ,14 Apr 2023
+"360,000 ","1/38 Buckland Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,4,1,1,143m² ,14 Apr 2023
+"255,000 ","65 Reserve Road,",CRANLEY QLD 4350,Vacant land,0,0,0,700m² ,13 Apr 2023
+"330,000 ","Lot 38 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,770m² ,13 Apr 2023
+"432,000 ","Proposed Lot 8 Frew Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"4,091m² ",12 Apr 2023
+"338,000 ","175-181 Greenwattle Street,",CRANLEY QLD 4350,Vacant land,0,0,0,"4,005m² ",11 Apr 2023
+"325,000 ","Lot 7 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,747m² ,11 Apr 2023
+"207,000 ","5/1 Delacy Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,1,1,1,70m² ,11 Apr 2023
+"270,000 ","49/55-59 Drayton Road,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,148m² ,10 Apr 2023
+"765,000","110-112 Postle Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,0,09 Apr 2023
+"255,000 ","1 Vanity Street,",ROCKVILLE QLD 4350,Vacant land,0,0,0,"1,578m² ",05 Apr 2023
+"325,000 ","2 Lavers Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"4,000m² ",04 Apr 2023
+"340,000 ","2/10 Chainey Court,",GLENVALE QLD 4350,Apartment / Unit / Flat,2,2,1,122m² ,04 Apr 2023
+"380,000 ","10/2-6 Roser Close,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,138m² ,04 Apr 2023
+"325,000 ","Lot 39 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,742m² ,04 Apr 2023
+"320,000 ","Lot 40 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,700m² ,04 Apr 2023
+"340,000 ","8 Murray Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,971m² ,04 Apr 2023
+"410,000 ","Proposed Lot 4 Frew Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"4,008m² ",03 Apr 2023
+"450,000 ","3/41 Hunter Street,",CENTENARY HEIGHTS QLD 4350,Townhouse,2,2,1,144m² ,30 Mar 2023
+"250,000 ","102 Adelaide Street,",CRANLEY QLD 4350,Vacant land,0,0,0,700m² ,30 Mar 2023
+"450,000 ","1/16 Whitefield Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,2,175m² ,29 Mar 2023
+"245,000 ","21 Reserve Road,",CRANLEY QLD 4350,Vacant land,0,0,0,703m² ,28 Mar 2023
+"395,000 ","Proposed Lot 5 Frew Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"4,000m² ",28 Mar 2023
+"290,000 ","10/56 North Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,79m² ,28 Mar 2023
+"573,000 ","10 Faith Street,",RANGEVILLE QLD 4350,Block of units,4,2,2,799m² ,28 Mar 2023
+"540,000 ","114 Curzon Street,",RANGEVILLE QLD 4350,Block of units,4,2,2,506m² ,28 Mar 2023
+"459,900 ","9/440 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,3,2,1,121m² ,27 Mar 2023
+"390,000 ","5/162 North Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,135m² ,24 Mar 2023
+"502,000 ","7/319A Bridge Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,2,182m² ,22 Mar 2023
+"479,000 ","4/18 Cranley Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,229m² ,22 Mar 2023
+"695,000 ","17/80 Margaret Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,1,151m² ,21 Mar 2023
+"320,500 ","1/381 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,114m² ,21 Mar 2023
+"380,000 ","3/390 West Street,",KEARNEYS SPRING QLD 4350,Townhouse,4,3,1,160m² ,20 Mar 2023
+"840,000 ","20A Merritt Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,7,4,4,916m² ,17 Mar 2023
+"475,000 ","4E Mackenzie Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,"1,532m² ",17 Mar 2023
+"815,000 ","2 Rachel Street,",DARLING HEIGHTS QLD 4350,Block of units,6,3,3,992m² ,16 Mar 2023
+"340,000 ","Lot 37 Shuttlewood Court,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,790m² ,13 Mar 2023
+"520,000 ","Unit 3/176 Mary Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,158m² ,09 Mar 2023
+"395,000 ","2/19 Wallace Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,136m² ,09 Mar 2023
+"367,000 ","12 Lourdes Street,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,503m² ,06 Mar 2023
+"375,000 ","Unit 2/76 Platz Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,223m² ,03 Mar 2023
+"400,000 ","94 New England Highway,",MOUNT KYNOCH QLD 4350,Vacant land,0,0,0,"61,000m² ",03 Mar 2023
+"550,000 ","2A Fogarty Street,",EAST TOOWOOMBA QLD 4350,Vacant land,0,0,0,673m² ,02 Mar 2023
+"575,000 ","1& 2/1 Gunn Street,",KEARNEYS SPRING QLD 4350,Block of units,4,2,2,647m² ,02 Mar 2023
+"355,000","1 Vayro Road,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,0,01 Mar 2023
+"385,000 ","1/7 Preston Court,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,131m² ,01 Mar 2023
+"530,000 ","2/188 Kearney Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,158m² ,01 Mar 2023
+"572,000 ","16 St Ives Court,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,"1,417m² ",2023
+"322,500 ","4/184 West Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,114m² ,28 Feb 2023
+"405,000 ","3/5 Blake Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,3,2,2,154m² ,28 Feb 2023
+"620,000 ","2/169 Tourist Road,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,348m² ,24 Feb 2023
+"270,000 ","Unit 2/47 Cleary Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,120m² ,22 Feb 2023
+"667,500 ","1 & 2/11 Diva Lane,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,2,468m² ,21 Feb 2023
+"260,000 ","40/6 O'Brien Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,1,1,98m² ,21 Feb 2023
+"310,000 ","3/18 Samuel Court,",DARLING HEIGHTS QLD 4350,Block of units,6,3,3,640m² ,20 Feb 2023
+"350,000 ","1/4 Boxsall Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,1,1,250m² ,20 Feb 2023
+"330,000 ","3/57 Holberton Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,104m² ,16 Feb 2023
+"800,000 ","1 & 2/43 Croxley Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,6,4,4,858m² ,15 Feb 2023
+"320,000 ","7/81 Vacy Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,117m² ,15 Feb 2023
+"425,000 ","2/18 Ross Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,130m² ,14 Feb 2023
+"315,000 ","1/12 Wapiti Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,110m² ,13 Feb 2023
+"389,000 ","68 Ironbark Drive,",MOUNT RASCAL QLD 4350,Vacant land,0,0,0,0,10 Feb 2023
+"417,000 ","3/31 Ocean Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,2,1,168m² ,10 Feb 2023
+"549,000 ","4/30 High Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,312m² ,10 Feb 2023
+"227,000 ","25 Graceview Street (aka Lot 4 Sunset Rise Estate),",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,561m² ,08 Feb 2023
+"540,000 ","1 & 2/10 Spies Court,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,5,2,2,718m² ,08 Feb 2023
+"505,000 ","8/1 Cossart Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,337m² ,07 Feb 2023
+"370,000 ","7/116-118 Taylor Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,2,141m² ,07 Feb 2023
+"705,000 ","21 Collins Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,723m² ,06 Feb 2023
+"450,000 ","2/224 Herries Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,2,178m² ,05 Feb 2023
+"430,000 ","29 Fraser Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"4,197m² ",03 Feb 2023
+"325,000 ","1/4-6 Hamilton Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,112m² ,01 Feb 2023
+"236,000 ","16 Graceview Street (aka Lot 17 Sunset Rise Estate),",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,561m² ,30 Jan 2023
+"480,000 ","1 & 2/393 West Street,",DARLING HEIGHTS QLD 4350,Block of units,5,2,2,655m² ,27 Jan 2023
+"446,000 ","2/17 Beer Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,188m² ,25 Jan 2023
+"215,000 ","2 Evans Street,",SOUTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,559m² ,24 Jan 2023
+"280,000 ","14/367 Margaret Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,2,115m² ,23 Jan 2023
+"240,000 ","9 Bonita Ct (Lot 21 - Stage 3 The Orchard),",WESTBROOK QLD 4350,Vacant land,0,0,0,768m² ,23 Jan 2023
+"580,000 ","1 & 2/6 Orchid Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,5,2,2,630m² ,18 Jan 2023
+"219,000 ","1/335 West Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,−,75m² ,18 Jan 2023
+"270,000 ","2/227 Nelson Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,114m² ,18 Jan 2023
+"350,000 ","6/5 Messines Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,1,1,137m² ,17 Jan 2023
+"314,000 ","1/35 Payne Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,2,203m² ,13 Jan 2023
+"595,000 ","Unit 1/81 Mackenzie St,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,3,2,1,350m² ,09 Jan 2023
+"560,000 ","4/15 Cranley Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,199m² ,09 Jan 2023
+"410,000 ","Unit 5/224 Herries Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,4,2,2,250m² ,05 Jan 2023
+"359,000 ","2/21 McInnes Crescent,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,127m² ,23 Dec 2022
+"235,000 ","17 Grace View Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,560m² ,22 Dec 2022
+"222,500 ","6/10 Buckland Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,89m² ,22 Dec 2022
+"535,000 ","1 & 2/14 Beer Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,4,2,2,600m² ,22 Dec 2022
+"330,000 ","2/247 Herries Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,76m² ,22 Dec 2022
+"222,000 ","110 Adelaide Street,",CRANLEY QLD 4350,Vacant land,0,0,0,550m² ,15 Dec 2022
+"493,000 ","24 Chopin Street,",ROCKVILLE QLD 4350,Block of units,5,2,2,737m² ,14 Dec 2022
+"420,000 ","1/6 Gabrielle Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,117m² ,12 Dec 2022
+"245,000 ","5 Trevatt St (Lot 57 The Orchard),",WESTBROOK QLD 4350,Vacant land,0,0,0,794m² ,11 Dec 2022
+"531,000 ","1 & 2/14 Crosby Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,4,2,2,660m² ,08 Dec 2022
+"305,000 ","3/451 Alderley Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,122m² ,08 Dec 2022
+"283,000 ","8/31 Gladstone Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,121m² ,06 Dec 2022
+"495,000 ","5a Chilcote Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,"1,402m² ",02 Dec 2022
+"570,000 ","23 Acacia Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,5,2,2,893m² ,01 Dec 2022
+"838,000 ","2/15 Arthur Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,347m² ,29 Nov 2022
+"380,000","2/6 Prospect Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,2,189m² ,29 Nov 2022
+"262,000 ","6/8 Phillip Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,63m² ,28 Nov 2022
+"390,000 ","3/2A Jackson Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,2,1,106m² ,24 Nov 2022
+"885,000 ","75 Luck Street,",DRAYTON QLD 4350,Block of units,8,4,4,"1,640m² ",24 Nov 2022
+"399,000 ","4/93 Kearney Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,215m² ,24 Nov 2022
+"190,000 ","Lot 20 The Glen Estate - McDougall St,",GLENVALE QLD 4350,Vacant land,0,0,0,811m² ,23 Nov 2022
+"925,000 ","26-28 Erin Street,",WILSONTON QLD 4350,Vacant land,0,0,0,"2,011m² ",22 Nov 2022
+"150,000","12 Rowland Court,",GOWRIE MOUNTAIN QLD 4350,Vacant land,0,0,0,"4,046m² ",21 Nov 2022
+"228,000 ","98 Adelaide Street,",CRANLEY QLD 4350,Vacant land,0,0,0,635m² ,18 Nov 2022
+"183,000 ","1/372 Tor Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,79m² ,18 Nov 2022
+"685,000 ","9/30 High Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,337m² ,17 Nov 2022
+"349,000 ","24 Sweeney Street,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,624m² ,15 Nov 2022
+"230,000 ","60a Holberton Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,712m² ,15 Nov 2022
+"1,500,000 ","36-56 Tranter Street,",TOP CAMP QLD 4350,Vacant land,0,0,0,0,14 Nov 2022
+"375,000 ","23 Fawngrove Drive,",GLENVALE QLD 4350,Vacant land,0,0,0,"4,851m² ",11 Nov 2022
+"200,000 ","11 Broadmead St,",GLENVALE QLD 4350,Vacant land,0,0,0,562m² ,07 Nov 2022
+"790,000 ","51 Kearney Street,",KEARNEYS SPRING QLD 4350,Block of units,6,4,2,732m² ,07 Nov 2022
+"380,000 ","16 Inter Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,810m² ,07 Nov 2022
+"368,000 ","3/24 Nugent Crescent,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,123m² ,07 Nov 2022
+"281,000 ","1/10 Wapiti Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,116m² ,04 Nov 2022
+"265,000 ",,WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,97m² ,04 Nov 2022
+"820,000 ","10 Simla St,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,720m² ,03 Nov 2022
+"515,000 ","A&B/86 Hume Street`,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,635m² ,01 Nov 2022
+"550,000 ","1 & 2/9 Gabrielle Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,4,2,2,700m² ,01 Nov 2022
+"216,000 ","13/1 Whichello Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,99m² ,01 Nov 2022
+"385,000 ","2/9 Emma Drive,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,1,1,123m² ,31 Oct 2022
+"559,000","5B Kimberley Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"5,356m² ",28 Oct 2022
+"415,000 ","1/12 Sambar Court,",KEARNEYS SPRING QLD 4350,Block of units,3,2,1,118m² ,24 Oct 2022
+"1,500,000 ","725 Ruthven Street,",SOUTH TOOWOOMBA QLD 4350,Block of units,13,7,10,"1,199m² ",21 Oct 2022
+"535,000 ","1/245 Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,146m² ,19 Oct 2022
+"244,000 ","4/343 West Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,85m² ,11 Oct 2022
+"365,000 ","11A Cassidy Terrace,",MOUNT KYNOCH QLD 4350,Apartment / Unit / Flat,3,2,1,500m² ,11 Oct 2022
+"299,000 ","5/541 South Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,2,2,1,115m² ,10 Oct 2022
+"346,000 ","3/47 Hoey Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,99m² ,07 Oct 2022
+"432,000 ","2/38 Entabeni Drive,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,122m² ,06 Oct 2022
+"295,000 ","4/541 South Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,2,2,1,115m² ,05 Oct 2022
+"250,000 ","Lot 263 Reserve Road,",CRANLEY QLD 4350,Vacant land,0,0,0,703m² ,04 Oct 2022
+"595,000 ","1 & 2/4 Samuel Court,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,5,4,2,743m² ,04 Oct 2022
+"456,888 ","276 Taylor Street,",GLENVALE QLD 4350,Block of units,4,2,2,763m² ,04 Oct 2022
+"435,000 ","8/14-16 Empress Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,2,174m² ,01 Oct 2022
+"365,000 ","1/63 Kearney Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,287m² ,30 Sep 2022
+"395,000","1/82 Holberton Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,2,2,1,146m² ,30 Sep 2022
+"96,000 ","9/306-310 James Street,",HARRISTOWN QLD 4350,Retirement Living,1,1,1,66m² ,27 Sep 2022
+"220,000 ","3/6a Clarissa Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,1,1,1,91m² ,26 Sep 2022
+"179,950 ","14 Irving Court,",HARLAXTON QLD 4350,Vacant land,0,0,0,387m² ,23 Sep 2022
+"510,000 ","1 Jason Street,",WILSONTON HEIGHTS QLD 4350,Block of units,4,2,2,789m² ,23 Sep 2022
+"506,000 ","3/310A Hume Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,2,126m² ,21 Sep 2022
+"295,000 ","15/15 Donna Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,96m² ,21 Sep 2022
+"850,000 ","1 & 2/26A Ascot Street,",NEWTOWN QLD 4350,Block of units,6,4,4,967m² ,20 Sep 2022
+"395,000 ","1/38 Victory Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,140m² ,20 Sep 2022
+"319,000","3/227 Nelson Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,114m² ,19 Sep 2022
+"340,000 ","4/6-6A Phyllis Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,116m² ,16 Sep 2022
+"558,500 ","103D Curzon Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,5,2,2,617m² ,12 Sep 2022
+"275,000 ","12/335 West Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,1,1,116m² ,09 Sep 2022
+"355,000 ","43 Boshammer St,",RANGEVILLE QLD 4350,Vacant land,0,0,0,722m² ,09 Sep 2022
+"236,000 ","18 Graceview Street (aka Lot 18 Sunset Rise Estate),",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,561m² ,08 Sep 2022
+"330,000 ","1/13 Taragon Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,2,2,1,106m² ,08 Sep 2022
+"600,000 ","1 - 3/287 James Street,",NEWTOWN QLD 4350,Block of units,4,3,2,857m² ,08 Sep 2022
+"660,000 ","22 Lovett Street,",RANGEVILLE QLD 4350,Vacant land,0,0,0,"1,214m² ",05 Sep 2022
+"233,000 ","9/256 Geddes Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,109m² ,02 Sep 2022
+"360,000 ","10/77-81 Bouganvillea Drive,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,2,1,1,111m² ,01 Sep 2022
+"620,000 ","2/276-278 Mackenzie Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,170m² ,29 Aug 2022
+"212,000 ","8/9 Uni Plaza Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,2,1,62m² ,26 Aug 2022
+"610,000 ","Lot 3/11 St Peters Close,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,"4,270m² ",25 Aug 2022
+"375,000 ","9 Barron Lane,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,271m² ,24 Aug 2022
+"440,000 ","4/440 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,3,2,1,115m² ,24 Aug 2022
+"300,000 ","Unit 5/208 Hume Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,2,137m² ,24 Aug 2022
+"700,000 ","18 Saint Peters Close,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,"2,221m² ",22 Aug 2022
+"225,000 ","4/10 Buckland Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,88m² ,18 Aug 2022
+"326,000","1/162 North Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,101m² ,17 Aug 2022
+"645,000 ","2 Dutton Street,",SOUTH TOOWOOMBA QLD 4350,Block of units,5,2,2,707m² ,17 Aug 2022
+"423,400 ","2/52B Llewellyn Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,134m² ,16 Aug 2022
+"400,000 ","1/6 Pine Court,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,2,1,802m² ,15 Aug 2022
+"340,000 ","1/44 Gostwyck Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,188m² ,11 Aug 2022
+"275,000 ","2/478 Stenner Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,74m² ,10 Aug 2022
+"170,000 ","6a Perry Street,",HARLAXTON QLD 4350,Vacant land,0,0,0,506m² ,10 Aug 2022
+"280,000 ","2/10 Wapiti Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,123m² ,10 Aug 2022
+"320,000 ","12/81 Vacy Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,119m² ,10 Aug 2022
+"497,777 ","23 Albert Street,",NEWTOWN QLD 4350,Block of units,2,2,2,807m² ,10 Aug 2022
+"266,000 ","3/329 Hume Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,1,1,121m² ,09 Aug 2022
+"500,000 ","1 & 2/14 Jondaryan Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,4,2,2,635m² ,04 Aug 2022
+"860,000 ","1 - 3/128 Long Street,",CENTENARY HEIGHTS QLD 4350,Block of units,6,3,3,809m² ,03 Aug 2022
+"390,000 ","1/9 Magann Court,,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,1,1,332m² ,01 Aug 2022
+"350,000 ","2/9 Magann Court,,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,404m² ,01 Aug 2022
+"495,000 ","1&2/13 Margot Court,",HARLAXTON QLD 4350,Apartment / Unit / Flat,4,2,2,694m² ,01 Aug 2022
+"395,000 ","20/90-92 Glenvale Road,",HARRISTOWN QLD 4350,Townhouse,3,2,2,146m² ,27 Jul 2022
+"185,000 ","2/6 Sherry Street,",WILSONTON HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,72m² ,22 Jul 2022
+"527,000","2/15 Henry Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,3,2,2,188m² ,21 Jul 2022
+"335,000","4/42 Gordon Avenue,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,181m² ,20 Jul 2022
+"385,000 ","1/25 Winning Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,2,171m² ,19 Jul 2022
+"457,000 ","4/169 Alderley Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,125m² ,18 Jul 2022
+"377,250","7/4B Herries Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,203m² ,14 Jul 2022
+"295,000 ","5/31 Gladstone Street,",NEWTOWN QLD 4350,Townhouse,2,1,1,137m² ,07 Jul 2022
+"185,000","1/177a West Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,99m² ,07 Jul 2022
+"295,000","2/4 Clive Crescent,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,105m² ,05 Jul 2022
+"782,000","29 Luck Street,",DRAYTON QLD 4350,Block of units,10,4,4,"1,605m² ",04 Jul 2022
+"395,000 ","3/6 Ocean Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,1,143m² ,24 Jun 2022
+"272,500 ","4/31 Moloney Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,85m² ,22 Jun 2022
+"750,000 ","14 Winning Street,",GLENVALE QLD 4350,Block of units,6,4,4,861m² ,20 Jun 2022
+"185,000 ",,NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,82m² ,18 Jun 2022
+"200,000 ","26 London Circuit,",TORRINGTON QLD 4350,Vacant land,0,0,0,"1,380m² ",17 Jun 2022
+"275,000 ","1/429 Stenner Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,81m² ,16 Jun 2022
+"661,000 ","2/59 Jellicoe Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,3,2,2,209m² ,16 Jun 2022
+"551,000 ","272 Bridge Street,",NEWTOWN QLD 4350,Block of units,5,3,3,992m² ,16 Jun 2022
+"340,500 ","1/1 Diamantina Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,193m² ,15 Jun 2022
+"252,000 ","1/383 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,87m² ,15 Jun 2022
+"640,000 ","1058 Boundary Street South,",DRAYTON QLD 4350,Vacant land,0,0,0,"55,441m² ",14 Jun 2022
+"425,000 ","5 New Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,825m² ,13 Jun 2022
+"422,500 ","7/82 Holberton Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,2,2,1,136m² ,11 Jun 2022
+"1,350,000 ","7 Blake Street,",WILSONTON QLD 4350,Block of units,10,8,6,"1,154m² ",07 Jun 2022
+"315,000 ","2/90 North Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,159m² ,04 Jun 2022
+"189,000 ","11/1 Whichello Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,100m² ,03 Jun 2022
+"460,000 ","36 Grey Gums Drive,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"3,050m² ",02 Jun 2022
+"436,000 ","5/223A Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,Townhouse,2,2,1,174m² ,02 Jun 2022
+"305,000 ","1/244 Spring Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,113m² ,02 Jun 2022
+"155,000 ","9 Felix Street,",CRANLEY QLD 4350,Vacant land,0,0,0,687m² ,31 May 2022
+"695,000 ","31 Luck Street,",DRAYTON QLD 4350,Block of units,8,3,3,"1,240m² ",31 May 2022
+"330,000","1/8 Tara Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,119m² ,30 May 2022
+"515,000 ","7 Loudon Street,",SOUTH TOOWOOMBA QLD 4350,Block of units,4,2,2,544m² ,26 May 2022
+"320,000 ","4/14 Garde Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,1,1,108m² ,24 May 2022
+"435,000 ","53-59 Cambooya Street,",DRAYTON QLD 4350,Vacant land,0,0,0,"2,711m² ",24 May 2022
+"252,000 ","1A Shannon Court,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,311m² ,23 May 2022
+"255,000 ",,HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,100m² ,20 May 2022
+"295,000 ","7/6 Scott Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,1,1,174m² ,18 May 2022
+"332,200 ","2/13 Opal Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,127m² ,17 May 2022
+"320,000 ","5/23 Devine Street,",HARRISTOWN QLD 4350,Block of units,2,1,1,99m² ,16 May 2022
+"665,000 ","6 Samuel Court,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,6,4,2,667m² ,13 May 2022
+"760,000 ","18 Beer Court,",KEARNEYS SPRING QLD 4350,Block of units,6,2,4,682m² ,13 May 2022
+"220,000","4/2 Benjamin Street,",MOUNT LOFTY QLD 4350,Townhouse,2,1,1,92m² ,13 May 2022
+"651,000 ","12 Watts Street,",DRAYTON QLD 4350,Block of units,4,2,2,733m² ,12 May 2022
+"718,000 ","11 Bulloo Street,",GLENVALE QLD 4350,Block of units,6,4,4,741m² ,12 May 2022
+"750,000 ","30-32 Flagstone Creek Road,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,"4,575m² ",12 May 2022
+"307,000 ","1/22 Gostwyck Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,94m² ,12 May 2022
+"405,000 ","6 Rangeview Drive,",TOP CAMP QLD 4350,Vacant land,0,0,0,"4,041m² ",12 May 2022
+"575,000 ","5 Denyer Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,5,2,2,673m² ,12 May 2022
+"310,000 ","5/373 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,115m² ,11 May 2022
+"200,000 ",,NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,506m² ,09 May 2022
+"240,000 ","1/40 Aberdeen Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,90m² ,05 May 2022
+"655,000","2/30 High Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,431m² ,04 May 2022
+"285,000 ","6/11A Gatfield Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,104m² ,03 May 2022
+"300,000 ","3/90 North Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,159m² ,03 May 2022
+"420,000 ","67 Wine Drive,",WILSONTON HEIGHTS QLD 4350,Block of units,4,2,2,600m² ,03 May 2022
+"262,500 ","3/38 Stephen Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,70m² ,28 Apr 2022
+"366,500 ","71B Stuart Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,"1,558m² ",27 Apr 2022
+"310,000 ","1/5 Kirra Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,162m² ,27 Apr 2022
+"210,000 ","4/96 Campbell Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,1,1,1,61m² ,26 Apr 2022
+"240,000 ","14 Sorrento Drive,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,375m² ,23 Apr 2022
+"703,000 ","172 Handley Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,6,4,4,600m² ,22 Apr 2022
+"210,000 ","1/69 Ruthven Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,1,1,81m² ,21 Apr 2022
+"500,000 ","Units 1 and 2/25 Hampton Street,",NEWTOWN QLD 4350,Block of units,4,2,2,678m² ,21 Apr 2022
+"703,000 ","171A Alderley Street,",CENTENARY HEIGHTS QLD 4350,Block of units,6,2,2,802m² ,19 Apr 2022
+"940,000 ","158 Taylor Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,470m² ,19 Apr 2022
+"423,000 ","42 Haig Street,",SOUTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,"1,036m² ",19 Apr 2022
+"700,000","2 Troys Road,",TORRINGTON QLD 4350,Vacant land,0,0,0,0,19 Apr 2022
+"192,000 ","44 McInnes Crescent,",GLENVALE QLD 4350,Vacant land,0,0,0,620m² ,14 Apr 2022
+"637,700 ","33 Alistair Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,3,2,589m² ,14 Apr 2022
+"255,000 ","8/38 Stephen Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,71m² ,14 Apr 2022
+"671,000 ","33 Cardamon Crescent,",GLENVALE QLD 4350,Block of units,6,3,2,541m² ,13 Apr 2022
+"421,000","4/5 Kirra Street,",WILSONTON QLD 4350,Townhouse,3,2,2,174m² ,13 Apr 2022
+"620,000 ","2/15 Risdon Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,5,3,2,"1,000m² ",12 Apr 2022
+"620,000 ","2/15 Risdon Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,5,3,2,"1,000m² ",12 Apr 2022
+"890,000 ","Houses 1&2/8 Webb Street,",RANGEVILLE QLD 4350,Block of units,6,3,4,845m² ,11 Apr 2022
+"225,500 ","5/12-14 Ellis Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,63m² ,11 Apr 2022
+"311,000 ","2/62 Ramsay Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,224m² ,07 Apr 2022
+"655,000 ","Lot 85 Carrigan Street,",KEARNEYS SPRING QLD 4350,New land,4,2,2,600m² ,07 Apr 2022
+"235,000 ","14/173 North Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,3,1,1,111m² ,07 Apr 2022
+"318,000 ","13/6 Scott Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,4,1,2,131m² ,05 Apr 2022
+"255,000 ","1/8 Hock Court,",WILSONTON HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,98m² ,05 Apr 2022
+"382,000 ","66 Beauly Drive,",TOP CAMP QLD 4350,Vacant land,0,0,0,"6,238m² ",04 Apr 2022
+"333,500",,GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,115m² ,02 Apr 2022
+"1,580,000 ","1-4/2 Walton Street,",NORTH TOOWOOMBA QLD 4350,Block of units,12,8,8,864m² ,01 Apr 2022
+"355,000 ","1/2 Gabrielle Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,1,1,149m² ,30 Mar 2022
+"319,000 ","4/311 Alderley Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,102m² ,30 Mar 2022
+"387,000 ","1/12 Adelaide St,",CRANLEY QLD 4350,Apartment / Unit / Flat,3,2,1,212m² ,28 Mar 2022
+"310,000 ","22/227 Nelson Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,114m² ,24 Mar 2022
+"529,000 ","1/7 Collingwood Close,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,3,2,2,292m² ,24 Mar 2022
+"237,500 ","4/39 Gipps Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,2,1,1,82m² ,23 Mar 2022
+"900,000 ","233 Nelson Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,6,4,14,651m² ,23 Mar 2022
+"515,000 ","1/1 Rutkin Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,179m² ,23 Mar 2022
+"432,000 ","25 Hilltop Crescent,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"4,000m² ",22 Mar 2022
+"630,000 ","1 & 2/7 Whitefield Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,4,4,2,518m² ,21 Mar 2022
+"370,000 ","5 Top Camp Court,",TOP CAMP QLD 4350,Vacant land,0,0,0,"5,266m² ",21 Mar 2022
+"525,000 ","1 & 2/9 Northpoint Avenue,",HARLAXTON QLD 4350,Apartment / Unit / Flat,6,4,2,567m² ,18 Mar 2022
+"305,000 ",,GLENVALE QLD 4350,Apartment / Unit / Flat,2,1,1,109m² ,15 Mar 2022
+"281,000 ","1/27 Gladstone Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,98m² ,14 Mar 2022
+"354,000 ","2/25 Furness Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,135m² ,13 Mar 2022
+"347,000 ","1/2A Empress St,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,104m² ,11 Mar 2022
+"612,000 ","2/2 Renshaw Crescent,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,414m² ,11 Mar 2022
+"240,000 ","2/87 Boshammer Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,84m² ,11 Mar 2022
+"385,000 ","2/114 Drayton Road,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,2,2,251m² ,10 Mar 2022
+"385,000 ","1/15 Risdon Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,2,330m² ,10 Mar 2022
+"480,000 ","1/24 Sambar Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,301m² ,04 Mar 2022
+"690,000 ","124c Holberton Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,4,4,2,404m² ,03 Mar 2022
+"200,000 ","203a Long Street,",SOUTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,605m² ,03 Mar 2022
+"1,175,000 ","4a Aubigny Street,",EAST TOOWOOMBA QLD 4350,Block of units,8,5,5,912m² ,02 Mar 2022
+"340,000 ","Villa 53 Glenfield Court,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,2,1,1,"34,398m² ",02 Mar 2022
+"320,000 ","2/42 Gordon Avenue,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,215m² ,02 Mar 2022
+"259,000 ","3/4 Scott Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,142m² ,28 Feb 2022
+"440,000 ","18 Keira Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"5,424m² ",25 Feb 2022
+"250,000 ","6/5 Murlali Court,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,100m² ,25 Feb 2022
+"241,000 ","1/128 Curzon Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,104m² ,24 Feb 2022
+"532,500 ","5B Kimberley Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"5,356m² ",23 Feb 2022
+"290,000 ","5/98 Main Street,",WESTBROOK QLD 4350,Apartment / Unit / Flat,3,2,2,135m² ,22 Feb 2022
+"325,000 ","22 Entabeni Drive,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,562m² ,21 Feb 2022
+"325,000 ","22 Entabeni Drive,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,562m² ,21 Feb 2022
+"225,000 ","3/295 Hume Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,"3,328m² ",21 Feb 2022
+"300,000 ","Unit 1/183 Alderley Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,2,122m² ,17 Feb 2022
+"411,000","25 Harvey Court,",GLENVALE QLD 4350,Vacant land,0,0,0,"4,904m² ",15 Feb 2022
+"397,000 ","5/68 Holberton Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,210m² ,14 Feb 2022
+"166,000 ","6 Perry Street,",HARLAXTON QLD 4350,Vacant land,0,0,0,512m² ,09 Feb 2022
+"356,000 ","14/563-571 Hume Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,131m² ,09 Feb 2022
+"244,000 ","15/2 Benjamin Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,92m² ,08 Feb 2022
+"335,000 ","1/34 Stephen Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,102m² ,08 Feb 2022
+"310,000 ","7/216 Geddes Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,1,72m² ,08 Feb 2022
+"301,000 ","120-122 Cambooya Street,",DRAYTON QLD 4350,Vacant land,0,0,0,"2,217m² ",07 Feb 2022
+"320,000 ","5/301 Bridge Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,1,2,118m² ,07 Feb 2022
+"1,200,000 ","264 Tor Street,",ROCKVILLE QLD 4350,Block of units,7,4,4,809m² ,07 Feb 2022
+"303,500 ","2/4 Fokker Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,81m² ,07 Feb 2022
+"420,000 ","1/97 Alderley Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,1,237m² ,04 Feb 2022
+"190,000 ","6 Breanna Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,617m² ,02 Feb 2022
+"165,000 ","4 Kershaw Close,",CRANLEY QLD 4350,Vacant land,0,0,0,576m² ,02 Feb 2022
+"315,000 ","1/59 Sanctuary Drive,",CRANLEY QLD 4350,Apartment / Unit / Flat,2,2,1,113m² ,01 Feb 2022
+"605,000 ","3 Cardamon Crescent,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,2,501m² ,28 Jan 2022
+"220,000 ","9/248 James Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,1,1,123m² ,28 Jan 2022
+"450,000 ","8/563-571 Hume Street,",KEARNEYS SPRING QLD 4350,Townhouse,3,2,2,171m² ,28 Jan 2022
+"375,000 ","5/25-27 Kitchener Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,120m² ,24 Jan 2022
+"691,000 ","A & B/19 Alistair Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,4,627m² ,24 Jan 2022
+"330,000","1/75 Shelby Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,298m² ,21 Jan 2022
+"285,000 ","3 Sirron Street,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"2,412m² ",19 Jan 2022
+"860,000 ","52 Cortess Street,",HARRISTOWN QLD 4350,Block of units,6,4,4,802m² ,19 Jan 2022
+"365,000 ","10 Charlton Pinch Road,",TORRINGTON QLD 4350,Vacant land,0,0,0,"6,366m² ",19 Jan 2022
+"274,000 ","2/381 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,119m² ,18 Jan 2022
+"185,000 ","30/6 O'Brien Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,3,1,1,121m² ,17 Jan 2022
+"352,000 ","1/16 Village Court,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,385m² ,16 Jan 2022
+"226,000 ","27/367 Margaret Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,117m² ,14 Jan 2022
+"329,000 ","9/24 Avondale Street,",NEWTOWN QLD 4350,Townhouse,3,2,1,194m² ,14 Jan 2022
+"340,000 ","20a Gentle Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,458m² ,11 Jan 2022
+"411,000 ","4/310-314 Mackenzie Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,273m² ,10 Jan 2022
+"160,000","2A Waverley Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,371m² ,09 Jan 2022
+"555,000 ","Units 1 & 2/9 Lexi Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,2,566m² ,24 Dec 2021
+"282,000 ","6/6 Honey Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,2,111m² ,24 Dec 2021
+"420,000 ","20 Paradise Street,",HARRISTOWN QLD 4350,Block of units,4,2,2,728m² ,23 Dec 2021
+"290,000 ","7/64 Gordon Avenue,",NEWTOWN QLD 4350,Townhouse,3,1,2,133m² ,23 Dec 2021
+"225,000 ","1/8 Claret Street,",WILSONTON HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,2,80m² ,23 Dec 2021
+"817,500 ","35 Obst Street,",HARRISTOWN QLD 4350,Block of units,5,5,5,991m² ,22 Dec 2021
+"293,800 ","5/343 West Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,1,1,104m² ,21 Dec 2021
+"675,000 ","22 Partridge Street,",EAST TOOWOOMBA QLD 4350,Block of units,5,3,3,663m² ,20 Dec 2021
+"290,000 ","74 Aitken Street,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,600m² ,20 Dec 2021
+"320,000 ","3/247 Herries Street,",NEWTOWN QLD 4350,Townhouse,2,2,1,129m² ,20 Dec 2021
+"290,000 ","14A Sidney Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,541m² ,18 Dec 2021
+"530,000 ","1 Kinnoull Terrace,",RANGEVILLE QLD 4350,Vacant land,0,0,0,"1,012m² ",16 Dec 2021
+"470,000 ","1 & 2/40 Gorman Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,4,2,2,600m² ,15 Dec 2021
+"158,000 ","13/1-3 Uniplaza Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,1,1,−,59m² ,15 Dec 2021
+"290,000 ","4/18 Teesdale Avenue,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,112m² ,15 Dec 2021
+"255,000","2/38 Stephen Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,70m² ,15 Dec 2021
+"1,050,000","88 Postle Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,"22,300m² ",14 Dec 2021
+"1,000,000 ","1-3/5 Nabiac Close,",KEARNEYS SPRING QLD 4350,Block of units,7,4,3,847m² ,2021
+"345,000 ","2/82 Holberton Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,2,2,1,141m² ,14 Dec 2021
+"368,000 ","10/37-39 Hume Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,1,115m² ,13 Dec 2021
+"399,000 ","6/6 Cooper Street Street,",SOUTH TOOWOOMBA QLD 4350,Townhouse,2,2,1,161m² ,13 Dec 2021
+"159,000 ","28 Wandsworth Street,",CRANLEY QLD 4350,Vacant land,0,0,0,525m² ,10 Dec 2021
+"387,000 ","2/4 Grace Court,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,2,164m² ,10 Dec 2021
+"175,000 ","39A Monash Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,373m² ,10 Dec 2021
+"620,000 ","1 & 2/92 Sanctuary Drive,",CRANLEY QLD 4350,Apartment / Unit / Flat,6,4,2,512m² ,08 Dec 2021
+"231,000 ","3/27 Graceview Street,",DARLING HEIGHTS QLD 4350,Vacant land,0,0,0,679m² ,08 Dec 2021
+"365,000 ","16 Christy Court,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,"5,109m² ",07 Dec 2021
+"360,000 ","2-103 Gorman Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,386m² ,02 Dec 2021
+"610,000 ","8 Parkview Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,5,3,2,428m² ,01 Dec 2021
+"310,000 ","1/11 Sienna Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,123m² ,01 Dec 2021
+"220,000 ","6/22 Kirklees Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,1,1,680m² ,01 Dec 2021
+"356,000 ","27/563-571 Hume Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,131m² ,30 Nov 2021
+"600,000 ","1344 Gore Highway (Bunkers Hill School Road),",WESTBROOK QLD 4350,Vacant land,0,0,0,0,2021
+"240,000 ","6/15 Donna Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,3,1,109m² ,29 Nov 2021
+"205,000 ","2/1 Seaton Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,1,1,1,50m² ,29 Nov 2021
+"710,000 ","5/44 Arthur Street,",EAST TOOWOOMBA QLD 4350,Townhouse,3,2,2,194m² ,28 Nov 2021
+"190,000","3/1A Fanny Street,",TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,141m² ,28 Nov 2021
+"330,000 ","7/14 Uniplaza Court,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,4,152m² ,25 Nov 2021
+"595,000 ","8/30 High Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,293m² ,24 Nov 2021
+"419,000",,DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,4,2,1,149m² ,23 Nov 2021
+"601,000 ","2 Garget Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,4,2,2,608m² ,2021
+"199,000 ","1/10 Buckland Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,87m² ,23 Nov 2021
+"257,000 ","29/2 Benjamin Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,88m² ,23 Nov 2021
+"355,000 ","165 Mount Rascal Road,",MOUNT RASCAL QLD 4350,Vacant land,0,0,0,"5,400m² ",23 Nov 2021
+"595,000 ","10/308 Mackenzie Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,191m² ,22 Nov 2021
+"230,000 ","Unit 2/44 Noll Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,101m² ,21 Nov 2021
+"305,000 ","1/17 Lexi Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,133m² ,19 Nov 2021
+"560,000 ","2 Krause Court,",EAST TOOWOOMBA QLD 4350,Block of units,4,2,2,683m² ,18 Nov 2021
+"195,000 ","16/173 North Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,3,1,1,70m² ,18 Nov 2021
+"465,000 ","2/23 Sweeney Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,684m² ,17 Nov 2021
+"540,000 ","Units 1 & 2/7 Lexi Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,5,3,2,441m² ,16 Nov 2021
+"701,000 ","3 Bramwell Street,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,0,2021
+"249,000 ",,WILSONTON QLD 4350,Apartment / Unit / Flat,3,1,1,185m² ,11 Nov 2021
+"666,050 ","543-547 South Street,",GLENVALE QLD 4350,Vacant land,0,0,0,0,2021
+"260,000 ",,RANGEVILLE QLD 4350,Vacant land,0,0,0,438m² ,09 Nov 2021
+"230,000 ","16 Boyes Street,",HARRISTOWN QLD 4350,Vacant land,0,0,0,887m² ,08 Nov 2021
+"795,000 ","2/11a South Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,235m² ,08 Nov 2021
+"799,000 ","4 Gunn Street,",KEARNEYS SPRING QLD 4350,Block of units,8,3,3,"1,006m² ",05 Nov 2021
+"346,500 ","1/9 Cassidy Terrace,",MOUNT KYNOCH QLD 4350,Apartment / Unit / Flat,3,2,1,318m² ,05 Nov 2021
+"607,000 ","168 Hogg Street,",WILSONTON HEIGHTS QLD 4350,Apartment / Unit / Flat,6,4,2,661m² ,04 Nov 2021
+"470,000 ","1/11 Helen Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,2,183m² ,03 Nov 2021
+"570,000 ","2/19a Crown Street,",RANGEVILLE QLD 4350,Townhouse,3,2,2,197m² ,03 Nov 2021
+"223,000 ","6/56 North Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,2,77m² ,01 Nov 2021
+"213,000 ",,NEWTOWN QLD 4350,Apartment / Unit / Flat,3,1,1,124m² ,01 Nov 2021
+"155,000",,WILSONTON QLD 4350,Vacant land,0,0,0,586m² ,01 Nov 2021
+"175,000 ","76 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,532m² ,29 Oct 2021
+"373,000 ","2/4 Punter Close,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,2,143m² ,28 Oct 2021
+"285,000 ","8/5 Kirra Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,129m² ,27 Oct 2021
+"330,000 ","3/77 Kearney Street,",KEARNEYS SPRING QLD 4350,Townhouse,3,2,2,211m² ,24 Oct 2021
+"188,000 ","18 Hamilton Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,603m² ,22 Oct 2021
+"510,000 ","4 Stumm Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,4,2,2,607m² ,20 Oct 2021
+"309,000 ","6 Keira Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"4,000m² ",19 Oct 2021
+"175,000 ","761 Greenwattle Street,",GLENVALE QLD 4350,Vacant land,0,0,0,504m² ,19 Oct 2021
+"570,000 ","1 & 2/16 Behland Street,",KEARNEYS SPRING QLD 4350,Block of units,4,2,2,653m² ,18 Oct 2021
+"716,000 ","2 Rachel Street,",DARLING HEIGHTS QLD 4350,Block of units,6,3,3,992m² ,14 Oct 2021
+"2,590,000 ","21-23 Hursley Road,",NEWTOWN QLD 4350,Block of units,16,14,15,"2,023m² ",14 Oct 2021
+"351,000 ","7/6 Prospect Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,1,233m² ,13 Oct 2021
+"395,000 ","4/46 Dunmore Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,1,188m² ,11 Oct 2021
+"1,030,000 ","6 Ipswich Street,",EAST TOOWOOMBA QLD 4350,Block of units,8,4,4,"1,228m² ",11 Oct 2021
+"318,000 ","1B Macqueen Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,500m² ,08 Oct 2021
+"280,000 ","1/51 Gipps Street,",DRAYTON QLD 4350,Apartment / Unit / Flat,2,1,1,112m² ,07 Oct 2021
+"590,000 ","4 Nash Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,6,4,2,521m² ,05 Oct 2021
+"700,000 ","406-410 Tor Street,",NEWTOWN QLD 4350,Block of units,8,4,4,999m² ,01 Oct 2021
+"150,000 ","6/372 Tor Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,75m² ,29 Sep 2021
+"369,000 ","2/750 Boundary Street,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,2,182m² ,28 Sep 2021
+"1,160,000 ","317 Bridge Street,",NEWTOWN QLD 4350,Block of units,11,8,4,"1,214m² ",28 Sep 2021
+"470,000 ","4/12 Horton Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,159m² ,27 Sep 2021
+"270,000 ","2/77 Ruthven Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,2,1,112m² ,27 Sep 2021
+"195,000 ","3/327 Hume Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,83m² ,27 Sep 2021
+"230,000 ","7/248 James Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,1,2,103m² ,24 Sep 2021
+"235,000 ","2/3 Quinlan Court,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,88m² ,23 Sep 2021
+"1,040,000","49 McGregor Street,",WILSONTON QLD 4350,Block of units,8,4,4,857m² ,23 Sep 2021
+"142,000 ","7/372 Tor Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,75m² ,22 Sep 2021
+"340,000 ","Unit 1/42 Hogg Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,3,2,1,141m² ,22 Sep 2021
+"342,500 ","338 Bridge Street,",WILSONTON QLD 4350,Vacant land,0,0,0,"1,315m² ",22 Sep 2021
+"340,000 ","2/1B Llewellyn Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,713m² ,20 Sep 2021
+"159,900 ","6 Tallowwood Boulevard,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,500m² ,20 Sep 2021
+"235,000 ","6/314 West Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,84m² ,20 Sep 2021
+"190,000 ","2/1 Crane Court,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,104m² ,17 Sep 2021
+"311,000 ","2/26 Knockator Crescent,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,2,336m² ,16 Sep 2021
+"400,000 ","3A New Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,885m² ,16 Sep 2021
+"670,000 ","Units 1-3/226 Long Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,6,3,3,911m² ,2021
+"895,000 ","214 Long St,",SOUTH TOOWOOMBA QLD 4350,Block of units,7,4,4,908m² ,14 Sep 2021
+"440,000 ","4/223 MacKenzie Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,2,248m² ,13 Sep 2021
+"205,000 ","5 Hillsdale Crescent,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"2,400m² ",10 Sep 2021
+"680,000 ","4 Catto Street,",CENTENARY HEIGHTS QLD 4350,Block of units,6,3,3,827m² ,10 Sep 2021
+"145,000 ","Lot 2 Irving Court,",HARLAXTON QLD 4350,Vacant land,0,0,0,368m² ,10 Sep 2021
+"600,000 ","32 Flagstone Creek Road,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,"4,575m² ",09 Sep 2021
+"285,000 ","8 Keira Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"4,021m² ",07 Sep 2021
+"273,000 ","3/9 Creedon Drive,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,2,95m² ,07 Sep 2021
+"255,000 ","2/227 Nelson Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,2,1,1,114m² ,07 Sep 2021
+"775,000 ","4 Curzon Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,"2,509m² ",06 Sep 2021
+"500,000 ","1 & 2 / 6 Bothwell Street,",NEWTOWN QLD 4350,Block of units,4,2,2,500m² ,06 Sep 2021
+"195,000 ","8/33 Margaret Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,90m² ,02 Sep 2021
+"172,500 ","16 Yeates Street,",HARLAXTON QLD 4350,Vacant land,0,0,0,424m² ,01 Sep 2021
+"430,000 ","2/223 Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,203m² ,31 Aug 2021
+"325,000","6 Mary Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,510m² ,31 Aug 2021
+"300,000 ","26B Cardamon Crescent,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,220m² ,30 Aug 2021
+"170,000 ","15/33 Margaret Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,90m² ,27 Aug 2021
+"150,000 ","Lot 1 Irving Court,",HARLAXTON QLD 4350,Vacant land,0,0,0,382m² ,26 Aug 2021
+"385,000 ","3 New Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,825m² ,26 Aug 2021
+"310,000 ","4/7 Adina Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,106m² ,26 Aug 2021
+"344,000 ","2/46B Cranley Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,2,179m² ,26 Aug 2021
+"369,850 ","1/13 McMorrow Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,151m² ,23 Aug 2021
+"549,000 ","Unit 4/19 Crown Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,197m² ,23 Aug 2021
+"310,000 ","2/1 Barron Lane,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,2,142m² ,22 Aug 2021
+"310,000 ","2/2A Empress St,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,108m² ,20 Aug 2021
+"160,000 ","13/2C Waverley Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,516m² ,20 Aug 2021
+"320,000 ","13 & 14/2C Waverley Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,"1,032m² ",20 Aug 2021
+"160,000 ","14/2C Waverley Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,516m² ,20 Aug 2021
+"865,000 ","123 South Street,",CENTENARY HEIGHTS QLD 4350,Block of units,8,4,4,729m² ,19 Aug 2021
+"355,000 ","2/213 New England Highway,",HARLAXTON QLD 4350,Apartment / Unit / Flat,3,2,1,126m² ,16 Aug 2021
+"215,000","Unit 1/3 Dorothea Court,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,87m² ,16 Aug 2021
+"295,000 ","3/81 Vacy Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,117m² ,16 Aug 2021
+"320,000 ","2C Waverley Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,516m² ,16 Aug 2021
+"710,000 ","75 Luck Street,",DRAYTON QLD 4350,Block of units,8,4,4,"1,640m² ",13 Aug 2021
+"320,000 ","16 Keira Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,"6,158m² ",12 Aug 2021
+"165,000 ","45/6 O'Brien Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,1,1,95m² ,12 Aug 2021
+"324,000 ","3/436 Hume Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,2,2,1,118m² ,12 Aug 2021
+"240,000 ","75 Drummond Street,",RANGEVILLE QLD 4350,Vacant land,0,0,0,316m² ,2021
+"290,000 ","6/42 Gordon Avenue,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,200m² ,09 Aug 2021
+"130,000 ","13 Stevenson Street,",RANGEVILLE QLD 4350,Vacant land,0,0,0,885m² ,09 Aug 2021
+"310,000 ","1/6 Punter Close,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,2,165m² ,06 Aug 2021
+"302,000 ","45 Entabeni Drive,",KEARNEYS SPRING QLD 4350,Vacant land,0,0,0,614m² ,06 Aug 2021
+"420,000 ","11 Cudgee Court,",WILSONTON HEIGHTS QLD 4350,Block of units,4,2,2,630m² ,04 Aug 2021
+"320,000 ","1/2a Jackson Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,2,1,106m² ,03 Aug 2021
+"540,000 ","14 Pascoe Lane,",HARLAXTON QLD 4350,Block of units,5,2,2,"1,076m² ",03 Aug 2021
+"620,000 ","19 Shelby Street,",GLENVALE QLD 4350,Block of units,6,4,2,560m² ,02 Aug 2021
+"151,000 ","10/6 O'Brien Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,1,1,61m² ,30 Jul 2021
+"315,000 ","4/38 Victory Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,142m² ,30 Jul 2021
+"285,000 ","Unit 5/27 Gladstone Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,127m² ,30 Jul 2021
+"255,750 ","4/265 Taylor Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,3,1,1,185m² ,30 Jul 2021
+"267,500 ","1/76 Ramsay Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,1,366m² ,29 Jul 2021
+"810,000 ","353 Tor Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,6,3,3,"1,287m² ",27 Jul 2021
+"615,000 ","3/7 Hartman Street,",RANGEVILLE QLD 4350,Townhouse,4,2,2,242m² ,26 Jul 2021
+"250,000 ","4/22 Payne Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,1,92m² ,26 Jul 2021
+"189,000 ","69 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,570m² ,23 Jul 2021
+"436,500 ","28 Boyes Street,",HARRISTOWN QLD 4350,Block of units,5,2,2,557m² ,21 Jul 2021
+"1,300,000 ","25-31 Kara View Court,",RANGEVILLE QLD 4350,Vacant land,0,0,0,"4,001m² ",20 Jul 2021
+"219,000 ","4/12 Potter Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,130m² ,20 Jul 2021
+"337,000 ","1/7 Tame Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,1,296m² ,20 Jul 2021
+"179,000 ","24 Mahogany Street,",NEWTOWN QLD 4350,Vacant land,0,0,0,602m² ,19 Jul 2021
+"390,000 ","12/1A Stirling Street,",EAST TOOWOOMBA QLD 4350,Townhouse,3,2,1,158m² ,16 Jul 2021
+"265,000 ","1/3B Gladstone Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,116m² ,15 Jul 2021
+"187,775 ","28 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,663m² ,13 Jul 2021
+"480,000 ","71 Mackenzie Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,784m² ,12 Jul 2021
+"165,000 ","1/17 Wright Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,1,−,124m² ,12 Jul 2021
+"240,000 ","135 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,"3,775m² ",09 Jul 2021
+"295,000 ","20 Keira Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,Vacant land,0,0,0,0,08 Jul 2021
+"485,000 ","2 Alford Street,",MOUNT LOFTY QLD 4350,Vacant land,0,0,0,774m² ,07 Jul 2021
+"263,500 ","2/18 Tempest Drive,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,120m² ,06 Jul 2021
+"250,000 ","1/4 Fysh Court,",WILSONTON QLD 4350,Apartment / Unit / Flat,3,1,1,113m² ,06 Jul 2021
+"325,000 ","16/81 Vacy Street,",NEWTOWN QLD 4350,Townhouse,3,2,1,146m² ,02 Jul 2021
+"310,000 ","45-47 Cumner Road,",TORRINGTON QLD 4350,Vacant land,0,0,0,"8,700m² ",02 Jul 2021
+"12,950 ","16 Box Drive,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,400m² ,30 Jun 2021
+"230,000 ","73 Drummond Street,",RANGEVILLE QLD 4350,Vacant land,0,0,0,232m² ,2021
+"250,000 ","1/206 Mackenzie Street,",RANGEVILLE QLD 4350,Vacant land,0,0,0,389m² ,2021
+"163,950 ","23 Tallowwood Boulevard,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,550m² ,25 Jun 2021
+"625,000 ","10 Hursley Road,",NEWTOWN QLD 4350,Vacant land,0,0,0,"2,853m² ",25 Jun 2021
+"400,000 ","3/3-5 Kirra Street,",WILSONTON QLD 4350,Townhouse,3,2,2,174m² ,25 Jun 2021
+"187,775 ","42 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,680m² ,22 Jun 2021
+"158,000 ","9 Ashgrove Terrace,",HARLAXTON QLD 4350,Vacant land,0,0,0,381m² ,21 Jun 2021
+"328,000 ","3/26 Kurtz Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,154m² ,21 Jun 2021
+"175,000 ","113 Santana Park,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,642m² ,18 Jun 2021
+"255,000 ","1/33 Ocean Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,242m² ,16 Jun 2021
+"260,000 ","1/8 Garde Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,3,1,1,139m² ,15 Jun 2021
+"199,000 ","17 Teesdale Avenue,",NEWTOWN QLD 4350,Vacant land,0,0,0,540m² ,15 Jun 2021
+"159,000 ","17 Yeates Street,",HARLAXTON QLD 4350,Vacant land,0,0,0,484m² ,14 Jun 2021
+"700,000 ","6/44 Arthur Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,2,226m² ,10 Jun 2021
+"525,000 ","2/1 Barry Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,4,2,2,196m² ,10 Jun 2021
+"1,330,000 ","32 Swallow Court,",NEWTOWN QLD 4350,Block of units,10,10,5,"1,214m² ",10 Jun 2021
+"420,000 ","1/205a Geddes Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,3,2,1,251m² ,09 Jun 2021
+"235,000 ","Lot 2/8 Boothby Street,",DRAYTON QLD 4350,Vacant land,0,0,0,"1,034m² ",08 Jun 2021
+"523,000 ","8/83 Mary Street,",EAST TOOWOOMBA QLD 4350,Townhouse,3,2,2,238m² ,07 Jun 2021
+"210,000 ","139 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,"1,863m² ",07 Jun 2021
+"270,000 ","8 Ryans Drive,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,"4,170m² ",04 Jun 2021
+"272,000 ","96 Canning Street,",DRAYTON QLD 4350,Vacant land,0,0,0,"3,110m² ",04 Jun 2021
+"330,000 ","2/13 Fromalls Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,147m² ,03 Jun 2021
+"525,000 ","1 & 2/8 Reserve Road,",CRANLEY QLD 4350,Apartment / Unit / Flat,6,4,2,592m² ,02 Jun 2021
+"185,500 ","21 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,624m² ,02 Jun 2021
+"280,000 ","4/116-118 Taylor Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,141m² ,01 Jun 2021
+"280,000 ","18 Erin Street,",WILSONTON QLD 4350,Vacant land,0,0,0,"1,017m² ",01 Jun 2021
+"276,000 ",,DRAYTON QLD 4350,Vacant land,0,0,0,"4,100m² ",28 May 2021
+"280,000 ","29A Gentle Street,",NORTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,609m² ,28 May 2021
+"187,775 ","41 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,680m² ,27 May 2021
+"189,000 ","40 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,651m² ,26 May 2021
+"167,500 ","106 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,24 May 2021
+"330,000 ","1/1 Dyson Drive,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,147m² ,24 May 2021
+"178,400 ","114-116 Flagstone Creek Road,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,"10,000m² ",22 May 2021
+"175,000 ","26 Mooney Street,",HARLAXTON QLD 4350,Vacant land,0,0,0,792m² ,21 May 2021
+"349,000 ","1/1b Lyndall Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,3,2,1,143m² ,19 May 2021
+"525,000 ","2/1 Sander Street,",RANGEVILLE QLD 4350,Townhouse,3,2,2,250m² ,18 May 2021
+"592,500 ","23 Tourist Road,",EAST TOOWOOMBA QLD 4350,Block of units,6,3,3,685m² ,17 May 2021
+"815,000 ","243 Nelson Street,",KEARNEYS SPRING QLD 4350,Block of units,6,3,3,840m² ,17 May 2021
+"271,000 ","1/3 Phyllis Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,2,1,110m² ,14 May 2021
+"720,000 ","111 Perth Street,",SOUTH TOOWOOMBA QLD 4350,Block of units,6,3,3,"1,014m² ",14 May 2021
+"875,000 ","73 Taylor Street,",NEWTOWN QLD 4350,Block of units,6,6,6,"1,338m² ",13 May 2021
+"205,000 ","149 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,817m² ,10 May 2021
+"515,000 ","8/14-16 Cottesloe Street,",EAST TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,2,2,116m² ,07 May 2021
+"258,000 ","10/68 Holberton Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,2,2,1,165m² ,07 May 2021
+"240,000 ","19A Knight Street,",EAST TOOWOOMBA QLD 4350,Vacant land,0,0,0,337m² ,06 May 2021
+"175,000 ","155B South Street,",SOUTH TOOWOOMBA QLD 4350,Vacant land,0,0,0,291m² ,06 May 2021
+"450,000 ","1 & 2/4 Northpoint Avenue,",HARLAXTON QLD 4350,Apartment / Unit / Flat,6,4,2,567m² ,30 Apr 2021
+"181,775 ","55 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,620m² ,30 Apr 2021
+"165,000 ","80 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,28 Apr 2021
+"390,000 ","241 Long Street,",SOUTH TOOWOOMBA QLD 4350,Block of units,4,4,4,578m² ,28 Apr 2021
+"260,000 ","4/381 Greenwattle Street,",WILSONTON QLD 4350,Apartment / Unit / Flat,2,2,1,117m² ,28 Apr 2021
+"159,000 ","Lot 11 Ashgrove Terrace,",HARLAXTON QLD 4350,Vacant land,0,0,0,409m² ,27 Apr 2021
+"520,000 ","12 Courtney Close,",RANGEVILLE QLD 4350,Vacant land,0,0,0,"1,111m² ",26 Apr 2021
+"321,000 ","2/334 Hume Street,",CENTENARY HEIGHTS QLD 4350,Townhouse,3,2,2,78m² ,23 Apr 2021
+"238,500 ","10/38 Stephen Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,71m² ,23 Apr 2021
+"222,500 ","7/10 Buckland Street,",HARRISTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,159m² ,21 Apr 2021
+"187,775 ","36 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,680m² ,21 Apr 2021
+"259,000 ","1/160 Glenvale Road,",GLENVALE QLD 4350,Apartment / Unit / Flat,3,2,1,144m² ,19 Apr 2021
+"162,500 ","Lot 12 Ashgrove Terrace,",HARLAXTON QLD 4350,Vacant land,0,0,0,453m² ,19 Apr 2021
+"575,000","Unit 3/40 Cohoe Street,",RANGEVILLE QLD 4350,Townhouse,3,2,2,230m² ,17 Apr 2021
+"369,000 ","1/6 Rubie Court,",WESTBROOK QLD 4350,Apartment / Unit / Flat,3,2,1,600m² ,17 Apr 2021
+"275,000 ","2/402 Alderley Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,276m² ,15 Apr 2021
+"206,000 ","2/12 Potter Street,",SOUTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,2,130m² ,15 Apr 2021
+"187,775 ","29 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,661m² ,15 Apr 2021
+"156,000 ","32A Alpine Court,",CRANLEY QLD 4350,Vacant land,0,0,0,502m² ,14 Apr 2021
+"170,000 ","73 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,524m² ,14 Apr 2021
+"165,000 ","81 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,13 Apr 2021
+"157,500 ","Lot 3 Irving Court,",HARLAXTON QLD 4350,Vacant land,0,0,0,368m² ,12 Apr 2021
+"345,000 ","5/97 Holberton Street,",NEWTOWN QLD 4350,Townhouse,3,2,2,175m² ,12 Apr 2021
+"165,000 ","55 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,08 Apr 2021
+"159,500 ","Lot 4 Irving Court,",HARLAXTON QLD 4350,Vacant land,0,0,0,387m² ,08 Apr 2021
+"185,000 ","112 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,642m² ,07 Apr 2021
+"165,000 ","102 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,07 Apr 2021
+"240,000","19A Knight Street,",EAST TOOWOOMBA QLD 4350,Vacant land,0,0,0,337m² ,07 Apr 2021
+"258,000 ","3/99 Stuart Street,",MOUNT LOFTY QLD 4350,Apartment / Unit / Flat,2,1,1,121m² ,07 Apr 2021
+"187,775 ","27 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,666m² ,07 Apr 2021
+"160,000 ","74A Ramsay Street,",CENTENARY HEIGHTS QLD 4350,Vacant land,0,0,0,426m² ,06 Apr 2021
+"445,000 ","3/81 Ramsay Street,",CENTENARY HEIGHTS QLD 4350,Townhouse,3,2,2,209m² ,06 Apr 2021
+"187,000 ","6 Sophia Crescent,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,"1,011m² ",06 Apr 2021
+"151,000 ","Lot 142/14 Tallowwood Boulevard,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,570m² ,06 Apr 2021
+"215,500 ","51 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,956m² ,06 Apr 2021
+"187,775 ","39 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,651m² ,06 Apr 2021
+"199,000 ","1, 6 McIntosh Street,",WESTBROOK QLD 4350,Vacant land,0,0,0,867m² ,05 Apr 2021
+"182,775 ","33 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,648m² ,01 Apr 2021
+"167,500 ","110 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,31 Mar 2021
+"169,500 ","69 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,719m² ,31 Mar 2021
+"175,000 ","111 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,753m² ,31 Mar 2021
+"169,500 ","114 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,635m² ,31 Mar 2021
+"185,500 ","24 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,608m² ,31 Mar 2021
+"165,000 ","108 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,30 Mar 2021
+"235,000 ","11/196 Jellicoe Street,",NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,124m² ,30 Mar 2021
+"185,500 ","58 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,600m² ,30 Mar 2021
+"165,000 ","78 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,78m² ,29 Mar 2021
+"210,000 ","6/14 Fair Street,",ROCKVILLE QLD 4350,Apartment / Unit / Flat,2,1,1,556m² ,29 Mar 2021
+"156,000 ","6 Alpine Court,",CRANLEY QLD 4350,Vacant land,0,0,0,502m² ,28 Mar 2021
+"156,000 ","32 Alpine Court,",CRANLEY QLD 4350,Vacant land,0,0,0,500m² ,26 Mar 2021
+"599,000 ","7B Curtis Street,",EAST TOOWOOMBA QLD 4350,Vacant land,0,0,0,"1,721m² ",26 Mar 2021
+"185,500 ","23 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,624m² ,26 Mar 2021
+"190,000 ","25 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,723m² ,26 Mar 2021
+"187,775 ","48 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,686m² ,26 Mar 2021
+"157,500 ","Lot 19 Staunton Court,",DRAYTON QLD 4350,Vacant land,0,0,0,493m² ,25 Mar 2021
+"172,000 ","101 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,651m² ,24 Mar 2021
+"187,775 ","31 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,688m² ,24 Mar 2021
+"165,000 ","104 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,23 Mar 2021
+"182,455 ",,NEWTOWN QLD 4350,Apartment / Unit / Flat,2,1,1,96m² ,23 Mar 2021
+"402,000 ","4/84 Alderley Street,",RANGEVILLE QLD 4350,Apartment / Unit / Flat,3,2,2,184m² ,23 Mar 2021
+"167,500 ","109 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,22 Mar 2021
+"157,500 ","83 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,551m² ,22 Mar 2021
+"170,000 ","73 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,600m² ,22 Mar 2021
+"149,000","24/6 O'Brien Street,",HARLAXTON QLD 4350,Apartment / Unit / Flat,2,1,1,97m² ,22 Mar 2021
+"381,000 ","2/8 McMorrow Street,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,1,301m² ,21 Mar 2021
+"165,000 ","75 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,19 Mar 2021
+"167,500 ","50 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,19 Mar 2021
+"589,000 ","35 Taragon Street,",GLENVALE QLD 4350,Block of units,6,3,2,596m² ,19 Mar 2021
+"323,000 ","4/162 North Street,",NORTH TOOWOOMBA QLD 4350,Townhouse,2,2,1,145m² ,19 Mar 2021
+"180,000 ","59 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,750m² ,18 Mar 2021
+"170,000 ","77 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,535m² ,18 Mar 2021
+"167,500 ","72 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,536m² ,17 Mar 2021
+"159,500 ","Lot 16 Yeates Street,",HARLAXTON QLD 4350,Vacant land,0,0,0,484m² ,17 Mar 2021
+"352,000 ","1/1 Meagan Close,",KEARNEYS SPRING QLD 4350,Apartment / Unit / Flat,3,2,2,245m² ,17 Mar 2021
+"170,000 ","75 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,528m² ,17 Mar 2021
+"165,000 ","79 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,16 Mar 2021
+"136,000 ","8 Box Drive,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,409m² ,16 Mar 2021
+"630,000 ","7 Creedon Drive,",KEARNEYS SPRING QLD 4350,Block of units,6,3,3,776m² ,16 Mar 2021
+"180,000 ","66 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,565m² ,16 Mar 2021
+"272,000 ","7/316 Hume Street,",CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,1,2,160m² ,15 Mar 2021
+"165,000 ","107 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,15 Mar 2021
+"270,000","2/77 Platz Street,",DARLING HEIGHTS QLD 4350,Apartment / Unit / Flat,3,2,1,148m² ,15 Mar 2021
+"165,000 ","72 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,566m² ,15 Mar 2021
+"180,000 ","67 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,566m² ,15 Mar 2021
+"167,500 ","71 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,614m² ,12 Mar 2021
+"185,000 ","60 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,600m² ,12 Mar 2021
+"190,000 ","63 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,700m² ,12 Mar 2021
+"180,000 ","65 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,570m² ,12 Mar 2021
+"165,000 ","105 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,105m² ,11 Mar 2021
+"167,500 ","82 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,11 Mar 2021
+"165,000 ","103 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,558m² ,11 Mar 2021
+"345,000 ","30 Brimblecombe Drive,",MIDDLE RIDGE QLD 4350,Vacant land,0,0,0,639m² ,11 Mar 2021
+"186,775 ","46 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,656m² ,11 Mar 2021
+"165,000 ","74 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,540m² ,10 Mar 2021
+"167,500 ","70 Boundary Street,",COTSWOLD HILLS QLD 4350,Vacant land,0,0,0,715m² ,10 Mar 2021
+"535,000 ","2/22 Tyrone Street,",MIDDLE RIDGE QLD 4350,Apartment / Unit / Flat,3,2,2,694m² ,10 Mar 2021
+"225,000 ","1/31 Moloney Street,",NORTH TOOWOOMBA QLD 4350,Apartment / Unit / Flat,2,1,1,85m² ,10 Mar 2021
+"200,500 ","52 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,774m² ,10 Mar 2021
+"180,000 ","71 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,566m² ,10 Mar 2021
+"240,000 ","138 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,"2,996m² ",10 Mar 2021
+"170,000 ","140 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,534m² ,10 Mar 2021
+"185,500 ","57 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,600m² ,10 Mar 2021
+"240,000 ","137 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,"3,775m² ",10 Mar 2021
+"190,000 ","148 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,700m² ,10 Mar 2021
+"185,500 ","56 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,600m² ,10 Mar 2021
+"195,000 ","61 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,753m² ,10 Mar 2021
+"185,500 ","53 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,601m² ,10 Mar 2021
+"181,775 ","54 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,616m² ,10 Mar 2021
+"240,000 ","134 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,"3,545m² ",10 Mar 2021
+"240,000 ","136 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,"3,775m² ",10 Mar 2021
+"175,000 ","68 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,554m² ,10 Mar 2021
+"170,000 ","74 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,525m² ,10 Mar 2021
+"187,775 ","30 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,691m² ,10 Mar 2021
+"350,000 ",,CENTENARY HEIGHTS QLD 4350,Apartment / Unit / Flat,2,2,1,120m² ,09 Mar 2021
+"190,000 ","26 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,734m² ,09 Mar 2021
+"187,775 ","50 Sovereign Hill,",TORRINGTON QLD 4350,Vacant land,0,0,0,656m² ,09 Mar 2021

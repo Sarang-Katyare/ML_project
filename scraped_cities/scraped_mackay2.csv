@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"260,000 ","10/107 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,19 Apr 2024
+"275,000 ","1/8 Moore Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,105m² ,15 Apr 2024
+"352,000 ","8/72a Wellington Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,196m² ,12 Apr 2024
+"233,500 ","3/6 Wentford Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,107m² ,11 Apr 2024
+"295,000 ","4/35 Hucker Street,",MACKAY QLD 4740,Townhouse,3,1,1,243m² ,11 Mar 2024
+"250,000 ","38/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,77m² ,06 Mar 2024
+"165,000 ","9 Grant Street,",MACKAY QLD 4740,Vacant land,0,0,0,707m² ,22 Feb 2024
+"290,000 ","4/10 Turner Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,127m² ,08 Feb 2024
+"322,500 ","6/187 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,143m² ,02 Feb 2024
+"287,000","3/35 Hucker Street,",MACKAY QLD 4740,Townhouse,3,1,1,170m² ,18 Jan 2024
+"103,000 ","10A Gold Street,",MACKAY QLD 4740,Vacant land,0,0,0,405m² ,17 Jan 2024
+"290,000","4/90 Milton Street,",MACKAY QLD 4740,Townhouse,2,1,2,101m² ,
+"202,000 ","6/12 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,14 Dec 2023
+"900,000 ","15 Norris Street,",MACKAY QLD 4740,Apartment / Unit / Flat,7,5,5,"1,080m² ",12 Dec 2023
+"295,000 ","2/2 Wentford Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,08 Dec 2023
+"940,000 ","14 East Gordon Street,",MACKAY QLD 4740,Block of units,10,5,5,809m² ,20 Nov 2023
+"1,675,000","16 Boddington Street,",MACKAY QLD 4740,Block of units,30,6,12,"1,604m² ",13 Nov 2023
+"275,000 ","2/19 Norris Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,184m² ,09 Nov 2023
+"225,000 ","7/57 Macalister Street,",MACKAY QLD 4740,Townhouse,2,1,1,103m² ,06 Nov 2023
+"249,000 ","1/6 Wentford Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,111m² ,25 Oct 2023
+"43,500 ","Lot AH Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"1,702m² ",19 Oct 2023
+"78,000 ","Lot DO Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"1,607m² ",11 Oct 2023
+"980,000 ","103 Milton Street,",MACKAY QLD 4740,Block of units,7,7,7,905m² ,10 Oct 2023
+"365,000 ","9/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,102m² ,09 Oct 2023
+"290,000 ","404/27 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,82m² ,19 Sep 2023
+"487,500","39/4 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,120m² ,21 Aug 2023
+"580,000 ","55 Brisbane Street,",MACKAY QLD 4740,Apartment / Unit / Flat,7,5,5,"1,012m² ",14 Aug 2023
+"249,000 ","3/361 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,115m² ,21 Jul 2023
+"395,000 ","4/36 Hucker Street,",MACKAY QLD 4740,Townhouse,4,2,2,295m² ,21 Jul 2023
+"202,000 ","2/57 Brisbane Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,109m² ,19 Jul 2023
+"241,000 ","1/3 Hucker Street,",MACKAY QLD 4740,Block of units,6,3,3,809m² ,14 Jul 2023
+"230,000 ","2/3 Hucker Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,14 Jul 2023
+"225,000 ","5/17 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,94m² ,10 Jul 2023
+"205,000 ","8/64 Carlyle Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,89m² ,29 Jun 2023
+"210,000 ","3/85 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,80m² ,07 Jun 2023
+"90,000 ","Lot CI/Basil Bay Precinct Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"4,113m² ",25 May 2023
+"232,500 ","16/7 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,97m² ,24 May 2023
+"185,000 ","6/52 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,22 May 2023
+"220,000 ","4/341 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,12 May 2023
+"235,000 ","2/90 Milton Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,101m² ,11 May 2023
+"300,000 ","2/10 Turner Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,114m² ,05 May 2023
+"280,000 ","2/39 Wellington Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,174m² ,04 May 2023
+"275,000 ","207/55 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,72m² ,14 Apr 2023
+"235,000 ","10/63 Shakespeare Street,",MACKAY QLD 4740,Townhouse,2,1,1,154m² ,06 Apr 2023
+"315,000 ","1/59 Macalister Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,129m² ,28 Mar 2023
+"300,000 ","3/22 Norris Street,",MACKAY QLD 4740,Townhouse,3,1,1,151m² ,24 Mar 2023
+"382,600 ","17/4 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,111m² ,23 Mar 2023
+"1,500,000 ","73 Milton Street,",MACKAY QLD 4740,Apartment / Unit / Flat,30,3,16,"1,274m² ",17 Mar 2023
+"275,000 ","12/3 Kirribilli Avenue,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,83m² ,17 Mar 2023
+"785,000 ","301/2 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,159m² ,17 Mar 2023
+"299,000 ","8/10 Turner Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,143m² ,06 Mar 2023
+"342,000 ","14B Hamlet Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,183m² ,06 Mar 2023
+"265,000 ","702/55 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,83m² ,03 Mar 2023
+"1,051,500 ","59 Milton Street,",MACKAY QLD 4740,Block of units,12,6,6,"1,019m² ",03 Mar 2023
+"350,000 ","66 Carlyle Street,",MACKAY QLD 4740,Vacant land,0,0,0,"1,012m² ",22 Feb 2023
+"320,000 ","3/59 Carlyle Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,147m² ,17 Feb 2023
+"720,000 ","49/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,175m² ,09 Feb 2023
+"175,000","1/8 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,78m² ,31 Jan 2023
+"335,000 ","1/8 Romeo Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,294m² ,31 Jan 2023
+"209,000 ","401/55 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,52m² ,25 Jan 2023
+"525,000 ","5/1 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,134m² ,20 Jan 2023
+"450,000 ","704/27 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,3,1,136m² ,09 Jan 2023
+"650,000","27/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,203m² ,22 Dec 2022
+"175,000 ","6/23 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,89m² ,05 Dec 2022
+"150,000 ","2/10 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,57m² ,28 Nov 2022
+"410,000 ","25/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,102m² ,16 Nov 2022
+"160,000 ","8/4 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,74m² ,08 Nov 2022
+"65,000 ","Lot DM Basil Bay Precinct, Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"2,274m² ",28 Oct 2022
+"700,000 ","42/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,209m² ,28 Oct 2022
+"175,000 ","6/5 Romeo Street,",MACKAY QLD 4740,Townhouse,1,1,1,80m² ,20 Oct 2022
+"225,000 ","3/46 Peel Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,99m² ,06 Oct 2022
+"168,000 ","2/12 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,29 Sep 2022
+"165,000 ","8/11 Porter Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,66m² ,28 Sep 2022
+"285,000 ","50/5-7 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,−,67m² ,23 Sep 2022
+"197,596 ","23/35 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,62m² ,28 Aug 2022
+"195,000","6/9 Porter Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,74m² ,25 Aug 2022
+"319,000 ","3/2 Wentford Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,198m² ,17 Aug 2022
+"305,000 ","52/3 Kirribilli Avenue,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,100m² ,08 Aug 2022
+"305,000 ","52/3 Kirribilli Avenue,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,100m² ,08 Aug 2022
+"309,000 ","704/55 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,94m² ,05 Aug 2022
+"215,000","14/107 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,20 Jul 2022
+"302,500","6/187 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,143m² ,18 Jul 2022
+"260,000 ","2/8 Moore Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,105m² ,18 Jul 2022
+"220,000 ","10/331 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,92m² ,15 Jul 2022
+"247,500 ","21/107 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,11 Jul 2022
+"165,000 ","2/8 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,76m² ,05 Jul 2022
+"310,000 ","8/12 Hamlet Street,",MACKAY QLD 4740,Townhouse,3,2,1,205m² ,01 Jul 2022
+"206,000 ","2/107 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,162m² ,01 Jul 2022
+"310,000 ","1/59 Macalister Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,163m² ,22 Jun 2022
+"380,000 ","10/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,102m² ,10 Jun 2022
+"410,000 ","35/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,102m² ,08 Jun 2022
+"186,000 ","101/55 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,− 0,1,1,52m² ,07 Jun 2022
+"300,000 ","5/29 Byron Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,151m² ,06 Jun 2022
+"295,000 ","1/4 Byron Street,",MACKAY QLD 4740,Townhouse,3,2,1,183m² ,06 Jun 2022
+"175,000","10/19 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,93m² ,25 May 2022
+"190,000 ","4/28 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,784m² ,24 May 2022
+"218,000 ","2/2 Gold Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,82m² ,20 May 2022
+"290,000 ","4/75 Milton Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,176m² ,19 May 2022
+"192,000 ","2/22 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,97m² ,28 Apr 2022
+"700,000 ","23 River Street,",MACKAY QLD 4740,Vacant land,0,0,0,941m² ,11 Apr 2022
+"300,000 ","6/65 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,136m² ,31 Mar 2022
+"650,000 ","267 Shakespeare Street,",MACKAY QLD 4740,Block of units,8,4,4,809m² ,29 Mar 2022
+"315,000 ","10a Hamlet Street,",MACKAY QLD 4740,Townhouse,3,2,1,205m² ,14 Mar 2022
+"235,000 ","8/17 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,94m² ,14 Mar 2022
+"165,000 ","7/331 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,104m² ,2022
+"230,000 ","49/35 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,71m² ,09 Mar 2022
+"375,000 ","4/35 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,117m² ,09 Mar 2022
+"350,000 ","6 Carlyle Street,",MACKAY QLD 4740,Vacant land,0,0,0,376m² ,04 Mar 2022
+"325,000 ","53A Wellington Street,",MACKAY QLD 4740,Vacant land,0,0,0,"1,750m² ",28 Feb 2022
+"378,000 ","701/5-7 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,83m² ,25 Feb 2022
+"672,500","15 Margaret Street,",MACKAY QLD 4740,Block of units,7,4,3,809m² ,25 Feb 2022
+"175,000 ","3/9 Porter Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,74m² ,21 Feb 2022
+"320,000 ","10/12 Hamlet Street,",MACKAY QLD 4740,Townhouse,3,2,2,204m² ,16 Feb 2022
+"325,000 ","3/60 George Street,",MACKAY QLD 4740,Townhouse,3,2,1,171m² ,15 Feb 2022
+"310,000 ","2/31 Prospect Street,",MACKAY QLD 4740,Townhouse,3,1,1,160m² ,14 Feb 2022
+"219,000 ","5/41 Peel Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,108m² ,11 Feb 2022
+"330,000 ","3/21 Boddington Street,",MACKAY QLD 4740,Townhouse,3,2,1,179m² ,04 Feb 2022
+"275,000 ","22/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,72m² ,02 Feb 2022
+"315,000 ","9/59-61 Macalister Street,",MACKAY QLD 4740,Townhouse,3,2,1,146m² ,29 Jan 2022
+"200,000 ","22/107 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,28 Jan 2022
+"255,000 ","2/64 Carlyle Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,89m² ,12 Jan 2022
+"279,000 ","3/5 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,105m² ,04 Jan 2022
+"167,000 ","4/52 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,24 Dec 2021
+"225,000","2/22 Norris Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,154m² ,18 Dec 2021
+"217,000 ","7/17 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,90m² ,13 Dec 2021
+"180,000 ","2/11 Porter Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,82m² ,01 Dec 2021
+"180,000 ","3/22 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,97m² ,29 Nov 2021
+"850,000 ","55 Milton Street,",MACKAY QLD 4740,Block of units,9,5,6,"1,012m² ",26 Nov 2021
+"315,000 ","2/58 George Street,",MACKAY QLD 4740,Townhouse,2,1,1,147m² ,22 Nov 2021
+"186,500 ","3/90 Milton Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,101m² ,10 Nov 2021
+"50,000 ","Lot DQ Basil Bay Precinct, Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"1,716m² ",26 Oct 2021
+"292,000 ","5/64 George Street,",MACKAY QLD 4740,Townhouse,3,1,1,188m² ,25 Oct 2021
+"280,000 ","7/5 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,105m² ,07 Oct 2021
+"390,000 ","12/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,126m² ,06 Oct 2021
+"419,000 ","504/27 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,3,1,177m² ,05 Oct 2021
+"175,000 ","6/46 Peel Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,101m² ,27 Sep 2021
+"160,000 ","10/41 Peel Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,108m² ,02 Aug 2021
+"235,000 ","2/2 Wentford Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,24 May 2021
+"155,000 ","3/28 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,58m² ,19 May 2021
+"200,000 ","1/16 Kennedy Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,85m² ,18 May 2021
+"159,000 ","2/16 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,93m² ,06 May 2021
+"335,000 ","9/12 Hamlet Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,205m² ,23 Apr 2021
+"245,000 ","56 Nelson Street,",MACKAY QLD 4740,Vacant land,0,0,0,797m² ,25 Mar 2021
+"250,000 ","4/29 Gold Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,150m² ,01 Mar 2021
+"275,000 ","1/72A Wellington Street,",MACKAY QLD 4740,Townhouse,2,1,1,194m² ,16 Feb 2021
+"290,000","1/59 Carlyle Street,",MACKAY QLD 4740,Townhouse,3,1,1,215m² ,12 Feb 2021
+"285,000 ","2/59 Carlyle Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,149m² ,08 Jan 2021
+"155,000 ","6/107 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,04 Dec 2020
+"260,000 ","31/26 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,72m² ,12 Nov 2020
+"268,000 ","6/5 Prospect Street,",MACKAY QLD 4740,Townhouse,2,2,1,105m² ,27 Oct 2020
+"168,000 ","4/25 Byron Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,76m² ,16 Oct 2020
+"160,000","5/12 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,15 Oct 2020
+"210,000 ","4/8 Moore Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,120m² ,09 Oct 2020
+"155,000 ","6 /19 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,93m² ,01 Oct 2020
+"145,000 ","3/12 East Gordon Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,14 Sep 2020
+"292,000 ","4/59 Macalister Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,146m² ,31 Aug 2020
+"156,000","1/52 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,11 Aug 2020
+"160,000 ","6/46 Peel Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,101m² ,12 Jun 2020
+"156,000 ","6/331 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,105m² ,19 May 2020
+"200,000 ","5/54 Goldsmith Street,",MACKAY QLD 4740,Townhouse,2,1,1,155m² ,24 Mar 2020
+"160,000 ","5/107 Shakespeare Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,23 Mar 2020
+"285,000 ","1/5 Prospect St,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,104m² ,08 Jan 2020
+"140,000 ","5/15 James Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,−,82m² ,05 Nov 2019
+"215,000 ","8/72A Wellington Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,196m² ,24 Oct 2019
+"800,000 ","1-4/20 Byron Street,",MACKAY QLD 4740,Apartment / Unit / Flat,8,4,4,"1,177m² ",16 Oct 2019
+"315,000 ","303/5-7 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,184m² ,08 Aug 2019
+"225,000 ","2/77 Milton Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,183m² ,23 Jul 2019
+"450,000 ","401/2 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,159m² ,16 Jul 2019
+"550,000 ","502/27 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,3,2,149m² ,21 Jun 2019
+"125,000 ","6/19 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,93m² ,15 May 2019
+"165,000 ","Unit 5, 22 Macdonald Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,97m² ,12 Apr 2019
+"188,000","2/57 Macalister Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,71m² ,22 Mar 2019
+"140,000 ","1/9 Prospect Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,14 Mar 2019
+"250,000","2/41 Peel Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,108m² ,08 Feb 2019
+"139,000 ","1/15 James Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,99m² ,18 Jan 2019
+"131,500",,MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,86m² ,03 Dec 2018
+"233,000 ","3/24 Gold Street,",MACKAY QLD 4740,Townhouse,3,1,1,182m² ,18 Oct 2018
+"187,500 ","6/72A Wellington Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,180m² ,2018
+"152,000 ","2/6 Grant Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,162m² ,16 Jul 2018
+"37,000 ","Lot DH Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"2,348m² ",09 Jul 2018
+"265,000 ","1/24 Gold Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,171m² ,13 Jun 2018
+"197,000 ","U5 64 George Street,",MACKAY QLD 4740,Townhouse,3,1,1,188m² ,06 Jun 2018
+"299,000 ","604/55 River Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,94m² ,29 May 2018
+"196,888 ","2/349 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,"1,502m² ",09 Mar 2018
+"225,000 ","1/54 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,151m² ,07 Mar 2018
+"66,000","8-10 Eighteenth Lane,",MACKAY QLD 4740,Vacant land,0,0,0,"1,389m² ",20 Feb 2018
+"191,500 ","2/21 Napier Street,",MACKAY QLD 4740,Townhouse,2,1,3,207m² ,28 Dec 2017
+"25,000 ","Lot CN Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"1,386m² ",31 Oct 2017
+"305,000 ","608/7 Nelson Street Rivera Apartments,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,91m² ,25 Oct 2017
+"30,000 ","Lot DB Keswick Island,",MACKAY QLD 4740,Vacant land,0,0,0,"1,417m² ",16 Jun 2017
+"230,000 ","1/60 George Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,3,179m² ,12 May 2017
+"195,000 ","2/27 Wellington Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,19 Apr 2017
+"149,000 ","4/361 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,115m² ,18 Apr 2017
+"140,000","4/90 Milton Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,"1,088m² ",01 Mar 2017
+"170,000","1/27 Wellington Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,02 Feb 2017
+"80,000 ","7/57 Brisbane Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,109m² ,10 Dec 2016
+"235,000","42/23 Alfred Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,81m² ,2016
+"90,000","4/11 Porter Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,82m² ,24 Mar 2016
+"140,000 ","1/90 Milton Street,",MACKAY QLD 4740,Townhouse,2,1,1,101m² ,25 Jan 2016
+"195,000 ","4/2 Gold Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,83m² ,23 Nov 2015
+"170,000 ","5/11 Nebo Road,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,192m² ,03 Jul 2015
+"910,000 ","20 George Street,",MACKAY QLD 4740,Apartment / Unit / Flat,12,7,7,"1,319m² ",27 Oct 2014
+"287,500","3/2 Wentford Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,198m² ,25 Nov 2013
+"287,500","3/2 Wentford Street,",MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,198m² ,25 Nov 2013
+"365,000","6/10 Turner Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,130m² ,14 Nov 2012
+"273,000","1/29 Romeo Street,",MACKAY QLD 4740,Townhouse,2,1,1,83m² ,01 Sep 2012
+"200,000","2/41 Nelson Street,",MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,58m² ,02 Apr 2012
+"395,000","39 Peel Street,",MACKAY QLD 4740,Vacant land,0,0,0,964m² ,16 Mar 2012
+"310,000","2/27 Romeo Street,",MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,13 Mar 2012
+"250,000","3 Henderson Street,",MACKAY QLD 4740,Vacant land,0,0,0,792m² ,19 Nov 2009
+"250,000 ","3/91 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,149m² ,23 Apr 2024
+"295,000 ","2/63 Shakespeare Street,",EAST MACKAY QLD 4740,Townhouse,2,1,1,154m² ,12 Apr 2024
+"585,000 ","35 Norwood Parade,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,2,2,"80,000m² ",11 Apr 2024
+"365,000 ","2C Mansfield Drive,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,2,1,353m² ,10 Apr 2024
+"260,000 ","670 Munbura Road,",MUNBURA QLD 4740,Vacant land,0,0,0,0,08 Apr 2024
+"369,000 ","1/18 Warilla View,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,160m² ,05 Apr 2024
+"490,000 ","4/1-3 Norris Road,",MOUNT PLEASANT QLD 4740,Apartment / Unit / Flat,3,2,2,151m² ,28 Mar 2024
+"310,000 ","2/14 Ulanda Drive,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,252m² ,22 Mar 2024
+"200,000 ","5/301 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,90m² ,21 Mar 2024
+"162,000 ","22 Azure Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,613m² ,15 Mar 2024
+"295,000 ","5 Iluka Court,",EAST MACKAY QLD 4740,Vacant land,0,0,0,606m² ,14 Mar 2024
+"275,000 ","4/19 Windmill Crossing,",MOUNT PLEASANT QLD 4740,Townhouse,1,1,1,128m² ,14 Mar 2024
+"379,000 ","1&2/47 Avalon Drive,",RURAL VIEW QLD 4740,Townhouse,3,2,1,762m² ,13 Mar 2024
+"390,000","1/11 Tramontana Street,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,2,390m² ,08 Mar 2024
+"379,000 ","Unit 1/30 Halifax Place,",RURAL VIEW QLD 4740,Townhouse,3,2,1,872m² ,01 Mar 2024
+"140,000 ","Lot 734/3 Burleigh Court,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,450m² ,26 Feb 2024
+"935,000 ","1-3/62 Gunsynd Street,",OORALEA QLD 4740,Apartment / Unit / Flat,9,3,3,"1,244m² ",26 Feb 2024
+"372,000 ","2/30 Halifax Place,",RURAL VIEW QLD 4740,Townhouse,3,2,1,872m² ,26 Feb 2024
+"200,000 ","1 Watercrest Circuit,",RICHMOND QLD 4740,Vacant land,0,0,0,656m² ,23 Feb 2024
+"159,000 ","6/5 Bridge Road,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,73m² ,22 Feb 2024
+"115,000 ","43 Stevens Drive,",HOMEBUSH QLD 4740,Vacant land,0,0,0,897m² ,22 Feb 2024
+"445,000 ","18 Emma Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"2,160m² ",21 Feb 2024
+"280,000 ","6/7 Bilgola Place,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,1,134m² ,20 Feb 2024
+"135,000 ","4 Trasero Lane,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,400m² ,15 Feb 2024
+"435,000 ","1/15 Rhapis Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,4,2,2,195m² ,09 Feb 2024
+"240,000 ","4/52 Mengel Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,86m² ,07 Feb 2024
+"405,000","2/2 Duranbah Circuit,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,169m² ,06 Feb 2024
+"628,000","21/9 Megan Place,",MACKAY HARBOUR QLD 4740,Block of units,3,2,2,153m² ,06 Feb 2024
+"229,250","2/9 Bundesen Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,77m² ,06 Feb 2024
+"300,000 ","2/36 Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,2,2,197m² ,05 Feb 2024
+"390,000 ","115 Andrew Fordyce Road,",MOUNT JUKES QLD 4740,Vacant land,0,0,0,0,02 Feb 2024
+"268,000 ","5/91 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,"2,378m² ",02 Feb 2024
+"275,000 ","29 Rae Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,"1,333m² ",29 Jan 2024
+"255,000 ","32/26 Bourke Street,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,162m² ,22 Jan 2024
+"525,000 ","12/38 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,2,2,1,131m² ,22 Jan 2024
+"245,000 ","2/9 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,59m² ,19 Jan 2024
+"315,000 ","4/62 Rae Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,241m² ,17 Jan 2024
+"229,250","3/9 Bundesen Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,77m² ,17 Jan 2024
+"375,000 ","1 & 2/32 Warilla View,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,854m² ,16 Jan 2024
+"325,000 ","1/20 Forth Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,109m² ,15 Jan 2024
+"480,000 ","Thompson Court,",HABANA QLD 4740,Vacant land,0,0,0,0,12 Jan 2024
+"260,000 ","45 Seashore Crescent,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,552m² ,10 Jan 2024
+"215,000 ","Lot 133 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,658m² ,08 Jan 2024
+"340,000 ","1&2/56 Dawson Boulevard,",RURAL VIEW QLD 4740,Apartment / Unit / Flat,6,4,2,702m² ,08 Jan 2024
+"370,000 ","1/2 Bowen Court,",MOUNT PLEASANT QLD 4740,Apartment / Unit / Flat,3,1,1,432m² ,03 Jan 2024
+"260,000 ","1/12 Fuller Court,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,282m² ,26 Dec 2023
+"390,000 ","2/10 Somerset Drive,",ANDERGROVE QLD 4740,Townhouse,3,2,2,155m² ,21 Dec 2023
+"570,000 ","26 & 28 Beaconsfield Road,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,"4,046m² ",21 Dec 2023
+"280,000 ","Lot 2/144 Apsley Way,",ANDERGROVE QLD 4740,Vacant land,0,0,0,"2,400m² ",20 Dec 2023
+"760,000 ","8 Binnington Esplanade,",EAST MACKAY QLD 4740,Block of units,6,3,3,"1,088m² ",20 Dec 2023
+"295,000","2/57 Phoenix Crescent,",RURAL VIEW QLD 4740,Apartment / Unit / Flat,1,1,1,97m² ,20 Dec 2023
+"543,000 ","1/20 Vaucluse Crescent,",EAST MACKAY QLD 4740,Townhouse,4,2,2,215m² ,15 Dec 2023
+"740,000 ","38/19 East Point Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,450m² ,13 Dec 2023
+"390,000 ","1/18 Danastas Avenue,",EIMEO QLD 4740,Apartment / Unit / Flat,3,2,2,177m² ,08 Dec 2023
+"510,000","10/7 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,161m² ,07 Dec 2023
+"300,000 ","Lot 4 & Lot 7 Bruce Highway,",BALBERRA QLD 4740,Vacant land,0,0,0,0,05 Dec 2023
+"380,000 ","2/39 Paget Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,180m² ,05 Dec 2023
+"470,000 ","489 Haypoint Road,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,0,04 Dec 2023
+"550,000 ","49 Bald Hill Road,",GLENELLA QLD 4740,Vacant land,0,0,0,0,01 Dec 2023
+"152,500 ","1 Kingfisher Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,"1,090m² ",01 Dec 2023
+"1,000,000 ","63 Norris Road,",MOUNT PLEASANT QLD 4740,Vacant land,0,0,0,"3,813m² ",29 Nov 2023
+"467,000 ","5/65 Pioneer Street,",GLENELLA QLD 4740,Apartment / Unit / Flat,3,2,2,336m² ,28 Nov 2023
+"231,250","4/9 Bundesen Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,78m² ,27 Nov 2023
+"231,250","1/9 Bundesen Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,78m² ,27 Nov 2023
+"186,000 ","4/1 Cutler Drive,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,1,77m² ,23 Nov 2023
+"800,000 ","8/22 Marina Beach Parade,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,275m² ,23 Nov 2023
+"270,000 ","1/11 Bridge Road,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,112m² ,22 Nov 2023
+"174,000 ","27 Wilcox Street,",EIMEO QLD 4740,Vacant land,0,0,0,773m² ,20 Nov 2023
+"330,000 ","7/2 Parr Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,167m² ,15 Nov 2023
+"235,000 ","4/4 Graves Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,205m² ,14 Nov 2023
+"210,000 ","2/6A Forth Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,775m² ,14 Nov 2023
+"275,000 ","20/19-23 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,150m² ,14 Nov 2023
+"337,000 ","1/3 Hunter Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,219m² ,13 Nov 2023
+"193,000 ","Lot 158 Beaconsfield Heights,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,650m² ,09 Nov 2023
+"235,000 ","Lot 25/8 Petrie Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,450m² ,09 Nov 2023
+"270,000 ","4/14 Symons Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,232m² ,08 Nov 2023
+"355,000 ","4/23 Ungerer Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,187m² ,07 Nov 2023
+"270,000 ","1/3 English Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,157m² ,07 Nov 2023
+"440,000","1/4 Vaucluse Crescent,",EAST MACKAY QLD 4740,Townhouse,3,2,2,228m² ,03 Nov 2023
+"430,000 ","6/9 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,142m² ,03 Nov 2023
+"291,000 ","15/61 Hamilton Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,150m² ,03 Nov 2023
+"217,000 ","12/9 Pacific Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,81m² ,01 Nov 2023
+"223,000","4/215 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,85m² ,01 Nov 2023
+"250,000","9/107 Shakespeare Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,25 Oct 2023
+"398,000","3/12 Kierra Drive,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,1,138m² ,19 Oct 2023
+"235,000 ","Lot 57/8 Petrie Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,508m² ,11 Oct 2023
+"340,000 ","2/20 Amara Street,",RURAL VIEW QLD 4740,Apartment / Unit / Flat,2,2,1,120m² ,06 Oct 2023
+"310,000 ","22/7 Bilgola Place,",BLACKS BEACH QLD 4740,Townhouse,3,2,1,133m² ,29 Sep 2023
+"220,000","2 Swan Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,809m² ,29 Sep 2023
+"698,000 ","1 & 2/19 Martin Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,134m² ,28 Sep 2023
+"367,500 ","2/110 Rasmussen Avenue,",HAY POINT QLD 4740,Apartment / Unit / Flat,2,2,2,800m² ,25 Sep 2023
+"355,000 ","2/6 Comino Court,",SOUTH MACKAY QLD 4740,Townhouse,2,1,1,256m² ,25 Sep 2023
+"265,000 ","31/26 Bourke Street,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,181m² ,21 Sep 2023
+"673,000 ","40A Pacific Esplanade,",SLADE POINT QLD 4740,Townhouse,2,2,2,301m² ,20 Sep 2023
+"385,000 ","1/64 Makybe Diva Drive,",OORALEA QLD 4740,Apartment / Unit / Flat,2,2,1,123m² ,19 Sep 2023
+"225,000 ","Lot 199 Stage 4 Beaconsfield Heights,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,944m² ,18 Sep 2023
+"230,000","29 KARWIN DRIVE,",ANDERGROVE QLD 4740,Vacant land,0,0,0,803m² ,
+"225,000 ","119 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,680m² ,15 Sep 2023
+"230,000 ","Lot 67 Bellavista Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,719m² ,15 Sep 2023
+"290,000 ","2/16 Graffunder Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,183m² ,15 Sep 2023
+"210,000 ","5/6A Forth Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,775m² ,15 Sep 2023
+"250,000 ","1/5 Scott Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,107m² ,13 Sep 2023
+"235,000 ","12/8-10 Petersen Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,12 Sep 2023
+"247,000 ","16/19-23 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,150m² ,11 Sep 2023
+"340,000 ","2/8 Admiral Drive,",DOLPHIN HEADS QLD 4740,Townhouse,3,2,2,182m² ,05 Sep 2023
+"195,000 ","7/28 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,51m² ,02 Sep 2023
+"195,000 ","14 Regency Crescent,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,700m² ,01 Sep 2023
+"265,000","49-51 Seashore Crescent,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,707m² ,28 Aug 2023
+"250,000 ","1/7 Bridge Road,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,83m² ,25 Aug 2023
+"203,000 ","4/6A Forth Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,775m² ,25 Aug 2023
+"203,000 ","1/6A Forth Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,775m² ,25 Aug 2023
+"1,100,000 ","1 & 2 Stotts Road,",RACECOURSE QLD 4740,Vacant land,0,0,0,0,21 Aug 2023
+"350,000 ","6 Rainbow Crescent,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,807m² ,17 Aug 2023
+"320,000 ","5/5 Kate Street,",EAST MACKAY QLD 4740,Townhouse,3,2,2,232m² ,14 Aug 2023
+"170,000 ","51 Excelsa Circuit,",RURAL VIEW QLD 4740,Vacant land,0,0,0,673m² ,14 Aug 2023
+"290,800 ","4/9 Kennedy Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,225m² ,14 Aug 2023
+"140,000 ","48 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,822m² ",11 Aug 2023
+"210,000 ","6/6A Forth Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,775m² ,09 Aug 2023
+"299,000 ","22 Eyre Place,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,000m² ",08 Aug 2023
+"212,000","15a Kinnon Street,",GLENELLA QLD 4740,Vacant land,0,0,0,"1,483m² ",07 Aug 2023
+"150,000 ","807/8 Petrie Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,450m² ,03 Aug 2023
+"620,000","8 Marina Beach Parade,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,951m² ,03 Aug 2023
+"209,000 ","Lot 124 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,726m² ,31 Jul 2023
+"250,000","35/19-23 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,159m² ,29 Jul 2023
+"232,500 ","Lot 167 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,780m² ,28 Jul 2023
+"330,000 ","38 Emma Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,307m² ",28 Jul 2023
+"245,000 ","2/213 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,156m² ,28 Jul 2023
+"770,000 ","8 Hart Street,",SOUTH MACKAY QLD 4740,Block of units,6,4,4,933m² ,28 Jul 2023
+"290,000 ","7/185 Bedford Road,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,1,268m² ,27 Jul 2023
+"207,500 ","4/28 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,27 Jul 2023
+"300,000 ","1/45 Juliet Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,180m² ,27 Jul 2023
+"278,000 ","3/14 Perkins Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,151m² ,24 Jul 2023
+"399,000 ","2/41 Schaefer Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,310m² ,21 Jul 2023
+"375,000 ","2/103 Whitehaven Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,144m² ,20 Jul 2023
+"235,000 ","26/8 PETRIE STREET,",EAST MACKAY QLD 4740,Vacant land,0,0,0,542m² ,19 Jul 2023
+"345,000","2 COLES ROAD,",ANDERGROVE QLD 4740,Vacant land,0,0,0,"3,091m² ",
+"200,000 ","2 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,761m² ,10 Jul 2023
+"200,000 ","3/18 Gable Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,98m² ,07 Jul 2023
+"454,000 ","1/32 Bassett Street,",NORTH MACKAY QLD 4740,Townhouse,3,3,2,490m² ,07 Jul 2023
+"367,000 ","4/14 Raleigh Street,",OORALEA QLD 4740,Apartment / Unit / Flat,3,1,1,332m² ,07 Jul 2023
+"240,000","31/19-23 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,158m² ,05 Jul 2023
+"560,000 ","Lot 2 Balberra Road,",BALBERRA QLD 4740,Vacant land,0,0,0,"194,249m² ",04 Jul 2023
+"370,500 ","2/22 Mulherin Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,169m² ,28 Jun 2023
+"150,000","1 Kingfisher Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,"1,090m² ",20 Jun 2023
+"419,000 ","57A Coles Road,",ANDERGROVE QLD 4740,Townhouse,3,2,2,306m² ,19 Jun 2023
+"290,000 ","56 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,062m² ",17 Jun 2023
+"650,000 ","2 Whitehaven Drive,",BLACKS BEACH QLD 4740,Townhouse,6,4,4,809m² ,16 Jun 2023
+"279,000 ","2/74 Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,180m² ,13 Jun 2023
+"225,000 ","1/24 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,82m² ,09 Jun 2023
+"495,000 ","58/8 Breakwater Access Road,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,152m² ,09 Jun 2023
+"560,000 ","2 Balberra Road,",BALBERRA QLD 4740,Vacant land,0,0,0,0,06 Jun 2023
+"215,000 ","Lot 144 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,700m² ,06 Jun 2023
+"230,000 ","9 Preston Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,0,06 Jun 2023
+"833,000 ","1-4/38 Hamilton Street,",NORTH MACKAY QLD 4740,Block of units,8,4,4,816m² ,05 Jun 2023
+"135,000 ","Lot 794/2 Henley Close,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,450m² ,31 May 2023
+"240,000 ","2/26 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,88m² ,26 May 2023
+"300,000 ","1/10 Prudhoe Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,196m² ,26 May 2023
+"290,000 ","Lot 1/144 Apsley Way,",ANDERGROVE QLD 4740,Vacant land,0,0,0,"2,400m² ",23 May 2023
+"180,000 ","lot 152 Beaconsfield Heights,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,601m² ,23 May 2023
+"1,020,000 ","1-6/8 Meadow Street,",NORTH MACKAY QLD 4740,Block of units,12,6,6,"1,004m² ",23 May 2023
+"270,000 ","10/17 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,2,1,1,134m² ,19 May 2023
+"480,000 ","150 Andrew Fordyce Road,",MOUNT JUKES QLD 4740,Vacant land,0,0,0,0,16 May 2023
+"155,000 ","1/222 Slade Point Road,",SLADE POINT QLD 4740,Apartment / Unit / Flat,2,1,1,77m² ,16 May 2023
+"690,000 ","9 Meadowlands Road,",RACECOURSE QLD 4740,Vacant land,0,0,0,"7,098m² ",15 May 2023
+"205,000 ","4/60 Bunya Way,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,1,1,1,79m² ,12 May 2023
+"225,000 ","2/3 English Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,164m² ,12 May 2023
+"235,000 ","7 Broclin Court,",RURAL VIEW QLD 4740,Vacant land,0,0,0,875m² ,11 May 2023
+"195,000 ","1/28 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,72m² ,09 May 2023
+"275,000 ","4/15 Perkins Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,198m² ,08 May 2023
+"265,000 ","1/16A Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,2,221m² ,02 May 2023
+"187,500 ","Lot 150 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,572m² ,02 May 2023
+"224,000 ","235 Penny Road,",RICHMOND QLD 4740,Vacant land,0,0,0,833m² ,02 May 2023
+"205,000 ","209 Goldsmith Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,856m² ,21 Apr 2023
+"320,000 ","1/12 Coolum Court,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,390m² ,17 Apr 2023
+"327,500 ","1/7 Whitehaven Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,515m² ,11 Apr 2023
+"95,000 ","21/5 Bridge Road,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,56m² ,06 Apr 2023
+"425,000 ","Units 1/2 -3 Casuarina Street,",SLADE POINT QLD 4740,Apartment / Unit / Flat,4,2,4,708m² ,06 Apr 2023
+"340,000 ","21 Milne Lane,",WEST MACKAY QLD 4740,Vacant land,0,0,0,"1,012m² ",06 Apr 2023
+"300,000 ","4/4 Kate Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,05 Apr 2023
+"363,000 ","35/49 Bald Hill Road,",GLENELLA QLD 4740,Vacant land,0,0,0,0,05 Apr 2023
+"557,500 ","10 Albatross Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,713m² ,04 Apr 2023
+"160,000 ","7/145 Rasmussen Avenue,",HAY POINT QLD 4740,Apartment / Unit / Flat,2,1,1,135m² ,03 Apr 2023
+"285,000 ","5/14 Perkins Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,215m² ,31 Mar 2023
+"995,000 ","199 Evan Street,",SOUTH MACKAY QLD 4740,Block of units,10,4,4,"1,037m² ",31 Mar 2023
+"328,000 ","38 Emma Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,307m² ",24 Mar 2023
+"175,000 ","69 Emma Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,498m² ,21 Mar 2023
+"390,000 ","1/25 Avalon Drive,",RURAL VIEW QLD 4740,Apartment / Unit / Flat,3,2,2,178m² ,21 Mar 2023
+"175,000 ","28 Pelican Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,675m² ,21 Mar 2023
+"145,000 ","31/26 Bourke Street,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,181m² ,20 Mar 2023
+"185,000","4/19 Thornber Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,98m² ,20 Mar 2023
+"140,000","12/26 Bourke Street,",BLACKS BEACH QLD 4740,Studio,− 0,2,2,70m² ,19 Mar 2023
+"320,000 ","3/32 Bassett Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,216m² ,16 Mar 2023
+"350,000 ","6 Baur Street,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,"2,831m² ",16 Mar 2023
+"330,000 ","6/66 Banksia Avenue,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,1,1,446m² ,14 Mar 2023
+"203,000 ","156 Regal Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,686m² ,09 Mar 2023
+"275,000 ","3/87 Malcomson Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,162m² ,07 Mar 2023
+"185,000 ","6/9 Pacific Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,91m² ,06 Mar 2023
+"187,750 ","2/8 Hague Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,96m² ,06 Mar 2023
+"270,000 ","38/3 Kirribilli Avenue,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,100m² ,28 Feb 2023
+"420,500 ","1&2/274 Slade Point Road,",SLADE POINT QLD 4740,Apartment / Unit / Flat,4,2,2,"1,012m² ",28 Feb 2023
+"290,000 ","119 Rasmussen Avenue,",HAY POINT QLD 4740,Vacant land,0,0,0,800m² ,25 Feb 2023
+"545,000 ","4/38 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,3,2,2,177m² ,21 Feb 2023
+"210,000 ","4 Gold Street,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,895m² ,21 Feb 2023
+"200,000 ","3/466 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,74m² ,21 Feb 2023
+"243,000 ","2/3 Rolston Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,183m² ,20 Feb 2023
+"200,000","3/11 Lavarack Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,80m² ,17 Feb 2023
+"330,000 ","1/120 Eaglemount Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,1,1,321m² ,10 Feb 2023
+"455,000 ","1-3/36 Hamilton Street,",NORTH MACKAY QLD 4740,Block of units,3,3,3,862m² ,09 Feb 2023
+"355,000 ","1/24 Meadow Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,183m² ,08 Feb 2023
+"310,000 ","5/3 Kennedy Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,152m² ,08 Feb 2023
+"279,000 ","9/7 Bilgola Place,",BLACKS BEACH QLD 4740,Townhouse,3,2,1,134m² ,01 Feb 2023
+"270,000 ","4/3 Kennedy Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,114m² ,31 Jan 2023
+"525,000 ","11/3 Megan Place,",MACKAY HARBOUR QLD 4740,Block of units,3,2,2,157m² ,27 Jan 2023
+"255,000 ","33/19-23 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,159m² ,26 Jan 2023
+"319,000","2/18 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,2,2,1,93m² ,25 Jan 2023
+"320,000 ","1/8 Steen Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,268m² ,24 Jan 2023
+"244,000 ","4/4 Morley Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,−,254m² ,18 Jan 2023
+"310,000 ","2/3 Ribbon Court,",GLENELLA QLD 4740,Apartment / Unit / Flat,2,1,1,241m² ,17 Jan 2023
+"290,000 ","40/3 Kirribilli Avenue,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,83m² ,09 Jan 2023
+"210,000 ","2/63 Shakespeare Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,154m² ,06 Jan 2023
+"285,000 ","30 Beaconsfield Rd,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,"2,023m² ",04 Jan 2023
+"335,000 ","2/11 Bridge Road,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,165m² ,03 Jan 2023
+"250,000 ","Lot 22 Yakapari - Habana Road,",HABANA QLD 4740,Vacant land,0,0,0,"10,000m² ",30 Dec 2022
+"205,000 ","5/16 Hicks Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,19 Dec 2022
+"260,000 ","2/6 Kennedy Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,108m² ,15 Dec 2022
+"412,500 ","57 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,600m² ",14 Dec 2022
+"260,000 ","2/16 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,210m² ,08 Dec 2022
+"245,000 ","1/53 Mick Ready Road,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,"9,196m² ",08 Dec 2022
+"200,000 ","1/9 Creal Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,99m² ,05 Dec 2022
+"225,000 ","102 Andergrove Road,",ANDERGROVE QLD 4740,Vacant land,0,0,0,"7,498m² ",01 Dec 2022
+"235,000 ","Lot 122 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,726m² ,01 Dec 2022
+"322,500 ","3/22 Glenhorn Close,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,216m² ,30 Nov 2022
+"270,000 ","2/11 Napier Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,287m² ,29 Nov 2022
+"550,000 ","10 Cumberland Ave,",SLADE POINT QLD 4740,Block of units,6,3,3,690m² ,28 Nov 2022
+"226,000 ","7/1 Cutler Drive,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,1,77m² ,25 Nov 2022
+"340,000 ","2/2 Narrabeen Street,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,456m² ,18 Nov 2022
+"320,000 ","2/10 Coolum Court,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,1,139m² ,18 Nov 2022
+"300,000 ","4/83 Malcomson Street,",NORTH MACKAY QLD 4740,Townhouse,3,2,2,146m² ,16 Nov 2022
+"385,000 ","2/52 Scarborough Circuit,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,3,2,181m² ,15 Nov 2022
+"345,000 ","2/10 Coogee Terrace,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,173m² ,14 Nov 2022
+"270,000 ","1/3 Novar Court,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,180m² ,14 Nov 2022
+"235,000 ","1/7 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,152m² ,14 Nov 2022
+"340,000 ","1/47A Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,115m² ,14 Nov 2022
+"286,000 ","2/31 Pacific Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,371m² ,10 Nov 2022
+"345,000","5/3 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,170m² ,25 Oct 2022
+"475,000 ","50/8 Petrie Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,4,2,2,555m² ,22 Oct 2022
+"300,000 ","2/2 Podosky St,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,180m² ,19 Oct 2022
+"265,000 ","1/14-16 Vincent Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,109m² ,10 Oct 2022
+"320,000 ","3/8 Admiral Drive,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,3,2,1,192m² ,05 Oct 2022
+"220,000 ","Lot 6 Munbura Road,",MUNBURA QLD 4740,Vacant land,0,0,0,"10,117m² ",05 Oct 2022
+"1,100,000 ","1, 2 & 3/17 Willoughby Crescent,",EAST MACKAY QLD 4740,Block of units,12,6,6,810m² ,04 Oct 2022
+"320,000 ","40/2 Mulherin Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,129m² ,04 Oct 2022
+"315,000 ","3/83 Malcomson Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,192m² ,04 Oct 2022
+"260,000 ","3/43 Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,102m² ,04 Oct 2022
+"355,000 ","3/3 Hunter Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,241m² ,27 Sep 2022
+"239,000 ","1/446 Bridge Road,",WEST MACKAY QLD 4740,Block of units,2,1,1,178m² ,23 Sep 2022
+"399,000 ","4 Shoreline Place,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,901m² ,21 Sep 2022
+"330,000 ","2/120 Eaglemount Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,1,1,130m² ,16 Sep 2022
+"365,000 ","1/235 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,173m² ,16 Sep 2022
+"335,000 ","2/1A Piccolo Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,158m² ,15 Sep 2022
+"275,000 ","1/30 Dustwill Street,",EIMEO QLD 4740,Apartment / Unit / Flat,2,2,1,122m² ,14 Sep 2022
+"252,500 ","2/22A Harney Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,12 Sep 2022
+"310,000 ","4/3 Ribbon Court,",GLENELLA QLD 4740,Apartment / Unit / Flat,2,1,2,222m² ,08 Sep 2022
+"168,000 ","2 Swan Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,809m² ,08 Sep 2022
+"152,000 ","4/10 Paperbark Way,",ANDERGROVE QLD 4740,Townhouse,1,1,1,74m² ,06 Sep 2022
+"270,000 ","4/30 Dustwill Street,",EIMEO QLD 4740,Apartment / Unit / Flat,2,2,1,122m² ,05 Sep 2022
+"200,000 ","22 Blue Beach Boulevard,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,803m² ,05 Sep 2022
+"250,750 ","1/11 Pirie Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,158m² ,03 Sep 2022
+"535,000 ","3/5 Campbells Ridge Road,",BALBERRA QLD 4740,Block of units,8,8,8,"3,472m² ",02 Sep 2022
+"297,000 ","7/87 Malcomson Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,191m² ,02 Sep 2022
+"1,030,000 ","39 & 41 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,524m² ",30 Aug 2022
+"225,000 ","2/446 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,24 Aug 2022
+"329,000 ","7/7 Bilgola Place,",BLACKS BEACH QLD 4740,Townhouse,3,2,2,133m² ,17 Aug 2022
+"272,000 ","1/35 Napier street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,279m² ,17 Aug 2022
+"579,000 ","26 Penn St,",SOUTH MACKAY QLD 4740,Block of units,6,3,3,759m² ,16 Aug 2022
+"307,000 ","Lot 3 Baur Street,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,"3,829m² ",15 Aug 2022
+"300,000 ","Lot 5 Baur Street,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,"2,893m² ",15 Aug 2022
+"265,000 ","3/27 Scriha Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,103m² ,11 Aug 2022
+"220,000","1/3 Piccolo Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,10 Aug 2022
+"215,000","5/29 Scriha Street,",NORTH MACKAY QLD 4740,Block of units,2,1,1,98m² ,09 Aug 2022
+"195,000 ","1/22 East Gordon Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,97m² ,02 Aug 2022
+"321,000 ","2/5 Clearvista Crescent,",MOUNT PLEASANT QLD 4740,Apartment / Unit / Flat,2,1,2,362m² ,02 Aug 2022
+"230,000 ","15/61 Hamilton Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,150m² ,01 Aug 2022
+"540,000 ","2 Roberts Avenue,",NORTH MACKAY QLD 4740,Block of units,4,4,4,726m² ,01 Aug 2022
+"195,000 ","Lot 111 Landsborough Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,830m² ,01 Aug 2022
+"530,000","45 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,810m² ",27 Jul 2022
+"320,000 ","1/223 Goldsmith Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,4,1,−,211m² ,26 Jul 2022
+"224,000 ","4/4 Symons Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,69m² ,26 Jul 2022
+"265,000 ","2/115 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,102m² ,25 Jul 2022
+"239,000 ","4/11 Bridge Road,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,108m² ,22 Jul 2022
+"245,000 ","6/280 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,932m² ,20 Jul 2022
+"125,000 ","116 Haliday Bay Road,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,820m² ,18 Jul 2022
+"366,000 ","1/1 Michigan Way,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,3,2,189m² ,13 Jul 2022
+"265,500 ","2/18 Clements Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,180m² ,13 Jul 2022
+"365,000 ","7/235 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,173m² ,11 Jul 2022
+"980,000 ","16 English Street,",SOUTH MACKAY QLD 4740,Block of units,12,6,6,"1,065m² ",30 Jun 2022
+"297,000 ","2/3 Hunter Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,223m² ,28 Jun 2022
+"150,000 ","22A Davey Street,",GLENELLA QLD 4740,Vacant land,0,0,0,563m² ,22 Jun 2022
+"957,500 ","8 Symons Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,10,5,5,"1,271m² ",22 Jun 2022
+"260,000 ","15 Symons Street,",SOUTH MACKAY QLD 4740,Vacant land,0,0,0,932m² ,21 Jun 2022
+"340,000 ","31/2 Mulherin Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,154m² ,20 Jun 2022
+"450,000 ","Lot 7 Balnagowan Mandarana Road,",THE LEAP QLD 4740,Vacant land,0,0,0,0,19 Jun 2022
+"235,000 ","1/29 Scriha Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,101m² ,17 Jun 2022
+"737,000 ","26A Rural View Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,"8,010m² ",13 Jun 2022
+"240,000 ","2/3 Baur Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,141m² ,08 Jun 2022
+"280,000 ","30 Stellajean Crescent,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,"4,837m² ",03 Jun 2022
+"330,000 ","454 Sugarshed Road,",ERAKALA QLD 4740,Vacant land,0,0,0,"19,800m² ",02 Jun 2022
+"320,000 ","54 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,125m² ",30 May 2022
+"655,000 ","41-47 Peak Downs Highway,",OORALEA QLD 4740,Vacant land,0,0,0,"4,051m² ",27 May 2022
+"298,000 ","10/36 Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,2,2,191m² ,25 May 2022
+"352,000 ","2/103 Whitehaven Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,144m² ,24 May 2022
+"410,000 ","16/3 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,167m² ,20 May 2022
+"320,000","3/22 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,116m² ,16 May 2022
+"165,000 ","25 Eales Road,",RURAL VIEW QLD 4740,Vacant land,0,0,0,733m² ,16 May 2022
+"342,500 ","21 Friedmans Road,",HABANA QLD 4740,Vacant land,0,0,0,"10,900m² ",12 May 2022
+"259,000 ","13/8 Petersen Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,143m² ,11 May 2022
+"230,000 ","19/19-23 Stevenson Street,",SOUTH MACKAY QLD 4740,Townhouse,3,2,2,156m² ,10 May 2022
+"275,000","3/379 Shakespeare Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,236m² ,06 May 2022
+"370,000 ","105 Attards Road,",HABANA QLD 4740,Vacant land,0,0,0,0,05 May 2022
+"700,000 ","8/19 East Point Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,4,2,2,275m² ,04 May 2022
+"386,000 ","31 Coral Drive,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,809m² ,03 May 2022
+"197,000 ","1 Billabong Crescent,",BAKERS CREEK QLD 4740,Vacant land,0,0,0,691m² ,02 May 2022
+"330,000 ","4/120 Eaglemount Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,1,1,312m² ,27 Apr 2022
+"365,000","LOT 18 IAN REDDACLIFF DRIVE,",THE LEAP QLD 4740,Vacant land,0,0,0,0,26 Apr 2022
+"235,000 ","7 Busuttin Drive,",EIMEO QLD 4740,Vacant land,0,0,0,785m² ,22 Apr 2022
+"310,000 ","5 Janmac Place,",RICHMOND QLD 4740,Vacant land,0,0,0,990m² ,22 Apr 2022
+"215,000 ","Lot 151 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,745m² ,21 Apr 2022
+"215,000 ","Lot 166 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,742m² ,21 Apr 2022
+"190,000 ","Lot 138 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,542m² ,20 Apr 2022
+"255,000 ","2/63 Shakespeare Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,154m² ,20 Apr 2022
+"380,000","14 Emma Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"2,160m² ",18 Apr 2022
+"305,000 ","35/19 East Point Drive,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,956m² ,13 Apr 2022
+"360,000 ","3/21 Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,284m² ,12 Apr 2022
+"260,000 ","30/7 Bilgola Place,",BLACKS BEACH QLD 4740,Townhouse,3,2,1,147m² ,05 Apr 2022
+"223,000 ","31 Palomino Parade,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,568m² ",04 Apr 2022
+"350,000 ","58 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,026m² ",04 Apr 2022
+"75,000 ","26/26 Bourke Street,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,1,1,1,166m² ,01 Apr 2022
+"245,000 ","2/16 Gable Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,157m² ,01 Apr 2022
+"780,000 ","978 Maraju Yakapari Road,",DUMBLETON QLD 4740,Vacant land,0,0,0,0,2022
+"235,000 ","Lot 12/3 Eulbertie Avenue,",EIMEO QLD 4740,Vacant land,0,0,0,"2,121m² ",29 Mar 2022
+"510,000 ","5/9 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,153m² ,29 Mar 2022
+"187,500 ","3/91 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,149m² ,29 Mar 2022
+"270,000 ","22 Eyre Place,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,000m² ",25 Mar 2022
+"505,000 ","4 Don Wright Court,",ANDERGROVE QLD 4740,Retirement Living,3,2,2,"4,400m² ",24 Mar 2022
+"130,000 ","17 Kataryn Avenue,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,"1,012m² ",24 Mar 2022
+"315,000 ","17 Slade Esplanade,",SLADE POINT QLD 4740,Vacant land,0,0,0,648m² ,24 Mar 2022
+"215,000 ","1/167 Milton Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,228m² ,22 Mar 2022
+"480,000 ","90 The Esplanade,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,"1,214m² ",21 Mar 2022
+"154,000 ","5/30 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,53m² ,18 Mar 2022
+"187,500 ","Lot 152 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,616m² ,16 Mar 2022
+"194,000 ","3/4 Symons Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,69m² ,15 Mar 2022
+"300,000 ","3/6 Taylor Street,",WEST MACKAY QLD 4740,Townhouse,3,1,1,166m² ,14 Mar 2022
+"430,000 ","59 Grendon Street,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,"2,723m² ",08 Mar 2022
+"3,400,000 ","2-4 Makybe Diva Dr,",OORALEA QLD 4740,Block of units,24,12,22,"2,353m² ",08 Mar 2022
+"340,000 ","22B Westaway Crescent,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,2,144m² ,07 Mar 2022
+"219,000 ","4/10 Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,1,169m² ,07 Mar 2022
+"197,000 ","1/16 Hicks Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,86m² ,07 Mar 2022
+"310,000 ","2/55 Duranbah Circuit,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,"1,692m² ",04 Mar 2022
+"245,000 ","3/16 Graffunder Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,183m² ,04 Mar 2022
+"217,000 ","107 Coleshill Drive,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,0,03 Mar 2022
+"255,000 ","18/19-23 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,155m² ,02 Mar 2022
+"265,000 ","Lot 9 Nobblers Creek Road,",CAPE HILLSBOROUGH QLD 4740,Vacant land,0,0,0,0,01 Mar 2022
+"320,000 ","2/10 Kierra Street,",ANDERGROVE QLD 4740,Townhouse,2,2,1,121m² ,28 Feb 2022
+"290,000 ","2/7 Meadow Street,",NORTH MACKAY QLD 4740,Townhouse,3,1,1,139m² ,24 Feb 2022
+"300,000 ","110 Yakapari-Habana Road,",THE LEAP QLD 4740,Vacant land,0,0,0,0,24 Feb 2022
+"192,000 ","17/9 Pacific Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,81m² ,23 Feb 2022
+"720,000 ","Cnr Walz Road & Bruce Highway,",BAKERS CREEK QLD 4740,Vacant land,0,0,0,"133,546m² ",21 Feb 2022
+"230,000 ","1/21 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,169m² ,18 Feb 2022
+"219,500 ","Lot 155 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,761m² ,18 Feb 2022
+"345,000 ","5/4 Prudhoe Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,141m² ,18 Feb 2022
+"375,000 ","80 The Esplanade,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,607m² ,18 Feb 2022
+"225,000 ","21/54A Scott Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,88m² ,17 Feb 2022
+"180,000","18/145 Rasmussen Avenue,",HAY POINT QLD 4740,Apartment / Unit / Flat,2,1,1,"6,131m² ",16 Feb 2022
+"325,000 ","3/25 Beach Road,",DOLPHIN HEADS QLD 4740,Townhouse,3,2,1,84m² ,12 Feb 2022
+"235,000 ","21 Bellavista Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,935m² ,10 Feb 2022
+"235,000 ","2/45 Juliet Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,194m² ,09 Feb 2022
+"205,000 ","1/2 Symons Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,88m² ,04 Feb 2022
+"195,000 ","Lot 142 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,653m² ,01 Feb 2022
+"207,500 ","Lot 145 Ultimo Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,670m² ,01 Feb 2022
+"215,000 ","Lot 143 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,703m² ,01 Feb 2022
+"205,000 ","Lot 153 Ultimo Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,670m² ,01 Feb 2022
+"199,000 ","Lot 140 Ultimo Court,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,633m² ,01 Feb 2022
+"125,000 ","9 Amstead Street,",EIMEO QLD 4740,Vacant land,0,0,0,407m² ,25 Jan 2022
+"282,000 ","3/10 Ungerer Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,112m² ,23 Jan 2022
+"255,000 ","1/23 Scriha Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,21 Jan 2022
+"217,500 ","6/63 Shakespeare Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,154m² ,19 Jan 2022
+"53,500 ","19/73 Illawong Drive,",PAGET QLD 4740,Apartment / Unit / Flat,2,1,2,187m² ,18 Jan 2022
+"1,200,000 ","Corner Connors Road & Cooks Lane,",BAKERS CREEK QLD 4740,Vacant land,0,0,0,"153,780m² ",17 Jan 2022
+"320,000 ","1/15 Peak Downs Highway,",OORALEA QLD 4740,Apartment / Unit / Flat,3,1,1,201m² ,17 Jan 2022
+"270,000 ","3/6 Kennedy Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,107m² ,17 Jan 2022
+"150,000 ","1/9 Pacific Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,102m² ,14 Jan 2022
+"175,000 ","70 Zelma Street,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,"1,049m² ",14 Jan 2022
+"580,000 ","21/9 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,153m² ,14 Jan 2022
+"212,000 ","7/7 Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,208m² ,14 Jan 2022
+"192,000 ","Lot 137 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,542m² ,06 Jan 2022
+"650,000 ","11 Sailaway Drive,",EIMEO QLD 4740,Townhouse,6,4,6,764m² ,06 Jan 2022
+"234,000 ","6/38 Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,1,160m² ,05 Jan 2022
+"565,000 ","Lot 72 Mackay-Habana Road,",NINDAROO QLD 4740,Vacant land,0,0,0,0,23 Dec 2021
+"195,000 ","Lot 15 Coleshill Drive,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,"9,307m² ",17 Dec 2021
+"300,000 ","58 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,026m² ",17 Dec 2021
+"130,000 ","3 Stanton Place,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,433m² ,16 Dec 2021
+"270,000 ","1/271 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,278m² ,14 Dec 2021
+"585,000 ","47 Paradise Street,",SOUTH MACKAY QLD 4740,Block of units,4,4,5,809m² ,09 Dec 2021
+"290,000 ","9 Stanton Place,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,619m² ,06 Dec 2021
+"125,000 ","2 Stanton Place,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,534m² ,29 Nov 2021
+"360,000","2/30 Pratt Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,424m² ,29 Nov 2021
+"255,000 ","5/14 Perkins Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,215m² ,26 Nov 2021
+"225,000 ","26/54A Scott Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,88m² ,25 Nov 2021
+"165,000 ","2/4 Graves Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,206m² ,24 Nov 2021
+"185,000 ","7 Plover Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,673m² ,24 Nov 2021
+"165,000 ","7 Stanton Place,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,487m² ,22 Nov 2021
+"515,000","1/11 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,222m² ,22 Nov 2021
+"143,000 ","23/32 Headland Drive,",HALIDAY BAY QLD 4740,Apartment / Unit / Flat,1,1,1,221m² ,17 Nov 2021
+"435,000 ","3/14 Marina Beach Parade,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,1,150m² ,16 Nov 2021
+"235,000 ","18/61 Hamilton Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,15 Nov 2021
+"405,000 ","24 Mdina Drive,",HABANA QLD 4740,Vacant land,0,0,0,0,12 Nov 2021
+"180,000 ","6/63 Grendon Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,87m² ,12 Nov 2021
+"232,500 ","5/280 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,93m² ,10 Nov 2021
+"390,000 ","2/65 Rasmussen Avenue,",HAY POINT QLD 4740,Townhouse,3,3,2,800m² ,09 Nov 2021
+"244,000 ","2/16 Graffunder Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,183m² ,05 Nov 2021
+"210,000 ","2/21 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,169m² ,04 Nov 2021
+"130,000 ","Lot 2/23 Wilson Street,",WEST MACKAY QLD 4740,Vacant land,0,0,0,235m² ,01 Nov 2021
+"140,000 ","28 Summerhill Rise,",HABANA QLD 4740,Vacant land,0,0,0,0,29 Oct 2021
+"470,000 ","1/14 Marina Beach Parade,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,1,151m² ,28 Oct 2021
+"650,000 ","65 Grendon Street,",NORTH MACKAY QLD 4740,Block of units,8,4,3,789m² ,26 Oct 2021
+"225,000 ","2/213 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,156m² ,23 Oct 2021
+"240,000 ","5/23 Ungerer Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,167m² ,21 Oct 2021
+"175,000 ","Lot 32 Dawson Boulevard,",RURAL VIEW QLD 4740,Vacant land,0,0,0,505m² ,20 Oct 2021
+"350,000 ","Lot 34 & Lot 35 Dawson Boulevard,",RURAL VIEW QLD 4740,Vacant land,0,0,0,516m² ,20 Oct 2021
+"295,000 ","2/3 Goldston Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,4,2,1,124m² ,18 Oct 2021
+"210,000 ","3/5 Valley Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,157m² ,16 Oct 2021
+"185,000 ","3 McCanna Street,",HAY POINT QLD 4740,Vacant land,0,0,0,920m² ,15 Oct 2021
+"289,000","2/6 Taylor Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,166m² ,14 Oct 2021
+"285,000 ","21 Mick Ready,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,0,13 Oct 2021
+"252,000 ","2/23 Scriha Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,13 Oct 2021
+"225,000 ","5 Province Avenue,",RICHMOND QLD 4740,Vacant land,0,0,0,706m² ,13 Oct 2021
+"192,500 ","2/2 Whistler Way,",MOUNT PLEASANT QLD 4740,Apartment / Unit / Flat,1,1,1,126m² ,12 Oct 2021
+"250,000 ","41 Cinnamon Drive,",GLENELLA QLD 4740,Vacant land,0,0,0,"1,056m² ",08 Oct 2021
+"750,000 ","25 Frank Cowley Drive,",GLENELLA QLD 4740,Block of units,6,3,3,887m² ,07 Oct 2021
+"150,000 ","14 Caroval Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,700m² ,06 Oct 2021
+"337,500 ","1/15 Bellavista Circuit,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,2,2,350m² ,30 Sep 2021
+"285,000 ","227 Bally Keel Road,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,"7,689m² ",29 Sep 2021
+"165,000 ","28 Pelican Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,675m² ,29 Sep 2021
+"115,000 ","1 Windsor Drive,",HAY POINT QLD 4740,Vacant land,0,0,0,"4,066m² ",28 Sep 2021
+"695,000 ","23 PIRIE STREET,",SOUTH MACKAY QLD 4740,Block of units,8,4,4,775m² ,28 Sep 2021
+"139,000 ","Lot 815/453 Grasstree Beach Road,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,787m² ,27 Sep 2021
+"245,000 ","71 Windsor Drive,",HAY POINT QLD 4740,Vacant land,0,0,0,"4,047m² ",27 Sep 2021
+"219,000 ","4 Gold Street,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,895m² ,23 Sep 2021
+"420,000 ","25/8 Breakwater Access,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,138m² ,23 Sep 2021
+"220,000 ","43 Bellavista Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,600m² ,17 Sep 2021
+"245,000 ","3/29 Juliet Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,162m² ,17 Sep 2021
+"600,000 ","16 Swan Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,"1,113m² ",15 Sep 2021
+"307,500 ","1/61 Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,182m² ,09 Sep 2021
+"245,000 ","Lot 305/8 Petrie Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,781m² ,08 Sep 2021
+"255,000 ","Lot 301/8 Petrie Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,491m² ,08 Sep 2021
+"275,000 ","11 Charlotte Street,",WEST MACKAY QLD 4740,Vacant land,0,0,0,618m² ,06 Sep 2021
+"200,000 ","2/12 Elizabeth Street,",NORTH MACKAY QLD 4740,Townhouse,2,1,1,94m² ,01 Sep 2021
+"230,000 ","2/5 Scott Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,106m² ,01 Sep 2021
+"420,000 ","4/8 Petrie Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,4,2,2,450m² ,30 Aug 2021
+"1,250,000 ","107 Grendon Street,",NORTH MACKAY QLD 4740,Block of units,18,9,−,"1,012m² ",30 Aug 2021
+"390,000 ","1/65 Rasmussen Avenue,",HAY POINT QLD 4740,Townhouse,3,3,2,800m² ,27 Aug 2021
+"340,000 ","2/30 Primavera Boulevard,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,2,2,176m² ,24 Aug 2021
+"295,000 ","55A Ocean Avenue,",SLADE POINT QLD 4740,Vacant land,0,0,0,668m² ,2021
+"1,200,000 ","128 Tweedies Road,",THE LEAP QLD 4740,Vacant land,0,0,0,0,20 Aug 2021
+"252,000 ","25 Centennial Drive,",GLENELLA QLD 4740,Vacant land,0,0,0,887m² ,19 Aug 2021
+"125,000 ","43 Stevens Drive,",HOMEBUSH QLD 4740,Vacant land,0,0,0,897m² ,13 Aug 2021
+"360,000 ","Lot 20 63 Olletts Road,",HABANA QLD 4740,Vacant land,0,0,0,0,09 Aug 2021
+"127,000 ","16/145 - 151 Rasmussen Avenue,",HAY POINT QLD 4740,Apartment / Unit / Flat,2,1,1,135m² ,06 Aug 2021
+"215,000 ","3/21 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,169m² ,05 Aug 2021
+"150,000 ","25 Perkins Street,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,"1,244m² ",05 Aug 2021
+"415,000 ","1 & 2/20 Gable Street,",EAST MACKAY QLD 4740,Block of units,4,2,2,774m² ,04 Aug 2021
+"175,000 ","3/16 Creal Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,95m² ,03 Aug 2021
+"205,500 ","U3/36 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,94m² ,02 Aug 2021
+"340,000 ","3/39 Paget Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,182m² ,02 Aug 2021
+"260,000 ","Unit 1/16 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,187m² ,30 Jul 2021
+"191,000 ","7/382 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,89m² ,30 Jul 2021
+"305,000 ","1/76 Cinnamon Drive,",GLENELLA QLD 4740,Apartment / Unit / Flat,2,2,1,114m² ,29 Jul 2021
+"130,000 ","Lot 3/21 Wilson Street,",WEST MACKAY QLD 4740,Vacant land,0,0,0,245m² ,29 Jul 2021
+"130,000 ","Lot 7/13 Wilson Street,",WEST MACKAY QLD 4740,Vacant land,0,0,0,245m² ,29 Jul 2021
+"188,000 ","7/63 Grendon Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,88m² ,27 Jul 2021
+"360,000","1/4 Prudhoe Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,148m² ,26 Jul 2021
+"575,000","53 Mercy Drive,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,783m² ,2021
+"285,000","1/70 Bridge Road,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,212m² ,26 Jul 2021
+"155,000 ","1/4 Piccolo Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,23 Jul 2021
+"275,000 ","5/48 Banksia Avenue,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,500m² ,22 Jul 2021
+"130,000 ","Lot 743/21 Burleigh Court,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,502m² ,21 Jul 2021
+"318,000","2/64 Lagoon Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,181m² ,20 Jul 2021
+"369,000 ","13/6 Megan Place,",MACKAY HARBOUR QLD 4740,Townhouse,3,2,2,238m² ,15 Jul 2021
+"222,000 ","3/43 Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,102m² ,14 Jul 2021
+"285,000 ","3/6 Whistler Way,",GLENELLA QLD 4740,Townhouse,2,1,2,168m² ,13 Jul 2021
+"235,000","3/14 Perkins Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,151m² ,13 Jul 2021
+"120,000 ","27 Azure Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,837m² ,13 Jul 2021
+"290,000 ","4/15-17 Creek Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,420m² ,12 Jul 2021
+"90,000 ","4/333 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,72m² ,2021
+"205,000 ","27 Paradise Street,",SOUTH MACKAY QLD 4740,Vacant land,0,0,0,762m² ,01 Jul 2021
+"425,000 ","6/9 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,142m² ,21 Jun 2021
+"290,000 ","22 Eyre Place,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,000m² ",15 Jun 2021
+"450,000 ","19 Gold Street,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,"1,145m² ",14 Jun 2021
+"440,000 ","34 Keswick Avenue,",SLADE POINT QLD 4740,Apartment / Unit / Flat,6,3,3,708m² ,11 Jun 2021
+"170,000 ","23 Symons Street,",SOUTH MACKAY QLD 4740,Vacant land,0,0,0,"1,052m² ",04 Jun 2021
+"347,500 ","1/104 Goldsmith Street,",SOUTH MACKAY QLD 4740,Townhouse,4,2,2,180m² ,03 Jun 2021
+"230,000 ","5/4 Graves Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,205m² ,02 Jun 2021
+"170,000 ","16 Majesty Street,",RURAL VIEW QLD 4740,Vacant land,0,0,0,575m² ,01 Jun 2021
+"200,000 ","1/22A Harney Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,150m² ,31 May 2021
+"200,000 ","4/309 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,92m² ,28 May 2021
+"129,500 ","119 Pacific Drive,",HAY POINT QLD 4740,Vacant land,0,0,0,800m² ,25 May 2021
+"216,000 ","1 Dexter Court,",MOUNT PLEASANT QLD 4740,Vacant land,0,0,0,582m² ,20 May 2021
+"215,000","1/213 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,155m² ,19 May 2021
+"272,000 ","4/6 Kennedy Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,108m² ,19 May 2021
+"165,000 ","30 Blue Beach Boulevard,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,814m² ,13 May 2021
+"470,000 ","86 Palm Ridge Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"20,234m² ",30 Apr 2021
+"550,000","34 Ocean Ave,",SLADE POINT QLD 4740,Vacant land,0,0,0,438m² ,30 Apr 2021
+"183,000 ","5/91 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,256m² ,29 Apr 2021
+"245,000 ","3/59 Oak Street,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,225m² ,28 Apr 2021
+"280,000 ","56 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,062m² ",28 Apr 2021
+"320,000 ","219 Olletts Road,",HABANA QLD 4740,Vacant land,0,0,0,"10,000m² ",21 Apr 2021
+"355,000 ","2/41 Schaefer Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,2,1,310m² ,15 Apr 2021
+"615,000 ","4 Edmond Street,",EIMEO QLD 4740,Vacant land,0,0,0,607m² ,14 Apr 2021
+"325,000 ","46 Beaconsfield Road,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,"2,023m² ",12 Apr 2021
+"187,000 ","8 Bayview Drive,",HABANA QLD 4740,Vacant land,0,0,0,0,09 Apr 2021
+"175,000 ","2 Swan Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,809m² ,09 Apr 2021
+"800,000 ","64A Ian Wood Drive,",DOLPHIN HEADS QLD 4740,Vacant land,0,0,0,"3,615m² ",08 Apr 2021
+"260,000 ","4/2 Glenhorn Close,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,206m² ,06 Apr 2021
+"265,000 ","2/48 Superior Boulevard,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,2,123m² ,31 Mar 2021
+"305,000 ","2/5 Westaway Crescent,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,1,151m² ,24 Mar 2021
+"280,000","1/21 Miami Terrace,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,2,180m² ,23 Mar 2021
+"200,000 ","Lot 220 Beaconsfield Heights,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,707m² ,19 Mar 2021
+"230,000 ","61 - 63 Beach Road,",DOLPHIN HEADS QLD 4740,Vacant land,0,0,0,"1,333m² ",19 Mar 2021
+"255,000 ","6/72 Nebo Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,224m² ,18 Mar 2021
+"195,000 ","10/10 Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,1,164m² ,17 Mar 2021
+"234,000 ","7 Charlotte Street,",WEST MACKAY QLD 4740,Vacant land,0,0,0,683m² ,17 Mar 2021
+"127,500 ","9/333 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,72m² ,17 Mar 2021
+"255,000 ","Lot 303/8 Petrie Street,",SOUTH MACKAY QLD 4740,Vacant land,0,0,0,507m² ,11 Mar 2021
+"208,000 ","60 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"2,200m² ",09 Mar 2021
+"85,000 ","24 Perkins Street,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,526m² ,08 Mar 2021
+"302,500 ","4/8 Admiral Drive,",DOLPHIN HEADS QLD 4740,Townhouse,3,2,2,192m² ,05 Mar 2021
+"185,000 ","3/3 Rolston Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,197m² ,03 Mar 2021
+"329,000 ","7/6 Megan Place,",MACKAY HARBOUR QLD 4740,Townhouse,3,2,2,194m² ,01 Mar 2021
+"130,000 ","16 Blue Beach Boulevard,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,882m² ,23 Feb 2021
+"145,000 ","2/40 Valley Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,121m² ,23 Feb 2021
+"207,500 ","13 Caroval Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,767m² ,23 Feb 2021
+"185,000 ","62 Dawson BVD,",RURAL VIEW QLD 4740,Vacant land,0,0,0,748m² ,22 Feb 2021
+"182,500 ","Lot 162 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,580m² ,19 Feb 2021
+"182,500 ","Lot 163 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,580m² ,18 Feb 2021
+"187,000 ","Lot 165 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,635m² ,18 Feb 2021
+"355,000","3/38 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,3,2,2,177m² ,18 Feb 2021
+"130,000 ","22 Joseph Court,",GLENELLA QLD 4740,Vacant land,0,0,0,386m² ,18 Feb 2021
+"253,000 ","3/305 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,194m² ,17 Feb 2021
+"196,000 ","Lot 117 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,680m² ,15 Feb 2021
+"200,000 ","2/14 Graffunder Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,192m² ,15 Feb 2021
+"190,000 ","1/4 Kate Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,10 Feb 2021
+"270,000 ","58 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,028m² ",09 Feb 2021
+"207,500","13 Caroval Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,767m² ,08 Feb 2021
+"235,000 ","28 Graffunder Street,",SOUTH MACKAY QLD 4740,Vacant land,0,0,0,"1,012m² ",08 Feb 2021
+"240,000 ","1/39 Carbeen Street,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,1,1,130m² ,05 Feb 2021
+"125,000 ","40 Blue Beach Boulevard,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,801m² ,05 Feb 2021
+"277,500 ","3/11 Tramontana Street,",ANDERGROVE QLD 4740,Townhouse,3,2,2,437m² ,02 Feb 2021
+"330,000","13/66 Banksia Avenue,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,1,447m² ,02 Feb 2021
+"395,000 ","18 Meyer Street,",MOUNT PLEASANT QLD 4740,Block of units,4,2,2,951m² ,02 Feb 2021
+"235,000 ","45 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,081m² ",01 Feb 2021
+"210,000 ","45 Pioneer Street,",GLENELLA QLD 4740,Vacant land,0,0,0,800m² ,27 Jan 2021
+"310,000 ","988 Hay Point Road,",HAY POINT QLD 4740,Vacant land,− 0,− 0,5,"21,853m² ",25 Jan 2021
+"455,000 ","15/19 East Point Drive,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,822m² ,25 Jan 2021
+"285,000","Lot 18 Ian Reddacliff Drive,",THE LEAP QLD 4740,Vacant land,0,0,0,0,21 Jan 2021
+"285,000","LOT 18 IAN REDDACLIFF DRIVE,",THE LEAP QLD 4740,Vacant land,0,0,0,0,21 Jan 2021
+"625,000 ","24 Eva Parade,",GLENELLA QLD 4740,Apartment / Unit / Flat,6,4,4,918m² ,18 Jan 2021
+"240,000 ","22 Grangewood Avenue,",RICHMOND QLD 4740,Vacant land,0,0,0,976m² ,11 Jan 2021
+"230,000 ","19 Wardrop Street,",WEST MACKAY QLD 4740,Vacant land,0,0,0,707m² ,08 Jan 2021
+"65,000","122 Halliday Bay Road,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,800m² ,07 Jan 2021
+"322,500 ","Lot 26 Pleystowe Connection Road,",BALNAGOWAN QLD 4740,Vacant land,0,0,0,"5,750m² ",05 Jan 2021
+"170,000 ","Lot 156 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,483m² ,04 Jan 2021
+"220,000 ","33/7 Bilgola Place,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,1,147m² ,04 Jan 2021
+"170,000 ","3/67 Shakespeare Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,76m² ,31 Dec 2020
+"160,000 ","5/2 Piccolo Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,65m² ,24 Dec 2020
+"350,000 ","7/3 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,157m² ,21 Dec 2020
+"180,000 ","44 Douglas Crescent,",RURAL VIEW QLD 4740,Vacant land,0,0,0,800m² ,18 Dec 2020
+"179,000 ","3/63 Grendon Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,87m² ,17 Dec 2020
+"195,000 ","10 Kate Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,"1,012m² ",16 Dec 2020
+"90,000 ","39 Village Circuit,",EIMEO QLD 4740,Vacant land,0,0,0,536m² ,14 Dec 2020
+"215,000 ","Unit 36 Park Haven Garden Village,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,88m² ,14 Dec 2020
+"315,500 ","1 & 2/18 Eaglemount Road,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,4,2,2,717m² ,10 Dec 2020
+"230,000 ","Lot 210 Beaconsfield Heights,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,875m² ,09 Dec 2020
+"90,000 ","17 Mackenzie Street,",EIMEO QLD 4740,Vacant land,0,0,0,405m² ,08 Dec 2020
+"240,000 ","5/307 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,99m² ,08 Dec 2020
+"235,000 ","17 Parkedge Avenue,",RICHMOND QLD 4740,Vacant land,0,0,0,697m² ,02 Dec 2020
+"360,000 ","57 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,600m² ",30 Nov 2020
+"400,000 ","43 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,811m² ",25 Nov 2020
+"95,000 ","Unit 5/8-10 Petersen Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,52m² ,19 Nov 2020
+"285,000 ","1 Rainbow Crescent,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,"1,041m² ",17 Nov 2020
+"275,000 ","1 2 3/3 SKYLARK STREET,",SLADE POINT QLD 4740,Apartment / Unit / Flat,6,3,3,979m² ,16 Nov 2020
+"240,000 ","Lot 208 Beaconsfield Heights,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,932m² ,13 Nov 2020
+"145,000 ","5/9 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,59m² ,12 Nov 2020
+"285,000 ","54 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,125m² ",11 Nov 2020
+"130,000 ","9 Audrena Street,",HAY POINT QLD 4740,Vacant land,0,0,0,800m² ,06 Nov 2020
+"210,000","59 Admiral Drive,",DOLPHIN HEADS QLD 4740,Vacant land,0,0,0,459m² ,05 Nov 2020
+"117,000 ","8/28 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,50m² ,03 Nov 2020
+"226,500 ","Lot 209 Beaconsfield Heights,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,885m² ,02 Nov 2020
+"217,500 ","Lot 160 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,865m² ,29 Oct 2020
+"249,800","4/7 Bilgola Place,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,3,2,1,134m² ,29 Oct 2020
+"215,000","4/365 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,99m² ,29 Oct 2020
+"275,000 ","4/18 Sutton Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,233m² ,28 Oct 2020
+"210,000 ","16 Annie Wood Avenue,",MOUNT PLEASANT QLD 4740,Vacant land,0,0,0,873m² ,28 Oct 2020
+"135,000 ","7 Mackenzie Street,",EIMEO QLD 4740,Vacant land,0,0,0,405m² ,26 Oct 2020
+"190,000 ","4/307 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,92m² ,23 Oct 2020
+"145,000 ","22 Audrena Street,",HAY POINT QLD 4740,Vacant land,0,0,0,800m² ,22 Oct 2020
+"230,000 ","23 Bayview Drive,",HABANA QLD 4740,Vacant land,0,0,0,"9,550m² ",20 Oct 2020
+"177,000 ","Lot 157 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,561m² ,14 Oct 2020
+"205,000 ","Lot 161 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,750m² ,13 Oct 2020
+"177,000 ","Lot 158 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,561m² ,08 Oct 2020
+"270,000 ","7 Sunset Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,112m² ",07 Oct 2020
+"340,000","214 Barrow Hill Road,",HABANA QLD 4740,Vacant land,0,0,0,"41,400m² ",06 Oct 2020
+"225,000 ","1/4 Plath Court,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,188m² ,23 Sep 2020
+"329,000 ","2/26 Grendon Street,",NORTH MACKAY QLD 4740,Townhouse,3,2,2,180m² ,22 Sep 2020
+"255,000 ","- Froghollow Drive,",OORALEA QLD 4740,Vacant land,0,0,0,800m² ,21 Sep 2020
+"400,000 ","189 Ian Reddacliff Drive,",THE LEAP QLD 4740,Vacant land,0,0,0,0,21 Sep 2020
+"477,500 ","12 Albatross Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,736m² ,17 Sep 2020
+"257,000 ","2/11 Tolcher Street,",MOUNT PLEASANT QLD 4740,Apartment / Unit / Flat,2,1,1,455m² ,16 Sep 2020
+"240,000 ","26 Osprey Close,",SLADE POINT QLD 4740,Vacant land,0,0,0,"1,740m² ",16 Sep 2020
+"168,000 ","4/91 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,149m² ,15 Sep 2020
+"114,000 ","1 Paperbark Way,",ANDERGROVE QLD 4740,Vacant land,0,0,0,396m² ,14 Sep 2020
+"249,500 ","2/4 Baur Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,131m² ,10 Sep 2020
+"209,500 ","1/40 Crowley Drive,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,4,4,6,376m² ,10 Sep 2020
+"105,000 ","507 Sugarshed Road,",ERAKALA QLD 4740,Vacant land,0,0,0,"1,136m² ",04 Sep 2020
+"700,000 ","102 Andrew Drive,",DUMBLETON QLD 4740,Vacant land,0,0,0,0,03 Sep 2020
+"209,500 ","1/40 Crowley Drive,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,2,3,196m² ,02 Sep 2020
+"114,000 ","4/62 Zelma Street,",GRASSTREE BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,222m² ,01 Sep 2020
+"182,500 ","Lot 116 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,600m² ,28 Aug 2020
+"355,000 ","2/19 McGinn Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,217m² ,28 Aug 2020
+"170,000 ","33 Balzan Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,775m² ,27 Aug 2020
+"560,000 ","5/19 East Point Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,181m² ,26 Aug 2020
+"265,000 ","17 Herbert Way,",RURAL VIEW QLD 4740,Vacant land,− 0,− 0,6,"1,138m² ",21 Aug 2020
+"330,000 ","1/47a Holland Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,2,1,115m² ,21 Aug 2020
+"257,500 ","1/289 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,181m² ,20 Aug 2020
+"185,000 ","62 Dawson BVD,",RURAL VIEW QLD 4740,Vacant land,0,0,0,748m² ,18 Aug 2020
+"190,000 ","636 Hay Point Road,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,"20,000m² ",17 Aug 2020
+"159,500 ","Lot 159 Hermosa Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,483m² ,13 Aug 2020
+"175,000 ","11 Outlook Crescent,",MOUNT PLEASANT QLD 4740,Vacant land,0,0,0,821m² ,13 Aug 2020
+"190,000","3/280 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,93m² ,10 Aug 2020
+"290,000 ","29 Audrey Circuit,",RICHMOND QLD 4740,Vacant land,0,0,0,"1,298m² ",07 Aug 2020
+"255,000 ","22 Parkedge Avenue,",RICHMOND QLD 4740,Vacant land,0,0,0,756m² ,30 Jul 2020
+"210,000 ","3/7 Bilgola Place,",BLACKS BEACH QLD 4740,Townhouse,3,2,1,133m² ,27 Jul 2020
+"200,000 ","7 Bristol Court,",MOUNT PLEASANT QLD 4740,Vacant land,0,0,0,646m² ,27 Jul 2020
+"330,000","4 Simpsons Road,",BAKERS CREEK QLD 4740,Vacant land,3,1,4,"6,294m² ",25 Jul 2020
+"165,000","2/4 Bourke Street,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,450m² ,24 Jul 2020
+"170,000 ","33 Balzan Crt,",RURAL VIEW QLD 4740,Vacant land,0,0,0,775m² ,24 Jul 2020
+"233,600 ","2/19 Cannan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,201m² ,24 Jul 2020
+"225,000 ","4/7 Milne Lane,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,189m² ,24 Jul 2020
+"275,000 ","121 Apsley Way,",ANDERGROVE QLD 4740,Vacant land,0,0,0,"2,439m² ",23 Jul 2020
+"505,000 ","49 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"2,522m² ",23 Jul 2020
+"347,000 ","1/4-6 Mulcahy Crescent,",EIMEO QLD 4740,Apartment / Unit / Flat,4,2,2,401m² ,20 Jul 2020
+"160,000 ","31 Bjelke Circuit,",RURAL VIEW QLD 4740,Vacant land,0,0,0,719m² ,15 Jul 2020
+"147,500 ","91 Coleshill Drive,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,"10,521m² ",13 Jul 2020
+"152,000","37 Primavera Boulevard,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,511m² ,13 Jul 2020
+"245,000 ","2/33 Ontario Parade,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,2,117m² ,06 Jul 2020
+"190,000 ","3 Tamlen Court,",ANDERGROVE QLD 4740,Vacant land,0,0,0,936m² ,02 Jul 2020
+"295,000 ","12/8 Admiral Drive,",DOLPHIN HEADS QLD 4740,Townhouse,3,2,2,177m² ,01 Jul 2020
+"222,000 ","2/8 Steen Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,193m² ,30 Jun 2020
+"256,000 ","28 Apollo Drive,",ANDERGROVE QLD 4740,Block of units,4,2,2,700m² ,26 Jun 2020
+"101,000 ","1 Kingfisher Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,"1,090m² ",25 Jun 2020
+"230,000 ","310/1 Wilson Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,94m² ,24 Jun 2020
+"178,000","155 Bjelke Circuit,",RURAL VIEW QLD 4740,Vacant land,0,0,0,840m² ,22 Jun 2020
+"222,000","1/15 Keswick Avenue,",SLADE POINT QLD 4740,Apartment / Unit / Flat,2,1,1,250m² ,19 Jun 2020
+"117,500 ","40 Blue Beach Boulevard,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,801m² ,12 Jun 2020
+"225,000 ","Lot 16 Coleshill Drive,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,"9,307m² ",11 Jun 2020
+"700,000 ","34 Bourke Street,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,"5,936m² ",11 Jun 2020
+"200,000 ","3/379 Shakespeare Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,236m² ,10 Jun 2020
+"271,000 ","2/10 Ribbon Court,",GLENELLA QLD 4740,Apartment / Unit / Flat,3,1,1,222m² ,28 May 2020
+"215,500 ","4/1 Piccolo Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,20 May 2020
+"218,000 ","58 Palomino Parade,",ERAKALA QLD 4740,Vacant land,0,0,0,"7,648m² ",12 May 2020
+"135,000","4 Mowlam Street,",EIMEO QLD 4740,Vacant land,0,0,0,405m² ,07 May 2020
+"300,000 ","31/19 East Point Drive,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,744m² ,05 May 2020
+"415,000 ","8-14 Pacific Esplanade,",SLADE POINT QLD 4740,Vacant land,0,0,0,0,01 May 2020
+"140,000 ","5/9 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,59m² ,24 Apr 2020
+"200,000","3/8 Meero Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,177m² ,22 Apr 2020
+"230,000 ","93 Coleshill Drive,",ALLIGATOR CREEK QLD 4740,Vacant land,0,0,0,0,09 Apr 2020
+"90,000","8 Donovan Street,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,400m² ,06 Apr 2020
+"95,000 ","21/9 Pacific Drive,",BLACKS BEACH QLD 4740,Apartment / Unit / Flat,2,1,1,102m² ,31 Mar 2020
+"228,000 ","1/9 Robin Street,",SLADE POINT QLD 4740,Apartment / Unit / Flat,3,1,1,197m² ,25 Mar 2020
+"295,000 ","6/11 Tramontana Street,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,2,2,348m² ,10 Mar 2020
+"130,000 ","2/19 Thornber Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,98m² ,25 Feb 2020
+"220,000 ","Lot 40 Ian Reddacliff Drive,",THE LEAP QLD 4740,Vacant land,0,0,0,0,18 Feb 2020
+"70,000","17 Gannet Street,",SLADE POINT QLD 4740,Vacant land,0,0,0,672m² ,15 Feb 2020
+"230,000 ","3/3 Baur Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,2,2,203m² ,05 Feb 2020
+"270,000 ","2/25 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,3,2,1,138m² ,31 Jan 2020
+"160,000 ","119 Rasmussen Avenue,",HAY POINT QLD 4740,Vacant land,0,0,0,800m² ,31 Jan 2020
+"160,000 ","47 Green Street,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,804m² ,20 Jan 2020
+"540,000 ","1-4/39 Keswick Avenue,",SLADE POINT QLD 4740,Block of units,8,4,4,708m² ,20 Jan 2020
+"86,000 ","9/28 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,1,1,1,51m² ,16 Jan 2020
+"220,000 ","2/7 Nella Drive,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,235m² ,16 Jan 2020
+"192,000 ","6/4 Graves Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,344m² ,02 Jan 2020
+"255,000 ","3/271 Bridge Road,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,218m² ,02 Jan 2020
+"217,000 ","3/23 Ungerer Street,",NORTH MACKAY QLD 4740,Townhouse,3,1,1,167m² ,30 Dec 2019
+"375,000 ","21 Gold Street,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,"1,071m² ",20 Dec 2019
+"295,000 ","16-18 Mercy Drive,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,819m² ,20 Dec 2019
+"320,000","2/22 Canberra Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,3,2,2,150m² ,14 Dec 2019
+"435,000 ","8/9 Megan Place,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,154m² ,13 Dec 2019
+"255,000 ","1/3 Kennedy Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,162m² ,12 Dec 2019
+"215,000","2/22 Lorraine Court,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,2,1,1,82m² ,02 Dec 2019
+"235,000 ","82 Droughtmaster Drive,",HAY POINT QLD 4740,Vacant land,0,0,0,"20,234m² ",29 Nov 2019
+"195,000","419 Shakespeare Street,",WEST MACKAY QLD 4740,Vacant land,0,0,0,814m² ,28 Nov 2019
+"270,000 ","2/2 Sneyd Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,2,312m² ,18 Nov 2019
+"150,000 ","Lot 10/79 Rasmussen Avenue,",HAY POINT QLD 4740,Vacant land,0,0,0,791m² ,12 Nov 2019
+"345,000 ","19 Gold Street,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,"1,145m² ",11 Nov 2019
+"167,000 ","4/16 Hicks Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,84m² ,11 Nov 2019
+"280,000 ","Unit 1/54 Dawson Boulevard,",RURAL VIEW QLD 4740,Townhouse,3,2,1,350m² ,04 Nov 2019
+"300,000 ","31/19 East Point Drive,",MACKAY HARBOUR QLD 4740,Vacant land,0,0,0,744m² ,30 Oct 2019
+"240,000 ","3/16A Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,1,245m² ,28 Oct 2019
+"70,000","122 Haliday Bay Road,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,800m² ,25 Oct 2019
+"279,000 ","3/217 Evan Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,330m² ,18 Oct 2019
+"280,000 ","Unit 2/54 Dawson Boulevard,",RURAL VIEW QLD 4740,Townhouse,3,2,1,350m² ,12 Oct 2019
+"330,000 ","2/22 Mulherin Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,169m² ,11 Oct 2019
+"185,000","3/17 Stevenson Street,",SOUTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,105m² ,11 Oct 2019
+"87,500 ","3/20-22 Pacific Drive,",BLACKS BEACH QLD 4740,Block of units,2,1,1,"1,200m² ",25 Sep 2019
+"1,210,000 ","400 Caroval Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,0,25 Sep 2019
+"275,000","2/384 Bridge Road,",WEST MACKAY QLD 4740,Townhouse,2,1,1,346m² ,23 Sep 2019
+"200,000 ","67 Corella Way,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,732m² ,17 Sep 2019
+"280,000 ","34-36 Mercy Drive,",NORTH MACKAY QLD 4740,Vacant land,0,0,0,800m² ,16 Sep 2019
+"110,000 ","4/19 Thornber Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,98m² ,16 Sep 2019
+"179,000 ","35 Primavera Boulevard,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,736m² ,06 Sep 2019
+"187,000 ","61 BELLAVISTA CIRCUIT,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,724m² ,05 Sep 2019
+"165,000 ","69 Phoenix Crescent,",RURAL VIEW QLD 4740,Vacant land,0,0,0,799m² ,04 Sep 2019
+"360,000 ","2 Kinnon Street,",GLENELLA QLD 4740,Apartment / Unit / Flat,4,2,4,816m² ,02 Sep 2019
+"250,000 ","23 Azure Drive,",RURAL VIEW QLD 4740,Vacant land,0,0,0,"1,036m² ",02 Sep 2019
+"200,000 ","8/2 Parr Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,161m² ,28 Aug 2019
+"335,000 ","3/20 Makybe Diva Drive,",OORALEA QLD 4740,Townhouse,4,4,2,803m² ,28 Aug 2019
+"239,000 ","2/8 Prudhoe Street,",EAST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,253m² ,23 Aug 2019
+"160,000 ","18 East Gordon Street,",EAST MACKAY QLD 4740,Vacant land,0,0,0,784m² ,22 Aug 2019
+"250,000","1/1 Milne Lane,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,257m² ,21 Aug 2019
+"380,000 ","99 Andergrove Road,",ANDERGROVE QLD 4740,Vacant land,0,0,0,"4,576m² ",14 Aug 2019
+"420,000 ","103 Attards Road,",HABANA QLD 4740,Vacant land,0,0,0,0,06 Aug 2019
+"225,000 ","29 Corella Way,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,455m² ,25 Jul 2019
+"170,000","63 Bellavista Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,726m² ,19 Jul 2019
+"145,000 ","7 Michigan Way,",ANDERGROVE QLD 4740,Vacant land,0,0,0,450m² ,17 Jul 2019
+"180,000 ","7 Blue Beach Boulevard,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,"1,795m² ",16 Jul 2019
+"260,000 ","33 Blue Beach Boulevard,",HALIDAY BAY QLD 4740,Vacant land,0,0,0,962m² ,12 Jul 2019
+"165,000 ","7/1 Cutler Drive,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,2,1,1,77m² ,03 Jul 2019
+"300,000","7/38 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,2,2,1,131m² ,03 Jul 2019
+"340,000 ","6 Rainbow Crescent,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,807m² ,01 Jul 2019
+"285,000 ","22 Logan Crescent,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,064m² ",01 Jul 2019
+"280,000 ","10 Queen Street,",NORTH MACKAY QLD 4740,Block of units,8,4,1,798m² ,25 Jun 2019
+"345,000 ","24 Michigan Way,",ANDERGROVE QLD 4740,Townhouse,4,2,2,236m² ,10 Jun 2019
+"295,000 ","1/19 McGinn Street,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,3,1,1,193m² ,07 Jun 2019
+"345,000","8/38 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,3,2,2,152m² ,03 Jun 2019
+"470,000 ","56 Ocean Avenue,",SLADE POINT QLD 4740,Vacant land,0,0,0,703m² ,03 Jun 2019
+"295,000 ","247 Bedford Road,",ANDERGROVE QLD 4740,Vacant land,0,0,0,"1,932m² ",27 May 2019
+"225,000 ","2/40 Beaconsfield Road,",BEACONSFIELD QLD 4740,Apartment / Unit / Flat,3,1,1,257m² ,27 May 2019
+"110,000","12 Henley Close,",BLACKS BEACH QLD 4740,Vacant land,0,0,0,420m² ,23 May 2019
+"280,000 ","6/6 Whistlers Way,",MOUNT PLEASANT QLD 4740,Townhouse,2,1,2,185m² ,09 May 2019
+"134,000","3/2 Baur Street,",NORTH MACKAY QLD 4740,Apartment / Unit / Flat,2,1,1,100m² ,07 May 2019
+"99,000 ","44 Shuttlewood Drive,",RICHMOND QLD 4740,Vacant land,0,0,0,"2,043m² ",07 May 2019
+"161,000 ","2/21 Kate Street,",EAST MACKAY QLD 4740,Townhouse,2,1,1,162m² ,29 Apr 2019
+"185,000 ","53 Bellavista Circuit,",BEACONSFIELD QLD 4740,Vacant land,0,0,0,749m² ,18 Apr 2019
+"200,000 ","9 Regent Avenue,",RICHMOND QLD 4740,Vacant land,0,0,0,805m² ,08 Apr 2019
+"220,000","1/205 Bedford Road,",ANDERGROVE QLD 4740,Apartment / Unit / Flat,3,1,2,405m² ,05 Apr 2019
+"185,000 ","6 Cedar Court,",EIMEO QLD 4740,Vacant land,0,0,0,807m² ,11 Mar 2019
+"260,000 ","21 Dexter Court,",MOUNT PLEASANT QLD 4740,Vacant land,0,0,0,"1,037m² ",11 Mar 2019
+"155,000 ","81 Cinnamon Drive,",GLENELLA QLD 4740,Vacant land,0,0,0,"1,156m² ",21 Feb 2019
+"255,000 ","1 Kiber Place,",OORALEA QLD 4740,Vacant land,0,0,0,900m² ,20 Feb 2019
+"345,000","Units 4/38 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,3,2,2,152m² ,19 Feb 2019
+"660,000 ","431 Grasstree Beach Road,",GRASSTREE BEACH QLD 4740,Vacant land,0,0,0,0,15 Feb 2019
+"150,000","55 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,112m² ",06 Feb 2019
+"320,000","6/38 Beach Road,",DOLPHIN HEADS QLD 4740,Apartment / Unit / Flat,2,2,1,131m² ,31 Jan 2019
+"500,000 ","4/9 East Point Drive,",MACKAY HARBOUR QLD 4740,Apartment / Unit / Flat,3,2,2,227m² ,29 Jan 2019
+"315,000 ","61 SIVYERS ROAD,",HABANA QLD 4740,Vacant land,0,0,0,0,16 Jan 2019
+"385,000 ","6/65 Pioneer Street,",GLENELLA QLD 4740,Apartment / Unit / Flat,3,2,2,318m² ,21 Dec 2018
+"206,000 ","421 Mackay Habana Road,",NINDAROO QLD 4740,Vacant land,0,0,0,"8,617m² ",14 Dec 2018
+"225,000","5/309 Bridge Road,,",WEST MACKAY QLD 4740,Apartment / Unit / Flat,2,1,2,97m² ,13 Dec 2018
+"210,000 ","54 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,125m² ",2018
+"250,000 ","52 Jardine Drive,",ERAKALA QLD 4740,Vacant land,0,0,0,"2,151m² ",2018
+"245,000 ","22 Reef Parade,",EAST MACKAY QLD 4740,Vacant land,0,0,0,700m² ,03 Dec 2018

@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,150,000 ","118 Frank Street,",BALLARAT CENTRAL VIC 3350,House,3,2,2,613m² ,26 Apr 2024
+"559,000 ","3 Doherty Close,",MOUNT CLEAR VIC 3350,House,3,2,2,535m² ,26 Apr 2024
+"720,000 ","3 Bismark Court,",BROWN HILL VIC 3350,House,4,2,2,901m² ,24 Apr 2024
+"450,000 ","25 Little Clyde Street,",SOLDIERS HILL VIC 3350,House,3,1,1,337m² ,24 Apr 2024
+"460,000 ","707 Neill Street,",SOLDIERS HILL VIC 3350,House,2,1,1,296m² ,24 Apr 2024
+"690,000 ","7 Insignia Boulevard,",ALFREDTON VIC 3350,House,3,2,5,561m² ,23 Apr 2024
+"740,000 ","20 Mary Drive,",ALFREDTON VIC 3350,House,4,2,4,632m² ,23 Apr 2024
+"485,000 ","607 Sebastopol Street,",REDAN VIC 3350,House,3,1,−,544m² ,23 Apr 2024
+"405,000 ","11 Wicklow Drive,",INVERMAY PARK VIC 3350,House,3,1,−,908m² ,22 Apr 2024
+"600,000 ","9 Topaz Street,",ALFREDTON VIC 3350,House,4,2,2,501m² ,20 Apr 2024
+"290,000 ","513 York Street,",BALLARAT EAST VIC 3350,House,2,1,1,545m² ,20 Apr 2024
+"750,000 ","87 Wexford Street,",ALFREDTON VIC 3350,House,4,2,2,635m² ,19 Apr 2024
+"490,000 ","7 Castle Court,",BALLARAT EAST VIC 3350,House,3,1,2,"1,160m² ",19 Apr 2024
+"585,200 ","904a Ligar Street,",BALLARAT NORTH VIC 3350,House,3,1,1,"1,432m² ",19 Apr 2024
+"440,000 ","1104 Winter Street,",BUNINYONG VIC 3357,House,2,1,2,931m² ,19 Apr 2024
+"820,000 ","14A Lofven Street,",NERRINA VIC 3350,House,4,2,2,452m² ,19 Apr 2024
+"555,000 ","7 Brighton Court,",WENDOUREE VIC 3355,House,2,2,1,284m² ,19 Apr 2024
+"690,000 ","128 Moola Street,",BALLARAT NORTH VIC 3350,House,3,2,5,947m² ,18 Apr 2024
+"425,000 ","10/33 Tremain Drive,",LUCAS VIC 3350,House,2,2,1,192m² ,18 Apr 2024
+"526,000 ","6 Ewart Close,",LUCAS VIC 3350,House,3,2,2,317m² ,18 Apr 2024
+"580,000 ","20 Martland Street,",LUCAS VIC 3350,House,4,2,2,512m² ,18 Apr 2024
+"305,000 ","42 Victoria Street,",SEBASTOPOL VIC 3356,House,2,1,2,786m² ,17 Apr 2024
+"630,000 ","390 Greenhalghs Road,",WINTER VALLEY VIC 3358,House,4,2,2,630m² ,17 Apr 2024
+"650,000 ","46 Signature Drive,",ALFREDTON VIC 3350,House,3,2,2,352m² ,16 Apr 2024
+"510,000 ","12 Elmstone Lane,",LAKE GARDENS VIC 3355,House,3,2,3,351m² ,16 Apr 2024
+"439,000 ","3532 Sunraysia Highway,",LEXTON VIC 3352,House,3,1,6,"4,048m² ",16 Apr 2024
+"560,000 ","17 Dundas Street,",MINERS REST VIC 3352,House,5,2,2,"1,016m² ",16 Apr 2024
+"440,000 ","21 Lawrence Street,",SEBASTOPOL VIC 3356,House,3,1,2,724m² ,16 Apr 2024
+"445,000 ","48 Baudinette Drive,",SEBASTOPOL VIC 3356,House,3,2,2,316m² ,16 Apr 2024
+"500,000 ","193 Tait Street,",SEBASTOPOL VIC 3356,House,4,2,2,540m² ,16 Apr 2024
+"470,000 ","420 Ligar Street,",SOLDIERS HILL VIC 3350,House,3,1,1,801m² ,16 Apr 2024
+"185,000 ","1203 Grevillea Road,",WENDOUREE VIC 3355,House,2,1,−,370m² ,16 Apr 2024
+"630,000 ","21 Avoca Crescent,",ALFREDTON VIC 3350,House,4,3,2,830m² ,15 Apr 2024
+"1,200,000 ","701 South Street,",BALLARAT CENTRAL VIC 3350,House,3,2,3,690m² ,15 Apr 2024
+"575,000 ","11 Neway Avenue,",DELACOMBE VIC 3356,House,4,2,2,505m² ,15 Apr 2024
+"480,000 ","45 Fraser Street,",MOUNT PLEASANT VIC 3350,House,4,2,2,360m² ,15 Apr 2024
+"535,000 ","51 Nine Mile Road,",NAPOLEONS VIC 3352,House,3,1,3,"5,900m² ",15 Apr 2024
+"250,000 ","151 Albert Street,",SEBASTOPOL VIC 3356,House,3,1,1,417m² ,15 Apr 2024
+"415,000 ","4/216 Forest Street,",WENDOUREE VIC 3355,House,2,1,1,262m² ,14 Apr 2024
+"445,000 ","611 Norman Street,",BALLARAT NORTH VIC 3350,House,2,1,1,298m² ,12 Apr 2024
+"430,000 ","19 Madden Road,",CARDIGAN VILLAGE VIC 3352,House,3,1,3,783m² ,12 Apr 2024
+"825,000 ","12 Yarra Gum Place,",MOUNT CLEAR VIC 3350,House,4,2,2,839m² ,12 Apr 2024
+"845,000 ","12 Zoe Drive,",MOUNT HELEN VIC 3350,House,5,2,4,"1,117m² ",12 Apr 2024
+"555,000 ","21 Daly Drive,",LUCAS VIC 3350,House,3,2,2,353m² ,11 Apr 2024
+"550,000 ","5 Kimberley Drive,",WAUBRA VIC 3352,House,4,2,4,0,11 Apr 2024
+"695,000 ","23 Merino Drive,",ALFREDTON VIC 3350,House,3,2,2,723m² ,10 Apr 2024
+"840,000 ","7 Regal Drive,",ALFREDTON VIC 3350,House,4,2,3,420m² ,10 Apr 2024
+"500,000 ","15 Lawrence Street,",ALFREDTON VIC 3350,House,4,1,2,607m² ,10 Apr 2024
+"505,000 ","2/5 Penfold Close,",CANADIAN VIC 3350,House,3,2,2,282m² ,10 Apr 2024
+"535,000 ","6 Darcy Drive,",MINERS REST VIC 3352,House,3,2,2,637m² ,10 Apr 2024
+"1,600,000 ","9 Yarra Gum Place,",MOUNT CLEAR VIC 3350,House,5,3,7,"7,785m² ",10 Apr 2024
+"497,500 ","20 Reserve Road East,",MOUNT EGERTON VIC 3352,House,2,1,−,"6,034m² ",10 Apr 2024
+"480,000 ","269 Vickers Street,",SEBASTOPOL VIC 3356,House,3,1,4,685m² ,10 Apr 2024
+"365,000 ","433 Forest Street,",WENDOUREE VIC 3355,House,3,1,1,596m² ,10 Apr 2024
+"410,000 ","22 Essex Street,",WENDOUREE VIC 3355,House,3,1,1,675m² ,10 Apr 2024
+"425,000 ","609 Inglis Street,",BUNINYONG VIC 3357,House,3,1,1,633m² ,09 Apr 2024
+"700,000 ","10 Dumenils Way,",DELACOMBE VIC 3356,House,4,2,2,679m² ,09 Apr 2024
+"575,000 ","1/114 Burnbank Street,",LAKE WENDOUREE VIC 3350,House,2,1,1,221m² ,09 Apr 2024
+"402,000 ","11 Heales Street,",MOUNT PLEASANT VIC 3350,House,3,1,1,827m² ,09 Apr 2024
+"405,000 ","603 Drummond Street South,",REDAN VIC 3350,House,3,1,2,508m² ,09 Apr 2024
+"580,000 ","13 Pontiac Drive,",SMYTHES CREEK VIC 3351,House,4,2,2,512m² ,09 Apr 2024
+"600,000 ","143B Humffray Street North,",BALLARAT EAST VIC 3350,House,4,2,2,375m² ,08 Apr 2024
+"725,000 ","24 Pernonie Street,",LUCAS VIC 3350,House,4,2,2,512m² ,08 Apr 2024
+"521,000 ","20 Brind Way,",LUCAS VIC 3350,House,3,2,2,330m² ,08 Apr 2024
+"570,000 ","15 Mahers Road,",WARRENHEIP VIC 3352,House,4,2,3,"1,125m² ",08 Apr 2024
+"570,000 ","436 Greenhalghs Road,",WINTER VALLEY VIC 3358,House,3,2,2,614m² ,08 Apr 2024
+"630,000 ","6 Almurta Street,",ALFREDTON VIC 3350,House,3,2,1,949m² ,07 Apr 2024
+"750,000 ","11 Forest Street,",BUNINYONG VIC 3357,House,3,2,4,"2,030m² ",06 Apr 2024
+"555,000 ","2 Munro Street,",ALFREDTON VIC 3350,House,3,1,2,704m² ,05 Apr 2024
+"439,000 ","3532 Sunraysia Highway,",LEXTON VIC 3352,House,3,1,6,"4,048m² ",05 Apr 2024
+"595,000 ","133 Mansfield Avenue,",MOUNT CLEAR VIC 3350,House,4,2,4,919m² ,05 Apr 2024
+"430,000 ","201 Boak Avenue,",MOUNT HELEN VIC 3350,House,3,1,2,891m² ,05 Apr 2024
+"890,000 ","99 Cuthberts Road,",ALFREDTON VIC 3350,House,5,2,2,945m² ,04 Apr 2024
+"515,000 ","16 Havelock Street,",BLACK HILL VIC 3350,House,3,2,2,591m² ,04 Apr 2024
+"510,000 ","23 Shaw Avenue,",WENDOUREE VIC 3355,House,3,2,2,691m² ,04 Apr 2024
+"530,000 ","6 Snowbird Road,",WINTER VALLEY VIC 3358,House,4,2,2,507m² ,04 Apr 2024
+"550,000 ","6 Otway Street North,",BALLARAT EAST VIC 3350,House,3,1,1,409m² ,03 Apr 2024
+"755,000 ","4 Blackhorse Lane,",MOUNT EGERTON VIC 3352,House,3,1,2,"2,570m² ",03 Apr 2024
+"640,000 ","211 Shire Avenue,",MOUNT HELEN VIC 3350,House,3,1,3,"1,053m² ",03 Apr 2024
+"510,000 ","2 Alma Street,",SEBASTOPOL VIC 3356,House,4,2,2,477m² ,03 Apr 2024
+"1,370,000 ","36 Kennedys Road,",SMYTHES CREEK VIC 3351,House,4,2,5,0,03 Apr 2024
+"505,000 ","20 Lock Street,",SMYTHESDALE VIC 3351,House,2,1,2,"1,018m² ",03 Apr 2024
+"440,000 ","816 Doveton Street,",SOLDIERS HILL VIC 3350,House,2,1,2,477m² ,03 Apr 2024
+"895,000 ","87 Grainger Parade,",LUCAS VIC 3350,House,4,2,2,640m² ,30 Mar 2024
+"440,000 ","16 Hickman Street,",BALLARAT CENTRAL VIC 3350,House,3,1,4,963m² ,28 Mar 2024
+"810,000 ","108 South Street,",BALLARAT CENTRAL VIC 3350,House,4,2,1,531m² ,28 Mar 2024
+"545,000 ","26 Marrubak Way,",BONSHAW VIC 3352,House,4,2,2,511m² ,28 Mar 2024
+"1,950,000 ","16 Alfred Street North,",LAKE WENDOUREE VIC 3350,House,4,3,2,671m² ,28 Mar 2024
+"620,000 ","54 Crowther Drive,",LUCAS VIC 3350,House,4,2,2,448m² ,28 Mar 2024
+"765,000 ","11 Keating Court,",MINERS REST VIC 3352,House,4,2,2,943m² ,28 Mar 2024
+"440,000 ","411 Cooke Street,",REDAN VIC 3350,House,2,2,2,467m² ,28 Mar 2024
+"383,000 ","205 Walker Street,",SEBASTOPOL VIC 3356,House,3,1,1,388m² ,28 Mar 2024
+"510,000 ","104 Howard Street,",SOLDIERS HILL VIC 3350,House,3,1,4,704m² ,28 Mar 2024
+"425,000 ","15 Pevensey Street,",WENDOUREE VIC 3355,House,3,1,2,720m² ,28 Mar 2024
+"422,500 ","21 Prefect Street,",WENDOUREE VIC 3355,House,3,1,1,619m² ,28 Mar 2024
+"1,280,000 ","1734 Sturt Street,",ALFREDTON VIC 3350,House,4,2,2,543m² ,27 Mar 2024
+"675,000 ","3 Regal Drive,",ALFREDTON VIC 3350,House,4,2,2,311m² ,27 Mar 2024
+"775,000 ","320 Raglan Street South,",BALLARAT CENTRAL VIC 3350,House,3,1,2,491m² ,27 Mar 2024
+"420,000 ","5 Gent Street,",BALLARAT EAST VIC 3350,House,2,1,1,323m² ,27 Mar 2024
+"820,000 ","110 Norman Street,",BALLARAT NORTH VIC 3350,House,4,3,3,"1,115m² ",27 Mar 2024
+"420,000 ","1 Sainsbury Court,",MOUNT CLEAR VIC 3350,House,3,2,2,702m² ,27 Mar 2024
+"470,000 ","420 Ligar Street,",SOLDIERS HILL VIC 3350,House,3,1,1,801m² ,27 Mar 2024
+"480,000 ","29 Browns Parade,",WENDOUREE VIC 3355,House,3,1,2,615m² ,27 Mar 2024
+"760,000 ","1317 Gregory Street,",LAKE WENDOUREE VIC 3350,House,4,1,1,669m² ,26 Mar 2024
+"760,000 ","2 The Horizon,",MOUNT HELEN VIC 3350,House,3,2,2,948m² ,26 Mar 2024
+"500,000 ","11 Queen Victoria Street,",NEWINGTON VIC 3350,House,2,1,2,520m² ,26 Mar 2024
+"4,100,000 ","1/364 Forest Street,",WENDOUREE VIC 3355,House,3,1,2,301m² ,26 Mar 2024
+"415,000 ","7 Prince Street,",CRESWICK VIC 3363,House,2,1,2,693m² ,25 Mar 2024
+"770,000 ","15 Falkirk Road,",NERRINA VIC 3350,House,3,2,2,576m² ,25 Mar 2024
+"664,000 ","44 Salisbury Avenue,",NEWINGTON VIC 3350,House,3,1,1,878m² ,25 Mar 2024
+"420,000 ","351 Forest Street,",WENDOUREE VIC 3355,House,3,1,3,554m² ,25 Mar 2024
+"516,000 ","32 Langstaffe Drive,",WENDOUREE VIC 3355,House,3,2,2,615m² ,25 Mar 2024
+"680,000 ","4 Canopy Avenue,",ALFREDTON VIC 3350,House,4,2,3,608m² ,22 Mar 2024
+"810,000 ","10 Mikaela Court,",BALLARAT NORTH VIC 3350,House,4,2,2,578m² ,22 Mar 2024
+"530,000 ","15 Newmarket Terrace,",MINERS REST VIC 3352,House,4,2,2,480m² ,22 Mar 2024
+"310,000 ","120 Beverin Street,",SEBASTOPOL VIC 3356,House,3,1,2,657m² ,22 Mar 2024
+"570,000 ","5 Owen Court,",SEBASTOPOL VIC 3356,House,4,2,4,"1,140m² ",22 Mar 2024
+"330,000 ","1224 Grevillea Road,",WENDOUREE VIC 3355,House,3,1,2,661m² ,22 Mar 2024
+"555,000 ","33 Elaine Avenue,",ALFREDTON VIC 3350,House,3,2,2,810m² ,21 Mar 2024
+"670,000 ","31 Lawrie Drive,",ALFREDTON VIC 3350,House,4,2,2,759m² ,21 Mar 2024
+"410,000 ","67D Dyson Drive,",ALFREDTON VIC 3350,House,3,2,2,212m² ,21 Mar 2024
+"509,000 ","506 Sherrard Street,",BLACK HILL VIC 3350,House,3,1,1,343m² ,21 Mar 2024
+"510,000 ","18 Gregory Street,",BLACK HILL VIC 3350,House,2,1,1,589m² ,21 Mar 2024
+"440,000 ","297 Duggan Street,",BROWN HILL VIC 3350,House,3,1,1,725m² ,21 Mar 2024
+"1,000,000","314 Fussell Street,",BALLARAT EAST VIC 3350,House,3,2,3,"7,299m² ",20 Mar 2024
+"519,250 ","416 Landsborough Street,",BALLARAT NORTH VIC 3350,House,4,2,4,745m² ,20 Mar 2024
+"371,000 ","1006 Ligar Street,",BALLARAT NORTH VIC 3350,House,3,1,2,774m² ,20 Mar 2024
+"550,000 ","582 Kline Street,",CANADIAN VIC 3350,House,3,2,2,783m² ,20 Mar 2024
+"378,000 ","101 Grant Street,",GOLDEN POINT VIC 3350,House,3,1,2,367m² ,20 Mar 2024
+"285,000 ","5 Thomson Street,",LEXTON VIC 3352,House,1,1,−,"8,093m² ",20 Mar 2024
+"465,000 ","1/29 King George Way,",MITCHELL PARK VIC 3355,House,3,2,2,427m² ,20 Mar 2024
+"485,000 ","6 Parkgate Lane,",SEBASTOPOL VIC 3356,House,3,2,2,424m² ,20 Mar 2024
+"680,000 ","199 Humffray Street North,",BALLARAT EAST VIC 3350,House,4,2,2,651m² ,19 Mar 2024
+"529,000 ","115 Melbourne Road,",BROWN HILL VIC 3350,House,3,2,2,469m² ,19 Mar 2024
+"1,250,000 ","1 Delaland Avenue,",BUNINYONG VIC 3357,House,4,2,5,840m² ,19 Mar 2024
+"425,000 ","614 Richards Street,",CANADIAN VIC 3350,House,2,1,3,665m² ,19 Mar 2024
+"700,000 ","10 Gribble Street,",LUCAS VIC 3350,House,4,2,2,512m² ,19 Mar 2024
+"500,000 ","3 Moira Court,",SEBASTOPOL VIC 3356,House,3,1,4,789m² ,19 Mar 2024
+"545,000 ","98 Verdale Drive,",ALFREDTON VIC 3350,House,4,2,2,416m² ,18 Mar 2024
+"425,000","216 Kline Street,",BALLARAT EAST VIC 3350,House,3,1,3,607m² ,18 Mar 2024
+"965,000 ","208 Nolan Street,",BUNINYONG VIC 3357,House,4,2,2,898m² ,18 Mar 2024
+"525,000 ","269 Imries Lane,",ILLABAROOK VIC 3351,House,4,1,2,0,18 Mar 2024
+"502,500 ","6 Coffield Street,",BALLARAT EAST VIC 3350,House,3,1,3,625m² ,17 Mar 2024
+"453,500 ","29 Melbourne Road,",CRESWICK VIC 3363,House,2,1,1,445m² ,17 Mar 2024
+"625,000 ","13 Sugarloaf Road,",WINTER VALLEY VIC 3358,House,4,2,2,608m² ,2024
+"920,000 ","707 Cathcart Street,",BUNINYONG VIC 3357,House,5,3,2,810m² ,15 Mar 2024
+"665,000 ","9 Pennyweight Place,",CANADIAN VIC 3350,House,4,2,2,770m² ,15 Mar 2024
+"540,000 ","47 Browns Parade,",WENDOUREE VIC 3355,House,3,1,3,603m² ,15 Mar 2024
+"475,000 ","11 Ebden Street,",BALLARAT EAST VIC 3350,House,3,1,1,437m² ,14 Mar 2024
+"370,000 ","232 Peel Street North,",BALLARAT EAST VIC 3350,House,2,1,1,235m² ,14 Mar 2024
+"660,000 ","515 Finch Street,",BALLARAT EAST VIC 3350,House,4,2,2,409m² ,14 Mar 2024
+"1,000,000 ","60 Stringybark Drive,",BROWN HILL VIC 3350,House,5,2,5,"4,000m² ",14 Mar 2024
+"440,000 ","106 Nolan Street,",BUNINYONG VIC 3357,House,3,1,2,"1,023m² ",14 Mar 2024
+"450,000 ","8 Stanbury Avenue,",CANADIAN VIC 3350,House,4,2,2,379m² ,14 Mar 2024
+"535,000 ","4 Jade Close,",DELACOMBE VIC 3356,House,3,2,4,765m² ,14 Mar 2024
+"475,000 ","1001 Gregory Street,",LAKE WENDOUREE VIC 3350,House,3,2,2,284m² ,14 Mar 2024
+"740,000 ","2 Nevett Crescent,",MOUNT HELEN VIC 3350,House,4,2,2,"1,028m² ",14 Mar 2024
+"540,000 ","154 Edwards Street,",SEBASTOPOL VIC 3356,House,4,2,2,617m² ,14 Mar 2024
+"717,000 ","109 Post Office Road,",SMYTHES CREEK VIC 3351,House,3,1,2,0,14 Mar 2024
+"575,000 ","26 Honour Avenue,",WINTER VALLEY VIC 3358,House,4,2,2,543m² ,14 Mar 2024
+"880,000 ","127 Gracefield Road,",BROWN HILL VIC 3350,House,4,2,2,"2,300m² ",13 Mar 2024
+"495,000 ","108 Lylia Avenue,",MOUNT CLEAR VIC 3350,House,3,1,2,767m² ,13 Mar 2024
+"850,000 ","212 Eddy Avenue,",MOUNT HELEN VIC 3350,House,4,2,4,"1,309m² ",13 Mar 2024
+"475,000 ","7 Duke Street,",NEWINGTON VIC 3350,House,3,2,1,458m² ,13 Mar 2024
+"690,000 ","1039 Glenelg Highway,",SMYTHES CREEK VIC 3351,House,4,2,6,0,13 Mar 2024
+"920,000 ","21 Ripon Street North,",BALLARAT CENTRAL VIC 3350,House,3,1,1,728m² ,12 Mar 2024
+"515,000 ","14 Auburn Drive,",SMYTHES CREEK VIC 3351,House,4,2,2,591m² ,12 Mar 2024
+"553,000 ","517B Lydiard Street,",SOLDIERS HILL VIC 3350,House,2,1,2,511m² ,12 Mar 2024
+"520,000 ","23 Brinkley Avenue,",WENDOUREE VIC 3355,House,4,2,2,679m² ,12 Mar 2024
+"541,000 ","18 Maloney Street,",LUCAS VIC 3350,House,3,2,2,370m² ,11 Mar 2024
+"650,000 ","210 Smythes Road,",DELACOMBE VIC 3356,House,3,1,4,"1,463m² ",09 Mar 2024
+"785,000 ","25 Oneil Street,",LEARMONTH VIC 3352,House,4,2,2,"1,383m² ",09 Mar 2024
+"849,500 ","24 Belltower Avenue,",ALFREDTON VIC 3350,House,4,2,4,985m² ,08 Mar 2024
+"550,000 ","143 Creswick Road,",BALLARAT CENTRAL VIC 3350,House,3,1,1,446m² ,08 Mar 2024
+"668,000","3 Whitefield Street,",BLACK HILL VIC 3350,House,3,1,2,798m² ,08 Mar 2024
+"1,009,200 ","870 Smarts Hill Road,",BO PEEP VIC 3351,House,3,1,1,0,8 Mar 2024
+"750,000 ","120 Hillview Road,",BROWN HILL VIC 3350,House,4,1,4,"2,284m² ",08 Mar 2024
+"650,000 ","1013-1015 Cornish Street,",BUNINYONG VIC 3357,House,4,2,2,"1,471m² ",08 Mar 2024
+"1,320,000 ","360 Wilsons Road,",HADDON VIC 3351,House,4,2,7,0,8 Mar 2024
+"505,000 ","14 Crowther Drive,",LUCAS VIC 3350,House,4,2,2,400m² ,08 Mar 2024
+"1,370,000 ","13 Greenhaven Court,",MOUNT CLEAR VIC 3350,House,4,2,4,"2,570m² ",08 Mar 2024
+"1,520,000 ","12 Waddell Road,",SMYTHES CREEK VIC 3351,House,5,2,4,0,08 Mar 2024
+"470,000 ","3 Yale Street,",WENDOUREE VIC 3355,House,3,1,2,683m² ,08 Mar 2024
+"538,000 ","25 Telluride Drive,",WINTER VALLEY VIC 3358,House,4,2,2,648m² ,08 Mar 2024
+"808,000 ","324 Fussell Street,",BALLARAT EAST VIC 3350,House,4,2,2,"1,273m² ",07 Mar 2024
+"1,450,000 ","2 Brawn Avenue,",LAKE WENDOUREE VIC 3350,House,4,3,2,645m² ,07 Mar 2024
+"615,000 ","238 Pitfield-Scarsdale Road,",NEWTOWN VIC 3351,House,3,2,2,"6,070m² ",07 Mar 2024
+"650,000 ","18 Canterbury Street,",BROWN HILL VIC 3350,House,3,1,4,"1,863m² ",06 Mar 2024
+"865,000 ","17 Illana Street,",BROWN HILL VIC 3350,House,4,2,2,751m² ,06 Mar 2024
+"540,000 ","24 Scanlon Street,",LUCAS VIC 3350,House,3,2,2,369m² ,06 Mar 2024
+"905,000 ","214 Moss Avenue,",MOUNT HELEN VIC 3350,House,4,2,3,0,06 Mar 2024
+"540,000 ","19 Hinkler Avenue,",SEBASTOPOL VIC 3356,House,4,2,4,977m² ,06 Mar 2024
+"675,000 ","520 Neill Street,",SOLDIERS HILL VIC 3350,House,3,1,2,469m² ,06 Mar 2024
+"380,000 ","308 Forest Street,",WENDOUREE VIC 3355,House,2,1,1,312m² ,06 Mar 2024
+"515,000 ","58 Harold Street,",WENDOUREE VIC 3355,House,4,2,1,642m² ,06 Mar 2024
+"547,500 ","230 Victoria Street,",BALLARAT EAST VIC 3350,House,3,1,2,774m² ,05 Mar 2024
+"510,000 ","425 Sherrard Street,",BLACK HILL VIC 3350,House,3,2,2,227m² ,05 Mar 2024
+"437,000 ","5 Eddy Street,",GOLDEN POINT VIC 3350,House,3,1,1,410m² ,05 Mar 2024
+"345,000 ","907 Pleasant Street,",REDAN VIC 3350,House,3,1,2,714m² ,05 Mar 2024
+"790,000 ","43 Elaine Avenue,",ALFREDTON VIC 3350,House,4,2,2,851m² ,04 Mar 2024
+"420,000 ","28 Longley Street,",ALFREDTON VIC 3350,House,3,1,3,757m² ,04 Mar 2024
+"1,155,000 ","82 Launchley Drive,",CARDIGAN VIC 3352,House,5,2,8,"3,966m² ",04 Mar 2024
+"610,000 ","9 Smith Street,",NEWINGTON VIC 3350,House,3,1,2,526m² ,04 Mar 2024
+"430,000 ","245 Kossuth Street,",SEBASTOPOL VIC 3356,House,3,2,2,368m² ,04 Mar 2024
+"670,000 ","47 Willoby Drive,",ALFREDTON VIC 3350,House,4,2,2,460m² ,02 Mar 2024
+"405,000 ","1018 Lydiard Street,",BALLARAT NORTH VIC 3350,House,2,1,2,625m² ,01 Mar 2024
+"405,000 ","1018 Lydiard Street,",BALLARAT NORTH VIC 3350,House,2,1,2,625m² ,01 Mar 2024
+"1,300,000 ","4 Gainer Lane,",BUNINYONG VIC 3357,House,5,3,−,"46,800m² ",01 Mar 2024
+"525,000 ","17 Ascot Gardens Drive,",DELACOMBE VIC 3356,House,3,2,2,540m² ,01 Mar 2024
+"490,000 ","28 Eureka Gardens,",EUREKA VIC 3350,House,3,2,2,269m² ,01 Mar 2024
+"508,000 ","130 Blackberry Lane,",HADDON VIC 3351,House,4,2,4,0,01 Mar 2024
+"430,000 ","13 Yarra Park Drive,",SEBASTOPOL VIC 3356,House,3,2,1,300m² ,01 Mar 2024
+"625,000 ","65 Warrenheip Road,",WARRENHEIP VIC 3352,House,3,1,2,"2,000m² ",01 Mar 2024
+"315,000 ","12 Wattle Avenue,",WENDOUREE VIC 3355,House,3,1,1,604m² ,29 Feb 2024
+"370,000 ","210 Learmonth Road,",WENDOUREE VIC 3355,House,2,1,2,301m² ,29 Feb 2024
+"300,000 ","17 Wattle Avenue,",WENDOUREE VIC 3355,House,3,1,2,676m² ,29 Feb 2024
+"480,000 ","222 Raglan Street South,",BALLARAT CENTRAL VIC 3350,House,4,1,1,562m² ,28 Feb 2024
+"352,000 ","205 Johns Street,",BALLARAT EAST VIC 3350,House,3,1,1,276m² ,28 Feb 2024
+"940,000 ","33 Heights Crescent,",BALLARAT NORTH VIC 3350,House,5,2,2,956m² ,28 Feb 2024
+"780,000 ","2 Banyule Drive,",DELACOMBE VIC 3356,House,4,2,8,"2,057m² ",28 Feb 2024
+"675,000 ","723 Laurie Street,",MOUNT PLEASANT VIC 3350,House,4,1,1,829m² ,28 Feb 2024
+"499,000 ","106 Crown Street,",SEBASTOPOL VIC 3356,House,4,2,1,414m² ,28 Feb 2024
+"425,000 ","17 Alexandra Street,",SEBASTOPOL VIC 3356,House,3,1,1,642m² ,28 Feb 2024
+"610,000 ","27 Vale Street,",ALFREDTON VIC 3350,House,3,1,2,800m² ,27 Feb 2024
+"1,035,000 ","95 Wexford Street,",ALFREDTON VIC 3350,House,5,2,5,702m² ,27 Feb 2024
+"550,000 ","6 Parkland Drive,",WINTER VALLEY VIC 3358,House,3,2,2,512m² ,27 Feb 2024
+"627,500 ","11 Eleanor Drive,",LUCAS VIC 3350,House,4,2,2,512m² ,26 Feb 2024
+"590,000 ","33 Waller Avenue,",NEWINGTON VIC 3350,House,3,1,3,668m² ,26 Feb 2024
+"630,000 ","24 Little Clyde Street,",SOLDIERS HILL VIC 3350,House,3,2,3,597m² ,26 Feb 2024
+"510,000 ","28 Jumps Street,",WINTER VALLEY VIC 3358,House,4,2,2,513m² ,26 Feb 2024
+"650,000 ","406 Talbot Street,",BALLARAT CENTRAL VIC 3350,House,4,1,1,"1,036m² ",2024
+"370,000 ","21 Fawkner Street,",BALLARAT CENTRAL VIC 3350,House,3,1,2,359m² ,24 Feb 2024
+"1,750,000 ","124A Wendouree Parade,",LAKE WENDOUREE VIC 3350,House,4,2,2,509m² ,2024
+"380,500 ","232 Walker Street,",SEBASTOPOL VIC 3356,House,3,2,1,300m² ,24 Feb 2024
+"395,000 ","62 Dyte Parade,",BALLARAT EAST VIC 3350,House,3,1,2,583m² ,23 Feb 2024
+"480,000 ","326 Landsborough Street,",BALLARAT NORTH VIC 3350,House,2,1,1,602m² ,23 Feb 2024
+"940,000 ","82 Salvo Bend Road,",BERRINGA VIC 3351,House,5,2,10,0,23 Feb 2024
+"901,000 ","223 Daylesford Road,",BROWN HILL VIC 3350,House,4,2,2,"4,024m² ",23 Feb 2024
+"755,000 ","14 Fairway Court,",INVERMAY PARK VIC 3350,House,4,2,2,"1,017m² ",23 Feb 2024
+"450,000 ","7 Regency Drive,",MOUNT CLEAR VIC 3350,House,3,1,1,656m² ,23 Feb 2024
+"405,000 ","20 Hermitage Avenue,",MOUNT CLEAR VIC 3350,House,3,1,3,779m² ,23 Feb 2024
+"605,000 ","4 Brookside Drive,",MOUNT CLEAR VIC 3350,House,4,2,2,836m² ,23 Feb 2024
+"500,000 ","74 Sharrocks Road,",MOUNT EGERTON VIC 3352,House,1,1,4,0,23 Feb 2024
+"462,500 ","70 Victoria Street,",SEBASTOPOL VIC 3356,House,3,1,2,"1,024m² ",23 Feb 2024
+"448,000 ","23 Presentation Boulevard,",WINTER VALLEY VIC 3358,House,3,2,2,286m² ,23 Feb 2024
+"599,900 ","78 Erskine Road,",WINTER VALLEY VIC 3358,House,4,2,2,448m² ,23 Feb 2024
+"678,000 ","16 Mullingar Drive,",ALFREDTON VIC 3350,House,4,2,2,571m² ,22 Feb 2024
+"545,000 ","614 Peel Street North,",BLACK HILL VIC 3350,House,3,1,2,440m² ,22 Feb 2024
+"680,000 ","15 Scanlon Street,",LUCAS VIC 3350,House,4,2,2,525m² ,22 Feb 2024
+"460,000 ","6/33 Tremain Drive,",LUCAS VIC 3350,House,3,2,2,263m² ,22 Feb 2024
+"600,000 ","15 Emmy Drive,",MINERS REST VIC 3352,House,4,2,2,595m² ,22 Feb 2024
+"440,000 ","7 Pauls Crescent,",WENDOUREE VIC 3355,House,3,1,2,597m² ,22 Feb 2024
+"615,000 ","9 Furano Road,",WINTER VALLEY VIC 3358,House,4,2,2,525m² ,22 Feb 2024
+"560,000 ","21 Gallant Way,",WINTER VALLEY VIC 3358,House,4,2,2,530m² ,22 Feb 2024
+"980,000 ","111 Victoria Street,",BALLARAT EAST VIC 3350,House,5,2,2,759m² ,21 Feb 2024
+"1,200,000 ","4 Somerville Street,",BUNINYONG VIC 3357,House,4,2,12,"3,697m² ",21 Feb 2024
+"400,000 ","5 Gladstone Street,",GOLDEN POINT VIC 3350,House,3,1,2,495m² ,21 Feb 2024
+"1,200,000 ","111 Lachlan Road,",INVERMAY VIC 3352,House,4,2,8,0,21 Feb 2024
+"600,000 ","2 Cardigan Street,",LAKE WENDOUREE VIC 3350,House,3,1,2,275m² ,21 Feb 2024
+"350,000 ","7 Yarra Park Drive,",SEBASTOPOL VIC 3356,House,2,1,1,249m² ,21 Feb 2024
+"390,000 ","1100 Norman Street,",WENDOUREE VIC 3355,House,4,1,4,602m² ,21 Feb 2024
+"700,000 ","15 Regal Drive,",ALFREDTON VIC 3350,House,3,2,2,450m² ,20 Feb 2024
+"645,000 ","74 Sydney Way,",ALFREDTON VIC 3350,House,4,2,2,511m² ,20 Feb 2024
+"970,000 ","210 Hickman Street,",BALLARAT CENTRAL VIC 3350,House,4,2,4,"1,843m² ",20 Feb 2024
+"567,000 ","25 Navvy Jack Road,",CANADIAN VIC 3350,House,4,2,2,492m² ,20 Feb 2024
+"630,000 ","15 Malahide Drive,",MINERS REST VIC 3352,House,4,2,5,740m² ,20 Feb 2024
+"395,000 ","224 Walker Street,",SEBASTOPOL VIC 3356,House,3,1,1,301m² ,20 Feb 2024
+"340,500 ","5/207 Yarrowee Street,",SEBASTOPOL VIC 3356,House,2,1,1,248m² ,20 Feb 2024
+"500,000 ","4 Brompton Place,",ALFREDTON VIC 3350,House,3,1,2,662m² ,19 Feb 2024
+"450,000 ","118 Canterbury Street,",BROWN HILL VIC 3350,House,3,1,2,993m² ,19 Feb 2024
+"695,000 ","14 Simpson Street,",BUNINYONG VIC 3357,House,3,2,6,"1,012m² ",19 Feb 2024
+"465,000","23 Harding Grove,",CARDIGAN VILLAGE VIC 3352,House,3,1,2,913m² ,19 Feb 2024
+"650,000 ","616 Ripon Street South,",REDAN VIC 3350,House,3,1,1,"1,200m² ",17 Feb 2024
+"600,000 ","13 Darlington Street,",ALFREDTON VIC 3350,House,4,2,4,897m² ,16 Feb 2024
+"595,000 ","30 Elaine Avenue,",ALFREDTON VIC 3350,House,4,2,2,834m² ,16 Feb 2024
+"550,000 ","5 Nelmore Court,",BALLARAT EAST VIC 3350,House,4,2,2,509m² ,16 Feb 2024
+"405,000 ","10 Florence Court,",BROWN HILL VIC 3350,House,3,1,2,616m² ,16 Feb 2024
+"895,000 ","24 Grainger Parade,",LUCAS VIC 3350,House,4,2,2,612m² ,16 Feb 2024
+"860,000 ","94 Kirkwood Drive,",SMYTHES CREEK VIC 3351,House,4,2,4,0,16 Feb 2024
+"600,000 ","10 Anglesea Street,",WINTER VALLEY VIC 3358,House,4,2,2,435m² ,16 Feb 2024
+"500,000 ","22 Settlers Drive,",BONSHAW VIC 3352,House,3,2,2,475m² ,15 Feb 2024
+"610,000 ","3 Rorey Street,",DELACOMBE VIC 3356,House,4,2,2,649m² ,15 Feb 2024
+"995,000 ","308 Barkly Street,",GOLDEN POINT VIC 3350,House,4,3,3,876m² ,15 Feb 2024
+"595,000 ","1/1334 Gregory Street,",LAKE WENDOUREE VIC 3350,House,3,2,1,271m² ,15 Feb 2024
+"560,000 ","8 Capernwary Rise,",MINERS REST VIC 3352,House,3,2,2,539m² ,15 Feb 2024
+"585,000 ","18 Queen Victoria Street,",NEWINGTON VIC 3350,House,3,1,1,524m² ,15 Feb 2024
+"950,000 ","22 Gale Court,",SCARSDALE VIC 3351,House,4,3,4,0,15 Feb 2024
+"440,000 ","11 Davcol Drive,",SEBASTOPOL VIC 3356,House,3,2,1,326m² ,15 Feb 2024
+"443,500 ","2047 Sunraysia Highway,",WAUBRA VIC 3352,House,3,1,2,"5,179m² ",15 Feb 2024
+"615,000 ","34 Snowbird Road,",WINTER VALLEY VIC 3358,House,4,2,2,649m² ,15 Feb 2024
+"635,000 ","2 Adrianus Street,",ALFREDTON VIC 3350,House,4,2,2,547m² ,14 Feb 2024
+"400,000 ","8 Fitzgerald Avenue,",ALFREDTON VIC 3350,House,4,2,2,280m² ,14 Feb 2024
+"655,000 ","101A Canterbury Street,",BROWN HILL VIC 3350,House,4,2,1,602m² ,14 Feb 2024
+"390,000 ","5 Mancev Court,",BROWN HILL VIC 3350,House,2,1,1,633m² ,14 Feb 2024
+"950,000 ","48 Steinfeld Street South,",GOLDEN POINT VIC 3350,House,5,4,2,605m² ,14 Feb 2024
+"1,000,000 ","14 Greenhaven Court,",MOUNT CLEAR VIC 3350,House,4,2,2,"3,485m² ",14 Feb 2024
+"375,000 ","3/50 Haymes Road,",MOUNT CLEAR VIC 3350,House,3,1,1,261m² ,14 Feb 2024
+"355,000 ","1/42 Bridge Street,",SEBASTOPOL VIC 3356,House,3,1,2,459m² ,14 Feb 2024
+"490,000 ","2 Tyar Court,",SEBASTOPOL VIC 3356,House,4,1,2,735m² ,14 Feb 2024
+"540,000 ","4 Yarrowee Street,",SEBASTOPOL VIC 3356,House,4,2,3,688m² ,14 Feb 2024
+"455,000 ","365 Glenelg Highway,",SMYTHES CREEK VIC 3351,House,4,2,2,400m² ,14 Feb 2024
+"300,000 ","34 Wilcar Drive,",WAUBRA VIC 3352,House,3,1,4,0,14 Feb 2024
+"575,000 ","8 Cockatoo Drive,",WINTER VALLEY VIC 3358,House,4,2,2,559m² ,14 Feb 2024
+"600,000 ","26 Lauderdale Avenue,",ALFREDTON VIC 3350,House,4,2,2,611m² ,13 Feb 2024
+"846,000 ","11 Illana Street,",BROWN HILL VIC 3350,House,4,2,2,743m² ,13 Feb 2024
+"680,000 ","37 Kirby Avenue,",CANADIAN VIC 3350,House,4,2,2,781m² ,13 Feb 2024
+"600,000 ","5 Shaftesbury Avenue,",DELACOMBE VIC 3356,House,4,2,2,877m² ,13 Feb 2024
+"470,000 ","10 Alexander Avenue,",WENDOUREE VIC 3355,House,4,1,2,605m² ,13 Feb 2024
+"410,000 ","215 Errard Street South,",BALLARAT CENTRAL VIC 3350,House,3,1,2,491m² ,12 Feb 2024
+"380,000 ","409 Windermere Street,",BALLARAT CENTRAL VIC 3350,House,3,1,1,478m² ,12 Feb 2024
+"560,000 ","75 Dairymans Way,",BONSHAW VIC 3352,New house and land,3,2,2,326m² ,12 Feb 2024
+"440,000 ","807 Gregory Street,",SOLDIERS HILL VIC 3350,House,3,1,4,732m² ,12 Feb 2024
+"530,000 ","5 Bowden Street,",WENDOUREE VIC 3355,House,3,1,5,"1,169m² ",12 Feb 2024
+"390,000 ","1100 Howitt Street,",WENDOUREE VIC 3355,House,3,2,1,350m² ,12 Feb 2024
+"822,000 ","424 Ligar Street,",SOLDIERS HILL VIC 3350,House,3,2,1,659m² ,10 Feb 2024
+"602,000 ","6 Sorrel Avenue,",BONSHAW VIC 3352,House,4,2,2,623m² ,09 Feb 2024
+"675,000 ","9 Callistemon Court,",BUNINYONG VIC 3357,House,4,2,2,808m² ,09 Feb 2024
+"500,000 ","9 Shasta Drive,",DELACOMBE VIC 3356,House,3,2,4,644m² ,09 Feb 2024
+"615,000 ","7 McKellar Drive,",MINERS REST VIC 3352,House,4,2,2,633m² ,09 Feb 2024
+"385,000 ","32 Eton Street,",WENDOUREE VIC 3355,House,3,1,2,618m² ,09 Feb 2024
+"435,000 ","14 Locksley Street,",WENDOUREE VIC 3355,House,3,1,2,613m² ,09 Feb 2024
+"910,000 ","1 East Street North,",BAKERY HILL VIC 3350,House,3,2,2,516m² ,08 Feb 2024
+"400,000 ","4/9 Newman Street,",BALLARAT EAST VIC 3350,House,3,1,1,285m² ,08 Feb 2024
+"505,000 ","4 Millicent Place,",BALLARAT EAST VIC 3350,House,3,2,2,292m² ,08 Feb 2024
+"640,000 ","307 Humffray Street,",BROWN HILL VIC 3350,House,3,1,2,"1,639m² ",08 Feb 2024
+"610,000 ","28 Normlyttle Parade,",MINERS REST VIC 3352,House,4,2,2,656m² ,08 Feb 2024
+"622,000 ","3 Oberon Street,",ALFREDTON VIC 3350,House,4,2,2,571m² ,07 Feb 2024
+"600,000","13 Lovenear Grove,",BALLARAT EAST VIC 3350,House,4,3,2,802m² ,07 Feb 2024
+"705,000 ","5 Fadden Court,",DELACOMBE VIC 3356,House,4,2,5,991m² ,07 Feb 2024
+"480,000 ","10 Freeman Street,",WENDOUREE VIC 3355,House,3,1,3,630m² ,07 Feb 2024
+"555,000 ","26 Alto Grange,",WINTER VALLEY VIC 3358,House,4,2,2,447m² ,07 Feb 2024
+"485,000 ","11 Lovenear Grove,",BALLARAT EAST VIC 3350,House,3,1,4,653m² ,06 Feb 2024
+"750,000 ","7 Cherohne Court,",BROWN HILL VIC 3350,House,4,2,2,"1,122m² ",06 Feb 2024
+"470,000 ","732 Norman Street,",INVERMAY PARK VIC 3350,House,3,1,1,668m² ,06 Feb 2024
+"400,000 ","837 Barkly Street,",MOUNT PLEASANT VIC 3350,House,2,1,1,563m² ,06 Feb 2024
+"525,000 ","3 Lambert Street,",WENDOUREE VIC 3355,House,3,2,4,589m² ,06 Feb 2024
+"605,000 ","91 Alfredton Drive,",ALFREDTON VIC 3350,House,4,2,3,710m² ,05 Feb 2024
+"570,000 ","61 Creekstone Drive,",ALFREDTON VIC 3350,House,4,2,2,422m² ,05 Feb 2024
+"605,000 ","507 Norman Street,",BALLARAT NORTH VIC 3350,House,4,2,1,764m² ,05 Feb 2024
+"715,000 ","74 Ironmine Road,",LAL LAL VIC 3352,House,3,1,2,0,05 Feb 2024
+"550,000 ","517 Doveton Street North,",SOLDIERS HILL VIC 3350,House,3,1,4,584m² ,05 Feb 2024
+"785,000 ","3 MacArthur Street,",SOLDIERS HILL VIC 3350,House,3,2,1,856m² ,05 Feb 2024
+"490,000 ","30 Beartooth Drive,",WINTER VALLEY VIC 3358,House,4,2,2,431m² ,05 Feb 2024
+"700,000 ","901A South Street,",BALLARAT CENTRAL VIC 3350,House,2,1,2,491m² ,03 Feb 2024
+"540,000 ","328 Landsborough Street,",BALLARAT NORTH VIC 3350,House,3,1,2,700m² ,03 Feb 2024
+"470,000 ","23 Douglas Close,",MINERS REST VIC 3352,House,3,2,3,511m² ,03 Feb 2024
+"385,000 ","15 Montgomery Street,",WENDOUREE VIC 3355,House,3,1,2,606m² ,03 Feb 2024
+"790,000 ","113 Dawson Street South,",BALLARAT CENTRAL VIC 3350,House,3,1,1,630m² ,02 Feb 2024
+"365,000 ","6 Montrose Street,",BALLARAT EAST VIC 3350,House,2,1,1,291m² ,02 Feb 2024
+"445,000 ","1105 Ligar Street,",BALLARAT NORTH VIC 3350,House,2,1,2,722m² ,02 Feb 2024
+"1,200,000 ","111 Lachlan Road,",INVERMAY VIC 3352,House,4,2,8,0,02 Feb 2024
+"1,132,000 ","83 Bull Inn Court,",NINTINGBOOL VIC 3351,House,4,2,2,0,02 Feb 2024
+"1,275,000 ","107 Frank Street,",BALLARAT CENTRAL VIC 3350,House,6,3,2,566m² ,01 Feb 2024
+"740,000 ","17 Kent Street,",BALLARAT CENTRAL VIC 3350,House,3,1,2,625m² ,01 Feb 2024
+"365,000 ","18 Jory Street,",CRESWICK VIC 3363,House,2,1,2,909m² ,01 Feb 2024
+"535,000 ","18 Macquarie Close,",DELACOMBE VIC 3356,House,4,2,2,818m² ,01 Feb 2024
+"639,000","153 Gladstone Street,",LEXTON VIC 3352,House,4,1,8,0,01 Feb 2024
+"590,000 ","3 Derby View,",MINERS REST VIC 3352,House,4,2,2,520m² ,01 Feb 2024
+"427,500 ","6 Kara Court,",SEBASTOPOL VIC 3356,House,3,1,3,909m² ,01 Feb 2024
+"521,000 ","4 Anneke Way,",WINTER VALLEY VIC 3358,House,3,2,2,491m² ,01 Feb 2024
+"510,000 ","308 Cuthberts Road,",ALFREDTON VIC 3350,House,4,2,2,320m² ,31 Jan 2024
+"615,000 ","30 Walters Way,",ALFREDTON VIC 3350,House,4,2,2,453m² ,31 Jan 2024
+"570,000 ","616 Nicholson Street,",BLACK HILL VIC 3350,House,3,1,6,"1,001m² ",31 Jan 2024
+"487,500 ","11 Windermere Way,",CARDIGAN VILLAGE VIC 3352,House,3,2,4,652m² ,31 Jan 2024
+"710,000","16 Eleanor Drive,",LUCAS VIC 3350,House,4,2,2,493m² ,31 Jan 2024
+"555,000 ","22 Scanlon Street,",LUCAS VIC 3350,House,3,2,2,330m² ,31 Jan 2024
+"360,000 ","51 Warburton Drive,",LUCAS VIC 3350,House,2,2,1,150m² ,31 Jan 2024
+"495,000 ","38 Bradby Avenue,",MOUNT CLEAR VIC 3350,House,3,2,3,725m² ,31 Jan 2024
+"695,000 ","12 Rusty Rise,",BROWN HILL VIC 3350,House,4,2,12,882m² ,30 Jan 2024
+"600,000 ","24 Matheson Street,",LUCAS VIC 3350,House,4,2,2,433m² ,30 Jan 2024
+"370,000 ","44 Ashwood Gardens,",MITCHELL PARK VIC 3355,House,2,1,1,476m² ,30 Jan 2024
+"500,000 ","95 Presentation Boulevard,",WINTER VALLEY VIC 3358,House,4,2,2,490m² ,30 Jan 2024
+"550,000 ","30 Honour Avenue,",WINTER VALLEY VIC 3358,House,4,2,2,540m² ,30 Jan 2024
+"725,000 ","81 Verdale Drive,",ALFREDTON VIC 3350,House,4,2,2,512m² ,29 Jan 2024
+"395,000 ","510 York Street,",BALLARAT EAST VIC 3350,House,3,1,1,555m² ,29 Jan 2024
+"650,000 ","19 Acacia Road,",DEREEL VIC 3352,House,3,1,4,0,29 Jan 2024
+"615,000 ","1 Caroline Court,",NERRINA VIC 3350,House,3,1,1,632m² ,29 Jan 2024
+"432,000","13 Leith Street,",REDAN VIC 3350,House,4,2,1,787m² ,29 Jan 2024
+"423,000 ","358 Vickers Street,",SEBASTOPOL VIC 3356,House,3,2,2,325m² ,29 Jan 2024
+"420,000 ","5 Eton Street,",WENDOUREE VIC 3355,House,3,1,2,576m² ,29 Jan 2024
+"630,000 ","25 Zeal Road,",WINTER VALLEY VIC 3358,House,4,2,2,350m² ,29 Jan 2024
+"442,000 ","901A Eyre Street,",BALLARAT CENTRAL VIC 3350,House,3,1,2,510m² ,25 Jan 2024
+"380,000 ","407 Richards Street,",CANADIAN VIC 3350,House,3,1,2,657m² ,25 Jan 2024
+"860,000 ","40 Shortridge Drive,",LUCAS VIC 3350,House,4,2,3,680m² ,25 Jan 2024
+"490,000","701 Skipton Street,",REDAN VIC 3350,House,3,1,1,504m² ,25 Jan 2024
+"367,000 ","7 Poplar Street,",WENDOUREE VIC 3355,House,3,1,1,837m² ,25 Jan 2024
+"755,000 ","10 Wattle Road,",DEREEL VIC 3352,House,3,2,2,0,24 Jan 2024
+"1,030,000 ","17 St Glens Way,",LAKE GARDENS VIC 3355,House,4,2,3,761m² ,24 Jan 2024
+"450,000 ","84 Kossuth Street,",SEBASTOPOL VIC 3356,House,3,2,2,303m² ,24 Jan 2024
+"310,000 ","1253 Grevillea Road,",WENDOUREE VIC 3355,House,3,1,−,730m² ,24 Jan 2024
+"470,000 ","10 Grammar Street,",WENDOUREE VIC 3355,House,3,1,1,609m² ,24 Jan 2024
+"720,000 ","8 Drysdale Court,",ALFREDTON VIC 3350,House,4,2,2,761m² ,23 Jan 2024
+"325,000 ","216 Cutts Street,",BALLARAT EAST VIC 3350,House,3,1,4,597m² ,23 Jan 2024
+"577,000 ","25 Napier Street,",BLACK HILL VIC 3350,House,3,1,2,506m² ,23 Jan 2024
+"910,000 ","106 South Imperial Road,",BUNINYONG VIC 3357,House,4,2,4,0,23 Jan 2024
+"515,000 ","3 Reed Street,",CRESWICK VIC 3363,House,3,1,2,987m² ,23 Jan 2024
+"1,235,000 ","2 Silo Close,",LAKE WENDOUREE VIC 3350,House,3,2,2,471m² ,23 Jan 2024
+"565,000 ","3 Eyckens Road,",LUCAS VIC 3350,House,4,2,2,392m² ,23 Jan 2024
+"569,000 ","81 Dairymans Way,",BONSHAW VIC 3352,House,3,2,2,325m² ,22 Jan 2024
+"700,000 ","7 Dumenils Way,",DELACOMBE VIC 3356,House,4,2,2,714m² ,22 Jan 2024
+"880,000","1390 Coghills Creek Road,",GLENDARUEL VIC 3363,House,4,2,3,0,22 Jan 2024
+"322,500 ","320A Albert Street,",SEBASTOPOL VIC 3356,House,2,1,2,322m² ,22 Jan 2024
+"350,000 ","813 Doveton Street North,",SOLDIERS HILL VIC 3350,House,2,1,4,648m² ,22 Jan 2024
+"540,000 ","2 Prefect Street,",WENDOUREE VIC 3355,House,3,1,2,620m² ,22 Jan 2024
+"568,000 ","11 Leitrim Street,",ALFREDTON VIC 3350,House,4,2,2,480m² ,19 Jan 2024
+"640,500","41 Mullingar Drive,",ALFREDTON VIC 3350,House,4,2,2,512m² ,19 Jan 2024
+"620,000 ","75 Elaine Avenue,",ALFREDTON VIC 3350,House,3,2,4,831m² ,19 Jan 2024
+"760,000 ","11 Leicester Court,",ALFREDTON VIC 3350,House,4,2,2,819m² ,19 Jan 2024
+"560,000 ","239 Humffray Street North,",BALLARAT EAST VIC 3350,House,3,2,2,630m² ,19 Jan 2024
+"750,000 ","10 Nelmore Court,",BALLARAT EAST VIC 3350,House,4,2,3,721m² ,19 Jan 2024
+"575,000","11 Princes Street North,",BALLARAT EAST VIC 3350,House,3,1,1,602m² ,19 Jan 2024
+"650,000 ","10 Kildare Court,",INVERMAY PARK VIC 3350,House,3,2,2,854m² ,19 Jan 2024
+"870,000 ","4 Murray Street,",NEWINGTON VIC 3350,House,3,2,2,574m² ,19 Jan 2024
+"570,000","403 Gregory Street,",SOLDIERS HILL VIC 3350,House,3,1,−,533m² ,19 Jan 2024
+"650,000 ","10 Lake Street,",WENDOUREE VIC 3355,House,3,1,4,981m² ,19 Jan 2024
+"765,000","23 Barn Owl Avenue,",WINTER VALLEY VIC 3358,House,4,2,4,612m² ,19 Jan 2024
+"497,000","14 Anneke Way,",WINTER VALLEY VIC 3358,House,4,2,2,490m² ,19 Jan 2024
+"765,000 ","23 Barn Owl Avenue,",WINTER VALLEY VIC 3358,House,4,2,4,612m² ,19 Jan 2024
+"450,000 ","6 Trevor Street,",BALLARAT EAST VIC 3350,House,1,1,4,854m² ,18 Jan 2024
+"395,000 ","Unit 3/217 York Street,",BALLARAT EAST VIC 3350,House,2,2,2,124m² ,18 Jan 2024
+"510,000 ","12 Dundas Place,",MINERS REST VIC 3352,House,3,2,8,923m² ,18 Jan 2024
+"415,000 ","14 Church Street,",SCARSDALE VIC 3351,House,4,2,2,571m² ,18 Jan 2024
+"498,000 ","18 Iris Avenue,",WENDOUREE VIC 3355,House,2,1,2,638m² ,18 Jan 2024
+"250,000 ","417 Gillies Street North,",WENDOUREE VIC 3355,House,2,1,1,265m² ,18 Jan 2024
+"570,000 ","43 Dyson Drive,",ALFREDTON VIC 3350,House,3,2,2,874m² ,17 Jan 2024
+"525,000 ","18 Walsh Avenue,",BALLARAT NORTH VIC 3350,House,3,1,1,793m² ,17 Jan 2024
+"670,000 ","4979 Colac Ballarat Road,",NAPOLEONS VIC 3352,House,3,1,4,0,17 Jan 2024
+"410,000 ","28 Bridge Street,",SEBASTOPOL VIC 3356,House,2,1,5,533m² ,17 Jan 2024
+"415,000 ","830 Howitt Street,",WENDOUREE VIC 3355,House,3,1,2,443m² ,17 Jan 2024
+"710,000 ","17 Angus Close,",DELACOMBE VIC 3356,House,4,2,2,620m² ,16 Jan 2024
+"2,220,000","340 Glenisla Road,",GLEN PARK VIC 3352,House,4,2,6,0,16 Jan 2024
+"535,000 ","17 Kenmare Crescent,",INVERMAY PARK VIC 3350,House,3,2,4,984m² ,16 Jan 2024
+"720,000 ","4 Lee Road,",LUCAS VIC 3350,House,4,2,2,512m² ,16 Jan 2024
+"380,000 ","911 Pleasant Street South,",REDAN VIC 3350,House,2,1,4,683m² ,16 Jan 2024
+"400,000","20 Malmesbury Street,",WENDOUREE VIC 3355,House,3,1,1,612m² ,16 Jan 2024
+"565,000 ","306 Chisholm Street,",BLACK HILL VIC 3350,House,3,2,2,482m² ,15 Jan 2024
+"545,000 ","4 Indigo Street,",BONSHAW VIC 3352,House,4,2,2,512m² ,15 Jan 2024
+"1,375,000 ","10 Hugo Place,",BROWN HILL VIC 3350,House,4,2,5,"1,388m² ",15 Jan 2024
+"448,000 ","611 Grant Street,",GOLDEN POINT VIC 3350,House,3,1,2,569m² ,15 Jan 2024
+"770,000 ","54 Stirling Drive,",LAKE GARDENS VIC 3355,House,4,2,2,701m² ,15 Jan 2024
+"450,000 ","3 Bradby Avenue,",MOUNT CLEAR VIC 3350,House,3,2,2,805m² ,15 Jan 2024
+"565,000 ","9 Robilliard Way,",SEBASTOPOL VIC 3356,House,3,2,2,628m² ,15 Jan 2024
+"600,000 ","9 Lock Street,",SMYTHESDALE VIC 3351,House,4,2,3,"1,028m² ",15 Jan 2024
+"615,000 ","8 Anglesea Street,",WINTER VALLEY VIC 3358,House,4,2,2,435m² ,15 Jan 2024
+"1,570,000","45 Gillies Street,",ALFREDTON VIC 3350,House,4,2,5,820m² ,14 Jan 2024
+"560,000 ","15 Robilliard Way,",SEBASTOPOL VIC 3356,House,4,2,2,662m² ,13 Jan 2024
+"380,000 ","407 Richards Street,",CANADIAN VIC 3350,House,3,1,2,657m² ,12 Jan 2024
+"475,000","425 Clayton Street,",CANADIAN VIC 3350,House,4,1,2,670m² ,12 Jan 2024
+"2,010,000","285 Millers Road,",INVERMAY VIC 3352,House,5,3,5,0,12 Jan 2024
+"680,000 ","5 Hillman Grove,",LUCAS VIC 3350,House,4,2,2,569m² ,12 Jan 2024
+"1,300,000 ","103 Windermere Street,",BALLARAT CENTRAL VIC 3350,House,3,2,1,773m² ,11 Jan 2024
+"395,000 ","Unit 3/217 York Street,",BALLARAT EAST VIC 3350,House,2,2,2,124m² ,11 Jan 2024
+"385,000 ","415 Clayton Street,",CANADIAN VIC 3350,House,2,1,2,546m² ,11 Jan 2024
+"532,500 ","42 Normlyttle Parade,",MINERS REST VIC 3352,House,3,2,2,656m² ,11 Jan 2024
+"680,000 ","118 Pleasant Street South,",NEWINGTON VIC 3350,House,3,2,2,522m² ,11 Jan 2024
+"1,250,000 ","547 Post Office Road,",ROSS CREEK VIC 3351,House,4,3,2,0,11 Jan 2024
+"340,000 ","1 Clover Street,",WENDOUREE VIC 3355,House,3,1,2,702m² ,11 Jan 2024
+"442,000 ","22 Ryans Road,",CAPE CLEAR VIC 3351,House,3,1,−,0,10 Jan 2024
+"210,000 ","6/6 Warratta Avenue,",DELACOMBE VIC 3356,House,1,1,1,180m² ,10 Jan 2024
+"680,000 ","632 Mt Doran Road,",LAL LAL VIC 3352,House,3,1,8,0,10 Jan 2024
+"390,000","24 Dover Street,",WENDOUREE VIC 3355,House,3,1,1,626m² ,10 Jan 2024
+"330,000","1/109 Nelson Street,",BALLARAT EAST VIC 3350,House,3,1,1,253m² ,09 Jan 2024
+"600,000 ","10 Slatey Creek Road,",INVERMAY PARK VIC 3350,House,4,2,2,762m² ,09 Jan 2024
+"775,000","34 Moore Way,",LUCAS VIC 3350,House,4,2,2,544m² ,09 Jan 2024
+"525,000 ","122 Mansfield Avenue,",MOUNT CLEAR VIC 3350,House,3,2,2,891m² ,09 Jan 2024
+"535,000 ","13 Reynolds Parade,",SMYTHES CREEK VIC 3351,House,3,2,2,352m² ,09 Jan 2024
+"437,500 ","17 Whidburn Place,",SEBASTOPOL VIC 3356,House,4,2,2,305m² ,08 Jan 2024
+"805,000 ","161 Sago Hill Road,",BUNKERS HILL VIC 3352,House,3,1,10,0,06 Jan 2024
+"460,000 ","703 Latrobe Street,",REDAN VIC 3350,House,3,1,1,593m² ,06 Jan 2024
+"505,000 ","14 Peake Street,",GOLDEN POINT VIC 3350,House,3,1,1,502m² ,03 Jan 2024
+"692,500 ","412 Raglan Street,",BALLARAT CENTRAL VIC 3350,House,3,2,2,505m² ,02 Jan 2024
+"400,000 ","14 Rogers Court,",BALLARAT EAST VIC 3350,House,3,1,4,663m² ,02 Jan 2024
+"465,000 ","825 Bond Street,",MOUNT PLEASANT VIC 3350,House,3,1,1,817m² ,02 Jan 2024
+"535,000 ","14 Mccallum Street,",LUCAS VIC 3350,House,4,2,2,420m² ,01 Jan 2024
+"1,200,000","189 Heinzs Road,",CAMBRIAN HILL VIC 3352,House,4,2,6,0,30 Dec 2023
+"710,000 ","48 School Lane,",CAMBRIAN HILL VIC 3352,House,4,2,4,"3,869m² ",29 Dec 2023
+"775,000 ","3 Caviar Court,",MINERS REST VIC 3352,House,4,2,4,840m² ,29 Dec 2023
+"750,000 ","15 Lynch Street,",SMYTHESDALE VIC 3351,House,4,2,4,872m² ,29 Dec 2023
+"542,000 ","23 Red Robin Drive,",WINTER VALLEY VIC 3358,House,4,2,2,560m² ,29 Dec 2023
+"306,000 ","209 Cutts Street,",BALLARAT EAST VIC 3350,House,3,1,1,539m² ,27 Dec 2023
+"534,000 ","209 Greenhalghs Road,",DELACOMBE VIC 3356,House,4,2,2,762m² ,27 Dec 2023
+"446,000 ","401 Clayton Street,",CANADIAN VIC 3350,House,3,1,3,569m² ,25 Dec 2023
+"780,000","15 Cope Street,",SCARSDALE VIC 3351,House,4,2,2,0,24 Dec 2023
+"600,000 ","15 Plymouth Way,",SMYTHES CREEK VIC 3351,House,4,2,2,448m² ,24 Dec 2023
+"600,000 ","110 Carthew Road,",BONSHAW VIC 3352,House,4,2,2,649m² ,22 Dec 2023
+"540,000 ","7 Brahman Drive,",DELACOMBE VIC 3356,House,3,2,4,714m² ,22 Dec 2023
+"380,000 ","4 Recreation Road,",MOUNT CLEAR VIC 3350,House,3,1,1,333m² ,22 Dec 2023
+"470,000 ","2 Rosewood Court,",MOUNT HELEN VIC 3350,House,4,2,2,685m² ,22 Dec 2023
+"975,000 ","806 Barkly Street,",MOUNT PLEASANT VIC 3350,House,4,3,2,"1,124m² ",22 Dec 2023
+"855,000 ","766 Midland Highway,",MOUNT ROWAN VIC 3352,House,3,1,4,"7,107m² ",22 Dec 2023
+"620,000 ","11 Lynch Street,",SMYTHESDALE VIC 3351,House,4,2,2,855m² ,22 Dec 2023
+"560,000 ","6 Bogart Drive,",WENDOUREE VIC 3355,House,3,2,1,700m² ,22 Dec 2023
+"590,000 ","6 Verona Street,",WINTER VALLEY VIC 3358,House,4,2,2,479m² ,22 Dec 2023
+"570,000 ","87 Dyson Drive,",ALFREDTON VIC 3350,House,4,2,2,576m² ,21 Dec 2023
+"935,000 ","1 Goldwood Drive,",ALFREDTON VIC 3350,House,4,2,4,654m² ,21 Dec 2023
+"540,000 ","1 Foley Crescent,",BLACK HILL VIC 3350,House,4,2,4,831m² ,21 Dec 2023
+"783,500 ","8 Ambience Place,",BROWN HILL VIC 3350,House,4,2,2,760m² ,21 Dec 2023
+"1,130,000 ","24 Ramage Road,",BUNINYONG VIC 3357,House,4,1,2,0,21 Dec 2023
+"1,050,000 ","14 Ogilvie Lane,",BUNINYONG VIC 3357,House,4,2,5,0,21 Dec 2023
+"600,000 ","191 Browns-Scarsdale Road,",SCARSDALE VIC 3351,House,3,1,2,0,21 Dec 2023
+"740,000 ","128 Sebastopol-Smythesdale Road,",SMYTHESDALE VIC 3351,House,4,2,2,"9,712m² ",21 Dec 2023
+"625,000 ","1/1116 Howitt Street,",WENDOUREE VIC 3355,House,4,2,2,452m² ,21 Dec 2023
+"750,000 ","1006 Eyre Street,",BALLARAT CENTRAL VIC 3350,House,3,2,2,462m² ,20 Dec 2023
+"1,375,000 ","4 Talbot Street South,",BALLARAT CENTRAL VIC 3350,House,3,1,−,"1,046m² ",20 Dec 2023
+"730,000","225 Landsborough Street,",BALLARAT NORTH VIC 3350,House,3,2,2,"2,097m² ",20 Dec 2023
+"605,000 ","255 Flynns Road,",ERCILDOUNE VIC 3352,House,3,1,2,0,20 Dec 2023
+"440,000","7 Veronica Place,",MOUNT PLEASANT VIC 3350,House,4,2,2,348m² ,20 Dec 2023
+"415,750 ","8 Naraglen Court,",SEBASTOPOL VIC 3356,House,3,1,2,856m² ,20 Dec 2023
+"425,000 ","209 Gregory Street,",SOLDIERS HILL VIC 3350,House,2,1,2,154m² ,20 Dec 2023
+"570,000 ","6 Bowden Street,",WENDOUREE VIC 3355,House,3,1,2,775m² ,20 Dec 2023
+"305,000 ","6 Hawthorn Grove,",WENDOUREE VIC 3355,House,3,1,2,600m² ,20 Dec 2023
+"690,000","1 Palace Road,",WINTER VALLEY VIC 3358,House,3,2,6,682m² ,20 Dec 2023
+"635,000 ","13 Banff Road,",WINTER VALLEY VIC 3358,House,3,2,3,580m² ,20 Dec 2023
+"630,000 ","19 The Terrace,",ALFREDTON VIC 3350,House,5,3,3,926m² ,19 Dec 2023
+"1,100,000 ","414 Drummond Street North,",BALLARAT CENTRAL VIC 3350,House,5,1,6,782m² ,19 Dec 2023
+"525,000 ","6 Brophy Street,",BROWN HILL VIC 3350,House,3,1,2,522m² ,19 Dec 2023
+"970,000","5 Cider Court,",BROWN HILL VIC 3350,House,4,2,3,881m² ,19 Dec 2023
+"596,000 ","6 Kincade Street,",LUCAS VIC 3350,House,3,2,2,342m² ,19 Dec 2023
+"718,000 ","1106a Eyre Street,",NEWINGTON VIC 3350,House,3,1,1,512m² ,2023
+"491,000 ","14 Robilliard Way,",SEBASTOPOL VIC 3356,House,4,2,3,599m² ,19 Dec 2023
+"410,000 ","1 Whidburn Place,",SEBASTOPOL VIC 3356,House,3,2,2,302m² ,19 Dec 2023
+"545,000 ","77 Vale Street,",ALFREDTON VIC 3350,House,3,2,4,666m² ,18 Dec 2023
+"348,000 ","25 Kallioota Street,",ALFREDTON VIC 3350,House,2,1,1,530m² ,18 Dec 2023
+"430,000 ","58 Hopetoun Street,",BALLARAT EAST VIC 3350,House,3,1,4,385m² ,18 Dec 2023
+"730,000 ","109 Forest Street,",BUNINYONG VIC 3357,House,4,2,2,"1,007m² ",18 Dec 2023
+"440,000 ","33 Napier Street,",CRESWICK VIC 3363,House,1,2,1,697m² ,18 Dec 2023
+"610,000 ","47 Smythes Road,",DELACOMBE VIC 3356,House,4,2,9,724m² ,18 Dec 2023
+"640,000 ","32 Wattledale Avenue,",ENFIELD VIC 3352,House,4,1,6,"4,667m² ",18 Dec 2023
+"445,000 ","25 Fraser Street,",MOUNT PLEASANT VIC 3350,House,4,2,2,360m² ,18 Dec 2023
+"330,000 ","196 Scarsdale-Pitfield Road,",NEWTOWN VIC 3351,House,2,1,2,"3,000m² ",18 Dec 2023
+"520,000 ","231 Grant Street,",SEBASTOPOL VIC 3356,House,3,2,2,694m² ,18 Dec 2023
+"310,000 ","5/6 Alexandra Street,",SEBASTOPOL VIC 3356,House,2,1,1,187m² ,18 Dec 2023
+"475,000 ","248-250 Spencer Street,",SEBASTOPOL VIC 3356,House,2,1,2,"1,600m² ",18 Dec 2023
+"515,000 ","24 Davcol Drive,",SEBASTOPOL VIC 3356,House,3,2,2,360m² ,18 Dec 2023
+"630,000 ","5 Cornell Court,",LUCAS VIC 3350,House,4,2,3,486m² ,16 Dec 2023
+"850,000 ","11 Wade Place,",LUCAS VIC 3350,House,4,2,2,680m² ,16 Dec 2023
+"1,200,000 ","20 Chatham Avenue,",MOUNT HELEN VIC 3350,House,4,2,2,"1,038m² ",16 Dec 2023
+"770,000 ","305 Urquhart Street,",BALLARAT CENTRAL VIC 3350,House,3,2,1,451m² ,15 Dec 2023
+"775,000 ","22A Gardiner Street,",CRESWICK VIC 3363,House,3,2,2,507m² ,15 Dec 2023
+"550,000 ","4 Grand Junction Drive,",MINERS REST VIC 3352,House,3,2,4,706m² ,15 Dec 2023
+"470,000 ","17 Highfield Avenue,",MOUNT CLEAR VIC 3350,House,3,2,2,837m² ,15 Dec 2023
+"410,000 ","153 Morgan Street,",SEBASTOPOL VIC 3356,House,3,1,3,780m² ,15 Dec 2023
+"448,000 ","86 Crown Street,",SEBASTOPOL VIC 3356,House,3,2,2,280m² ,15 Dec 2023
+"585,000 ","20 Continuance Way,",DELACOMBE VIC 3356,House,4,2,2,679m² ,14 Dec 2023
+"700,000 ","13 Ashford Court,",INVERMAY PARK VIC 3350,House,4,2,2,850m² ,14 Dec 2023
+"640,000 ","12 Bliss Street,",WINTER VALLEY VIC 3358,House,4,2,2,529m² ,14 Dec 2023
+"560,000 ","27 Sorrel Avenue,",BONSHAW VIC 3352,House,4,2,2,576m² ,13 Dec 2023
+"575,000 ","11 Heathcote Drive,",LUCAS VIC 3350,House,4,2,2,512m² ,13 Dec 2023
+"790,000 ","712 Tress Street,",MOUNT PLEASANT VIC 3350,House,3,2,5,603m² ,13 Dec 2023
+"610,000 ","130 Willoby Drive,",ALFREDTON VIC 3350,House,4,2,2,375m² ,12 Dec 2023
+"996,000 ","9 Coorabin Drive,",BROWN HILL VIC 3350,House,4,2,4,920m² ,12 Dec 2023
+"975,000 ","17 Havana Street,",CARDIGAN VIC 3352,House,4,2,4,"2,041m² ",12 Dec 2023
+"1,625,000 ","10 The Boulevarde,",LAKE WENDOUREE VIC 3350,House,3,2,2,557m² ,12 Dec 2023
+"1,950,000","160 Lloyds Lane,",NAPOLEONS VIC 3352,House,5,2,4,0,12 Dec 2023
+"502,000 ","34 Ivanhoe Street,",WENDOUREE VIC 3355,House,3,2,2,609m² ,12 Dec 2023
+"845,000","11 Windermere Street,",BALLARAT CENTRAL VIC 3350,House,3,1,3,700m² ,11 Dec 2023
+"610,000 ","50 Peel Street Sth,",GOLDEN POINT VIC 3350,House,3,1,1,253m² ,11 Dec 2023
+"507,000 ","18 Lyons Street,",MINERS REST VIC 3352,House,3,2,3,714m² ,11 Dec 2023
+"376,000 ","1/104 Whitehorse Road,",MOUNT CLEAR VIC 3350,House,3,1,3,304m² ,11 Dec 2023
+"820,000","26 Pascoe Street,",SMYTHESDALE VIC 3351,House,4,2,4,989m² ,11 Dec 2023
+"520,000 ","209 Brougham Street,",SOLDIERS HILL VIC 3350,House,3,1,2,429m² ,11 Dec 2023
+"465,000 ","4 Nolan Street,",SOLDIERS HILL VIC 3350,House,4,1,2,720m² ,11 Dec 2023
+"867,000 ","52 Apple Orchard Drive,",BROWN HILL VIC 3350,House,3,2,2,758m² ,08 Dec 2023
+"540,000 ","407 Kline Street,",CANADIAN VIC 3350,House,3,2,4,560m² ,08 Dec 2023
+"700,000 ","50 Ascot Gardens Drive,",DELACOMBE VIC 3356,House,4,2,2,648m² ,08 Dec 2023
+"405,000 ","23 Wall Street,",SEBASTOPOL VIC 3356,House,3,1,−,698m² ,08 Dec 2023
+"390,000 ","62 Harold Street,",WENDOUREE VIC 3355,House,2,1,1,262m² ,08 Dec 2023
+"600,000 ","9 Fantail Street,",WINTER VALLEY VIC 3358,House,4,2,2,560m² ,08 Dec 2023
+"770,000 ","48 Belltower Avenue,",ALFREDTON VIC 3350,House,3,2,2,901m² ,07 Dec 2023
+"397,000 ","7 Clissold Street,",BLACK HILL VIC 3350,House,2,1,1,432m² ,07 Dec 2023
+"780,000 ","35 Grainger Parade,",LUCAS VIC 3350,House,4,2,2,512m² ,07 Dec 2023
+"655,000 ","25 Marxsen Parade,",LUCAS VIC 3350,House,4,2,2,539m² ,07 Dec 2023
+"540,000 ","210 Lonsdale Street,",REDAN VIC 3350,House,3,1,3,600m² ,07 Dec 2023
+"605,000 ","26 Ilvia Way,",SEBASTOPOL VIC 3356,House,4,2,2,667m² ,07 Dec 2023
+"495,000 ","25 Yarrowee Street,",SEBASTOPOL VIC 3356,House,3,2,1,587m² ,07 Dec 2023
+"686,300 ","10 Macarthur Street,",SOLDIERS HILL VIC 3350,House,3,2,2,499m² ,07 Dec 2023
+"495,000 ","25 College Street,",WENDOUREE VIC 3355,House,3,1,2,631m² ,07 Dec 2023
+"835,000 ","135 Cuthberts Road,",ALFREDTON VIC 3350,House,4,2,2,645m² ,06 Dec 2023
+"515,000 ","13 Elizabeth Road,",CRESWICK VIC 3363,House,3,1,4,981m² ,06 Dec 2023
+"559,000 ","211 Greenhalghs Road,",DELACOMBE VIC 3356,House,4,2,2,826m² ,06 Dec 2023
+"695,000 ","1235 Doveton Street North,",INVERMAY PARK VIC 3350,House,4,2,2,655m² ,06 Dec 2023
+"1,100,000 ","19 Junction Street,",NEWINGTON VIC 3350,House,4,2,4,863m² ,06 Dec 2023
+"740,000","38 Mullingar Drive,",ALFREDTON VIC 3350,House,4,2,2,640m² ,05 Dec 2023
+"550,000 ","417 York Street,",BALLARAT EAST VIC 3350,House,2,1,1,905m² ,05 Dec 2023
+"515,000 ","218 Eureka Street,",BALLARAT EAST VIC 3350,House,2,1,1,600m² ,05 Dec 2023
+"410,000 ","1/403 Humffray Street North,",BROWN HILL VIC 3350,House,3,2,5,424m² ,05 Dec 2023
+"745,000 ","13 Pepper Lane,",BUNINYONG VIC 3357,House,4,2,2,943m² ,05 Dec 2023
+"665,000 ","2 Garden Court,",LAKE GARDENS VIC 3355,House,3,2,2,441m² ,05 Dec 2023
+"562,000 ","5 Limerick Street,",ALFREDTON VIC 3350,House,4,2,2,447m² ,04 Dec 2023
+"725,000","509 Barkly Street,",BUNINYONG VIC 3357,House,4,2,−,"1,067m² ",04 Dec 2023
+"1,185,000 ","1315 Gregory Street,",LAKE WENDOUREE VIC 3350,House,3,2,4,457m² ,04 Dec 2023
+"775,000 ","44 Shortridge Drive,",LUCAS VIC 3350,House,4,2,2,544m² ,04 Dec 2023
+"790,000","39 Careys Road,",SCARSDALE VIC 3351,House,3,1,6,0,03 Dec 2023
+"480,500 ","524 Drummond Street South,",REDAN VIC 3350,House,3,1,1,389m² ,2023
+"370,000 ","43 Grant Street,",BALLARAT CENTRAL VIC 3350,House,3,1,1,361m² ,1 Dec 2023
+"962,350 ","4 Stawell Street South,",BALLARAT EAST VIC 3350,House,4,2,2,"1,110m² ",01 Dec 2023
+"666,000 ","373 Bungaree-Wallace Road,",BUNGAREE VIC 3352,House,4,2,4,"8,093m² ",01 Dec 2023
+"600,000 ","2 Beverley Court,",CANADIAN VIC 3350,House,3,2,3,824m² ,01 Dec 2023
+"930,000 ","119 Smythes Road,",DELACOMBE VIC 3356,House,4,2,6,918m² ,01 Dec 2023
+"660,000 ","1368 Coghills Creek Road,",GLENDARUEL VIC 3363,House,5,1,2,"14,649m² ",01 Dec 2023
+"810,000 ","10 Miners Hut Road,",HADDON VIC 3351,House,3,1,4,0,01 Dec 2023
+"435,000 ","1207 Doveton St N,",INVERMAY PARK VIC 3350,House,3,1,1,674m² ,01 Dec 2023
+"900,000 ","7594 Midland Highway,",MAGPIE VIC 3352,House,4,2,8,"7,615m² ",01 Dec 2023
+"750,000","63 Egerton-Ballark Road,",MOUNT EGERTON VIC 3352,House,3,2,6,0,01 Dec 2023
+"810,000 ","25 Shakespeare Avenue,",MOUNT HELEN VIC 3350,House,8,4,2,786m² ,01 Dec 2023
+"445,000 ","6 Mardango Drive,",MOUNT HELEN VIC 3350,House,3,1,2,840m² ,01 Dec 2023
+"340,000 ","16 Dover Street,",WENDOUREE VIC 3355,House,3,1,2,603m² ,01 Dec 2023
+"522,000 ","1013 Grevillea Road,",WENDOUREE VIC 3355,House,3,1,1,745m² ,01 Dec 2023
+"895,000 ","20 Harold Court,",ALFREDTON VIC 3350,House,4,2,7,"1,071m² ",30 Nov 2023
+"370,000 ","603 Norman Street,",BALLARAT NORTH VIC 3350,House,3,1,2,581m² ,30 Nov 2023
+"340,000 ","7 Leawarra Crescent,",DELACOMBE VIC 3356,House,3,1,2,630m² ,30 Nov 2023
+"2,000,000","78 Silverwattle Drive,",INVERMAY VIC 3352,House,4,2,6,0,30 Nov 2023
+"550,000 ","5 Pengelly Road,",LUCAS VIC 3350,House,3,2,2,502m² ,30 Nov 2023
+"785,000 ","5 Mellish Street,",LUCAS VIC 3350,House,4,2,2,600m² ,30 Nov 2023
+"960,000 ","17 Tuppens Road,",MAGPIE VIC 3352,House,3,2,2,0,30 Nov 2023
+"1,175,000 ","26 Boundary Road,",NAVIGATORS VIC 3352,House,3,3,5,0,30 Nov 2023
+"1,300,000 ","10 Waranga Street,",NERRINA VIC 3350,House,5,2,3,"1,974m² ",30 Nov 2023
+"1,600,000 ","34 Durham Street,",NEWINGTON VIC 3350,House,4,2,5,"1,200m² ",30 Nov 2023
+"1,225,000","1 Darling Street,",REDAN VIC 3350,House,5,2,2,"1,100m² ",30 Nov 2023
+"550,000 ","33 Cromwell Street,",SEBASTOPOL VIC 3356,House,3,1,3,657m² ,30 Nov 2023
+"535,000 ","33 Carina Drive,",WINTER VALLEY VIC 3358,House,3,2,2,640m² ,30 Nov 2023
+"660,000","73 Lugano Avenue,",ALFREDTON VIC 3350,House,4,2,2,466m² ,29 Nov 2023
+"495,000 ","76 Humffray Street North,",BALLARAT EAST VIC 3350,House,4,2,1,476m² ,29 Nov 2023
+"538,000 ","206 Howitt Street,",BALLARAT NORTH VIC 3350,House,3,1,2,588m² ,29 Nov 2023
+"530,000 ","37 Tulloch Rise,",CANADIAN VIC 3350,House,3,2,2,684m² ,29 Nov 2023
+"450,000 ","14 Mitchell Drive,",CARDIGAN VILLAGE VIC 3352,House,3,1,4,720m² ,29 Nov 2023
+"500,000 ","222 Park Street,",DELACOMBE VIC 3356,House,3,1,4,783m² ,29 Nov 2023
+"950,000 ","20 Brawn Avenue,",LAKE WENDOUREE VIC 3350,House,2,1,2,644m² ,29 Nov 2023
+"885,000 ","86 Hermitage Avenue,",MOUNT CLEAR VIC 3350,House,5,2,2,931m² ,29 Nov 2023
+"375,000 ","6 Clematis Avenue,",WENDOUREE VIC 3355,House,3,1,1,623m² ,29 Nov 2023
+"405,000 ","13 Halbert Street,",WENDOUREE VIC 3355,House,3,1,2,622m² ,29 Nov 2023
+"420,000 ","45 Longley Street,",ALFREDTON VIC 3350,House,4,1,1,729m² ,28 Nov 2023
+"520,000 ","612 Nicholson Street,",BLACK HILL VIC 3350,House,2,1,2,"1,020m² ",28 Nov 2023
+"1,300,000","1502 Geelong Road,",MOUNT CLEAR VIC 3350,House,4,3,10,"5,405m² ",28 Nov 2023
+"425,000 ","437 Forest Street,",WENDOUREE VIC 3355,House,3,1,2,600m² ,28 Nov 2023
+"560,000 ","41 Wedge Tail Drive,",WINTER VALLEY VIC 3358,House,4,2,2,588m² ,28 Nov 2023
+"515,000 ","43 Vetrano Avenue,",ALFREDTON VIC 3350,House,3,2,2,370m² ,27 Nov 2023
+"603,000 ","8 Stanley Street,",BALLARAT NORTH VIC 3350,House,3,1,5,820m² ,27 Nov 2023
+"490,000 ","105 Nolan Street,",BUNINYONG VIC 3357,House,3,1,2,862m² ,27 Nov 2023
+"695,000 ","31 Cropley Street,",LUCAS VIC 3350,House,4,2,2,420m² ,27 Nov 2023
+"570,000 ","16 Henlix Court,",MOUNT CLEAR VIC 3350,House,4,2,2,373m² ,27 Nov 2023
+"380,000 ","706 Ligar Street,",SOLDIERS HILL VIC 3350,House,2,1,1,429m² ,27 Nov 2023
+"525,000 ","58 Telluride Drive,",WINTER VALLEY VIC 3358,House,4,2,2,572m² ,27 Nov 2023
+"550,000 ","30 Racing Way,",WINTER VALLEY VIC 3358,House,4,2,2,425m² ,26 Nov 2023
+"620,000 ","161 Cuthberts Road,",ALFREDTON VIC 3350,House,4,2,2,"1,114m² ",2023
+"512,500 ","20 Ainley Street,",BROWN HILL VIC 3350,House,4,1,3,"1,125m² ",2023
+"820,000 ","13 Jonathan Court,",BROWN HILL VIC 3350,House,4,2,2,834m² ,24 Nov 2023
+"2,800,000 ","7130 Midland Highway,",BUNINYONG VIC 3357,House,6,3,6,0,24 Nov 2023
+"629,000 ","14 Canadian Springs Drive,",CANADIAN VIC 3350,House,4,2,2,731m² ,24 Nov 2023
+"539,000 ","7 Southern Court,",DELACOMBE VIC 3356,House,3,2,2,792m² ,24 Nov 2023
+"488,000 ","63 Warburton Drive,",LUCAS VIC 3350,House,3,2,2,387m² ,24 Nov 2023
+"525,000 ","20 Normlyttle Parade,",MINERS REST VIC 3352,House,4,2,2,665m² ,24 Nov 2023
+"475,000","136 Mansfield Avenue,",MOUNT CLEAR VIC 3350,House,3,1,2,656m² ,24 Nov 2023
+"540,000 ","202 Eddy Avenue,",MOUNT HELEN VIC 3350,House,4,2,2,896m² ,24 Nov 2023
+"975,000 ","4 Heath Court,",BALLARAT NORTH VIC 3350,House,5,2,2,901m² ,23 Nov 2023
+"810,000","10 Rusty Rise,",BROWN HILL VIC 3350,House,5,2,4,827m² ,23 Nov 2023
+"795,000","618 Finchs Road,",BUNKERS HILL VIC 3352,House,3,1,6,0,23 Nov 2023
+"1,400,000 ","20 Four Star Road,",CRESWICK VIC 3363,House,5,2,2,"38,121m² ",23 Nov 2023
+"705,000 ","163 Browns-Scarsdale Road,",SCARSDALE VIC 3351,House,4,1,2,"8,532m² ",23 Nov 2023
+"1,300,550","227 Lydiard Street North,",SOLDIERS HILL VIC 3350,House,4,2,1,307m² ,23 Nov 2023
+"490,000 ","2 Owen Court,",SEBASTOPOL VIC 3356,House,3,2,4,950m² ,22 Nov 2023
+"395,000 ","4 Wills Court,",SEBASTOPOL VIC 3356,House,3,1,2,531m² ,22 Nov 2023
+"555,000 ","614 Armstrong Street North,",SOLDIERS HILL VIC 3350,House,3,1,1,459m² ,22 Nov 2023
+"402,000 ","368 Forest Street,",WENDOUREE VIC 3355,House,3,1,2,647m² ,22 Nov 2023
+"470,000 ","43 Stamford Street,",WENDOUREE VIC 3355,House,4,1,3,727m² ,22 Nov 2023
+"655,000 ","5 Chilton Close,",WINTER VALLEY VIC 3358,House,4,2,2,679m² ,22 Nov 2023
+"585,000 ","305 Ripon Street South,",BALLARAT CENTRAL VIC 3350,House,3,1,2,559m² ,21 Nov 2023
+"447,000 ","7 Montrose Street,",BALLARAT EAST VIC 3350,House,3,1,1,611m² ,21 Nov 2023
+"1,300,000 ","10 View Point Drive,",BALLARAT NORTH VIC 3350,House,4,2,4,"1,164m² ",21 Nov 2023
+"520,000 ","21 Dairymans Way,",BONSHAW VIC 3352,House,4,2,2,448m² ,21 Nov 2023
+"1,012,000 ","4 Allan Street,",BUNINYONG VIC 3357,House,4,3,2,"2,720m² ",21 Nov 2023
+"615,000 ","10 Greeves Street,",CLARENDON VIC 3352,House,3,1,2,"4,124m² ",21 Nov 2023
+"750,000 ","824 Tress Street,",MOUNT PLEASANT VIC 3350,House,4,2,2,647m² ,21 Nov 2023
+"415,000 ","85 Grant Street,",SEBASTOPOL VIC 3356,House,3,1,2,774m² ,21 Nov 2023
+"700,000 ","18 Coonatta Street,",ALFREDTON VIC 3350,House,4,2,2,891m² ,20 Nov 2023
+"615,000 ","328 Drummond St S,",BALLARAT CENTRAL VIC 3350,House,3,1,2,415m² ,20 Nov 2023
+"950,000 ","1 Observation Court,",BROWN HILL VIC 3350,House,4,2,2,735m² ,20 Nov 2023
+"665,000 ","16 Aquiver Terrace,",MINERS REST VIC 3352,House,4,2,6,830m² ,20 Nov 2023
+"530,000 ","18 Pelican Drive,",WINTER VALLEY VIC 3358,House,4,2,2,404m² ,20 Nov 2023
+"635,000 ","73 Willoby Drive,",ALFREDTON VIC 3350,House,4,2,2,497m² ,18 Nov 2023
+"380,000 ","1009 Havelock Street,",BALLARAT NORTH VIC 3350,House,3,1,2,747m² ,18 Nov 2023
+"280,000 ","205 Sutton Street,",REDAN VIC 3350,House,3,1,1,513m² ,18 Nov 2023
+"495,000 ","312 Landsborough Street,",BALLARAT NORTH VIC 3350,House,3,1,2,565m² ,17 Nov 2023
+"847,000 ","67 Clunes Road,",CRESWICK VIC 3363,House,4,1,3,"2,101m² ",17 Nov 2023
+"460,000 ","322 Greenhalghs Road,",DELACOMBE VIC 3356,House,3,2,2,549m² ,17 Nov 2023
+"525,650 ","11 Waller Avenue,",NEWINGTON VIC 3350,House,3,1,2,668m² ,17 Nov 2023
+"430,000 ","11 Yarra Park Drive,",SEBASTOPOL VIC 3356,House,3,1,1,244m² ,17 Nov 2023
+"790,000 ","569 Linton-Carngham Road,",SNAKE VALLEY VIC 3351,House,5,2,8,0,17 Nov 2023
+"380,000 ","1/105 Canterbury Street,",BROWN HILL VIC 3350,House,2,1,1,332m² ,16 Nov 2023
+"950,000 ","713 Remembrance Drive,",CARDIGAN VILLAGE VIC 3352,House,4,2,10,"6,834m² ",16 Nov 2023
+"568,000 ","1 Lionel Street,",CRESWICK VIC 3363,House,3,2,2,500m² ,16 Nov 2023
+"750,000 ","7 Eilish Court,",MOUNT HELEN VIC 3350,House,4,2,2,819m² ,16 Nov 2023
+"1,180,000 ","215 Raglan Street,",BALLARAT CENTRAL VIC 3350,House,4,2,2,668m² ,15 Nov 2023
+"755,000 ","7 Falkirk Road,",NERRINA VIC 3350,House,4,2,2,580m² ,15 Nov 2023
+"490,000 ","312 Brougham Street,",SOLDIERS HILL VIC 3350,House,3,1,1,529m² ,15 Nov 2023
+"485,000 ","2 Marilyn Street,",WENDOUREE VIC 3355,House,3,2,4,730m² ,15 Nov 2023
+"485,000 ","73 Hastings Street,",WENDOUREE VIC 3355,House,3,1,1,675m² ,15 Nov 2023
+"755,000 ","9 Sligo Street,",ALFREDTON VIC 3350,House,4,2,4,639m² ,14 Nov 2023
+"568,500 ","111 Moola Street,",BALLARAT NORTH VIC 3350,House,4,1,2,630m² ,14 Nov 2023
+"598,000 ","3 Mcauley Drive,",BROWN HILL VIC 3350,House,4,2,2,632m² ,14 Nov 2023
+"530,000 ","7 Reed Street,",CRESWICK VIC 3363,House,3,1,5,"1,121m² ",14 Nov 2023
+"735,000 ","33 Lake Gardens Avenue,",LAKE GARDENS VIC 3355,House,3,2,2,541m² ,14 Nov 2023
+"680,000 ","10 Barley Sheaf Drive,",MINERS REST VIC 3352,House,4,2,4,847m² ,14 Nov 2023
+"670,000 ","21 Hodge Street,",MINERS REST VIC 3352,House,5,2,3,678m² ,14 Nov 2023
+"1,550,000 ","921 Sebastopol-Smythesdale Road,",ROSS CREEK VIC 3351,House,5,2,10,0,14 Nov 2023
+"425,000 ","5 Kelvin Avenue,",SEBASTOPOL VIC 3356,House,3,1,2,645m² ,14 Nov 2023
+"580,000 ","58 Dorset Drive,",ALFREDTON VIC 3350,House,4,2,2,511m² ,13 Nov 2023
+"400,000 ","8 Ningana Street,",ALFREDTON VIC 3350,House,4,2,1,724m² ,13 Nov 2023
+"870,000 ","202-204 Nolan Street,",BUNINYONG VIC 3357,House,4,1,4,"2,629m² ",13 Nov 2023
+"475,500","24 Mackrell Road,",DEREEL VIC 3352,House,3,1,3,0,13 Nov 2023
+"555,000","46 Oakbank Drive,",MOUNT HELEN VIC 3350,House,4,2,2,759m² ,13 Nov 2023
+"455,000 ","49 Mcnulty Drive,",WENDOUREE VIC 3355,House,3,1,2,723m² ,13 Nov 2023
+"600,000 ","28 Park Street,",WENDOUREE VIC 3355,House,3,1,2,"1,018m² ",2023
+"617,500 ","18 Snowbird Road,",WINTER VALLEY VIC 3358,House,3,2,2,511m² ,13 Nov 2023
+"470,000 ","3 Sheehan Court,",BALLARAT EAST VIC 3350,House,3,2,2,339m² ,11 Nov 2023
+"545,000 ","7 Cavan Grove,",ALFREDTON VIC 3350,House,3,2,2,370m² ,10 Nov 2023
+"458,000 ","11 Chifley Drive,",DELACOMBE VIC 3356,House,3,2,2,397m² ,10 Nov 2023
+"887,000 ","206 Smythes Road,",DELACOMBE VIC 3356,House,4,2,6,"1,819m² ",10 Nov 2023
+"525,000 ","33 George Street,",EUREKA VIC 3350,House,3,1,2,477m² ,10 Nov 2023
+"685,000 ","26 Parbury Avenue,",LAKE GARDENS VIC 3355,House,4,2,2,400m² ,10 Nov 2023
+"720,000 ","80 Shortridge Drive,",LUCAS VIC 3350,House,4,2,2,511m² ,10 Nov 2023
+"940,000 ","27 Nightingale Street,",NEWINGTON VIC 3350,House,4,2,2,717m² ,10 Nov 2023
+"530,000 ","30 Gregory Street,",BLACK HILL VIC 3350,House,3,1,1,607m² ,09 Nov 2023
+"925,000","105 South Durham Bridge Road,",DURHAM LEAD VIC 3352,House,3,1,12,0,09 Nov 2023
+"1,335,000 ","305 Slatey Creek Road,",INVERMAY VIC 3352,House,5,2,4,0,09 Nov 2023
+"765,000 ","18 Tremain Drive,",LUCAS VIC 3350,House,4,2,2,704m² ,09 Nov 2023
+"700,000 ","17 Marxsen Parade,",LUCAS VIC 3350,House,4,2,2,540m² ,09 Nov 2023
+"825,000 ","270 Rosenows Road,",SCOTSBURN VIC 3352,House,4,2,3,0,09 Nov 2023
+"455,000 ","142 Yarrowee Street,",SEBASTOPOL VIC 3356,House,3,2,3,634m² ,09 Nov 2023
+"448,130 ","84 Grandview Grove,",WENDOUREE VIC 3355,House,3,2,2,657m² ,09 Nov 2023
+"525,000 ","22 Windsor Avenue,",ALFREDTON VIC 3350,House,4,2,2,663m² ,08 Nov 2023
+"900,000 ","303 Eddy Avenue,",MOUNT HELEN VIC 3350,House,3,2,2,"3,355m² ",08 Nov 2023
+"600,000 ","25a Spoonbill Avenue,",WINTER VALLEY VIC 3358,House,4,2,2,525m² ,08 Nov 2023
+"895,000 ","71 Sorrento Drive,",ALFREDTON VIC 3350,House,4,3,4,730m² ,07 Nov 2023
+"600,000 ","18 Simpson Street,",BUNINYONG VIC 3357,House,4,2,2,"1,012m² ",07 Nov 2023
+"572,900","32 Augusta Drive,",CRESWICK VIC 3363,House,2,1,1,300m² ,07 Nov 2023
+"577,500 ","20 Flewin Avenue,",MINERS REST VIC 3352,House,4,2,2,633m² ,07 Nov 2023
+"780,000 ","27 Signature Drive,",ALFREDTON VIC 3350,House,4,2,2,418m² ,06 Nov 2023
+"530,000 ","13 Rogers Court,",BALLARAT EAST VIC 3350,House,3,1,4,825m² ,06 Nov 2023
+"385,000 ","1/208 Landsborough Street,",BALLARAT NORTH VIC 3350,House,2,1,1,206m² ,06 Nov 2023
+"605,000 ","612 Barkly Street,",BUNINYONG VIC 3357,House,3,1,2,863m² ,06 Nov 2023
+"400,000 ","39 Royale Street,",DELACOMBE VIC 3356,House,3,1,1,304m² ,06 Nov 2023
+"520,000 ","15 Barley Sheaf Drive,",MINERS REST VIC 3352,House,3,2,3,614m² ,06 Nov 2023
+"395,000 ","223 Otway Street South,",BALLARAT EAST VIC 3350,House,2,1,2,700m² ,04 Nov 2023
+"650,000 ","21 Armagh Street,",ALFREDTON VIC 3350,House,4,2,2,511m² ,03 Nov 2023
+"445,000 ","807 Urquhart Street,",BALLARAT CENTRAL VIC 3350,House,3,2,2,397m² ,03 Nov 2023
+"385,000 ","625 Wilson Street,",BALLARAT EAST VIC 3350,House,3,1,2,844m² ,03 Nov 2023
+"730,000 ","61 Lake Gardens Avenue,",LAKE GARDENS VIC 3355,House,3,2,2,612m² ,03 Nov 2023
+"525,000 ","3 Kinsman Drive,",LUCAS VIC 3350,House,3,2,2,330m² ,03 Nov 2023
+"1,075,000","82 Shortridge Drive,",LUCAS VIC 3350,House,4,3,2,638m² ,03 Nov 2023
+"620,000 ","19 Lowry Crescent,",MINERS REST VIC 3352,House,3,3,6,712m² ,03 Nov 2023
+"360,000 ","309 Albert Street,",SEBASTOPOL VIC 3356,House,1,1,1,852m² ,03 Nov 2023
+"545,000 ","201 Tait Street,",SEBASTOPOL VIC 3356,House,4,2,2,448m² ,03 Nov 2023
+"555,000 ","6 Diesel Court,",SEBASTOPOL VIC 3356,House,3,2,2,631m² ,03 Nov 2023
+"425,000 ","1023 Norman Street,",WENDOUREE VIC 3355,House,3,1,1,625m² ,03 Nov 2023
+"720,000 ","201 Talbot Street South,",BALLARAT CENTRAL VIC 3350,House,4,1,2,453m² ,02 Nov 2023
+"655,000 ","4 Moola Street,",BLACK HILL VIC 3350,House,4,2,2,645m² ,02 Nov 2023
+"655,000 ","20 Tulloch Rise,",CANADIAN VIC 3350,House,4,2,2,645m² ,02 Nov 2023
+"405,000 ","111 Lylia Avenue,",MOUNT CLEAR VIC 3350,House,2,1,3,"1,105m² ",02 Nov 2023
+"505,000 ","25 Bradby Avenue,",MOUNT CLEAR VIC 3350,House,3,1,2,800m² ,02 Nov 2023
+"455,000 ","38 Carpenter Street,",WENDOUREE VIC 3355,House,3,1,2,636m² ,02 Nov 2023
+"425,000 ","21 Hastings Street,",WENDOUREE VIC 3355,House,3,1,3,602m² ,02 Nov 2023
+"495,000 ","13 Elizabeth Street,",WENDOUREE VIC 3355,House,3,1,2,600m² ,02 Nov 2023
+"632,000 ","7 Chelsea Place,",ALFREDTON VIC 3350,House,4,2,2,796m² ,01 Nov 2023
+"400,000 ","408 Joseph Street,",CANADIAN VIC 3350,House,3,1,2,704m² ,01 Nov 2023
+"570,000 ","202 Greenhalghs Road,",DELACOMBE VIC 3356,House,5,3,5,700m² ,01 Nov 2023
+"592,000 ","32 Norfolk Avenue,",LAKE GARDENS VIC 3355,House,2,2,1,350m² ,01 Nov 2023
+"570,000 ","75 Waterford Drive,",MINERS REST VIC 3352,House,4,2,2,546m² ,01 Nov 2023
+"880,000 ","61 Egerton - Bungeeltop Road,",MOUNT EGERTON VIC 3352,House,3,1,7,0,01 Nov 2023
+"320,000 ","15 Linden Avenue,",WENDOUREE VIC 3355,House,3,1,2,612m² ,01 Nov 2023
+"590,000 ","172 Majestic Way,",WINTER VALLEY VIC 3358,House,4,2,2,575m² ,01 Nov 2023
+"510,000 ","423 Greenhalghs Road,",WINTER VALLEY VIC 3358,House,4,2,4,563m² ,01 Nov 2023
+"665,000 ","631 Hitchcock road,",BUNINYONG VIC 3357,House,4,2,4,855m² ,31 Oct 2023
+"1,000,000 ","121 Albert Street,",CRESWICK VIC 3363,House,4,1,3,"2,599m² ",31 Oct 2023
+"630,000 ","33 Kensington Boulevard,",SMYTHES CREEK VIC 3351,House,4,2,2,512m² ,31 Oct 2023
+"597,500","13 Park Street,",WENDOUREE VIC 3355,House,3,1,2,991m² ,31 Oct 2023
+"795,000 ","385 Yendon No 2 Road,",YENDON VIC 3352,House,4,1,1,0,31 Oct 2023
+"720,000 ","13 Southdown Court,",ALFREDTON VIC 3350,House,4,2,2,840m² ,30 Oct 2023
+"1,040,000 ","227 Raglan Street,",BALLARAT CENTRAL VIC 3350,House,5,2,2,664m² ,30 Oct 2023
+"800,000 ","38 Shortridge Drive,",LUCAS VIC 3350,House,4,2,2,612m² ,30 Oct 2023
+"410,000 ","804 Tress Street,",MOUNT PLEASANT VIC 3350,House,3,1,1,457m² ,30 Oct 2023
+"1,650,000 ","803-805 Ligar Street,",SOLDIERS HILL VIC 3350,House,5,3,2,"1,537m² ",30 Oct 2023
+"581,000 ","50 Royal York Road,",WINTER VALLEY VIC 3358,House,4,2,2,538m² ,30 Oct 2023
+"565,000 ","301 Raglan Street South,",BALLARAT CENTRAL VIC 3350,House,3,1,1,407m² ,2023
+"375,000 ","15 Iona Drive,",SEBASTOPOL VIC 3356,House,4,2,1,665m² ,2023
+"555,000 ","7 Claxton Street,",BALLARAT CENTRAL VIC 3350,House,3,1,2,410m² ,27 Oct 2023
+"530,000 ","7 Cecile Court,",BALLARAT EAST VIC 3350,House,4,2,2,512m² ,27 Oct 2023
+"490,000 ","207 Scott Parade,",BALLARAT EAST VIC 3350,House,3,1,2,650m² ,27 Oct 2023
+"450,000 ","18 Lovenear Grove,",BALLARAT EAST VIC 3350,House,3,1,2,543m² ,27 Oct 2023
+"627,000 ","1109 Armstrong Street North,",BALLARAT NORTH VIC 3350,House,3,1,4,606m² ,27 Oct 2023
+"900,000 ","46 Apple Orchard Drive,",BROWN HILL VIC 3350,House,4,2,3,920m² ,27 Oct 2023
+"670,000 ","19 Blair Street,",GOLDEN POINT VIC 3350,House,3,2,2,675m² ,27 Oct 2023
+"1,040,000","5 Parker Street,",LAKE WENDOUREE VIC 3350,House,3,2,1,461m² ,27 Oct 2023
+"550,000 ","93 Grainger Parade,",LUCAS VIC 3350,House,4,2,2,456m² ,27 Oct 2023
+"695,000 ","1 Selwyn Street,",MINERS REST VIC 3352,House,4,2,2,728m² ,27 Oct 2023
+"520,500 ","401 Leith Street,",REDAN VIC 3350,House,2,1,2,560m² ,27 Oct 2023
+"500,000 ","7 Parkgate Lane,",SEBASTOPOL VIC 3356,House,3,2,2,422m² ,27 Oct 2023
+"475,000 ","25 Mia Street,",ALFREDTON VIC 3350,House,3,2,1,235m² ,26 Oct 2023
+"450,000 ","303 Barkly Street,",BUNINYONG VIC 3357,House,3,2,1,683m² ,26 Oct 2023
+"685,000 ","131 Moss Avenue,",MOUNT HELEN VIC 3350,House,4,2,4,"1,475m² ",26 Oct 2023
+"537,500 ","4 Bellbird Court,",MOUNT HELEN VIC 3350,House,4,2,2,836m² ,26 Oct 2023
+"625,000 ","718 Skipton Street,",REDAN VIC 3350,House,4,3,2,693m² ,26 Oct 2023
+"590,000 ","4 Laurence Drive,",SNAKE VALLEY VIC 3351,House,3,1,8,0,26 Oct 2023
+"495,000 ","5 Prefect Street,",WENDOUREE VIC 3355,House,4,2,2,613m² ,26 Oct 2023
+"950,000 ","312 Windermere Street,",BALLARAT CENTRAL VIC 3350,House,4,2,2,703m² ,25 Oct 2023
+"478,000 ","2 Chifley Drive,",DELACOMBE VIC 3356,House,3,2,2,347m² ,25 Oct 2023
+"700,000 ","638 Barkly Street,",GOLDEN POINT VIC 3350,House,3,2,2,988m² ,25 Oct 2023
+"425,000 ","10 Grandison Avenue,",MOUNT CLEAR VIC 3350,House,3,2,2,625m² ,5 Oct 2023
+"310,000 ","15 Tristan Drive,",SEBASTOPOL VIC 3356,House,2,1,1,175m² ,25 Oct 2023
+"780,000 ","206 Bush Inn Road,",WATTLE FLAT VIC 3352,House,2,1,3,0,25 Oct 2023
+"380,000 ","15 Cromwell Street,",WENDOUREE VIC 3355,House,3,1,1,287m² ,25 Oct 2023
+"570,000 ","9 Indi Street,",ALFREDTON VIC 3350,House,4,2,2,725m² ,24 Oct 2023
+"655,000 ","7 Kestrel Court,",INVERMAY PARK VIC 3350,House,4,2,2,751m² ,24 Oct 2023
+"420,000 ","60 Ashwood Gardens,",MITCHELL PARK VIC 3355,House,3,1,2,300m² ,24 Oct 2023
+"752,000","16 Horwood Drive,",MOUNT CLEAR VIC 3350,House,4,2,2,711m² ,24 Oct 2023
+"590,000 ","1 Oakbank Drive,",MOUNT HELEN VIC 3350,House,4,2,2,700m² ,24 Oct 2023
+"620,000 ","2063 Sunraysia Highway,",WAUBRA VIC 3352,House,2,1,−,"2,268m² ",24 Oct 2023
+"570,000 ","109 Aspect Parade,",ALFREDTON VIC 3350,House,3,2,2,391m² ,23 Oct 2023
+"780,400","12 Brooksbank Court,",BLACK HILL VIC 3350,House,3,2,4,"1,619m² ",23 Oct 2023
+"420,000 ","412 Learmonth Road,",MITCHELL PARK VIC 3355,House,3,1,4,588m² ,23 Oct 2023
+"440,000","5 The Gums,",MOUNT CLEAR VIC 3350,House,3,1,2,607m² ,23 Oct 2023
+"480,000 ","2 Muir Crescent,",NEWINGTON VIC 3350,House,3,1,2,529m² ,23 Oct 2023
+"300,000 ","709 Talbot Street South,",REDAN VIC 3350,House,3,2,1,360m² ,23 Oct 2023
+"265,000 ","90 Beverin Street,",SEBASTOPOL VIC 3356,House,3,1,1,613m² ,23 Oct 2023
+"650,000 ","14 Merino Drive,",ALFREDTON VIC 3350,House,4,2,2,756m² ,21 Oct 2023
+"840,000 ","24 St Swindons Avenue,",LAKE GARDENS VIC 3355,House,4,2,2,636m² ,21 Oct 2023
+"450,000","43 Harold Street,",WENDOUREE VIC 3355,House,3,1,2,611m² ,21 Oct 2023
+"862,500 ","211 Lyons Street North,",BALLARAT CENTRAL VIC 3350,House,3,1,1,587m² ,20 Oct 2023
+"723,400 ","13 Princes Street North,",BALLARAT EAST VIC 3350,House,4,2,1,712m² ,20 Oct 2023
+"660,000 ","1 Orkney Court,",BALLARAT NORTH VIC 3350,House,4,2,2,653m² ,20 Oct 2023
+"600,000 ","65 Ascot Gardens Drive,",DELACOMBE VIC 3356,House,3,2,2,664m² ,20 Oct 2023
+"795,000 ","9 Granland Way,",LUCAS VIC 3350,House,4,2,3,612m² ,20 Oct 2023
+"1,500,000","22 Durham Street,",NEWINGTON VIC 3350,House,4,2,3,712m² ,20 Oct 2023
+"390,000 ","12 Kowree Crescent,",SEBASTOPOL VIC 3356,House,2,2,2,308m² ,20 Oct 2023
+"400,000 ","7 Williams Street,",WENDOUREE VIC 3355,House,3,1,2,658m² ,20 Oct 2023
+"650,000 ","74 Dorset Drive,",ALFREDTON VIC 3350,House,4,2,2,512m² ,19 Oct 2023
+"450,000 ","401 Simpson Street,",BUNINYONG VIC 3357,House,3,1,2,613m² ,19 Oct 2023
+"529,000 ","4A Hickory Lane,",CRESWICK VIC 3363,House,2,2,2,306m² ,19 Oct 2023
+"479,000 ","4B Hickory Lane,",CRESWICK VIC 3363,House,2,2,1,186m² ,19 Oct 2023
+"420,000 ","301 Gladstone Street,",GOLDEN POINT VIC 3350,House,2,1,2,711m² ,19 Oct 2023
+"535,000 ","7 Wicklow Drive,",INVERMAY PARK VIC 3350,House,3,2,4,873m² ,19 Oct 2023
+"830,000 ","33 St Chester Avenue,",LAKE GARDENS VIC 3355,House,4,2,3,663m² ,19 Oct 2023
+"480,000 ","4 Mountview Drive,",SEBASTOPOL VIC 3356,House,2,1,1,598m² ,19 Oct 2023
+"540,000 ","23 Edwina Road,",WINTER VALLEY VIC 3358,House,4,2,2,443m² ,19 Oct 2023
+"535,000 ","6 Barkly Street,",BALLARAT EAST VIC 3350,House,3,1,2,405m² ,18 Oct 2023
+"360,000 ","1/53 Melbourne Road,",BROWN HILL VIC 3350,House,2,1,1,275m² ,18 Oct 2023
+"665,000 ","21 Crowther Drive,",LUCAS VIC 3350,House,4,2,3,576m² ,18 Oct 2023
+"480,000 ","3 Kara Court,",SEBASTOPOL VIC 3356,House,4,1,4,993m² ,18 Oct 2023
+"1,121,560 ","50 Parkview Drive,",ALFREDTON VIC 3350,House,4,2,6,880m² ,17 Oct 2023
+"2,450,000","22 Waterway Drive,",ALFREDTON VIC 3350,House,4,3,2,"1,051m² ",17 Oct 2023
+"470,000 ","41 Haines Street,",CRESWICK VIC 3363,House,3,1,1,972m² ,17 Oct 2023
+"542,500 ","29 Devon Court,",HADDON VIC 3351,House,3,1,1,0,17 Oct 2023
+"400,000 ","304 Nicholson Street,",BALLARAT EAST VIC 3350,House,2,1,−,250m² ,16 Oct 2023
+"1,865,000 ","2 Isla Court,",GLEN PARK VIC 3352,House,5,3,10,"68,796m² ",16 Oct 2023
+"600,000 ","73 Waterford Drive,",MINERS REST VIC 3352,House,4,2,2,545m² ,16 Oct 2023
+"490,000 ","2105 Geelong Road,",MOUNT HELEN VIC 3350,House,3,1,2,"1,326m² ",16 Oct 2023
+"650,000 ","16 Bowerbird Grange,",WINTER VALLEY VIC 3358,House,4,2,2,480m² ,16 Oct 2023
+"1,130,000","17 Treetop Drive,",CARDIGAN VIC 3352,House,4,2,4,"2,000m² ",14 Oct 2023
+"528,800 ","23 Echo Place,",ALFREDTON VIC 3350,House,3,2,2,360m² ,13 Oct 2023
+"695,000 ","182 Cuthberts Road,",ALFREDTON VIC 3350,House,4,2,3,792m² ,13 Oct 2023
+"435,000 ","101 Eyre Street,",BALLARAT CENTRAL VIC 3350,House,2,1,2,405m² ,13 Oct 2023
+"330,000 ","848 Eureka Street,",BALLARAT EAST VIC 3350,House,1,1,−,845m² ,13 Oct 2023
+"675,000 ","305 Scott Street,",BUNINYONG VIC 3357,House,4,2,3,977m² ,13 Oct 2023
+"635,000 ","61 Ascot Gardens Drive,",DELACOMBE VIC 3356,House,4,2,2,700m² ,13 Oct 2023
+"1,260,000","87 Taemore Close,",HADDON VIC 3351,House,5,2,6,0,13 Oct 2023
+"690,000 ","54 Harrier Drive,",INVERMAY PARK VIC 3350,House,3,2,6,863m² ,13 Oct 2023
+"1,800,000 ","1 Parade Court,",LAKE WENDOUREE VIC 3350,House,4,3,2,697m² ,13 Oct 2023
+"403,000 ","2/27 Recreation Road,",MOUNT CLEAR VIC 3350,House,3,2,2,389m² ,13 Oct 2023
+"650,000 ","237 Pitfield-Scarsdale Road,",NEWTOWN VIC 3351,House,4,2,4,"8,094m² ",13 Oct 2023
+"550,000 ","26 Baglin Street,",SMYTHESDALE VIC 3351,House,4,2,6,"5,000m² ",13 Oct 2023
+"572,000 ","32 Lauderdale Avenue,",ALFREDTON VIC 3350,House,4,2,2,647m² ,12 Oct 2023
+"850,000 ","105 Cuthberts Road,",ALFREDTON VIC 3350,House,5,2,6,899m² ,12 Oct 2023
+"745,000 ","1865 Sturt Street,",ALFREDTON VIC 3350,House,4,2,2,896m² ,12 Oct 2023
+"520,000 ","28 Windermere Way,",CARDIGAN VILLAGE VIC 3352,House,3,2,2,732m² ,12 Oct 2023
+"700,000 ","4 Kildare Court,",INVERMAY PARK VIC 3350,House,4,2,2,971m² ,12 Oct 2023
+"800,000 ","13 St Chester Avenue,",LAKE GARDENS VIC 3355,House,4,2,2,602m² ,12 Oct 2023
+"668,000 ","107 Boak Avenue,",MOUNT HELEN VIC 3350,House,4,2,2,864m² ,12 Oct 2023
+"586,500 ","630 Bell Street,",REDAN VIC 3350,House,3,1,1,783m² ,12 Oct 2023
+"466,500 ","18 King Street,",CRESWICK VIC 3363,House,2,1,−,"1,376m² ",11 Oct 2023
+"685,000 ","29 Howe Street,",MINERS REST VIC 3352,House,4,2,4,683m² ,11 Oct 2023
+"610,000 ","88 Hermitage Avenue,",MOUNT CLEAR VIC 3350,House,4,2,2,822m² ,11 Oct 2023
+"1,385,000","9 Vernons Road,",ROSS CREEK VIC 3351,House,4,2,6,0,11 Oct 2023
+"530,000 ","51 Patriot Crescent,",SMYTHES CREEK VIC 3351,House,4,2,2,512m² ,11 Oct 2023
+"600,000 ","46 Wedge Tail Drive,",WINTER VALLEY VIC 3358,House,4,2,2,490m² ,11 Oct 2023
+"580,000 ","12 Towong Street,",ALFREDTON VIC 3350,House,3,2,2,372m² ,10 Oct 2023
+"350,000 ","103 Scott Parade,",BALLARAT EAST VIC 3350,House,3,1,1,545m² ,10 Oct 2023
+"480,000 ","38 Corbett Street,",BALLARAT EAST VIC 3350,House,3,1,3,515m² ,10 Oct 2023
+"960,000 ","13 Doodts Road,",BLACK HILL VIC 3350,House,4,2,2,506m² ,10 Oct 2023
+"671,500 ","13 Overall Street,",LUCAS VIC 3350,House,3,2,2,448m² ,10 Oct 2023
+"405,000 ","3 Waverley Lane,",MOUNT CLEAR VIC 3350,House,3,1,1,366m² ,10 Oct 2023
+"485,000 ","40 Baudinette Drive,",SEBASTOPOL VIC 3356,House,4,2,2,517m² ,10 Oct 2023
+"620,000 ","221 Kossuth Street,",SEBASTOPOL VIC 3356,House,6,2,2,720m² ,10 Oct 2023
+"590,000 ","55 Royal York Road,",WINTER VALLEY VIC 3358,House,4,2,2,576m² ,10 Oct 2023
+"780,000 ","109 Wexford Street,",ALFREDTON VIC 3350,House,4,2,2,605m² ,09 Oct 2023
+"695,000 ","18 Anderson Street West,",BALLARAT CENTRAL VIC 3350,House,4,2,2,744m² ,09 Oct 2023
+"432,500 ","3/4 Gordon Street,",BALLARAT EAST VIC 3350,House,2,1,1,373m² ,09 Oct 2023
+"726,000 ","61 Grevillea Drive,",ENFIELD VIC 3352,House,4,2,4,"5,113m² ",09 Oct 2023
+"825,000 ","78 Shortridge Drive,",LUCAS VIC 3350,House,4,2,2,447m² ,09 Oct 2023
+"640,000 ","36 Glens Road,",NEWTOWN VIC 3351,House,3,1,4,"12,140m² ",09 Oct 2023
+"352,000 ","105 Albert Street,",SEBASTOPOL VIC 3356,House,3,1,2,880m² ,09 Oct 2023
+"465,000 ","6 Seymour Crescent,",SOLDIERS HILL VIC 3350,House,2,1,1,334m² ,09 Oct 2023
+"780,000","10 Caviar Court,",MINERS REST VIC 3352,House,4,2,2,997m² ,07 Oct 2023
+"782,000 ","4 Goldwood Drive,",ALFREDTON VIC 3350,House,5,2,2,486m² ,06 Oct 2023
+"590,000 ","44 Lugano Avenue,",ALFREDTON VIC 3350,House,3,2,2,448m² ,06 Oct 2023
+"940,000 ","613 Barkly Street,",BUNINYONG VIC 3357,House,4,2,4,"1,721m² ",06 Oct 2023
+"720,000 ","76 Ascot Gardens Drive,",DELACOMBE VIC 3356,House,4,2,3,666m² ,06 Oct 2023
+"445,000 ","2/102A Lylia Avenue,",MOUNT CLEAR VIC 3350,House,3,2,2,381m² ,06 Oct 2023
+"345,000 ","3/38 Orion Street,",SEBASTOPOL VIC 3356,House,2,1,1,192m² ,06 Oct 2023
+"355,000 ","15 Dover Street,",WENDOUREE VIC 3355,House,3,1,2,606m² ,06 Oct 2023
+"582,000 ","7 Kate Street,",WINTER VALLEY VIC 3358,House,4,2,2,576m² ,06 Oct 2023
+"915,000 ","22 Cuzens Road,",ALFREDTON VIC 3350,House,4,2,8,897m² ,05 Oct 2023
+"370,000","8 Coffield Street,",BALLARAT EAST VIC 3350,House,2,1,1,609m² ,05 Oct 2023
+"530,000 ","402 Landsborough Street,",BALLARAT NORTH VIC 3350,House,4,1,2,683m² ,2023
+"560,000 ","7 Sweeney Street,",BLACK HILL VIC 3350,House,3,1,1,612m² ,05 Oct 2023
+"1,820,000","7161 Midland Highway,",BUNINYONG VIC 3357,House,5,3,10,0,05 Oct 2023
+"602,000 ","124 Mansfield Avenue,",MOUNT CLEAR VIC 3350,House,4,2,3,842m² ,05 Oct 2023
+"900,000 ","3 Illana Street,",BROWN HILL VIC 3350,House,4,2,2,741m² ,04 Oct 2023
+"950,000 ","9 McGrath Court,",CARDIGAN VIC 3352,House,5,2,2,"4,046m² ",04 Oct 2023
+"635,000 ","38 Lugano Avenue,",ALFREDTON VIC 3350,House,4,2,2,508m² ,03 Oct 2023
+"417,000 ","109 Little Dodds Street,",GOLDEN POINT VIC 3350,House,3,1,−,411m² ,03 Oct 2023
+"680,000 ","14 Lindisfarne Crescent,",LAKE WENDOUREE VIC 3350,House,3,1,1,465m² ,03 Oct 2023
+"555,000 ","16 Gitsham Street,",LUCAS VIC 3350,House,3,2,2,448m² ,03 Oct 2023
+"710,000 ","502 Bell Street,",REDAN VIC 3350,House,3,2,2,472m² ,03 Oct 2023
+"710,000 ","3 Teal Avenue,",BALLARAT NORTH VIC 3350,House,3,2,4,774m² ,02 Oct 2023
+"930,000 ","102 B Caffrey st,",BUNINYONG VIC 3357,House,4,2,2,"1,152m² ",02 Oct 2023
+"930,000","364 Ballarat-Daylesford Road,",POOTILLA VIC 3352,House,2,1,2,0,02 Oct 2023
+"755,000 ","6 Rockingham Place,",ALFREDTON VIC 3350,House,4,2,2,"1,128m² ",01 Oct 2023
+"1,150,000","169 Blind Creek Road,",CARDIGAN VIC 3352,House,4,2,6,"4,047m² ",30 Sep 2023
+"605,000 ","902a Sebastopol Street,",BALLARAT CENTRAL VIC 3350,House,3,2,2,353m² ,29 Sep 2023
+"950,000 ","155 Kennedys Road,",SMYTHES CREEK VIC 3351,House,4,2,4,0,29 Sep 2023
+"650,000 ","51 Gillies Street South,",ALFREDTON VIC 3350,House,3,1,2,"1,184m² ",28 Sep 2023
+"817,000 ","15 Mikaela Court,",BALLARAT NORTH VIC 3350,House,4,2,4,474m² ,28 Sep 2023
+"715,000 ","1118 Lydiard Street,",BALLARAT NORTH VIC 3350,House,4,2,2,829m² ,28 Sep 2023
+"555,000","417 Eureka Street,",EUREKA VIC 3350,House,3,1,1,701m² ,28 Sep 2023
+"782,000 ","14 Garden Court,",LAKE GARDENS VIC 3355,House,4,2,2,631m² ,28 Sep 2023
+"580,000 ","19 Newmarket Terrace,",MINERS REST VIC 3352,House,4,2,3,555m² ,28 Sep 2023
+"580,000 ","3 Shire Avenue,",MOUNT HELEN VIC 3350,House,4,1,4,"1,032m² ",28 Sep 2023
+"493,000 ","14 Campbells Crescent,",REDAN VIC 3350,House,3,1,2,518m² ,28 Sep 2023
+"542,000 ","31 Mountview Drive,",SEBASTOPOL VIC 3356,House,3,2,2,641m² ,28 Sep 2023
+"405,000 ","10 Longley Street,",ALFREDTON VIC 3350,House,3,1,2,560m² ,27 Sep 2023
+"490,000 ","909 Armstrong Street,",BALLARAT NORTH VIC 3350,House,3,1,4,612m² ,27 Sep 2023
+"505,000 ","227 Walker Street,",BALLARAT NORTH VIC 3350,House,3,1,1,682m² ,27 Sep 2023
+"629,000","503 Scott Street,",BUNINYONG VIC 3357,House,3,2,2,"1,029m² ",27 Sep 2023
+"385,000 ","35 Whitelaw Avenue,",DELACOMBE VIC 3356,House,3,1,3,686m² ,27 Sep 2023
+"650,000 ","3 Jamb Court,",MINERS REST VIC 3352,House,3,2,2,452m² ,27 Sep 2023
+"530,000 ","6 Sprinter Way,",WINTER VALLEY VIC 3358,House,4,2,2,436m² ,27 Sep 2023
+"820,000 ","12 Mayo Street,",ALFREDTON VIC 3350,House,4,2,2,640m² ,26 Sep 2023
+"545,000 ","7 Learmonth Street,",ALFREDTON VIC 3350,House,3,1,1,779m² ,26 Sep 2023
+"655,000 ","28 Evergreen Drive,",ALFREDTON VIC 3350,House,3,2,2,443m² ,26 Sep 2023
+"730,000 ","12 Woodmans Rise,",BROWN HILL VIC 3350,House,4,2,2,728m² ,26 Sep 2023
+"815,000 ","109 Barkly Street,",BUNINYONG VIC 3357,House,4,2,2,"1,201m² ",26 Sep 2023
+"170,000 ","850 Cape Clear Rokewood Road,",ILLABAROOK VIC 3351,House,3,1,2,"2,074m² ",26 Sep 2023
+"535,000 ","18 McGeachin Street,",LUCAS VIC 3350,House,3,2,2,352m² ,26 Sep 2023
+"480,000 ","3 Brind Way,",LUCAS VIC 3350,House,4,2,2,336m² ,2023
+"540,000 ","11 Maurie Paull Court,",MOUNT CLEAR VIC 3350,House,3,2,2,603m² ,26 Sep 2023
+"602,000 ","6 Brookside Drive,",MOUNT CLEAR VIC 3350,House,3,2,2,945m² ,26 Sep 2023
+"640,000 ","30a Horwood Drive,",MOUNT CLEAR VIC 3350,House,4,2,2,544m² ,26 Sep 2023
+"550,000 ","4 Poplar Street,",WENDOUREE VIC 3355,House,3,1,2,"1,045m² ",26 Sep 2023
+"600,000 ","2 Poplar Street,",WENDOUREE VIC 3355,House,3,1,2,"1,039m² ",26 Sep 2023
+"810,000 ","404 Darling Street,",REDAN VIC 3350,House,4,2,2,630m² ,25 Sep 2023
+"430,000 ","413 Havelock Street,",SOLDIERS HILL VIC 3350,House,3,1,−,661m² ,25 Sep 2023
+"530,000","2B Kenny Street,",BALLARAT EAST VIC 3350,House,3,2,2,419m² ,24 Sep 2023
+"480,000 ","15 Clydesdale Drive,",BONSHAW VIC 3352,House,3,2,2,374m² ,23 Sep 2023
+"930,000 ","8 Signature Drive,",ALFREDTON VIC 3350,House,4,2,3,420m² ,22 Sep 2023
+"570,000 ","12 Obrien Drive,",ALFREDTON VIC 3350,House,4,2,2,575m² ,22 Sep 2023
+"375,000 ","10 Rorey Street,",DELACOMBE VIC 3356,House,2,1,1,281m² ,22 Sep 2023
+"385,000 ","131 Bliss Road,",DEREEL VIC 3352,House,2,1,2,0,22 Sep 2023
+"450,000","119 Boak Avenue,",MOUNT HELEN VIC 3350,House,4,2,1,864m² ,22 Sep 2023
+"410,000 ","8 Bolton Street,",SEBASTOPOL VIC 3356,House,3,2,2,318m² ,22 Sep 2023
+"605,000 ","10 Cork Street,",ALFREDTON VIC 3350,House,4,2,2,540m² ,21 Sep 2023
+"600,000 ","3 Charles Street,",CRESWICK VIC 3363,House,3,2,4,"1,800m² ",21 Sep 2023
+"820,000 ","46 St Helens Avenue,",LAKE GARDENS VIC 3355,House,3,2,3,657m² ,21 Sep 2023
+"793,000 ","5 Sobey Street,",MOUNT HELEN VIC 3350,House,3,2,2,"1,246m² ",21 Sep 2023
+"950,000","1759 Buninyong - Mt Mercer Road,",MOUNT MERCER VIC 3352,House,3,2,4,0,21 Sep 2023
+"570,000 ","515 Ascot Street,",REDAN VIC 3350,House,3,1,2,505m² ,21 Sep 2023
+"850,000 ","819 Brays Road,",ROSS CREEK VIC 3351,House,3,2,3,0,21 Sep 2023
+"480,000 ","147 Albert Street,",SEBASTOPOL VIC 3356,House,3,1,2,669m² ,21 Sep 2023
+"500,000 ","968 Smythesdale-Snake Valley Road,",SNAKE VALLEY VIC 3351,House,3,1,4,"2,137m² ",21 Sep 2023
+"490,000 ","1029 Grevillea Road,",WENDOUREE VIC 3355,House,3,1,3,671m² ,21 Sep 2023
+"585,000 ","15 Barn Owl Avenue,",WINTER VALLEY VIC 3358,House,4,2,2,612m² ,21 Sep 2023

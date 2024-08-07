@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"495,000 ","2 Buller Street,",BENDIGO VIC 3550,House,2,1,2,274m² ,23 Apr 2024
+"600,000 ","222 King Street,",BENDIGO VIC 3550,House,3,1,2,340m² ,30 Mar 2024
+"1,300,000 ","12 Frederick Street,",BENDIGO VIC 3550,House,4,2,2,797m² ,20 Mar 2024
+"610,000 ","200 Queen Street,",BENDIGO VIC 3550,House,2,1,1,488m² ,07 Mar 2024
+"470,000","143 Barnard Street,",BENDIGO VIC 3550,House,3,1,2,455m² ,01 Mar 2024
+"865,000 ","166 Queen Street,",BENDIGO VIC 3550,House,3,1,6,620m² ,29 Feb 2024
+"470,000 ","223 McCrae Street,",BENDIGO VIC 3550,House,2,1,1,523m² ,27 Feb 2024
+"450,000","1 Cornish St,",BENDIGO VIC 3550,House,3,1,2,488m² ,27 Feb 2024
+"430,000 ","13/83-87 Arnold Street,",BENDIGO VIC 3550,House,2,2,2,80m² ,13 Feb 2024
+"1,200,000 ","559 Hargreaves Street,",BENDIGO VIC 3550,House,4,2,2,880m² ,12 Feb 2024
+"795,000 ","37 Old Violet Street,",BENDIGO VIC 3550,House,3,1,−,383m² ,08 Feb 2024
+"530,000 ","129 Lily Street,",BENDIGO VIC 3550,House,3,2,1,475m² ,08 Feb 2024
+"1,660,000 ","75 Wills Street,",BENDIGO VIC 3550,House,5,3,4,980m² ,07 Feb 2024
+"660,000 ","1 Caledonia Street,",BENDIGO VIC 3550,House,3,1,2,620m² ,06 Feb 2024
+"440,000 ","44 Drought Street,",BENDIGO VIC 3550,House,3,1,4,461m² ,02 Feb 2024
+"680,000 ","26 Barkly Street,",BENDIGO VIC 3550,House,3,1,2,412m² ,01 Feb 2024
+"600,000 ","40 Curtin Street,",BENDIGO VIC 3550,House,3,2,2,552m² ,12 Jan 2024
+"400,000 ","89 Brougham Street,",BENDIGO VIC 3550,House,2,1,1,323m² ,10 Jan 2024
+"750,000 ","542 Hargreaves Street,",BENDIGO VIC 3550,House,4,2,4,895m² ,09 Jan 2024
+"890,000 ","77 Brougham Street,",BENDIGO VIC 3550,House,3,2,2,423m² ,04 Jan 2024
+"600,000","34 Arnold Street,",BENDIGO VIC 3550,House,3,1,2,435m² ,20 Dec 2023
+"608,000 ","501 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,2,581m² ,15 Dec 2023
+"450,000 ","212 McCrae Street,",BENDIGO VIC 3550,House,3,2,2,307m² ,12 Dec 2023
+"650,000 ","55 Bayne Street,",BENDIGO VIC 3550,House,3,2,2,"1,005m² ",11 Dec 2023
+"461,000","86 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,1,275m² ,2023
+"605,000 ","352 Napier Street,",BENDIGO VIC 3550,House,3,1,6,985m² ,07 Dec 2023
+"625,000 ","208 Mccrae Street,",BENDIGO VIC 3550,House,3,2,1,360m² ,05 Dec 2023
+"540,000 ","138 Violet Street,",BENDIGO VIC 3550,House,3,1,2,429m² ,04 Dec 2023
+"730,000 ","240 Napier Street,",BENDIGO VIC 3550,House,3,2,2,619m² ,2023
+"1,100,000 ","236 Wattle Street,",BENDIGO VIC 3550,House,4,2,3,560m² ,30 Nov 2023
+"410,000 ","12 Cornish Street,",BENDIGO VIC 3550,House,3,1,−,689m² ,29 Nov 2023
+"460,000 ","11 Hustlers Road,",BENDIGO VIC 3550,House,3,1,1,713m² ,16 Nov 2023
+"1,035,000","17 Abbott Street,",BENDIGO VIC 3550,House,4,3,1,592m² ,16 Nov 2023
+"780,000","4 Wilkie Street,",BENDIGO VIC 3550,House,3,2,2,756m² ,10 Nov 2023
+"1,500,000","44 Myers Street,",BENDIGO VIC 3550,House,4,3,7,"1,208m² ",09 Nov 2023
+"500,000 ","322 View Street,",BENDIGO VIC 3550,House,3,1,1,560m² ,02 Nov 2023
+"1,325,000 ","172 Don Street,",BENDIGO VIC 3550,House,4,3,2,"1,012m² ",26 Oct 2023
+"825,000 ","34 Rowan Street,",BENDIGO VIC 3550,House,4,1,2,448m² ,24 Oct 2023
+"540,000 ","142 Violet Street,",BENDIGO VIC 3550,House,4,1,2,799m² ,17 Oct 2023
+"420,000","153 Arnold St,",BENDIGO VIC 3550,House,1,1,−,985m² ,16 Oct 2023
+"1,050,000 ","129 Forest Street,",BENDIGO VIC 3550,House,5,2,1,570m² ,14 Oct 2023
+"480,000 ","19 McClure Street,",BENDIGO VIC 3550,House,3,1,2,"1,249m² ",12 Oct 2023
+"425,000 ","29 Anderson Street,",BENDIGO VIC 3550,House,3,1,2,640m² ,10 Oct 2023
+"590,000","56A Hargreaves St,",BENDIGO VIC 3550,House,2,2,1,166m² ,06 Oct 2023
+"532,500 ","5 Bannerman Street,",BENDIGO VIC 3550,House,3,2,2,733m² ,29 Sep 2023
+"1,780,000 ","71 Rowan Street,",BENDIGO VIC 3550,House,4,2,3,"1,017m² ",26 Sep 2023
+"435,000","89 Wills Street,",BENDIGO VIC 3550,House,2,1,−,357m² ,22 Sep 2023
+"778,000 ","1 & 2/114 King Street,",BENDIGO VIC 3550,House,4,2,2,668m² ,22 Sep 2023
+"450,000 ","1A Ironbark Road,",BENDIGO VIC 3550,House,3,1,1,294m² ,19 Sep 2023
+"680,000 ","28 Buckley Street,",BENDIGO VIC 3550,House,3,1,4,584m² ,18 Sep 2023
+"587,000 ","8 Smith Street,",BENDIGO VIC 3550,House,3,1,1,900m² ,15 Sep 2023
+"920,000 ","70 Thistle Street,",BENDIGO VIC 3550,House,3,2,4,635m² ,14 Sep 2023
+"265,000","15 Milroy Street,",BENDIGO VIC 3550,House,2,1,−,301m² ,06 Sep 2023
+"610,000 ","2/19 Havelock Street,",BENDIGO VIC 3550,House,3,2,1,341m² ,04 Sep 2023
+"425,000","217 Forest Street,",BENDIGO VIC 3550,House,3,2,4,379m² ,2023
+"500,000 ","18 Broom Street,",BENDIGO VIC 3550,House,3,2,2,320m² ,17 Aug 2023
+"655,000 ","1/185 King Street,",BENDIGO VIC 3550,House,3,3,2,243m² ,04 Aug 2023
+"515,000 ","3 Atkinson Street,",BENDIGO VIC 3550,House,2,1,1,302m² ,03 Aug 2023
+"520,000","102 Mollison St,",BENDIGO VIC 3550,House,2,1,1,210m² ,28 Jul 2023
+"347,000 ","12 Cornish Street,",BENDIGO VIC 3550,House,3,1,−,697m² ,26 Jul 2023
+"527,500 ","1 Forest Lane,",BENDIGO VIC 3550,House,2,1,1,124m² ,24 Jul 2023
+"925,000 ","5 Rowan Street,",BENDIGO VIC 3550,House,4,2,1,202m² ,20 Jul 2023
+"700,000 ","159 Queen Street,",BENDIGO VIC 3550,House,3,1,2,555m² ,19 Jul 2023
+"490,000 ","8 Marks Street,",BENDIGO VIC 3550,House,3,1,2,452m² ,18 Jul 2023
+"464,750 ","19 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,1,494m² ,17 Jul 2023
+"640,000 ","16 Albert Street,",BENDIGO VIC 3550,House,2,1,−,165m² ,03 Jul 2023
+"527,500 ","49 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,1,646m² ,27 Jun 2023
+"435,000 ","12 Albert Street,",BENDIGO VIC 3550,House,2,1,1,338m² ,26 Jun 2023
+"430,000","129 King Street,",BENDIGO VIC 3550,House,3,1,2,526m² ,2023
+"775,000 ","78A Barkly Street,",BENDIGO VIC 3550,House,2,2,1,416m² ,23 Jun 2023
+"620,000 ","152 Violet Street,",BENDIGO VIC 3550,House,2,2,2,312m² ,18 Jun 2023
+"645,000 ","85 Garsed Street,",BENDIGO VIC 3550,House,3,3,6,595m² ,2023
+"1,100,000 ","32 Hopper Street,",BENDIGO VIC 3550,House,4,2,2,700m² ,15 Jun 2023
+"470,000 ","149 Mitchell Street,",BENDIGO VIC 3550,House,2,1,1,310m² ,06 Jun 2023
+"680,000 ","145 Queen Street,",BENDIGO VIC 3550,House,3,1,2,589m² ,05 Jun 2023
+"551,000","46 Myers Street,",BENDIGO VIC 3550,House,3,1,4,503m² ,02 Jun 2023
+"537,500 ","220 Barnard Street,",BENDIGO VIC 3550,House,3,1,1,274m² ,24 May 2023
+"675,000","76 Vine Street,",BENDIGO VIC 3550,House,3,1,−,382m² ,24 May 2023
+"576,000 ","33 Abbott Street,",BENDIGO VIC 3550,House,4,1,1,337m² ,22 May 2023
+"507,000 ","13 Rosalind Street,",BENDIGO VIC 3550,House,3,1,1,169m² ,16 May 2023
+"720,000 ","10 Honeysuckle Street,",BENDIGO VIC 3550,House,3,3,1,383m² ,15 May 2023
+"531,000 ","20 Havlin St W,",BENDIGO VIC 3550,House,3,1,1,661m² ,12 May 2023
+"920,000 ","60 Arnold Street,",BENDIGO VIC 3550,House,4,2,2,519m² ,11 May 2023
+"835,000 ","18 Abbott Street,",BENDIGO VIC 3550,House,3,2,2,"1,394m² ",10 May 2023
+"750,000 ","38 Mafeking Street South,",BENDIGO VIC 3550,House,5,2,2,"1,102m² ",10 May 2023
+"542,500 ","6 Smith Street,",BENDIGO VIC 3550,House,4,2,2,579m² ,05 May 2023
+"430,000 ","19 Ironbark Road,",BENDIGO VIC 3550,House,3,1,1,625m² ,04 May 2023
+"690,000 ","99 Vine Street,",BENDIGO VIC 3550,House,3,1,1,602m² ,24 Apr 2023
+"451,474 ","57 Arnold Street,",BENDIGO VIC 3550,House,3,1,1,350m² ,19 Apr 2023
+"385,000 ","1/1A Bayne Street,",BENDIGO VIC 3550,House,2,1,2,204m² ,06 Apr 2023
+"668,000 ","109 Casey Street,",BENDIGO VIC 3550,House,4,3,2,780m² ,28 Mar 2023
+"875,000 ","103 Wills Street,",BENDIGO VIC 3550,House,5,1,8,676m² ,28 Mar 2023
+"800,000 ","15 Palmerston Street,",BENDIGO VIC 3550,House,3,1,2,350m² ,20 Mar 2023
+"418,000 ","8 Ironbark Road,",BENDIGO VIC 3550,House,3,1,2,608m² ,17 Mar 2023
+"540,000 ","52 Uley Street,",BENDIGO VIC 3550,House,3,1,2,655m² ,27 Feb 2023
+"697,517 ","241 View Street,",BENDIGO VIC 3550,House,4,1,−,308m² ,17 Feb 2023
+"520,000 ","7 Thomas Street,",BENDIGO VIC 3550,House,2,1,1,823m² ,16 Feb 2023
+"480,000 ","4 Buller Street,",BENDIGO VIC 3550,House,2,1,1,274m² ,08 Feb 2023
+"1,070,000 ","76 Thistle Street,",BENDIGO VIC 3550,House,5,2,2,652m² ,30 Jan 2023
+"1,700,000 ","33A Wills Street,",BENDIGO VIC 3550,House,5,2,3,441m² ,20 Jan 2023
+"540,000 ","4 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,4,693m² ,02 Jan 2023
+"364,000 ","1 Frederick Street,",BENDIGO VIC 3550,House,2,1,2,407m² ,2022
+"945,000 ","168 Rowan Street,",BENDIGO VIC 3550,House,3,1,2,488m² ,15 Dec 2022
+"405,000 ","34 Duncan Street,",BENDIGO VIC 3550,House,3,1,1,234m² ,01 Dec 2022
+"470,000 ","32 Milroy Street,",BENDIGO VIC 3550,House,3,1,2,627m² ,28 Nov 2022
+"570,000 ","212 Forest Street,",BENDIGO VIC 3550,House,3,2,2,835m² ,25 Nov 2022
+"1,505,000 ","72 MacKenzie Street,",BENDIGO VIC 3550,House,4,2,4,"1,092m² ",25 Nov 2022
+"1,200,000 ","45 Honeysuckle Street,",BENDIGO VIC 3550,House,3,2,2,"1,445m² ",23 Nov 2022
+"715,000 ","211 Barnard Street,",BENDIGO VIC 3550,House,3,1,1,290m² ,18 Nov 2022
+"505,000 ","121 Lily Street,",BENDIGO VIC 3550,House,3,2,−,391m² ,16 Nov 2022
+"475,000 ","18 Buckley Street,",BENDIGO VIC 3550,House,3,1,2,"1,297m² ",11 Nov 2022
+"360,000 ","2/113 Bridge Street,",BENDIGO VIC 3550,House,2,1,1,60m² ,10 Nov 2022
+"420,000 ","156 Don Street,",BENDIGO VIC 3550,House,2,1,1,460m² ,02 Nov 2022
+"385,000 ","266 King Street,",BENDIGO VIC 3550,House,3,1,2,351m² ,31 Oct 2022
+"1,300,000","478 Hargreaves Street,",BENDIGO VIC 3550,House,4,2,2,407m² ,30 Oct 2022
+"710,000 ","66 Thistle Street,",BENDIGO VIC 3550,House,3,2,2,590m² ,28 Oct 2022
+"1,290,000 ","98 Moore Street,",BENDIGO VIC 3550,House,5,2,2,"1,815m² ",2022
+"1,000,000 ","64 Hargreaves Street,",BENDIGO VIC 3550,House,3,2,2,536m² ,14 Oct 2022
+"1,290,000","203 King Street,",BENDIGO VIC 3550,House,4,2,2,964m² ,11 Oct 2022
+"1,850,000 ","72 Rowan Street,",BENDIGO VIC 3550,House,4,2,3,"1,149m² ",10 Oct 2022
+"720,000 ","81 Chapel Street,",BENDIGO VIC 3550,House,3,1,2,367m² ,03 Oct 2022
+"683,000 ","199 McCrae Street,",BENDIGO VIC 3550,House,3,2,2,637m² ,12 Sep 2022
+"1,120,000","70 Vine Street,",BENDIGO VIC 3550,House,4,2,2,876m² ,08 Sep 2022
+"1,150,000 ","71 Forest Street,",BENDIGO VIC 3550,House,4,3,1,423m² ,08 Sep 2022
+"835,000 ","24 Myall Street,",BENDIGO VIC 3550,House,3,2,2,480m² ,07 Sep 2022
+"370,000 ","14 Redan Street,",BENDIGO VIC 3550,House,3,1,2,549m² ,06 Sep 2022
+"648,000 ","5 Joseph Street,",BENDIGO VIC 3550,House,3,1,−,426m² ,06 Sep 2022
+"555,000 ","2/443 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,222m² ,05 Sep 2022
+"815,000 ","17 Honeysuckle Street,",BENDIGO VIC 3550,House,4,1,2,"1,000m² ",03 Sep 2022
+"740,000 ","19 Bobs Street,",BENDIGO VIC 3550,House,3,2,2,"1,058m² ",26 Aug 2022
+"2,400,000","149 Wattle Street,",BENDIGO VIC 3550,House,4,2,2,"1,045m² ",25 Aug 2022
+"528,000 ","144 Williamson Street,",BENDIGO VIC 3550,House,2,1,−,206m² ,23 Aug 2022
+"580,000","126 Williamson Street,",BENDIGO VIC 3550,House,2,1,1,272m² ,22 Aug 2022
+"415,000 ","10 McColl Street,",BENDIGO VIC 3550,House,3,1,2,538m² ,15 Aug 2022
+"700,000 ","88 Barnard Street,",BENDIGO VIC 3550,House,2,1,1,558m² ,11 Aug 2022
+"825,000 ","199 Queen Street,",BENDIGO VIC 3550,House,3,1,2,528m² ,08 Aug 2022
+"875,000 ","16 McClure Street,",BENDIGO VIC 3550,House,4,2,2,471m² ,29 Jul 2022
+"855,000 ","51 Myers Street,",BENDIGO VIC 3550,House,3,1,4,726m² ,28 Jul 2022
+"395,000","70 Lily Street,",BENDIGO VIC 3550,House,2,1,1,464m² ,21 Jul 2022
+"520,000 ","1B Buller Street,",BENDIGO VIC 3550,House,2,1,1,245m² ,12 Jul 2022
+"530,000 ","20 Bright Street,",BENDIGO VIC 3550,House,2,2,1,162m² ,12 Jul 2022
+"400,000 ","23 Harrison Street,",BENDIGO VIC 3550,House,3,1,1,362m² ,05 Jul 2022
+"482,500 ","32B Nolan Street,",BENDIGO VIC 3550,House,2,1,1,264m² ,17 Jun 2022
+"405,000","113 Lily Street,",BENDIGO VIC 3550,House,2,1,2,644m² ,16 Jun 2022
+"1,150,000 ","30 Rowan Street,",BENDIGO VIC 3550,House,5,5,1,826m² ,15 Jun 2022
+"475,000","6 Hill Street,",BENDIGO VIC 3550,House,3,1,1,929m² ,10 Jun 2022
+"382,500","568 Hargreaves Street,",BENDIGO VIC 3550,House,2,1,1,309m² ,09 Jun 2022
+"720,000 ","26 Honeysuckle Street,",BENDIGO VIC 3550,House,4,2,1,540m² ,09 Jun 2022
+"950,000 ","160 MacKenzie Street,",BENDIGO VIC 3550,House,4,2,2,979m² ,27 May 2022
+"645,000 ","492 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,−,317m² ,26 May 2022
+"660,000 ","38 Old Violet Street,",BENDIGO VIC 3550,House,4,1,1,573m² ,24 May 2022
+"920,000 ","87 Barkly Street,",BENDIGO VIC 3550,House,3,2,2,507m² ,16 May 2022
+"650,000 ","336 Napier Street,",BENDIGO VIC 3550,House,3,1,3,"1,012m² ",11 May 2022
+"410,000 ","34 Milroy Street,",BENDIGO VIC 3550,House,3,1,2,573m² ,11 May 2022
+"740,000 ","196 King Street,",BENDIGO VIC 3550,House,3,2,1,400m² ,10 May 2022
+"621,000 ","9 Hill Street,",BENDIGO VIC 3550,House,3,1,−,"1,113m² ",06 May 2022
+"1,685,000 ","78 MacKenzie Street,",BENDIGO VIC 3550,House,4,2,2,"1,168m² ",06 May 2022
+"1,755,000","212 Wattle Street,",BENDIGO VIC 3550,House,4,2,2,545m² ,30 Apr 2022
+"850,000 ","112 Bridge Street,",BENDIGO VIC 3550,House,2,2,2,740m² ,28 Apr 2022
+"500,000 ","14 McIvor Road,",BENDIGO VIC 3550,House,3,1,2,340m² ,27 Apr 2022
+"695,000 ","7 Flood Street,",BENDIGO VIC 3550,House,3,1,1,"1,020m² ",19 Apr 2022
+"2,306,000","123 Wattle Street,",BENDIGO VIC 3550,House,4,3,2,535m² ,15 Apr 2022
+"610,000 ","17B Forest Street,",BENDIGO VIC 3550,House,2,1,2,131m² ,11 Apr 2022
+"648,000 ","36 Drought Street,",BENDIGO VIC 3550,House,3,2,2,495m² ,11 Apr 2022
+"505,000 ","25 Barry Street,",BENDIGO VIC 3550,House,2,1,1,178m² ,06 Apr 2022
+"3,300,000 ","134 Forest Street,",BENDIGO VIC 3550,House,6,4,2,"1,113m² ",05 Apr 2022
+"730,000 ","54A Myers Street,",BENDIGO VIC 3550,House,2,2,2,294m² ,05 Apr 2022
+"575,000 ","18 Milroy Street,",BENDIGO VIC 3550,House,3,1,2,633m² ,30 Mar 2022
+"520,000 ","108 Eaglehawk Road,",BENDIGO VIC 3550,House,3,1,2,319m² ,28 Mar 2022
+"780,000 ","23 Stewart Street,",BENDIGO VIC 3550,House,3,2,2,"1,214m² ",27 Mar 2022
+"680,000 ","21 Baxter Street,",BENDIGO VIC 3550,House,3,1,2,508m² ,24 Mar 2022
+"1,100,000","110 Wills Street,",BENDIGO VIC 3550,House,4,2,−,440m² ,22 Mar 2022
+"690,000 ","43 Bobs Street,",BENDIGO VIC 3550,House,4,2,2,921m² ,22 Mar 2022
+"595,000 ","79 Lily Street,",BENDIGO VIC 3550,House,3,1,1,780m² ,02 Mar 2022
+"420,000 ","11 Ironbark Road,",BENDIGO VIC 3550,House,3,1,2,659m² ,28 Feb 2022
+"1,480,000 ","83 Mundy Street,",BENDIGO VIC 3550,House,4,2,2,602m² ,25 Feb 2022
+"670,100 ","7 Havelock Street,",BENDIGO VIC 3550,House,3,1,2,400m² ,22 Feb 2022
+"520,000 ","18 Bannerman Street,",BENDIGO VIC 3550,House,3,1,−,278m² ,17 Feb 2022
+"780,000 ","109 Wills Street,",BENDIGO VIC 3550,House,3,1,2,355m² ,14 Feb 2022
+"600,000","5 Tomlins Street,",BENDIGO VIC 3550,House,3,1,−,599m² ,2022
+"605,000 ","62 Vine Street,",BENDIGO VIC 3550,House,4,2,1,700m² ,09 Feb 2022
+"590,000 ","61 Bridge Street,",BENDIGO VIC 3550,House,2,1,−,656m² ,08 Feb 2022
+"765,000 ","30 Valentine Street,",BENDIGO VIC 3550,House,4,1,2,"1,196m² ",31 Jan 2022
+"670,000 ","111 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,425m² ,31 Jan 2022
+"370,000 ","261 King Street,",BENDIGO VIC 3550,House,3,1,1,335m² ,31 Jan 2022
+"800,000 ","1a Forest Lane,",BENDIGO VIC 3550,House,2,2,1,161m² ,25 Jan 2022
+"660,000 ","212 Barnard Street,",BENDIGO VIC 3550,House,3,2,1,408m² ,25 Jan 2022
+"625,000 ","194 King Street,",BENDIGO VIC 3550,House,3,2,1,201m² ,22 Jan 2022
+"620,000 ","151 Queen Street,",BENDIGO VIC 3550,House,2,1,2,260m² ,20 Jan 2022
+"1,005,000","64 Short Street,",BENDIGO VIC 3550,House,4,1,2,843m² ,19 Jan 2022
+"890,000 ","5 Atkinson Street,",BENDIGO VIC 3550,House,4,2,1,558m² ,18 Jan 2022
+"450,000 ","8/131 Havlin Street,",BENDIGO VIC 3550,House,2,1,2,233m² ,12 Jan 2022
+"606,250 ","3 Norfolk Street,",BENDIGO VIC 3550,House,3,1,1,758m² ,10 Jan 2022
+"1,215,500 ","56 Rosalind Street,",BENDIGO VIC 3550,House,3,2,3,241m² ,22 Dec 2021
+"850,000","123 Bridge Street,",BENDIGO VIC 3550,House,3,1,2,651m² ,20 Dec 2021
+"705,000 ","140 Queen Street,",BENDIGO VIC 3550,House,3,1,−,575m² ,2021
+"775,000 ","154 Williamson Street,",BENDIGO VIC 3550,House,3,1,2,"1,023m² ",2021
+"565,000 ","4 Forest Lane,",BENDIGO VIC 3550,House,3,1,1,253m² ,18 Dec 2021
+"1,100,000 ","12 Bannerman Street,",BENDIGO VIC 3550,House,4,1,1,995m² ,17 Dec 2021
+"1,200,000 ","198 Don Street,",BENDIGO VIC 3550,House,5,3,6,"1,005m² ",17 Dec 2021
+"495,550 ","7 Moran Street,",BENDIGO VIC 3550,House,3,1,2,630m² ,14 Dec 2021
+"1,870,000","238 View Street,",BENDIGO VIC 3550,House,5,3,2,"1,263m² ",13 Dec 2021
+"630,000 ","216 Forest Street,",BENDIGO VIC 3550,House,4,2,1,459m² ,13 Dec 2021
+"1,310,000","12 Rowan Street,",BENDIGO VIC 3550,House,4,1,6,832m² ,10 Dec 2021
+"536,000 ","209 Queen Street,",BENDIGO VIC 3550,House,2,1,1,291m² ,08 Dec 2021
+"800,000","10 Cobden Street,",BENDIGO VIC 3550,House,4,2,2,391m² ,07 Dec 2021
+"837,000 ","75 Langston Street,",BENDIGO VIC 3550,House,3,2,2,256m² ,06 Dec 2021
+"417,000 ","330 Napier Street,",BENDIGO VIC 3550,House,3,2,2,528m² ,03 Dec 2021
+"920,000 ","5 Marks Street,",BENDIGO VIC 3550,House,4,2,2,654m² ,30 Nov 2021
+"1,200,000 ","46-48 Old Violet Street,",BENDIGO VIC 3550,House,5,2,2,"1,953m² ",30 Nov 2021
+"545,000","2 Havlin Street. West,",BENDIGO VIC 3550,House,3,1,2,623m² ,25 Nov 2021
+"450,000 ","2a Wortha Street,",BENDIGO VIC 3550,House,2,1,2,200m² ,24 Nov 2021
+"427,151 ","4 Thistle Street,",BENDIGO VIC 3550,House,2,1,−,592m² ,10 Nov 2021
+"525,000 ","158 Williamson Street,",BENDIGO VIC 3550,House,3,1,2,518m² ,08 Nov 2021
+"679,000 ","63 Drought Street,",BENDIGO VIC 3550,House,3,1,1,439m² ,06 Nov 2021
+"495,000 ","212 McCrae Street,",BENDIGO VIC 3550,House,3,2,2,307m² ,06 Nov 2021
+"501,000 ","39 Hopetoun Street,",BENDIGO VIC 3550,House,3,1,−,532m² ,04 Nov 2021
+"2,307,000","3 Langston Street,",BENDIGO VIC 3550,House,4,2,2,"1,300m² ",03 Nov 2021
+"615,000 ","193 McCrae Street,",BENDIGO VIC 3550,House,3,1,2,548m² ,03 Nov 2021
+"750,000 ","56 Mundy Street,",BENDIGO VIC 3550,House,3,1,5,516m² ,28 Oct 2021
+"631,000 ","21 Anderson Street,",BENDIGO VIC 3550,House,3,1,2,815m² ,26 Oct 2021
+"570,000 ","105 Lucan Street,",BENDIGO VIC 3550,House,2,1,3,298m² ,26 Oct 2021
+"515,000 ","349 Barnard Street,",BENDIGO VIC 3550,House,2,1,1,513m² ,26 Oct 2021
+"450,000 ","6 Kahland Street,",BENDIGO VIC 3550,House,3,1,1,486m² ,20 Oct 2021
+"675,000 ","284 Barnard Street,",BENDIGO VIC 3550,House,3,1,2,711m² ,16 Oct 2021
+"690,000 ","9 Harrison Street,",BENDIGO VIC 3550,House,2,1,2,"1,034m² ",16 Oct 2021
+"821,000 ","53 Honeysuckle Street,",BENDIGO VIC 3550,House,3,2,2,"1,138m² ",15 Oct 2021
+"590,000 ","9 Frederick Street,",BENDIGO VIC 3550,House,3,1,2,856m² ,13 Oct 2021
+"850,000 ","134 MacKenzie Street,",BENDIGO VIC 3550,House,4,2,1,720m² ,12 Oct 2021
+"969,000","84 Rowan Street,",BENDIGO VIC 3550,House,3,2,−,791m² ,09 Oct 2021
+"470,000 ","1/9a Norfolk Street,",BENDIGO VIC 3550,House,2,2,1,257m² ,08 Oct 2021
+"483,850 ","37 Milroy Street,",BENDIGO VIC 3550,House,3,1,1,365m² ,08 Oct 2021
+"720,000 ","33 Myrtle Street,",BENDIGO VIC 3550,House,2,2,2,322m² ,06 Oct 2021
+"850,000 ","5 Norfolk Street,",BENDIGO VIC 3550,House,3,2,2,664m² ,02 Oct 2021
+"800,000 ","8 Galvin Street,",BENDIGO VIC 3550,House,4,4,2,"1,421m² ",01 Oct 2021
+"650,000 ","5 Carwardine Street,",BENDIGO VIC 3550,House,3,2,1,626m² ,29 Sep 2021
+"590,000 ","155 Mitchell Street,",BENDIGO VIC 3550,House,3,1,1,489m² ,28 Sep 2021
+"555,000 ","19 Mcclure Street,",BENDIGO VIC 3550,House,3,1,1,"1,249m² ",27 Sep 2021
+"460,000 ","21A Marong Road,",BENDIGO VIC 3550,House,3,1,1,463m² ,27 Sep 2021
+"420,000 ","3 Olive Street,",BENDIGO VIC 3550,House,2,1,−,350m² ,22 Sep 2021
+"560,000","126 Violet Street,",BENDIGO VIC 3550,House,4,1,2,610m² ,20 Sep 2021
+"905,000 ","49 Forest Street,",BENDIGO VIC 3550,House,5,1,−,520m² ,10 Sep 2021
+"490,000 ","3/153 Williamson Street,",BENDIGO VIC 3550,House,3,1,2,244m² ,08 Sep 2021
+"422,000 ","29B Milroy Street,",BENDIGO VIC 3550,House,3,1,1,202m² ,07 Sep 2021
+"645,000 ","63 Baxter Street,",BENDIGO VIC 3550,House,4,2,2,539m² ,04 Sep 2021
+"702,450","14 Galvin Street,",BENDIGO VIC 3550,House,5,2,2,608m² ,02 Sep 2021
+"1,187,500 ","75 Honeysuckle Street,",BENDIGO VIC 3550,House,3,2,2,729m² ,01 Sep 2021
+"1,990,000 ","190 Wattle Street,",BENDIGO VIC 3550,House,4,2,4,"1,670m² ",27 Aug 2021
+"814,000","158 Rowan Street,",BENDIGO VIC 3550,House,3,1,1,388m² ,27 Aug 2021
+"610,000 ","183 Arnold Street,",BENDIGO VIC 3550,House,3,1,2,688m² ,20 Aug 2021
+"900,000 ","28 Hopetoun Street,",BENDIGO VIC 3550,House,4,2,1,459m² ,14 Aug 2021
+"480,000 ","102 Brougham Street,",BENDIGO VIC 3550,House,3,1,1,389m² ,13 Aug 2021
+"513,000 ","16 Broom Street,",BENDIGO VIC 3550,House,4,2,2,451m² ,06 Aug 2021
+"750,000 ","119 Barnard Street,",BENDIGO VIC 3550,House,6,5,9,574m² ,05 Aug 2021
+"652,000 ","5 Bailes Street,",BENDIGO VIC 3550,House,3,2,2,430m² ,03 Aug 2021
+"435,000 ","111 Violet Street,",BENDIGO VIC 3550,House,2,1,2,253m² ,02 Aug 2021
+"655,000 ","10 Wortha Street,",BENDIGO VIC 3550,House,3,2,3,681m² ,02 Aug 2021
+"373,000 ","2 Hopper Street,",BENDIGO VIC 3550,House,2,1,1,186m² ,29 Jul 2021
+"390,000","29C Milroy Street,",BENDIGO VIC 3550,House,3,1,2,200m² ,28 Jul 2021
+"840,000 ","1C Robshaw Street,",BENDIGO VIC 3550,House,3,2,2,248m² ,21 Jul 2021
+"510,000","348 Napier Street,",BENDIGO VIC 3550,House,3,1,4,988m² ,20 Jul 2021
+"1,100,000 ","22 Doak Street,",BENDIGO VIC 3550,House,5,2,4,"2,195m² ",19 Jul 2021
+"615,000","73 Langston Street,",BENDIGO VIC 3550,House,3,1,1,385m² ,11 Jul 2021
+"421,000 ","24 Bridge Street,",BENDIGO VIC 3550,House,3,1,1,247m² ,09 Jul 2021
+"400,000","16 Thistle Street,",BENDIGO VIC 3550,House,2,1,2,409m² ,09 Jul 2021
+"710,000 ","11 Bignold Avenue,",BENDIGO VIC 3550,House,3,2,3,740m² ,06 Jul 2021
+"422,500 ","214 Forest Street,",BENDIGO VIC 3550,House,2,1,1,531m² ,06 Jul 2021
+"707,000 ","11 Lucan Street,",BENDIGO VIC 3550,House,3,2,2,284m² ,02 Jul 2021
+"827,500 ","99 Rowan Street,",BENDIGO VIC 3550,House,4,2,1,900m² ,02 Jul 2021
+"626,500 ","15 Rosalind Street,",BENDIGO VIC 3550,House,3,1,2,279m² ,28 Jun 2021
+"2,500,000 ","16 Valentine Street,",BENDIGO VIC 3550,House,5,2,3,"1,416m² ",22 Jun 2021
+"458,000 ","145 Barnard Street,",BENDIGO VIC 3550,House,3,1,2,190m² ,17 Jun 2021
+"645,000","117 King Street,",BENDIGO VIC 3550,House,3,1,−,407m² ,16 Jun 2021
+"2,200,000","282 View Street,",BENDIGO VIC 3550,House,5,3,3,"1,390m² ",15 Jun 2021
+"410,000 ","165 King Street,",BENDIGO VIC 3550,House,2,1,−,175m² ,07 Jun 2021
+"575,000 ","27 Harrison Street,",BENDIGO VIC 3550,House,3,1,2,695m² ,28 May 2021
+"430,000 ","66 Thistle Street,",BENDIGO VIC 3550,House,4,1,4,590m² ,20 May 2021
+"1,440,000","181 Wattle Street,",BENDIGO VIC 3550,House,5,2,2,634m² ,20 May 2021
+"495,000 ","4/17 Bob Street,",BENDIGO VIC 3550,House,2,1,1,159m² ,18 May 2021
+"635,000 ","34 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,660m² ,13 May 2021
+"2,000,000 ","96 Moore Street,",BENDIGO VIC 3550,House,5,3,2,"1,627m² ",12 May 2021
+"550,000","34 Myers Street,",BENDIGO VIC 3550,House,2,1,−,521m² ,12 May 2021
+"595,000 ","103 Queen Street,",BENDIGO VIC 3550,House,2,2,−,256m² ,12 May 2021
+"924,000","125 Rowan St,",BENDIGO VIC 3550,House,4,2,3,816m² ,11 May 2021
+"390,000 ","6 Golden Grove,",BENDIGO VIC 3550,House,3,1,2,551m² ,10 May 2021
+"800,000 ","12 McLaren Street,",BENDIGO VIC 3550,House,3,2,1,"1,012m² ",08 May 2021
+"450,000 ","39 Bobs Street,",BENDIGO VIC 3550,House,3,1,3,887m² ,04 May 2021
+"627,500 ","69 King Street,",BENDIGO VIC 3550,House,3,1,3,319m² ,03 May 2021
+"895,000 ","2 Carnegie Way,",BENDIGO VIC 3550,House,3,2,2,390m² ,28 Apr 2021
+"700,000 ","117 Williamson Street,",BENDIGO VIC 3550,House,4,2,1,498m² ,27 Apr 2021
+"715,000 ","1 Ernest Street,",BENDIGO VIC 3550,House,4,1,3,904m² ,26 Apr 2021
+"455,100 ","221 Queen Street,",BENDIGO VIC 3550,House,3,1,2,588m² ,23 Apr 2021
+"650,000","54 Myers Street,",BENDIGO VIC 3550,House,4,1,−,365m² ,23 Apr 2021
+"940,000 ","599 Hargreaves Street,",BENDIGO VIC 3550,House,4,2,4,"1,000m² ",23 Apr 2021
+"680,000 ","165 Don Street,",BENDIGO VIC 3550,House,3,1,1,462m² ,23 Apr 2021
+"430,000 ","66 Galvin Street,",BENDIGO VIC 3550,House,3,1,2,347m² ,23 Apr 2021
+"625,000 ","4 Anderson Street,",BENDIGO VIC 3550,House,2,2,3,"1,022m² ",20 Apr 2021
+"600,000 ","94 Rowan street,",BENDIGO VIC 3550,House,4,1,1,510m² ,20 Apr 2021
+"625,000 ","3 Buller Street,",BENDIGO VIC 3550,House,3,1,1,704m² ,15 Apr 2021
+"1,129,000 ","79 Honeysuckle Street,",BENDIGO VIC 3550,House,4,3,2,872m² ,09 Apr 2021
+"1,335,000 ","76 MacKenzie Street,",BENDIGO VIC 3550,House,4,2,1,"1,088m² ",06 Apr 2021
+"572,000","9 Violet Street,",BENDIGO VIC 3550,House,2,1,−,533m² ,01 Apr 2021
+"405,000 ","104 Wills Street,",BENDIGO VIC 3550,House,2,1,1,307m² ,01 Apr 2021
+"480,000 ","35A Honeysuckle Street,",BENDIGO VIC 3550,House,3,2,2,679m² ,01 Apr 2021
+"950,000","55 Hopetoun Street,",BENDIGO VIC 3550,House,4,2,2,823m² ,2021
+"301,378 ","13 Creek Street,",BENDIGO VIC 3550,House,3,1,1,222m² ,26 Mar 2021
+"460,000 ","3 Wortha Street,",BENDIGO VIC 3550,House,3,1,2,472m² ,26 Mar 2021
+"440,000 ","111 Lily Street,",BENDIGO VIC 3550,House,3,1,1,644m² ,18 Mar 2021
+"805,000 ","564 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,2,547m² ,12 Mar 2021
+"386,500 ","212 Forest Street,",BENDIGO VIC 3550,House,2,1,2,835m² ,09 Mar 2021
+"615,000 ","9 Short Street,",BENDIGO VIC 3550,House,3,1,2,525m² ,04 Mar 2021
+"1,100,000","118 Moore Street,",BENDIGO VIC 3550,House,3,2,2,650m² ,01 Mar 2021
+"1,100,000","118 Moore Street,",BENDIGO VIC 3550,House,3,2,2,650m² ,01 Mar 2021
+"660,000","476 Hargreaves St,",BENDIGO VIC 3550,House,3,1,2,438m² ,24 Feb 2021
+"685,000 ","50 Wills Street,",BENDIGO VIC 3550,House,4,1,1,498m² ,22 Feb 2021
+"405,000 ","29 Harrison Street,",BENDIGO VIC 3550,House,3,2,1,572m² ,20 Feb 2021
+"595,000 ","103 Queen Street,",BENDIGO VIC 3550,House,2,2,−,256m² ,16 Feb 2021
+"463,250 ","4 Hustlers Road,",BENDIGO VIC 3550,House,2,1,−,958m² ,10 Feb 2021
+"750,000 ","100 Wattle Street,",BENDIGO VIC 3550,House,3,2,1,445m² ,10 Feb 2021
+"975,000 ","120 Barnard Street,",BENDIGO VIC 3550,House,3,3,3,"1,027m² ",08 Feb 2021
+"572,500 ","48 Wright Street,",BENDIGO VIC 3550,House,4,1,1,580m² ,08 Feb 2021
+"1,350,000 ","16 Bancroft Street,",BENDIGO VIC 3550,House,4,2,3,"1,012m² ",05 Feb 2021
+"897,500","165 Queen Street,",BENDIGO VIC 3550,House,3,2,2,"1,012m² ",27 Jan 2021
+"380,000","74 Thistle Street,",BENDIGO VIC 3550,House,2,1,−,497m² ,16 Jan 2021
+"770,000 ","18 Rowan Street,",BENDIGO VIC 3550,House,3,1,2,450m² ,12 Jan 2021
+"550,000 ","1 Niemann Street,",BENDIGO VIC 3550,House,3,1,1,361m² ,08 Jan 2021
+"390,000 ","40 Havlin Street West,",BENDIGO VIC 3550,House,3,1,−,339m² ,06 Jan 2021
+"705,000 ","87 Barkly Street,",BENDIGO VIC 3550,House,4,2,1,506m² ,05 Jan 2021
+"640,000 ","41A Hopetoun Street,",BENDIGO VIC 3550,House,3,2,2,437m² ,23 Dec 2020
+"660,000 ","41 Harrison Street,",BENDIGO VIC 3550,House,4,2,3,"1,000m² ",23 Dec 2020
+"450,000 ","184 McCrae Street,",BENDIGO VIC 3550,House,2,1,2,230m² ,17 Dec 2020
+"1,150,000 ","66 Wills Street,",BENDIGO VIC 3550,House,4,2,2,480m² ,17 Dec 2020
+"520,000 ","187 King Street,",BENDIGO VIC 3550,House,3,1,1,599m² ,17 Dec 2020
+"615,000 ","231 McCrae Street,",BENDIGO VIC 3550,House,4,2,2,465m² ,12 Dec 2020
+"620,111 ","153 Violet Street,",BENDIGO VIC 3550,House,3,2,1,404m² ,11 Dec 2020
+"497,500 ","37 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,1,370m² ,08 Dec 2020
+"945,000","172 Wattle Street,",BENDIGO VIC 3550,House,4,2,−,484m² ,07 Dec 2020
+"515,000","61 Drought Street,",BENDIGO VIC 3550,House,2,1,1,402m² ,07 Dec 2020
+"475,000 ","307 View Street,",BENDIGO VIC 3550,House,3,2,1,394m² ,07 Dec 2020
+"303,000 ","2 Cornish Street,",BENDIGO VIC 3550,House,3,1,1,540m² ,01 Dec 2020
+"650,000 ","20A Bannerman Street,",BENDIGO VIC 3550,House,4,2,2,713m² ,30 Nov 2020
+"325,000 ","108 Creek Street North,",BENDIGO VIC 3550,House,3,1,1,263m² ,24 Nov 2020
+"427,500 ","2/135 Wills Street,",BENDIGO VIC 3550,House,3,1,1,145m² ,23 Nov 2020
+"665,000 ","39 Hargreaves Street,",BENDIGO VIC 3550,House,3,2,1,300m² ,23 Nov 2020
+"745,000 ","164B Williamson Street,",BENDIGO VIC 3550,House,3,3,2,350m² ,20 Nov 2020
+"602,500 ","1/443 Hargreaves Street,",BENDIGO VIC 3550,House,4,2,4,251m² ,13 Nov 2020
+"430,000 ","75 Violet Street,",BENDIGO VIC 3550,House,2,1,1,292m² ,13 Nov 2020
+"430,000 ","75 Violet Street,",BENDIGO VIC 3550,House,2,1,1,292m² ,13 Nov 2020
+"950,000 ","97 Moore Street,",BENDIGO VIC 3550,House,5,2,2,910m² ,13 Nov 2020
+"505,000 ","24 Buckley Street,",BENDIGO VIC 3550,House,4,3,3,518m² ,09 Nov 2020
+"550,000 ","139 Barnard Street,",BENDIGO VIC 3550,House,3,2,3,513m² ,05 Nov 2020
+"284,000 ","26 McClure Street,",BENDIGO VIC 3550,House,3,1,2,492m² ,04 Nov 2020
+"443,000","2/26 Day Street,",BENDIGO VIC 3550,House,4,2,2,472m² ,29 Oct 2020
+"885,000","274 Queen Street,",BENDIGO VIC 3550,House,3,2,4,746m² ,20 Oct 2020
+"885,000","274 Queen Street,",BENDIGO VIC 3550,House,3,2,4,746m² ,20 Oct 2020
+"570,000 ","2 Eaglehawk Road,",BENDIGO VIC 3550,House,3,2,2,664m² ,15 Oct 2020
+"287,000 ","188 Mackenzie Street,",BENDIGO VIC 3550,House,1,1,−,318m² ,15 Oct 2020
+"415,000 ","8/83-87 Arnold Street,",BENDIGO VIC 3550,House,3,2,2,96m² ,14 Oct 2020
+"385,000 ","42 Uley Street,",BENDIGO VIC 3550,House,2,2,1,155m² ,12 Oct 2020
+"383,000 ","9 Moran Street,",BENDIGO VIC 3550,House,3,1,2,709m² ,05 Oct 2020
+"740,000 ","131 Queen Street,",BENDIGO VIC 3550,House,3,1,−,667m² ,04 Oct 2020
+"1,100,000","73 Forest Street,",BENDIGO VIC 3550,House,4,2,2,551m² ,30 Sep 2020
+"560,000 ","36 Drought Street,",BENDIGO VIC 3550,House,3,2,−,844m² ,22 Sep 2020
+"395,000 ","22 Galvin Street,",BENDIGO VIC 3550,House,3,1,2,347m² ,19 Sep 2020
+"825,000 ","58 Mundy Street,",BENDIGO VIC 3550,House,4,2,10,646m² ,18 Sep 2020
+"330,000 ","34 Galvin Street,",BENDIGO VIC 3550,House,4,1,2,229m² ,15 Sep 2020
+"560,000 ","86 Moore Street,",BENDIGO VIC 3550,House,4,1,2,572m² ,08 Sep 2020
+"318,000 ","9 Ironbark Road,",BENDIGO VIC 3550,House,3,2,2,575m² ,27 Aug 2020
+"450,000 ","37B Arnold Street,",BENDIGO VIC 3550,House,3,1,1,200m² ,18 Aug 2020
+"1,855,000","106-108 Bridge Street,",BENDIGO VIC 3550,House,4,1,4,"2,225m² ",13 Aug 2020
+"550,000 ","146 Williamson Street,",BENDIGO VIC 3550,House,3,2,3,627m² ,13 Aug 2020
+"550,000 ","9A Niemann St,",BENDIGO VIC 3550,House,3,2,2,262m² ,03 Aug 2020
+"535,000","8 Palmerston Street,",BENDIGO VIC 3550,House,3,1,1,531m² ,2020
+"350,000 ","5 Hustlers Road,",BENDIGO VIC 3550,House,3,1,2,615m² ,30 Jul 2020
+"600,000 ","222 Don Street,",BENDIGO VIC 3550,House,3,2,2,451m² ,29 Jul 2020
+"358,000 ","33 Hopetoun Street,",BENDIGO VIC 3550,House,2,1,1,417m² ,27 Jul 2020
+"600,000 ","42 Bridge Street,",BENDIGO VIC 3550,House,2,1,−,705m² ,24 Jul 2020
+"940,000 ","29 Myrtle Street,",BENDIGO VIC 3550,House,4,2,1,685m² ,10 Jul 2020
+"480,000 ","1/18 Havelock Street,",BENDIGO VIC 3550,House,3,2,1,330m² ,03 Jul 2020
+"405,000 ","77 Mundy Street,",BENDIGO VIC 3550,House,3,1,−,594m² ,03 Jul 2020
+"900,000 ","10 Lilac Street,",BENDIGO VIC 3550,House,4,2,1,618m² ,02 Jul 2020
+"251,000","15 Redan Street,",BENDIGO VIC 3550,House,3,1,2,590m² ,01 Jul 2020
+"770,000","113 Wattle Street,",BENDIGO VIC 3550,House,4,1,2,407m² ,26 Jun 2020
+"542,000 ","61 Lucan Street,",BENDIGO VIC 3550,House,3,2,2,505m² ,26 Jun 2020
+"410,000","50 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,2,607m² ,24 Jun 2020
+"330,000 ","152a Violet Street,",BENDIGO VIC 3550,House,3,1,1,433m² ,18 Jun 2020
+"360,000","13 Lucan Street,",BENDIGO VIC 3550,House,4,1,1,437m² ,17 Jun 2020
+"565,000 ","205 Forest Street,",BENDIGO VIC 3550,House,5,2,−,644m² ,14 Jun 2020
+"600,000 ","133 Mitchell Street,",BENDIGO VIC 3550,House,3,1,1,423m² ,05 Jun 2020
+"350,000 ","140 King Street,",BENDIGO VIC 3550,House,3,1,1,407m² ,04 Jun 2020
+"1,140,000","19 Nettle Street,",BENDIGO VIC 3550,House,4,3,2,870m² ,01 Jun 2020
+"980,000 ","16b Michael Street,",BENDIGO VIC 3550,House,3,3,2,479m² ,26 May 2020
+"373,000 ","169 Queen Street,",BENDIGO VIC 3550,House,2,1,−,280m² ,15 May 2020
+"450,000 ","31 Strickland Road,",BENDIGO VIC 3550,House,3,2,2,679m² ,13 May 2020
+"2,250,000","288 View Street,",BENDIGO VIC 3550,House,4,2,4,"1,518m² ",13 May 2020
+"330,000 ","81 King Street,",BENDIGO VIC 3550,House,2,1,−,330m² ,05 May 2020
+"780,000 ","144 Barnard Street,",BENDIGO VIC 3550,House,4,2,1,477m² ,04 May 2020
+"240,000 ","20 Buckley Street,",BENDIGO VIC 3550,House,2,1,1,400m² ,24 Apr 2020
+"940,000","5 Austen Terrace,",BENDIGO VIC 3550,House,3,2,4,"1,632m² ",14 Apr 2020
+"375,000 ","179 Queen Street,",BENDIGO VIC 3550,House,3,1,1,330m² ,24 Mar 2020
+"475,000 ","59 Honeysuckle Street,",BENDIGO VIC 3550,House,3,2,1,360m² ,18 Mar 2020
+"790,000 ","202 Forest Street,",BENDIGO VIC 3550,House,3,2,2,660m² ,16 Mar 2020
+"525,000","585 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,2,943m² ,10 Mar 2020
+"218,000 ","Unit 7/16 Stevenson St,",BENDIGO VIC 3550,House,2,1,1,148m² ,06 Mar 2020
+"680,000","192 Don Street,",BENDIGO VIC 3550,House,3,1,4,"1,001m² ",06 Mar 2020
+"410,000 ","43 Bobs Street,",BENDIGO VIC 3550,House,4,2,4,900m² ,05 Mar 2020
+"395,000 ","318 View Street,",BENDIGO VIC 3550,House,3,1,1,600m² ,03 Mar 2020
+"492,500 ","3 Kahland Street,",BENDIGO VIC 3550,House,3,1,4,"1,009m² ",02 Mar 2020
+"1,150,000","117-119 Casey Street,",BENDIGO VIC 3550,House,3,2,3,"2,679m² ",28 Feb 2020
+"735,000 ","18 Waterloo Street,",BENDIGO VIC 3550,House,5,3,1,630m² ,27 Feb 2020
+"1,175,000","14 Valentine Street,",BENDIGO VIC 3550,House,4,2,1,650m² ,21 Feb 2020
+"315,000 ","33 Harrison Street,",BENDIGO VIC 3550,House,4,1,1,874m² ,20 Feb 2020
+"325,000 ","56 Galvin Street,",BENDIGO VIC 3550,House,2,1,1,119m² ,20 Feb 2020
+"735,000 ","68 Barkly Street,",BENDIGO VIC 3550,House,3,2,2,656m² ,13 Feb 2020
+"659,000","90 Vine Street,",BENDIGO VIC 3550,House,4,2,2,500m² ,10 Feb 2020
+"500,000 ","6 Barry Street,",BENDIGO VIC 3550,House,3,2,1,259m² ,05 Feb 2020
+"350,000 ","7 Joseph Street,",BENDIGO VIC 3550,House,2,1,1,289m² ,03 Feb 2020
+"350,000 ","7 Joseph Street,",BENDIGO VIC 3550,House,2,1,1,340m² ,02 Feb 2020
+"605,000 ","434 & 436 Hargreaves Street,",BENDIGO VIC 3550,House,8,1,12,509m² ,29 Jan 2020
+"357,500 ","51 Baxter Street,",BENDIGO VIC 3550,House,3,1,−,355m² ,23 Jan 2020
+"1,200,000","49 Barkly Street,",BENDIGO VIC 3550,House,4,2,2,"1,015m² ",23 Jan 2020
+"430,000 ","6 Buller Street,",BENDIGO VIC 3550,House,4,2,2,632m² ,22 Jan 2020
+"725,000 ","63 Garsed Street,",BENDIGO VIC 3550,House,3,2,2,401m² ,21 Jan 2020
+"633,000 ","17 Bright Street,",BENDIGO VIC 3550,House,3,2,2,158m² ,20 Jan 2020
+"300,000 ","43 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,1,425m² ,17 Jan 2020
+"625,000 ","30 Valentine Street,",BENDIGO VIC 3550,House,4,1,2,"1,196m² ",15 Jan 2020
+"550,000 ","111 Sternberg Street,",BENDIGO VIC 3550,House,6,3,4,870m² ,20 Dec 2019
+"395,000","181 King Street,",BENDIGO VIC 3550,House,4,1,2,602m² ,17 Dec 2019
+"510,000 ","1/21 Myall Street,",BENDIGO VIC 3550,House,3,2,1,264m² ,14 Dec 2019
+"337,000 ","2 Harry Street,",BENDIGO VIC 3550,House,3,1,2,443m² ,13 Dec 2019
+"850,000 ","79 Wattle Street,",BENDIGO VIC 3550,House,2,2,2,583m² ,13 Dec 2019
+"675,000 ","71 Havlin Street East,",BENDIGO VIC 3550,House,3,2,2,480m² ,06 Dec 2019
+"312,500 ","16A Bennett Street,",BENDIGO VIC 3550,House,3,1,1,360m² ,04 Dec 2019
+"375,000 ","429 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,4,307m² ,29 Nov 2019
+"650,000 ","468 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,7,500m² ,28 Nov 2019
+"280,000 ","135 Creek Street South,",BENDIGO VIC 3550,House,2,1,1,380m² ,26 Nov 2019
+"457,000 ","26 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,1,778m² ,26 Nov 2019
+"475,000 ","15 McIvor Road,",BENDIGO VIC 3550,House,4,1,2,681m² ,22 Nov 2019
+"1,150,000 ","118 Forest Street,",BENDIGO VIC 3550,House,4,2,3,"1,046m² ",17 Nov 2019
+"400,000 ","102 King Street,",BENDIGO VIC 3550,House,3,2,2,498m² ,12 Nov 2019
+"500,000 ","8 Hustlers Road,",BENDIGO VIC 3550,House,3,1,2,"1,200m² ",11 Nov 2019
+"525,000 ","325 Barnard Street,",BENDIGO VIC 3550,House,3,1,2,400m² ,11 Nov 2019
+"465,000 ","250 Napier Street,",BENDIGO VIC 3550,House,3,2,1,536m² ,07 Nov 2019
+"520,000 ","8 Galvin Street,",BENDIGO VIC 3550,House,4,3,2,"1,421m² ",07 Nov 2019
+"565,000 ","244 Napier Street,",BENDIGO VIC 3550,House,2,1,2,"1,012m² ",05 Nov 2019
+"320,000 ","21 Milroy Street,",BENDIGO VIC 3550,House,3,1,1,423m² ,29 Oct 2019
+"395,000 ","64 Baxter Street,",BENDIGO VIC 3550,House,4,1,1,551m² ,25 Oct 2019
+"392,500 ","10 Buckley Street,",BENDIGO VIC 3550,House,4,1,2,613m² ,25 Oct 2019
+"820,000 ","300 View Street,",BENDIGO VIC 3550,House,4,2,2,575m² ,25 Oct 2019
+"415,250 ","18 Albert Street,",BENDIGO VIC 3550,House,3,2,1,341m² ,24 Oct 2019
+"347,500 ","43 Harrison Street,",BENDIGO VIC 3550,House,3,1,2,787m² ,17 Oct 2019
+"300,000 ","37 Abbott Street,",BENDIGO VIC 3550,House,2,1,1,158m² ,15 Oct 2019
+"390,000 ","70 Drought Street,",BENDIGO VIC 3550,House,4,1,3,632m² ,14 Oct 2019
+"660,000","35 Hopetoun Street,",BENDIGO VIC 3550,House,4,2,−,517m² ,07 Oct 2019
+"335,000 ","19 Joseph Street,",BENDIGO VIC 3550,House,3,1,−,543m² ,04 Oct 2019
+"425,000 ","75 King Street,",BENDIGO VIC 3550,House,3,1,1,425m² ,04 Oct 2019
+"355,000 ","559 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,715m² ,23 Sep 2019
+"435,000 ","18 Broom Street,",BENDIGO VIC 3550,House,3,2,2,320m² ,23 Sep 2019
+"570,000 ","26 Barkly Street,",BENDIGO VIC 3550,House,3,1,1,400m² ,18 Sep 2019
+"660,000 ","101 Queen Street,",BENDIGO VIC 3550,House,2,2,2,291m² ,13 Sep 2019
+"426,000 ","26 Reverie Street,",BENDIGO VIC 3550,House,4,1,4,711m² ,13 Sep 2019
+"320,000 ","95 Queen Street,",BENDIGO VIC 3550,House,2,1,1,343m² ,05 Sep 2019
+"492,000 ","18 Valentine Street,",BENDIGO VIC 3550,House,3,1,1,156m² ,21 Aug 2019
+"385,000","2/153 Williamson Street,",BENDIGO VIC 3550,House,3,1,2,279m² ,20 Aug 2019
+"380,000 ","211 Barnard Street,",BENDIGO VIC 3550,House,3,1,−,290m² ,07 Aug 2019
+"655,000","3 Gleeson Street,",BENDIGO VIC 3550,House,4,2,2,918m² ,30 Jul 2019
+"345,000 ","251 Mackenzie Street,",BENDIGO VIC 3550,House,2,1,1,500m² ,30 Jul 2019
+"1,100,000 ","85 Barkly Street,",BENDIGO VIC 3550,House,5,2,1,"1,019m² ",2019
+"220,000 ","25 Sternberg Street,",BENDIGO VIC 3550,House,2,1,1,506m² ,17 Jul 2019
+"310,000 ","19 McColl Street,",BENDIGO VIC 3550,House,3,1,2,569m² ,08 Jul 2019
+"310,000 ","19 McColl Street,",BENDIGO VIC 3550,House,3,1,2,569m² ,08 Jul 2019
+"580,000 ","77 Brougham Street,",BENDIGO VIC 3550,House,4,1,1,420m² ,28 Jun 2019
+"332,500 ","9 Stevenson Street,",BENDIGO VIC 3550,House,3,1,2,460m² ,27 Jun 2019
+"923,000 ","130-132 Rowan Street,",BENDIGO VIC 3550,House,5,3,3,"1,100m² ",25 Jun 2019
+"1,117,500 ","28-30 Doak Street,",BENDIGO VIC 3550,House,4,3,4,"2,560m² ",24 Jun 2019
+"540,000 ","55 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,1,"1,280m² ",24 Jun 2019
+"238,500 ","12 Redan Street,",BENDIGO VIC 3550,House,3,1,3,601m² ,18 Jun 2019
+"265,000 ","5 Moran Street,",BENDIGO VIC 3550,House,2,1,1,616m² ,17 Jun 2019
+"990,000 ","67 Rowan Street,",BENDIGO VIC 3550,House,3,2,2,"1,026m² ",15 Jun 2019
+"365,000 ","11 Anderson Street,",BENDIGO VIC 3550,House,3,1,−,660m² ,2019
+"265,000 ","5 Moran Street,",BENDIGO VIC 3550,House,2,1,1,616m² ,12 Jun 2019
+"485,000 ","4 McLaren Street,",BENDIGO VIC 3550,House,3,1,2,300m² ,29 May 2019
+"515,000 ","7 Carnegie Way,",BENDIGO VIC 3550,House,3,2,2,134m² ,26 May 2019
+"465,000 ","22 Broom Street,",BENDIGO VIC 3550,House,3,1,1,255m² ,23 May 2019
+"440,000 ","137 Wattle Street,",BENDIGO VIC 3550,House,3,2,1,237m² ,22 May 2019
+"270,000 ","5/24 Hopetoun Street,",BENDIGO VIC 3550,House,2,1,1,161m² ,20 May 2019
+"463,000 ","3 Wolstencroft Street,",BENDIGO VIC 3550,House,0,0,0,322m² ,17 May 2019
+"680,000 ","73 Vine Street,",BENDIGO VIC 3550,House,3,1,1,441m² ,14 May 2019
+"1,200,000 ","32 Forest Street,",BENDIGO VIC 3550,House,14,3,−,"1,133m² ",10 May 2019
+"510,000","202 Don Street,",BENDIGO VIC 3550,House,4,3,1,437m² ,08 May 2019
+"460,000","214 Barnard Street,",BENDIGO VIC 3550,House,3,1,1,639m² ,06 May 2019
+"252,000 ","4/161 Arnold Street,",BENDIGO VIC 3550,House,2,1,1,70m² ,02 May 2019
+"349,500 ","7 Langston Street,",BENDIGO VIC 3550,House,2,1,−,300m² ,29 Apr 2019
+"1,425,000 ","57 Forest Street,",BENDIGO VIC 3550,House,4,2,1,940m² ,2019
+"1,425,000 ","57 Forest Street,",BENDIGO VIC 3550,House,4,2,1,940m² ,2019
+"608,000","121 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,809m² ,26 Apr 2019
+"259,000 ","3 Steane Street,",BENDIGO VIC 3550,House,3,1,−,390m² ,24 Apr 2019
+"1,050,000","93 Bridge Street,",BENDIGO VIC 3550,House,4,3,2,428m² ,05 Apr 2019
+"750,000","92 Hargreaves Street,",BENDIGO VIC 3550,House,4,3,3,420m² ,05 Apr 2019
+"412,500 ","32 Chapel Street,",BENDIGO VIC 3550,House,3,1,2,521m² ,02 Apr 2019
+"1,050,000 ","59 Rowan Street,",BENDIGO VIC 3550,House,4,2,2,"1,061m² ",30 Mar 2019
+"700,000","58 Wattle Street,",BENDIGO VIC 3550,House,2,1,2,788m² ,21 Mar 2019
+"815,000 ","72 Rowan Street,",BENDIGO VIC 3550,House,4,2,3,"1,149m² ",16 Mar 2019
+"815,000 ","72 Rowan Street,",BENDIGO VIC 3550,House,4,2,3,"1,149m² ",16 Mar 2019
+"680,000 ","18 Bright Street,",BENDIGO VIC 3550,House,4,2,2,374m² ,12 Mar 2019
+"310,000 ","36 McIvor Road,",BENDIGO VIC 3550,House,3,1,2,450m² ,06 Mar 2019
+"320,000 ","16 Hill Street,",BENDIGO VIC 3550,House,3,1,1,396m² ,02 Mar 2019
+"269,000 ","1/96 Mundy Street,",BENDIGO VIC 3550,House,2,1,1,269m² ,28 Feb 2019
+"375,000","75 Violet Street,",BENDIGO VIC 3550,House,2,1,1,296m² ,28 Feb 2019
+"412,500 ","173 Arnold Street,",BENDIGO VIC 3550,House,3,1,1,430m² ,2019
+"230,000 ","3 Reef Street,",BENDIGO VIC 3550,House,3,1,−,430m² ,20 Feb 2019
+"468,200 ","23 Miller Street,",BENDIGO VIC 3550,House,3,2,2,345m² ,15 Feb 2019
+"359,000 ","186 King Street,",BENDIGO VIC 3550,House,3,1,2,561m² ,12 Feb 2019
+"820,000","14 Brougham Street,",BENDIGO VIC 3550,House,3,2,2,745m² ,12 Feb 2019
+"580,000","80 Vine Street,",BENDIGO VIC 3550,House,3,2,1,364m² ,12 Feb 2019
+"693,100","468 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,7,500m² ,2019
+"510,500 ","7 Steane Street,",BENDIGO VIC 3550,House,3,2,2,"1,400m² ",2019
+"575,000 ","252 Napier Street,",BENDIGO VIC 3550,House,3,1,2,527m² ,08 Feb 2019
+"630,000 ","1 Richard Street,",BENDIGO VIC 3550,House,3,1,1,410m² ,05 Feb 2019
+"321,000 ","121 Williamson Street,",BENDIGO VIC 3550,House,2,1,1,206m² ,01 Feb 2019
+"267,500","2/96 Mundy Street,",BENDIGO VIC 3550,House,2,1,1,269m² ,16 Jan 2019
+"600,000","139 Creek Street South,",BENDIGO VIC 3550,House,4,3,2,690m² ,16 Jan 2019
+"330,000 ","68 Smith Street,",BENDIGO VIC 3550,House,2,1,4,579m² ,14 Jan 2019
+"240,000 ","2/35 Havlin Street East,",BENDIGO VIC 3550,House,3,2,−,252m² ,08 Jan 2019
+"607,500 ","267 Barnard Street,",BENDIGO VIC 3550,House,3,2,4,819m² ,21 Dec 2018
+"750,000","41 Condon Street,",BENDIGO VIC 3550,House,5,3,1,675m² ,17 Dec 2018
+"300,000 ","114 Violet Street,",BENDIGO VIC 3550,House,3,1,1,525m² ,14 Dec 2018
+"263,500 ","215 McCrae Street,",BENDIGO VIC 3550,House,2,1,−,217m² ,13 Dec 2018
+"375,500 ","21 Bannerman Street,",BENDIGO VIC 3550,House,3,1,1,650m² ,12 Dec 2018
+"280,000 ","13 Havlin Street East,",BENDIGO VIC 3550,House,3,1,1,477m² ,10 Dec 2018
+"280,000 ","14 Sternberg Street,",BENDIGO VIC 3550,House,4,1,−,625m² ,10 Dec 2018
+"1,750,000","161 Forest Street,",BENDIGO VIC 3550,House,5,2,6,"1,029m² ",07 Dec 2018
+"235,000 ","104 Violet Street,",BENDIGO VIC 3550,House,3,1,−,494m² ,29 Nov 2018
+"475,000","34 Brougham Street,",BENDIGO VIC 3550,House,3,1,1,388m² ,29 Nov 2018
+"540,000 ","7 Hodgkinson Street,",BENDIGO VIC 3550,House,4,2,2,520m² ,25 Nov 2018
+"210,000 ","61 Marong Road,",BENDIGO VIC 3550,House,3,1,−,700m² ,23 Nov 2018
+"420,000","156 King Street,",BENDIGO VIC 3550,House,3,2,2,525m² ,15 Nov 2018
+"440,000 ","6 Smith Street,",BENDIGO VIC 3550,House,4,2,2,579m² ,14 Nov 2018
+"480,000 ","51-51A Nolan Street,",BENDIGO VIC 3550,House,5,2,1,"1,232m² ",13 Nov 2018
+"375,000","49 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,1,643m² ,12 Nov 2018
+"550,000 ","173 Don Street,",BENDIGO VIC 3550,House,3,1,1,"1,011m² ",07 Nov 2018
+"430,000 ","98 Marong Road,",BENDIGO VIC 3550,House,3,2,2,770m² ,06 Nov 2018
+"327,750 ","146 Williamson Street,",BENDIGO VIC 3550,House,3,− 0,7,627m² ,06 Nov 2018
+"235,000 ","410 Napier Street,",BENDIGO VIC 3550,House,3,1,1,880m² ,30 Oct 2018
+"1,400,000 ","238 View Street,",BENDIGO VIC 3550,House,4,2,2,"1,263m² ",29 Oct 2018
+"550,000 ","173 Don Street,",BENDIGO VIC 3550,House,3,1,1,"1,011m² ",23 Oct 2018
+"412,000 ","20 Hopetoun Street,",BENDIGO VIC 3550,House,3,1,1,506m² ,2018
+"840,000 ","181 Wattle Street,",BENDIGO VIC 3550,House,5,2,2,634m² ,12 Oct 2018
+"520,000","494 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,1,696m² ,09 Oct 2018
+"397,000 ","11 Larritt Street,",BENDIGO VIC 3550,House,3,1,1,703m² ,04 Oct 2018
+"505,000 ","231 McCrae Street,",BENDIGO VIC 3550,House,4,2,2,465m² ,20 Sep 2018
+"420,000","91B Holdsworth Road,",BENDIGO VIC 3550,House,3,2,3,"1,500m² ",17 Sep 2018
+"327,000 ","37 Old Violet Street,",BENDIGO VIC 3550,House,3,1,1,383m² ,07 Sep 2018
+"345,000 ","45 Abbott Street,",BENDIGO VIC 3550,House,2,1,1,639m² ,03 Sep 2018
+"555,000 ","7 Bannister Street,",BENDIGO VIC 3550,House,3,2,1,342m² ,31 Aug 2018
+"398,000 ","22 Cobden Street,",BENDIGO VIC 3550,House,3,1,−,220m² ,21 Aug 2018
+"282,500 ","29 Hustlers Road,",BENDIGO VIC 3550,House,3,1,3,656m² ,17 Aug 2018
+"479,000 ","163 Mitchell Street,",BENDIGO VIC 3550,House,3,2,2,700m² ,16 Aug 2018
+"391,000 ","529 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,3,395m² ,14 Aug 2018
+"335,000 ","17/83-87 Arnold Street,",BENDIGO VIC 3550,House,2,2,2,200m² ,08 Aug 2018
+"615,000 ","97 Wills Street,",BENDIGO VIC 3550,House,3,2,2,338m² ,06 Aug 2018
+"1,200,000","72 Mackenzie Street,",BENDIGO VIC 3550,House,4,2,2,"1,087m² ",20 Jul 2018
+"420,000 ","112 Barnard Street,",BENDIGO VIC 3550,House,2,1,1,133m² ,20 Jul 2018
+"370,000 ","6 Riley Street,",BENDIGO VIC 3550,House,4,2,1,355m² ,18 Jul 2018
+"388,500 ","243 Napier Street,",BENDIGO VIC 3550,House,3,2,6,"1,000m² ",18 Jul 2018
+"425,000 ","4 Harrison Street,",BENDIGO VIC 3550,House,4,1,2,"1,412m² ",11 Jul 2018
+"410,000 ","61 Mundy Street,",BENDIGO VIC 3550,House,2,1,1,175m² ,11 Jul 2018
+"312,500","14 Wilkie Street,",BENDIGO VIC 3550,House,3,2,2,777m² ,10 Jul 2018
+"595,000 ","5 Norfolk Street,",BENDIGO VIC 3550,House,3,2,2,664m² ,10 Jul 2018
+"192,000 ","29 Eaglehawk Road,",BENDIGO VIC 3550,House,2,1,1,211m² ,07 Jul 2018
+"395,000 ","1/3 Shamrock Street,",BENDIGO VIC 3550,House,3,2,2,300m² ,29 Jun 2018
+"235,000 ","68 Strickland Road,",BENDIGO VIC 3550,House,4,1,−,580m² ,28 Jun 2018
+"331,500 ","32 Lawson Street,",BENDIGO VIC 3550,House,3,1,3,"1,297m² ",26 Jun 2018
+"204,000 ","2/43 Drought Street,",BENDIGO VIC 3550,House,1,1,1,200m² ,21 Jun 2018
+"486,000 ","75 Vine Street,",BENDIGO VIC 3550,House,3,1,2,791m² ,18 Jun 2018
+"310,000","2/570 Hargreaves Street,",BENDIGO VIC 3550,House,2,1,1,312m² ,18 Jun 2018
+"720,000","18 Forest St,",BENDIGO VIC 3550,House,5,2,2,715m² ,14 Jun 2018
+"320,000 ","9 Cornwall Place,",BENDIGO VIC 3550,House,2,1,1,245m² ,06 Jun 2018
+"355,000 ","45 Myrtle Street,",BENDIGO VIC 3550,House,3,1,2,550m² ,06 Jun 2018
+"395,000 ","3/3 Shamrock Street,",BENDIGO VIC 3550,House,3,2,2,300m² ,05 Jun 2018
+"440,000 ","299 - 301 Barnard Street,",BENDIGO VIC 3550,House,4,2,4,550m² ,01 Jun 2018
+"445,000 ","31 Harney Street,",BENDIGO VIC 3550,House,4,1,2,505m² ,30 May 2018
+"1,450,000 ","4 Niemann Street,",BENDIGO VIC 3550,House,4,3,1,"2,389m² ",24 May 2018
+"525,000 ","1/35-37 Sternberg St,",BENDIGO VIC 3550,House,3,2,2,295m² ,21 May 2018
+"399,000 ","9 McIvor Road,",BENDIGO VIC 3550,House,3,1,1,566m² ,19 May 2018
+"410,000 ","18 Black Street,",BENDIGO VIC 3550,House,3,2,2,578m² ,16 May 2018
+"587,500 ","207 Forest Street,",BENDIGO VIC 3550,House,3,2,3,400m² ,16 May 2018
+"1,430,000","49-57 Marong Road,",BENDIGO VIC 3550,House,5,2,−,"4,900m² ",2018
+"625,000 ","46 Drought Street,",BENDIGO VIC 3550,House,3,2,−,662m² ,13 May 2018
+"500,000 ","4/53 Weeroona Avenue,",BENDIGO VIC 3550,House,3,2,2,241m² ,09 May 2018
+"440,000 ","83 Mundy Street,",BENDIGO VIC 3550,House,3,1,1,602m² ,08 May 2018
+"795,000 ","251-253 Napier Street,",BENDIGO VIC 3550,House,2,1,1,456m² ,07 May 2018
+"433,000 ","14 Stevenson Street,",BENDIGO VIC 3550,House,3,1,2,617m² ,04 May 2018
+"320,000 ","33 Milroy Street,",BENDIGO VIC 3550,House,3,1,1,610m² ,03 May 2018
+"695,000 ","176 Williamson Street,",BENDIGO VIC 3550,House,4,3,3,900m² ,02 May 2018
+"647,500 ","145 McIvor Road,",BENDIGO VIC 3550,House,3,2,2,"1,900m² ",30 Apr 2018
+"447,000 ","166 MacKenzie Street,",BENDIGO VIC 3550,House,3,1,−,"1,165m² ",2018
+"310,000 ","53 Nolan Street,",BENDIGO VIC 3550,House,3,1,−,612m² ,26 Apr 2018
+"1,650,000 ","142 Forest Street,",BENDIGO VIC 3550,House,4,3,2,"1,557m² ",17 Apr 2018
+"730,000 ","14 Barkly Street,",BENDIGO VIC 3550,House,3,2,2,806m² ,2018
+"610,000","165 Don Street,",BENDIGO VIC 3550,House,3,1,1,480m² ,03 Apr 2018
+"295,000 ","2 Denovan Street,",BENDIGO VIC 3550,House,3,1,1,474m² ,29 Mar 2018
+"255,000 ","2 Carwardine Street,",BENDIGO VIC 3550,House,4,1,2,450m² ,28 Mar 2018
+"545,000 ","10 Flood Street,",BENDIGO VIC 3550,House,3,1,4,"1,025m² ",20 Mar 2018
+"650,000","164 Rowan St,",BENDIGO VIC 3550,House,4,2,2,531m² ,2018
+"715,000 ","143 Don Street,",BENDIGO VIC 3550,House,4,2,2,"1,213m² ",16 Mar 2018
+"345,000 ","144 Williamson Street,",BENDIGO VIC 3550,House,2,1,1,479m² ,15 Mar 2018
+"780,000 ","192 Barnard Street,",BENDIGO VIC 3550,House,6,2,−,628m² ,14 Mar 2018
+"355,000 ","31 Harrison Street,",BENDIGO VIC 3550,House,3,1,−,490m² ,13 Mar 2018
+"425,000 ","208 Arnold Street,",BENDIGO VIC 3550,House,3,1,1,503m² ,09 Mar 2018
+"320,000 ","108 Eaglehawk Road,",BENDIGO VIC 3550,House,3,1,1,325m² ,08 Mar 2018
+"333,001","24 Buckley Street,",BENDIGO VIC 3550,House,3,2,1,518m² ,08 Mar 2018
+"302,000 ","3 Norfolk Street,",BENDIGO VIC 3550,House,3,1,−,758m² ,08 Mar 2018
+"355,000 ","40 Caledonia Street,",BENDIGO VIC 3550,House,3,2,4,635m² ,07 Mar 2018
+"405,000","59 Mundy Street,",BENDIGO VIC 3550,House,2,1,1,180m² ,07 Mar 2018
+"425,000","46 Garsed Street,",BENDIGO VIC 3550,House,3,1,2,297m² ,02 Mar 2018
+"379,625 ","125 Violet Street,",BENDIGO VIC 3550,House,3,1,1,506m² ,01 Mar 2018
+"440,000 ","9 Tomlins Street,",BENDIGO VIC 3550,House,3,1,7,700m² ,28 Feb 2018
+"660,000","121 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,3,809m² ,23 Feb 2018
+"395,000 ","2/5 Acacia Street,",BENDIGO VIC 3550,House,3,2,1,189m² ,21 Feb 2018
+"1,875,000 ","16 Valentine Street,",BENDIGO VIC 3550,House,4,2,3,"1,416m² ",21 Feb 2018
+"1,300,000 ","32 Forest Street,",BENDIGO VIC 3550,House,14,3,−,"1,133m² ",21 Feb 2018
+"370,000 ","73 King Street,",BENDIGO VIC 3550,House,3,1,1,400m² ,2018
+"377,500 ","95 Baxter Street,",BENDIGO VIC 3550,House,3,1,1,245m² ,16 Feb 2018
+"377,500 ","8 Barney Street,",BENDIGO VIC 3550,House,4,1,1,632m² ,15 Feb 2018
+"225,000","26 Hopper Street,",BENDIGO VIC 3550,House,3,1,2,432m² ,02 Feb 2018
+"410,001 ","89 Bridge Street,",BENDIGO VIC 3550,House,3,1,−,286m² ,02 Feb 2018
+"1,660,000","145 Mitchell Street,",BENDIGO VIC 3550,House,5,4,3,"1,011m² ",01 Feb 2018
+"287,000 ","20 Bannerman Street,",BENDIGO VIC 3550,House,3,1,1,336m² ,24 Jan 2018
+"248,000 ","108 Holdsworth Road,",BENDIGO VIC 3550,House,3,1,1,473m² ,24 Jan 2018
+"302,500","22 Galvin Street,",BENDIGO VIC 3550,House,3,1,1,347m² ,15 Jan 2018
+"660,000","28 Old High Street,",BENDIGO VIC 3550,House,5,2,2,873m² ,15 Jan 2018
+"1,700,000","53 Forest Street,",BENDIGO VIC 3550,House,5,2,4,999m² ,09 Jan 2018
+"495,000 ","20 Valentine Street,",BENDIGO VIC 3550,House,4,1,2,340m² ,08 Jan 2018
+"395,000 ","504 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,336m² ,29 Dec 2017
+"405,000 ","10 Hoskins Street,",BENDIGO VIC 3550,House,3,1,1,266m² ,22 Dec 2017
+"280,000 ","2/12 Wortha Street,",BENDIGO VIC 3550,House,2,1,1,245m² ,21 Dec 2017
+"317,000 ","166 King Street,",BENDIGO VIC 3550,House,3,1,3,523m² ,19 Dec 2017
+"490,000 ","2 Eaglehawk Road,",BENDIGO VIC 3550,House,3,2,2,664m² ,18 Dec 2017
+"395,000 ","18 Valentine Street,",BENDIGO VIC 3550,House,3,1,2,160m² ,18 Dec 2017
+"325,000 ","59 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,1,396m² ,2017
+"332,000 ","6 Havlin Street West,",BENDIGO VIC 3550,House,3,1,2,552m² ,01 Dec 2017
+"635,000 ","119 Lansell Terrace,",BENDIGO VIC 3550,House,4,2,1,"1,320m² ",30 Nov 2017
+"275,000","363 Napier Street,",BENDIGO VIC 3550,House,3,2,1,335m² ,29 Nov 2017
+"237,500 ","189 King Street,",BENDIGO VIC 3550,House,3,1,1,418m² ,29 Nov 2017
+"260,000 ","18 Casley Street,",BENDIGO VIC 3550,House,3,2,−,625m² ,28 Nov 2017
+"305,000 ","35 McClure Street,",BENDIGO VIC 3550,House,3,2,2,860m² ,28 Nov 2017
+"900,000 ","182 Wattle Street,",BENDIGO VIC 3550,House,3,1,2,"1,133m² ",2017
+"450,000","293 Barnard Street,",BENDIGO VIC 3550,House,5,2,4,"1,000m² ",22 Nov 2017
+"155,000 ","70 Marong Road,",BENDIGO VIC 3550,House,2,1,3,834m² ,5 Nov 2017
+"326,000","176 Don Street,",BENDIGO VIC 3550,House,2,1,1,502m² ,13 Nov 2017
+"230,000","1/54 Milroy Street,",BENDIGO VIC 3550,House,2,1,2,104m² ,09 Nov 2017
+"385,000 ","33 Myrtle Street,",BENDIGO VIC 3550,House,2,1,2,320m² ,30 Oct 2017
+"690,000 ","103 Lansell Terrace,",BENDIGO VIC 3550,House,3,2,2,"1,996m² ",30 Oct 2017
+"605,000 ","79 Honeysuckle Street,",BENDIGO VIC 3550,House,4,2,1,889m² ,16 Oct 2017
+"310,000","1 Clarence Avenue,",BENDIGO VIC 3550,House,3,1,3,585m² ,09 Oct 2017
+"436,000 ","185 MacKenzie Street,",BENDIGO VIC 3550,House,3,2,1,573m² ,28 Sep 2017
+"490,000 ","165 Don Street,",BENDIGO VIC 3550,House,3,1,1,480m² ,21 Sep 2017
+"310,000 ","63 Nettle Street,",BENDIGO VIC 3550,House,3,1,1,"1,100m² ",19 Sep 2017
+"505,000","457 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,−,809m² ,2017
+"920,000","31 Doak Street,",BENDIGO VIC 3550,House,4,3,2,"1,059m² ",08 Sep 2017
+"660,000 ","133 Forest Street,",BENDIGO VIC 3550,House,3,2,2,425m² ,02 Sep 2017
+"700,000","6 Niemann Street,",BENDIGO VIC 3550,House,3,1,4,"1,206m² ",29 Aug 2017
+"285,000 ","35 Bayne Street,",BENDIGO VIC 3550,House,3,1,2,491m² ,28 Aug 2017
+"290,000 ","11 Moran Street,",BENDIGO VIC 3550,House,4,1,−,800m² ,22 Aug 2017
+"1,000,000 ","5/47 Solomon Street,",BENDIGO VIC 3550,House,4,4,3,871m² ,16 Aug 2017
+"230,000 ","16 McIvor Road,",BENDIGO VIC 3550,House,3,1,1,500m² ,04 Aug 2017
+"330,000 ","1 Lansell Street,",BENDIGO VIC 3550,House,3,1,1,300m² ,28 Jul 2017
+"270,000 ","107 Murphy Street,",BENDIGO VIC 3550,House,3,1,1,449m² ,20 Jul 2017
+"690,000 ","185 Don Street,",BENDIGO VIC 3550,House,4,2,1,915m² ,20 Jul 2017
+"357,500 ","16 Larritt Street,",BENDIGO VIC 3550,House,3,1,2,630m² ,18 Jul 2017
+"365,000 ","22 Holmes Rd,",BENDIGO VIC 3550,House,5,2,5,"1,012m² ",17 Jul 2017
+"310,000 ","2 Whittaker Street,",BENDIGO VIC 3550,House,2,2,1,286m² ,13 Jul 2017
+"267,000 ","30 Wattle Street,",BENDIGO VIC 3550,House,2,1,1,258m² ,05 Jul 2017
+"265,000 ","18 Rae Street,",BENDIGO VIC 3550,House,3,1,1,540m² ,20 Jun 2017
+"215,000 ","261 King Street,",BENDIGO VIC 3550,House,3,1,1,335m² ,19 Jun 2017
+"412,000 ","41 Bakewell Street,",BENDIGO VIC 3550,House,4,2,2,"1,067m² ",13 Jun 2017
+"385,000 ","149 Williamson Street,",BENDIGO VIC 3550,House,2,1,1,950m² ,2017
+"505,000 ","106 King Street,",BENDIGO VIC 3550,House,3,2,1,168m² ,09 Jun 2017
+"416,000 ","66 Honeysuckle Street,",BENDIGO VIC 3550,House,3,2,1,800m² ,07 Jun 2017
+"530,000 ","8 Eaglehawk Road,",BENDIGO VIC 3550,House,3,2,1,768m² ,06 Jun 2017
+"216,250 ","5 Susan Street,",BENDIGO VIC 3550,House,2,1,1,900m² ,26 May 2017
+"615,000 ","12 Niemann Street,",BENDIGO VIC 3550,House,3,2,1,"1,120m² ",19 May 2017
+"675,000 ","138 Wattle Street,",BENDIGO VIC 3550,House,4,3,−,600m² ,2017
+"365,000 ","81 Thistle Street,",BENDIGO VIC 3550,House,3,1,2,550m² ,17 May 2017
+"315,000 ","109 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,−,430m² ,16 May 2017
+"330,000","52 Arnold Street,",BENDIGO VIC 3550,House,2,1,1,427m² ,11 May 2017
+"275,000 ","85 Honeysuckle Street,",BENDIGO VIC 3550,House,3,1,1,438m² ,11 May 2017
+"540,000 ","269 Barnard Street,",BENDIGO VIC 3550,House,4,2,2,651m² ,06 May 2017
+"380,000 ","4 Valentine Street,",BENDIGO VIC 3550,House,3,1,−,368m² ,05 May 2017
+"370,000","104 Violet Street,",BENDIGO VIC 3550,House,3,1,−,800m² ,2017
+"375,000 ","59 Arnold Street,",BENDIGO VIC 3550,House,2,1,1,292m² ,18 Apr 2017
+"315,000 ","50 Smith Street,",BENDIGO VIC 3550,House,3,1,1,632m² ,10 Apr 2017
+"665,000","70 Thistle Street,",BENDIGO VIC 3550,House,3,2,4,640m² ,30 Mar 2017
+"930,000 ","14 Langston Street,",BENDIGO VIC 3550,House,4,3,2,"1,424m² ",26 Mar 2017
+"431,000 ","67 Honeysuckle Street,",BENDIGO VIC 3550,House,3,2,2,"1,290m² ",21 Mar 2017
+"317,000 ","129 Lily Street,",BENDIGO VIC 3550,House,3,2,1,501m² ,20 Mar 2017
+"462,000 ","99 Hargreaves Street,",BENDIGO VIC 3550,House,3,2,2,330m² ,08 Mar 2017
+"515,000","84 Rowan Street,",BENDIGO VIC 3550,House,4,1,−,830m² ,2017
+"250,000 ","23 Grace Street,",BENDIGO VIC 3550,House,3,1,1,584m² ,22 Feb 2017
+"700,000 ","537 Hargreaves Street,",BENDIGO VIC 3550,House,4,2,2,"1,060m² ",10 Feb 2017
+"500,000 ","2 Frederick Street,",BENDIGO VIC 3550,House,3,2,2,622m² ,08 Feb 2017
+"207,000 ","33 Moran Street,",BENDIGO VIC 3550,House,3,1,1,543m² ,25 Jan 2017
+"750,000 ","550 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,1,880m² ,14 Jan 2017
+"270,000","39 Hargreaves Street,",BENDIGO VIC 3550,Semi-detached,2,1,1,295m² ,09 Jan 2017
+"430,000","41 Drought Street,",BENDIGO VIC 3550,House,3,1,4,534m² ,04 Jan 2017
+"631,000 ","33 Honeysuckle Street,",BENDIGO VIC 3550,House,4,2,2,"1,240m² ",22 Dec 2016
+"328,000 ","27 Hill Street (cnr Buckley St),",BENDIGO VIC 3550,House,3,1,1,420m² ,22 Dec 2016
+"415,000","39 Drought Street,",BENDIGO VIC 3550,House,2,1,2,645m² ,2016
+"390,000 ","246 Napier Street,",BENDIGO VIC 3550,House,3,1,2,552m² ,15 Dec 2016
+"482,000 ","41 Harrison Street,",BENDIGO VIC 3550,House,4,2,3,"1,000m² ",14 Dec 2016
+"440,000","140 Arnold Street,",BENDIGO VIC 3550,House,3,1,−,561m² ,2016
+"737,500","131 Queen Street,",BENDIGO VIC 3550,House,3,1,−,"1,014m² ",09 Dec 2016
+"482,000","41 Harrison Street,",BENDIGO VIC 3550,House,4,2,3,"1,000m² ",06 Dec 2016
+"355,000","12 King Street,",BENDIGO VIC 3550,House,3,2,2,232m² ,2016
+"465,000","17 Langston Street,",BENDIGO VIC 3550,House,4,1,2,672m² ,2016
+"475,000","10 Maxwell Crescent,",BENDIGO VIC 3550,House,3,2,6,"1,000m² ",22 Nov 2016
+"252,000","10 Hill Street,",BENDIGO VIC 3550,House,3,1,2,987m² ,18 Nov 2016
+"910,000 ","10 Lilac Street,",BENDIGO VIC 3550,House,4,2,1,670m² ,18 Nov 2016
+"480,000","44 Wattle Street,",BENDIGO VIC 3550,House,1,1,6,578m² ,14 Nov 2016
+"317,000 ","11 Myall Street,",BENDIGO VIC 3550,House,3,1,1,478m² ,14 Nov 2016
+"565,000 ","5 Frederick Street,",BENDIGO VIC 3550,House,4,2,2,690m² ,2016
+"240,000 ","1/1A Bayne Street,",BENDIGO VIC 3550,House,2,1,1,230m² ,11 Nov 2016
+"650,000 ",,BENDIGO VIC 3550,House,3,2,3,506m² ,10 Nov 2016
+"400,000 ","7 Barney Street,",BENDIGO VIC 3550,House,3,1,3,740m² ,2016
+"1,800,000","20 Steane Street,",BENDIGO VIC 3550,House,5,2,2,0,2016
+"365,000 ","9/3 Shamrock Street,",BENDIGO VIC 3550,House,3,2,2,300m² ,04 Nov 2016
+"2,225,000","55 Barkly Street,",BENDIGO VIC 3550,House,5,4,4,"1,012m² ",31 Oct 2016
+"1,000,000","255 View Street,",BENDIGO VIC 3550,House,4,2,3,"1,300m² ",31 Oct 2016
+"2,225,000","55 Barkly Street,",BENDIGO VIC 3550,House,5,4,4,"1,012m² ",31 Oct 2016
+"2,225,000","55 Barkly Street,",BENDIGO VIC 3550,House,5,4,4,"1,012m² ",31 Oct 2016
+"260,000 ","214 Don Street,",BENDIGO VIC 3550,House,2,1,−,434m² ,13 Oct 2016
+"460,000","69 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,1,406m² ,2016
+"333,000","181 King Street,",BENDIGO VIC 3550,House,3,1,2,560m² ,08 Oct 2016
+"377,500 ","497 Napier Street,",BENDIGO VIC 3550,House,3,1,1,528m² ,03 Oct 2016
+"395,000 ","7/3 Shamrock Street,",BENDIGO VIC 3550,House,3,2,2,300m² ,30 Sep 2016
+"455,000","43 Nolan Street,",BENDIGO VIC 3550,House,3,2,1,411m² ,27 Sep 2016
+"375,000 ","4/3 Shamrock Street,",BENDIGO VIC 3550,House,3,2,2,300m² ,27 Sep 2016
+"225,000 ","51 Nolan Street,",BENDIGO VIC 3550,House,2,1,1,500m² ,23 Sep 2016
+"307,500","107 Casey Street,",BENDIGO VIC 3550,House,3,1,−,744m² ,16 Sep 2016
+"287,000 ","3 Humme Street,",BENDIGO VIC 3550,House,2,1,1,271m² ,15 Sep 2016
+"200,000 ","51A Nolan Street,",BENDIGO VIC 3550,House,3,1,−,700m² ,12 Sep 2016
+"330,000","57 Hopetoun Street,",BENDIGO VIC 3550,House,3,1,2,350m² ,05 Sep 2016
+"1,050,000","117 Forest Street,",BENDIGO VIC 3550,House,4,2,2,"1,188m² ",01 Sep 2016
+"1,070,000","95 Mollison Street,",BENDIGO VIC 3550,House,4,2,2,"1,000m² ",27 Aug 2016
+"278,000 ","435 Napier Street,",BENDIGO VIC 3550,House,3,1,3,700m² ,23 Aug 2016
+"275,000 ","4 Ashley Street,",BENDIGO VIC 3550,House,3,1,−,202m² ,22 Aug 2016
+"610,000 ","4 Laurel Street,",BENDIGO VIC 3550,House,3,2,4,919m² ,12 Aug 2016
+"880,000 ","10 Peppertree Grove,",BENDIGO VIC 3550,House,4,2,2,"1,350m² ",10 Aug 2016
+"1,450,000","137 Forest Street,",BENDIGO VIC 3550,House,4,2,2,"1,750m² ",01 Aug 2016
+"510,000 ","10 Flood Street,",BENDIGO VIC 3550,House,3,1,4,"1,025m² ",01 Aug 2016
+"460,000 ","150 Violet Street,",BENDIGO VIC 3550,House,3,2,2,718m² ,29 Jul 2016
+"257,500 ","7 Bannister Street,",BENDIGO VIC 3550,House,3,1,−,342m² ,14 Jul 2016
+"555,000 ","5 Barry Street,",BENDIGO VIC 3550,House,3,2,1,265m² ,13 Jul 2016
+"1,500,000","91 Moore Street,",BENDIGO VIC 3550,House,5,4,2,"1,100m² ",26 Jun 2016
+"580,000 ","20A Bannerman Street,",BENDIGO VIC 3550,House,4,2,2,713m² ,24 Jun 2016
+"300,000 ","97 Thistle Street,",BENDIGO VIC 3550,House,3,1,2,356m² ,24 Jun 2016
+"188,000 ","63 Eaglehawk Road,",BENDIGO VIC 3550,House,2,1,2,584m² ,14 Jun 2016
+"480,000","4 Carpenter Street,",BENDIGO VIC 3550,House,3,1,2,480m² ,03 Jun 2016
+"370,000 ","5/3 Shamrock Street,",BENDIGO VIC 3550,House,3,2,2,300m² ,01 Jun 2016
+"395,000 ","39B Harrison Street,",BENDIGO VIC 3550,House,3,2,2,400m² ,24 May 2016
+"1,200,000","33 Mackenzie Street,",BENDIGO VIC 3550,House,4,3,2,522m² ,24 May 2016
+"492,500","44 Old Violet Street,",BENDIGO VIC 3550,House,3,1,1,551m² ,23 May 2016
+"750,000","53 Solomon Street,",BENDIGO VIC 3550,House,3,2,2,972m² ,20 May 2016
+"395,000 ","473 Napier Street,",BENDIGO VIC 3550,House,3,1,2,"1,000m² ",18 May 2016
+"560,000","18 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,3,800m² ,16 May 2016
+"430,000 ","8 Albert Street,",BENDIGO VIC 3550,House,3,1,2,505m² ,2016
+"920,000","8 Echuca Street,",BENDIGO VIC 3550,House,4,2,2,"2,000m² ",16 May 2016
+"340,000 ","5 Carwardine Street,",BENDIGO VIC 3550,House,3,2,1,625m² ,13 May 2016
+"310,000 ","10 Bannerman Street,",BENDIGO VIC 3550,House,1,1,−,338m² ,13 May 2016
+"249,000 ","20 Panton Street,",BENDIGO VIC 3550,House,3,1,1,303m² ,11 May 2016
+"750,000","70 Barkly Street,",BENDIGO VIC 3550,House,3,1,1,817m² ,2016
+"485,000","92 Bridge Street,",BENDIGO VIC 3550,House,3,1,2,915m² ,2016
+"500,000 ","2A Laurel Street,",BENDIGO VIC 3550,House,1,1,−,943m² ,2016
+"390,000 ","521 Hargreaves Street,",BENDIGO VIC 3550,House,3,2,3,753m² ,29 Apr 2016
+"320,000 ","39 Harrison Street,",BENDIGO VIC 3550,House,3,1,1,320m² ,19 Apr 2016
+"248,000 ","98 Marong Rd,",BENDIGO VIC 3550,House,3,1,1,770m² ,04 Apr 2016
+"510,000 ","26 Honeysuckle Street,",BENDIGO VIC 3550,House,4,2,2,550m² ,30 Mar 2016
+"923,000","108 Queen Street,",BENDIGO VIC 3550,House,4,2,1,800m² ,22 Mar 2016
+"357,500","17 Myall Street,",BENDIGO VIC 3550,House,2,1,2,470m² ,2016
+"360,000 ","599 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,"1,025m² ",2016
+"249,950 ","30 Wattle Street,",BENDIGO VIC 3550,House,2,1,1,285m² ,04 Mar 2016
+"600,000","48 Wattle Street,",BENDIGO VIC 3550,House,7,1,−,582m² ,2016
+"295,000 ","13 McIvor Road,",BENDIGO VIC 3550,House,3,1,−,516m² ,02 Mar 2016
+"427,000 ","10 Caledonia Street,",BENDIGO VIC 3550,House,3,1,−,"2,600m² ",29 Feb 2016
+"450,000 ","129 Bridge Street,",BENDIGO VIC 3550,House,3,1,1,695m² ,26 Feb 2016
+"357,500 ","56 Myers Street,",BENDIGO VIC 3550,House,4,1,−,265m² ,02 Feb 2016
+"305,000","5 Harrison Street,",BENDIGO VIC 3550,House,3,1,1,795m² ,29 Jan 2016
+"530,000 ","38 Hopetoun Street,",BENDIGO VIC 3550,House,3,2,2,500m² ,27 Jan 2016
+"565,000","70 Lilac Street,",BENDIGO VIC 3550,House,3,2,2,"1,350m² ",25 Jan 2016
+"353,000 ","28 Lucan Street,",BENDIGO VIC 3550,House,3,1,1,441m² ,15 Jan 2016
+"485,000 ","153 Don Street,",BENDIGO VIC 3550,House,3,1,2,630m² ,06 Jan 2016
+"350,000 ","170 Queen Street,",BENDIGO VIC 3550,House,2,1,−,382m² ,21 Dec 2015
+"475,000","311 View Street,",BENDIGO VIC 3550,House,4,2,2,"1,000m² ",03 Dec 2015
+"660,000","253 View Street,",BENDIGO VIC 3550,House,3,1,1,678m² ,22 Nov 2015
+"555,000 ","4 Atkinson Street,",BENDIGO VIC 3550,House,3,2,1,430m² ,17 Nov 2015
+"420,000","10 Andrew Lane,",BENDIGO VIC 3550,House,4,2,2,0,13 Nov 2015
+"340,000 ","28 Havlin Street West,",BENDIGO VIC 3550,House,3,1,2,621m² ,10 Nov 2015
+"425,000 ","92 Short Street,",BENDIGO VIC 3550,House,2,1,−,200m² ,09 Nov 2015
+"600,000 ","61 Honeysuckle Street,",BENDIGO VIC 3550,House,4,3,2,"1,262m² ",09 Oct 2015
+"336,000 ","4 Hodgkinson Street,",BENDIGO VIC 3550,House,3,1,1,446m² ,07 Oct 2015
+"385,000 ","582 Hargreaves Street,",BENDIGO VIC 3550,House,4,1,2,616m² ,28 Sep 2015
+"525,000 ","1 Richard Street,",BENDIGO VIC 3550,House,3,1,1,410m² ,23 Sep 2015
+"490,000 ","17 Bakewell Street,",BENDIGO VIC 3550,House,3,1,6,"2,056m² ",2015
+"575,000","121 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,809m² ,2015
+"287,000 ","19 Bobs Street,",BENDIGO VIC 3550,House,3,1,1,"1,000m² ",03 Sep 2015
+"260,000","2 Denovan Street,",BENDIGO VIC 3550,House,3,1,2,475m² ,02 Sep 2015
+"315,000 ","27 Harrison Street,",BENDIGO VIC 3550,House,3,1,1,695m² ,26 Aug 2015
+"320,000 ","25 Harrison Street,",BENDIGO VIC 3550,House,3,1,1,512m² ,07 Aug 2015
+"135,000 ","3/133 Eaglehawk Road,",BENDIGO VIC 3550,House,1,1,1,125m² ,21 Jul 2015
+"785,000","101 Mitchell Street,",BENDIGO VIC 3550,House,5,2,3,292m² ,1 Jul 2015
+"375,000 ","103 Lily Street,",BENDIGO VIC 3550,House,3,1,2,"1,194m² ",10 Jul 2015
+"290,000","6 Smith Street,",BENDIGO VIC 3550,House,3,1,1,529m² ,09 Jun 2015
+"375,000","108 Wills Street,",BENDIGO VIC 3550,House,4,1,2,785m² ,28 May 2015
+"610,000","100 Vine Street,",BENDIGO VIC 3550,House,3,1,1,536m² ,27 May 2015
+"392,500 ","8/83 - 87 Arnold Street,",BENDIGO VIC 3550,House,3,2,2,300m² ,25 May 2015
+"257,000","47 Honeysuckle Street,",BENDIGO VIC 3550,House,2,1,1,415m² ,2015
+"375,000","5 Hill Street,",BENDIGO VIC 3550,House,3,1,2,899m² ,15 May 2015
+"500,000 ","354 Napier Street,",BENDIGO VIC 3550,House,4,1,13,"1,414m² ",14 May 2015
+"515,000 ","76 Marong Road,",BENDIGO VIC 3550,House,3,2,2,"1,331m² ",06 May 2015
+"335,000 ","73 Langston Street,",BENDIGO VIC 3550,House,3,1,1,385m² ,02 May 2015
+"285,000 ","Lot 7/180 Williamson Street,",BENDIGO VIC 3550,House,2,1,1,250m² ,21 Apr 2015
+"190,000","10 Sternberg Street,",BENDIGO VIC 3550,House,2,1,−,495m² ,20 Apr 2015
+"620,000 ","16 Anderson Street,",BENDIGO VIC 3550,House,4,2,4,972m² ,20 Apr 2015
+"267,500","17 Condon Street,",BENDIGO VIC 3550,House,3,1,1,440m² ,26 Mar 2015
+"420,000 ","121 Don Street,",BENDIGO VIC 3550,House,3,1,1,"1,239m² ",18 Mar 2015
+"390,000","295 View Street,",BENDIGO VIC 3550,House,2,1,1,561m² ,18 Mar 2015
+"485,000 ","117 Williamson Street,",BENDIGO VIC 3550,House,4,2,2,490m² ,16 Mar 2015
+"280,000 ","9/6 Fox Street,",BENDIGO VIC 3550,House,3,1,1,249m² ,11 Mar 2015
+"530,000 ","79 Wattle Street,",BENDIGO VIC 3550,House,3,1,1,582m² ,04 Mar 2015
+"470,000","30 Hopetoun Street,",BENDIGO VIC 3550,House,3,2,2,487m² ,27 Feb 2015
+"390,000 ","272 Rowan Street,",BENDIGO VIC 3550,House,4,1,1,765m² ,24 Feb 2015
+"340,000 ","314 View Street,",BENDIGO VIC 3550,House,3,1,1,490m² ,24 Feb 2015
+"325,000 ","45 Nolan Street,",BENDIGO VIC 3550,House,2,1,1,400m² ,21 Feb 2015
+"380,000 ","3 Flood Street,",BENDIGO VIC 3550,House,4,1,1,658m² ,20 Feb 2015
+"440,000 ","12 Victoria Street,",BENDIGO VIC 3550,House,3,1,1,931m² ,18 Feb 2015
+"710,000 ","31 Church Street,",BENDIGO VIC 3550,House,5,2,6,0,17 Feb 2015
+"290,000 ","66 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,1,468m² ,2015
+"435,000","1 Barkly Street,",BENDIGO VIC 3550,House,3,1,3,450m² ,2015
+"287,500 ","209 Queen Street,",BENDIGO VIC 3550,House,2,1,1,300m² ,14 Jan 2015
+"250,000 ","34 Duncan Street,",BENDIGO VIC 3550,House,3,1,1,234m² ,13 Jan 2015
+"365,000 ","32 Carpenter Street,",BENDIGO VIC 3550,House,3,1,−,546m² ,07 Jan 2015
+"750,000 ","73 Rowan Street,",BENDIGO VIC 3550,House,4,2,−,970m² ,07 Jan 2015
+"297,000 ","42 Milroy Street,",BENDIGO VIC 3550,House,3,1,−,700m² ,23 Dec 2014
+"665,990","126 McIvor Road,",BENDIGO VIC 3550,House,3,2,4,"4,182m² ",11 Dec 2014
+"425,000 ","31 Harney Street,",BENDIGO VIC 3550,House,4,1,6,505m² ,2014
+"341,500 ","74 Mundy Street,",BENDIGO VIC 3550,House,3,1,1,784m² ,2014
+"750,000 ","14 Bannerman Street,",BENDIGO VIC 3550,House,4,2,1,"1,450m² ",28 Nov 2014
+"757,000","14 Drought Street,",BENDIGO VIC 3550,House,3,1,2,"1,089m² ",2014
+"175,000 ","6 Trotter Lane,",BENDIGO VIC 3550,House,3,1,4,780m² ,2014
+"402,500 ","45 Arnold Street,",BENDIGO VIC 3550,House,3,1,4,446m² ,13 Nov 2014
+"450,000 ","66 Wills Street,",BENDIGO VIC 3550,House,3,1,−,480m² ,2014
+"395,000 ","64 Marong Road,",BENDIGO VIC 3550,House,3,1,−,985m² ,05 Nov 2014
+"870,000","18 Doak Street,",BENDIGO VIC 3550,House,4,2,2,"1,032m² ",2014
+"200,000 ","5/113 Bridge Street,",BENDIGO VIC 3550,House,2,1,1,163m² ,12 Sep 2014
+"540,000 ","293 View Street,",BENDIGO VIC 3550,House,3,1,2,575m² ,10 Sep 2014
+"445,100 ","201 McCrae Street,",BENDIGO VIC 3550,House,3,2,1,338m² ,09 Sep 2014
+"285,000 ","1 Amber Court,",BENDIGO VIC 3550,House,2,1,1,420m² ,09 Sep 2014
+"420,000 ","197 McCrae Street,",BENDIGO VIC 3550,House,3,1,6,691m² ,04 Sep 2014
+"317,000","74 Garsed Street,",BENDIGO VIC 3550,House,3,1,2,321m² ,02 Sep 2014
+"292,000 ","40 Casey Street,",BENDIGO VIC 3550,House,3,1,1,705m² ,28 Aug 2014
+"300,000 ","24 Havlin Street West,",BENDIGO VIC 3550,House,3,1,1,650m² ,26 Aug 2014
+"585,000 ","25 Webster Street,",BENDIGO VIC 3550,House,5,2,2,827m² ,25 Aug 2014
+"420,000 ","157 McIvor Road,",BENDIGO VIC 3550,House,4,2,2,810m² ,18 Aug 2014
+"452,500","41 Harrison Street,",BENDIGO VIC 3550,House,3,2,3,"1,000m² ",18 Aug 2014
+"485,000 ","43A Lilac Street,",BENDIGO VIC 3550,House,3,2,1,258m² ,05 Aug 2014
+"270,000 ","1 Marong Road,",BENDIGO VIC 3550,House,3,1,1,690m² ,29 Jul 2014
+"292,000","38 Bannister Street,",BENDIGO VIC 3550,House,3,1,1,"1,000m² ",28 Jul 2014
+"270,000 ","5A Gundry Street,",BENDIGO VIC 3550,House,3,1,1,428m² ,10 Jul 2014
+"405,000","30 Buckley Street,",BENDIGO VIC 3550,House,3,2,2,483m² ,09 Jul 2014
+"260,000","125 Eaglehawk Road,",BENDIGO VIC 3550,House,3,2,2,510m² ,07 Jul 2014
+"555,000 ","43 Anderson Street,",BENDIGO VIC 3550,House,4,2,3,910m² ,24 Jun 2014
+"570,000 ","7 Riley Street,",BENDIGO VIC 3550,House,5,2,2,"1,650m² ",18 Jun 2014
+"230,000 ","12 Kennedy Street,",BENDIGO VIC 3550,House,3,1,−,308m² ,18 Jun 2014
+"330,000","7 Mackay Street,",BENDIGO VIC 3550,House,3,1,2,620m² ,2014
+"242,000 ","25 Day Street,",BENDIGO VIC 3550,House,2,1,2,480m² ,06 Jun 2014
+"538,000","130 Mackenzie Street,",BENDIGO VIC 3550,House,4,1,2,539m² ,2014
+"450,000","8 Flood Street,",BENDIGO VIC 3550,House,4,1,3,"1,742m² ",30 May 2014
+"315,000 ","20 Honeysuckle Street,",BENDIGO VIC 3550,House,2,1,3,670m² ,27 May 2014
+"460,000","10 Anderson Street,",BENDIGO VIC 3550,House,4,1,−,"1,200m² ",2014
+"640,000","51 Forest Street,",BENDIGO VIC 3550,House,4,1,2,500m² ,17 May 2014
+"340,000","158 King Street,",BENDIGO VIC 3550,House,3,1,1,449m² ,12 May 2014
+"780,000","13 Anderson Street,",BENDIGO VIC 3550,House,6,5,4,960m² ,09 May 2014
+"760,000","73 Forest Street,",BENDIGO VIC 3550,House,4,2,2,551m² ,2014
+"345,000","361 Barnard Street,",BENDIGO VIC 3550,House,3,2,1,265m² ,22 Apr 2014
+"380,000","299 View Street,",BENDIGO VIC 3550,House,3,1,−,400m² ,2014
+"725,000","1 Carpenter Street,",BENDIGO VIC 3550,House,4,2,2,"1,220m² ",03 Apr 2014
+"407,500","78 Thistle Street,",BENDIGO VIC 3550,House,3,1,−,538m² ,2014
+"415,000 ","54 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,2,369m² ,28 Mar 2014
+"372,500","11 Norfolk Street,",BENDIGO VIC 3550,House,4,2,2,443m² ,24 Mar 2014
+"540,000","139 Lloyd Street,",BENDIGO VIC 3550,House,3,2,2,641m² ,20 Mar 2014
+"500,000","79 Arnold Street,",BENDIGO VIC 3550,House,3,1,3,640m² ,2014
+"425,000","22 Murphy Street,",BENDIGO VIC 3550,House,3,2,4,550m² ,04 Mar 2014
+"825,000","182 Wattle Street,",BENDIGO VIC 3550,House,3,1,2,"1,100m² ",2014
+"550,000","3A Thunder Street,",BENDIGO VIC 3550,House,4,2,2,385m² ,22 Jan 2014
+"1,450,000","38 MacKenzie Street,",BENDIGO VIC 3550,House,4,3,2,908m² ,22 Jan 2014
+"310,001","13 Michael Street,",BENDIGO VIC 3550,House,2,1,1,650m² ,19 Dec 2013
+"246,000","14 Bolt Street,",BENDIGO VIC 3550,House,2,1,1,808m² ,03 Dec 2013
+"1,030,000","3 Langston Street,",BENDIGO VIC 3550,House,4,2,2,"1,300m² ",22 Nov 2013
+"740,000","71 Forest Street,",BENDIGO VIC 3550,House,4,2,1,490m² ,19 Nov 2013
+"312,500","4 Anderson Street,",BENDIGO VIC 3550,House,2,1,1,"1,030m² ",12 Nov 2013
+"465,000","39 Mackenzie Street,",BENDIGO VIC 3550,House,3,1,−,139m² ,2013
+"345,000","235 Eaglehawk Road,",BENDIGO VIC 3550,House,3,1,2,"1,000m² ",07 Nov 2013
+"510,000","273 Barnard Street,",BENDIGO VIC 3550,House,4,1,2,500m² ,08 Oct 2013
+"305,000","75 Murphy Street,",BENDIGO VIC 3550,House,3,1,3,552m² ,08 Oct 2013
+"240,000","52 Moran Street,",BENDIGO VIC 3550,House,3,1,2,363m² ,31 Aug 2013
+"300,000","105 King Street,",BENDIGO VIC 3550,House,2,1,−,317m² ,16 Aug 2013
+"525,000","70 Lilac Street,",BENDIGO VIC 3550,House,3,2,2,"1,353m² ",12 Aug 2013
+"205,000","55 Thunder Street,",BENDIGO VIC 3550,House,3,1,1,475m² ,17 Jul 2013
+"370,000","31 Arnold Street,",BENDIGO VIC 3550,House,4,1,1,500m² ,12 Jul 2013
+"730,000","59 Mill Street,",BENDIGO VIC 3550,House,4,3,2,"1,267m² ",02 Jul 2013
+"305,000","17 Fenton Street,",BENDIGO VIC 3550,House,4,1,2,730m² ,02 Jul 2013
+"575,000","30 Brougham Street,",BENDIGO VIC 3550,House,4,1,1,750m² ,01 Jul 2013
+"355,000","224 Wattle Street,",BENDIGO VIC 3550,House,3,1,1,521m² ,28 Jun 2013
+"855,000","42 Rowan Street,",BENDIGO VIC 3550,House,3,2,2,485m² ,2013
+"340,000","32 Cobden Street,",BENDIGO VIC 3550,House,3,1,−,499m² ,12 Jun 2013
+"311,000","159 Thistle Street,",BENDIGO VIC 3550,House,3,2,1,250m² ,15 May 2013
+"413,000","196 Wattle Street,",BENDIGO VIC 3550,House,3,1,2,801m² ,2013
+"295,000","16 Henkel Street,",BENDIGO VIC 3550,House,3,1,3,620m² ,06 May 2013
+"540,000","46 Miller Street,",BENDIGO VIC 3550,House,4,2,−,611m² ,27 Apr 2013
+"648,000","12 McLaren Street,",BENDIGO VIC 3550,House,4,2,1,"1,012m² ",20 Apr 2013
+"205,000","28 Frederick Street,",BENDIGO VIC 3550,House,4,1,1,293m² ,16 Apr 2013
+"285,000","78 Holdsworth Road,",BENDIGO VIC 3550,House,3,1,2,"1,144m² ",02 Apr 2013
+"312,000","19 Hodgkinson Street,",BENDIGO VIC 3550,House,3,2,2,459m² ,26 Mar 2013
+"175,001","296 Rowan Street,",BENDIGO VIC 3550,House,2,1,−,461m² ,2013
+"265,000","125 Lily Street,",BENDIGO VIC 3550,House,3,1,1,510m² ,14 Feb 2013
+"180,000","159 Creek Street South,",BENDIGO VIC 3550,House,3,1,1,400m² ,2013
+"180,000","159 Creek Street South,",BENDIGO VIC 3550,House,3,1,1,400m² ,2013
+"261,000","23 Caledonia Street,",BENDIGO VIC 3550,House,3,1,2,760m² ,08 Feb 2013
+"560,000","143 King Street,",BENDIGO VIC 3550,House,3,2,2,200m² ,06 Feb 2013
+"270,000","48 Milroy Street,",BENDIGO VIC 3550,House,3,1,2,550m² ,07 Jan 2013
+"255,000","27 Semmens Street,",BENDIGO VIC 3550,House,3,1,2,730m² ,17 Dec 2012
+"412,000","111a Murphy Street,",BENDIGO VIC 3550,House,3,1,4,"1,700m² ",30 Nov 2012
+"497,376","119 Barnard Street,",BENDIGO VIC 3550,House,5,5,4,580m² ,09 Nov 2012
+"240,000","18 Green Street,",BENDIGO VIC 3550,House,3,1,2,450m² ,12 Sep 2012
+"216,000","22 Moray Crescent,",BENDIGO VIC 3550,House,3,1,1,458m² ,07 Sep 2012
+"240,000","248 Napier Street,",BENDIGO VIC 3550,House,4,1,−,552m² ,20 Jul 2012
+"335,000","48 Beischer Street,",BENDIGO VIC 3550,House,2,2,4,"1,089m² ",14 Jun 2012
+"225,000","3 Casley Street,",BENDIGO VIC 3550,House,2,1,2,500m² ,16 Nov 2011
+"213,000","20 Hodgkinson Street,",BENDIGO VIC 3550,House,2,1,4,500m² ,13 Nov 2011
+"240,000","6 Fenton Street,",BENDIGO VIC 3550,House,3,1,1,650m² ,17 Feb 2011
+"282,500","567 Hargreaves Street,",BENDIGO VIC 3550,House,3,1,1,478m² ,23 Mar 2009
+"172,500","30 Wattle Street,",BENDIGO VIC 3550,House,2,1,1,281m² ,21 Mar 2009
+"380,000","27 Valentine Street,",BENDIGO VIC 3550,House,4,1,1,879m² ,08 Aug 2008
+"140,000","16 McColl Street,",BENDIGO VIC 3550,House,3,1,2,553m² ,24 Jun 2008
+"140,000","16 McColl Street,",BENDIGO VIC 3550,House,3,1,2,553m² ,24 Jun 2008
+"517,500 ","31 Wallaby Avenue,",KANGAROO FLAT VIC 3555,House,3,2,2,748m² ,26 Apr 2024
+"460,000 ","59 Holmes Road,",LONG GULLY VIC 3550,House,3,2,2,450m² ,26 Apr 2024
+"540,000 ","52 Pallett Street,",GOLDEN SQUARE VIC 3555,House,3,1,2,746m² ,19 Apr 2024
+"558,000 ","22 Bank Street,",KANGAROO FLAT VIC 3555,House,3,1,2,634m² ,17 Apr 2024
+"471,000 ","37 Dundas Street,",WHITE HILLS VIC 3550,House,3,1,4,531m² ,17 Apr 2024
+"1,210,000 ","16 Hodgkinson Street,",KENNINGTON VIC 3550,House,4,2,2,481m² ,16 Apr 2024
+"475,000 ","4 Robert Street,",KANGAROO FLAT VIC 3555,House,3,1,2,669m² ,12 Apr 2024
+"560,000 ","13 Barney Street,",NORTH BENDIGO VIC 3550,House,3,1,1,"1,300m² ",12 Apr 2024
+"505,000 ","18 Sandstone Rise,",STRATHDALE VIC 3550,House,3,1,1,485m² ,12 Apr 2024
+"609,870 ","15 Fossickers Place,",WHITE HILLS VIC 3550,House,4,2,2,505m² ,12 Apr 2024
+"345,000 ","1 Duke Street,",KANGAROO FLAT VIC 3555,House,3,1,1,682m² ,10 Apr 2024
+"550,000 ","8 Miners Rest,",KANGAROO FLAT VIC 3555,House,3,2,2,439m² ,09 Apr 2024
+"460,000 ","145 Olympic Parade,",KANGAROO FLAT VIC 3555,House,3,1,2,809m² ,09 Apr 2024
+"680,000 ","18 Sherman Crescent,",SPRING GULLY VIC 3550,House,3,2,2,906m² ,09 Apr 2024
+"535,000 ","4 Miranda Close,",STRATHDALE VIC 3550,House,3,1,2,335m² ,09 Apr 2024
+"565,000","15A Somerville Street,",FLORA HILL VIC 3550,House,3,1,2,420m² ,08 Apr 2024
+"455,000 ","20 Peel Street,",QUARRY HILL VIC 3550,House,3,1,1,613m² ,2024
+"340,000 ","24 Olinda Street,",QUARRY HILL VIC 3550,House,3,1,1,378m² ,05 Apr 2024
+"507,000 ","11 Wade Lane,",GOLDEN SQUARE VIC 3555,House,3,2,1,224m² ,04 Apr 2024
+"453,000 ","6 Thomas Street,",KANGAROO FLAT VIC 3555,House,3,1,3,622m² ,04 Apr 2024
+"890,000 ","16 Barton Court,",FLORA HILL VIC 3550,House,4,2,2,868m² ,03 Apr 2024
+"552,000 ","53 Caledonia Street,",NORTH BENDIGO VIC 3550,House,3,2,2,520m² ,03 Apr 2024
+"470,000 ","14 Thunder Street,",NORTH BENDIGO VIC 3550,House,2,1,3,866m² ,31 Mar 2024
+"820,000 ","6 Elwood Street,",GOLDEN SQUARE VIC 3555,House,4,3,6,"1,279m² ",28 Mar 2024
+"470,000 ","28 MacDougall Road,",GOLDEN SQUARE VIC 3555,House,3,2,−,368m² ,28 Mar 2024
+"650,000 ","17 Shakespeare Street,",SPRING GULLY VIC 3550,House,3,2,2,794m² ,28 Mar 2024
+"418,595 ","12 Neil Street,",KANGAROO FLAT VIC 3555,House,3,1,3,897m² ,27 Mar 2024
+"435,000 ","3 Highview Terrace,",KANGAROO FLAT VIC 3555,House,2,2,1,256m² ,27 Mar 2024
+"515,000 ","5 Beischer Street,",STRATHDALE VIC 3550,House,4,2,2,"1,123m² ",27 Mar 2024
+"485,000 ","523 Napier Street,",WHITE HILLS VIC 3550,House,3,2,1,775m² ,27 Mar 2024
+"385,000 ","9 Clayton Court,",GOLDEN SQUARE VIC 3555,House,3,1,−,664m² ,26 Mar 2024
+"752,500 ","3 Allison Street,",KENNINGTON VIC 3550,House,4,2,2,770m² ,2024
+"570,000 ","4 Rosewood Mews,",GOLDEN SQUARE VIC 3555,House,4,2,2,461m² ,25 Mar 2024
+"455,000 ","6 Benghasi Avenue,",GOLDEN SQUARE VIC 3555,House,2,1,1,500m² ,25 Mar 2024

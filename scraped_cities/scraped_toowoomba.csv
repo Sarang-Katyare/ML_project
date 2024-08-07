@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"445,000 ","13 Brodribb Street,",TOOWOOMBA QLD 4350,House,3,1,2,780m² ,15 Nov 2023
+"485,000 ","21 Hamwood Street,",TOOWOOMBA QLD 4350,House,2,2,1,660m² ,14 Nov 2023
+"750,000 ","107 Hume Street,",TOOWOOMBA QLD 4350,House,3,1,2,521m² ,04 Sep 2023
+"910,000 ","30 Raff Street,",TOOWOOMBA QLD 4350,House,4,2,2,999m² ,10 Jun 2023
+"820,000 ","36 Grenier Street,",TOOWOOMBA QLD 4350,House,3,1,5,946m² ,22 May 2023
+"1,050,000 ","11 & 11A Gowrie Street,",TOOWOOMBA QLD 4350,House,5,2,4,555m² ,31 Jan 2023
+"550,000 ","13 Grenier Street,",TOOWOOMBA QLD 4350,House,4,2,2,898m² ,22 Jul 2022
+"519,000 ","28 Norwood Street,",TOOWOOMBA QLD 4350,House,3,2,2,774m² ,07 Jul 2022
+"363,000 ","11 Brodribb Street,",TOOWOOMBA QLD 4350,House,2,1,2,460m² ,05 Jul 2022
+"495,000 ","25 Raff Street,",TOOWOOMBA QLD 4350,House,3,1,1,701m² ,12 May 2022
+"465,000","5 Grange St,",TOOWOOMBA QLD 4350,House,3,1,3,448m² ,23 Nov 2021
+"1,200,000","62 East Street,",TOOWOOMBA QLD 4350,House,4,3,1,0,14 Jun 2021
+"385,000 ","60 SANCTUARY Drive,",TOOWOOMBA QLD 4350,House,4,2,2,486m² ,09 Jun 2021
+"740,000 ","1 Cecil Street,",TOOWOOMBA QLD 4350,House,4,3,2,782m² ,20 Apr 2021
+"401,988 ","10 Hamwood Street,",TOOWOOMBA QLD 4350,House,3,1,2,746m² ,16 Mar 2021
+"275,000","21 Taylor Street,",TOOWOOMBA QLD 4350,House,2,1,−,324m² ,02 Mar 2021
+"418,000","49 Grenier Street,",TOOWOOMBA QLD 4350,House,3,1,1,898m² ,16 Feb 2021
+"320,000 ","24 Grenier Street,",TOOWOOMBA QLD 4350,House,3,1,2,898m² ,16 Oct 2019
+"620,000 ","176A Campbell Street,",TOOWOOMBA QLD 4350,House,5,2,2,890m² ,29 Aug 2019
+"420,000 ","2 Francis Street,",TOOWOOMBA QLD 4350,House,4,1,1,936m² ,24 Apr 2019
+"480,000 ","3 Logie Street,",TOOWOOMBA QLD 4350,House,3,2,2,625m² ,27 Nov 2018
+"260,000 ","38 Dunne Street,",TOOWOOMBA QLD 4350,House,3,1,2,728m² ,18 Jul 2018
+"369,500 ","42 Hill Street,",TOOWOOMBA QLD 4350,House,3,1,1,515m² ,18 Apr 2018
+"522,000 ","143 Campbell Street,",TOOWOOMBA QLD 4350,House,3,2,1,814m² ,24 Feb 2018
+"575,000 ","11 Estate Street,",TOOWOOMBA QLD 4350,House,5,2,10,"4,000m² ",16 Feb 2018
+"315,000 ","28 Goggs Street,",TOOWOOMBA QLD 4350,House,3,1,3,"1,123m² ",04 Aug 2017
+"370,000 ","30 Grenier Street,",TOOWOOMBA QLD 4350,House,3,1,1,493m² ,07 Jul 2017
+"365,000 ","10 McCarthy Street,",TOOWOOMBA QLD 4350,House,3,2,2,501m² ,05 Jan 2017
+"440,000 ","133 Mort Street,",TOOWOOMBA QLD 4350,House,4,1,2,840m² ,25 Nov 2016
+"305,000 ","26 David Street,",TOOWOOMBA QLD 4350,House,3,1,1,665m² ,11 Nov 2016
+"328,500 ","3 Brodribb Street,",TOOWOOMBA QLD 4350,House,3,1,−,434m² ,2016
+"332,000 ","156 Drayton Road,",TOOWOOMBA QLD 4350,House,4,1,2,693m² ,01 Jul 2016
+"252,500 ","5 Archibald Street,",TOOWOOMBA QLD 4350,House,3,1,3,405m² ,2016
+"945,000 ","114-118 Mort Street,",TOOWOOMBA QLD 4350,House,8,3,3,"2,004m² ",2016
+"437,000 ","186 Campbell Street,",TOOWOOMBA QLD 4350,House,3,2,1,673m² ,30 Nov 2015
+"495,000 ","91 Hume Street,",TOOWOOMBA QLD 4350,House,4,2,3,898m² ,04 Nov 2015
+"280,000","31 Kate Street,",TOOWOOMBA QLD 4350,House,2,1,−,"1,012m² ",27 Apr 2015
+"322,000","18 Taylor Street,",TOOWOOMBA QLD 4350,House,3,1,1,559m² ,
+"319,000","13 West Street,",TOOWOOMBA QLD 4350,House,4,2,3,759m² ,
+"345,000","67 Holberton Street,",TOOWOOMBA QLD 4350,House,3,2,2,802m² ,
+"323,000 ","214 Bridge Street,",TOOWOOMBA QLD 4350,House,3,1,6,"1,012m² ",
+"285,000 ","11 Freya Street,",TOOWOOMBA QLD 4350,House,4,1,5,"4,074m² ",
+"245,000 ","78 Dunne Street,",TOOWOOMBA QLD 4350,House,3,1,2,726m² ,
+"310,000","81 Hume St,",TOOWOOMBA QLD 4350,House,2,1,1,635m² ,19 Sep 2013
+"285,000 ","9 Bhutan Court,",TOOWOOMBA QLD 4350,House,3,1,1,600m² ,07 Aug 2013
+"897,500","48 Campbell Street,",TOOWOOMBA QLD 4350,House,3,4,2,"1,593m² ",08 Jul 2013
+"560,000 ","51 Mary Street,",TOOWOOMBA QLD 4350,House,3,1,1,"1,488m² ",2013
+"200,000","12 Tomkys Street,",TOOWOOMBA QLD 4350,House,2,1,4,688m² ,23 Apr 2013
+"197,500",,TOOWOOMBA QLD 4350,House,3,1,1,688m² ,
+"195,000","Unit  5 / 264 South Street,",TOOWOOMBA QLD 4350,House,2,1,1,76m² ,05 Apr 2013
+"260,000 ","5 Norwood Street,",TOOWOOMBA QLD 4350,House,2,1,1,405m² ,
+"323,200 ",,TOOWOOMBA QLD 4350,House,4,2,1,600m² ,
+"2,147,483,647 ","11 Grandslam Street,",TOOWOOMBA QLD 4350,House,3,2,2,618m² ,02 Apr 2011
+"250,000 ","32 Welcombe Avenue,",TOOWOOMBA QLD 4350,House,3,1,2,660m² ,31 Mar 2011
+"229,000","87 North Street,",TOOWOOMBA QLD 4350,House,3,1,1,572m² ,06 Jan 2011
+"365,000","160 Campbell Street,",TOOWOOMBA QLD 4350,House,4,2,2,700m² ,05 Nov 2010
+"2,147,483,647 ","2267 Murphy's Creek Road,",TOOWOOMBA QLD 4350,House,2,1,2,"2,023m² ",03 Jul 2010
+"245,000 ","5 Athol St,",TOOWOOMBA QLD 4350,House,4,1,2,612m² ,23 Apr 2010
+"2,147,483,647 ","349 Wyreema-Cambooya Connection Road,",TOOWOOMBA QLD 4350,House,3,2,6,0,27 Mar 2010
+"340,000",,TOOWOOMBA QLD 4350,House,3,1,2,"1,012m² ",07 Dec 2009
+"216,000 ","285 Alderley St,",TOOWOOMBA QLD 4350,House,3,1,−,"1,599m² ",04 Nov 2009
+"2,147,483,647 ","247 Hursley Road,",TOOWOOMBA QLD 4350,House,5,2,2,0,14 Oct 2009
+"225,000 ","58 Buckland,",TOOWOOMBA QLD 4350,House,3,1,1,"1,049m² ",
+"232,000 ","236 Hume St,",TOOWOOMBA QLD 4350,House,3,2,3,531m² ,07 Aug 2009
+"438,500 ","2 Twigg St,",TOOWOOMBA QLD 4350,House,4,2,2,721m² ,15 Jun 2009
+"237,000 ",,TOOWOOMBA QLD 4350,House,3,1,1,642m² ,08 May 2009
+"320,000 ",,TOOWOOMBA QLD 4350,House,4,2,2,"2,001m² ",11 Dec 2008
+"250,000 ",,TOOWOOMBA QLD 4350,House,3,1,2,616m² ,03 Dec 2008
+"225,000 ",,TOOWOOMBA QLD 4350,House,3,1,1,660m² ,20 Nov 2008
+"245,000 ",,TOOWOOMBA QLD 4350,House,3,1,2,"1,012m² ",03 Nov 2008
+"285,000 ",,TOOWOOMBA QLD 4350,House,4,2,2,360m² ,03 Nov 2008
+"230,000 ",,TOOWOOMBA QLD 4350,House,3,1,5,665m² ,28 Oct 2008
+"220,000 ",,TOOWOOMBA QLD 4350,House,3,1,1,617m² ,22 Oct 2008
+"225,000 ",,TOOWOOMBA QLD 4350,House,3,1,1,960m² ,17 Oct 2008
+"224,500 ",,TOOWOOMBA QLD 4350,House,3,1,1,714m² ,13 Oct 2008
+"419,000 ","14A Lendrum St,",NEWTOWN QLD 4350,House,3,1,1,506m² ,26 Apr 2024
+"515,000 ","15 Byrd Court,",WILSONTON QLD 4350,House,4,1,3,620m² ,26 Apr 2024
+"650,000 ","23 Boyd Street,",WILSONTON QLD 4350,House,3,1,4,"1,320m² ",26 Apr 2024
+"983,000 ","248 Geddes Street,",CENTENARY HEIGHTS QLD 4350,House,3,2,2,"1,002m² ",24 Apr 2024
+"930,000 ","11 Paulene Crescent,",KEARNEYS SPRING QLD 4350,House,4,2,3,779m² ,24 Apr 2024
+"900,000 ","24 Madonna Circuit,",MIDDLE RIDGE QLD 4350,House,4,2,2,503m² ,24 Apr 2024
+"592,500 ","44 Balaroo Drive,",GLENVALE QLD 4350,House,4,2,2,540m² ,22 Apr 2024
+"610,000 ","3 Shennan Street,",HARRISTOWN QLD 4350,House,3,2,3,675m² ,22 Apr 2024
+"649,000 ","539 Hume Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,634m² ,22 Apr 2024
+"515,000 ","246 West Street,",KEARNEYS SPRING QLD 4350,House,3,1,1,610m² ,22 Apr 2024
+"760,000 ","9 Heinemann Court,",KEARNEYS SPRING QLD 4350,House,5,3,2,"1,005m² ",22 Apr 2024
+"750,000 ","31 Gowrie Street,",TOOWOOMBA CITY QLD 4350,House,4,1,2,"1,867m² ",22 Apr 2024
+"820,000 ","7 Cameron Crescent,",GLENVALE QLD 4350,House,4,2,4,"6,699m² ",18 Apr 2024
+"650,000 ","3 Melody Drive,",HARRISTOWN QLD 4350,House,4,2,2,758m² ,18 Apr 2024
+"645,000 ","20 Phillip Street,",EAST TOOWOOMBA QLD 4350,House,3,1,−,499m² ,17 Apr 2024
+"775,000 ","2 Meares Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,622m² ,17 Apr 2024
+"615,800 ","2 Marshall Street,",RANGEVILLE QLD 4350,House,3,1,2,508m² ,17 Apr 2024
+"577,500 ","19 Knockator Crescent,",CENTENARY HEIGHTS QLD 4350,House,4,1,2,713m² ,16 Apr 2024
+"600,000 ","45 Barrymount Crescent,",MOUNT LOFTY QLD 4350,House,4,2,1,"1,308m² ",16 Apr 2024
+"725,000 ","12 Wallace Street,",NEWTOWN QLD 4350,House,3,2,2,"1,012m² ",16 Apr 2024
+"2,250,000 ","90 Tourist Road,",RANGEVILLE QLD 4350,House,5,4,7,"1,520m² ",16 Apr 2024
+"615,000 ","4 Millicent Court,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,683m² ,15 Apr 2024
+"710,000 ","27 Abbey Street,",CRANLEY QLD 4350,House,4,2,2,549m² ,15 Apr 2024
+"480,000 ","195 West Street,",HARRISTOWN QLD 4350,House,3,1,2,776m² ,2024
+"920,000 ","3 Thorley Court,",MIDDLE RIDGE QLD 4350,House,5,2,2,600m² ,12 Apr 2024
+"431,000 ","11 Teesdale Avenue,",NEWTOWN QLD 4350,House,0,0,0,546m² ,12 Apr 2024
+"730,000 ","15 Northland Street,",NEWTOWN QLD 4350,House,4,1,2,928m² ,12 Apr 2024
+"530,000 ","121 Glenvale Road,",NEWTOWN QLD 4350,House,4,1,2,600m² ,12 Apr 2024
+"722,500 ","25 Healy Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,2,547m² ,12 Apr 2024
+"660,000 ","9 First Avenue,",HARRISTOWN QLD 4350,House,3,1,1,733m² ,11 Apr 2024
+"530,000 ","91 Kearney Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,690m² ,11 Apr 2024
+"620,000 ","17 Meibusch Street,",RANGEVILLE QLD 4350,House,3,1,2,617m² ,11 Apr 2024
+"534,000 ","6 Macarthur Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,575m² ,11 Apr 2024
+"590,000 ","179 Jellicoe Street,",NEWTOWN QLD 4350,House,3,1,3,"1,229m² ",10 Apr 2024
+"580,000 ","530 Greenwattle Street,",NEWTOWN QLD 4350,House,4,1,2,600m² ,10 Apr 2024
+"550,000 ","133 Stuart Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,336m² ,10 Apr 2024
+"555,000 ","13 Trousdell Court,",ROCKVILLE QLD 4350,House,3,1,2,569m² ,10 Apr 2024
+"420,000 ","271 New England Highway,",HARLAXTON QLD 4350,House,3,1,2,658m² ,09 Apr 2024
+"925,000 ","11 Carrigan Street,",KEARNEYS SPRING QLD 4350,House,4,2,4,600m² ,09 Apr 2024
+"435,000 ","21 Dodd Street,",NEWTOWN QLD 4350,House,3,1,1,539m² ,09 Apr 2024
+"630,000 ","167 West Street,",NEWTOWN QLD 4350,House,3,3,2,"1,022m² ",09 Apr 2024
+"649,000 ","20 Sidney Street,",NORTH TOOWOOMBA QLD 4350,House,4,2,2,700m² ,09 Apr 2024
+"556,000 ","2 Miranda Drive,",WILSONTON HEIGHTS QLD 4350,House,3,1,2,658m² ,09 Apr 2024
+"540,000 ","39 Cabarita Crescent,",GLENVALE QLD 4350,House,3,1,2,651m² ,08 Apr 2024
+"565,000 ","68 Long Street,",RANGEVILLE QLD 4350,House,3,1,2,747m² ,2024
+"690,000 ","41 Clewley Crescent,",RANGEVILLE QLD 4350,House,4,2,2,647m² ,08 Apr 2024
+"702,500 ","23 Lotus Crescent,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,755m² ,05 Apr 2024
+"956,000 ","6 Aitken Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,600m² ,05 Apr 2024
+"785,000 ","20 Opperman Drive,",KEARNEYS SPRING QLD 4350,House,4,2,2,605m² ,05 Apr 2024
+"535,000 ","9 Jennings Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,622m² ,05 Apr 2024
+"510,000 ","6 Wilmot Street,",SOUTH TOOWOOMBA QLD 4350,House,3,2,2,539m² ,05 Apr 2024
+"1,200,000 ","3 John Court,",COTSWOLD HILLS QLD 4350,House,4,2,5,"4,000m² ",04 Apr 2024
+"935,000 ","7 John Street,",EAST TOOWOOMBA QLD 4350,House,3,1,4,"1,103m² ",04 Apr 2024
+"655,000 ","49 Nash Drive,",GLENVALE QLD 4350,House,4,2,3,659m² ,04 Apr 2024
+"450,000 ","22 Merritt Street,",HARRISTOWN QLD 4350,House,3,1,2,500m² ,04 Apr 2024
+"797,000 ","20 Weis Crescent,",MIDDLE RIDGE QLD 4350,House,5,2,2,600m² ,04 Apr 2024
+"535,000 ","45 Traminer Drive,",WILSONTON HEIGHTS QLD 4350,House,3,2,2,600m² ,04 Apr 2024
+"1,530,000 ","57 Curzon Street,",EAST TOOWOOMBA QLD 4350,House,4,2,4,809m² ,03 Apr 2024
+"895,000 ","8 O'Neill Circuit,",KEARNEYS SPRING QLD 4350,House,4,2,2,600m² ,03 Apr 2024
+"437,000 ","86 Taylor Street,",NEWTOWN QLD 4350,House,3,1,3,481m² ,03 Apr 2024
+"557,500 ","60 Long Street,",RANGEVILLE QLD 4350,House,3,1,2,708m² ,03 Apr 2024
+"550,000 ","5 Bryan,",DARLING HEIGHTS QLD 4350,House,4,2,2,603m² ,02 Apr 2024
+"680,000 ","657 South Street,",GLENVALE QLD 4350,House,5,2,2,668m² ,02 Apr 2024
+"810,000 ","46 Pascoe Lane,",HARLAXTON QLD 4350,House,4,2,2,845m² ,02 Apr 2024
+"490,000 ","406 Stenner Street,",KEARNEYS SPRING QLD 4350,House,3,1,1,600m² ,02 Apr 2024
+"910,000 ","10 Bridget Court,",MIDDLE RIDGE QLD 4350,House,5,2,2,724m² ,02 Apr 2024
+"525,000 ","41 Suffolk Street,",RANGEVILLE QLD 4350,House,3,1,2,696m² ,02 Apr 2024
+"515,000 ","15 Doherty Street,",ROCKVILLE QLD 4350,House,3,1,2,627m² ,01 Apr 2024
+"385,000 ","12 Cox Street,",WILSONTON QLD 4350,House,3,1,1,921m² ,01 Apr 2024
+"625,000","11/4B Herries Street,",EAST TOOWOOMBA QLD 4350,House,3,2,2,244m² ,28 Mar 2024
+"552,000 ","37 Phillip Street,",EAST TOOWOOMBA QLD 4350,House,3,2,1,678m² ,2024
+"543,000 ","38 Stehn Street,",HARRISTOWN QLD 4350,House,3,1,2,711m² ,28 Mar 2024
+"899,400 ","10 Leith Crescent,",RANGEVILLE QLD 4350,House,4,2,2,666m² ,28 Mar 2024
+"660,000 ","5 Paperbark Drive,",GLENVALE QLD 4350,House,4,2,2,703m² ,27 Mar 2024
+"450,500 ","48 Dwyer Street,",HARLAXTON QLD 4350,House,3,1,1,508m² ,27 Mar 2024
+"700,000 ","249 Herries Street,",NEWTOWN QLD 4350,House,5,2,1,883m² ,27 Mar 2024
+"1,105,000 ","2 McLeod Street,",RANGEVILLE QLD 4350,House,4,3,2,"1,448m² ",27 Mar 2024
+"1,315,000 ","8 Meredith Crescent,",RANGEVILLE QLD 4350,House,4,2,3,"1,191m² ",27 Mar 2024
+"815,000 ","49 Crown Street,",RANGEVILLE QLD 4350,Villa,3,2,2,782m² ,27 Mar 2024
+"805,000 ","1 Buena Vista Crescent,",BLUE MOUNTAIN HEIGHTS QLD 4350,House,4,1,5,"1,834m² ",26 Mar 2024
+"565,000 ","10 Claire Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,614m² ,26 Mar 2024
+"940,000 ","6 Alice Street,",EAST TOOWOOMBA QLD 4350,House,3,1,2,674m² ,26 Mar 2024
+"595,000 ","27 Jenna Court,",KEARNEYS SPRING QLD 4350,House,3,1,1,681m² ,26 Mar 2024
+"555,000 ","14 Hanlon Street,",NEWTOWN QLD 4350,House,3,1,1,615m² ,26 Mar 2024
+"565,000 ","5 Marcia Street,",RANGEVILLE QLD 4350,House,3,1,3,572m² ,26 Mar 2024
+"610,000 ","243A Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,House,4,1,1,712m² ,25 Mar 2024
+"410,000 ","20 Coonan Street,",HARLAXTON QLD 4350,House,3,1,2,559m² ,25 Mar 2024
+"650,000 ","13 Sidney Street,",NORTH TOOWOOMBA QLD 4350,House,3,2,2,625m² ,25 Mar 2024
+"535,000 ","11 Trousdell Court,",ROCKVILLE QLD 4350,House,4,1,2,845m² ,25 Mar 2024
+"581,000 ",,WILSONTON QLD 4350,House,4,1,2,514m² ,25 Mar 2024
+"695,000 ","12 Murray Street,",NORTH TOOWOOMBA QLD 4350,House,4,2,7,974m² ,22 Mar 2024
+"782,500 ","6 Corella Street,",RANGEVILLE QLD 4350,House,4,2,2,780m² ,22 Mar 2024
+"525,000 ","20 Tomkinson Street,",WILSONTON QLD 4350,House,3,1,1,723m² ,22 Mar 2024
+"670,000 ","28 Debra Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,673m² ,21 Mar 2024
+"670,000 ","22 Samuel Court,",DARLING HEIGHTS QLD 4350,House,4,2,2,640m² ,21 Mar 2024
+"427,500 ","28 Devine Street,",HARRISTOWN QLD 4350,House,3,1,1,607m² ,21 Mar 2024
+"575,000 ","2/116 Main Street,",WESTBROOK QLD 4350,House,4,2,2,"1,100m² ",21 Mar 2024
+"600,000 ","12 Rose Street,",WILSONTON QLD 4350,House,4,1,3,"1,037m² ",21 Mar 2024
+"720,000 ","22 Jull Drive,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,723m² ,20 Mar 2024
+"635,000 ","19 Whitewood Way,",COTSWOLD HILLS QLD 4350,House,4,2,2,429m² ,20 Mar 2024
+"620,000",,DARLING HEIGHTS QLD 4350,House,4,2,2,844m² ,20 Mar 2024
+"550,500 ","10 Blueberry Ash Court,",GLENVALE QLD 4350,House,4,1,2,600m² ,20 Mar 2024
+"525,000 ","6 Kelfield Street,",NORTH TOOWOOMBA QLD 4350,House,3,2,1,610m² ,20 Mar 2024
+"636,600 ","315a Alderley Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,2,"1,208m² ",20 Mar 2024
+"600,000 ","37 Taylor Street,",TOOWOOMBA CITY QLD 4350,House,6,2,−,"1,958m² ",2024
+"890,000 ","261A Geddes Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,4,954m² ,2024
+"460,000 ","9a View Street,",SOUTH TOOWOOMBA QLD 4350,House,2,1,3,678m² ,2024
+"600,000 ","5 Isabel Street,",TOOWOOMBA CITY QLD 4350,House,3,2,1,407m² ,19 Mar 2024
+"545,000 ","32 Garde Street,",CENTENARY HEIGHTS QLD 4350,Duplex,4,2,2,690m² ,18 Mar 2024
+"625,000 ","4 Elliott Street,",KEARNEYS SPRING QLD 4350,House,3,1,4,684m² ,18 Mar 2024
+"1,200,000 ","11 Dallang Road,",MIDDLE RIDGE QLD 4350,House,4,2,2,604m² ,18 Mar 2024
+"748,000 ","75 Geoffrey Street,",MOUNT LOFTY QLD 4350,House,4,3,1,526m² ,18 Mar 2024
+"515,000 ","15 Mahogany Street,",NEWTOWN QLD 4350,House,3,1,1,708m² ,18 Mar 2024
+"550,000 ","43 Luck Street,",DRAYTON QLD 4350,House,4,1,1,749m² ,15 Mar 2024
+"455,000 ","43 Perry Street,",HARLAXTON QLD 4350,House,3,1,2,614m² ,15 Mar 2024
+"423,000 ","16 Hampton Street,",NEWTOWN QLD 4350,House,3,1,2,506m² ,14 Mar 2024
+"1,020,000 ","8 Echidna Cres,",TOP CAMP QLD 4350,House,6,3,4,"5,459m² ",14 Mar 2024
+"725,000 ","15 Trevatt Street,",WESTBROOK QLD 4350,House,4,2,2,725m² ,14 Mar 2024
+"720,500","21 Cardamon Crescent,",GLENVALE QLD 4350,Semi-detached,6,3,2,509m² ,13 Mar 2024
+"830,000 ","5 Bootes Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,600m² ,13 Mar 2024
+"802,500 ","8 Sidney Street,",NORTH TOOWOOMBA QLD 4350,House,5,2,1,"1,009m² ",13 Mar 2024
+"820,000","76a Curzon Street,",EAST TOOWOOMBA QLD 4350,House,4,2,1,799m² ,12 Mar 2024
+"775,000 ","8 Wildcard Drive,",GLENVALE QLD 4350,House,5,3,1,800m² ,12 Mar 2024
+"875,000 ","6 Kestrel Court,",RANGEVILLE QLD 4350,House,4,2,2,708m² ,12 Mar 2024
+"763,000 ","17 Sardon Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,675m² ,11 Mar 2024
+"480,000 ","20 Butt Street,",HARRISTOWN QLD 4350,House,3,1,1,617m² ,11 Mar 2024
+"412,000 ","20 Underwood Crescent,",HARRISTOWN QLD 4350,House,3,1,2,845m² ,11 Mar 2024
+"708,000 ","367 Spring Street,",KEARNEYS SPRING QLD 4350,House,4,2,3,761m² ,11 Mar 2024
+"775,000 ","28 Shelton Crescent,",KEARNEYS SPRING QLD 4350,House,5,2,2,597m² ,11 Mar 2024
+"626,000 ","1 Wirang Lane,",NORTH TOOWOOMBA QLD 4350,House,3,2,2,503m² ,11 Mar 2024
+"640,000 ","5 Parkinson Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,650m² ,11 Mar 2024
+"452,000 ","14 Minnett Street,",GLENVALE QLD 4350,House,3,2,1,258m² ,08 Mar 2024
+"1,210,000","9 Glendower Street,",MOUNT LOFTY QLD 4350,House,4,3,2,918m² ,08 Mar 2024
+"458,000 ","23 Dodd Street,",NEWTOWN QLD 4350,House,2,1,1,539m² ,08 Mar 2024
+"851,000 ","13 Jay Street,",WESTBROOK QLD 4350,House,4,2,4,966m² ,08 Mar 2024
+"560,000 ","12 Matthews Street,",HARRISTOWN QLD 4350,House,3,1,1,690m² ,07 Mar 2024
+"671,000 ","21 Martini Street,",MOUNT LOFTY QLD 4350,House,4,1,2,604m² ,07 Mar 2024
+"642,500 ","123 Bridge Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,535m² ,07 Mar 2024
+"1,150,000 ","131 Tourist Road,",RANGEVILLE QLD 4350,House,4,2,3,840m² ,07 Mar 2024
+"500,000 ","3 Baron Court,",WILSONTON QLD 4350,House,4,1,1,635m² ,07 Mar 2024
+"711,000 ","14 George Street,",EAST TOOWOOMBA QLD 4350,House,3,1,1,304m² ,06 Mar 2024
+"1,350,000","70 Spring Street,",MIDDLE RIDGE QLD 4350,House,5,3,4,"1,575m² ",06 Mar 2024
+"700,000 ","19 Charlotte Street,",NEWTOWN QLD 4350,House,4,2,1,814m² ,06 Mar 2024
+"455,000 ","318 Greenwattle Street,",WILSONTON HEIGHTS QLD 4350,House,4,1,1,600m² ,06 Mar 2024
+"606,000 ",,CENTENARY HEIGHTS QLD 4350,House,3,2,3,669m² ,05 Mar 2024
+"550,000 ","55 Gorman Street,",DARLING HEIGHTS QLD 4350,House,3,1,2,620m² ,05 Mar 2024
+"751,000 ","2/13 Henry Street,",MOUNT LOFTY QLD 4350,Villa,3,2,2,331m² ,05 Mar 2024
+"595,000 ","22A Chilcote Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,792m² ,05 Mar 2024
+"703,000 ","47 Leslie Street,",RANGEVILLE QLD 4350,House,4,2,4,607m² ,2024
+"500,000",,ROCKVILLE QLD 4350,House,4,1,1,635m² ,05 Mar 2024
+"670,000 ","7 London Circuit,",TORRINGTON QLD 4350,House,4,2,2,801m² ,2024
+"630,000 ","5 Watts Street,",DRAYTON QLD 4350,House,4,2,2,740m² ,04 Mar 2024
+"530,000 ","6 Kurrawa Cres,",GLENVALE QLD 4350,House,4,2,2,505m² ,04 Mar 2024
+"625,000 ","Villa 58/500 South Street,",GLENVALE QLD 4350,Retirement Living,2,2,2,155m² ,04 Mar 2024
+"550,000 ","16 Cambridge Street,",HARRISTOWN QLD 4350,House,3,1,2,607m² ,04 Mar 2024
+"603,500","1A Buckland Street,",HARRISTOWN QLD 4350,House,4,2,2,688m² ,04 Mar 2024
+"975,000 ","9 Silverleaf Avenue,",MOUNT RASCAL QLD 4350,House,5,2,2,"4,740m² ",04 Mar 2024
+"720,000 ","32 Wiangaree Drive,",RANGEVILLE QLD 4350,House,3,2,3,767m² ,04 Mar 2024
+"412,000 ","15 Adam Street,",NORTH TOOWOOMBA QLD 4350,House,2,1,1,538m² ,2024
+"655,000 ","35 Llewellyn Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,3,"1,012m² ",01 Mar 2024
+"1,250,000 ","7 Christine Court,",COTSWOLD HILLS QLD 4350,House,4,2,6,"5,964m² ",01 Mar 2024
+"3,800,000","136 Mackenzie Street,",EAST TOOWOOMBA QLD 4350,House,4,4,7,"2,004m² ",01 Mar 2024
+"490,000 ","10 Shennan Street,",HARRISTOWN QLD 4350,House,3,1,3,"1,009m² ",01 Mar 2024
+"1,100,000 ","2 Nita Close,",MIDDLE RIDGE QLD 4350,House,4,2,2,919m² ,01 Mar 2024
+"540,000 ","1 Sourris Street,",MOUNT LOFTY QLD 4350,House,3,1,1,564m² ,01 Mar 2024
+"820,000 ","144 Geddes Street,",EAST TOOWOOMBA QLD 4350,House,3,2,3,790m² ,29 Feb 2024
+"475,000 ","12 Weetwood Street,",NEWTOWN QLD 4350,House,2,2,6,986m² ,29 Feb 2024
+"525,000 ","38 Rivett Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,506m² ,29 Feb 2024
+"590,000 ","3 Buckland Street,",HARRISTOWN QLD 4350,House,4,2,1,688m² ,28 Feb 2024
+"660,000 ","15 Osbourne Court,",KEARNEYS SPRING QLD 4350,House,4,2,2,660m² ,28 Feb 2024
+"951,000 ","39 Jutsum Street,",MIDDLE RIDGE QLD 4350,House,5,2,3,"1,571m² ",28 Feb 2024
+"720,000 ","76 Rowbotham Street,",RANGEVILLE QLD 4350,House,4,2,3,718m² ,28 Feb 2024
+"765,000 ","29 Perth Street,",RANGEVILLE QLD 4350,House,3,2,2,447m² ,28 Feb 2024
+"840,000 ","27 London Circuit,",TORRINGTON QLD 4350,House,4,2,2,764m² ,28 Feb 2024
+"621,000 ","22 Wandoo Crescent,",WESTBROOK QLD 4350,House,4,2,2,754m² ,28 Feb 2024
+"935,000 ","33 Grey Gums Drive,",BLUE MOUNTAIN HEIGHTS QLD 4350,House,4,3,5,"7,104m² ",27 Feb 2024
+"622,000 ","4 Argyle St,",EAST TOOWOOMBA QLD 4350,House,3,1,1,384m² ,27 Feb 2024
+"835,000 ","12 Jarrah Street,",EAST TOOWOOMBA QLD 4350,House,4,2,2,716m² ,27 Feb 2024
+"618,000 ","11 Heywood Street,",GLENVALE QLD 4350,House,4,2,2,558m² ,27 Feb 2024
+"550,000 ","27 Perry Street,",HARLAXTON QLD 4350,House,3,1,1,"1,012m² ",27 Feb 2024
+"675,000 ","46 Wallace Street,",NEWTOWN QLD 4350,House,3,2,2,703m² ,27 Feb 2024
+"713,000 ","8 Jenkins Street,",NEWTOWN QLD 4350,House,3,2,2,577m² ,27 Feb 2024
+"685,000 ","42 Aberdeen Street,",RANGEVILLE QLD 4350,House,4,2,1,681m² ,27 Feb 2024
+"2,300,000 ","59 Tourist Road,",RANGEVILLE QLD 4350,House,5,3,2,"1,012m² ",27 Feb 2024
+"750,000 ","12 McLeod Street,",RANGEVILLE QLD 4350,House,4,2,2,688m² ,27 Feb 2024
+"383,000 ","12 Port Street,",WILSONTON HEIGHTS QLD 4350,House,3,1,1,624m² ,27 Feb 2024
+"465,000 ","25 Rachel Street,",DARLING HEIGHTS QLD 4350,House,3,1,1,600m² ,26 Feb 2024
+"850,000 ","2/46A MacKenzie Street,",MOUNT LOFTY QLD 4350,House,4,2,4,"1,015m² ",26 Feb 2024
+"855,000 ","7 Pearl Court,",RANGEVILLE QLD 4350,House,5,2,2,690m² ,26 Feb 2024
+"850,000 ","24 Pearl Court,",RANGEVILLE QLD 4350,House,4,2,2,740m² ,26 Feb 2024
+"497,500 ","3 Lindemann Court,",WILSONTON HEIGHTS QLD 4350,House,4,1,2,655m² ,26 Feb 2024
+"540,000 ","212 Bridge Street,",NEWTOWN QLD 4350,House,5,2,6,"1,012m² ",23 Feb 2024
+"1,060,000 ","90 Prince Henry Drive,",PRINCE HENRY HEIGHTS QLD 4350,House,4,3,2,"1,197m² ",23 Feb 2024
+"561,000 ","7 Kettle Street,",ROCKVILLE QLD 4350,House,4,2,3,610m² ,23 Feb 2024
+"501,500 ","14 Grey Street,",SOUTH TOOWOOMBA QLD 4350,House,2,1,2,670m² ,23 Feb 2024
+"440,000","7 Lindemann Court,",WILSONTON HEIGHTS QLD 4350,House,3,1,1,640m² ,23 Feb 2024
+"460,000 ","4 Lysanda Close,",WILSONTON HEIGHTS QLD 4350,House,4,1,1,642m² ,23 Feb 2024
+"860,000 ","255 Geddes Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,"1,012m² ",2024
+"580,000 ","3 Ronald Court,",GLENVALE QLD 4350,House,4,2,2,819m² ,22 Feb 2024
+"525,000 ","35 Butt Street,",HARRISTOWN QLD 4350,House,3,1,2,721m² ,22 Feb 2024
+"800,000 ","37 Rhyde Street,",MOUNT LOFTY QLD 4350,House,2,1,2,966m² ,22 Feb 2024
+"775,000 ","12 Edith Street,",NEWTOWN QLD 4350,House,3,2,4,911m² ,22 Feb 2024
+"628,000 ","9 Erbacher Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,649m² ,21 Feb 2024
+"482,500 ",,DARLING HEIGHTS QLD 4350,House,3,1,1,607m² ,21 Feb 2024
+"485,000 ","61 Cortess Street,",HARRISTOWN QLD 4350,House,3,1,3,668m² ,21 Feb 2024
+"1,000,000 ","48 McGee Drive,",KEARNEYS SPRING QLD 4350,House,4,2,2,703m² ,21 Feb 2024
+"602,000 ","123a Stuart Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,655m² ,21 Feb 2024
+"870,000 ","147 Rowbotham Street,",RANGEVILLE QLD 4350,House,4,2,2,752m² ,21 Feb 2024
+"560,000 ","38 Dalgleish Street,",SOUTH TOOWOOMBA QLD 4350,House,3,2,2,728m² ,21 Feb 2024
+"525,111 ","30 Gore Street,",WESTBROOK QLD 4350,House,4,2,4,"1,049m² ",21 Feb 2024
+"540,000 ","2 Muir Street,",HARLAXTON QLD 4350,House,4,1,2,592m² ,20 Feb 2024
+"663,000 ","52 Boshammer Street,",RANGEVILLE QLD 4350,House,4,2,2,758m² ,2024
+"660,000 ","181 Newton Road,",ATHOL QLD 4350,House,3,2,4,0,19 Feb 2024
+"580,000 ","24 Boyett Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,4,645m² ,19 Feb 2024
+"517,000 ","9 Myora Close,",DARLING HEIGHTS QLD 4350,House,3,1,1,762m² ,19 Feb 2024
+"890,000 ","19 London Circuit,",TORRINGTON QLD 4350,House,5,2,2,666m² ,19 Feb 2024
+"608,000 ","25 Vanessa Crescent,",COTSWOLD HILLS QLD 4350,House,4,2,−,696m² ,18 Feb 2024
+"960,000 ","42 Tolmie Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,2,501m² ,18 Feb 2024
+"642,500 ","3 Rolle Circuit,",TORRINGTON QLD 4350,House,4,2,2,650m² ,18 Feb 2024
+"860,000 ","26 Shelton Crescent,",KEARNEYS SPRING QLD 4350,House,5,3,2,716m² ,16 Feb 2024
+"710,000 ","4 Vanham Close,",MIDDLE RIDGE QLD 4350,House,4,2,2,660m² ,16 Feb 2024
+"430,000 ",,NEWTOWN QLD 4350,House,3,1,2,759m² ,16 Feb 2024
+"900,000 ","2 James Street,",RANGEVILLE QLD 4350,House,3,3,1,"2,028m² ",16 Feb 2024
+"535,000 ","390 Hume Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,629m² ,15 Feb 2024
+"470,000 ","91 Gorman Street,",DARLING HEIGHTS QLD 4350,House,3,1,1,640m² ,15 Feb 2024
+"600,000 ","1/31 Bootes Street,",KEARNEYS SPRING QLD 4350,Duplex,3,2,2,353m² ,15 Feb 2024
+"840,000 ","3 McMorrow Street,",KEARNEYS SPRING QLD 4350,House,5,2,−,624m² ,15 Feb 2024
+"517,000 ","4 Murray Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,969m² ,15 Feb 2024
+"597,000 ","69 Barlow Street,",CRANLEY QLD 4350,House,4,2,2,576m² ,14 Feb 2024
+"1,250,000","6 Cooper Road,",GLENVALE QLD 4350,House,5,3,9,"4,291m² ",14 Feb 2024
+"550,000 ","62 Cortess Street,",HARRISTOWN QLD 4350,House,4,2,−,650m² ,14 Feb 2024
+"610,000","23 Batterbee Street,",RANGEVILLE QLD 4350,House,3,1,1,812m² ,14 Feb 2024
+"620,000 ","5 Brunner Street,",RANGEVILLE QLD 4350,House,3,1,2,759m² ,14 Feb 2024
+"720,000 ","57 Adelaide Street,",CRANLEY QLD 4350,House,5,2,2,561m² ,13 Feb 2024
+"725,000 ","1 Carnation Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,709m² ,13 Feb 2024
+"685,000 ","8 Weis Crescent,",MIDDLE RIDGE QLD 4350,House,3,2,2,645m² ,13 Feb 2024
+"480,000 ","28 Tynedale Avenue,",NEWTOWN QLD 4350,House,3,1,2,582m² ,3 Feb 2024
+"810,000","46 London Circuit,",TORRINGTON QLD 4350,House,5,2,2,"1,993m² ",13 Feb 2024
+"3,050,000 ","21 Godfrey Street,",EAST TOOWOOMBA QLD 4350,House,5,3,4,"2,023m² ",12 Feb 2024
+"620,000 ","5 Cambridge Street,",HARRISTOWN QLD 4350,House,5,2,2,617m² ,12 Feb 2024
+"793,000 ","7 Weis Crescent,",MIDDLE RIDGE QLD 4350,House,4,2,2,722m² ,12 Feb 2024
+"740,000 ","212 Russell Street,",NEWTOWN QLD 4350,House,3,2,2,"1,052m² ",12 Feb 2024
+"575,000 ","211 Long Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,"1,133m² ",12 Feb 2024
+"500,000 ","1A Cecil Street,",TOOWOOMBA CITY QLD 4350,House,3,1,2,885m² ,12 Feb 2024
+"605,500 ","269 Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,House,3,2,2,602m² ,09 Feb 2024
+"535,000 ",,DARLING HEIGHTS QLD 4350,House,3,1,2,625m² ,09 Feb 2024
+"501,000 ",,NEWTOWN QLD 4350,House,2,1,2,513m² ,09 Feb 2024
+"430,000 ","146 Bridge Street,",TOOWOOMBA CITY QLD 4350,House,3,1,1,407m² ,09 Feb 2024
+"1,300,000 ","235 Mount Rascal Road,",MOUNT RASCAL QLD 4350,House,5,2,4,"4,004m² ",08 Feb 2024
+"565,000 ","12 Swallow Court,",NEWTOWN QLD 4350,House,3,2,2,911m² ,8 Feb 2024
+"597,000 ","343 Alderley Street,",SOUTH TOOWOOMBA QLD 4350,House,4,1,3,911m² ,08 Feb 2024
+"515,000","7 Burton Street,",HARRISTOWN QLD 4350,House,3,1,2,822m² ,07 Feb 2024
+"1,220,000 ","1 Dippel Street,",MIDDLE RIDGE QLD 4350,House,6,3,5,"4,060m² ",07 Feb 2024
+"565,000 ","4 Westview Drive,",MOUNT KYNOCH QLD 4350,House,4,2,2,559m² ,07 Feb 2024
+"390,000 ","46 Rome Street,",NEWTOWN QLD 4350,House,3,1,2,435m² ,07 Feb 2024
+"590,000","4 Hampshire Street,",NORTH TOOWOOMBA QLD 4350,House,3,2,1,612m² ,07 Feb 2024
+"502,000 ","1 Parkinson Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,650m² ,07 Feb 2024
+"765,500 ","14 Kellett Drive,",WESTBROOK QLD 4350,House,0,0,0,951m² ,07 Feb 2024
+"481,500 ","371 Greenwattle Street,",WILSONTON QLD 4350,House,3,1,2,"1,014m² ",07 Feb 2024
+"1,270,000 ","3 Kimberley Court,",BLUE MOUNTAIN HEIGHTS QLD 4350,House,5,2,5,"6,000m² ",06 Feb 2024
+"686,000 ","14 Sardon Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,673m² ,06 Feb 2024
+"1,300,000 ","12 Burraway Court,",MIDDLE RIDGE QLD 4350,House,5,3,2,"5,591m² ",06 Feb 2024
+"870,000 ","12 Jake Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,721m² ,06 Feb 2024
+"405,000 ","495 Tor Street,",NEWTOWN QLD 4350,House,2,1,1,617m² ,06 Feb 2024
+"350,000 ","27 Festival Street,",ROCKVILLE QLD 4350,House,3,1,1,600m² ,2024
+"1,000,000 ","56-58 Devonshire Street,",DRAYTON QLD 4350,House,5,2,6,"4,042m² ",05 Feb 2024
+"555,000 ","60 Alistair Street,",GLENVALE QLD 4350,House,4,2,2,585m² ,05 Feb 2024
+"660,000 ","38 London Circuit,",TORRINGTON QLD 4350,House,4,2,2,553m² ,05 Feb 2024
+"860,000 ","70 Ferguson Road,",WESTBROOK QLD 4350,House,4,2,9,"1,203m² ",05 Feb 2024
+"586,000","8 Nimrod Court,",WILSONTON QLD 4350,House,3,1,3,660m² ,05 Feb 2024
+"470,000 ","9 Gains Place,",GLENVALE QLD 4350,House,3,2,1,281m² ,04 Feb 2024
+"540,000",,HARLAXTON QLD 4350,House,3,1,2,"1,012m² ",03 Feb 2024
+"600,000 ","11 Adam Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,961m² ,2024
+"465,000 ","21 Mcintyre Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,732m² ,02 Feb 2024
+"525,000 ","10 Ware Court,",DARLING HEIGHTS QLD 4350,House,3,1,1,600m² ,02 Feb 2024
+"620,000 ","6 Lloyd Street,",HARRISTOWN QLD 4350,House,5,1,2,807m² ,02 Feb 2024
+"697,000 ","6 Adina Street,",RANGEVILLE QLD 4350,House,3,1,3,782m² ,02 Feb 2024
+"451,500 ","7 Whitefriars Street,",ROCKVILLE QLD 4350,House,3,1,1,668m² ,02 Feb 2024
+"750,000 ","22 Seaton Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,1,399m² ,02 Feb 2024
+"545,000 ","2 Potter Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,528m² ,02 Feb 2024
+"513,500 ","1 Quinlan Court,",DARLING HEIGHTS QLD 4350,House,3,1,1,613m² ,01 Feb 2024
+"544,000 ","6 Maplewood Drive,",DARLING HEIGHTS QLD 4350,House,3,2,3,746m² ,01 Feb 2024
+"905,000","33 Fawngrove Drive,",GLENVALE QLD 4350,House,5,2,6,"4,036m² ",1 Feb 2024
+"825,000 ","14 Fadden Crescent,",MIDDLE RIDGE QLD 4350,House,4,2,2,634m² ,01 Feb 2024
+"785,000 ","14 Holt Street,",MIDDLE RIDGE QLD 4350,House,4,2,3,736m² ,01 Feb 2024
+"400,000 ","325 James Street,",NEWTOWN QLD 4350,House,3,1,1,410m² ,01 Feb 2024
+"520,000 ","15 Somme Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,632m² ,01 Feb 2024
+"652,000 ","14 Gentle Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,486m² ,01 Feb 2024
+"450,000 ","13 Beryl,",WILSONTON QLD 4350,House,3,1,1,607m² ,01 Feb 2024
+"653,000 ","11 Neville Court,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,698m² ,31 Jan 2024
+"590,000","31 Tallowwood Boulevard,",COTSWOLD HILLS QLD 4350,House,4,2,2,500m² ,31 Jan 2024
+"530,000 ","20 Henderson Street,",NEWTOWN QLD 4350,House,3,2,2,622m² ,31 Jan 2024
+"605,000 ","167 Campbell Street,",NEWTOWN QLD 4350,House,3,1,2,562m² ,31 Jan 2024
+"380,000 ","9 Newington Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,405m² ,31 Jan 2024
+"620,000 ","75 Boshammer Street,",RANGEVILLE QLD 4350,House,4,− 0,2,766m² ,31 Jan 2024
+"600,000 ",,RANGEVILLE QLD 4350,House,4,1,1,731m² ,31 Jan 2024
+"2,200,000 ","56 Geddes Road,",TOP CAMP QLD 4350,House,4,2,6,"8,025m² ",31 Jan 2024
+"397,500 ","15 Kettle Street,",ROCKVILLE QLD 4350,House,3,1,3,539m² ,30 Jan 2024
+"480,000 ","6 Challenor Street,",ROCKVILLE QLD 4350,House,3,1,1,688m² ,30 Jan 2024
+"720,000","13 Kennard Street,",WESTBROOK QLD 4350,House,4,2,2,"1,000m² ",30 Jan 2024
+"380,000 ","40 Dalmeny Street,",WILSONTON QLD 4350,House,2,1,2,303m² ,30 Jan 2024
+"605,000 ","129 Ramsay Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,852m² ,29 Jan 2024
+"580,000 ","24 McNamara Street,",CENTENARY HEIGHTS QLD 4350,House,4,1,4,607m² ,29 Jan 2024
+"680,000 ","300 Hume Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,718m² ,29 Jan 2024
+"520,000 ","41 Arabian Street,",HARRISTOWN QLD 4350,House,4,1,4,665m² ,29 Jan 2024
+"498,000","7 Peak Street,",HARRISTOWN QLD 4350,House,2,1,2,607m² ,29 Jan 2024
+"662,000 ","2 Danica Court,",KEARNEYS SPRING QLD 4350,House,4,2,2,688m² ,29 Jan 2024
+"655,000 ","39 Redwood Street,",NEWTOWN QLD 4350,House,5,2,2,671m² ,29 Jan 2024
+"595,000","18 Boulton Terrace,",TOOWOOMBA CITY QLD 4350,House,3,1,1,438m² ,29 Jan 2024
+"600,000 ",,WILSONTON QLD 4350,House,3,1,3,668m² ,29 Jan 2024
+"545,000 ","14 Cessna Street,",WILSONTON QLD 4350,House,3,1,2,625m² ,29 Jan 2024
+"570,000 ","4 Diosma Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,655m² ,25 Jan 2024
+"749,999 ","5 Maplewood Drive,",DARLING HEIGHTS QLD 4350,House,5,2,2,932m² ,25 Jan 2024
+"522,000","34 UNDERWOOD CRESCENT,",HARRISTOWN QLD 4350,House,4,1,3,885m² ,25 Jan 2024
+"620,000 ","6 Lloyd Street,",HARRISTOWN QLD 4350,House,5,1,2,807m² ,25 Jan 2024
+"583,933 ","3 Panda Street,",HARRISTOWN QLD 4350,House,4,2,4,604m² ,25 Jan 2024
+"615,000 ","20 Horrocks Crescent,",KEARNEYS SPRING QLD 4350,House,4,2,2,652m² ,25 Jan 2024
+"813,000 ","6 Degan Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,704m² ,25 Jan 2024
+"1,130,000 ","261 Mount Rascal Road,",MOUNT RASCAL QLD 4350,House,5,2,4,"4,000m² ",25 Jan 2024
+"700,000 ","9 Diane Court,",CENTENARY HEIGHTS QLD 4350,House,4,2,4,841m² ,24 Jan 2024
+"491,000 ","2 Gainsborough Drive,",GLENVALE QLD 4350,House,3,2,2,642m² ,24 Jan 2024
+"542,000 ","275 South Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,3,802m² ,24 Jan 2024
+"722,000 ","18 Crebra Crescent,",TOP CAMP QLD 4350,House,5,2,4,"4,062m² ",24 Jan 2024
+"580,000 ","2 Corser Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,809m² ,23 Jan 2024
+"641,500 ","21 Gorman Street,",DARLING HEIGHTS QLD 4350,House,4,2,2,704m² ,23 Jan 2024
+"561,000 ","5 Nolan Court,",DARLING HEIGHTS QLD 4350,House,3,1,1,673m² ,23 Jan 2024
+"552,000 ","77 Stephen Street,",HARRISTOWN QLD 4350,House,3,1,1,736m² ,23 Jan 2024
+"530,000","18 Gascony Street,",HARRISTOWN QLD 4350,House,4,2,2,658m² ,23 Jan 2024
+"880,000 ","28 Pugh Street,",MIDDLE RIDGE QLD 4350,House,4,2,2,615m² ,23 Jan 2024
+"1,775,000 ","64-66 Stenner Street,",MIDDLE RIDGE QLD 4350,House,5,2,2,"4,089m² ",23 Jan 2024
+"1,100,000 ","8 Grasmere Court,",MOUNT LOFTY QLD 4350,House,4,2,2,"1,228m² ",23 Jan 2024
+"646,000 ","57 Mackenzie Street,",MOUNT LOFTY QLD 4350,House,4,1,2,637m² ,2024
+"505,000 ","34 Jimbour Drive,",NEWTOWN QLD 4350,House,3,1,3,697m² ,2024
+"875,000","32 Bowtell Street,",RANGEVILLE QLD 4350,House,4,2,2,883m² ,23 Jan 2024
+"458,000 ","12 Mott Crescent,",ROCKVILLE QLD 4350,House,4,1,4,617m² ,23 Jan 2024
+"512,500 ","205 South Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,809m² ,23 Jan 2024
+"465,000 ",,WILSONTON QLD 4350,House,3,1,1,736m² ,23 Jan 2024
+"532,000 ","7 Dylan Court,",DARLING HEIGHTS QLD 4350,House,3,1,1,660m² ,22 Jan 2024
+"580,000 ","1 Ace Drive,",GLENVALE QLD 4350,House,4,2,2,626m² ,22 Jan 2024
+"890,000 ","18 McEwan Crescent,",KEARNEYS SPRING QLD 4350,New house and land,4,2,2,600m² ,22 Jan 2024
+"530,000 ","1 Clairmont Street,",NEWTOWN QLD 4350,House,3,1,3,620m² ,22 Jan 2024
+"685,000 ","24 Naranga Street,",RANGEVILLE QLD 4350,House,4,2,4,592m² ,22 Jan 2024
+"505,000 ","20 Welcombe Avenue,",ROCKVILLE QLD 4350,House,4,2,1,668m² ,22 Jan 2024
+"605,000 ","18 Shoesmith Road,",WESTBROOK QLD 4350,House,4,2,2,972m² ,22 Jan 2024
+"583,000 ","2/118b Main Street,",WESTBROOK QLD 4350,House,4,2,5,"1,300m² ",22 Jan 2024
+"525,000 ","17A Dalmeny Street,",WILSONTON QLD 4350,House,4,2,2,612m² ,22 Jan 2024
+"575,000 ","44 Nash Drive,",GLENVALE QLD 4350,House,4,1,3,704m² ,20 Jan 2024
+"425,000 ","66 Hogg Street,",ROCKVILLE QLD 4350,House,3,1,3,607m² ,2024
+"609,000 ","3 Spies Court,",MOUNT LOFTY QLD 4350,House,3,1,2,662m² ,19 Jan 2024
+"405,000","8b West Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,607m² ,19 Jan 2024
+"660,000 ","249 South Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,3,"1,457m² ",19 Jan 2024
+"415,000 ","19 Taylor Street,",TOOWOOMBA CITY QLD 4350,House,2,1,−,324m² ,19 Jan 2024
+"485,000 ","113 Mort Street,",TOOWOOMBA CITY QLD 4350,House,3,1,3,893m² ,19 Jan 2024
+"590,000 ","1 Grandslam Street,",GLENVALE QLD 4350,House,3,2,2,600m² ,18 Jan 2024
+"827,500 ","3 Warwick Street,",HARRISTOWN QLD 4350,Duplex,6,4,2,956m² ,18 Jan 2024
+"732,000 ","5 Shelton Crescent,",KEARNEYS SPRING QLD 4350,House,3,2,4,696m² ,18 Jan 2024
+"650,000","13 Darmstadt Court,",KEARNEYS SPRING QLD 4350,House,3,2,2,501m² ,18 Jan 2024
+"1,250,000","2 Nielsen Court,",MIDDLE RIDGE QLD 4350,House,5,3,2,"1,087m² ",18 Jan 2024
+"476,000 ","15 Ware Court,",DARLING HEIGHTS QLD 4350,House,3,1,1,620m² ,17 Jan 2024
+"425,000 ","162 Hill Street,",NEWTOWN QLD 4350,House,3,1,1,554m² ,17 Jan 2024
+"820,000 ","34 Cumming Street,",NORTH TOOWOOMBA QLD 4350,House,3,2,2,"1,214m² ",17 Jan 2024
+"529,500 ","9 Chinchilla Court,",WILSONTON HEIGHTS QLD 4350,House,4,1,2,630m² ,17 Jan 2024
+"500,000","13 McWilliam Street,",WILSONTON HEIGHTS QLD 4350,House,4,2,2,715m² ,17 Jan 2024
+"507,000 ","197 Nelson St,",KEARNEYS SPRING QLD 4350,House,3,1,2,725m² ,16 Jan 2024
+"715,000 ","13 Heather Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,674m² ,16 Jan 2024
+"3,300,000 ","3 / 1A Dorge Street,",MIDDLE RIDGE QLD 4350,House,4,3,3,"2,559m² ",16 Jan 2024
+"660,000 ","27 Bridge Street,",MOUNT LOFTY QLD 4350,House,3,1,1,493m² ,16 Jan 2024
+"870,000 ","10 Belah Street,",RANGEVILLE QLD 4350,House,4,2,2,731m² ,16 Jan 2024
+"685,000 ","2 Sandford Crescent,",TORRINGTON QLD 4350,House,4,2,2,649m² ,16 Jan 2024
+"680,000 ","17 Rubie Court,",WESTBROOK QLD 4350,House,4,2,2,938m² ,16 Jan 2024
+"720,000 ","32 Whitman Street,",WESTBROOK QLD 4350,House,4,2,4,"1,034m² ",16 Jan 2024
+"702,000 ","60 Westfield Drive,",WESTBROOK QLD 4350,House,4,2,2,"2,263m² ",16 Jan 2024
+"635,000 ","22 Belcher Drive,",GLENVALE QLD 4350,House,4,2,4,917m² ,15 Jan 2024
+"595,000 ","24 Stanmoore St,",RANGEVILLE QLD 4350,House,4,2,1,579m² ,15 Jan 2024
+"485,000 ","6 Atkinson Street,",SOUTH TOOWOOMBA QLD 4350,House,2,1,1,567m² ,15 Jan 2024
+"557,500 ",,WILSONTON QLD 4350,House,3,1,2,663m² ,15 Jan 2024
+"713,500 ","9 Chifley Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,672m² ,12 Jan 2024
+"550,000 ","28 Cathro Street,",ROCKVILLE QLD 4350,Duplex,7,3,2,"1,148m² ",12 Jan 2024
+"850,000 ","6 Schloss Court,",WESTBROOK QLD 4350,House,5,2,4,"1,511m² ",12 Jan 2024
+"775,000","8 Schloss Court,",WESTBROOK QLD 4350,House,4,2,4,"1,564m² ",12 Jan 2024
+"588,000 ","8 High Court Drive,",WILSONTON HEIGHTS QLD 4350,House,4,2,2,624m² ,12 Jan 2024
+"617,500 ","30 Sardon Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,635m² ,11 Jan 2024
+"595,000 ","49 Riethmuller Street,",KEARNEYS SPRING QLD 4350,House,4,1,3,632m² ,11 Jan 2024
+"715,000 ","3 Bunkers Hill School Road,",WESTBROOK QLD 4350,House,4,2,2,"2,002m² ",11 Jan 2024
+"705,000 ","4 Bruce Street,",EAST TOOWOOMBA QLD 4350,House,3,2,−,354m² ,10 Jan 2024
+"1,120,000 ","33 Curzon Street,",EAST TOOWOOMBA QLD 4350,House,4,2,2,"1,012m² ",10 Jan 2024
+"530,000 ","682 Greenwattle Street,",HARRISTOWN QLD 4350,House,4,2,2,580m² ,10 Jan 2024
+"668,000 ","59 Gostwyck Street,",NEWTOWN QLD 4350,House,4,1,2,670m² ,10 Jan 2024
+"642,750 ","6 Sundowner Street,",WILSONTON QLD 4350,House,5,2,2,704m² ,10 Jan 2024
+"870,000 ","35 McGee Drive,",KEARNEYS SPRING QLD 4350,House,4,2,4,681m² ,09 Jan 2024
+"687,000 ","22 Hennenlotter Court,",KEARNEYS SPRING QLD 4350,House,4,2,3,700m² ,09 Jan 2024
+"768,000","16 Beardsworth Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,599m² ,09 Jan 2024
+"725,000 ","2 Blyth Street,",RANGEVILLE QLD 4350,House,4,2,2,732m² ,09 Jan 2024
+"615,000 ","118a Neil Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,325m² ,09 Jan 2024
+"482,000 ",,WILSONTON QLD 4350,House,3,1,1,642m² ,09 Jan 2024
+"765,000 ","33 Lorraine Crescent,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,600m² ,08 Jan 2024
+"450,000 ","5 Kayser Court,",DARLING HEIGHTS QLD 4350,House,3,2,2,642m² ,2024
+"380,000 ","285 West Street,",HARRISTOWN QLD 4350,House,3,1,1,587m² ,08 Jan 2024
+"550,000 ","330 Alderley Street,",KEARNEYS SPRING QLD 4350,House,3,1,3,617m² ,08 Jan 2024
+"490,000 ","17 Tyack Street,",NEWTOWN QLD 4350,House,3,1,4,642m² ,08 Jan 2024
+"855,000 ","12 Rowbotham Street,",RANGEVILLE QLD 4350,House,4,2,2,870m² ,08 Jan 2024
+"600,000 ","33 Raff Street,",TOOWOOMBA CITY QLD 4350,House,3,1,2,615m² ,08 Jan 2024
+"561,100","28 Bamboo Court,",DARLING HEIGHTS QLD 4350,House,3,2,2,600m² ,05 Jan 2024
+"915,000 ","16 Bridget Court,",MIDDLE RIDGE QLD 4350,House,4,2,3,715m² ,05 Jan 2024
+"612,000 ","17 Cassidy Terrace,",MOUNT KYNOCH QLD 4350,House,4,2,2,591m² ,05 Jan 2024
+"520,000 ","433 Stenner Street,",HARRISTOWN QLD 4350,House,4,1,1,731m² ,04 Jan 2024
+"478,000 ","51 Brigalow Street,",NEWTOWN QLD 4350,House,3,1,1,566m² ,03 Jan 2024
+"887,950 ","56 London Circuit,",TORRINGTON QLD 4350,House,4,2,3,"2,996m² ",03 Jan 2024
+"380,000 ","20 Stone Street,",WILSONTON QLD 4350,House,2,1,−,731m² ,03 Jan 2024
+"440,000 ","17 Minnett Street,",GLENVALE QLD 4350,House,3,2,1,258m² ,02 Jan 2024
+"752,500 ","2 Nash Drive,",GLENVALE QLD 4350,Duplex,6,3,2,639m² ,02 Jan 2024
+"546,000",,GLENVALE QLD 4350,House,3,2,2,601m² ,02 Jan 2024
+"702,000 ","161 Geddes Street,",EAST TOOWOOMBA QLD 4350,House,3,2,2,536m² ,01 Jan 2024
+"426,000 ","235 Long Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,759m² ,01 Jan 2024
+"776,000 ","6 Ramsay Road,",GLENVALE QLD 4350,House,5,2,6,"4,203m² ",31 Dec 2023
+"466,000 ","15 Yandilla Street,",NEWTOWN QLD 4350,House,3,1,2,689m² ,31 Dec 2023
+"550,000 ","26 Alford Street,",MOUNT LOFTY QLD 4350,House,2,1,1,696m² ,29 Dec 2023
+"580,000 ","48 Perth Street,",RANGEVILLE QLD 4350,House,2,1,1,913m² ,27 Dec 2023
+"800,000 ","10-12 Cary Road,",GLENVALE QLD 4350,House,4,2,6,0,26 Dec 2023
+"1,430,000","11 John Street,",EAST TOOWOOMBA QLD 4350,House,5,3,5,"1,098m² ",22 Dec 2023
+"780,000 ","1 Sienna Drive,",GLENVALE QLD 4350,House,4,2,2,600m² ,22 Dec 2023
+"815,000 ","26 Eunice Court,",KEARNEYS SPRING QLD 4350,House,5,2,3,865m² ,22 Dec 2023
+"980,000 ",,MIDDLE RIDGE QLD 4350,House,5,3,2,766m² ,22 Dec 2023
+"626,000 ","4A Lendrum Street,",NEWTOWN QLD 4350,House,4,2,4,"1,012m² ",22 Dec 2023
+"600,000 ","177 Long Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,3,703m² ,22 Dec 2023
+"370,000","14 BINNS STREET,",SOUTH TOOWOOMBA QLD 4350,House,3,2,5,599m² ,
+"420,000 ","12 Lindberg Street,",WILSONTON QLD 4350,House,3,1,1,600m² ,22 Dec 2023
+"465,000 ","12 Minnett Street,",GLENVALE QLD 4350,House,3,2,1,258m² ,21 Dec 2023
+"1,420,000 ","14 Rhyde Street,",MOUNT LOFTY QLD 4350,House,4,2,2,675m² ,21 Dec 2023
+"538,500 ","5 Edith Street,",NEWTOWN QLD 4350,House,3,1,3,911m² ,21 Dec 2023
+"532,000 ","67 Gordon Avenue,",NEWTOWN QLD 4350,House,3,1,1,"1,012m² ",21 Dec 2023
+"479,000","5 Raymond Court,",ROCKVILLE QLD 4350,House,4,1,2,688m² ,21 Dec 2023
+"610,000 ","1 Louisa Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,622m² ,21 Dec 2023
+"679,000 ","1 Lila Drive,",COTSWOLD HILLS QLD 4350,House,5,2,2,840m² ,20 Dec 2023
+"690,000 ","12 Herries Street,",EAST TOOWOOMBA QLD 4350,House,3,1,−,756m² ,2023
+"1,100,000 ","102a Mackenzie Street,",EAST TOOWOOMBA QLD 4350,House,4,2,2,759m² ,20 Dec 2023
+"450,000 ","237 West Street,",HARRISTOWN QLD 4350,House,3,1,1,774m² ,20 Dec 2023
+"549,000 ","2 Westview Drive,",MOUNT KYNOCH QLD 4350,House,4,2,2,559m² ,20 Dec 2023
+"498,800 ","18 Cressbrook Court,",NEWTOWN QLD 4350,House,3,1,1,600m² ,20 Dec 2023
+"776,000 ","9 Merradong Court,",RANGEVILLE QLD 4350,House,3,2,2,725m² ,20 Dec 2023
+"535,000 ","486 Stenner Street,",DARLING HEIGHTS QLD 4350,House,3,1,6,728m² ,19 Dec 2023
+"630,000","1 Pitt Street,",EAST TOOWOOMBA QLD 4350,House,2,1,1,405m² ,19 Dec 2023
+"825,000 ","76a Herries Street,",EAST TOOWOOMBA QLD 4350,House,4,2,3,890m² ,19 Dec 2023
+"1,555,000 ","20 Leslie Street,",RANGEVILLE QLD 4350,House,5,4,2,"1,518m² ",19 Dec 2023
+"745,000 ","71 Phillip St,",SOUTH TOOWOOMBA QLD 4350,House,5,3,3,551m² ,19 Dec 2023
+"465,000","29 Mcgregor Street,",WILSONTON QLD 4350,House,3,2,−,401m² ,19 Dec 2023
+"424,000 ","23 Carlin Street,",GLENVALE QLD 4350,House,3,2,1,213m² ,18 Dec 2023
+"538,000","6 Preston Court,",GLENVALE QLD 4350,House,4,2,2,369m² ,18 Dec 2023
+"546,000 ","113 Entabeni Drive,",KEARNEYS SPRING QLD 4350,House,3,2,1,302m² ,18 Dec 2023
+"720,000 ","14 Argus Ct,",MIDDLE RIDGE QLD 4350,House,4,2,2,608m² ,18 Dec 2023
+"520,000 ","20 Jimbour Drive,",NEWTOWN QLD 4350,House,4,1,3,675m² ,18 Dec 2023
+"672,500 ","24 Mcleod Street,",RANGEVILLE QLD 4350,House,3,1,1,799m² ,18 Dec 2023
+"1,180,000 ","14 Leslie Street,",RANGEVILLE QLD 4350,House,4,3,2,"1,492m² ",18 Dec 2023
+"420,000 ","195 North Street,",ROCKVILLE QLD 4350,House,3,1,2,594m² ,16 Dec 2023
+"660,000 ","17 Danica Court,",KEARNEYS SPRING QLD 4350,House,4,2,2,660m² ,15 Dec 2023
+"550,000 ",,KEARNEYS SPRING QLD 4350,House,6,3,2,607m² ,15 Dec 2023
+"1,030,000 ","253 Herries Street,",NEWTOWN QLD 4350,House,6,3,2,"2,023m² ",15 Dec 2023
+"670,000 ","11 Kapara Street,",RANGEVILLE QLD 4350,House,3,2,4,744m² ,15 Dec 2023
+"676,000 ","291 Hume Street,",SOUTH TOOWOOMBA QLD 4350,House,5,2,2,"1,138m² ",15 Dec 2023
+"670,000 ","6 Jacob Court,",WESTBROOK QLD 4350,House,5,2,2,"1,736m² ",15 Dec 2023
+"2,650,000 ","32 Arthur Street,",EAST TOOWOOMBA QLD 4350,House,5,3,2,"2,608m² ",14 Dec 2023
+"610,000 ","37 Cabarita Crescent,",GLENVALE QLD 4350,House,4,2,2,651m² ,14 Dec 2023
+"560,000",,ROCKVILLE QLD 4350,House,4,1,6,"1,012m² ",14 Dec 2023
+"625,000 ","6 Binns Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,2,599m² ,14 Dec 2023
+"1,150,000 ","248 E Drews Road,",WESTBROOK QLD 4350,House,4,2,6,0,14 Dec 2023
+"742,500 ","62 Belclaire Drive,",WESTBROOK QLD 4350,House,5,2,5,"1,232m² ",14 Dec 2023
+"465,000 ","5 Berry Street,",WILSONTON QLD 4350,House,3,1,1,"1,037m² ",14 Dec 2023
+"435,000 ","30 McGregor Street,",WILSONTON QLD 4350,House,2,1,3,562m² ,14 Dec 2023
+"775,000 ","5 Sirron Street,",BLUE MOUNTAIN HEIGHTS QLD 4350,House,3,2,1,"2,228m² ",13 Dec 2023
+"586,000 ","159 Alderley Street,",CENTENARY HEIGHTS QLD 4350,House,3,2,2,804m² ,13 Dec 2023
+"635,000 ","157 Geddes Street,",EAST TOOWOOMBA QLD 4350,House,3,1,2,860m² ,13 Dec 2023
+"580,000","11 Cohoe Street,",EAST TOOWOOMBA QLD 4350,House,2,1,1,807m² ,13 Dec 2023
+"565,000 ","68 North Street,",MOUNT LOFTY QLD 4350,House,4,1,1,825m² ,13 Dec 2023
+"1,400,000 ","10 Mackenzie Street,",MOUNT LOFTY QLD 4350,House,5,2,4,"1,821m² ",13 Dec 2023
+"700,000 ","128 Ramsay Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,3,809m² ,12 Dec 2023
+"500,000 ","23 Melway Crescent,",HARRISTOWN QLD 4350,House,3,1,2,772m² ,12 Dec 2023
+"410,000 ","13 O'Quinn Street,",HARRISTOWN QLD 4350,House,3,1,1,776m² ,2023
+"480,000 ","30 Lloyd Street,",HARRISTOWN QLD 4350,House,3,1,1,728m² ,2023
+"932,500 ","2 Howard Street,",MIDDLE RIDGE QLD 4350,House,4,2,2,832m² ,12 Dec 2023
+"480,000 ","32 Hillside Street,",NEWTOWN QLD 4350,House,3,1,2,683m² ,12 Dec 2023
+"579,000 ","6a Lendrum Street,",NEWTOWN QLD 4350,House,3,1,2,506m² ,12 Dec 2023
+"560,000 ","44A Gordon Avenue,",NEWTOWN QLD 4350,House,3,2,2,446m² ,12 Dec 2023
+"1,450,000 ","1 Kinnoull Terrace,",RANGEVILLE QLD 4350,House,4,2,2,"1,012m² ",2023
+"915,000 ","127 Long Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,3,"1,128m² ",2023
+"880,000 ","41 Skyline Drive,",BLUE MOUNTAIN HEIGHTS QLD 4350,House,4,3,4,"2,007m² ",11 Dec 2023
+"530,000 ","7 Wilma Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,3,617m² ,11 Dec 2023
+"500,000 ","36 Matthews Street,",HARRISTOWN QLD 4350,House,3,1,2,602m² ,11 Dec 2023
+"539,990 ","5 Hoey Street,",KEARNEYS SPRING QLD 4350,House,3,1,4,"1,012m² ",11 Dec 2023
+"545,000 ","58 Broadfoot Street,",KEARNEYS SPRING QLD 4350,House,3,1,1,621m² ,11 Dec 2023
+"458,500 ","11 Dunemann Street,",KEARNEYS SPRING QLD 4350,House,3,1,2,640m² ,11 Dec 2023
+"772,000","21 Dandelion Drive,",MIDDLE RIDGE QLD 4350,House,4,2,3,664m² ,11 Dec 2023
+"549,999 ",,NEWTOWN QLD 4350,House,3,1,4,862m² ,11 Dec 2023
+"471,000 ",,NEWTOWN QLD 4350,House,3,1,4,670m² ,11 Dec 2023
+"585,000 ","215 Campbell Street,",NEWTOWN QLD 4350,House,3,1,3,577m² ,11 Dec 2023
+"777,500 ","22 Moloney Street,",NORTH TOOWOOMBA QLD 4350,House,3,2,4,"1,012m² ",11 Dec 2023
+"847,500 ","10 Robertson Crescent,",PRINCE HENRY HEIGHTS QLD 4350,House,4,2,2,"1,122m² ",11 Dec 2023
+"389,250 ","357 Tor Street,",WILSONTON QLD 4350,House,3,1,1,642m² ,11 Dec 2023
+"535,000 ","7 Fysh Court,",WILSONTON QLD 4350,House,4,1,4,599m² ,10 Dec 2023
+"750,000 ","30 Hume Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,"1,369m² ",09 Dec 2023
+"660,000 ","4 Eden Street,",COTSWOLD HILLS QLD 4350,House,4,2,2,609m² ,08 Dec 2023
+"570,000 ","12 Dunne Street,",HARRISTOWN QLD 4350,House,3,1,4,736m² ,08 Dec 2023
+"685,000 ","19 Prime Minister Drive,",MIDDLE RIDGE QLD 4350,House,4,2,2,640m² ,08 Dec 2023
+"1,100,000 ","1/10 Trevethan Street,",MOUNT LOFTY QLD 4350,Villa,3,2,2,400m² ,08 Dec 2023
+"460,000 ","1 Jimbour Drive,",NEWTOWN QLD 4350,House,3,1,2,600m² ,08 Dec 2023
+"355,000 ","53 Mort Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,410m² ,08 Dec 2023
+"680,000 ","12 Kennedy Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,672m² ,08 Dec 2023
+"690,000 ",,SOUTH TOOWOOMBA QLD 4350,House,4,2,1,637m² ,08 Dec 2023
+"595,100 ","1 Park Lane,",TOOWOOMBA CITY QLD 4350,House,4,2,2,610m² ,08 Dec 2023
+"595,000 ","44 Sardon Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,612m² ,07 Dec 2023
+"755,000 ","176 Nelson Street,",KEARNEYS SPRING QLD 4350,House,5,2,2,627m² ,07 Dec 2023
+"565,000 ","9 Jacquelyn Street,",RANGEVILLE QLD 4350,House,4,1,2,607m² ,07 Dec 2023
+"800,000","16 Ace Drive,",GLENVALE QLD 4350,House,4,2,2,"1,000m² ",06 Dec 2023
+"501,000 ","43 Hursley Road,",NEWTOWN QLD 4350,House,3,1,1,613m² ,06 Dec 2023
+"570,000 ","36 Hampton St,",NEWTOWN QLD 4350,Duplex,6,2,2,613m² ,06 Dec 2023
+"793,000 ","7 Rodway Crescent,",RANGEVILLE QLD 4350,House,4,1,2,708m² ,06 Dec 2023
+"635,000 ","30 Sweetapple Crescent,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,759m² ,05 Dec 2023
+"835,000 ","3 Lauren Court,",GLENVALE QLD 4350,House,5,2,4,"4,000m² ",05 Dec 2023
+"1,250,000 ","13 Moncrieff Close,",MIDDLE RIDGE QLD 4350,House,4,2,3,707m² ,05 Dec 2023
+"525,000","4 Sir Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,336m² ,05 Dec 2023
+"530,000 ","45 Flinders St,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,594m² ,04 Dec 2023
+"482,000 ","34 Jennifer Crescent,",DARLING HEIGHTS QLD 4350,House,3,1,3,630m² ,04 Dec 2023
+"560,000 ","26 Kurrawa Crescent,",GLENVALE QLD 4350,House,4,2,2,580m² ,04 Dec 2023
+"950,000 ","62-66 Euston Road,",GLENVALE QLD 4350,House,3,1,3,0,04 Dec 2023
+"500,000 ","11 Burton Street,",HARRISTOWN QLD 4350,House,4,1,2,822m² ,04 Dec 2023
+"394,400 ","143 Stephen Street,",HARRISTOWN QLD 4350,House,3,1,1,736m² ,04 Dec 2023
+"725,000 ","12 Chelwyn St,",MIDDLE RIDGE QLD 4350,House,4,2,2,678m² ,04 Dec 2023
+"562,000 ","8 Westview Drive,",MOUNT KYNOCH QLD 4350,House,4,2,2,558m² ,04 Dec 2023
+"665,000 ","2 Beck Street,",MOUNT LOFTY QLD 4350,House,4,2,1,602m² ,04 Dec 2023
+"750,000 ","222A Campbell Street,",NEWTOWN QLD 4350,House,3,1,2,698m² ,04 Dec 2023
+"550,000 ","77 South Street,",RANGEVILLE QLD 4350,House,2,1,2,696m² ,04 Dec 2023
+"695,000 ","4 Lovett Street,",RANGEVILLE QLD 4350,House,4,1,2,744m² ,04 Dec 2023
+"800,000 ","21 Gowrie Street,",TOOWOOMBA CITY QLD 4350,House,4,2,5,959m² ,04 Dec 2023
+"500,000 ","198 Ruthven Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,837m² ,03 Dec 2023
+"340,000 ","6 Athol Street,",HARLAXTON QLD 4350,House,4,1,1,602m² ,02 Dec 2023
+"1,500,000 ","14 Burns Street,",EAST TOOWOOMBA QLD 4350,House,5,4,3,794m² ,01 Dec 2023
+"520,000 ","49 Merino Street,",HARRISTOWN QLD 4350,House,3,1,2,587m² ,01 Dec 2023
+"880,000","34 Fadden Crescent,",MIDDLE RIDGE QLD 4350,House,5,2,2,937m² ,01 Dec 2023
+"619,000 ","2 Park Lane,",TOOWOOMBA CITY QLD 4350,Duplex,4,2,2,455m² ,01 Dec 2023
+"510,000","9 Moore Crescent,",WILSONTON QLD 4350,House,3,1,1,600m² ,01 Dec 2023
+"712,500 ","3 Sardon Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,653m² ,30 Nov 2023
+"455,000 ","12 Arabian Street,",HARRISTOWN QLD 4350,House,4,1,2,607m² ,30 Nov 2023
+"895,000 ","41A Jellicoe Street,",MOUNT LOFTY QLD 4350,House,4,2,2,642m² ,30 Nov 2023
+"816,000 ","41 Boshammer Street,",RANGEVILLE QLD 4350,House,4,2,2,722m² ,30 Nov 2023
+"520,000 ","44 Earhart Street,",WILSONTON QLD 4350,House,3,1,3,646m² ,30 Nov 2023
+"632,500","13 Lila Drive,",COTSWOLD HILLS QLD 4350,House,4,2,2,614m² ,29 Nov 2023
+"549,000 ","1 Shipley Street,",EAST TOOWOOMBA QLD 4350,House,3,1,2,455m² ,29 Nov 2023
+"642,500 ","12 Vacy Street,",NEWTOWN QLD 4350,House,3,1,1,"1,012m² ",29 Nov 2023
+"610,000 ","29 Webb Street,",RANGEVILLE QLD 4350,House,4,1,1,742m² ,29 Nov 2023
+"560,000 ","23 Loudon St,",SOUTH TOOWOOMBA QLD 4350,Duplex,4,2,2,644m² ,29 Nov 2023
+"715,000 ","32 Kellett Drive,",WESTBROOK QLD 4350,House,4,2,2,997m² ,29 Nov 2023
+"485,000 ","9 Cudgee Court,",WILSONTON HEIGHTS QLD 4350,House,3,1,3,630m² ,29 Nov 2023
+"450,000 ","9 Kelly Street,",HARLAXTON QLD 4350,House,3,1,3,696m² ,28 Nov 2023
+"410,000 ","190 Ruthven Street,",NORTH TOOWOOMBA QLD 4350,House,3,2,3,694m² ,2023
+"365,000 ","58 Mort Street,",NORTH TOOWOOMBA QLD 4350,House,3,2,−,556m² ,2023
+"575,000 ","25 Batterbee Street,",RANGEVILLE QLD 4350,House,3,1,2,857m² ,28 Nov 2023
+"596,500 ","13 Dunkley Street,",SOUTH TOOWOOMBA QLD 4350,House,3,2,4,630m² ,28 Nov 2023
+"450,000 ","400 North Street,",WILSONTON QLD 4350,House,3,1,2,632m² ,28 Nov 2023
+"400,000","187 Tor Street,",WILSONTON HEIGHTS QLD 4350,House,3,1,1,640m² ,28 Nov 2023
+"940,000 ","2-6 McKillop Court,",CRANLEY QLD 4350,House,4,2,6,"4,000m² ",27 Nov 2023
+"580,000 ","344 McDougall Street,",GLENVALE QLD 4350,House,4,2,2,675m² ,27 Nov 2023
+"800,000","4 Louttit Court,",GOWRIE MOUNTAIN QLD 4350,House,3,1,2,0,27 Nov 2023
+"695,000 ","404 Mackenzie Street,",MIDDLE RIDGE QLD 4350,House,4,2,2,584m² ,27 Nov 2023
+"515,000 ","70 Crown Street,",RANGEVILLE QLD 4350,House,3,1,1,759m² ,27 Nov 2023
+"408,000 ","29 Welcombe Avenue,",ROCKVILLE QLD 4350,House,3,1,1,668m² ,27 Nov 2023
+"422,500 ","21 Trapp Street,",ROCKVILLE QLD 4350,House,3,1,1,724m² ,27 Nov 2023
+"490,000 ",,SOUTH TOOWOOMBA QLD 4350,House,3,1,2,728m² ,27 Nov 2023
+"505,000 ","3 Moore Crescent,",WILSONTON QLD 4350,House,3,1,1,600m² ,27 Nov 2023
+"570,000 ","22 Sampson Street,",WILSONTON QLD 4350,House,3,1,2,663m² ,26 Nov 2023
+"720,000 ","16 Darling Street,",DRAYTON QLD 4350,House,3,2,4,"2,023m² ",25 Nov 2023
+"423,000",,NORTH TOOWOOMBA QLD 4350,House,3,1,1,495m² ,25 Nov 2023
+"830,000 ","3 Wiangaree Drive,",RANGEVILLE QLD 4350,House,4,2,2,971m² ,25 Nov 2023
+"520,000 ","4 Hazel Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,634m² ,24 Nov 2023
+"467,000 ","20 Knockator Crescent,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,670m² ,24 Nov 2023
+"595,000 ","11 Homestead Avenue,",HARRISTOWN QLD 4350,House,4,2,2,726m² ,24 Nov 2023
+"1,032,000 ","86 Spring Street,",MIDDLE RIDGE QLD 4350,House,5,3,2,600m² ,24 Nov 2023
+"800,000","12 Angus Street,",RANGEVILLE QLD 4350,House,4,2,2,645m² ,24 Nov 2023
+"550,000 ","2-4 Old Wyreema Road,",DRAYTON QLD 4350,House,3,1,3,"2,013m² ",23 Nov 2023
+"425,000 ","75 Drayton Road,",HARRISTOWN QLD 4350,House,3,1,1,607m² ,23 Nov 2023
+"550,000","4 Mason Court,",KEARNEYS SPRING QLD 4350,House,4,1,2,600m² ,23 Nov 2023
+"730,000 ",,MIDDLE RIDGE QLD 4350,House,4,2,3,600m² ,23 Nov 2023
+"515,000 ","7 Louisa Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,615m² ,23 Nov 2023
+"562,000",,TOP CAMP QLD 4350,House,3,1,2,"4,396m² ",23 Nov 2023
+"500,000 ","296 Alderley Street,",CENTENARY HEIGHTS QLD 4350,House,2,1,1,645m² ,22 Nov 2023
+"660,000","235 Greenwattle Street,",CRANLEY QLD 4350,House,4,2,2,523m² ,22 Nov 2023
+"830,000 ","19 Mckillop Court,",CRANLEY QLD 4350,House,5,3,4,"4,683m² ",22 Nov 2023
+"700,000 ","5 Myora Close,",DARLING HEIGHTS QLD 4350,House,4,2,2,662m² ,22 Nov 2023
+"650,000 ","7 Lavarack Street,",DARLING HEIGHTS QLD 4350,House,4,2,2,680m² ,22 Nov 2023
+"1,010,000 ","40 Eleanor Street,",EAST TOOWOOMBA QLD 4350,House,3,2,2,373m² ,22 Nov 2023
+"1,178,000","12 Dalston Court,",MOUNT LOFTY QLD 4350,House,4,2,2,"1,002m² ",22 Nov 2023
+"552,000 ","6 Joann Court,",RANGEVILLE QLD 4350,House,3,1,2,587m² ,22 Nov 2023
+"865,000 ","8 Falconer Court,",RANGEVILLE QLD 4350,House,4,2,2,759m² ,22 Nov 2023
+"485,000 ","26 Belcher Drive,",GLENVALE QLD 4350,House,3,1,2,917m² ,21 Nov 2023
+"575,000","17 Balonne Drive,",GLENVALE QLD 4350,House,3,2,2,537m² ,21 Nov 2023
+"875,000 ","6 Meares Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,612m² ,21 Nov 2023
+"515,000 ","50 Blue Gum Drive,",NEWTOWN QLD 4350,House,3,1,2,600m² ,21 Nov 2023
+"415,000 ","40 Holberton Street,",ROCKVILLE QLD 4350,House,3,1,1,650m² ,21 Nov 2023
+"380,000 ","90 Vanity Street,",ROCKVILLE QLD 4350,House,3,1,1,572m² ,21 Nov 2023
+"485,000 ","36 Kingsford Smith Drive,",WILSONTON QLD 4350,House,3,1,2,600m² ,21 Nov 2023
+"675,000 ","37 Llewellyn Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,"1,012m² ",20 Nov 2023
+"622,000 ","67 Knockator Crescent,",CENTENARY HEIGHTS QLD 4350,House,4,1,2,880m² ,20 Nov 2023
+"543,000 ","268 Alderley Street,",CENTENARY HEIGHTS QLD 4350,House,4,1,4,802m² ,20 Nov 2023
+"599,400 ","14 Bond Court,",DARLING HEIGHTS QLD 4350,House,4,2,4,875m² ,20 Nov 2023
+"485,000 ","634 Boundary Street,",GLENVALE QLD 4350,House,3,2,1,510m² ,20 Nov 2023
+"497,000 ","577 Greenwattle Street,",GLENVALE QLD 4350,House,3,1,1,600m² ,20 Nov 2023
+"570,000 ","27 Kratzmann Court,",KEARNEYS SPRING QLD 4350,House,3,2,1,640m² ,20 Nov 2023
+"518,000 ","3 Bunya Street,",KEARNEYS SPRING QLD 4350,House,3,1,1,571m² ,20 Nov 2023
+"933,500 ","15 Bootes Street,",KEARNEYS SPRING QLD 4350,House,4,2,3,646m² ,20 Nov 2023
+"745,000 ","176 Kearney,",KEARNEYS SPRING QLD 4350,House,4,2,2,616m² ,20 Nov 2023
+"450,000 ","150 North Street,",NORTH TOOWOOMBA QLD 4350,House,2,1,3,604m² ,20 Nov 2023
+"458,500","1A Edward Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,506m² ,20 Nov 2023
+"705,000","14 Cranley Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,948m² ,20 Nov 2023
+"455,000","21 Nellie Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,600m² ,2023
+"575,000","265 Alderley Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,697m² ,
+"675,000 ","144 Spring Street,",MIDDLE RIDGE QLD 4350,House,4,2,2,618m² ,17 Nov 2023
+"1,390,000 ","330 Prince Henry Drive,",PRINCE HENRY HEIGHTS QLD 4350,House,4,3,4,"1,055m² ",17 Nov 2023
+"862,500 ","196 Geddes Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,2,657m² ,17 Nov 2023
+"490,000 ","7 Diane Court,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,561m² ,16 Nov 2023
+"606,000","23 Nash Drive,",GLENVALE QLD 4350,House,4,2,2,500m² ,16 Nov 2023
+"500,000 ","6 Rutkin Street,",KEARNEYS SPRING QLD 4350,House,3,1,1,720m² ,16 Nov 2023
+"332,000 ","105 Anzac Avenue,",NEWTOWN QLD 4350,House,3,1,1,572m² ,16 Nov 2023
+"760,000",,RANGEVILLE QLD 4350,House,4,1,2,815m² ,16 Nov 2023
+"420,000 ","717A Ruthven Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,534m² ,16 Nov 2023
+"1,450,000 ","198 Postle Street,",MOUNT RASCAL QLD 4350,House,4,2,6,"4,004m² ",15 Nov 2023
+"800,000 ","73 Long Street,",RANGEVILLE QLD 4350,House,4,2,2,513m² ,15 Nov 2023
+"749,990 ","48 Long Street,",RANGEVILLE QLD 4350,House,3,1,2,"1,110m² ",15 Nov 2023
+"635,200 ","4 Opal Street,",GLENVALE QLD 4350,House,4,2,2,601m² ,2023
+"680,000 ","3 Lockhart Court,",HARRISTOWN QLD 4350,House,3,2,3,"1,176m² ",14 Nov 2023
+"200,100 ","151 Anzac Avenue,",HARRISTOWN QLD 4350,House,3,1,1,577m² ,2023
+"770,000 ","11 Walls Drive,",KEARNEYS SPRING QLD 4350,House,4,2,4,950m² ,14 Nov 2023
+"715,000 ","46 Loveday Street,",RANGEVILLE QLD 4350,House,5,2,2,774m² ,14 Nov 2023
+"575,000","45 Drummond Street,",RANGEVILLE QLD 4350,House,3,1,3,759m² ,14 Nov 2023
+"516,500 ","25a Haig Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,506m² ,14 Nov 2023
+"380,000 ","5 Dunkley Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,630m² ,2023
+"370,000 ","8 Wilmot Street,",SOUTH TOOWOOMBA QLD 4350,House,2,1,1,539m² ,2023
+"770,000 ","158 Long Street,",SOUTH TOOWOOMBA QLD 4350,House,5,2,2,822m² ,14 Nov 2023
+"513,000 ","7 Moore Crescent,",WILSONTON QLD 4350,House,3,1,1,600m² ,14 Nov 2023
+"732,888 ","20 Ravenscourt Street,",CENTENARY HEIGHTS QLD 4350,House,5,2,2,613m² ,13 Nov 2023
+"1,200,000 ","27B Nugent Pinch Road,",COTSWOLD HILLS QLD 4350,House,4,2,8,"4,009m² ",13 Nov 2023
+"670,000 ","20 Dunmore Street,",EAST TOOWOOMBA QLD 4350,House,3,1,2,439m² ,13 Nov 2023
+"580,000","22 Dawn Drive,",GLENVALE QLD 4350,House,4,2,2,410m² ,13 Nov 2023
+"420,000 ","2/7 Taragon Street,",GLENVALE QLD 4350,Duplex,3,2,1,132m² ,13 Nov 2023
+"556,000 ","14 Panda Street,",HARRISTOWN QLD 4350,House,4,1,4,668m² ,13 Nov 2023
+"630,000 ","363 Spring Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,700m² ,13 Nov 2023
+"605,000 ","18 Sourris Street,",MOUNT LOFTY QLD 4350,House,3,1,2,637m² ,13 Nov 2023
+"665,000 ",,RANGEVILLE QLD 4350,House,4,2,2,689m² ,13 Nov 2023
+"662,000 ","10 High Street,",RANGEVILLE QLD 4350,House,3,1,1,733m² ,13 Nov 2023
+"473,000",,SOUTH TOOWOOMBA QLD 4350,House,5,1,1,460m² ,13 Nov 2023
+"385,000 ","336 Bridge Street,",WILSONTON QLD 4350,House,2,1,1,931m² ,13 Nov 2023
+"449,000 ","19 Loudon Street,",SOUTH TOOWOOMBA QLD 4350,House,2,1,1,405m² ,11 Nov 2023
+"515,000",,DARLING HEIGHTS QLD 4350,House,5,1,−,701m² ,10 Nov 2023
+"610,000 ","8 Ware Court,",DARLING HEIGHTS QLD 4350,House,4,2,2,600m² ,10 Nov 2023
+"855,000 ","56 Velodrome Drive,",KEARNEYS SPRING QLD 4350,House,4,2,3,664m² ,10 Nov 2023
+"1,650,000 ","129 Spring Street,",MIDDLE RIDGE QLD 4350,House,4,4,4,"3,564m² ",10 Nov 2023
+"820,000","12 Llanwynne Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,"1,062m² ",10 Nov 2023
+"895,000 ","57 Mary Street,",MOUNT LOFTY QLD 4350,House,4,2,2,500m² ,10 Nov 2023
+"493,000 ","44 Cleary Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,844m² ,09 Nov 2023
+"830,000 ","31 Dandelion Drive,",MIDDLE RIDGE QLD 4350,House,4,2,3,"1,200m² ",09 Nov 2023
+"908,000 ","23 Fadden Crescent,",MIDDLE RIDGE QLD 4350,House,4,2,2,740m² ,09 Nov 2023
+"600,000 ","133A West Street,",NEWTOWN QLD 4350,House,5,2,2,784m² ,09 Nov 2023
+"1,120,000 ","12 Jubilee Court,",PRINCE HENRY HEIGHTS QLD 4350,House,6,3,2,"1,082m² ",09 Nov 2023
+"570,000 ","154 Tor Street,",ROCKVILLE QLD 4350,House,4,2,2,540m² ,09 Nov 2023
+"495,000 ","35 Priest Street,",ROCKVILLE QLD 4350,House,3,1,1,685m² ,09 Nov 2023
+"780,000","239-241 Hursley Road,",TORRINGTON QLD 4350,House,4,1,2,"24,600m² ",09 Nov 2023
+"420,000 ","2 Fitzpatrick Street,",WILSONTON QLD 4350,House,3,1,1,582m² ,09 Nov 2023
+"1,270,000 ","11 John Court,",COTSWOLD HILLS QLD 4350,House,5,2,5,"4,570m² ",08 Nov 2023
+"689,000 ","25 Eucalyptus Drive,",DARLING HEIGHTS QLD 4350,House,4,2,2,815m² ,08 Nov 2023
+"813,000","18 Girrawheen Street,",RANGEVILLE QLD 4350,House,4,2,2,681m² ,08 Nov 2023
+"565,000 ","32 Parsons Street,",RANGEVILLE QLD 4350,House,3,1,2,680m² ,08 Nov 2023
+"710,000 ","25 Meibusch Street,",RANGEVILLE QLD 4350,House,4,2,2,617m² ,08 Nov 2023
+"550,000 ","5 Allom Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,810m² ,08 Nov 2023
+"530,000 ","44 Sanctuary Drive,",CRANLEY QLD 4350,House,3,2,2,389m² ,07 Nov 2023
+"595,000 ","92 Luck Street,",DRAYTON QLD 4350,House,5,3,5,957m² ,07 Nov 2023
+"514,500 ","6 Beelbee Street,",HARRISTOWN QLD 4350,House,3,1,1,508m² ,07 Nov 2023
+"1,650,000 ","70 Mackenzie Street,",MOUNT LOFTY QLD 4350,House,4,2,2,"2,133m² ",07 Nov 2023
+"508,000 ","6 Jimbour Drive,",NEWTOWN QLD 4350,House,3,1,2,750m² ,07 Nov 2023
+"573,000 ","171 Russell Street,",NEWTOWN QLD 4350,House,4,1,1,529m² ,07 Nov 2023
+"565,000 ","61 High Street,",RANGEVILLE QLD 4350,House,3,1,2,716m² ,07 Nov 2023
+"505,000 ","9 Bulloo Street,",GLENVALE QLD 4350,House,3,1,2,512m² ,06 Nov 2023
+"440,000 ",,HARRISTOWN QLD 4350,House,5,1,2,678m² ,06 Nov 2023
+"796,000 ","137 Nelson Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,670m² ,06 Nov 2023
+"385,000 ","4 Higgins Street,",NEWTOWN QLD 4350,House,3,1,2,698m² ,06 Nov 2023
+"395,000 ","144 Ruthven Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,4,529m² ,06 Nov 2023
+"586,000 ","5 Hampshire Street,",NORTH TOOWOOMBA QLD 4350,House,4,2,1,411m² ,06 Nov 2023
+"885,000 ","3 Sydenham Court,",RANGEVILLE QLD 4350,House,3,2,3,800m² ,06 Nov 2023
+"376,000 ",,ROCKVILLE QLD 4350,House,3,1,1,508m² ,06 Nov 2023
+"950,000 ","151 Perth Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,2,501m² ,06 Nov 2023
+"350,000 ","278 Long Street,",SOUTH TOOWOOMBA QLD 4350,House,2,1,1,625m² ,06 Nov 2023
+"1,300,000 ","15 Cottesloe Street,",EAST TOOWOOMBA QLD 4350,House,4,2,2,624m² ,2023
+"785,000 ","17 Knight Street,",NORTH TOOWOOMBA QLD 4350,House,4,2,1,794m² ,04 Nov 2023
+"560,000 ","52 Sardon Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,2,680m² ,03 Nov 2023
+"493,000 ","257 Mackenzie Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,556m² ,03 Nov 2023
+"940,000 ","36 Ora Lane,",EAST TOOWOOMBA QLD 4350,House,3,2,2,304m² ,03 Nov 2023
+"545,000 ","18 Wildcard Drive,",GLENVALE QLD 4350,House,4,2,2,532m² ,03 Nov 2023
+"475,000","50 Drayton Road,",HARRISTOWN QLD 4350,House,3,1,2,809m² ,03 Nov 2023
+"520,000","44 Arabian Street,",HARRISTOWN QLD 4350,House,3,2,3,696m² ,03 Nov 2023
+"835,000 ","51 Velodrome Drive,",KEARNEYS SPRING QLD 4350,House,4,2,2,691m² ,03 Nov 2023
+"1,750,000","3 Nielsen Court,",MIDDLE RIDGE QLD 4350,House,4,3,3,"4,092m² ",03 Nov 2023
+"530,000 ","18 Prospect Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,688m² ,03 Nov 2023
+"470,000","13 Gordon Avenue,",ROCKVILLE QLD 4350,House,3,2,2,521m² ,03 Nov 2023
+"715,000 ","30 Shoesmith Road,",WESTBROOK QLD 4350,House,4,2,4,"1,091m² ",03 Nov 2023
+"465,000 ","4 Maison Court,",WILSONTON HEIGHTS QLD 4350,House,3,1,3,670m² ,03 Nov 2023
+"950,000 ","246 Hermitage Road,",CRANLEY QLD 4350,House,4,1,6,"34,681m² ",02 Nov 2023
+"585,000 ",,EAST TOOWOOMBA QLD 4350,House,3,1,2,536m² ,02 Nov 2023
+"548,000 ","16B Mabel Street,",HARLAXTON QLD 4350,House,3,1,4,"1,007m² ",02 Nov 2023
+"417,000 ","24 Batch Court,",HARRISTOWN QLD 4350,House,4,3,2,636m² ,02 Nov 2023
+"892,000 ","9 Eadie Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,607m² ,02 Nov 2023
+"571,641 ","9 Gouldson Drive,",KEARNEYS SPRING QLD 4350,House,3,1,2,600m² ,02 Nov 2023
+"2,150,000 ","4 Glencoe Court,",MIDDLE RIDGE QLD 4350,House,5,2,2,"4,363m² ",02 Nov 2023
+"623,000 ","5 Gladstone Street,",NEWTOWN QLD 4350,House,3,3,2,780m² ,02 Nov 2023
+"623,000 ","5 Gladstone Street,",NEWTOWN QLD 4350,House,3,3,2,780m² ,02 Nov 2023
+"1,030,000 ","13 Wiangaree Drive,",RANGEVILLE QLD 4350,House,4,2,2,"1,031m² ",02 Nov 2023
+"650,000",,BLUE MOUNTAIN HEIGHTS QLD 4350,House,3,2,4,"1,279m² ",01 Nov 2023
+"1,200,000 ","27B Nugent Pinch Road,",COTSWOLD HILLS QLD 4350,House,4,2,8,"4,009m² ",01 Nov 2023
+"577,000 ","16 Sophia Crescent,",COTSWOLD HILLS QLD 4350,House,4,2,2,673m² ,01 Nov 2023
+"1,510,000 ","15 Connell Street,",EAST TOOWOOMBA QLD 4350,House,5,2,4,"1,065m² ",01 Nov 2023
+"520,000 ","11 Drayton Road,",HARRISTOWN QLD 4350,House,3,1,3,724m² ,01 Nov 2023
+"955,000 ","159 Spring Street,",MIDDLE RIDGE QLD 4350,House,3,2,2,"1,101m² ",01 Nov 2023
+"565,000 ","3 Bauhinia Court,",RANGEVILLE QLD 4350,House,3,1,2,703m² ,01 Nov 2023
+"580,000 ","2a Plant Street,",RANGEVILLE QLD 4350,House,3,1,1,584m² ,01 Nov 2023
+"483,000 ","23 Stephen Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,759m² ,01 Nov 2023
+"485,000 ","14 Melita Crescent,",WILSONTON HEIGHTS QLD 4350,House,3,1,2,660m² ,01 Nov 2023
+"703,000 ","2 Storey Street,",CENTENARY HEIGHTS QLD 4350,Duplex,5,3,2,785m² ,31 Oct 2023
+"555,000 ","6 Henry Street,",MOUNT LOFTY QLD 4350,House,3,2,2,536m² ,31 Oct 2023
+"354,000 ","12 McWaters Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,519m² ,31 Oct 2023
+"785,000 ","6 Throwleigh Close,",RANGEVILLE QLD 4350,House,4,2,2,808m² ,31 Oct 2023
+"960,000 ","19 Meredith Crescent,",RANGEVILLE QLD 4350,House,4,2,2,879m² ,31 Oct 2023
+"510,000 ","102 James Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,2,473m² ,31 Oct 2023
+"760,000 ","15 Bronte Street,",WESTBROOK QLD 4350,House,3,2,2,"1,204m² ",31 Oct 2023
+"600,000 ","26 Smart Drive,",DARLING HEIGHTS QLD 4350,House,4,3,2,671m² ,30 Oct 2023
+"570,000 ","22 Brangus Street,",HARRISTOWN QLD 4350,House,4,1,3,607m² ,30 Oct 2023
+"650,000 ","15 Beer Court,",KEARNEYS SPRING QLD 4350,House,5,3,−,658m² ,30 Oct 2023
+"795,000 ","3 Bouganvillea Drive,",MIDDLE RIDGE QLD 4350,House,4,2,2,683m² ,30 Oct 2023
+"555,000 ","55 Rowbotham Street,",RANGEVILLE QLD 4350,House,3,1,1,582m² ,30 Oct 2023
+"910,000 ","1 Kestrel Court,",RANGEVILLE QLD 4350,House,4,2,2,649m² ,30 Oct 2023
+"730,000 ","73 Perth Street,",RANGEVILLE QLD 4350,House,5,2,3,769m² ,30 Oct 2023
+"705,000 ","91A Perth Street,",SOUTH TOOWOOMBA QLD 4350,House,4,2,2,641m² ,30 Oct 2023
+"355,000 ","41 Yalumba Crescent,",WILSONTON HEIGHTS QLD 4350,House,3,1,1,600m² ,30 Oct 2023
+"590,000 ","38 Seaton Street,",SOUTH TOOWOOMBA QLD 4350,House,4,1,1,546m² ,29 Oct 2023
+"627,000 ","234 Geddes Street,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,493m² ,27 Oct 2023
+"500,000 ",,DARLING HEIGHTS QLD 4350,House,3,1,1,600m² ,27 Oct 2023
+"2,250,000 ","22 Dunmore Street,",EAST TOOWOOMBA QLD 4350,House,5,3,2,880m² ,27 Oct 2023
+"500,000 ","444 Alderley Street,",HARRISTOWN QLD 4350,House,3,1,1,814m² ,27 Oct 2023
+"440,000","9 Lister Street,",HARRISTOWN QLD 4350,House,3,1,3,883m² ,27 Oct 2023
+"432,500 ","9 Shennan Street,",HARRISTOWN QLD 4350,House,3,1,1,"1,012m² ",27 Oct 2023
+"1,820,000 ","10a Simla Street,",MOUNT LOFTY QLD 4350,House,4,2,2,720m² ,27 Oct 2023
+"572,500 ","31 Naranga Street,",RANGEVILLE QLD 4350,House,3,1,2,576m² ,27 Oct 2023
+"565,000 ","51 Kurrawa Crescent,",GLENVALE QLD 4350,House,4,2,2,522m² ,26 Oct 2023
+"540,000 ","3 Comet Close,",GLENVALE QLD 4350,House,3,2,2,600m² ,26 Oct 2023
+"10,255,000 ","10 Dippel Street,",MIDDLE RIDGE QLD 4350,House,4,2,2,"4,003m² ",26 Oct 2023
+"457,000 ","212 Campbell Street,",NEWTOWN QLD 4350,House,2,1,1,850m² ,26 Oct 2023
+"605,000","12 Girrawheen Street,",RANGEVILLE QLD 4350,House,4,2,1,607m² ,26 Oct 2023
+"620,000 ","52 Noll St,",KEARNEYS SPRING QLD 4350,Duplex,5,2,2,741m² ,25 Oct 2023
+"655,000 ","19 Oldfield St,",MIDDLE RIDGE QLD 4350,House,3,2,2,680m² ,25 Oct 2023
+"475,000 ","9 Cumming Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,5,"1,214m² ",25 Oct 2023
+"550,000 ","16 Mansford Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,3,"1,300m² ",25 Oct 2023
+"780,000 ","11 Sommariva Street,",WESTBROOK QLD 4350,House,5,2,4,"1,200m² ",25 Oct 2023
+"591,000 ","11 Stoneyhurst Court,",GLENVALE QLD 4350,House,4,2,4,600m² ,24 Oct 2023
+"715,000 ","4 La Vista Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,671m² ,24 Oct 2023
+"485,000 ","235 Hume Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,653m² ,24 Oct 2023
+"510,500 ","15 Blueberry Ash Court,",GLENVALE QLD 4350,House,3,1,1,600m² ,23 Oct 2023
+"355,000 ","253 West St,",HARRISTOWN QLD 4350,House,3,1,2,506m² ,23 Oct 2023
+"550,000 ","8 Riethmuller Street,",KEARNEYS SPRING QLD 4350,House,4,1,2,600m² ,23 Oct 2023
+"830,000 ","144-146 Nelson Street,",KEARNEYS SPRING QLD 4350,House,4,2,3,"4,047m² ",23 Oct 2023
+"545,000 ","4 Sapphire Court,",KEARNEYS SPRING QLD 4350,House,4,1,2,608m² ,23 Oct 2023
+"1,465,000","11 Bonville Court,",MIDDLE RIDGE QLD 4350,House,5,3,4,"1,088m² ",23 Oct 2023
+"805,000 ","6 Jake Ct,",MIDDLE RIDGE QLD 4350,House,4,2,3,601m² ,23 Oct 2023
+"625,000 ","13 Loveday Street,",RANGEVILLE QLD 4350,House,3,1,3,718m² ,23 Oct 2023
+"445,000 ","30 Gowrie Street,",TOOWOOMBA CITY QLD 4350,House,3,1,−,228m² ,23 Oct 2023
+"660,000 ","37 Sommariva Street,",WESTBROOK QLD 4350,House,5,2,3,901m² ,23 Oct 2023
+"470,000","384 North Street,",WILSONTON QLD 4350,House,3,1,2,749m² ,23 Oct 2023
+"520,000 ","16 Scheske Street,",WILSONTON QLD 4350,House,4,2,2,850m² ,23 Oct 2023
+"451,000 ","24 Blackdown Street,",HARRISTOWN QLD 4350,House,3,2,4,"1,004m² ",20 Oct 2023
+"625,000 ","6 Gundry Court,",KEARNEYS SPRING QLD 4350,House,4,2,5,708m² ,20 Oct 2023
+"1,200,000 ","12A Mary Street,",MOUNT LOFTY QLD 4350,House,5,2,2,632m² ,20 Oct 2023
+"490,000 ","148 Holberton Street,",NEWTOWN QLD 4350,House,3,1,1,809m² ,20 Oct 2023
+"630,000","2 Saratoga Close,",WILSONTON QLD 4350,House,5,2,4,915m² ,20 Oct 2023
+"465,000 ","68 Ramsay Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,792m² ,19 Oct 2023
+"660,000 ","15 Queen Street,",EAST TOOWOOMBA QLD 4350,House,3,1,1,576m² ,19 Oct 2023
+"765,000 ","25 Ipswich Street,",EAST TOOWOOMBA QLD 4350,House,4,2,2,673m² ,19 Oct 2023
+"725,000 ","22 Jean Street,",HARRISTOWN QLD 4350,House,4,2,2,"1,308m² ",19 Oct 2023
+"491,000","3 Eileen Street,",HARRISTOWN QLD 4350,House,3,1,2,690m² ,19 Oct 2023
+"412,000 ","19 Boyes Street,",HARRISTOWN QLD 4350,House,3,2,2,602m² ,19 Oct 2023
+"870,000 ","11 Eadie Street,",KEARNEYS SPRING QLD 4350,House,5,2,2,591m² ,19 Oct 2023
+"472,500 ","109 Taylor Street,",NEWTOWN QLD 4350,House,3,1,2,584m² ,19 Oct 2023
+"390,000",,HARRISTOWN QLD 4350,House,3,1,2,620m² ,18 Oct 2023
+"1,223,000","18a Simla Street,",MOUNT LOFTY QLD 4350,House,4,2,2,500m² ,18 Oct 2023
+"545,000 ","18 Faith Street,",RANGEVILLE QLD 4350,House,3,1,1,729m² ,18 Oct 2023
+"460,000 ","14 Beryl Street,",WILSONTON QLD 4350,House,3,1,1,607m² ,18 Oct 2023
+"696,000 ","12 Jull Drive,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,716m² ,2023
+"515,000 ","13 Gloucester Crescent,",DARLING HEIGHTS QLD 4350,House,3,1,1,616m² ,17 Oct 2023
+"475,000 ","9 Honeysuckle Drive,",GLENVALE QLD 4350,House,3,1,2,643m² ,17 Oct 2023
+"850,000 ","16 Carolann Street,",GLENVALE QLD 4350,House,4,2,6,"4,268m² ",17 Oct 2023
+"1,325,000 ","8 Paringa Close,",MIDDLE RIDGE QLD 4350,House,4,2,3,"1,231m² ",2023
+"970,000 ","1 Vanham Close,",MIDDLE RIDGE QLD 4350,House,4,2,2,606m² ,17 Oct 2023
+"1,000,000 ","269 - 271 Ramsay Street,",MIDDLE RIDGE QLD 4350,House,3,1,3,"2,706m² ",17 Oct 2023
+"535,000 ","8 Geisel Street,",RANGEVILLE QLD 4350,House,2,1,2,564m² ,2023
+"720,000","40 Basset Crescent,",TORRINGTON QLD 4350,House,4,2,2,"3,035m² ",17 Oct 2023
+"590,000 ","56 Skehan Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,617m² ,16 Oct 2023
+"850,000 ","6 Messines Street,",HARLAXTON QLD 4350,House,4,2,2,"2,771m² ",16 Oct 2023
+"700,000 ","52 Gouldson Drive,",KEARNEYS SPRING QLD 4350,House,4,2,4,675m² ,16 Oct 2023
+"427,500 ","25 Hinkler Crescent,",WILSONTON QLD 4350,House,4,1,2,600m² ,16 Oct 2023
+"427,500 ","25 Hinkler Crescent,",WILSONTON QLD 4350,House,4,1,2,600m² ,16 Oct 2023
+"986,000","5 Grandview Crescent,",BLUE MOUNTAIN HEIGHTS QLD 4350,House,4,3,2,"2,418m² ",14 Oct 2023
+"540,000 ","5 Skehan Street,",CENTENARY HEIGHTS QLD 4350,House,3,2,2,579m² ,13 Oct 2023
+"500,000 ","26 Leichhardt Street,",CENTENARY HEIGHTS QLD 4350,House,3,2,1,610m² ,13 Oct 2023
+"415,000 ","20 Belcher Drive,",GLENVALE QLD 4350,House,4,2,2,760m² ,13 Oct 2023
+"545,000 ","13 Behland Street,",KEARNEYS SPRING QLD 4350,House,3,1,3,654m² ,13 Oct 2023
+"900,500 ","105 Hill St,",NEWTOWN QLD 4350,House,5,3,2,"1,103m² ",13 Oct 2023
+"1,000,000 ","21 Rodway Crescent,",RANGEVILLE QLD 4350,House,5,2,2,895m² ,13 Oct 2023
+"418,000 ","19 Peel Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,1,612m² ,13 Oct 2023
+"750,000 ","10 Edwin Street,",WESTBROOK QLD 4350,House,4,2,4,"1,378m² ",13 Oct 2023
+"1,600,000 ","1A Video Avenue,",MOUNT LOFTY QLD 4350,House,4,1,2,"11,400m² ",12 Oct 2023
+"510,000 ","82 Rowbotham Street,",RANGEVILLE QLD 4350,House,3,1,1,599m² ,12 Oct 2023
+"765,000 ","23 Meibusch Street,",RANGEVILLE QLD 4350,Duplex,4,2,2,617m² ,12 Oct 2023
+"615,000 ","10 Amy Court,",WESTBROOK QLD 4350,House,4,2,4,"1,828m² ",12 Oct 2023
+"365,000 ","43 Marsala Court,",WILSONTON HEIGHTS QLD 4350,House,3,1,1,998m² ,12 Oct 2023
+"692,000 ","7 Fern Drive,",KEARNEYS SPRING QLD 4350,House,4,2,2,696m² ,11 Oct 2023
+"1,151,000 ","93 Hume Street,",TOOWOOMBA CITY QLD 4350,House,4,2,2,898m² ,11 Oct 2023
+"630,000 ","34 Sommariva Street,",WESTBROOK QLD 4350,House,4,2,4,"1,043m² ",11 Oct 2023
+"727,000 ","30 Wandoo Crescent,",WESTBROOK QLD 4350,House,4,2,2,751m² ,11 Oct 2023
+"636,500 ","19 Cherokee Drive,",WILSONTON QLD 4350,House,4,2,2,830m² ,11 Oct 2023
+"515,000 ","6 Erica Court,",WILSONTON HEIGHTS QLD 4350,House,3,1,4,681m² ,11 Oct 2023
+"550,000 ","27 Wuth Street,",DARLING HEIGHTS QLD 4350,House,3,1,4,604m² ,10 Oct 2023
+"566,000 ","7 Daranlee Court,",EAST TOOWOOMBA QLD 4350,House,3,2,2,736m² ,10 Oct 2023
+"460,880 ","16 Liquidambar Street,",GLENVALE QLD 4350,House,3,1,1,601m² ,10 Oct 2023
+"1,300,000 ","68 Spring Street,",MIDDLE RIDGE QLD 4350,House,5,3,2,"1,575m² ",10 Oct 2023
+"575,000 ","22 Henderson Street,",NEWTOWN QLD 4350,House,3,1,2,622m² ,10 Oct 2023
+"825,000 ","25 Mina Street,",RANGEVILLE QLD 4350,House,3,2,2,"1,002m² ",10 Oct 2023
+"625,000 ","5 Maker Street,",RANGEVILLE QLD 4350,House,3,1,2,604m² ,10 Oct 2023
+"895,000 ","45 Grenier Street,",TOOWOOMBA CITY QLD 4350,House,4,3,2,604m² ,10 Oct 2023
+"500,000",,WILSONTON HEIGHTS QLD 4350,House,3,1,2,640m² ,10 Oct 2023
+"576,000 ","14 Irving Court,",HARLAXTON QLD 4350,House,3,2,1,387m² ,09 Oct 2023
+"520,000 ",,HARRISTOWN QLD 4350,House,3,2,2,726m² ,09 Oct 2023
+"737,000 ","31 Elizabeth Street,",WESTBROOK QLD 4350,House,4,2,2,"1,016m² ",09 Oct 2023
+"515,000","8 GREENWOOD COURT,",DARLING HEIGHTS QLD 4350,House,3,1,1,887m² ,
+"601,000 ","57 Knockator Crescent,",CENTENARY HEIGHTS QLD 4350,House,4,2,2,670m² ,06 Oct 2023
+"600,000 ","7 Bryan Street,",DARLING HEIGHTS QLD 4350,House,3,2,1,610m² ,06 Oct 2023
+"572,500 ","31 Sunset Drive,",GLENVALE QLD 4350,House,4,2,2,528m² ,06 Oct 2023
+"575,000 ","25 Cardamon Crescent,",GLENVALE QLD 4350,House,4,2,2,509m² ,06 Oct 2023
+"1,600,000 ","23 Harvey Road,",GLENVALE QLD 4350,House,5,3,8,"4,012m² ",06 Oct 2023
+"1,650,000 ","15 Spring Street,",MIDDLE RIDGE QLD 4350,House,4,3,3,"4,959m² ",06 Oct 2023
+"450,000 ","8 Wolseley Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,536m² ,06 Oct 2023
+"567,000 ","292 Hume Street,",CENTENARY HEIGHTS QLD 4350,House,3,2,1,835m² ,05 Oct 2023
+"493,000 ","3 Westbrook Street,",NEWTOWN QLD 4350,House,3,1,2,631m² ,05 Oct 2023
+"440,000 ","43 Wyalla Street,",NEWTOWN QLD 4350,House,3,1,2,667m² ,05 Oct 2023
+"505,000 ","592 Greenwattle Street,",NEWTOWN QLD 4350,House,3,1,1,642m² ,05 Oct 2023
+"455,000","14 Angus Street,",RANGEVILLE QLD 4350,House,3,1,2,645m² ,05 Oct 2023
+"327,000 ","81 Vanity Street,",ROCKVILLE QLD 4350,House,3,1,2,599m² ,05 Oct 2023
+"479,000 ","11 Dalgleish Street,",SOUTH TOOWOOMBA QLD 4350,House,3,1,3,612m² ,05 Oct 2023
+"460,000 ",,WILSONTON QLD 4350,House,3,1,1,592m² ,05 Oct 2023
+"510,000 ","15 Evergreen Court,",GLENVALE QLD 4350,House,3,2,2,600m² ,04 Oct 2023
+"525,000 ","23 Arabian Street,",HARRISTOWN QLD 4350,House,3,1,1,604m² ,04 Oct 2023
+"620,000 ","330 Spring Street,",KEARNEYS SPRING QLD 4350,Duplex,4,2,2,823m² ,04 Oct 2023
+"650,000","202 Spring Street,",MIDDLE RIDGE QLD 4350,House,5,2,2,675m² ,04 Oct 2023
+"870,000 ","15 Kellett Drive,",WESTBROOK QLD 4350,House,4,2,8,"1,118m² ",04 Oct 2023
+"565,000 ","18 Catalina Drive,",WILSONTON QLD 4350,House,4,2,2,650m² ,04 Oct 2023
+"597,000 ","6 McNamara Street,",CENTENARY HEIGHTS QLD 4350,House,3,1,1,607m² ,03 Oct 2023
+"580,000 ","7 Grace View Street,",DARLING HEIGHTS QLD 4350,House,4,2,2,637m² ,03 Oct 2023
+"600,000",,DARLING HEIGHTS QLD 4350,House,6,2,2,652m² ,03 Oct 2023
+"540,000 ","139 Gorman Street,",DARLING HEIGHTS QLD 4350,House,3,1,1,687m² ,03 Oct 2023
+"482,000 ","2A Parker Street,",DRAYTON QLD 4350,House,3,1,−,581m² ,03 Oct 2023
+"520,000 ","21 Satinwood Court,",GLENVALE QLD 4350,House,4,2,1,572m² ,03 Oct 2023
+"415,000 ","6 Gostwyck Street,",NEWTOWN QLD 4350,House,3,1,−,350m² ,03 Oct 2023
+"550,000 ","3 Banksia Street,",NEWTOWN QLD 4350,House,4,2,2,600m² ,2023
+"520,000 ","3 Henderson Street,",NEWTOWN QLD 4350,House,4,2,2,731m² ,2023
+"675,000 ","113A Stuart Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,506m² ,03 Oct 2023
+"372,000 ","14 Festival Street,",ROCKVILLE QLD 4350,House,3,1,1,713m² ,2023
+"490,000 ","9 Boyd Street,",WILSONTON QLD 4350,House,3,2,1,660m² ,03 Oct 2023
+"536,600 ","10 Saratoga Close,",WILSONTON QLD 4350,House,3,2,2,645m² ,03 Oct 2023
+"465,000 ","362 Greenwattle Street,",WILSONTON QLD 4350,House,3,1,1,607m² ,03 Oct 2023
+"453,000 ","16 Matthews St,",HARRISTOWN QLD 4350,House,2,1,5,690m² ,29 Sep 2023
+"761,000","3 Meares Street,",KEARNEYS SPRING QLD 4350,House,4,2,2,638m² ,29 Sep 2023
+"475,000 ","35 Broadfoot Street,",KEARNEYS SPRING QLD 4350,House,3,1,2,600m² ,29 Sep 2023
+"740,000 ","24 Bothwell Street,",NEWTOWN QLD 4350,House,5,2,2,"1,083m² ",29 Sep 2023
+"829,000 ","26 Mcleod Street,",RANGEVILLE QLD 4350,House,4,2,2,956m² ,29 Sep 2023
+"930,000","2 Charlton Pinch Road,",TORRINGTON QLD 4350,House,4,2,2,"4,001m² ",29 Sep 2023
+"770,000","2 Juniper Court,",DARLING HEIGHTS QLD 4350,House,3,2,4,793m² ,28 Sep 2023
+"980,000 ",,EAST TOOWOOMBA QLD 4350,House,3,2,2,842m² ,28 Sep 2023
+"580,000 ","18 Taragon Street,",GLENVALE QLD 4350,House,4,2,2,510m² ,28 Sep 2023
+"505,000 ","9 McIvor Street,",KEARNEYS SPRING QLD 4350,House,3,1,2,555m² ,28 Sep 2023
+"760,000 ","7 Maggie Court,",MIDDLE RIDGE QLD 4350,House,4,2,2,644m² ,28 Sep 2023
+"747,500 ","7A Atkinson Street,",SOUTH TOOWOOMBA QLD 4350,House,5,2,2,567m² ,28 Sep 2023
+"520,000 ","4 Macrossan Street,",CRANLEY QLD 4350,House,3,2,2,500m² ,27 Sep 2023
+"769,000 ","218 Nelson Street,",KEARNEYS SPRING QLD 4350,House,4,3,2,602m² ,27 Sep 2023
+"870,000 ","25 McGee Drive,",KEARNEYS SPRING QLD 4350,House,5,2,2,681m² ,27 Sep 2023
+"2,600,000 ","17 Piccadilly Court,",MOUNT LOFTY QLD 4350,House,5,2,2,"3,705m² ",27 Sep 2023
+"515,000 ","1 Ferguson Road,",WESTBROOK QLD 4350,House,4,1,2,"1,467m² ",27 Sep 2023
+"410,000 ","5 Gerda Court,",DARLING HEIGHTS QLD 4350,House,3,1,1,500m² ,26 Sep 2023
+"800,000 ","355-357 Spring Street,",KEARNEYS SPRING QLD 4350,House,4,3,2,"1,797m² ",26 Sep 2023
+"685,000 ","55 Crockers Road,",WESTBROOK QLD 4350,House,4,2,2,804m² ,26 Sep 2023
+"558,000","15 Crusader Court,",WILSONTON QLD 4350,House,3,2,2,600m² ,26 Sep 2023
+"935,000 ","12 General Gordon Court,",COTSWOLD HILLS QLD 4350,House,4,2,4,"4,021m² ",25 Sep 2023
+"645,000 ","97 Entabeni Drive,",KEARNEYS SPRING QLD 4350,House,4,2,2,543m² ,25 Sep 2023
+"450,000 ","30 Gordon Avenue,",NEWTOWN QLD 4350,House,3,1,1,842m² ,25 Sep 2023
+"560,000 ","65 Hume Street,",NORTH TOOWOOMBA QLD 4350,House,3,1,1,486m² ,25 Sep 2023
+"2,000,000 ","121 Tourist Road,",RANGEVILLE QLD 4350,House,4,3,4,"3,035m² ",25 Sep 2023
+"785,000 ","22 Milford Street,",WESTBROOK QLD 4350,House,4,2,4,"1,023m² ",25 Sep 2023
+"563,000 ","22 Kratzmann Court,",KEARNEYS SPRING QLD 4350,House,4,1,1,650m² ,23 Sep 2023
+"517,000 ","15 Abelia Street,",HARLAXTON QLD 4350,House,3,1,1,604m² ,22 Sep 2023
+"1,520,000 ","12 Colman Drive,",MIDDLE RIDGE QLD 4350,House,4,2,3,988m² ,22 Sep 2023
+"720,000 ","7 Lillypilly Court,",MIDDLE RIDGE QLD 4350,House,5,2,3,725m² ,22 Sep 2023
+"735,000 ","4 Zinnia Court,",MIDDLE RIDGE QLD 4350,House,4,2,4,798m² ,22 Sep 2023
+"400,000 ","13 Goode Street,",NEWTOWN QLD 4350,House,2,1,2,876m² ,22 Sep 2023
+"415,000 ","16 ANDREWS STREET,",NORTH TOOWOOMBA QLD 4350,House,3,1,2,683m² ,22 Sep 2023
+"255,000 ","4/210A West Street,",SOUTH TOOWOOMBA QLD 4350,House,2,1,1,75m² ,22 Sep 2023

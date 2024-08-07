@@ -1,0 +1,924 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"445,000 ","2/5 Wittenoom Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,203m² ,19 Apr 2024
+"570,000 ","28/11-19 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,169m² ,16 Apr 2024
+"525,000 ","7/7 Jetty Road,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,155m² ,12 Apr 2024
+"493,000 ","4/18 Bonnefoi Boulevard,",BUNBURY WA 6230,Townhouse,3,2,2,227m² ,05 Apr 2024
+"658,000 ","30/7 Jetty Road,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,160m² ,2024
+"620,000 ","33/18-24 Bonnefoi Boulevard,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,162m² ,18 Mar 2024
+"430,000 ","2/12 Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,89m² ,11 Mar 2024
+"580,000 ","4/127 Stirling Street,",BUNBURY WA 6230,Townhouse,3,1,1,123m² ,07 Mar 2024
+"721,000 ","1/11 Marlston Drive,",BUNBURY WA 6230,Townhouse,3,2,2,271m² ,22 Feb 2024
+"545,000 ","19B Jarrah Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,263m² ,13 Feb 2024
+"755,000 ","19A Marlston Drive,",BUNBURY WA 6230,Townhouse,3,3,1,234m² ,08 Feb 2024
+"475,000 ","2/14 Sinclair Close,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,212m² ,07 Feb 2024
+"570,000 ","5/16 Lyons Cove,",BUNBURY WA 6230,Townhouse,3,2,1,259m² ,05 Feb 2024
+"470,000 ","19/23 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,167m² ,29 Jan 2024
+"550,000 ","4/7 Wollaston Street,",BUNBURY WA 6230,Townhouse,3,2,2,188m² ,15 Jan 2024
+"345,000 ","6B Greensell Street,",BUNBURY WA 6230,Vacant land,0,0,0,495m² ,13 Jan 2024
+"592,000 ","10/3 Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,231m² ,10 Jan 2024
+"525,000 ","3/14 Sinclair Close,",BUNBURY WA 6230,Townhouse,3,2,2,238m² ,09 Dec 2023
+"650,000 ","4/17 Ommanney Street,",BUNBURY WA 6230,Townhouse,3,2,2,300m² ,24 Nov 2023
+"330,000 ","8/12 Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,89m² ,21 Nov 2023
+"557,000 ","18/7 Jetty Road,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,182m² ,20 Nov 2023
+"410,000 ","1/1 Money Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,303m² ,25 Oct 2023
+"495,000 ","3/33 Carey Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,225m² ,20 Oct 2023
+"550,000 ","2/16 Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,275m² ,16 Oct 2023
+"592,000 ","3/25 Samuel Wright Street,",BUNBURY WA 6230,Townhouse,3,2,2,222m² ,2023
+"670,000 ","2/7 Henry Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,318m² ,08 Oct 2023
+"535,000 ","1/6A Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,397m² ,18 Sep 2023
+"420,000 ","8c Sinclair Close,",BUNBURY WA 6230,Townhouse,3,2,2,191m² ,2023
+"200,000 ","14B William Street,",BUNBURY WA 6230,Vacant land,0,0,0,509m² ,2023
+"600,000 ","6/7 Wollaston Street,",BUNBURY WA 6230,Townhouse,3,2,2,217m² ,05 Aug 2023
+"340,000 ","1/28 Strickland Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,158m² ,18 Jul 2023
+"390,000 ","8/3 Harrison Place,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,97m² ,11 Jul 2023
+"541,000 ","12/3 Clifton Street,",BUNBURY WA 6230,Townhouse,3,2,2,228m² ,22 Jun 2023
+"505,000 ","3/45 Marlston Drive,",BUNBURY WA 6230,Townhouse,3,1,2,207m² ,04 Jun 2023
+"307,500 ","9/142 Spencer Street,",BUNBURY WA 6230,Retirement Living,2,1,1,170m² ,2023
+"445,000 ","4/31 Carey Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,225m² ,10 May 2023
+"452,000 ","8/7 Jetty Road,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,155m² ,05 May 2023
+"422,000 ","3/5 Carey Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,122m² ,02 May 2023
+"310,000 ","4/14 Lyons Cove,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,1,121m² ,2023
+"875,000 ","1 Prinsep Street,",BUNBURY WA 6230,Block of units,2,1,1,810m² ,28 Apr 2023
+"465,000 ","4/11 Prinsep Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,155m² ,24 Apr 2023
+"360,000 ","1B Forster Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,265m² ,21 Apr 2023
+"390,000 ","4/5 Wittenoom Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,171m² ,07 Mar 2023
+"300,000 ","9a Moore Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,−,210m² ,06 Mar 2023
+"427,500 ","6/14 Upper Esplanade,",BUNBURY WA 6230,Townhouse,3,1,−,223m² ,06 Mar 2023
+"397,500 ","3/1 Baudin Terrace,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,105m² ,06 Mar 2023
+"447,000 ","28C Moore Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,583m² ,27 Feb 2023
+"600,000 ","6 Stockley Road,",BUNBURY WA 6230,Vacant land,0,0,0,892m² ,13 Feb 2023
+"357,000 ","2/23 Thomas Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,3,259m² ,07 Feb 2023
+"440,000 ","18a Albert Road,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,363m² ,20 Jan 2023
+"495,000 ","3/43 Marlston Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,329m² ,05 Jan 2023
+"452,500 ","9C Marlston Drive,",BUNBURY WA 6230,Townhouse,3,2,1,278m² ,29 Dec 2022
+"335,000 ","9/13 Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,89m² ,20 Dec 2022
+"480,000 ","1/19 Brewery Lane,",BUNBURY WA 6230,Townhouse,3,2,2,254m² ,2022
+"690,000 ","2/97 Ocean Drive,",BUNBURY WA 6230,Townhouse,3,2,2,200m² ,12 Dec 2022
+"430,000 ","2/14 Sinclair Close,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,212m² ,09 Dec 2022
+"430,000 ","1/16 Wellington Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,288m² ,04 Nov 2022
+"270,000 ","1A George Street,",BUNBURY WA 6230,Vacant land,0,0,0,415m² ,04 Nov 2022
+"510,000 ","39/7 Jetty Road,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,166m² ,02 Nov 2022
+"480,000 ","3/31 Marlston Drive,",BUNBURY WA 6230,Townhouse,3,2,2,234m² ,29 Oct 2022
+"226,000 ","5/10 William Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,64m² ,17 Oct 2022
+"726,000 ","10/97 Ocean Drive,",BUNBURY WA 6230,Townhouse,3,2,2,216m² ,14 Oct 2022
+"315,000 ","22/13 Upper Esplanade,",BUNBURY WA 6230,Townhouse,3,1,2,89m² ,10 Oct 2022
+"315,000 ","27/13 Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,89m² ,29 Sep 2022
+"720,000 ","60 Marabank Loop,",BUNBURY WA 6230,Vacant land,0,0,0,429m² ,09 Sep 2022
+"670,000 ","17/11 Prinsep Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,185m² ,09 Sep 2022
+"325,000 ","6/12 Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,89m² ,04 Sep 2022
+"375,000 ","2/12 Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,89m² ,15 Aug 2022
+"365,000 ","5/5 Carey Street,",BUNBURY WA 6230,Townhouse,3,2,1,105m² ,26 Jul 2022
+"295,000 ","Unit 21/13 Upper Esp,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,95m² ,25 Jul 2022
+"355,000 ","21A Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,176m² ,29 Jun 2022
+"315,000 ","10/105 OCEAN DRIVE,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,91m² ,05 Jun 2022
+"402,500 ","6/1 Brewery Lane,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,201m² ,16 May 2022
+"410,000 ","5/9 Carey Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,92m² ,11 May 2022
+"795,000 ","2/2 Haydock Street,",BUNBURY WA 6230,Townhouse,4,2,2,400m² ,29 Apr 2022
+"560,000 ","11/1 Bonnefoi Boulevard,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,150m² ,14 Apr 2022
+"520,000 ","34/18 Bonnefoi Boulevard,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,172m² ,11 Apr 2022
+"195,000 ","3/51 Moore Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,151m² ,25 Mar 2022
+"205,000 ","6/21 Greensell Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,52m² ,23 Mar 2022
+"320,000 ","1/28 Strickland Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,158m² ,14 Mar 2022
+"315,000 ","7/79 Stirling Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,156m² ,07 Feb 2022
+"367,500 ","7/5 Carey Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,116m² ,04 Feb 2022
+"420,000 ","5/11 Prinsep Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,1,145m² ,15 Jan 2022
+"240,000 ","7/3 GREENSELL STREET,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,96m² ,07 Jan 2022
+"385,000 ","3/16 Acacia Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,297m² ,24 Dec 2021
+"89,000 ","12C Stallard Place,",BUNBURY WA 6230,Apartment / Unit / Flat,1,1,1,105m² ,25 Nov 2021
+"240,000 ","16A Clifton Street,",BUNBURY WA 6230,Vacant land,0,0,0,241m² ,25 Nov 2021
+"195,000 ","4/21 Greensell Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,76m² ,15 Nov 2021
+"429,000 ","6/11 Prinsep Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,1,147m² ,25 Oct 2021
+"500,000 ","3/16 Upper Esplanade,",BUNBURY WA 6230,Townhouse,3,2,2,268m² ,06 Oct 2021
+"460,000 ","2/16 Upper Esplanade,",BUNBURY WA 6230,Townhouse,3,2,2,275m² ,04 Oct 2021
+"425,000 ","2/14 Carey Street,",BUNBURY WA 6230,Townhouse,3,2,2,276m² ,27 Aug 2021
+"213,000 ","10/22 William Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,84m² ,27 Jul 2021
+"205,000 ","2/12 Wellington Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,53m² ,17 Jul 2021
+"320,000 ","4/127 Ocean Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,255m² ,23 Jun 2021
+"210,000 ","3/106 Strickland Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,293m² ,03 Jun 2021
+"263,000 ","2/1 Money Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,102m² ,18 May 2021
+"550,000 ","4 Haig Crescent,",BUNBURY WA 6230,Vacant land,0,0,0,809m² ,03 May 2021
+"445,000 ","3/29 Marlston Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,214m² ,13 Apr 2021
+"460,000 ","11/3 Clifton Street,",BUNBURY WA 6230,Townhouse,3,2,2,229m² ,12 Apr 2021
+"965,000 ","23 Bennett Way,",BUNBURY WA 6230,Townhouse,4,3,2,232m² ,09 Apr 2021
+"127,500 ","Lot 2, 9 Charles Street,",BUNBURY WA 6230,Vacant land,0,0,0,211m² ,06 Apr 2021
+"300,000 ","21B Whale View,",BUNBURY WA 6230,Vacant land,0,0,0,204m² ,11 Mar 2021
+"210,000 ","4/10 Wellington Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,68m² ,10 Mar 2021
+"925,000 ","23 Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,16,8,8,"1,108m² ",22 Feb 2021
+"320,000 ","6 Macnish Close,",BUNBURY WA 6230,Vacant land,0,0,0,856m² ,19 Feb 2021
+"188,000 ","7/37 Hayes Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,72m² ,18 Feb 2021
+"375,000 ","3/31 Carey Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,225m² ,18 Feb 2021
+"235,000 ","5/12 Clifton Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,91m² ,08 Feb 2021
+"210,000 ","5/12 William Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,63m² ,27 Jan 2021
+"235,000 ","5/79 Stirling Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,155m² ,08 Dec 2020
+"545,000 ","18 Ommanney Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,3,"1,540m² ",08 Dec 2020
+"440,000 ","11/29 Hayes Street,",BUNBURY WA 6230,Townhouse,3,2,2,268m² ,23 Oct 2020
+"248,000 ","2/28 Strickland Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,158m² ,15 Oct 2020
+"300,000 ","2/23 Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,1,365m² ,13 Oct 2020
+"350,000 ","2/7 Braund Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,255m² ,12 Oct 2020
+"450,000 ","43/11 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,170m² ,23 Sep 2020
+"495,000 ","1/11 Marlston Drive,",BUNBURY WA 6230,Townhouse,3,2,2,271m² ,28 Aug 2020
+"500,000 ","18 Wexford Lane,",BUNBURY WA 6230,Apartment / Unit / Flat,1,1,2,275m² ,19 Aug 2020
+"215,500 ","1/3 Symmons Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,107m² ,15 May 2020
+"458,000 ","4/97 Ocean Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,196m² ,13 May 2020
+"275,000 ","19 George Street,",BUNBURY WA 6230,Vacant land,0,0,0,"1,011m² ",25 Apr 2020
+"230,000 ","6B Upper Esplanade,",BUNBURY WA 6230,Vacant land,0,0,0,199m² ,07 Apr 2020
+"525,000 ","50/11 Holman Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,136m² ,27 Mar 2020
+"215,000 ","10/180 Forrest Avenue,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,270m² ,26 Mar 2020
+"410,000 ","6/16 Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,267m² ,28 Feb 2020
+"272,500 ","22 Moore Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,465m² ,18 Feb 2020
+"495,000 ","6/97 Ocean Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,200m² ,15 Jan 2020
+"255,000 ","8/3 Greensell Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,96m² ,03 Dec 2019
+"450,000 ","18C Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,365m² ,02 Dec 2019
+"315,000 ","42/18 Bonnefoi Boulevard,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,1,150m² ,01 Dec 2019
+"200,000 ","11/4 Braund Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,126m² ,28 Nov 2019
+"460,000 ","17/23-25 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,224m² ,21 Oct 2019
+"180,000 ","5/51 Moore Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,131m² ,08 Sep 2019
+"373,000 ","6/11 Prinsep Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,1,147m² ,20 Jul 2019
+"500,000 ","18 A Molloy Street,",BUNBURY WA 6230,Townhouse,3,2,4,276m² ,03 Jun 2019
+"390,000 ","5/1 Bonnefoi Boulevard,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,170m² ,25 Apr 2019
+"780,000 ","12/15 Parkfield Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,231m² ,16 Apr 2019
+"252,000 ","5/14 Molloy Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,64m² ,15 Apr 2019
+"318,000 ","2/18 Acacia Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,206m² ,11 Apr 2019
+"405,000 ","5/16 Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,254m² ,01 Feb 2019
+"185,000 ","17A Forster Street,",BUNBURY WA 6230,Vacant land,0,0,0,541m² ,14 Dec 2018
+"310,000 ","2/38 Moore Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,277m² ,14 Sep 2018
+"380,000 ","5/23-25 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,1,174m² ,27 Aug 2018
+"140,000 ","9/32 Marlston Drive,",BUNBURY WA 6230,Vacant land,0,0,0,160m² ,20 Aug 2018
+"471,000 ","4 Haig Crescent,",BUNBURY WA 6230,Vacant land,0,0,0,809m² ,23 May 2018
+"205,000 ","1c Harrison Place,",BUNBURY WA 6230,Vacant land,0,0,0,344m² ,28 Feb 2018
+"260,000 ","3/16 Wellington Street,",BUNBURY WA 6230,Block of units,3,1,1,388m² ,27 Feb 2018
+"365,000 ","4/9 Strickland Street,",BUNBURY WA 6230,Townhouse,3,2,2,293m² ,12 Jan 2018
+"305,000 ","1/23 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,170m² ,08 Dec 2017
+"370,000 ","Unit 11, 25 Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,203m² ,28 Nov 2017
+"375,000 ","6/7 Wollaston Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,217m² ,08 Nov 2017
+"500,000 ","10/97 Ocean Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,207m² ,03 Jul 2017
+"355,000 ","5/16 Acacia Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,270m² ,18 May 2017
+"275,000 ","1/14 Molloy Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,4,70m² ,09 May 2017
+"342,000 ","20A Hayes Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,313m² ,14 Oct 2016
+"221,000 ","6a Upper Esplanade,",BUNBURY WA 6230,Vacant land,0,0,0,188m² ,29 Sep 2016
+"334,000 ","4/5 Wittenoom Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,171m² ,12 Sep 2016
+"427,000 ","2/22C Upper Esplanade,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,309m² ,31 May 2016
+"1,000,000 ","58 Stirling Street,",BUNBURY WA 6230,Apartment / Unit / Flat,6,4,−,928m² ,2016
+"135,000 ","9/13 Forrest Avenue,",BUNBURY WA 6230,Vacant land,0,0,0,288m² ,29 Feb 2016
+"415,000 ","7/23 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,178m² ,26 Feb 2016
+"401,000 ","5/1 Baudin Terrace,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,104m² ,22 Dec 2015
+"520,000 ","19B Marlston Drive,",BUNBURY WA 6230,Townhouse,3,3,1,258m² ,05 Nov 2015
+"480,000 ","4/7 Braund Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,297m² ,24 Jul 2015
+"310,000 ","10B Wittenoom Street,",BUNBURY WA 6230,Vacant land,0,0,0,469m² ,05 Jun 2015
+"315,000 ","U2/1 Forster Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,269m² ,27 Feb 2015
+"320,000 ","159A Minninup Road,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,433m² ,22 Feb 2015
+"342,000 ","2/17 Thomas Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,−,261m² ,12 Jan 2015
+"480,000 ","32 Marabank Loop,",BUNBURY WA 6230,Townhouse,3,2,1,227m² ,10 Dec 2014
+"505,000 ","2/9 Marlston Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,271m² ,15 Oct 2014
+"450,000 ","9 Pickersgill Street,",BUNBURY WA 6230,Vacant land,0,0,0,872m² ,14 Jul 2014
+"385,000 ","3/32 Marlston Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,140m² ,17 Apr 2014
+"405,000 ","18 Tuart Street,",BUNBURY WA 6230,Vacant land,0,0,0,533m² ,2014
+"465,000 ","23/7 Jetty Road,",BUNBURY WA 6230,Apartment / Unit / Flat,2,2,−,136m² ,28 Jan 2014
+"192,500 ","5/4 Braund Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,87m² ,09 Jan 2014
+"445,000 ","5/7 Braund Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,266m² ,25 Nov 2013
+"620,000 ","7B Marlston Drive,",BUNBURY WA 6230,Townhouse,4,2,2,420m² ,21 Nov 2013
+"450,000 ","11/29 Hayes Street,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,268m² ,15 Oct 2013
+"455,000 ","22/11 Casuarina Drive,",BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,165m² ,
+"565,000 ","19 Marabank Loop,",BUNBURY WA 6230,Townhouse,3,2,2,345m² ,09 Apr 2013
+"218,000 ","14/4 Braund Street,",BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,124m² ,24 Oct 2012
+"325,000 ","95c Ocean Drive,",BUNBURY WA 6230,Vacant land,0,0,0,230m² ,21 Jul 2012
+"655,000 ","18/17 Hayward Street,",SOUTH BUNBURY WA 6230,Townhouse,4,2,2,201m² ,23 Apr 2024
+"360,000 ","Lot 21 (120/121) Minninup Road,",DALYELLUP WA 6230,Vacant land,0,0,0,"10,100m² ",05 Apr 2024
+"399,000 ","57/17 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,"1,557m² ",26 Mar 2024
+"172,500 ","16E Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,1,140m² ,2024
+"340,000 ","37/120-121 Minninup Road,",DALYELLUP WA 6230,Vacant land,0,0,0,"10,200m² ",22 Mar 2024
+"315,000 ","36/120-121 Minninup Road,",DALYELLUP WA 6230,Vacant land,0,0,0,"10,500m² ",19 Mar 2024
+"360,000 ","25/120-121 Minninup Road,",DALYELLUP WA 6230,Vacant land,0,0,0,"10,800m² ",19 Mar 2024
+"485,000 ","5/87 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,14 Mar 2024
+"500,000 ","2/26 Constitution Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,14 Mar 2024
+"300,000 ","25 Jipse Crescent,",EAST BUNBURY WA 6230,Vacant land,0,0,0,704m² ,13 Mar 2024
+"245,000 ","51C Jarvis Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,668m² ,12 Mar 2024
+"502,000 ","4/58 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,334m² ,12 Mar 2024
+"430,000 ","48a Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,257m² ,07 Mar 2024
+"410,000 ","2/64 Forrest Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,264m² ,01 Mar 2024
+"140,000 ","9/17 Hayward Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,212m² ,01 Mar 2024
+"465,000 ","23/87 Clarke Street,",SOUTH BUNBURY WA 6230,Block of units,3,2,2,270m² ,29 Feb 2024
+"292,500 ","14/212 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,182m² ,26 Feb 2024
+"320,000 ","3/4 Holywell Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,250m² ,22 Feb 2024
+"535,000 ","39A King Road,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,4,2,2,401m² ,19 Feb 2024
+"205,000 ","23C Holywell Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,493m² ,14 Feb 2024
+"380,000 ","3/22 Prince Philip Drive,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,220m² ,14 Feb 2024
+"530,000 ","3/51 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,698m² ,12 Feb 2024
+"170,000 ","42b Jubilee Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,465m² ,09 Feb 2024
+"400,000 ","17B Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,265m² ,07 Feb 2024
+"481,000 ","18 Wongin Road,",DALYELLUP WA 6230,Vacant land,0,0,0,"2,131m² ",25 Jan 2024
+"375,000 ","4B Ann Way,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,510m² ,19 Jan 2024
+"141,000 ","28/8 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,436m² ,16 Jan 2024
+"307,500 ","37 Antelope Turn,",DALYELLUP WA 6230,Vacant land,0,0,0,620m² ,10 Jan 2024
+"390,000 ","16A Moolyeen Road,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,382m² ,2024
+"585,000 ","56A King Road,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,335m² ,04 Jan 2024
+"213,000 ","80 Moonlight Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,603m² ,03 Jan 2024
+"310,000 ","3/11 Strickland Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,220m² ,01 Jan 2024
+"375,000 ","8/196 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,201m² ,2023
+"165,000 ","59/40 Reynolds Way,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,2,57m² ,22 Dec 2023
+"295,000 ","6/12 Austral Parade,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,90m² ,19 Dec 2023
+"325,000 ","5/3 Holywell Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,67m² ,19 Dec 2023
+"292,000 ","1/32 Gibbs Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,371m² ,02 Dec 2023
+"293,000 ","12/212 Spencer Street,",SOUTH BUNBURY WA 6230,Retirement Living,3,1,1,145m² ,28 Nov 2023
+"154,000 ","14/11 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,475m² ,23 Nov 2023
+"227,500 ","4/40 Reynolds Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,3,121m² ,22 Nov 2023
+"181,000 ","46B Goldsmith Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,568m² ,20 Nov 2023
+"332,000 ","34 Antelope Turn,",DALYELLUP WA 6230,Vacant land,0,0,0,741m² ,15 Nov 2023
+"360,000 ","6A Preston Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,390m² ,09 Nov 2023
+"310,000 ","1/3 Hamersley Drive,",CAREY PARK WA 6230,Apartment / Unit / Flat,2,1,2,400m² ,2023
+"141,000 ","30/12 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,441m² ,02 Nov 2023
+"480,000 ","1/6 Francis Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,222m² ,31 Oct 2023
+"210,000 ","28/1 Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,3,1,1,83m² ,30 Oct 2023
+"345,000 ","10/37 Queensbury Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,273m² ,25 Oct 2023
+"360,000 ","8/95 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,239m² ,20 Oct 2023
+"149,000 ","22/4 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,483m² ,16 Oct 2023
+"365,000 ","Prop Lot 2 Eucalypt Drive,",GELORUP WA 6230,Vacant land,0,0,0,0,10 Oct 2023
+"570,000 ","16 Carnegie Street,",DALYELLUP WA 6230,Vacant land,0,0,0,651m² ,05 Oct 2023
+"247,000 ","4/41 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,136m² ,03 Oct 2023
+"352,000 ","1/3 Joel Crescent,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,337m² ,30 Sep 2023
+"750,000 ","17 Queensbury Street,",CAREY PARK WA 6230,Vacant land,0,0,0,"3,340m² ",26 Sep 2023
+"368,000 ","3/9 Premier Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,293m² ,25 Sep 2023
+"143,000 ","Lot 20 Mosedale Avenue,",USHER WA 6230,Vacant land,0,0,0,419m² ,14 Sep 2023
+"155,000 ","15/1 Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,1,57m² ,13 Sep 2023
+"295,000 ","46a Prosser Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,326m² ,07 Sep 2023
+"107,000 ","Proposed 3/190 Forrest Avenue East,",CAREY PARK WA 6230,Vacant land,0,0,0,291m² ,06 Sep 2023
+"145,000 ","22 Geographe Way,",WITHERS WA 6230,Vacant land,0,0,0,874m² ,06 Sep 2023
+"150,000 ","24 Geographe Way,",WITHERS WA 6230,Vacant land,0,0,0,874m² ,05 Sep 2023
+"82,000 ","Proposed/190 Forrest Avenue East,",CAREY PARK WA 6230,Vacant land,0,0,0,291m² ,31 Aug 2023
+"310,000 ","1/124 Strickland Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,429m² ,2023
+"188,000 ","25/1 Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,3,1,1,83m² ,17 Aug 2023
+"310,000 ","10A Queensbury Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,284m² ,09 Aug 2023
+"250,000 ","23a Holywell Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,357m² ,08 Aug 2023
+"400,000 ","1/4 Seashore Mews,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,357m² ,04 Aug 2023
+"55,000 ","2/105 Old Coast Road,",PELICAN POINT WA 6230,Apartment / Unit / Flat,1,1,1,66m² ,03 Aug 2023
+"321,000 ","8/8 Locke Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,272m² ,02 Aug 2023
+"133,000 ","11/5 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,359m² ,31 Jul 2023
+"290,000 ","15B Seashore Mews,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,149m² ,26 Jul 2023
+"165,000 ","3/3 Herbert Road,",EAST BUNBURY WA 6230,Vacant land,0,0,0,352m² ,20 Jul 2023
+"275,000 ","1/13 Wisbey Street,",CAREY PARK WA 6230,Retirement Living,2,1,1,226m² ,19 Jul 2023
+"300,000 ","1D Caporn Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,564m² ,03 Jul 2023
+"225,000 ","14D White Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,74m² ,29 Jun 2023
+"247,500 ","1/12 White Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,435m² ,26 Jun 2023
+"160,000 ","29 Sweeny Street,",CAREY PARK WA 6230,Vacant land,0,0,0,680m² ,21 Jun 2023
+"425,000 ","172C Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,290m² ,20 Jun 2023
+"625,000 ","6/127 Stirling Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,315m² ,10 Jun 2023
+"333,500 ","6c Gibbs Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,304m² ,2023
+"369,000 ","3/50 Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,324m² ,30 May 2023
+"205,000 ","45/1 Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,3,1,1,83m² ,30 May 2023
+"320,000 ","1/125 Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,369m² ,24 May 2023
+"330,000 ","4/204 Clarke Street East,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,22 May 2023
+"610,000 ","5/3 Hough Road,",EAST BUNBURY WA 6230,Townhouse,3,2,2,265m² ,2023
+"320,000 ","28B Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,505m² ,2023
+"151,000 ","13/9 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,462m² ,22 May 2023
+"260,000 ","17 Hastie Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,037m² ",19 May 2023
+"545,000 ","4/24 Stanbury Crescent,",SOUTH BUNBURY WA 6230,Townhouse,4,2,2,261m² ,18 May 2023
+"225,000 ","61 Gibbs Street,",CAREY PARK WA 6230,Vacant land,0,0,0,"1,037m² ",2023
+"310,000 ","3/68 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,348m² ,11 May 2023
+"340,000 ","9 Olearia Court,",GELORUP WA 6230,Vacant land,0,0,0,"3,720m² ",10 May 2023
+"390,000 ","2B Higgins Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,250m² ,2023
+"200,000 ","2 Melba Way,",DALYELLUP WA 6230,Vacant land,0,0,0,630m² ,08 May 2023
+"321,000 ","6/95 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,223m² ,05 May 2023
+"383,000 ","1/27 Forrest Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,296m² ,01 May 2023
+"347,000 ","1a Dixon Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,300m² ,28 Apr 2023
+"500,000 ","10/17 Hayward Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,4,2,2,218m² ,27 Apr 2023
+"445,000 ","6/134 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,300m² ,21 Apr 2023
+"450,000 ","16A Plaza Street,",SOUTH BUNBURY WA 6230,Townhouse,2,2,−,200m² ,18 Apr 2023
+"347,000 ","4 Absolon Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,336m² ,17 Apr 2023
+"160,000 ","19/40 Reynolds Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,69m² ,14 Apr 2023
+"270,000 ","3 Wambenger Grove,",GELORUP WA 6230,Vacant land,0,0,0,"3,688m² ",12 Apr 2023
+"210,000 ","27/1 Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,3,1,1,83m² ,12 Apr 2023
+"320,000 ","6/18 Kambany Approach,",DALYELLUP WA 6230,Apartment / Unit / Flat,3,2,2,240m² ,07 Apr 2023
+"285,000 ","1A Ecclestone Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,303m² ,05 Apr 2023
+"260,000 ","50B Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,248m² ,29 Mar 2023
+"241,000 ","5/288 Blair Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,217m² ,29 Mar 2023
+"340,000 ","1/110 Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,352m² ,28 Mar 2023
+"292,500 ","2/136 Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,104m² ,22 Mar 2023
+"70,000 ","29 Wicklow Boulevard,",DALYELLUP WA 6230,Vacant land,0,0,0,180m² ,21 Mar 2023
+"310,000 ","4/2 Nuytsia Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,281m² ,20 Mar 2023
+"445,000 ","13 Bow Street,",GLEN IRIS WA 6230,Vacant land,0,0,0,456m² ,16 Mar 2023
+"155,000 ","42 Devonshire Street,",WITHERS WA 6230,Vacant land,0,0,0,769m² ,13 Mar 2023
+"315,000 ","8B Bright Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,491m² ,10 Mar 2023
+"160,000 ","27 Sweeny Street,",CAREY PARK WA 6230,Vacant land,0,0,0,680m² ,10 Mar 2023
+"340,000 ","6/6 Austin Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,273m² ,09 Mar 2023
+"225,000 ","50A Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,2,1,2,355m² ,06 Mar 2023
+"75,000 ","23 Wicklow Boulevard,",DALYELLUP WA 6230,Vacant land,0,0,0,180m² ,04 Mar 2023
+"312,000 ","Lot 208 Olearia Court,",GELORUP WA 6230,Vacant land,0,0,0,"3,540m² ",03 Mar 2023
+"315,000 ","17c Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,278m² ,2023
+"87,000 ","31 Devonshire Street,",WITHERS WA 6230,Vacant land,0,0,0,360m² ,27 Feb 2023
+"210,000 ","2/3 Holywell Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,63m² ,24 Feb 2023
+"340,000 ","9/18 Kambany Approach,",DALYELLUP WA 6230,Apartment / Unit / Flat,3,2,2,247m² ,11 Feb 2023
+"325,000 ","2/196 Forrest Avenue,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,272m² ,02 Feb 2023
+"325,000 ","3/196 Forrest Avenue,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,282m² ,02 Feb 2023
+"320,000 ","B/14 Argyle Avenue,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,551m² ,30 Jan 2023
+"320,000 ","14B Argyle Avenue,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,551m² ,30 Jan 2023
+"320,000 ","3/16 Clyde Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,4,2,2,288m² ,28 Jan 2023
+"265,000 ","16 Hastie Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,807m² ,27 Jan 2023
+"260,000 ","2/212 Spencer Street,",SOUTH BUNBURY WA 6230,Retirement Living,2,1,1,162m² ,23 Jan 2023
+"267,500 ","3/12 Austral Parade,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,89m² ,19 Jan 2023
+"380,000 ","1/17 Gibson Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,318m² ,17 Jan 2023
+"610,000 ","3/121 Stirling Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,134m² ,13 Jan 2023
+"505,000 ","147a Ocean Drive,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,485m² ,13 Jan 2023
+"510,000 ","14/29 Hayes Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,263m² ,09 Jan 2023
+"300,000 ","19 Duncan Way,",EAST BUNBURY WA 6230,Vacant land,0,0,0,690m² ,08 Jan 2023
+"580,000 ","8 Beach Road,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,926m² ,06 Dec 2022
+"383,000 ","48G Goldsmith Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,498m² ,22 Nov 2022
+"340,000 ","10/38 Preston Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,130m² ,17 Nov 2022
+"310,000 ","10 English View,",GELORUP WA 6230,Vacant land,0,0,0,"4,070m² ",14 Nov 2022
+"310,000 ","12/196 Spencer Street,",SOUTH BUNBURY WA 6230,Townhouse,3,1,1,247m² ,11 Nov 2022
+"265,000 ","2/14 Clyde Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,261m² ,09 Nov 2022
+"332,000 ","280B Blair Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,314m² ,02 Nov 2022
+"400,000 ","2/68 Thomas Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,314m² ,26 Oct 2022
+"265,000 ","1 Sortras Rise,",GELORUP WA 6230,Vacant land,0,0,0,"3,708m² ",21 Oct 2022
+"265,000 ","1/38 Preston Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,109m² ,18 Oct 2022
+"310,000 ","10 English View,",GELORUP WA 6230,Vacant land,0,0,0,"4,070m² ",17 Oct 2022
+"292,500 ","1/13 Dwyer Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,463m² ,13 Oct 2022
+"131,000 ","10/3 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,350m² ,13 Oct 2022
+"360,000 ","5 Agra Way,",DALYELLUP WA 6230,Vacant land,0,0,0,707m² ,10 Oct 2022
+"270,000 ","9b Moolyeen Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,356m² ,28 Sep 2022
+"355,000 ","15 Eva Fairway,",DALYELLUP WA 6230,Vacant land,0,0,0,700m² ,23 Sep 2022
+"195,000 ","Unit 44/1 Stallard Pl,",WITHERS WA 6230,Apartment / Unit / Flat,3,1,1,83m² ,23 Sep 2022
+"310,000 ","11B Wilson Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,256m² ,20 Sep 2022
+"240,000 ","17/60 Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,190m² ,20 Sep 2022
+"170,000 ","22/40 Reynolds Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,70m² ,19 Sep 2022
+"320,000 ","11/37 Queensbury Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,274m² ,08 Sep 2022
+"160,000 ","46 Crampton Avenue,",USHER WA 6230,Vacant land,0,0,0,682m² ,05 Sep 2022
+"125,000 ","34/3 Wilkerson Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,82m² ,23 Aug 2022
+"335,000 ","11 Daablone Vista,",DALYELLUP WA 6230,Vacant land,0,0,0,822m² ,19 Aug 2022
+"365,000 ","13 Macedon Road,",DALYELLUP WA 6230,Vacant land,0,0,0,804m² ,18 Aug 2022
+"300,000 ","31 Katinka Street,",DALYELLUP WA 6230,Vacant land,0,0,0,685m² ,17 Aug 2022
+"110,000 ","31/105 Old Coast Road,",PELICAN POINT WA 6230,Apartment / Unit / Flat,2,1,1,80m² ,17 Aug 2022
+"388,000 ","1/14 Queen Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,334m² ,16 Aug 2022
+"315,000 ","12 Sunningdale Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,692m² ,11 Aug 2022
+"335,000 ","280A Blair Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,327m² ,09 Aug 2022
+"130,000 ","3/4 Davenport Way,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,1,355m² ,05 Aug 2022
+"150,000 ","47 Ganfield Street,",CAREY PARK WA 6230,Vacant land,0,0,0,743m² ,02 Aug 2022
+"325,000 ","6/1 TIPPING STREET,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,282m² ,02 Aug 2022
+"260,000 ","2/30 Nuytsia Avenue,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,263m² ,28 Jul 2022
+"205,000 ","72 Moonlight Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,510m² ,28 Jul 2022
+"379,000 ","3/17 Gibson Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,398m² ,28 Jul 2022
+"283,000 ","Unit 3/36 Wisbey St,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,1,336m² ,21 Jul 2022
+"320,000 ","3/95 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,229m² ,21 Jul 2022
+"148,000 ","12/7 Lingard Loop,",USHER WA 6230,Vacant land,0,0,0,448m² ,20 Jul 2022
+"490,000 ","45 Willis Cove,",PELICAN POINT WA 6230,Vacant land,0,0,0,590m² ,15 Jul 2022
+"550,000 ","245 DUCANE ROAD,",GELORUP WA 6230,Vacant land,0,0,0,0,12 Jul 2022
+"170,000 ","7B Latreille Road,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,311m² ,12 Jul 2022
+"300,000 ","1/142 Spencer Street,",SOUTH BUNBURY WA 6230,Retirement Living,2,1,1,198m² ,02 Jul 2022
+"365,000 ","3/5 Cambridge Crescent,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,454m² ,29 Jun 2022
+"420,000 ","4/9 Strickland Street,",SOUTH BUNBURY WA 6230,Townhouse,3,2,2,293m² ,15 Jun 2022
+"380,000 ","2/1 Bray Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,4,2,2,358m² ,24 May 2022
+"60,000 ","13A Yorla Road,",CAREY PARK WA 6230,Vacant land,0,0,0,269m² ,17 May 2022
+"279,000 ","1A Crampton Avenue,",USHER WA 6230,Apartment / Unit / Flat,3,1,1,103m² ,17 May 2022
+"355,000 ","15A Bolton Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,227m² ,16 May 2022
+"280,000 ","2/30 Webber Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,336m² ,13 May 2022
+"295,000 ","1/24 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,307m² ,13 May 2022
+"630,000 ","6/121 Stirling Street,",EAST BUNBURY WA 6230,Townhouse,3,2,1,214m² ,05 May 2022
+"360,000 ","23/87 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,05 May 2022
+"170,000 ","7A Latreille Road,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,308m² ,04 May 2022
+"215,000 ","75 Moonlight Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,608m² ,22 Apr 2022
+"155,000 ","Lot 2/3 Herbert Road,",EAST BUNBURY WA 6230,Vacant land,0,0,0,359m² ,20 Apr 2022
+"720,000 ","2/2 Hayward Street,",SOUTH BUNBURY WA 6230,Townhouse,3,2,2,303m² ,20 Apr 2022
+"320,000 ","38B Wisbey Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,4,2,3,561m² ,17 Apr 2022
+"314,000 ","4/3 Cusworth Drive,",GLEN IRIS WA 6230,Apartment / Unit / Flat,3,2,2,269m² ,09 Apr 2022
+"70,000 ","46a Frankel Street,",CAREY PARK WA 6230,Vacant land,0,0,0,260m² ,07 Apr 2022
+"324,000 ","3/27 Forrest Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,280m² ,04 Apr 2022
+"210,000 ","6B Holywell Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,263m² ,30 Mar 2022
+"285,000 ","3/54 Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,256m² ,24 Mar 2022
+"335,000 ","10 Broadway,",PELICAN POINT WA 6230,Vacant land,0,0,0,"1,605m² ",21 Mar 2022
+"70,000 ","116A Jeffrey Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,206m² ,18 Mar 2022
+"205,000 ","27 (Lot 96) Barker Boulevard,",GLEN IRIS WA 6230,Vacant land,0,0,0,604m² ,18 Mar 2022
+"210,000 ","8/41 MINNINUP ROAD,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,249m² ,14 Mar 2022
+"310,000 ","5/196 Spencer Street,",SOUTH BUNBURY WA 6230,Townhouse,3,1,1,251m² ,10 Mar 2022
+"320,000 ","4A Crystal Bend,",DALYELLUP WA 6230,Apartment / Unit / Flat,3,2,2,300m² ,28 Feb 2022
+"525,000 ","19 McKenna Place,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,021m² ",25 Feb 2022
+"270,000 ","6B Sulphur Street,",WITHERS WA 6230,Apartment / Unit / Flat,3,2,1,270m² ,24 Feb 2022
+"289,000 ","6/101 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,291m² ,19 Feb 2022
+"485,000 ","317 Norton Promenade,",DALYELLUP WA 6230,Vacant land,0,0,0,694m² ,15 Feb 2022
+"42,000 ","114A Jeffrey Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,221m² ,15 Feb 2022
+"41,000 ","114D Jeffrey Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,202m² ,15 Feb 2022
+"41,000 ","114B Jeffrey Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,198m² ,15 Feb 2022
+"291,000 ","2/18 Kambany Approach,",DALYELLUP WA 6230,Apartment / Unit / Flat,3,2,2,222m² ,11 Feb 2022
+"258,000 ","3/27 Venn Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,213m² ,10 Feb 2022
+"351,000 ","13A Gibson Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,286m² ,02 Feb 2022
+"295,000 ","5/125 Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,393m² ,25 Jan 2022
+"240,000 ","5/6 Hough Road,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,77m² ,24 Jan 2022
+"350,000 ","18C Picton Road,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,221m² ,24 Jan 2022
+"230,000 ","Unit  2/106 Strickland Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,328m² ,21 Jan 2022
+"86,000 ","12B Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,1,106m² ,17 Jan 2022
+"315,000 ","7/204 Clarke Street East,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,278m² ,06 Jan 2022
+"305,000 ","7B Harwood Place,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,67m² ,13 Dec 2021
+"260,000 ","2/10 Wisbey Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,254m² ,11 Dec 2021
+"307,000 ","2/11 Jarvis Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,83m² ,08 Dec 2021
+"253,000 ","5a Boyalla Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,312m² ,07 Dec 2021
+"320,000 ","8/37 Queensbury Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,271m² ,07 Dec 2021
+"350,000 ","115C Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,277m² ,03 Dec 2021
+"255,000 ","1/8 Holly Way,",GLEN IRIS WA 6230,Apartment / Unit / Flat,4,1,1,421m² ,02 Dec 2021
+"285,000 ","2/2 Bright Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,−,257m² ,30 Nov 2021
+"625,000 ","11 Albert Road,",EAST BUNBURY WA 6230,Vacant land,0,0,0,"1,487m² ",30 Nov 2021
+"320,000 ","5 Herald Way,",DALYELLUP WA 6230,Vacant land,0,0,0,667m² ,28 Nov 2021
+"340,000 ","3/6 Kendle Close,",PELICAN POINT WA 6230,Apartment / Unit / Flat,3,2,1,234m² ,25 Nov 2021
+"257,500 ","2/10 Absolon Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,24 Nov 2021
+"128,000 ","Lot 9 Mosedale Avenue,",USHER WA 6230,Vacant land,0,0,0,340m² ,24 Nov 2021
+"210,000 ","5/13 Strickland Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,118m² ,23 Nov 2021
+"120,000 ","16C Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,1,109m² ,19 Nov 2021
+"328,000 ","3/24 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,420m² ,17 Nov 2021
+"135,000 ","6 Bolton Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,262m² ,15 Nov 2021
+"328,000 ","21 Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,314m² ,12 Nov 2021
+"157,500 ","25/1 Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,3,1,−,83m² ,08 Nov 2021
+"325,000 ","55 Daablone Vista,",DALYELLUP WA 6230,Vacant land,0,0,0,770m² ,01 Nov 2021
+"114,000 ","14B Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,1,108m² ,01 Nov 2021
+"300,000 ","Lot 214 Olearia Court,",GELORUP WA 6230,Vacant land,0,0,0,"3,871m² ",29 Oct 2021
+"219,000 ","11/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,339m² ,26 Oct 2021
+"280,000 ","8/196 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,201m² ,22 Oct 2021
+"297,000 ","2/36 Forrest Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,250m² ,21 Oct 2021
+"105,000 ","49A Picton Road,",EAST BUNBURY WA 6230,Vacant land,0,0,0,484m² ,15 Oct 2021
+"375,000 ","12 Ramillies Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,812m² ,13 Oct 2021
+"300,000 ","1 Ridge Place,",GELORUP WA 6230,Vacant land,0,0,0,"4,214m² ",11 Oct 2021
+"218,300 ","61/4 Sanders Parade,",GLEN IRIS WA 6230,Vacant land,0,0,0,642m² ,07 Oct 2021
+"277,500 ","11/101 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,277m² ,07 Oct 2021
+"330,000 ","13 Kalari Rise,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,968m² ,07 Oct 2021
+"420,000 ","15 Friartuck Road,",DALYELLUP WA 6230,Vacant land,5,2,2,641m² ,06 Oct 2021
+"59,000 ","15a Boyalla Street,",CAREY PARK WA 6230,Vacant land,0,0,0,344m² ,28 Sep 2021
+"59,000 ","15A Boyalla Street,",CAREY PARK WA 6230,Vacant land,0,0,0,344m² ,28 Sep 2021
+"342,500 ","13 Macedon Road,",DALYELLUP WA 6230,Vacant land,0,0,0,804m² ,24 Sep 2021
+"310,000 ","50c Ince Road,",GLEN IRIS WA 6230,Apartment / Unit / Flat,3,2,2,399m² ,2021
+"450,000 ","Lot 209 Olearia Court,",GELORUP WA 6230,Vacant land,0,0,0,"3,539m² ",15 Sep 2021
+"305,000 ","286 Norton Promenade,",DALYELLUP WA 6230,Vacant land,0,0,0,757m² ,14 Sep 2021
+"310,000 ","18 Newman Street,",GLEN IRIS WA 6230,Apartment / Unit / Flat,3,2,2,310m² ,09 Sep 2021
+"205,000 ","11/13 Strickland Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,"2,274m² ",06 Sep 2021
+"295,000 ","10C Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,301m² ,01 Sep 2021
+"385,000 ","1/77 Beach Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,351m² ,30 Aug 2021
+"261,000 ","7A Little Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,1,402m² ,25 Aug 2021
+"358,000 ","10B Taunton Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,4,2,−,229m² ,25 Aug 2021
+"213,000 ","Lot 78 Moonlight Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,603m² ,19 Aug 2021
+"291,000 ","Lot 212 Olearia Court,",GELORUP WA 6230,Vacant land,0,0,0,"3,908m² ",16 Aug 2021
+"550,000 ","22 Jeffrey Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,"8,094m² ",13 Aug 2021
+"350,000 ","115B Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,259m² ,11 Aug 2021
+"370,000 ","1/169 Tuart Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,422m² ,09 Aug 2021
+"295,000 ","2/30 Queensbury Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,313m² ,27 Jul 2021
+"337,000 ","3/10 Prince Philip Drive,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,389m² ,23 Jul 2021
+"190,000 ","4c Epacris Elbow,",PELICAN POINT WA 6230,Vacant land,0,0,0,221m² ,14 Jul 2021
+"149,000 ","2/288 Blair Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,164m² ,07 Jul 2021
+"310,000 ","2C Ecclestone Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,375m² ,15 Jun 2021
+"130,000 ","55/40 Reynolds Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,2,87m² ,14 Jun 2021
+"310,000 ","39C Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,341m² ,11 Jun 2021
+"208,000 ","2/31 Ecclestone Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,345m² ,08 Jun 2021
+"315,000 ","3 Ashford Place,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,862m² ,08 Jun 2021
+"370,000 ","Lot 3 Bussell Highway,",USHER WA 6230,Vacant land,0,0,0,0,08 Jun 2021
+"143,000 ","5 (lot 4) Gillman Lane,",USHER WA 6230,Vacant land,0,0,0,494m² ,08 Jun 2021
+"280,000 ","7/142 Spencer Street,",SOUTH BUNBURY WA 6230,Retirement Living,2,1,1,167m² ,24 May 2021
+"125,000 ","23/40 Reynolds Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,69m² ,17 May 2021
+"185,000 ","23c Holywell Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,493m² ,10 May 2021
+"245,000 ","6/12 Austral Parade,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,90m² ,05 May 2021
+"195,000 ",,DALYELLUP WA 6230,Vacant land,0,0,0,558m² ,02 May 2021
+"285,000 ","Lot 31 Manea Drive,",GELORUP WA 6230,Vacant land,0,0,0,0,27 Apr 2021
+"200,000 ","4d Epacris Elbow,",PELICAN POINT WA 6230,Vacant land,0,0,0,233m² ,27 Apr 2021
+"335,000 ","16A Taunton Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,250m² ,21 Apr 2021
+"320,000 ","9 Ashford Place,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,075m² ",15 Apr 2021
+"230,000 ","16 Hastie Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,807m² ,31 Mar 2021
+"175,000 ","10 Graphite Turn,",DALYELLUP WA 6230,Vacant land,0,0,0,561m² ,30 Mar 2021
+"277,500 ","11/12 Austral Parade,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,90m² ,23 Mar 2021
+"195,000 ","27/60 Halsey Street,",SOUTH BUNBURY WA 6230,Retirement Living,2,1,1,162m² ,20 Mar 2021
+"250,000 ","2/5 Joel Crescent,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,239m² ,03 Mar 2021
+"195,000 ","8/13 Strickland Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,98m² ,03 Mar 2021
+"128,000 ","Lot 8 Mosedale Avenue,",USHER WA 6230,Vacant land,0,0,0,305m² ,03 Mar 2021
+"305,000 ","1/18 Kambany Approach,",DALYELLUP WA 6230,Apartment / Unit / Flat,3,2,2,297m² ,01 Mar 2021
+"290,000 ","34 Antelope Turn,",DALYELLUP WA 6230,Vacant land,0,0,0,741m² ,16 Feb 2021
+"60,000 ","24 Davenport Way,",WITHERS WA 6230,Vacant land,0,0,0,304m² ,16 Feb 2021
+"195,000 ","Lot 100 Barker Boulevard,",GLEN IRIS WA 6230,Vacant land,0,0,0,507m² ,10 Feb 2021
+"190,000 ","1/13 Wisbey Street,",CAREY PARK WA 6230,Retirement Living,2,1,1,226m² ,09 Feb 2021
+"350,000 ","2/70 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,09 Feb 2021
+"195,000 ","7 Nornt Link,",DALYELLUP WA 6230,Vacant land,0,0,0,630m² ,06 Feb 2021
+"282,000 ","28B Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,505m² ,01 Feb 2021
+"420,000 ","1/118 Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,4,2,2,416m² ,31 Jan 2021
+"336,000 ","7/87 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,21 Jan 2021
+"90,000 ","Proposed/Lot 1 ,90 Wisbey Street,",CAREY PARK WA 6230,Vacant land,0,0,0,495m² ,19 Jan 2021
+"105,000 ","2C Gibbs Street,",CAREY PARK WA 6230,Vacant land,0,0,0,351m² ,19 Jan 2021
+"320,000 ","5 Agra Way,",DALYELLUP WA 6230,Vacant land,0,0,0,707m² ,19 Jan 2021
+"85,000 ","38/40 Reynolds Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,69m² ,15 Jan 2021
+"336,000 ","11 Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,138m² ",13 Jan 2021
+"180,000 ","23b Holywell Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,348m² ,11 Jan 2021
+"205,000 ","7 Rialto Close,",PELICAN POINT WA 6230,Vacant land,0,0,0,203m² ,07 Jan 2021
+"245,000 ","126c South Western Highway,",GLEN IRIS WA 6230,Apartment / Unit / Flat,3,1,2,415m² ,04 Jan 2021
+"232,000 ","57/12 Sanders Parade,",GLEN IRIS WA 6230,Vacant land,0,0,0,663m² ,24 Dec 2020
+"250,000 ","Proposed/2/11 Kalari Rise,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,382m² ,23 Dec 2020
+"330,000 ","4 Tobar Road,",DALYELLUP WA 6230,Vacant land,0,0,0,882m² ,22 Dec 2020
+"169,000 ","16A Whitley Place,",WITHERS WA 6230,Retirement Living,2,1,2,315m² ,22 Dec 2020
+"225,000 ","12 Smokebush Drive,",DAVENPORT WA 6230,Vacant land,0,0,0,"2,065m² ",21 Dec 2020
+"315,000 ","Lot 84/20 Venn Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,"1,010m² ",04 Dec 2020
+"165,000 ","Prop Lot 2/59 Forrest Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,350m² ,25 Nov 2020
+"210,000 ","37 Sherwood Drive,",DALYELLUP WA 6230,Vacant land,0,0,0,610m² ,20 Nov 2020
+"270,000 ","15 English View,",GELORUP WA 6230,Vacant land,− 0,1,−,"3,840m² ",20 Nov 2020
+"280,000 ","4/77 Beach Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,315m² ,19 Nov 2020
+"210,700 ","65/5 Sanders Parade,",GLEN IRIS WA 6230,Vacant land,0,0,0,602m² ,18 Nov 2020
+"231,700 ","59/8 Sanders Parade,",GLEN IRIS WA 6230,Vacant land,0,0,0,662m² ,06 Nov 2020
+"269,000 ","2/22 Prince Philip Drive,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,219m² ,06 Nov 2020
+"231,700 ","60/6 Sanders Parade,",GLEN IRIS WA 6230,Vacant land,0,0,0,662m² ,04 Nov 2020
+"210,000 ","2/7 Hayward St,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,160m² ,22 Oct 2020
+"85,000 ","16C Stallard Place,",WITHERS WA 6230,Apartment / Unit / Flat,1,1,1,109m² ,21 Oct 2020
+"150,000 ","8/41 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,249m² ,17 Oct 2020
+"265,000 ","58 Constitution Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,647m² ,13 Oct 2020
+"260,000 ","19 Duncan Way,",EAST BUNBURY WA 6230,Vacant land,0,0,0,690m² ,05 Oct 2020
+"130,000 ","105 Norton Promenade,",DALYELLUP WA 6230,Vacant land,0,0,0,347m² ,02 Oct 2020
+"295,000 ","296A Blair Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,404m² ,29 Sep 2020
+"157,000 ","68B King Road,",EAST BUNBURY WA 6230,Vacant land,0,0,0,469m² ,24 Sep 2020
+"165,000 ","5 Folly Way,",DALYELLUP WA 6230,Vacant land,0,0,0,569m² ,23 Sep 2020
+"55,000 ","18/3 Wilkerson Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,83m² ,18 Sep 2020
+"215,000 ","23a Holywell Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,357m² ,16 Sep 2020
+"290,000 ","42A Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,260m² ,16 Sep 2020
+"320,000 ","2/8 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,346m² ,14 Sep 2020
+"320,000 ","2/32 Farnell Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,538m² ,09 Sep 2020
+"260,000 ","17 Duncan Way,",EAST BUNBURY WA 6230,Vacant land,0,0,0,713m² ,07 Sep 2020
+"175,000 ","3 Geographe Way,",WITHERS WA 6230,Vacant land,0,0,0,700m² ,07 Sep 2020
+"489,000 ","5 Pendal Street,",SOUTH BUNBURY WA 6230,Block of units,6,3,3,"1,290m² ",31 Aug 2020
+"213,500 ","Lot 66/7 Sanders Parade,",GLEN IRIS WA 6230,Vacant land,0,0,0,610m² ,26 Aug 2020
+"330,000 ","27 Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,822m² ,22 Aug 2020
+"160,000 ","21 Kinkella Drive,",CAREY PARK WA 6230,Vacant land,0,0,0,684m² ,20 Aug 2020
+"320,000 ","5 Eden Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,017m² ",18 Aug 2020
+"275,000 ","22A Claymore Loop,",DALYELLUP WA 6230,Apartment / Unit / Flat,3,2,3,368m² ,17 Aug 2020
+"233,000 ","3 Mossdale Place,",GELORUP WA 6230,Vacant land,0,0,0,"3,949m² ",17 Aug 2020
+"210,000 ","15 Citrine Street,",DALYELLUP WA 6230,Vacant land,0,0,0,721m² ,13 Aug 2020
+"250,000 ","263 Dalyellup Boulevard,",DALYELLUP WA 6230,Vacant land,0,0,0,675m² ,05 Aug 2020
+"172,000 ","1/8 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,398m² ,05 Aug 2020
+"210,000 ","11 Ducane Road,",GELORUP WA 6230,Vacant land,0,0,0,"3,710m² ",03 Aug 2020
+"205,000 ","52B Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,271m² ,31 Jul 2020
+"286,000 ","10A Taunton Street,",EAST BUNBURY WA 6230,Townhouse,4,2,1,229m² ,30 Jul 2020
+"156,000 ","46 Sapphire Road,",DALYELLUP WA 6230,Vacant land,0,0,0,554m² ,29 Jul 2020
+"360,000 ","7 Warut Way,",DALYELLUP WA 6230,Vacant land,0,0,0,"1,988m² ",2020
+"225,000 ","Lot 58/10 Sanders Parade,",GLEN IRIS WA 6230,Vacant land,0,0,0,662m² ,21 Jul 2020
+"226,200 ","Lot 56/68 Moonlight Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,580m² ,21 Jul 2020
+"275,000 ","286 Norton Promenade,",DALYELLUP WA 6230,Vacant land,0,0,0,757m² ,14 Jul 2020
+"235,000 ","46 Mangles Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,902m² ,30 Jun 2020
+"279,000 ","3 Olsen Grove,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,694m² ,26 Jun 2020
+"365,000 ","40b Thomas Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,460m² ,24 Jun 2020
+"55,000 ","30/3 Wilkerson Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,82m² ,24 Jun 2020
+"235,000 ","64B Wisbey Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,283m² ,22 Jun 2020
+"147,500 ","4B Katherine Place,",USHER WA 6230,Apartment / Unit / Flat,2,1,1,97m² ,22 Jun 2020
+"55,000 ","16/3 Wilkerson Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,82m² ,22 Jun 2020
+"55,000 ","17/3 Wilkerson Way,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,82m² ,22 Jun 2020
+"88,000 ","6 Rendell Elbow,",WITHERS WA 6230,Vacant land,0,0,0,"1,138m² ",17 Jun 2020
+"100,000 ","31a Ecclestone Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,2,1,1,338m² ,16 Jun 2020
+"193,000 ","1/212 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,199m² ,16 Jun 2020
+"235,000 ","2/226 Spencer Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,607m² ",12 Jun 2020
+"270,000 ","11B Montgomery Road,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,765m² ,11 Jun 2020
+"155,000 ","Lot 3 Mosedale Avenue,",USHER WA 6230,Vacant land,0,0,0,615m² ,04 Jun 2020
+"113,000 ","375 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,367m² ,28 May 2020
+"210,000 ","3/212 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,133m² ,28 May 2020
+"313,000 ","75B Hayes Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,−,262m² ,27 May 2020
+"500,000 ","10 Rialto Close,",PELICAN POINT WA 6230,Vacant land,0,0,0,758m² ,21 May 2020
+"171,000 ","47 Somerville Drive,",COLLEGE GROVE WA 6230,Vacant land,0,0,0,551m² ,19 May 2020
+"95,000 ","21 Mondak Place,",CAREY PARK WA 6230,Vacant land,0,0,0,736m² ,18 May 2020
+"265,000 ","2/125 Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,378m² ,03 May 2020
+"80,000 ","7 Garda Way,",CAREY PARK WA 6230,Vacant land,0,0,0,275m² ,01 May 2020
+"170,000 ","17/60 Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,190m² ,24 Apr 2020
+"120,000 ","13 Bow Street,",GLEN IRIS WA 6230,Vacant land,0,0,0,456m² ,17 Apr 2020
+"200,000 ","52A Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,271m² ,16 Apr 2020
+"300,000 ","20A Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,566m² ,06 Apr 2020
+"185,000 ","16A Evedon Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,415m² ,01 Apr 2020
+"180,000 ","1/106 Strickland Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,328m² ,26 Mar 2020
+"177,500 ","13A Little Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,285m² ,20 Mar 2020
+"350,000 ","2/165 Spencer Street,",SOUTH BUNBURY WA 6230,Townhouse,3,2,2,476m² ,20 Mar 2020
+"145,000 ","17 Little Street,",CAREY PARK WA 6230,Vacant land,0,0,0,"1,133m² ",12 Mar 2020
+"227,500 ","2/11 Carlson Place,",USHER WA 6230,Apartment / Unit / Flat,3,1,2,292m² ,12 Mar 2020
+"310,000 ","3/24 Forrest Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,384m² ,28 Feb 2020
+"321,000 ","78B Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,270m² ,25 Feb 2020
+"210,000 ","9 Ducane Road,",GELORUP WA 6230,Vacant land,0,0,0,"3,719m² ",24 Feb 2020
+"325,000 ","2/12 Olsen Grove,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,4,504m² ,17 Feb 2020
+"140,000 ","21 Lowe Street,",CAREY PARK WA 6230,Vacant land,0,0,0,"1,004m² ",13 Feb 2020
+"220,000 ","5/238 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,475m² ,04 Feb 2020
+"146,000 ","Lot 2/60 Clarke Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,503m² ,31 Jan 2020
+"540,000 ","19 Portofino Crescent,",PELICAN POINT WA 6230,Vacant land,0,0,0,851m² ,28 Jan 2020
+"350,000 ","21A Forrest Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,302m² ,23 Jan 2020
+"450,000 ","14 Broadway,",PELICAN POINT WA 6230,Vacant land,0,0,0,"3,838m² ",22 Jan 2020
+"307,500 ","Unit 2/18 Constitution St,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,322m² ,16 Jan 2020
+"353,000 ","9 Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,157m² ",16 Jan 2020
+"630,000 ","23 Balgore Way,",CAREY PARK WA 6230,Block of units,8,5,3,767m² ,15 Jan 2020
+"250,000 ","4B St Marks Place,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,441m² ,15 Jan 2020
+"165,000 ","22B Windich Way,",CAREY PARK WA 6230,Apartment / Unit / Flat,2,1,1,75m² ,09 Jan 2020
+"242,000 ","60 Bibra Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,558m² ,31 Dec 2019
+"320,000 ","1A Boab Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,465m² ,28 Dec 2019
+"212,500 ","3/92 Strickland Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,518m² ,23 Dec 2019
+"185,000 ","4/106 Strickland Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,331m² ,19 Dec 2019
+"220,000 ","16 Evedon Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,475m² ,06 Dec 2019
+"390,000 ","31 Vickery Crescent,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,972m² ,18 Nov 2019
+"160,000 ","Proposed L/68 68 King Road,",EAST BUNBURY WA 6230,Vacant land,0,0,0,340m² ,11 Nov 2019
+"149,000 ","Unit 2/21 Sulphur Street,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,−,"1,133m² ",07 Nov 2019
+"240,000 ","316 Dalyellup Boulevard,",DALYELLUP WA 6230,Vacant land,0,0,0,765m² ,06 Nov 2019
+"285,000 ","4 Zedor Way,",DALYELLUP WA 6230,Vacant land,0,0,0,607m² ,28 Oct 2019
+"230,000 ","Lot 101 Barker Boulevard,",GLEN IRIS WA 6230,Vacant land,0,0,0,692m² ,04 Oct 2019
+"220,000 ","8/95 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,239m² ,03 Oct 2019
+"245,000 ","1/95 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,248m² ,01 Oct 2019
+"115,000 ","11A White Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,260m² ,29 Sep 2019
+"225,000 ","9/38 Preston Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,130m² ,18 Sep 2019
+"530,000 ","52 Austral Parade,",EAST BUNBURY WA 6230,Vacant land,0,0,0,"2,023m² ",11 Sep 2019
+"220,000 ","3/124 Strickland Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,430m² ,30 Aug 2019
+"145,000 ","12A Moolyeen Road,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,394m² ,27 Aug 2019
+"220,000 ","7B Little Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,284m² ,22 Aug 2019
+"315,000 ","2/55 Somerville Drive,",COLLEGE GROVE WA 6230,Apartment / Unit / Flat,3,2,2,397m² ,16 Aug 2019
+"262,500 ","4 Boab Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,431m² ,12 Aug 2019
+"280,000 ","1 Dreys Place,",GELORUP WA 6230,Vacant land,0,0,0,"3,591m² ",05 Aug 2019
+"228,000 ","Lot 2, 54 Thomas Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,321m² ,02 Aug 2019
+"234,000 ","8/101 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,299m² ,02 Aug 2019
+"455,000 ","1/3 Hough Road,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,340m² ,01 Aug 2019
+"365,900 ","2/5 Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,275m² ,29 Jul 2019
+"160,000 ","25A Seashore Mews,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,445m² ,25 Jul 2019
+"287,000 ","10 Boab Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,419m² ,05 Jul 2019
+"57,000 ","27A Winton Street,",CAREY PARK WA 6230,Vacant land,0,0,0,361m² ,28 Jun 2019
+"230,000 ","UNIT 10, 101 CLARKE STREET,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,3,298m² ,28 Jun 2019
+"270,000 ","4A St Marks Place,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,409m² ,31 May 2019
+"390,000 ","8a San Marco Promenade,",PELICAN POINT WA 6230,Vacant land,0,0,0,530m² ,14 May 2019
+"280,000 ","5/8 Premier Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,338m² ,10 Apr 2019
+"275,000 ","11A Elmbank Close,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,270m² ,03 Apr 2019
+"250,000 ","34 Killerby Drive,",DALYELLUP WA 6230,Vacant land,0,0,0,730m² ,26 Mar 2019
+"311,000 ","1/18 King Road,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,425m² ,04 Feb 2019
+"325,000 ","12/87 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,271m² ,24 Jan 2019
+"201,200 ","Proposed Lot 71 Moonlight Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,508m² ,15 Jan 2019
+"199,000 ","1 Muir Road,",DALYELLUP WA 6230,Vacant land,0,0,0,662m² ,03 Jan 2019
+"224,000 ","19B Seashore Mews,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,298m² ,23 Dec 2018
+"315,000 ","6/8 PREMIER STREET,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,421m² ,30 Nov 2018
+"280,000 ","1/21 Prince Phillip Drive,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,352m² ,28 Nov 2018
+"230,000 ","20 Lee Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,549m² ,23 Nov 2018
+"270,000 ","Unit 2/110 Mangles St,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,331m² ,03 Nov 2018
+"150,000 ","4/87 Clarke Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,270m² ,25 Oct 2018
+"550,000 ","16 Lerici Circle,",PELICAN POINT WA 6230,Vacant land,0,0,0,822m² ,19 Oct 2018
+"156,000 ","Lot 896 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,518m² ,27 Sep 2018
+"203,000 ","Proposed Lot 55 Moonlight Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,580m² ,21 Sep 2018
+"215,000 ",,WITHERS WA 6230,Apartment / Unit / Flat,3,1,1,573m² ,10 Sep 2018
+"237,500 ","81 Jubilee Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,802m² ,28 Aug 2018
+"150,000 ","20 Bow Street,",GLEN IRIS WA 6230,Vacant land,0,0,0,570m² ,28 Aug 2018
+"312,000 ","Unit 10/87 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,270m² ,23 Aug 2018
+"360,000 ","Unit 2/12 Francis Street,",SOUTH BUNBURY WA 6230,Townhouse,3,2,2,222m² ,01 Aug 2018
+"165,000 ","23A Farnell Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,388m² ,30 Jul 2018
+"260,000 ","80 Clarke Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,821m² ,26 Jul 2018
+"150,000 ","13 Bow Street,",GLEN IRIS WA 6230,Vacant land,0,0,0,456m² ,12 Jul 2018
+"360,000 ","47 Hutt Drive,",DALYELLUP WA 6230,Vacant land,0,0,0,770m² ,10 Jun 2018
+"270,000 ","28B Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,505m² ,05 Jun 2018
+"240,000 ","1/14 Coote Place,",USHER WA 6230,Apartment / Unit / Flat,3,1,1,424m² ,30 May 2018
+"241,000 ","2/27 Wisbey Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,262m² ,24 May 2018
+"159,000 ","Lot 888 Karnet Link,",DALYELLUP WA 6230,Vacant land,0,0,0,568m² ,18 May 2018
+"163,000 ","17 Unicup Way,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,16 May 2018
+"130,000 ","Lot 912 Dresden Road,",DALYELLUP WA 6230,Vacant land,0,0,0,300m² ,09 May 2018
+"154,000 ","Lot 885 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,510m² ,03 May 2018
+"200,000 ","84a Mangles Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,400m² ,04 Apr 2018
+"275,000 ","1/95 Clarke Street,",SOUTH BUNBURY WA 6230,Block of units,3,1,2,248m² ,20 Mar 2018
+"139,000 ","Lot 610 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,387m² ,16 Mar 2018
+"210,000 ","Lot 102 Barker Boulevard,",GLEN IRIS WA 6230,Vacant land,0,0,0,529m² ,12 Mar 2018
+"280,000 ","40 Antelope Turn,",DALYELLUP WA 6230,Vacant land,0,0,0,788m² ,27 Feb 2018
+"90,000 ","76 Strickland Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,203m² ,27 Feb 2018
+"480,000 ","313 Norton Promenade,",DALYELLUP WA 6230,Vacant land,0,0,0,650m² ,26 Feb 2018
+"515,000 ","Lot 219 Lerici Circle,",PELICAN POINT WA 6230,Vacant land,0,0,0,729m² ,23 Feb 2018
+"260,000 ","44 Portofino Crescent,",PELICAN POINT WA 6230,Vacant land,0,0,0,479m² ,21 Feb 2018
+"155,000 ","10 Bolton Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,288m² ,13 Feb 2018
+"143,000 ","Lot 915 Tiffany Centre,",DALYELLUP WA 6230,Vacant land,0,0,0,375m² ,08 Feb 2018
+"155,000 ","Lot 877 Quillben Road,",DALYELLUP WA 6230,Vacant land,0,0,0,512m² ,01 Feb 2018
+"200,000 ","12 Cambria Road,",DALYELLUP WA 6230,Vacant land,0,0,0,630m² ,30 Jan 2018
+"310,000 ","4C Minninup Road,",SOUTH BUNBURY WA 6230,Block of units,3,2,2,218m² ,09 Jan 2018
+"225,000 ","7/142 Spencer Street,",SOUTH BUNBURY WA 6230,Block of units,2,1,2,167m² ,30 Dec 2017
+"139,000 ","Lot 901 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,372m² ,27 Dec 2017
+"60,000 ","13A Yorla Road,",CAREY PARK WA 6230,Vacant land,0,0,0,269m² ,21 Dec 2017
+"79,000 ","Lot 3/84 Frankel Street,",CAREY PARK WA 6230,Vacant land,0,0,0,649m² ,19 Dec 2017
+"330,000 ","82b Clarke Street,",SOUTH BUNBURY WA 6230,Block of units,3,2,2,422m² ,18 Dec 2017
+"300,000 ","16 Halsey Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,012m² ",13 Dec 2017
+"265,000 ","1/Proposed Lot 1/106 Minninup Road,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,765m² ,12 Dec 2017
+"185,000 ","Lot 115 Jeffrey Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,553m² ,06 Dec 2017
+"185,000 ","Lot 114 Jeffrey Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,538m² ,06 Dec 2017
+"155,000 ","Lot 899 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,535m² ,04 Dec 2017
+"280,000 ","2/Proposed Lot 2/106 Minninup Road,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,761m² ,29 Nov 2017
+"153,000 ","Lot 883 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,512m² ,28 Nov 2017
+"72,500 ","40a Balgore Way,",CAREY PARK WA 6230,Vacant land,0,0,0,299m² ,25 Nov 2017
+"197,500 ","17A Dalhousie Street,",CAREY PARK WA 6230,Block of units,2,1,1,445m² ,24 Nov 2017
+"154,000 ","Lot 884 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,511m² ,23 Nov 2017
+"210,000 ","4A Marmion Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,450m² ,23 Nov 2017
+"190,000 ","277 Dalyellup Boulevard,",DALYELLUP WA 6230,Vacant land,0,0,0,729m² ,17 Nov 2017
+"330,000 ","Lot 1/14 Ambrose Green,",PELICAN POINT WA 6230,Apartment / Unit / Flat,3,2,2,332m² ,16 Nov 2017
+"153,000 ","Lot 881 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,508m² ,18 Oct 2017
+"240,000 ","28B Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,505m² ,29 Sep 2017
+"400,000 ","22 Wongin Road,",DALYELLUP WA 6230,Vacant land,0,0,0,"2,478m² ",28 Sep 2017
+"149,000 ","Lot 726 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,499m² ,26 Sep 2017
+"159,000 ","Lot 754 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,509m² ,22 Sep 2017
+"157,000 ","12 Kooyar Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,561m² ,21 Sep 2017
+"155,000 ","Lot 611 Quillben Road,",DALYELLUP WA 6230,Vacant land,0,0,0,553m² ,18 Sep 2017
+"155,000 ","Lot 897 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,517m² ,14 Sep 2017
+"139,000 ","Lot 900 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,359m² ,13 Sep 2017
+"220,000 ","13c Epacris Elbow,",PELICAN POINT WA 6230,Vacant land,0,0,0,229m² ,12 Sep 2017
+"250,000 ","11/101 Clarke Street,",SOUTH BUNBURY WA 6230,Block of units,3,1,1,277m² ,31 Aug 2017
+"152,000 ","Lot 880 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,493m² ,23 Aug 2017
+"159,000 ","Lot 750 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,545m² ,23 Aug 2017
+"130,000 ","27b Mary Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,293m² ,14 Aug 2017
+"155,000 ","Lot 898 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,519m² ,11 Aug 2017
+"142,000 ","Lot 977 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,08 Aug 2017
+"149,000 ","Lot 725 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,513m² ,07 Aug 2017
+"153,000 ","Lot 882 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,514m² ,25 Jul 2017
+"500,000 ","5 Frances Road,",GELORUP WA 6230,Vacant land,0,0,0,"4,072m² ",19 Jul 2017
+"171,000 ","12/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,329m² ,19 Jul 2017
+"143,000 ","Lot 972 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,14 Jul 2017
+"143,000 ","Lot 974 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,14 Jul 2017
+"142,000 ","Lot 979 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,11 Jul 2017
+"152,000 ","24 Thyme Way,",GLEN IRIS WA 6230,Vacant land,0,0,0,617m² ,21 Jun 2017
+"142,000 ","Lot 978 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,397m² ,02 Jun 2017
+"345,000 ","9/57 Clarke Street,",SOUTH BUNBURY WA 6230,Block of units,3,2,2,272m² ,28 May 2017
+"163,000 ","Lot 724 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,569m² ,26 May 2017
+"145,000 ","36 Poole Road,",DALYELLUP WA 6230,Vacant land,0,0,0,536m² ,24 May 2017
+"154,000 ","Lot 727 Barton Link,",DALYELLUP WA 6230,Vacant land,0,0,0,558m² ,01 May 2017
+"275,000 ","79b King Road,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,504m² ,21 Apr 2017
+"265,000 ","46 Ramillies Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,848m² ,10 Apr 2017
+"340,000 ","96 Wisbey Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,358m² ,05 Apr 2017
+"143,000 ","Lot 970 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,29 Mar 2017
+"280,000 ","13A Woonnar Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,279m² ,27 Mar 2017
+"170,000 ","Lot 745 Barton Link,",DALYELLUP WA 6230,Vacant land,0,0,0,579m² ,23 Mar 2017
+"165,000 ","Lot 731 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,543m² ,16 Mar 2017
+"143,000 ","Lot 973 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,07 Mar 2017
+"200,000 ","5 Worcestor Bend,",DAVENPORT WA 6230,Vacant land,0,0,0,"1,804m² ",23 Feb 2017
+"335,000 ","4B Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,271m² ,22 Feb 2017
+"143,000 ","Lot 918 Tiffany Centre,",DALYELLUP WA 6230,Vacant land,0,0,0,423m² ,20 Feb 2017
+"169,000 ","Lot 730 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,573m² ,13 Feb 2017
+"143,000 ","Lot 976 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,08 Feb 2017
+"143,000 ","Lot 971 Paragon Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,08 Feb 2017
+"143,000 ","Lot 312 Tiffany Centre,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,07 Feb 2017
+"165,000 ","Lot 755 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,527m² ,31 Jan 2017
+"159,000 ","Lot 749 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,547m² ,27 Jan 2017
+"165,000 ","Lot 723 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,569m² ,24 Jan 2017
+"165,000 ","Lot 741 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,563m² ,20 Jan 2017
+"295,000 ","Proposed Lot 3/2 Boab Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,432m² ,20 Jan 2017
+"234,000 ","7 Kingia Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,314m² ,12 Jan 2017
+"447,000 ","1/3 Hough Road,",EAST BUNBURY WA 6230,Townhouse,3,2,2,340m² ,05 Jan 2017
+"420,000 ","3/112 Mangles Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,508m² ,24 Dec 2016
+"139,000 ","Lot 340 Tiffany Centre,",DALYELLUP WA 6230,Vacant land,0,0,0,378m² ,22 Dec 2016
+"345,000 ","17B Seashore Mews,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,488m² ,21 Dec 2016
+"245,000 ","2/212 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,162m² ,14 Dec 2016
+"255,000 ","14/212 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,182m² ,06 Dec 2016
+"465,000 ","6/3 Hough Road,",EAST BUNBURY WA 6230,Townhouse,3,2,2,291m² ,27 Nov 2016
+"155,000 ","9 Graphite Turn,",DALYELLUP WA 6230,Vacant land,0,0,0,561m² ,21 Nov 2016
+"149,000 ","Lot 943 Dresden Road,",DALYELLUP WA 6230,Vacant land,0,0,0,434m² ,21 Nov 2016
+"360,000 ","Proposed Lot 3/14 Ambrose Green,",PELICAN POINT WA 6230,Apartment / Unit / Flat,3,2,2,328m² ,18 Nov 2016
+"142,000 ","4/15 Thyme Way,",GLEN IRIS WA 6230,Vacant land,0,0,0,401m² ,10 Nov 2016
+"149,000 ","Lot 968 Murtin Road,",DALYELLUP WA 6230,Vacant land,0,0,0,455m² ,04 Nov 2016
+"277,000 ","2/7 Claughton Way,",GLEN IRIS WA 6230,Apartment / Unit / Flat,3,1,1,557m² ,01 Nov 2016
+"530,000 ","19 Lerici Circle,",PELICAN POINT WA 6230,Vacant land,0,0,0,732m² ,27 Oct 2016
+"165,000 ","Lot 722 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,569m² ,30 Sep 2016
+"159,000 ","Lot 751 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,549m² ,28 Sep 2016
+"297,000 ","37a Mary Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,302m² ,23 Sep 2016
+"159,000 ","Lot 748 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,550m² ,22 Sep 2016
+"169,000 ","Lot 729 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,584m² ,15 Sep 2016
+"249,000 ","62 Bibra Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,516m² ,15 Sep 2016
+"165,000 ","Lot 738 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,586m² ,01 Sep 2016
+"148,000 ","U3/2 Fielder St,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,255m² ,30 Aug 2016
+"99,000 ","2/1 Frankel Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,431m² ,29 Aug 2016
+"315,000 ","2/87 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,272m² ,25 Aug 2016
+"137,000 ","Lot 309 Tiffany Centre,",DALYELLUP WA 6230,Vacant land,0,0,0,377m² ,23 Aug 2016
+"169,000 ","Lot 728 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,596m² ,17 Aug 2016
+"165,000 ","Lot 733 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,540m² ,16 Aug 2016
+"143,000 ","Lot/311 Tiffany Centre,",DALYELLUP WA 6230,Vacant land,0,0,0,400m² ,15 Aug 2016
+"139,000 ","Lot 336 Tiffany Centre,",DALYELLUP WA 6230,Vacant land,0,0,0,378m² ,12 Aug 2016
+"360,000 ","8A White Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,374m² ,11 Aug 2016
+"184,000 ","30a Venn Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,469m² ,25 Jul 2016
+"165,000 ","Lot 732 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,545m² ,13 Jul 2016
+"545,000 ","195 Ocean Drive,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,741m² ,09 Jul 2016
+"125,000 ","15/17 Hayward St,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,200m² ,08 Jul 2016
+"139,000 ","Lot 1, 753 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,332m² ,27 Jun 2016
+"700,000 ","2 Boab Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,502m² ",23 Jun 2016
+"165,000 ","Lot 752 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,558m² ,17 Jun 2016
+"695,000 ","1 Boab Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,503m² ",12 Jun 2016
+"333,000 ","12 Eva Fairway,",DALYELLUP WA 6230,Vacant land,0,0,0,657m² ,27 May 2016
+"365,000 ","9 Ashford Place,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,075m² ",27 May 2016
+"139,000 ","Lot 1, 735 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,369m² ,13 May 2016
+"280,000 ","2/27 Seashore Mews,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,417m² ,11 May 2016
+"139,000 ","3/15 Thyme Way,",GLEN IRIS WA 6230,Vacant land,0,0,0,404m² ,10 May 2016
+"173,000 ","3/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,329m² ,26 Apr 2016
+"242,500 ","9/212 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,176m² ,06 Apr 2016
+"260,000 ","24A College Row,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,537m² ,01 Apr 2016
+"235,000 ","3/21 White Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,76m² ,31 Mar 2016
+"355,000 ","3/8 Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,346m² ,31 Mar 2016
+"260,000 ","16/196 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,295m² ,30 Mar 2016
+"150,000 ","10/13 Forrest Avenue, PLAZA COURT,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,327m² ,29 Mar 2016
+"318,000 ","39 Hawkins Drive,",GELORUP WA 6230,Vacant land,0,0,0,"4,131m² ",28 Mar 2016
+"385,000 ","15 Wisteria Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,600m² ,24 Mar 2016
+"295,000 ","5/26 Constitution Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,271m² ,20 Mar 2016
+"185,000 ","2/37A Beach Road,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,404m² ,01 Mar 2016
+"135,000 ","5/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,288m² ,29 Feb 2016
+"150,000 ","17/17 Hayward Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,201m² ,08 Feb 2016
+"150,000 ","Lot 2 - 15 Gibson Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,282m² ,02 Feb 2016
+"265,000 ","2/11 Carlson Place,",USHER WA 6230,Apartment / Unit / Flat,3,1,−,279m² ,25 Jan 2016
+"250,000 ","10 Isernia Place,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,374m² ,22 Jan 2016
+"165,000 ","84a Clarke Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,437m² ,04 Jan 2016
+"139,000 ","Lot 1/581 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,379m² ,13 Dec 2015
+"236,000 ","3/20 Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,438m² ,10 Dec 2015
+"420,000 ","49D Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,4,443m² ,08 Dec 2015
+"341,000 ","4/15 Gibson Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,273m² ,02 Dec 2015
+"169,000 ","Lot 743 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,598m² ,25 Nov 2015
+"345,000 ","8 Piara Way,",DALYELLUP WA 6230,Vacant land,0,0,0,"2,033m² ",21 Nov 2015
+"500,000 ","2/14 Hoylake Avenue,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,319m² ,30 Oct 2015
+"350,000 ","3/15 Gibson Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,276m² ,30 Oct 2015
+"175,000 ","Lot 759 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,598m² ,28 Oct 2015
+"297,000 ","11 Mindalong Close,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,138m² ",23 Oct 2015
+"307,500 ","5A Stirton Court,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,285m² ,19 Oct 2015
+"350,000 ","2B Shelley Street,",DALYELLUP WA 6230,Apartment / Unit / Flat,3,2,2,378m² ,12 Oct 2015
+"385,000 ","1/32 Prince Philip Drive,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,421m² ,09 Oct 2015
+"271,000 ","11/196 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,200m² ,08 Oct 2015
+"300,000 ","19 Hastie Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,976m² ,06 Oct 2015
+"153,000 ","Lot 746 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,490m² ,26 Sep 2015
+"320,000 ","8/101 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,299m² ,23 Sep 2015
+"139,000 ","Lot 2/560 Beraking Loop,",DALYELLUP WA 6230,Vacant land,0,0,0,376m² ,14 Sep 2015
+"292,500 ","4/5 Cambridge Crescent,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,484m² ,07 Sep 2015
+"485,000 ","19B Gregory Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,3,2,542m² ,04 Sep 2015
+"156,000 ","2/29 Steere Crescent,",CAREY PARK WA 6230,Vacant land,0,0,0,443m² ,03 Sep 2015
+"244,000 ","41b Devonshire Street,",WITHERS WA 6230,Apartment / Unit / Flat,2,1,1,311m² ,28 Aug 2015
+"240,000 ","14/212 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,182m² ,24 Aug 2015
+"170,000 ","Lot 747 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,603m² ,18 Aug 2015
+"265,000 ","8/196 Spencer Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,201m² ,12 Aug 2015
+"284,000 ","5B Elmbank Close,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,309m² ,04 Aug 2015
+"340,000 ","40 Portofino Crescent,",PELICAN POINT WA 6230,Vacant land,0,0,0,527m² ,31 Jul 2015
+"261,250 ","8B Absolon Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,291m² ,30 Jul 2015
+"129,000 ","Lot 1/737 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,375m² ,29 Jul 2015
+"169,000 ","Lot 744 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,615m² ,29 Jul 2015
+"285,000 ","16 Hasties Road,",GELORUP WA 6230,Vacant land,0,0,0,"4,894m² ",16 Jul 2015
+"323,000 ","2/1 Little Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,301m² ,15 Jul 2015
+"139,000 ","Lot 1/558 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,368m² ,09 Jul 2015
+"290,000 ","143A Minninup Road,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,412m² ,03 Jul 2015
+"135,000 ","37B Frankel Street,",CAREY PARK WA 6230,Vacant land,0,0,0,510m² ,28 Jun 2015
+"182,000 ","91A Strickland Street,",EAST BUNBURY WA 6230,Vacant land,0,0,0,380m² ,25 Jun 2015
+"401,000 ","11B Steere Crescent,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,368m² ,22 Jun 2015
+"125,000 ","Lot 351 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,360m² ,08 Jun 2015
+"178,000 ","Lot 1 - 15 Gibson Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,328m² ,22 May 2015
+"250,000 ","3/50 Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,249m² ,08 May 2015
+"285,000 ","1/29 Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,387m² ,01 May 2015
+"257,000 ","15 Rodondo Street,",DALYELLUP WA 6230,Vacant land,0,0,0,627m² ,21 Apr 2015
+"179,000 ","1/195 Spencer Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,323m² ,14 Apr 2015
+"299,000 ","8 Eva Fairway,",DALYELLUP WA 6230,Vacant land,0,0,0,659m² ,09 Apr 2015
+"182,500 ","11/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,339m² ,16 Mar 2015
+"250,000 ","75 Jubilee Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,702m² ,12 Mar 2015
+"280,000 ","1/63 Clarke Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,2,2,319m² ,09 Mar 2015
+"238,000 ","30 Gutmann Parkway,",DALYELLUP WA 6230,Vacant land,0,0,0,635m² ,09 Feb 2015
+"280,000 ","27 Properjohn Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,371m² ,09 Feb 2015
+"260,000 ","18 Isernia Place,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,454m² ,14 Jan 2015
+"250,000 ","14 Isernia PLace,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,375m² ,13 Jan 2015
+"250,000 ","14 Isernia Place,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,375m² ,13 Jan 2015
+"355,000 ","12 Kelly Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,"1,214m² ",12 Jan 2015
+"127,000 ","Lot 360 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,379m² ,20 Dec 2014
+"160,000 ","73 Ince Road,",GLEN IRIS WA 6230,Vacant land,0,0,0,532m² ,17 Dec 2014
+"270,000 ","9 Aurora Street,",DALYELLUP WA 6230,Vacant land,0,0,0,905m² ,12 Dec 2014
+"139,000 ","Lot 2/737 Wuraming Bend,",DALYELLUP WA 6230,Vacant land,0,0,0,375m² ,01 Dec 2014
+"127,000 ","Lot 324 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,385m² ,24 Nov 2014
+"258,000 ","3B Nenke Way,",GLEN IRIS WA 6230,Apartment / Unit / Flat,3,1,1,595m² ,21 Nov 2014
+"327,500 ","13 Macedon Road,",DALYELLUP WA 6230,Vacant land,0,0,0,804m² ,19 Nov 2014
+"129,000 ","Lot 299 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,445m² ,17 Nov 2014
+"129,000 ","Lot 350 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,360m² ,10 Nov 2014
+"200,000 ","14 Barker Boulevard,",GLEN IRIS WA 6230,Vacant land,0,0,0,601m² ,07 Nov 2014
+"445,000 ","7 Fielder Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,−,369m² ,07 Nov 2014
+"470,000 ","19 San Marco Promenade,",PELICAN POINT WA 6230,Vacant land,0,0,0,761m² ,05 Nov 2014
+"348,000 ","1/10 Prince Philip Drive,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,2,0,30 Oct 2014
+"150,000 ","6/Bolton Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,262m² ,23 Oct 2014
+"310,000 ","12 Eva Fairway,",DALYELLUP WA 6230,Vacant land,0,0,0,657m² ,17 Oct 2014
+"165,000 ","218 Norton Promenade,",DALYELLUP WA 6230,Vacant land,0,0,0,358m² ,09 Oct 2014
+"250,000 ","2/12 Austral Parade,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,−,90m² ,22 Sep 2014
+"363,000 ","13B Gibson Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,2,257m² ,11 Sep 2014
+"282,000 ","23 Parry Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,882m² ,10 Sep 2014
+"211,000 ","7 Ashbank Green,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,551m² ,03 Sep 2014
+"295,000 ","6 Herald Way,",DALYELLUP WA 6230,Vacant land,0,0,0,787m² ,27 Aug 2014
+"240,000 ","22A Wisbey Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,4,1,1,280m² ,18 Aug 2014
+"215,000 ","U1/1 Bray Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,2,270m² ,18 Aug 2014
+"316,000 ","55A Hayes Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,2,1,255m² ,15 Aug 2014
+"129,000 ","Lot 325 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,384m² ,05 Aug 2014
+"129,000 ","Lot 327 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,384m² ,20 Jul 2014
+"285,000 ","2/196 Clarke Street East,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,2,350m² ,14 Jul 2014
+"265,000 ","1/196 Clarke Street East,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,350m² ,14 Jul 2014
+"300,000 ","2A Gurinda Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,−,270m² ,15 Jun 2014
+"570,000 ","8/13 Forrest Avenue, Plaza Court,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,4,2,−,264m² ,06 Jun 2014
+"280,000 ","15b Frankel Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,1,2,271m² ,04 Jun 2014
+"450,000 ","23 Lerici Circle,",PELICAN POINT WA 6230,Vacant land,0,0,0,729m² ,30 May 2014
+"252,500 ","6 Katinka Street,",DALYELLUP WA 6230,Vacant land,0,0,0,711m² ,19 May 2014
+"420,000 ","65 Hutt Drive,",DALYELLUP WA 6230,Vacant land,0,0,0,670m² ,08 May 2014
+"280,000 ","15/60 Halsey Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,141m² ,14 Apr 2014
+"285,000 ","2/21 White Street,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,2,1,−,76m² ,12 Apr 2014
+"179,000 ","11 Maidmarian Street,",DALYELLUP WA 6230,Vacant land,0,0,0,648m² ,04 Apr 2014
+"254,000 ","9 Boab Court,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,371m² ,31 Mar 2014
+"117,000 ","Lot 349 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,386m² ,25 Mar 2014
+"155,000 ",,GLEN IRIS WA 6230,Vacant land,0,0,0,563m² ,25 Mar 2014
+"320,000 ","19 Stanbury Crescent,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,796m² ,25 Feb 2014
+"182,000 ","13 Friartuck Road,",DALYELLUP WA 6230,Vacant land,0,0,0,677m² ,17 Feb 2014
+"155,000 ","344 Ocean Drive,",USHER WA 6230,Vacant land,0,0,0,680m² ,12 Feb 2014
+"205,000 ","46 Mangles Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,902m² ,30 Jan 2014
+"267,500 ","3 Katinka Street,",DALYELLUP WA 6230,Vacant land,0,0,0,811m² ,09 Jan 2014
+"450,000 ",,EAST BUNBURY WA 6230,Studio,2,1,−,"1,136m² ",20 Dec 2013
+"230,000 ","44 Mangles Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,714m² ,18 Dec 2013
+"179,000 ","70 Wentworth Drive,",DALYELLUP WA 6230,Vacant land,0,0,0,732m² ,12 Sep 2013
+"280,000 ","38 Loretta Avenue,",GELORUP WA 6230,Vacant land,0,0,0,"3,638m² ",02 Sep 2013
+"115,000 ","Lot 297 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,416m² ,15 Aug 2013
+"115,000 ","Lot 296 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,416m² ,01 Aug 2013
+"114,000 ","Lot 295 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,457m² ,28 Jul 2013
+"287,000 ","7 Herald Way,",DALYELLUP WA 6230,Vacant land,0,0,0,684m² ,
+"310,000 ","2 Dreys Place,",GELORUP WA 6230,Vacant land,0,0,0,"3,791m² ",05 Jul 2013
+"179,000 ","21 Sherwood Drive,",DALYELLUP WA 6230,Vacant land,0,0,0,611m² ,29 May 2013
+"300,000 ","4 Dreys Place,",GELORUP WA 6230,Vacant land,0,0,0,"3,633m² ",29 Apr 2013
+"160,000 ","16 Carnegie Street,",DALYELLUP WA 6230,Vacant land,0,0,0,651m² ,02 Apr 2013
+"990,000 ","20 Forrest Avenue,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,2,1,1,"1,012m² ",14 Mar 2013
+"285,000 ","46B Jarvis Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,312m² ,12 Mar 2013
+"225,000 ","27 Wass Drive,",GLEN IRIS WA 6230,Vacant land,0,0,0,562m² ,08 Mar 2013
+"112,000 ","Lot 328 Parade Road,",DALYELLUP WA 6230,Vacant land,0,0,0,391m² ,01 Mar 2013
+"143,500 ","21 Walton Approach,",DALYELLUP WA 6230,Vacant land,0,0,0,670m² ,19 Feb 2013
+"245,000 ","11/12 Austral Parade,",EAST BUNBURY WA 6230,Apartment / Unit / Flat,3,1,1,90m² ,17 Jan 2013
+"250,000 ","23 Parry Street,",SOUTH BUNBURY WA 6230,Vacant land,0,0,0,882m² ,14 Jan 2013
+"225,000 ","1A Harland Street,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,−,394m² ,08 Jan 2013
+"249,500 ","1/11 Mondak Place,",CAREY PARK WA 6230,Apartment / Unit / Flat,3,2,1,314m² ,12 Nov 2012
+"140,000 ","15 Maidmarian Street,",DALYELLUP WA 6230,Vacant land,0,0,0,595m² ,24 Oct 2012
+"350,000 ","1/8A Francis Street,",SOUTH BUNBURY WA 6230,Apartment / Unit / Flat,3,2,−,222m² ,22 Oct 2012
+"235,000 ","29 Loretta Avenue,",GELORUP WA 6230,Vacant land,0,0,0,"3,641m² ",21 Sep 2012

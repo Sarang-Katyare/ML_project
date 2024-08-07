@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,702,000 ","16 Reynolds Street,",CURTIN ACT 2605,House,4,2,2,"1,205m² ",2024
+"744,000 ","48 Wiburd Street,",BANKS ACT 2906,House,3,1,1,528m² ,26 Apr 2024
+"945,000 ","48 Gouldsmith Street,",DUNLOP ACT 2615,House,4,2,2,505m² ,6 Apr 2024
+"1,395,000 ","2/22 Rosebery Street,",FISHER ACT 2611,Semi-detached,4,2,2,430m² ,26 Apr 2024
+"945,000 ","66 Woodfull Loop,",GORDON ACT 2906,House,4,2,1,849m² ,26 Apr 2024
+"940,000 ","275 Anthony Rolfe Ave,",GUNGAHLIN ACT 2912,House,4,2,2,396m² ,26 Apr 2024
+"710,000 ","24 Murrung Crescent,",NGUNNAWAL ACT 2913,House,3,1,1,382m² ,26 Apr 2024
+"1,135,000 ","53 Jill Landsberg Terrace,",STRATHNAIRN ACT 2615,House,4,2,2,527m² ,26 Apr 2024
+"1,340,000 ","11 Edwin Oribin Street,",TAYLOR ACT 2913,House,4,3,2,540m² ,26 Apr 2024
+"930,000 ","5 Dinah Street,",BONNER ACT 2914,House,3,2,1,450m² ,24 Apr 2024
+"1,050,000 ","6 Critchley Street,",CASEY ACT 2913,House,4,2,2,465m² ,24 Apr 2024
+"4,001,000 ","74 Dominion Circuit,",DEAKIN ACT 2600,House,5,3,2,"1,870m² ",24 Apr 2024
+"1,500,000 ","13 Cashman Street,",DENMAN PROSPECT ACT 2611,House,4,2,2,565m² ,2024
+"831,000 ","80 Shoobridge Circuit,",DUNLOP ACT 2615,House,3,2,3,502m² ,24 Apr 2024
+"1,186,000 ","9 Cameron Street,",FARRER ACT 2607,House,4,2,1,866m² ,24 Apr 2024
+"911,000 ","10 Buriga Street,",GIRALANG ACT 2617,House,4,2,2,751m² ,2024
+"965,000 ","6/155 Maribyrnong Avenue,",KALEEN ACT 2617,House,4,2,2,"3,420m² ",24 Apr 2024
+"721,000 ","1 Mcghie Place,",LATHAM ACT 2615,House,3,2,3,804m² ,2024
+"1,250,000 ","10 Grassick Street,",TAYLOR ACT 2913,House,4,2,2,470m² ,24 Apr 2024
+"980,000 ","2 Terewah Circuit,",KALEEN ACT 2617,House,3,1,4,"1,045m² ",23 Apr 2024
+"840,000 ","8 Bosworth Circuit,",KAMBAH ACT 2902,House,4,3,3,870m² ,23 Apr 2024
+"877,500 ","47 Symers Street,",KAMBAH ACT 2902,House,3,2,1,744m² ,23 Apr 2024
+"1,190,000 ","19 Fairfax Street,",O'CONNOR ACT 2602,House,4,2,1,740m² ,23 Apr 2024
+"1,150,000 ","4 Hearn Street,",WATSON ACT 2602,House,4,2,5,829m² ,23 Apr 2024
+"842,000 ","104 Barr Smith Avenue,",BONYTHON ACT 2905,House,3,2,1,790m² ,22 Apr 2024
+"890,000 ","128 Outtrim Avenue,",CALWELL ACT 2905,House,4,3,2,721m² ,22 Apr 2024
+"1,527,500 ","1 Read Place,",EVATT ACT 2617,House,4,4,8,"1,154m² ",2024
+"1,300,000 ","1 Jessie Street,",FORDE ACT 2914,House,4,3,2,563m² ,22 Apr 2024
+"795,000 ","29 Lyall Crescent,",KAMBAH ACT 2902,House,3,2,4,978m² ,22 Apr 2024
+"1,150,000 ","16 Fristrom Crescent,",LYNEHAM ACT 2602,House,3,2,2,450m² ,22 Apr 2024
+"1,306,000 ","3 Gordon Close,",NICHOLLS ACT 2913,House,5,2,3,724m² ,22 Apr 2024
+"1,020,000 ","42 Emily Bulcock Crescent,",GILMORE ACT 2905,House,4,2,2,803m² ,2024
+"1,500,000 ","26 Von Guerard Crescent,",LYNEHAM ACT 2602,House,5,2,2,821m² ,2024
+"730,000 ","45 John James Loop,",MACGREGOR ACT 2615,House,3,2,1,464m² ,2024
+"996,000 ","22 Beaney Street,",MACGREGOR ACT 2615,House,4,2,2,876m² ,2024
+"1,316,000 ","7A Cassia Place,",RIVETT ACT 2611,House,4,2,1,335m² ,2024
+"910,000 ","89 Sternberg Crescent,",WANNIASSA ACT 2903,House,4,2,2,848m² ,2024
+"1,460,000 ","25 Ada Evans Street,",WATSON ACT 2602,House,4,2,2,492m² ,2024
+"1,208,000 ","14 Parfitt Crescent,",CALWELL ACT 2905,House,5,2,2,"1,340m² ",19 Apr 2024
+"775,000 ","77 Rockwood Street,",CASEY ACT 2913,House,3,2,1,240m² ,19 Apr 2024
+"951,000 ",,CRACE ACT 2911,House,3,2,2,450m² ,19 Apr 2024
+"1,140,000 ","33 Daley Crescent,",FRASER ACT 2615,House,4,3,2,"1,128m² ",2024
+"835,000 ","8 Donald Place,",GILMORE ACT 2905,House,3,1,9,"1,103m² ",19 Apr 2024
+"899,000 ","63 Carroll Street,",HUGHES ACT 2605,House,2,1,1,343m² ,19 Apr 2024
+"980,000 ","23 Alabaster Street,",MONASH ACT 2904,House,4,2,2,731m² ,19 Apr 2024
+"1,150,000 ","24 Burbidge Crescent,",PALMERSTON ACT 2913,House,4,2,2,701m² ,19 Apr 2024
+"881,000 ","3 Wambaya Crescent,",WARAMANGA ACT 2611,House,4,1,1,778m² ,19 Apr 2024
+"865,000 ",,COOMBS ACT 2611,House,4,2,2,248m² ,18 Apr 2024
+"990,000 ","458 Bugden Avenue,",FADDEN ACT 2904,House,4,2,2,"1,212m² ",18 Apr 2024
+"4,320,000 ","28 Arthur Circle,",FORREST ACT 2603,House,6,5,3,"1,303m² ",18 Apr 2024
+"1,450,000 ","4 Bogan Place,",KALEEN ACT 2617,House,4,3,2,797m² ,18 Apr 2024
+"1,130,000 ","46 Earle Street,",LYNEHAM ACT 2602,House,3,1,1,761m² ,8 Apr 2024
+"1,030,000 ","4 Baldwinson Street,",TAYLOR ACT 2913,House,5,2,2,471m² ,18 Apr 2024
+"760,000 ","22 Salisbury Street,",CASEY ACT 2913,House,3,2,2,234m² ,17 Apr 2024
+"830,000 ","34 Hedland Circuit,",FLYNN ACT 2615,Semi-detached,3,2,2,392m² ,17 Apr 2024
+"915,000 ","14 Hedland Circuit,",FLYNN ACT 2615,House,4,2,2,807m² ,2024
+"1,400,000 ","94 Groom Street,",HUGHES ACT 2605,House,4,2,2,"1,121m² ",17 Apr 2024
+"630,000 ","67 Ferguson Circuit,",NGUNNAWAL ACT 2913,House,2,1,1,364m² ,17 Apr 2024
+"745,000 ","3 Zadow Place,",RICHARDSON ACT 2905,House,3,1,2,433m² ,17 Apr 2024
+"2,500,000 ","14 Fergusson Crescent,",DEAKIN ACT 2600,House,4,3,2,883m² ,16 Apr 2024
+"955,000 ","26 Rosebery Street,",FISHER ACT 2611,House,4,3,2,860m² ,6 Apr 2024
+"1,045,800 ","20 Elliman Street,",GUNGAHLIN ACT 2912,House,4,2,2,450m² ,16 Apr 2024
+"1,150,000 ","12 Blythe Close,",KALEEN ACT 2617,House,5,2,2,902m² ,5 Apr 2024
+"1,550,000 ","54 Westbury Circuit,",NICHOLLS ACT 2913,House,4,3,2,871m² ,15 Apr 2024
+"1,551,000 ","44 Henry Street,",COOK ACT 2614,House,4,3,2,"1,042m² ",2024
+"1,285,000 ","1 Farnell Place,",CURTIN ACT 2605,House,3,1,−,872m² ,2024
+"985,000 ","96 Cowper Street,",DICKSON ACT 2602,House,3,2,2,694m² ,2024
+"1,450,000 ","39 Somerset Street,",DUFFY ACT 2611,House,4,2,3,"1,055m² ",2024
+"828,000 ","12 Jonsson Court,",DUNLOP ACT 2615,House,3,2,2,505m² ,2024
+"791,000 ","38 Gouldsmith Street,",DUNLOP ACT 2615,House,3,2,2,479m² ,2024
+"740,000 ","8 Bryan Hudson Street,",MACGREGOR ACT 2615,House,3,2,1,304m² ,2024
+"1,050,000 ","4 Gordon Close,",NICHOLLS ACT 2913,House,4,2,2,700m² ,2024
+"980,000 ","26 A'beckett Street,",WATSON ACT 2602,House,3,1,2,900m² ,2024
+"915,000 ","34 Badcoe Street,",GOWRIE ACT 2904,House,3,2,2,940m² ,12 Apr 2024
+"721,000 ","115 Fullagar Crescent,",HIGGINS ACT 2615,House,3,1,4,877m² ,2024
+"795,000 ","65 O'Halloran Circuit,",KAMBAH ACT 2902,House,3,2,2,722m² ,12 Apr 2024
+"1,220,000 ","28 Longstaff Street,",LYNEHAM ACT 2602,House,3,1,2,721m² ,2 Apr 2024
+"1,200,000 ","22 Bean Crescent,",MCKELLAR ACT 2617,House,4,2,3,746m² ,12 Apr 2024
+"1,010,000 ","20 Burns Circuit,",MCKELLAR ACT 2617,House,4,2,2,745m² ,2 Apr 2024
+"1,165,000 ","26 Bott Crescent,",CASEY ACT 2913,House,4,2,2,620m² ,11 Apr 2024
+"925,000 ","32 Morant Circuit,",KAMBAH ACT 2902,House,4,2,2,954m² ,11 Apr 2024
+"871,000 ","177 Kingsford Smith Drive,",MELBA ACT 2615,House,4,2,2,"1,456m² ",2024
+"850,000 ","6 Henslowe Place,",MELBA ACT 2615,House,3,2,2,807m² ,1 Apr 2024
+"880,000 ","35 Darwinia Terrace,",RIVETT ACT 2611,House,3,1,2,851m² ,2024
+"1,580,000 ","71 McCaughey Street,",TURNER ACT 2612,House,3,1,2,867m² ,2024
+"1,370,000 ","4 Patkin Street,",WHITLAM ACT 2611,House,4,3,2,617m² ,11 Apr 2024
+"1,035,000 ","5 Morrow Street,",DUNLOP ACT 2615,House,4,2,3,782m² ,10 Apr 2024
+"899,000 ","218 Southern Cross Drive,",LATHAM ACT 2615,House,3,2,7,"1,022m² ",10 Apr 2024
+"891,257 ","13 Laptz Close,",PALMERSTON ACT 2913,House,3,2,2,469m² ,10 Apr 2024
+"780,000 ","11 Mcgowen Close,",SPENCE ACT 2615,House,3,1,1,374m² ,10 Apr 2024
+"950,000 ","11 Hawker Street,",TORRENS ACT 2607,House,4,2,2,836m² ,2024
+"1,175,000 ","60 Norman Fisher Circuit,",BRUCE ACT 2617,House,4,2,2,458m² ,09 Apr 2024
+"1,520,000 ","6/14 Portus Place,",BRUCE ACT 2617,House,4,2,2,990m² ,09 Apr 2024
+"800,000 ","4 Mofflin Street,",CHISHOLM ACT 2905,House,4,2,2,900m² ,09 Apr 2024
+"720,000 ","4 Toft Street,",DUNLOP ACT 2615,House,3,1,1,329m² ,09 Apr 2024
+"685,000 ","3 Iterra Grove,",NGUNNAWAL ACT 2913,House,3,1,1,335m² ,09 Apr 2024
+"830,000 ","1 Gritten Street,",WESTON ACT 2611,House,3,1,2,756m² ,2024
+"1,240,000 ","7 Lalor Street,",AINSLIE ACT 2602,House,2,1,2,561m² ,08 Apr 2024
+"701,500 ","4 Youl Court,",BANKS ACT 2906,House,3,1,1,528m² ,08 Apr 2024
+"1,060,000 ","201 Owen Dixon Drive,",SPENCE ACT 2615,House,4,2,1,"1,078m² ",08 Apr 2024
+"975,000 ","9 Serra Place,",STIRLING ACT 2611,House,4,2,4,868m² ,08 Apr 2024
+"1,282,000 ","22 McGlashan Street,",TAYLOR ACT 2913,House,4,2,2,461m² ,08 Apr 2024
+"1,210,000 ","1 Holroyd Street,",WATSON ACT 2602,House,4,1,2,837m² ,08 Apr 2024
+"865,000 ","16 Llewellyn Loop,",CONDER ACT 2906,House,3,2,2,493m² ,2024
+"1,078,000 ","19 Kalianna Street,",HARRISON ACT 2914,House,4,2,3,451m² ,2024
+"1,070,000 ","9 Eurobin Street,",HARRISON ACT 2914,House,4,2,2,646m² ,2024
+"775,000 ","25 Wolff Crescent,",LATHAM ACT 2615,House,5,1,2,915m² ,2024
+"1,210,000 ","47 Gussey Street,",MONCRIEFF ACT 2914,House,6,3,3,765m² ,06 Apr 2024
+"1,350,000 ","51 Finniss Crescent,",NARRABUNDAH ACT 2604,House,3,1,1,764m² ,2024
+"906,000 ","60 Twamley Crescent,",RICHARDSON ACT 2905,House,4,2,3,830m² ,2024
+"1,651,000 ","41 Nicholson Crescent,",TURNER ACT 2612,House,3,2,2,"1,141m² ",2024
+"1,205,000 ","6 Coppin Place,",WEETANGERA ACT 2614,House,4,2,2,785m² ,2024
+"870,000 ","18 Jacobs Street,",EVATT ACT 2617,House,3,2,1,736m² ,5 Apr 2024
+"1,500,000 ","3 Bonwick Place,",GARRAN ACT 2605,House,3,1,2,822m² ,5 Apr 2024
+"835,000 ","39 May Maxwell Crescent,",GILMORE ACT 2905,House,3,2,2,767m² ,05 Apr 2024
+"892,000 ","16 Percival Street,",HOLDER ACT 2611,House,3,1,2,748m² ,05 Apr 2024
+"781,000 ","72 Amagula Avenue,",NGUNNAWAL ACT 2913,House,3,1,1,464m² ,05 Apr 2024
+"1,350,000 ","212 Robin Boyd Crescent,",TAYLOR ACT 2913,House,4,3,4,376m² ,05 Apr 2024
+"1,045,000 ","20 Feilman Street,",TAYLOR ACT 2913,House,4,2,2,450m² ,05 Apr 2024
+"1,330,000 ","9 Snapper Street,",THROSBY ACT 2914,House,4,3,2,450m² ,05 Apr 2024
+"930,000 ","13b Byrne Street,",WANNIASSA ACT 2903,House,3,2,2,400m² ,05 Apr 2024
+"700,000 ","72 Denovan Circuit,",CALWELL ACT 2905,House,3,1,2,865m² ,04 Apr 2024
+"1,290,000 ","235 Badimara Street,",FISHER ACT 2611,House,5,2,2,"1,079m² ",04 Apr 2024
+"786,000 ","59 Bugden Avenue,",GOWRIE ACT 2904,House,3,1,2,927m² ,04 Apr 2024
+"940,000 ","46 Vonwiller Crescent,",THEODORE ACT 2905,House,4,2,2,762m² ,04 Apr 2024
+"1,311,000 ","41 Hurtle Avenue,",BONYTHON ACT 2905,House,5,2,3,"1,006m² ",2024
+"950,000 ","43 Nott Street,",FRASER ACT 2615,House,4,2,2,"1,217m² ",03 Apr 2024
+"1,505,000 ","2 Millen Street,",HUGHES ACT 2605,House,4,2,2,904m² ,2024
+"985,000 ","35 Hadleigh Circuit,",ISABELLA PLAINS ACT 2905,House,4,2,2,890m² ,3 Apr 2024
+"1,220,000 ","138 Goyder Street,",NARRABUNDAH ACT 2604,House,3,1,−,963m² ,2024
+"1,550,000 ","18 Lane Poole Place,",YARRALUMLA ACT 2600,House,4,2,2,728m² ,03 Apr 2024
+"1,500,000 ","184 Duffy Street,",AINSLIE ACT 2602,House,3,1,1,819m² ,02 Apr 2024
+"780,000 ","1 Sharland Place,",HOLDER ACT 2611,House,3,1,−,694m² ,02 Apr 2024
+"980,000 ","61 Gaunson Crescent,",WANNIASSA ACT 2903,House,4,2,2,"1,005m² ",0 Mar 2024
+"650,000 ","22 Bottrill Street,",BONYTHON ACT 2905,Duplex,3,1,2,377m² ,29 Mar 2024
+"800,000 ","124 Learmonth Drive,",KAMBAH ACT 2902,House,4,2,−,803m² ,2024
+"765,000 ","49 Outtrim Avenue,",CALWELL ACT 2905,House,3,2,2,750m² ,28 Mar 2024
+"737,000 ","28 Fink Crescent,",CALWELL ACT 2905,House,3,1,2,535m² ,28 Mar 2024
+"890,000 ","6 Enfield Street,",CASEY ACT 2913,House,3,2,2,449m² ,8 Mar 2024
+"830,000 ","61 John Crawford Crescent,",CASEY ACT 2913,House,3,2,1,329m² ,8 Mar 2024
+"1,125,000 ","22 Alan Watt Crescent,",CASEY ACT 2913,House,4,2,2,387m² ,28 Mar 2024
+"710,000 ","9 & 11 Hedland Circuit,",FLYNN ACT 2615,House,4,2,2,"1,787m² ",28 Mar 2024
+"735,000 ","30 Louisa Lawson Crescent,",GILMORE ACT 2905,House,3,1,−,740m² ,28 Mar 2024
+"680,000 ","11 Cheeke Place,",LATHAM ACT 2615,House,3,1,2,827m² ,8 Mar 2024
+"810,900 ","31 Lawrence Close,",MACGREGOR ACT 2615,House,3,1,2,892m² ,28 Mar 2024
+"920,000 ","17 Ulm Street,",SCULLIN ACT 2614,House,4,2,2,738m² ,28 Mar 2024
+"795,000 ","19 Cameleer Lane,",STRATHNAIRN ACT 2615,House,3,2,2,179m² ,28 Mar 2024
+"785,000 ","46 Scantlebury Crescent,",THEODORE ACT 2905,House,5,3,2,771m² ,28 Mar 2024
+"853,000 ","3 Larpent Street,",AMAROO ACT 2914,House,3,2,2,439m² ,2024
+"685,000 ","51 Wilhelmi Crescent,",BANKS ACT 2906,House,3,1,1,497m² ,27 Mar 2024
+"900,000 ","22 Noarlunga Crescent,",BONYTHON ACT 2905,House,3,2,6,836m² ,27 Mar 2024
+"1,075,000 ","54 Ashton Calvert Street,",CASEY ACT 2913,House,4,2,2,603m² ,2024
+"655,000 ","59 Wolstenholme Street,",CHISHOLM ACT 2905,House,3,1,1,521m² ,2024
+"941,000 ","6 Dobikin Street,",CRACE ACT 2911,House,3,2,2,269m² ,2024
+"1,050,000 ","7 Hooley Place,",KAMBAH ACT 2902,House,4,3,2,767m² ,2024
+"1,240,000 ","43 Miller Street,",O'CONNOR ACT 2602,House,3,1,1,785m² ,2024
+"1,102,000 ","14 Weavers Crescent,",THEODORE ACT 2905,House,5,2,2,"1,170m² ",2024
+"772,500 ","51 Rockwood Street,",CASEY ACT 2913,House,3,2,1,301m² ,2024
+"1,420,000 ","30 Colebatch Place,",CURTIN ACT 2605,House,4,2,2,855m² ,2024
+"1,585,000 ","7 Pownall Street,",FRANKLIN ACT 2913,House,4,3,4,450m² ,26 Mar 2024
+"1,100,000 ","19 Kardang Street,",NGUNNAWAL ACT 2913,House,4,2,2,973m² ,2024
+"945,000 ","43 Degraves Crescent,",WANNIASSA ACT 2903,House,5,2,2,961m² ,26 Mar 2024
+"1,215,000 ","20 Jalanga Place,",ARANDA ACT 2614,House,4,1,2,724m² ,5 Mar 2024
+"715,000 ","3 Lahey Place,",CHISHOLM ACT 2905,House,3,1,1,473m² ,25 Mar 2024
+"922,500 ","8 Wallaby Place,",NICHOLLS ACT 2913,House,4,2,2,585m² ,2024
+"910,000 ","16 Corringle Close,",AMAROO ACT 2914,House,3,2,2,461m² ,2024
+"1,651,000 ","21 Jagara Street,",ARANDA ACT 2614,House,4,2,4,741m² ,3 Mar 2024
+"1,866,000 ","81 Strickland Crescent,",DEAKIN ACT 2600,House,4,2,2,801m² ,2024
+"1,701,000 ","37 Stonehaven Crescent,",DEAKIN ACT 2600,House,4,2,2,741m² ,2024
+"1,100,000 ","34A Spafford Crescent,",FARRER ACT 2607,House,3,2,2,480m² ,2024
+"1,610,000 ","11 Tingha Place,",FISHER ACT 2611,House,4,2,2,747m² ,2024
+"1,925,000 ","56 Loma Rudduck Street,",FORDE ACT 2914,House,6,3,2,898m² ,2024
+"1,310,000 ","54 McGilvray Close,",GORDON ACT 2906,House,4,2,2,618m² ,2024
+"2,400,000 ","26 Hodgkinson Street,",GRIFFITH ACT 2603,House,3,1,4,"1,173m² ",2024
+"940,000 ","18 Dame Zara Street,",GUNGAHLIN ACT 2912,House,4,2,2,420m² ,2024
+"900,000 ","21 Farran Street,",GUNGAHLIN ACT 2912,House,5,3,3,210m² ,2024
+"990,000 ","39 Poynton Street,",HUGHES ACT 2605,House,3,2,3,691m² ,2024
+"1,160,000 ","26 Hansen Circuit,",ISAACS ACT 2607,House,4,2,2,851m² ,2024
+"960,000 ","10 Desailly Crescent,",KAMBAH ACT 2902,House,3,2,2,"1,023m² ",2024
+"1,210,000 ","9 Fox Place,",LYNEHAM ACT 2602,House,3,2,1,694m² ,2024
+"790,000 ","13 Carman Loop,",MACGREGOR ACT 2615,House,3,2,1,299m² ,2024
+"1,260,000 ","1 Yamba Place,",NARRABUNDAH ACT 2604,House,3,1,2,892m² ,2024
+"1,405,000 ","51 Strzelecki Crescent,",NARRABUNDAH ACT 2604,House,3,1,2,599m² ,2024
+"1,265,000 ","67 A'beckett Street,",WATSON ACT 2602,House,3,1,2,911m² ,2024
+"1,800,000 ","11A Weston Street,",YARRALUMLA ACT 2600,House,3,2,3,"1,667m² ",2024
+"851,000 ","40 Loveday Crescent,",CASEY ACT 2913,House,3,2,2,489m² ,2 Mar 2024
+"710,000 ","6 Zanci Street,",CRACE ACT 2911,House,2,1,2,179m² ,22 Mar 2024
+"800,000","41 Beirne Street,",MONASH ACT 2904,House,3,1,6,882m² ,2024
+"855,000 ","133 Chippindall Circuit,",THEODORE ACT 2905,House,4,2,3,880m² ,22 Mar 2024
+"1,110,000 ","9 Jalanga Crescent,",ARANDA ACT 2614,House,3,2,2,698m² ,21 Mar 2024
+"1,196,500 ","5 Kanga Place,",GORDON ACT 2906,House,4,2,2,909m² ,21 Mar 2024
+"577,000 ","3 Watchorn Close,",HOLT ACT 2615,House,2,1,1,299m² ,2024
+"685,000","12 Loban Court,",NGUNNAWAL ACT 2913,House,3,1,1,305m² ,21 Mar 2024
+"1,302,000 ","11 Gair Place,",WANNIASSA ACT 2903,House,6,4,2,"1,039m² ",2024
+"1,675,000 ","21 Hampton Circuit,",YARRALUMLA ACT 2600,House,3,1,1,671m² ,2024
+"972,000 ","15 Isabel Flick Street,",BONNER ACT 2914,House,4,2,2,454m² ,20 Mar 2024
+"1,000,000 ","6 Lundie Street,",BONYTHON ACT 2905,House,4,2,2,450m² ,2024
+"857,000 ","31 Casey Crescent,",CALWELL ACT 2905,House,4,2,2,773m² ,2024
+"755,000 ","41 Muntz Street,",CHISHOLM ACT 2905,House,3,1,2,762m² ,2024
+"1,100,000 ","4 Pudney Street,",FARRER ACT 2607,House,3,1,2,939m² ,20 Mar 2024
+"2,250,000 ","25 Frome Street,",GRIFFITH ACT 2603,House,4,2,2,668m² ,20 Mar 2024
+"963,600 ","76B Learmonth Drive,",KAMBAH ACT 2902,House,4,2,2,440m² ,20 Mar 2024
+"675,000 ","16 Gamburra Street,",NGUNNAWAL ACT 2913,House,3,2,−,374m² ,20 Mar 2024
+"1,100,000 ","19 McBurney Crescent,",RICHARDSON ACT 2905,House,4,3,2,"1,038m² ",20 Mar 2024
+"810,000 ","56 Salsola Street,",RIVETT ACT 2611,House,4,1,4,830m² ,20 Mar 2024
+"1,545,000 ","6 Cazneaux Crescent,",WESTON ACT 2611,House,4,3,2,605m² ,20 Mar 2024
+"907,000 ","24 Auburn Street,",AMAROO ACT 2914,House,3,2,2,440m² ,19 Mar 2024
+"1,060,000","68 Bindaga Street,",ARANDA ACT 2614,House,4,2,2,885m² ,19 Mar 2024
+"860,000 ","16 Siroset Close,",DUNLOP ACT 2615,House,3,2,2,397m² ,2024
+"735,000 ","5 De Mestre Place,",HOLT ACT 2615,House,3,1,1,488m² ,19 Mar 2024
+"875,005 ","5 McKillop Circuit,",KAMBAH ACT 2902,House,3,2,2,434m² ,19 Mar 2024
+"675,000 ","14 Lipscomb Place,",MACGREGOR ACT 2615,House,3,1,2,786m² ,19 Mar 2024
+"740,000 ","6 Lanley Square,",NGUNNAWAL ACT 2913,House,3,1,1,254m² ,19 Mar 2024
+"1,730,000 ","6 Tanderra Crescent,",NGUNNAWAL ACT 2913,House,5,2,5,"1,128m² ",19 Mar 2024
+"1,700,000 ","7 Blackbutt Street,",O'CONNOR ACT 2602,House,3,1,2,"1,117m² ",2024
+"775,000 ","6 Long Place,",SCULLIN ACT 2614,House,3,1,2,759m² ,19 Mar 2024
+"720,000 ","47 Levien Street,",SCULLIN ACT 2614,House,3,1,1,341m² ,9 Mar 2024
+"1,248,500 ","2 Gauci Street,",CASEY ACT 2913,House,4,3,2,635m² ,18 Mar 2024
+"720,000 ","2 Altson Circuit,",CONDER ACT 2906,House,3,1,2,439m² ,18 Mar 2024
+"1,450,000 ","35 Justice Kelly Street,",FORDE ACT 2914,House,5,2,2,685m² ,18 Mar 2024
+"1,320,000 ","5 Barrow Place,",LYONS ACT 2606,House,3,2,2,"1,262m² ",18 Mar 2024
+"795,000 ","7 Constance Stone Street,",MACGREGOR ACT 2615,House,3,2,2,462m² ,18 Mar 2024
+"1,040,000 ","24 Beasley Street,",PEARCE ACT 2607,House,4,2,2,936m² ,18 Mar 2024
+"2,356,000 ","40 Endeavour Street,",RED HILL ACT 2603,House,5,3,3,"1,218m² ",18 Mar 2024
+"990,000 ","3 Grimshaw Street,",RICHARDSON ACT 2905,House,4,2,4,948m² ,8 Mar 2024
+"860,000 ","7 Connibere Crescent,",OXLEY ACT 2903,House,3,1,2,854m² ,7 Mar 2024
+"875,000 ","97 Essie Coffey Street,",BONNER ACT 2914,House,3,2,1,333m² ,2024
+"1,460,000 ","20 Oakes Street,",COOK ACT 2614,House,3,2,2,714m² ,2024
+"1,450,000 ","9 Redshaw Street,",COOMBS ACT 2611,House,4,3,2,540m² ,2024
+"1,135,000 ","36 Cotton Street,",DOWNER ACT 2602,House,3,1,4,747m² ,2024
+"975,000 ","28 Cotton Street,",DOWNER ACT 2602,House,3,1,−,593m² ,2024
+"855,000 ","10 Badenoch Crescent,",EVATT ACT 2617,House,3,1,3,711m² ,2024
+"1,026,000 ","32 Glenelg Street,",KALEEN ACT 2617,House,4,2,4,805m² ,2024
+"920,000 ","8 Dennes Place,",LYONS ACT 2606,House,3,1,1,827m² ,2024
+"1,270,000 ","32 Kater Close,",MACARTHUR ACT 2904,House,3,2,2,909m² ,2024
+"930,000 ","3 Cuzens Place,",NGUNNAWAL ACT 2913,House,4,2,2,772m² ,16 Mar 2024
+"1,104,000 ","116A Namatjira Drive,",STIRLING ACT 2611,House,7,3,2,812m² ,2024
+"1,055,000 ","61 Callister Crescent,",THEODORE ACT 2905,House,5,2,2,"1,271m² ",2024
+"783,700 ","31 McLuckie Crescent,",BANKS ACT 2906,House,3,1,2,525m² ,15 Mar 2024
+"680,000 ","48 Margaret Tucker Street,",BONNER ACT 2914,House,3,1,1,250m² ,15 Mar 2024
+"790,000 ","70 Tenison Woods Circuit,",BONYTHON ACT 2905,Terrace,3,2,2,255m² ,2024
+"925,000 ","4 Phillipson Crescent,",CALWELL ACT 2905,House,4,2,4,964m² ,15 Mar 2024
+"1,107,500 ","9 Pridham Street,",FARRER ACT 2607,House,3,2,2,714m² ,2024
+"770,000 ","5 Davy Place,",MACGREGOR ACT 2615,House,3,1,1,802m² ,15 Mar 2024
+"1,140,000 ","11 Kerferd Street,",WATSON ACT 2602,House,3,1,1,694m² ,15 Mar 2024
+"870,000 ","10 Leycester Place,",CHARNWOOD ACT 2615,House,3,2,2,565m² ,2024
+"883,000 ","23 Finemore Street,",COOMBS ACT 2611,House,4,3,2,199m² ,2024
+"835,500 ","15 Bruce Dittmar Street,",FORDE ACT 2914,House,3,2,1,286m² ,14 Mar 2024
+"750,000 ","18 McCabe Crescent,",HOLT ACT 2615,House,3,1,5,672m² ,4 Mar 2024
+"693,000 ","28 Yarrawonga Street,",NGUNNAWAL ACT 2913,House,3,1,1,377m² ,2024
+"755,000 ","5 McKid Court,",CHARNWOOD ACT 2615,House,3,1,2,711m² ,13 Mar 2024
+"1,000,000 ","32 Redfern Street,",COOK ACT 2614,House,3,1,2,790m² ,3 Mar 2024
+"1,070,000 ","6 Hazlitt Glade,",GORDON ACT 2906,House,4,3,2,870m² ,2024
+"1,150,000 ","18 Eileen Good Street,",GREENWAY ACT 2900,House,4,2,2,363m² ,3 Mar 2024
+"1,202,000 ","14 De Bortoli Street,",HARRISON ACT 2914,House,4,3,2,521m² ,13 Mar 2024
+"920,000 ","29 Isbister Street,",MACGREGOR ACT 2615,House,4,2,2,418m² ,13 Mar 2024
+"905,000 ","44 Anembo Street,",NARRABUNDAH ACT 2604,House,3,1,1,464m² ,3 Mar 2024
+"1,250,000 ","10 Grevillea Street,",O'CONNOR ACT 2602,House,3,1,−,700m² ,2024
+"955,000 ","6 Harrison Street,",SCULLIN ACT 2614,House,4,2,2,835m² ,2024
+"1,630,000 ","35 MacDonnell Street,",YARRALUMLA ACT 2600,House,2,1,−,666m² ,2024
+"1,060,000 ","83 Bandjalong Crescent,",ARANDA ACT 2614,House,3,1,1,783m² ,2024
+"1,145,000 ","9 Medlin Street,",BRUCE ACT 2617,House,4,2,2,431m² ,12 Mar 2024
+"1,565,000 ","31 Legge Street,",DOWNER ACT 2602,House,5,4,3,840m² ,12 Mar 2024
+"1,560,000 ","39 Creswell Street,",CAMPBELL ACT 2612,House,3,2,2,"1,037m² ",2024
+"885,000 ","14 Turriff Street,",CHISHOLM ACT 2905,House,3,2,2,912m² ,2024
+"1,450,000 ","31 Calder Crescent,",HOLDER ACT 2611,House,4,2,2,"1,000m² ",2024
+"1,470,000 ","12 Jaeger Circuit,",BRUCE ACT 2617,House,4,2,2,"1,016m² ",08 Mar 2024
+"897,000 ","24 Nott Street,",FRASER ACT 2615,House,3,2,1,"1,056m² ",08 Mar 2024
+"867,500 ","4 Drysdale Circuit,",KAMBAH ACT 2902,House,3,1,2,766m² ,8 Mar 2024
+"820,000","28 Stang Place,",MACGREGOR ACT 2615,House,3,2,2,332m² ,08 Mar 2024
+"718,500 ","49 Windradyne Street,",NGUNNAWAL ACT 2913,House,3,1,1,331m² ,08 Mar 2024
+"1,200,000 ","12 Cullis Hill Terrace,",TAYLOR ACT 2913,House,4,3,2,470m² ,08 Mar 2024
+"890,000 ","41 Katoomba Street,",HARRISON ACT 2914,Villa,4,2,2,299m² ,07 Mar 2024
+"667,500 ","10 Southam Place,",HOLT ACT 2615,House,2,1,1,711m² ,7 Mar 2024
+"1,350,000 ","11 Murchison Street,",KALEEN ACT 2617,House,4,2,2,887m² ,07 Mar 2024
+"1,110,000 ","10 Coglin Place,",KAMBAH ACT 2902,House,6,3,2,"1,138m² ",07 Mar 2024
+"795,000","168 Boddington Crescent,",KAMBAH ACT 2902,House,3,1,2,787m² ,07 Mar 2024
+"835,000","7 O'Reilly Street,",MACGREGOR ACT 2615,House,4,2,2,"1,313m² ",07 Mar 2024
+"1,045,000","14 Myulung Street,",NGUNNAWAL ACT 2913,House,4,2,2,394m² ,07 Mar 2024
+"1,015,000 ","7A Faunce Crescent,",O'CONNOR ACT 2602,House,2,1,−,453m² ,2024
+"1,012,000 ","42 Knox Street,",WATSON ACT 2602,House,4,1,2,911m² ,2024
+"1,455,000","66 Fred Daly Avenue,",COOMBS ACT 2611,House,5,2,2,499m² ,06 Mar 2024
+"1,325,600","42 Ada Norris Avenue,",DENMAN PROSPECT ACT 2611,House,5,3,2,408m² ,6 Mar 2024
+"1,150,000 ","125 Amy Ackman Street,",FORDE ACT 2914,House,4,3,2,382m² ,06 Mar 2024
+"780,000 ","17 Horneville Street,",FORDE ACT 2914,House,2,1,1,322m² ,06 Mar 2024
+"973,000 ","8 Rollins Place,",GORDON ACT 2906,House,4,2,2,561m² ,06 Mar 2024
+"932,000 ","36 Carpentaria Street,",HARRISON ACT 2914,House,3,2,2,389m² ,06 Mar 2024
+"1,685,000 ","17 Olympus Way,",LYONS ACT 2606,House,5,3,3,"1,157m² ",6 Mar 2024
+"838,000 ","6 Tipiloura Street,",NGUNNAWAL ACT 2913,House,3,2,2,463m² ,6 Mar 2024
+"745,000 ","13 Cottrell Place,",RICHARDSON ACT 2905,House,3,2,2,381m² ,06 Mar 2024
+"800,000 ","32 Mcwhae Circuit,",WANNIASSA ACT 2903,House,4,1,2,645m² ,06 Mar 2024
+"1,000,000 ",,AMAROO ACT 2914,House,4,2,2,842m² ,05 Mar 2024
+"1,625,000 ","9 Wurth Place,",CHIFLEY ACT 2606,Semi-detached,4,2,2,516m² ,05 Mar 2024
+"1,350,000 ","31 Hibberd Crescent,",FORDE ACT 2914,House,5,3,4,468m² ,05 Mar 2024
+"785,000","209 Tillyard Drive,",FRASER ACT 2615,House,3,1,4,"1,174m² ",05 Mar 2024
+"718,000 ","1 Stace Place,",GORDON ACT 2906,House,3,1,1,500m² ,05 Mar 2024
+"660,000 ","56 Refshauge Crescent,",MACGREGOR ACT 2615,House,3,1,2,226m² ,05 Mar 2024
+"1,020,000 ","58 Ada Norris Avenue,",DENMAN PROSPECT ACT 2611,House,4,2,2,300m² ,04 Mar 2024
+"770,000 ","31 Pickworth Street,",HOLT ACT 2615,House,3,1,1,673m² ,04 Mar 2024
+"1,005,000 ","3 Mcrae Place,",KAMBAH ACT 2902,House,4,2,2,833m² ,04 Mar 2024
+"930,000 ","4 Feltus Place,",KAMBAH ACT 2902,House,4,2,6,929m² ,4 Mar 2024
+"1,020,000 ","10 Burkitt Street,",PAGE ACT 2614,House,3,2,−,978m² ,2024
+"1,960,000 ","6 Goldsworthy Place,",BRUCE ACT 2617,House,5,2,2,"1,038m² ",2024
+"975,000 ","33 Lampard Circuit,",BRUCE ACT 2617,House,3,2,2,423m² ,2024
+"2,800,000 ","21 Lincoln Close,",CHAPMAN ACT 2611,House,7,5,7,"2,255m² ",2024
+"940,000 ","10 Ingham Place,",CONDER ACT 2906,House,4,3,2,662m² ,2024
+"1,220,000","6 Medhurst Crescent,",CRACE ACT 2911,House,3,2,3,555m² ,2024
+"1,250,000 ","57 Bonython Street,",DOWNER ACT 2602,House,3,1,−,705m² ,2024
+"865,000 ","13 Easterbrook Place,",GOWRIE ACT 2904,House,3,1,2,773m² ,2024
+"1,000,000 ","14 Pildappa Street,",HARRISON ACT 2914,House,4,2,2,419m² ,2024
+"753,000 ","49 Macrossan Crescent,",LATHAM ACT 2615,House,3,1,3,758m² ,2024
+"916,000","6 Bayly Place,",MACARTHUR ACT 2904,House,4,2,2,"1,153m² ",2024
+"865,000 ","15 Dagmar Berne Street,",MACGREGOR ACT 2615,House,4,2,2,420m² ,2024
+"700,000 ","15 Guginya Crescent,",NGUNNAWAL ACT 2913,House,3,2,1,289m² ,2024
+"1,285,000 ","11 Whitham Place,",PEARCE ACT 2607,House,4,2,2,908m² ,2024
+"1,000,000 ","26 Fremantle Drive,",STIRLING ACT 2611,House,4,2,2,830m² ,2024
+"1,550,000 ","63 Springvale Drive,",WEETANGERA ACT 2614,House,4,3,4,"1,251m² ",2024
+"930,000","27 Preston Street,",WESTON ACT 2611,House,3,1,2,674m² ,2024
+"1,630,000 ","19 Gidabal Street,",ARANDA ACT 2614,House,3,2,1,839m² ,2024
+"1,100,000 ","156 Ida West Street,",BONNER ACT 2914,House,4,2,3,540m² ,01 Mar 2024
+"810,000 ","19 Bainbridge Close,",CHISHOLM ACT 2905,House,3,1,1,752m² ,01 Mar 2024
+"790,000","14 Pridham Street,",FARRER ACT 2607,House,3,2,2,717m² ,1 Mar 2024
+"750,000 ","13 Coventry Close,",GORDON ACT 2906,House,3,1,2,554m² ,01 Mar 2024
+"900,000 ","3 Rollins Place,",GORDON ACT 2906,House,3,2,2,530m² ,01 Mar 2024
+"600,000 ","39 Bosworth Circuit,",KAMBAH ACT 2902,House,4,1,2,371m² ,01 Mar 2024
+"747,000 ","11 Pinner Place,",MACGREGOR ACT 2615,House,3,1,1,432m² ,2024
+"973,500 ","2 Euroka Street,",NARRABUNDAH ACT 2604,House,3,1,1,442m² ,01 Mar 2024
+"1,400,000 ","18 Harry Seidler Crescent,",TAYLOR ACT 2913,House,4,3,2,572m² ,01 Mar 2024
+"1,250,000 ","146 Bettong Avenue,",THROSBY ACT 2914,House,4,2,2,457m² ,01 Mar 2024
+"875,000 ","11 Nanda Place,",WARAMANGA ACT 2611,House,3,1,2,828m² ,01 Mar 2024
+"605,000","7 Phillimore Place,",CHARNWOOD ACT 2615,House,2,1,1,692m² ,2024
+"950,000 ","23 Lind Close,",FRASER ACT 2615,House,4,2,2,"1,250m² ",2024
+"1,000,000 ","4 Dempsey Place,",GORDON ACT 2906,House,3,2,2,"1,068m² ",2024
+"850,000 ","156 Knoke Avenue,",GORDON ACT 2906,House,4,2,2,812m² ,9 Feb 2024
+"1,200,000 ","2 Marston Place,",MACARTHUR ACT 2904,House,4,2,2,"1,009m² ",9 Feb 2024
+"905,000 ","8 Keaney Street,",MACGREGOR ACT 2615,House,3,2,2,593m² ,29 Feb 2024
+"740,000","1/2 Edmunds Place,",SPENCE ACT 2615,House,3,1,3,520m² ,9 Feb 2024
+"1,450,000 ","3 Agnew Street,",AINSLIE ACT 2602,House,4,2,2,671m² ,2024
+"940,000 ","16 Sweet Place,",CHISHOLM ACT 2905,House,4,2,2,843m² ,28 Feb 2024
+"730,000 ","4 Violet Grover Place,",GORDON ACT 2906,House,3,1,2,858m² ,28 Feb 2024
+"1,100,000 ","22 Hedley Street,",HACKETT ACT 2602,House,3,2,1,674m² ,28 Feb 2024
+"761,500 ","7 Kappakoola Street,",CRACE ACT 2911,House,3,2,1,239m² ,27 Feb 2024
+"1,055,000","52 Bradfield Street,",DOWNER ACT 2602,House,4,1,2,927m² ,27 Feb 2024
+"1,375,000","30 Ingamells Street,",GARRAN ACT 2605,House,4,1,2,945m² ,2024
+"1,120,000 ","167 Belconnen Way,",HAWKER ACT 2614,House,4,2,3,"1,076m² ",27 Feb 2024
+"1,090,000 ","26 Numiari Street,",BONNER ACT 2914,House,4,2,2,525m² ,26 Feb 2024
+"1,460,000","15 Winstanley Street,",CHAPMAN ACT 2611,House,4,3,2,956m² ,26 Feb 2024
+"810,000 ","42B Proctor Street,",CHISHOLM ACT 2905,House,3,2,3,433m² ,26 Feb 2024
+"950,000 ","6 Iredale Place,",GORDON ACT 2906,House,4,2,3,834m² ,6 Feb 2024
+"820,000 ","9 Grimshaw Street,",RICHARDSON ACT 2905,House,4,2,2,796m² ,26 Feb 2024
+"855,000","79 William Webb Drive,",MCKELLAR ACT 2617,House,4,2,2,718m² ,2024
+"999,999 ","4 Knitlock Street,",TAYLOR ACT 2913,House,4,2,2,405m² ,25 Feb 2024
+"1,130,000 ","23 Freeman Street,",CONDER ACT 2906,House,4,2,2,961m² ,2024
+"2,095,000","6 Thorn Place,",CURTIN ACT 2605,House,5,3,2,947m² ,2024
+"1,560,000 ","5 Hopetoun Circuit,",DEAKIN ACT 2600,House,4,3,2,712m² ,2024
+"1,440,000 ","32B Rosebery Street,",FISHER ACT 2611,House,5,3,2,698m² ,2024
+"711,000 ","15 Boswell Crescent,",FLOREY ACT 2615,House,3,1,−,866m² ,2024
+"2,150,000 ","76 Couvreur Street,",GARRAN ACT 2605,House,4,3,2,"1,300m² ",2024
+"1,810,000 ","42 Frome Street,",GRIFFITH ACT 2603,House,3,1,2,823m² ,2024
+"2,700,000","5 Wells Gardens,",GRIFFITH ACT 2603,House,6,4,3,"1,013m² ",2024
+"1,150,000 ","3 Hedley Street,",HACKETT ACT 2602,House,3,2,2,752m² ,2024
+"1,630,000 ","2 Garling Street,",LYNEHAM ACT 2602,House,4,3,2,722m² ,2024
+"885,000 ","130 Macfarlane Burnet Avenue,",MACGREGOR ACT 2615,House,4,2,2,497m² ,2024
+"1,100,000 ","13 Bean Crescent,",MCKELLAR ACT 2617,House,4,2,2,743m² ,24 Feb 2024
+"935,000 ","57 Bronhill Street,",MONCRIEFF ACT 2914,House,3,2,2,487m² ,4 Feb 2024
+"2,850,000 ","7 Lomandra Street,",O'CONNOR ACT 2602,House,4,3,2,"1,160m² ",2024
+"877,000 ","9 Jewell Close,",SWINGER HILL ACT 2606,House,3,2,2,212m² ,2024
+"980,000 ","6 Harding Street,",WATSON ACT 2602,House,3,1,1,666m² ,2024
+"1,700,000","74 Thwaites Crescent,",WRIGHT ACT 2611,House,5,3,2,540m² ,2024
+"1,000,000","36 Must Circuit,",CALWELL ACT 2905,House,4,2,2,946m² ,3 Feb 2024
+"765,000 ","10 Arrietta Close,",CHARNWOOD ACT 2615,House,3,1,2,"1,048m² ",3 Feb 2024
+"1,217,000","4A Philp Place,",CURTIN ACT 2605,House,3,2,2,378m² ,2024
+"960,000 ","18 Mirrool Street,",DUFFY ACT 2611,House,4,1,3,699m² ,3 Feb 2024
+"900,000","110 Knoke Avenue,",GORDON ACT 2906,House,4,2,3,734m² ,23 Feb 2024
+"992,000 ","44 Devonport Street,",LYONS ACT 2606,House,4,2,2,790m² ,3 Feb 2024
+"808,000 ","26 Broadbent Street,",SCULLIN ACT 2614,House,3,1,2,856m² ,23 Feb 2024
+"940,000 ","5 MacDonald Place,",SPENCE ACT 2615,House,4,1,2,766m² ,23 Feb 2024
+"1,400,000 ","26 Harry Seidler Crescent,",TAYLOR ACT 2913,House,5,4,2,540m² ,23 Feb 2024
+"950,000","58 Holden Crescent,",WANNIASSA ACT 2903,House,4,2,2,864m² ,23 Feb 2024
+"780,000 ","13 Ramsay Place,",WANNIASSA ACT 2903,House,3,1,2,"1,051m² ",23 Feb 2024
+"1,230,000 ","62 A'beckett Street,",WATSON ACT 2602,House,4,1,2,799m² ,23 Feb 2024
+"905,000 ","36 Katherine Avenue,",AMAROO ACT 2914,House,3,2,2,522m² ,2 Feb 2024
+"1,000,000 ","21 Charles Perkins Circuit,",BONNER ACT 2914,House,4,2,2,465m² ,22 Feb 2024
+"790,000","12 Must Circuit,",CALWELL ACT 2905,House,3,2,1,700m² ,2024
+"1,000,000 ","23 Southern Close,",CHISHOLM ACT 2905,House,4,3,2,"1,233m² ",2024
+"985,000 ","4 Mag Place,",DUNLOP ACT 2615,House,4,2,2,807m² ,2024
+"710,000 ","14 Yaldwyn Place,",KAMBAH ACT 2902,House,3,1,1,644m² ,22 Feb 2024
+"1,058,000 ","75 Herron Crescent,",LATHAM ACT 2615,House,5,2,2,"1,101m² ",22 Feb 2024
+"870,000 ","19 Eric De Salis Street,",MACGREGOR ACT 2615,House,3,2,2,449m² ,2 Feb 2024
+"980,000 ","16 Kruse Place,",MELBA ACT 2615,House,4,3,2,805m² ,22 Feb 2024
+"1,212,000","14 Adamson Crescent,",WANNIASSA ACT 2903,House,4,2,2,931m² ,22 Feb 2024
+"1,300,000 ","84 Wakefield Gardens,",AINSLIE ACT 2602,House,3,1,1,808m² ,21 Feb 2024
+"1,325,000 ","82 Bandjalong Crescent,",ARANDA ACT 2614,House,4,2,2,694m² ,21 Feb 2024
+"700,000 ","12 Greene Place,",BELCONNEN ACT 2617,House,3,1,2,316m² ,21 Feb 2024
+"769,000 ","6 Secretary Street,",BONNER ACT 2914,House,3,2,2,249m² ,21 Feb 2024
+"925,000 ","7b Warren Place,",CHIFLEY ACT 2606,House,4,2,2,544m² ,21 Feb 2024
+"630,000 ","107 Keverstone Circuit,",ISABELLA PLAINS ACT 2905,House,3,1,1,379m² ,21 Feb 2024
+"827,500 ","45 Mannheim Street,",KAMBAH ACT 2902,House,3,2,2,894m² ,21 Feb 2024
+"960,000 ","22 Malcolm Place,",KAMBAH ACT 2902,House,4,2,2,"1,861m² ",2024
+"1,235,000 ","3 Pejar Terrace,",TAYLOR ACT 2913,House,4,3,2,480m² ,21 Feb 2024
+"1,305,000 ","40 Shumack Street,",WEETANGERA ACT 2614,House,4,2,2,"1,416m² ",21 Feb 2024
+"920,000 ","20 Auburn Street,",AMAROO ACT 2914,House,3,2,2,400m² ,20 Feb 2024
+"660,000 ","7 Roope Close,",CALWELL ACT 2905,House,3,1,1,457m² ,20 Feb 2024
+"775,000 ","130 Outtrim Avenue,",CALWELL ACT 2905,House,4,1,2,704m² ,20 Feb 2024
+"1,440,000 ","8 Jegorow Street,",DENMAN PROSPECT ACT 2611,House,4,2,2,584m² ,20 Feb 2024
+"1,210,000 ","19 Lyall Crescent,",KAMBAH ACT 2902,House,5,2,4,"1,106m² ",2024
+"750,000 ","18 Hirschfeld Crescent,",MACGREGOR ACT 2615,House,4,2,2,651m² ,0 Feb 2024
+"1,400,000 ","8 Buggy Crescent,",MCKELLAR ACT 2617,House,4,2,2,743m² ,0 Feb 2024
+"820,000 ","33 Harricks Crescent,",MONASH ACT 2904,House,3,1,3,751m² ,0 Feb 2024
+"745,925 ","3 Windich Street,",NGUNNAWAL ACT 2913,House,3,1,1,442m² ,20 Feb 2024
+"811,100 ","21 Gubbity Street,",NGUNNAWAL ACT 2913,House,3,2,1,332m² ,20 Feb 2024
+"1,155,000 ","1 Lennard Street,",AMAROO ACT 2914,House,4,2,2,829m² ,19 Feb 2024
+"820,000 ","3 Phillimore Place,",CHARNWOOD ACT 2615,House,3,2,3,801m² ,19 Feb 2024
+"1,230,000","56 Maitland Street,",HACKETT ACT 2602,House,5,2,1,723m² ,19 Feb 2024
+"970,000 ","187 Kent Street,",HUGHES ACT 2605,House,3,2,1,634m² ,19 Feb 2024
+"750,000 ","112 Mainwaring Rich Circuit,",PALMERSTON ACT 2913,House,3,1,1,412m² ,9 Feb 2024
+"806,000 ","61 Martley Circuit,",CALWELL ACT 2905,House,4,1,2,706m² ,2024
+"1,280,000 ","23 Renfree Street,",CASEY ACT 2913,House,5,2,2,588m² ,2024
+"715,000 ","19 Bettington Circuit,",CHARNWOOD ACT 2615,House,3,1,2,633m² ,2024
+"1,300,000","44B Medley Street,",CHIFLEY ACT 2606,House,4,3,2,368m² ,2024
+"950,000 ","24 Burrinjuck Crescent,",DUFFY ACT 2611,House,4,2,5,763m² ,2024
+"1,030,000 ","61 Macdowell Street,",EVATT ACT 2617,House,4,2,2,875m² ,2024
+"1,200,000 ","43 Barnard Circuit,",FLOREY ACT 2615,House,4,2,2,"1,032m² ",2024
+"1,110,000 ","1 Zwar Place,",FLOREY ACT 2615,House,5,2,2,986m² ,2024
+"1,400,000 ","12 Apsley Place,",KALEEN ACT 2617,House,5,3,2,775m² ,2024
+"650,000 ","45 Wrenfordsley Place,",LATHAM ACT 2615,House,2,1,1,999m² ,2024
+"925,000 ","74 Eugene Vincent Street,",BONNER ACT 2914,House,4,2,2,345m² ,16 Feb 2024
+"1,160,000 ","18 Lanaba Street,",CRACE ACT 2911,House,3,2,2,449m² ,16 Feb 2024
+"877,500 ","18 Dobikin Street,",CRACE ACT 2911,House,3,2,2,293m² ,6 Feb 2024
+"1,500,000","27 Ryan Street,",CURTIN ACT 2605,House,4,2,2,763m² ,16 Feb 2024
+"1,670,000 ","15 Beveridge Crescent,",FORDE ACT 2914,House,5,2,2,548m² ,16 Feb 2024
+"825,000 ","29 Baracchi Crescent,",GIRALANG ACT 2617,House,3,1,−,747m² ,16 Feb 2024
+"1,050,000 ","1 Musca Place,",GIRALANG ACT 2617,House,4,2,2,850m² ,16 Feb 2024
+"980,000 ","29 Ashburton Circuit,",KALEEN ACT 2617,House,4,2,2,939m² ,6 Feb 2024
+"755,000 ","17 Vanzetti Crescent,",KAMBAH ACT 2902,House,4,2,2,697m² ,6 Feb 2024
+"1,030,000","14 Limb Circuit,",MONCRIEFF ACT 2914,House,5,2,2,388m² ,16 Feb 2024
+"750,000","30 Twamley Crescent,",RICHARDSON ACT 2905,House,3,1,3,814m² ,16 Feb 2024
+"980,000","15 Yiman Street,",WARAMANGA ACT 2611,House,3,2,2,725m² ,6 Feb 2024
+"2,550,000","16 Abbott Street,",YARRALUMLA ACT 2600,House,5,2,2,898m² ,6 Feb 2024
+"1,040,000 ","57 Bilin Bilin Street,",BONNER ACT 2914,House,4,2,2,541m² ,5 Feb 2024
+"1,000,000","15 Swinney Street,",CASEY ACT 2913,House,4,2,2,465m² ,15 Feb 2024
+"783,000 ","51 Beattie Crescent,",CHISHOLM ACT 2905,House,3,1,2,612m² ,2024
+"870,000 ","3 Hatfield Street,",EVATT ACT 2617,House,3,1,2,809m² ,15 Feb 2024
+"1,030,000 ","8 De Smet Place,",FRASER ACT 2615,House,4,2,2,"1,111m² ",2024
+"752,000 ","2 Sherwood Circuit,",GORDON ACT 2906,House,4,1,1,514m² ,15 Feb 2024
+"1,649,500 ","19 Bokhara Circuit,",KALEEN ACT 2617,House,4,2,2,979m² ,2024
+"728,000 ","12 Bamir Square,",NGUNNAWAL ACT 2913,House,3,1,1,304m² ,2024
+"720,000 ","8 Hart Close,",PALMERSTON ACT 2913,House,3,1,1,401m² ,15 Feb 2024
+"840,000 ","11 Morduant Place,",RICHARDSON ACT 2905,House,4,2,2,"1,175m² ",15 Feb 2024
+"770,000 ","74 Longmore Crescent,",WANNIASSA ACT 2903,House,3,1,2,968m² ,15 Feb 2024
+"1,315,000 ","19 Tatchell Street,",CALWELL ACT 2905,House,4,3,2,927m² ,4 Feb 2024
+"1,340,000","76 Bimberi Crescent,",PALMERSTON ACT 2913,House,4,2,3,873m² ,2024
+"1,450,000 ","10 Gidabal Street,",ARANDA ACT 2614,House,4,2,2,724m² ,13 Feb 2024
+"1,250,000 ","50 Liz O'neill Street,",CASEY ACT 2913,House,4,2,2,573m² ,3 Feb 2024
+"750,000 ","10 Gunyan Place,",NGUNNAWAL ACT 2913,House,3,1,2,327m² ,3 Feb 2024
+"1,100,000 ","37 Whatmore Court,",NICHOLLS ACT 2913,House,4,2,2,822m² ,13 Feb 2024
+"2,015,000 ","28 Hendry Close,",NICHOLLS ACT 2913,House,5,3,2,"1,316m² ",13 Feb 2024
+"762,000 ","3 Themeda Place,",RIVETT ACT 2611,House,2,1,1,737m² ,13 Feb 2024
+"1,310,000 ","16 Karl Langer Crescent,",TAYLOR ACT 2913,House,4,2,2,678m² ,13 Feb 2024
+"910,000 ","35 Stowport Avenue,",CRACE ACT 2911,House,3,2,2,370m² ,2024
+"1,000,000 ","145 Antill Street,",DOWNER ACT 2602,House,3,1,−,752m² ,12 Feb 2024
+"822,500 ","42 Levine Street,",EVATT ACT 2617,House,3,1,4,815m² ,2 Feb 2024
+"985,000 ","62B Blackman Crescent,",MACQUARIE ACT 2614,House,3,2,1,400m² ,12 Feb 2024
+"1,679,500 ","23 Dobbin Circuit,",NICHOLLS ACT 2913,House,5,2,2,850m² ,12 Feb 2024
+"925,000 ","90 Namatjira Drive,",STIRLING ACT 2611,House,4,2,3,754m² ,12 Feb 2024
+"720,000 ","5 Phillipa Weeks Street,",WATSON ACT 2602,House,3,1,1,201m² ,12 Feb 2024
+"900,000 ","46 Hannan Crescent,",AINSLIE ACT 2602,Duplex,2,1,−,430m² ,2024
+"930,000 ","2 Lyle Place,",CHIFLEY ACT 2606,Duplex,3,2,2,438m² ,2024
+"995,000 ","8 McGill Street,",EVATT ACT 2617,House,3,2,2,734m² ,2024
+"905,000","11 Hatfield Street,",EVATT ACT 2617,House,3,2,3,824m² ,2024
+"1,385,000","9 Poyitt Street,",FRANKLIN ACT 2913,House,4,2,2,450m² ,2024
+"1,235,000 ","8 Dyson Street,",LYNEHAM ACT 2602,House,4,1,1,715m² ,2024
+"865,000 ","78 Osburn Drive,",MACGREGOR ACT 2615,House,4,2,1,834m² ,2024
+"957,000","10 Du Faur Street,",MAWSON ACT 2607,House,3,1,1,860m² ,2024
+"1,315,000 ","94 Gurrang Avenue,",NGUNNAWAL ACT 2913,House,4,3,2,859m² ,2024
+"905,000","43 Angophora Street,",RIVETT ACT 2611,House,3,1,2,813m² ,2024
+"1,210,000 ","9 Tewksbury Circuit,",THEODORE ACT 2905,House,6,3,3,"1,239m² ",2024
+"1,700,000 ","98 Jaeger Circuit,",BRUCE ACT 2617,House,4,2,2,871m² ,09 Feb 2024
+"800,000 ","14 Woodburn Street,",CHISHOLM ACT 2905,House,3,1,2,686m² ,09 Feb 2024
+"780,000 ","12 Truganini Place,",CHISHOLM ACT 2905,House,3,2,2,814m² ,09 Feb 2024
+"1,120,000 ","24 Stockdale Street,",DICKSON ACT 2602,House,3,1,−,673m² ,09 Feb 2024
+"950,500","11 Nannine Place,",FISHER ACT 2611,House,3,2,2,872m² ,9 Feb 2024
+"775,000 ","64 Summerland Circuit,",KAMBAH ACT 2902,House,3,1,2,910m² ,9 Feb 2024
+"1,200,000 ","21 Sturdee Crescent,",MONASH ACT 2904,House,4,3,2,745m² ,09 Feb 2024
+"1,090,000 ","15 Stutchbury Street,",PAGE ACT 2614,House,4,2,3,707m² ,09 Feb 2024
+"675,000 ","7 Murrjinelle Circuit,",BONNER ACT 2914,House,3,1,2,248m² ,08 Feb 2024
+"910,000 ","36 Companion Crescent,",FLYNN ACT 2615,House,4,2,2,788m² ,8 Feb 2024
+"5,370,000 ","56 National Circuit,",FORREST ACT 2603,House,4,3,3,"1,897m² ",2024
+"865,000 ","4 Wootton Crescent,",GORDON ACT 2906,House,3,2,2,742m² ,08 Feb 2024
+"725,000 ","20 Carina Street,",NGUNNAWAL ACT 2913,House,3,1,1,407m² ,08 Feb 2024
+"2,210,000 ","31 Pindari Crescent,",O'MALLEY ACT 2606,House,5,3,2,"1,015m² ",08 Feb 2024
+"725,000 ","1 Yarri Street,",BONNER ACT 2914,House,3,1,1,244m² ,07 Feb 2024
+"690,000","17 Anna Morgan Circuit,",BONNER ACT 2914,House,3,1,2,293m² ,07 Feb 2024
+"760,000 ","12 McKinley Circuit,",CALWELL ACT 2905,House,3,1,2,744m² ,07 Feb 2024
+"735,000 ","10 MacLean Street,",CHISHOLM ACT 2905,House,3,1,2,692m² ,07 Feb 2024
+"910,000 ","64 Clancy Street,",EVATT ACT 2617,House,4,2,1,765m² ,2024
+"2,650,000 ","12 Verco Street,",HACKETT ACT 2602,House,5,3,2,"1,221m² ",07 Feb 2024
+"1,130,000 ","21 Murchison Street,",KALEEN ACT 2617,House,4,2,2,766m² ,07 Feb 2024
+"776,000","8 Creed Place,",MACGREGOR ACT 2615,House,3,1,1,825m² ,07 Feb 2024
+"1,240,000","6 Lord Street,",O'CONNOR ACT 2602,House,4,1,−,780m² ,2024
+"1,080,000","16 Ina Higgins Street,",TAYLOR ACT 2913,House,4,3,2,474m² ,07 Feb 2024
+"940,000 ","10 Fairley Crescent,",THEODORE ACT 2905,House,4,2,2,858m² ,07 Feb 2024
+"1,026,000 ","14 Cookson Place,",BANKS ACT 2906,House,4,2,2,637m² ,06 Feb 2024
+"745,000 ","56 Evelyn Owen Crescent,",DUNLOP ACT 2615,House,3,1,1,562m² ,06 Feb 2024
+"842,500","4 Duhig Place,",MACGREGOR ACT 2615,House,3,1,2,724m² ,2024
+"915,000 ","4 Stillwell Place,",MAWSON ACT 2607,House,3,1,−,929m² ,2024
+"821,000 ","7 Akma Place,",NGUNNAWAL ACT 2913,House,3,2,1,518m² ,6 Feb 2024
+"910,000 ","13 Thelander Street,",TAYLOR ACT 2913,House,3,3,1,315m² ,06 Feb 2024
+"1,200,000 ","19 Dobson Place,",WATSON ACT 2602,House,5,2,2,685m² ,6 Feb 2024
+"1,410,000","5 Comet Street,",AMAROO ACT 2914,House,5,3,5,756m² ,05 Feb 2024
+"1,175,000 ","41 Arabana Street,",ARANDA ACT 2614,House,3,2,3,"1,011m² ",05 Feb 2024
+"697,000 ","71 Mobourne Street,",BONNER ACT 2914,House,3,1,1,218m² ,05 Feb 2024
+"1,120,000","42 Jane Price Crescent,",CONDER ACT 2906,House,4,3,3,859m² ,5 Feb 2024
+"860,000","50 Jemalong Street,",DUFFY ACT 2611,House,3,1,1,696m² ,05 Feb 2024
+"1,005,000 ","16 Alice Cummins Street,",GUNGAHLIN ACT 2912,House,4,2,2,514m² ,05 Feb 2024
+"850,000","71 Scantlebury Crescent,",THEODORE ACT 2905,House,3,1,2,798m² ,2024
+"1,925,000 ","59 Novar Street,",YARRALUMLA ACT 2600,House,3,1,−,891m² ,05 Feb 2024
+"625,000 ","6 Saxby Close,",AMAROO ACT 2914,House,3,2,1,240m² ,2024
+"1,100,000 ","54 Katherine Avenue,",AMAROO ACT 2914,House,4,2,3,660m² ,3 Feb 2024
+"1,152,500 ","63 Baudinette Circuit,",BRUCE ACT 2617,House,4,2,2,626m² ,2024
+"1,952,000 ","76 Drooka Crescent,",CRACE ACT 2911,House,5,2,2,801m² ,2024
+"980,000 ","2 Ikara Close,",DUNLOP ACT 2615,House,4,2,2,640m² ,2024
+"895,000 ","4 Piesse Place,",EVATT ACT 2617,House,4,1,1,849m² ,2024
+"1,190,000 ","36 Zakharov Avenue,",FORDE ACT 2914,House,4,2,2,580m² ,03 Feb 2024
+"1,150,000 ","21 Moroney Street,",FRASER ACT 2615,House,4,2,2,"1,413m² ",2024
+"1,575,000 ","8 Verco Street,",HACKETT ACT 2602,House,4,1,1,"1,024m² ",2024
+"762,000 ","19 Dethridge Street,",HIGGINS ACT 2615,House,3,1,2,791m² ,2024
+"885,000 ","7 Kelly Place,",HIGGINS ACT 2615,House,4,2,2,953m² ,2024
+"715,000 ","9 Marengo Place,",ISABELLA PLAINS ACT 2905,House,3,1,1,471m² ,03 Feb 2024
+"795,000","8 Lascelles Circuit,",KAMBAH ACT 2902,House,3,1,4,754m² ,2024
+"1,035,000 ","9 Mannheim Street,",KAMBAH ACT 2902,House,4,2,5,930m² ,2024
+"970,000","8 Lyne Place,",KAMBAH ACT 2902,House,4,2,2,815m² ,2024
+"865,000 ","101 Summerland Circuit,",KAMBAH ACT 2902,House,4,2,2,720m² ,2024
+"685,000 ","36 Rowland Street,",MACGREGOR ACT 2615,House,3,1,1,375m² ,2024
+"825,000 ","46 Kneeshaw Street,",MONASH ACT 2904,House,3,1,4,911m² ,2024
+"699,000 ","19 Ogilby Crescent,",PAGE ACT 2614,House,3,1,1,633m² ,2024
+"1,157,000 ","5 Lochee Place,",STIRLING ACT 2611,House,4,2,2,701m² ,2024
+"1,410,000 ","16 Darke Street,",TORRENS ACT 2607,House,4,2,2,"1,032m² ",2024
+"815,000 ","23 Rockwood Street,",CASEY ACT 2913,House,3,2,2,271m² ,02 Feb 2024
+"1,415,000","28 Colebatch Place,",CURTIN ACT 2605,House,4,2,2,855m² ,02 Feb 2024
+"1,260,000 ","2/81 Monaro Crescent,",GRIFFITH ACT 2603,House,3,2,2,465m² ,02 Feb 2024
+"890,000 ","3 Mullagh Place,",HOLT ACT 2615,House,4,2,2,700m² ,02 Feb 2024
+"941,000","27 Lyall Crescent,",KAMBAH ACT 2902,House,3,2,2,"1,284m² ",2024
+"815,000 ","99 O'Halloran Circuit,",KAMBAH ACT 2902,House,3,1,2,811m² ,02 Feb 2024
+"799,990 ","9 Ormerod Place,",KAMBAH ACT 2902,House,3,1,2,680m² ,02 Feb 2024
+"1,050,000","237 Hindmarsh Drive,",RIVETT ACT 2611,House,5,2,4,830m² ,02 Feb 2024
+"965,200 ","13 MacFarland Crescent,",CHIFLEY ACT 2606,House,3,1,1,770m² ,01 Feb 2024
+"875,000 ","31 Ashkanasy Crescent,",EVATT ACT 2617,House,3,2,2,775m² ,01 Feb 2024
+"945,000 ","4 Marlock Street,",RIVETT ACT 2611,House,4,2,1,706m² ,1 Feb 2024
+"980,000 ","23 Pagliano Street,",STRATHNAIRN ACT 2615,House,4,2,2,447m² ,1 Feb 2024
+"1,380,000 ","23 Iwanoff Street,",TAYLOR ACT 2913,House,4,3,2,529m² ,01 Feb 2024
+"3,000,000 ","19 Barrallier Street,",GRIFFITH ACT 2603,House,4,2,2,"1,250m² ",31 Jan 2024
+"1,060,000","26 Pildappa Street,",HARRISON ACT 2914,House,5,2,2,481m² ,31 Jan 2024
+"890,000","32 Eric De Salis Street,",MACGREGOR ACT 2615,House,3,2,2,490m² ,2024
+"1,165,000","5 Solus Place,",PALMERSTON ACT 2913,House,4,2,2,778m² ,2024
+"740,000","14 Naas Close,",AMAROO ACT 2914,House,3,1,1,477m² ,30 Jan 2024
+"585,000 ","49 Summerville Crescent,",FLOREY ACT 2615,House,2,1,1,281m² ,30 Jan 2024
+"800,000 ","50 Burrumarra Avenue,",NGUNNAWAL ACT 2913,House,3,2,2,294m² ,30 Jan 2024
+"690,000","17 Gosman Close,",OXLEY ACT 2903,House,3,1,1,718m² ,30 Jan 2024
+"675,000 ","3 Notting Court,",BANKS ACT 2906,House,3,1,1,482m² ,29 Jan 2024
+"720,000 ","5 Djerrkura Street,",BONNER ACT 2914,House,3,1,1,250m² ,29 Jan 2024
+"965,000","7 Humphrey Street,",CONDER ACT 2906,House,4,2,2,604m² ,2024
+"900,000","1 Holman Street,",CURTIN ACT 2605,House,3,1,2,744m² ,29 Jan 2024
+"710,000","15 Pennefather Street,",HIGGINS ACT 2615,House,3,1,1,696m² ,29 Jan 2024
+"1,300,000 ","9 Verreaux Crescent,",THROSBY ACT 2914,House,4,2,2,469m² ,29 Jan 2024
+"1,180,000 ","27 Eggleston Crescent,",CHIFLEY ACT 2606,House,4,2,1,777m² ,8 Jan 2024
+"852,000 ","7 Bibby Place,",FLOREY ACT 2615,House,4,2,2,"1,140m² ",2024
+"1,100,000 ","8 Mabo Boulevard,",BONNER ACT 2914,House,4,2,2,583m² ,26 Jan 2024
+"785,000 ","4 Eales Place,",KAMBAH ACT 2902,House,3,1,3,625m² ,6 Jan 2024
+"816,300","11 Macfaull Place,",STIRLING ACT 2611,House,3,1,2,681m² ,6 Jan 2024
+"1,600,000","1 Wollemi Place,",BANKS ACT 2906,House,8,3,2,966m² ,25 Jan 2024
+"1,610,000 ","16 Alan Watt Crescent,",CASEY ACT 2913,House,4,2,2,482m² ,25 Jan 2024
+"1,545,000","103 Atherton Street,",DOWNER ACT 2602,House,5,2,1,775m² ,25 Jan 2024
+"1,000,000 ","38 Garrick Street,",FADDEN ACT 2904,House,4,2,2,795m² ,25 Jan 2024
+"985,000 ","56 Turbayne Crescent,",FORDE ACT 2914,House,4,2,2,387m² ,25 Jan 2024
+"909,909","50 Terewah Circuit,",KALEEN ACT 2617,House,3,1,4,770m² ,25 Jan 2024
+"950,000","2 Luther Place,",MACGREGOR ACT 2615,House,4,2,2,405m² ,2024
+"3,130,000","1 Frome Street,",NARRABUNDAH ACT 2604,House,4,3,5,"1,221m² ",25 Jan 2024
+"1,165,000","3 Keach Close,",STRATHNAIRN ACT 2615,House,4,2,2,499m² ,25 Jan 2024
+"896,000 ","36 Mackerras Crescent,",THEODORE ACT 2905,House,4,2,2,754m² ,25 Jan 2024
+"900,000","9 Kavel Street,",TORRENS ACT 2607,House,3,1,1,669m² ,2024
+"900,000 ","2 Bolton Place,",WANNIASSA ACT 2903,House,3,1,2,"1,123m² ",2024
+"2,450,000 ","19A Farrer Street,",BRADDON ACT 2612,House,4,3,2,824m² ,24 Jan 2024
+"860,000 ","39 Henry Kendall Street,",FRANKLIN ACT 2913,House,3,2,1,360m² ,24 Jan 2024
+"975,000","101 Burnie Street,",LYONS ACT 2606,House,3,1,−,851m² ,24 Jan 2024
+"863,000 ","10 Fiaschi Street,",MACGREGOR ACT 2615,House,4,2,1,797m² ,24 Jan 2024
+"680,000","1 Lanley Square,",NGUNNAWAL ACT 2913,House,3,1,1,282m² ,24 Jan 2024
+"720,000 ","29 Devenish Street,",TAYLOR ACT 2913,House,3,1,1,250m² ,24 Jan 2024
+"1,129,000","64 Hopetoun Circuit,",YARRALUMLA ACT 2600,House,3,1,2,504m² ,24 Jan 2024
+"765,000 ","17 David Miller Crescent,",CASEY ACT 2913,House,3,2,2,260m² ,23 Jan 2024
+"905,000","40 Charterisville Avenue,",CONDER ACT 2906,House,4,2,2,705m² ,23 Jan 2024
+"825,000 ","229 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,House,3,2,2,285m² ,23 Jan 2024
+"905,000","10 Zeidler Street,",GUNGAHLIN ACT 2912,House,4,2,2,376m² ,23 Jan 2024
+"930,000","23 Lowrie Street,",DICKSON ACT 2602,House,3,1,1,408m² ,22 Jan 2024
+"695,000 ","90 Bernard Heinze Avenue,",MONCRIEFF ACT 2914,House,3,2,2,184m² ,22 Jan 2024
+"1,270,000","2 Cann Close,",PALMERSTON ACT 2913,House,4,2,2,811m² ,2024
+"910,000","6 Holford Street,",TAYLOR ACT 2913,House,4,2,2,317m² ,22 Jan 2024
+"1,035,000","26 Mottram Street,",TAYLOR ACT 2913,House,4,3,2,420m² ,22 Jan 2024
+"1,450,000 ","6 Darmody Street,",WEETANGERA ACT 2614,House,3,2,1,"1,222m² ",2024
+"780,000 ","15 Levine Street,",EVATT ACT 2617,House,2,1,1,497m² ,2024
+"1,550,000","111 Walker Crescent,",NARRABUNDAH ACT 2604,House,5,4,2,"1,076m² ",2024
+"708,000 ","71 Ian Nicol Street,",WATSON ACT 2602,House,2,1,1,207m² ,2024
+"1,800,000 ","41 Norman Street,",DEAKIN ACT 2600,House,4,2,2,747m² ,19 Jan 2024
+"1,000,000 ","2 Gale Street,",DOWNER ACT 2602,House,3,1,1,761m² ,19 Jan 2024
+"819,000 ","97 Dixon Drive,",DUFFY ACT 2611,House,3,1,1,798m² ,19 Jan 2024
+"751,900 ","52 Mirrool Street,",DUFFY ACT 2611,House,3,2,2,441m² ,19 Jan 2024
+"855,000 ","18 Quinlivan Crescent,",DUNLOP ACT 2615,House,3,2,2,510m² ,19 Jan 2024
+"685,000 ","28 Mundang Crescent,",NGUNNAWAL ACT 2913,House,3,2,2,419m² ,19 Jan 2024
+"865,000","37 Corkery Crescent,",TAYLOR ACT 2913,House,4,2,2,240m² ,19 Jan 2024
+"755,000","50 Must Circuit,",CALWELL ACT 2905,House,3,1,4,815m² ,2024
+"1,030,000","62 Jane Sutherland Street,",CONDER ACT 2906,House,5,2,3,824m² ,18 Jan 2024
+"985,000","79 Gwen Meredith Loop,",FRANKLIN ACT 2913,House,4,2,2,405m² ,18 Jan 2024
+"787,500 ","5 Bandulla Street,",ISABELLA PLAINS ACT 2905,House,3,1,2,905m² ,2024
+"840,000 ","1 Harper Street,",MACGREGOR ACT 2615,House,3,2,2,936m² ,18 Jan 2024
+"635,000 ","14 Stang Place,",MACGREGOR ACT 2615,House,3,1,1,230m² ,18 Jan 2024
+"850,000 ","33 Warrumbul Street,",NGUNNAWAL ACT 2913,House,3,2,2,375m² ,18 Jan 2024
+"725,000 ","10 Gudamang Street,",NGUNNAWAL ACT 2913,Semi-detached,3,2,1,237m² ,18 Jan 2024
+"927,000 ","160 Roden Cutler Drive,",BONNER ACT 2914,House,4,3,2,401m² ,17 Jan 2024
+"620,000 ","8 Yabsley Place,",CHARNWOOD ACT 2615,House,3,1,2,624m² ,17 Jan 2024
+"1,036,500","46 Castleton Crescent,",GOWRIE ACT 2904,House,4,2,2,744m² ,17 Jan 2024
+"905,000 ","6 Nimbin Street,",NARRABUNDAH ACT 2604,House,3,1,1,464m² ,17 Jan 2024
+"1,405,000 ","40 Cazneaux Crescent,",WESTON ACT 2611,House,5,2,2,605m² ,7 Jan 2024
+"770,000 ","20 Wedgwood Close,",CHISHOLM ACT 2905,House,3,1,−,661m² ,16 Jan 2024
+"1,005,000","11 Dolling Crescent,",FLYNN ACT 2615,House,4,2,2,883m² ,16 Jan 2024
+"770,000 ","4 Carlton Place,",HOLT ACT 2615,House,3,1,−,695m² ,16 Jan 2024
+"1,480,000 ","3 Jelbart Street,",MAWSON ACT 2607,House,4,3,2,977m² ,6 Jan 2024
+"800,000 ","65 Deamer Crescent,",RICHARDSON ACT 2905,House,4,1,2,787m² ,16 Jan 2024
+"815,000 ","11 Tarlton Place,",BONYTHON ACT 2905,House,3,2,1,787m² ,15 Jan 2024
+"1,050,000","73A Hurley Street,",MAWSON ACT 2607,Semi-detached,4,2,2,425m² ,15 Jan 2024
+"1,650,000","68 Dumas Street,",MCKELLAR ACT 2617,House,5,3,4,768m² ,15 Jan 2024
+"1,275,000 ","5 Marlock Street,",RIVETT ACT 2611,House,5,3,3,776m² ,2024
+"1,760,000","34A Farrer Street,",BRADDON ACT 2612,House,5,2,2,721m² ,12 Jan 2024
+"975,000 ","7 Hirschfeld Crescent,",MACGREGOR ACT 2615,House,4,2,2,"1,280m² ",12 Jan 2024
+"662,000","14 Lingiari Court,",NGUNNAWAL ACT 2913,House,3,1,1,286m² ,12 Jan 2024
+"8,000,000","4 Wickham Crescent,",RED HILL ACT 2603,House,5,4,4,"4,401m² ",2024
+"840,000 ","3 Vale Place,",WANNIASSA ACT 2903,House,3,2,1,633m² ,12 Jan 2024
+"777,000 ","73 Beattie Crescent,",CHISHOLM ACT 2905,House,3,1,2,947m² ,11 Jan 2024
+"1,245,000 ","14 Padbury Street,",DOWNER ACT 2602,House,3,2,2,763m² ,11 Jan 2024
+"860,000","35 Zakharov Avenue,",FORDE ACT 2914,House,3,2,1,319m² ,11 Jan 2024
+"815,000","8 O'Meara Place,",GOWRIE ACT 2904,House,4,2,2,872m² ,11 Jan 2024
+"610,000","3 Blandon Place,",HOLT ACT 2615,House,2,1,1,442m² ,2024
+"1,950,000","36 Enderby Street,",MAWSON ACT 2607,House,4,2,4,883m² ,11 Jan 2024
+"1,440,000 ","21 Gurrit Place,",NGUNNAWAL ACT 2913,House,5,3,2,643m² ,11 Jan 2024
+"1,540,000","2 Todd Street,",O'CONNOR ACT 2602,House,3,1,2,834m² ,11 Jan 2024
+"950,000 ","59 Ehrlich Circuit,",WATSON ACT 2602,House,3,2,2,157m² ,11 Jan 2024
+"910,000 ","14 Youl Court,",BANKS ACT 2906,House,4,2,2,810m² ,10 Jan 2024
+"715,000 ","38 Lorna Lippmann Lane,",BONNER ACT 2914,House,3,1,2,250m² ,10 Jan 2024
+"2,076,000","4 Bannister Gardens,",GRIFFITH ACT 2603,House,3,2,2,"1,116m² ",10 Jan 2024
+"1,110,000","133 Eccles Circuit,",MACGREGOR ACT 2615,House,4,2,2,676m² ,10 Jan 2024
+"750,000 ","3 Bastow Circuit,",BANKS ACT 2906,House,3,1,2,687m² ,09 Jan 2024
+"875,000 ","11 Irinyili Street,",BONNER ACT 2914,House,3,2,2,351m² ,09 Jan 2024
+"1,300,000 ","13 Tatchell Street,",CALWELL ACT 2905,House,5,3,2,"1,216m² ",09 Jan 2024
+"1,250,000","2 Barn Place,",PALMERSTON ACT 2913,House,5,3,2,957m² ,09 Jan 2024
+"775,000 ","10 Themeda Place,",RIVETT ACT 2611,House,3,1,2,734m² ,09 Jan 2024
+"1,080,000","267 Pro Hart Avenue,",STRATHNAIRN ACT 2615,House,4,2,2,418m² ,08 Jan 2024
+"935,000","5 Montgomery Place,",CONDER ACT 2906,House,5,2,2,658m² ,05 Jan 2024
+"980,000 ","12 Bindugan Crescent,",NGUNNAWAL ACT 2913,House,4,2,4,420m² ,03 Jan 2024
+"857,000 ","7 Isis Close,",AMAROO ACT 2914,House,3,2,2,541m² ,01 Jan 2024
+"1,135,000 ","46 Raymond Place,",AINSLIE ACT 2602,House,2,1,1,888m² ,24 Dec 2023
+"775,000 ","7 Stang Place,",MACGREGOR ACT 2615,House,3,2,1,391m² ,23 Dec 2023
+"850,000 ","72 Perry Drive,",CHAPMAN ACT 2611,House,4,2,2,725m² ,22 Dec 2023
+"999,000 ","8 Muskett Place,",CONDER ACT 2906,House,4,3,2,725m² ,22 Dec 2023
+"1,015,000","8 Payne Place,",FADDEN ACT 2904,House,4,2,2,902m² ,22 Dec 2023
+"1,095,000","11 Riordan Street,",FADDEN ACT 2904,House,4,2,2,715m² ,22 Dec 2023
+"1,000,000 ","61 Barber Crescent,",FLYNN ACT 2615,House,5,3,2,"1,179m² ",22 Dec 2023
+"1,430,000","15 Maurice Place,",GARRAN ACT 2605,House,3,1,−,833m² ,22 Dec 2023
+"835,500 ","145 Knoke Avenue,",GORDON ACT 2906,House,4,2,2,724m² ,22 Dec 2023
+"2,181,000 ","30 Stuart Street,",GRIFFITH ACT 2603,House,4,2,2,"1,021m² ",22 Dec 2023
+"1,043,000 ","10 Warramoo Crescent,",NARRABUNDAH ACT 2604,House,3,1,1,561m² ,22 Dec 2023
+"880,000","111 Katherine Avenue,",AMAROO ACT 2914,House,4,2,2,479m² ,21 Dec 2023
+"930,500 ","8 Dinah Street,",BONNER ACT 2914,House,4,2,2,435m² ,21 Dec 2023
+"740,000 ","78 Rockwood Street,",CASEY ACT 2913,House,3,2,1,246m² ,21 Dec 2023
+"1,426,000","12 Propsting Street,",CURTIN ACT 2605,House,3,2,2,850m² ,21 Dec 2023
+"1,670,000 ","32 Bedford Street,",DEAKIN ACT 2600,House,4,2,2,608m² ,21 Dec 2023
+"825,000 ","22 Blowering Street,",DUFFY ACT 2611,House,2,1,2,748m² ,21 Dec 2023
+"1,020,000 ","60 Kalianna Street,",HARRISON ACT 2914,House,4,2,2,480m² ,21 Dec 2023
+"1,122,500","12 Karamu Street,",HARRISON ACT 2914,House,4,2,2,449m² ,21 Dec 2023
+"930,000","17 Crozier Circuit,",KAMBAH ACT 2902,House,3,2,2,782m² ,21 Dec 2023
+"1,590,000 ","4 Swagman Street,",LAWSON ACT 2617,House,5,3,2,450m² ,21 Dec 2023
+"681,000","11 Hilda Kincaid Crescent,",MACGREGOR ACT 2615,House,3,1,1,249m² ,21 Dec 2023
+"928,000","83 Kavangal Circuit,",NGUNNAWAL ACT 2913,House,4,2,2,394m² ,21 Dec 2023
+"3,525,000","30 Pindari Crescent,",O'MALLEY ACT 2606,House,5,4,3,"2,681m² ",21 Dec 2023
+"980,000 ","46 Santalum St,",RIVETT ACT 2611,House,3,1,2,"1,103m² ",21 Dec 2023
+"870,000 ","4 Mighell Place,",THEODORE ACT 2905,House,4,2,1,878m² ,21 Dec 2023
+"1,220,000 ","76 Mulgara Loop,",THROSBY ACT 2914,House,4,2,2,450m² ,21 Dec 2023
+"740,000 ","12 Snowden Place,",WANNIASSA ACT 2903,House,3,1,2,667m² ,21 Dec 2023
+"750,000 ","7 Snowden Place,",WANNIASSA ACT 2903,House,3,1,3,628m² ,21 Dec 2023
+"616,000","66 Woralul Street,",WARAMANGA ACT 2611,House,4,1,2,693m² ,21 Dec 2023
+"1,185,000","23 Ulysses Circuit,",WRIGHT ACT 2611,House,4,2,2,491m² ,21 Dec 2023
+"856,000","30 Maris King Street,",CASEY ACT 2913,House,3,2,1,330m² ,2023
+"840,000 ","47 Norriss Street,",CHISHOLM ACT 2905,House,4,2,2,802m² ,2023
+"1,240,000","62 Chance Street,",CRACE ACT 2911,House,4,2,3,450m² ,20 Dec 2023
+"1,355,000","13 Temple Terrace,",DENMAN PROSPECT ACT 2611,House,4,2,2,543m² ,20 Dec 2023
+"1,420,000","12 Moodie Street,",FARRER ACT 2607,House,4,2,3,864m² ,0 Dec 2023
+"1,455,000","16 Dorothy Green Crescent,",FRANKLIN ACT 2913,House,5,2,2,482m² ,20 Dec 2023
+"1,540,000","5 Rusden Street,",GARRAN ACT 2605,House,5,3,2,957m² ,20 Dec 2023
+"1,000,000 ","56 Lewis Luxton Avenue,",GORDON ACT 2906,House,4,2,2,747m² ,20 Dec 2023
+"3,075,000","104 Jansz Crescent,",GRIFFITH ACT 2603,House,5,3,2,762m² ,20 Dec 2023
+"965,000 ","39 Anchorage Street,",HARRISON ACT 2914,House,4,2,2,486m² ,20 Dec 2023
+"975,000 ","6 Sassafras Place,",ISABELLA PLAINS ACT 2905,House,5,3,2,842m² ,20 Dec 2023
+"860,000","78 Hadleigh Circuit,",ISABELLA PLAINS ACT 2905,House,4,2,4,770m² ,20 Dec 2023
+"733,000 ","28 Helmrich Street,",MONCRIEFF ACT 2914,House,4,2,1,153m² ,20 Dec 2023
+"865,000 ","9 Bunburung Close,",NGUNNAWAL ACT 2913,House,3,2,2,665m² ,20 Dec 2023
+"900,000","24 Kneebone Street,",BONYTHON ACT 2905,House,4,2,2,766m² ,19 Dec 2023
+"880,000 ","6 Jacobs Street,",EVATT ACT 2617,House,4,2,2,721m² ,19 Dec 2023
+"840,000 ","8 Clarnette Place,",FLYNN ACT 2615,House,3,1,3,783m² ,9 Dec 2023
+"800,000","3 Barwick Place,",GOWRIE ACT 2904,House,4,2,1,931m² ,19 Dec 2023
+"954,000 ","12 Carroll Street,",HUGHES ACT 2605,House,3,1,2,353m² ,19 Dec 2023
+"910,000 ","24 Delegate Street,",KALEEN ACT 2617,House,4,2,−,835m² ,19 Dec 2023
+"900,000","20 Chubb Place,",LATHAM ACT 2615,House,4,2,1,847m² ,19 Dec 2023
+"864,000 ","14 Elizabeth Crescent,",MACQUARIE ACT 2614,House,3,1,2,889m² ,2023
+"1,700,000 ","20 Mari Funaki Street,",WHITLAM ACT 2611,House,5,3,2,545m² ,19 Dec 2023
+"2,025,000",,DUFFY ACT 2611,House,4,3,6,863m² ,
+"1,825,000","10 Rouseabout Street,",LAWSON ACT 2617,House,5,3,2,560m² ,18 Dec 2023
+"770,000 ","56 Dooland Court,",NICHOLLS ACT 2913,House,3,1,1,427m² ,18 Dec 2023
+"970,000","12 Lemon Street,",STRATHNAIRN ACT 2615,House,4,2,2,471m² ,18 Dec 2023
+"1,150,000 ","187 Robin Boyd Crescent,",TAYLOR ACT 2913,House,4,3,4,450m² ,18 Dec 2023
+"1,212,000 ","83 Sherbrooke Street,",AINSLIE ACT 2602,House,4,1,3,762m² ,2023
+"1,690,000 ","82 Barada Crescent,",ARANDA ACT 2614,House,5,2,2,996m² ,2023
+"725,000 ","50 Alston Street,",CHISHOLM ACT 2905,House,3,1,1,696m² ,2023
+"955,000 ","5 Morphy Place,",COOK ACT 2614,House,3,2,2,493m² ,2023
+"1,615,000 ","4 Barron Street,",DEAKIN ACT 2600,House,3,1,2,654m² ,16 Dec 2023
+"785,000 ","13 Balala Place,",ISABELLA PLAINS ACT 2905,House,3,2,−,887m² ,2023
+"670,000 ","93 Macfarlane Burnet Avenue,",MACGREGOR ACT 2615,House,3,1,1,460m² ,2023
+"780,000 ","113 Eccles Circuit,",MACGREGOR ACT 2615,House,3,2,2,450m² ,2023
+"957,500 ","7 Castles Place,",MELBA ACT 2615,House,4,2,4,683m² ,2023
+"1,700,000","2 Johnston Street,",NARRABUNDAH ACT 2604,House,4,2,2,"1,034m² ",2023
+"1,050,000","32 Freda Bennett Circuit,",NICHOLLS ACT 2913,House,4,2,3,777m² ,2023
+"890,000 ","17 Adcock Place,",BANKS ACT 2906,House,4,2,3,976m² ,15 Dec 2023
+"995,000","6 Pearl Gibbs Circuit,",BONNER ACT 2914,House,4,2,2,487m² ,15 Dec 2023
+"675,000 ","156 Darwinia Terrace,",CHAPMAN ACT 2611,House,2,1,1,320m² ,15 Dec 2023
+"1,020,000 ","17 Purbrick Street,",CHISHOLM ACT 2905,House,4,2,2,"1,116m² ",15 Dec 2023
+"962,500 ","20 Russell Drysdale Crescent,",CONDER ACT 2906,House,4,2,3,780m² ,15 Dec 2023
+"752,000 ","13 Slater Place,",EVATT ACT 2617,House,3,1,2,735m² ,15 Dec 2023
+"1,060,000","3 GRANNALL STREET,",FORDE ACT 2914,House,3,2,2,468m² ,15 Dec 2023
+"1,032,000 ","17 Brumby Street,",HARRISON ACT 2914,House,4,2,2,455m² ,15 Dec 2023
+"915,000 ","25 Hyndes Crescent,",HOLDER ACT 2611,House,3,1,1,790m² ,15 Dec 2023
+"860,000 ","16 Chirnside Circuit,",KAMBAH ACT 2902,House,4,2,1,705m² ,15 Dec 2023
+"1,000,000","6 Punch Place,",MONASH ACT 2904,House,4,2,4,878m² ,15 Dec 2023
+"710,000","2/60 Mainwaring Rich Circuit,",PALMERSTON ACT 2913,Duplex,3,1,4,471m² ,15 Dec 2023
+"820,000 ","14 Hancock Street,",SPENCE ACT 2615,House,3,1,1,904m² ,5 Dec 2023
+"2,260,000 ","24 Araba Place,",ARANDA ACT 2614,House,5,2,2,"1,591m² ",2023
+"817,000","3 Crowley Court,",CHARNWOOD ACT 2615,House,5,2,3,801m² ,14 Dec 2023
+"1,050,000 ","28 Atherton Street,",DOWNER ACT 2602,House,3,1,1,792m² ,14 Dec 2023
+"745,000 ","21 Hugh Mackay Crescent,",DUNLOP ACT 2615,House,3,2,2,433m² ,14 Dec 2023
+"930,000","25 Bingley Crescent,",FRASER ACT 2615,House,4,2,2,986m² ,14 Dec 2023
+"1,065,000 ","13 Sculptor Street,",GIRALANG ACT 2617,House,4,2,2,"1,304m² ",2023
+"1,050,000","2 Winton Place,",HOLDER ACT 2611,House,5,2,2,781m² ,14 Dec 2023
+"1,075,000 ","30 Myra Law Crescent,",MONCRIEFF ACT 2914,House,4,3,4,497m² ,14 Dec 2023
+"690,000 ","34 Gamban Square,",NGUNNAWAL ACT 2913,House,3,1,1,391m² ,14 Dec 2023
+"1,030,000","27 Rachel Makinson Street,",STRATHNAIRN ACT 2615,House,4,2,2,547m² ,14 Dec 2023
+"910,000 ","33 Jefferis Street,",TORRENS ACT 2607,House,3,2,1,778m² ,14 Dec 2023
+"780,000","50 McInnes Street,",WESTON ACT 2611,House,3,1,3,701m² ,14 Dec 2023
+"1,310,000 ","7 Mallard Street,",WHITLAM ACT 2611,House,4,3,2,480m² ,14 Dec 2023
+"1,050,000","29 Willoughby Crescent,",GILMORE ACT 2905,House,4,3,2,881m² ,13 Dec 2023
+"1,302,500 ","12 Bulloo Place,",KALEEN ACT 2617,House,4,3,2,968m² ,3 Dec 2023
+"970,000 ","39 Lee-Steere Crescent,",KAMBAH ACT 2902,House,3,2,1,"1,209m² ",13 Dec 2023
+"783,000 ","18 Oldfield Circuit,",KAMBAH ACT 2902,House,3,1,3,772m² ,13 Dec 2023
+"975,000 ","8 Gudgenby Close,",PALMERSTON ACT 2913,House,4,2,2,666m² ,13 Dec 2023
+"4,570,000","9 Deane Street,",YARRALUMLA ACT 2600,House,4,2,2,862m² ,2023
+"970,000 ","22 Bardolph Street,",BONYTHON ACT 2905,House,4,2,4,"1,032m² ",12 Dec 2023
+"857,000","28 Kapunda Street,",FISHER ACT 2611,House,3,1,2,902m² ,2023
+"627,000","1A Victor Chang Street,",MACGREGOR ACT 2615,House,2,1,2,329m² ,12 Dec 2023
+"875,000","8 Tungun Street,",NARRABUNDAH ACT 2604,House,2,1,1,464m² ,12 Dec 2023
+"1,060,000","42 Nelumbo Street,",RIVETT ACT 2611,House,7,3,1,767m² ,12 Dec 2023
+"930,000 ","3 Goudie Place,",WANNIASSA ACT 2903,House,4,2,2,770m² ,2023
+"1,170,001 ","19 Ulysses Circuit,",WRIGHT ACT 2611,House,4,2,2,442m² ,2023
+"926,000 ","60 Derrington Crescent,",BONYTHON ACT 2905,House,3,2,2,890m² ,1 Dec 2023
+"793,000 ","11 Sloane Place,",FLOREY ACT 2615,House,3,1,2,835m² ,2023
+"1,245,000","8 Turbayne Crescent,",FORDE ACT 2914,House,4,2,2,387m² ,11 Dec 2023
+"1,170,000 ","6 Andado Place,",HAWKER ACT 2614,House,6,3,3,"1,322m² ",11 Dec 2023
+"1,150,000 ","2 Apperly Close,",KAMBAH ACT 2902,House,4,2,3,"1,292m² ",11 Dec 2023
+"1,925,000 ","61 Kennedy Street,",KINGSTON ACT 2604,House,3,2,3,868m² ,11 Dec 2023
+"2,500,000","15 Scarborough Street,",RED HILL ACT 2603,House,4,3,2,"1,072m² ",2023
+"855,300 ","30 Forlonge Street,",WANNIASSA ACT 2903,House,3,2,2,699m² ,11 Dec 2023
+"1,125,000","12 Kimmorley Street,",CASEY ACT 2913,House,4,2,2,486m² ,2023
+"1,300,000","51 Monkman Street,",CHAPMAN ACT 2611,House,4,3,2,"1,005m² ",2023
+"700,000 ","16 Leycester Place,",CHARNWOOD ACT 2615,House,4,2,2,511m² ,2023
+"1,400,000","10 Mair Place,",CURTIN ACT 2605,House,3,2,2,397m² ,2023
+"1,100,000 ","15 Robertson Street,",CURTIN ACT 2605,House,5,2,3,695m² ,2023
+"1,698,000 ","12 Carrington Street,",DEAKIN ACT 2600,House,3,1,2,669m² ,2023
+"955,500 ","3 Ikara Close,",DUNLOP ACT 2615,House,4,2,4,590m² ,2023
+"925,000 ","56 Fitzhardinge Crescent,",EVATT ACT 2617,House,4,2,1,772m² ,2023
+"922,000","5 McPhail Place,",FADDEN ACT 2904,House,4,2,2,894m² ,2023
+"967,100 ","16 Gwen Meredith Loop,",FRANKLIN ACT 2913,House,4,2,2,405m² ,09 Dec 2023
+"2,055,000 ","69 Captain Cook Crescent,",GRIFFITH ACT 2603,House,4,3,1,"1,204m² ",2023
+"1,975,000","12 Hovell Street,",GRIFFITH ACT 2603,House,4,3,2,964m² ,09 Dec 2023
+"855,000 ","33 Groom Street,",HUGHES ACT 2605,Duplex,2,1,1,410m² ,2023
+"930,000 ","28 Burnett Street,",KALEEN ACT 2617,House,3,2,1,885m² ,2023
+"1,105,000 ","55 Balonne Street,",KALEEN ACT 2617,House,4,2,4,750m² ,2023
+"1,000,000","38 Summerland Circuit,",KAMBAH ACT 2902,House,4,3,2,910m² ,2023
+"1,215,000 ","60 Summerland Circuit,",KAMBAH ACT 2902,House,4,3,4,"1,418m² ",2023
+"1,625,000","92 Macrossan Crescent,",LATHAM ACT 2615,House,6,4,2,969m² ,2023
+"810,000 ","10 Eric De Salis Street,",MACGREGOR ACT 2615,House,3,2,2,469m² ,2023
+"1,195,000 ","6 Griffin Place,",MONASH ACT 2904,House,4,2,2,"1,089m² ",2023
+"680,000","4 Tana Place,",NGUNNAWAL ACT 2913,House,3,1,1,301m² ,2023
+"876,000 ","5 Bendora Crescent,",PALMERSTON ACT 2913,House,3,2,2,402m² ,2023
+"950,000","4 Pavonia Street,",RIVETT ACT 2611,House,4,2,1,820m² ,2023
+"990,000","91 Darwinia Terrace,",RIVETT ACT 2611,House,4,2,2,972m² ,2023
+"1,305,000 ","41 Dickinson Street,",WATSON ACT 2602,House,4,2,1,710m² ,9 Dec 2023
+"1,200,000","15 Smith Street,",WEETANGERA ACT 2614,House,5,2,2,"1,080m² ",09 Dec 2023
+"2,700,000","12 Belmore Gardens,",BARTON ACT 2600,House,5,2,2,976m² ,08 Dec 2023
+"1,505,000 ","11 Rankin Street,",CAMPBELL ACT 2612,House,3,1,1,633m² ,08 Dec 2023
+"1,000,000 ","44 Roseworthy Crescent,",FARRER ACT 2607,House,4,1,2,787m² ,08 Dec 2023
+"825,000","149 Kalgoorlie Crescent,",FISHER ACT 2611,House,3,1,4,712m² ,08 Dec 2023
+"900,000","7 Finlayson Place,",GILMORE ACT 2905,House,3,2,2,994m² ,2023
+"890,000 ","23 Frances Burke Street,",GUNGAHLIN ACT 2912,House,4,2,2,444m² ,08 Dec 2023
+"1,555,000","20 Corrigan Place,",ISAACS ACT 2607,House,5,2,2,722m² ,08 Dec 2023
+"1,080,000","73 Harrington Circuit,",KAMBAH ACT 2902,House,5,2,2,724m² ,2023
+"780,000","4 Symers Street,",KAMBAH ACT 2902,House,3,1,1,726m² ,08 Dec 2023
+"835,000 ","3 Macvitie Place,",MACQUARIE ACT 2614,House,3,1,1,518m² ,08 Dec 2023
+"1,750,000","204 Monaro Crescent,",RED HILL ACT 2603,House,3,2,2,"1,083m² ",08 Dec 2023
+"755,000 ","22 Heagney Crescent,",CHISHOLM ACT 2905,House,3,1,2,877m² ,7 Dec 2023
+"977,000","25 Kingsbury Street,",GOWRIE ACT 2904,House,4,3,4,699m² ,2023
+"480,000 ","14/3 Burke Crescent,",GRIFFITH ACT 2603,House,1,1,1,"2,406m² ",07 Dec 2023
+"1,250,000 ","52 Groom Street,",HUGHES ACT 2605,House,4,2,1,894m² ,2023
+"720,000 ","93 Limb Circuit,",MONCRIEFF ACT 2914,House,3,2,2,180m² ,07 Dec 2023
+"815,000 ","36 Grimshaw Street,",RICHARDSON ACT 2905,House,3,2,2,869m² ,7 Dec 2023
+"1,175,000 ","95 Everist Street,",TAYLOR ACT 2913,House,4,3,2,587m² ,07 Dec 2023
+"711,000 ","57 Irinyili Street,",BONNER ACT 2914,House,2,1,2,390m² ,06 Dec 2023
+"825,000 ","31 Must Circuit,",CALWELL ACT 2905,House,4,2,2,964m² ,06 Dec 2023
+"995,000","18 Mules Place,",MACARTHUR ACT 2904,House,4,2,2,851m² ,6 Dec 2023
+"1,275,000","103 Slim Dusty Circuit,",MONCRIEFF ACT 2914,House,4,2,2,669m² ,06 Dec 2023
+"455,000 ","27 Cobber Close,",MONCRIEFF ACT 2914,Semi-detached,3,2,2,300m² ,06 Dec 2023
+"665,000","13 Pemulwuy Street,",NGUNNAWAL ACT 2913,House,3,1,1,338m² ,6 Dec 2023
+"4,460,000","21 Scarborough Street,",RED HILL ACT 2603,House,5,3,3,"1,780m² ",06 Dec 2023
+"660,000 ","28A Fullerton Crescent,",RICHARDSON ACT 2905,House,3,1,2,337m² ,06 Dec 2023
+"900,000","102 Bangalay Crescent,",RIVETT ACT 2611,House,3,1,2,767m² ,2023
+"1,575,000","74B Gouger Street,",TORRENS ACT 2607,House,4,2,2,563m² ,6 Dec 2023
+"1,560,000 ","8 Josie Agius Street,",WHITLAM ACT 2611,House,5,2,2,827m² ,06 Dec 2023
+"1,143,000 ","58 Hampton Circuit,",YARRALUMLA ACT 2600,Duplex,3,1,1,512m² ,2023
+"1,540,000 ","99 Bandjalong Crescent,",ARANDA ACT 2614,House,4,2,2,842m² ,2023
+"1,381,000 ","10a Parker Street,",CURTIN ACT 2605,House,4,2,4,452m² ,05 Dec 2023
+735 ,"18 Alarmon Crescent,",DUNLOP ACT 2615,House,3,2,2,427m² ,05 Dec 2023
+"815,000","4 Thiele Gardens,",FRANKLIN ACT 2913,House,3,1,1,296m² ,05 Dec 2023
+"1,192,000 ","25 Rosanna Street,",GUNGAHLIN ACT 2912,House,4,2,2,558m² ,5 Dec 2023
+"1,040,000","49 Vagabond Crescent,",MCKELLAR ACT 2617,House,4,2,2,710m² ,05 Dec 2023
+"2,850,000 ","3 Syme Crescent,",O'CONNOR ACT 2602,House,5,2,2,960m² ,05 Dec 2023
+"820,000 ","27 Alawa Street,",WARAMANGA ACT 2611,House,3,1,1,713m² ,05 Dec 2023
+"808,000 ","16 Breen Street,",CASEY ACT 2913,House,3,2,2,286m² ,04 Dec 2023
+"850,000","8 Loder Place,",KAMBAH ACT 2902,House,4,2,2,560m² ,2023
+"1,600,000","22 Hattersley Court,",NICHOLLS ACT 2913,House,5,2,2,818m² ,04 Dec 2023
+"1,230,000 ","12 Ariotti Street,",STRATHNAIRN ACT 2615,House,4,3,2,476m² ,04 Dec 2023
+"1,170,000 ","3 Beddome Place,",FLOREY ACT 2615,House,5,3,2,877m² ,2023
+"930,000 ","4 Bundey Street,",HIGGINS ACT 2615,House,4,2,2,708m² ,2023
+"750,000 ","16 Embley Street,",HOLDER ACT 2611,House,3,1,2,678m² ,2023
+"432,000","38 Armstrong Crescent,",HOLT ACT 2615,House,3,1,2,774m² ,2023
+"1,082,000","18 Powlett Street,",KALEEN ACT 2617,House,6,3,10,751m² ,2023
+"1,030,000","8 Sinclair Street,",KAMBAH ACT 2902,House,4,2,4,914m² ,2023
+"622,000","107 Macrossan Crescent,",LATHAM ACT 2615,House,2,1,1,317m² ,02 Dec 2023
+"735,000 ","52 Dagmar Berne Street,",MACGREGOR ACT 2615,House,3,1,1,485m² ,2023
+"1,560,000","3 Hoadley Street,",MAWSON ACT 2607,House,5,3,2,"1,409m² ",2023
+"972,000 ","9 Bellhouse Crescent,",MONCRIEFF ACT 2914,House,4,2,2,460m² ,2023
+"2,280,000","15 Sue Geh Circuit,",NICHOLLS ACT 2913,House,5,3,2,980m² ,2023
+"2,610,000 ","32 Golden Grove,",RED HILL ACT 2603,House,4,2,2,"1,496m² ",2023
+"1,090,000 ","5 Bidia Place,",WARAMANGA ACT 2611,House,4,2,2,943m² ,2023
+"912,500 ","21 Galibal Street,",WARAMANGA ACT 2611,House,3,1,2,828m² ,2023
+"1,270,000 ","21 Piddington Street,",WATSON ACT 2602,House,3,1,1,766m² ,2023
+"910,000 ","7 Wedgwood Close,",CHISHOLM ACT 2905,House,4,2,2,712m² ,01 Dec 2023
+"957,500","25 Templestowe Avenue,",CONDER ACT 2906,House,3,2,2,"1,532m² ",01 Dec 2023
+"1,090,000 ","20 Dookie Street,",FARRER ACT 2607,House,4,2,2,"1,064m² ",01 Dec 2023
+"3,375,000","75 La Perouse Street,",GRIFFITH ACT 2603,House,4,3,2,"1,240m² ",01 Dec 2023
+"1,130,000","11 Foxall Street,",HOLDER ACT 2611,House,4,2,2,140m² ,01 Dec 2023
+"1,430,000 ","40 Lynch Street,",HUGHES ACT 2605,House,5,2,2,843m² ,2023
+"725,000 ","18 Bryan Hudson Street,",MACGREGOR ACT 2615,House,3,1,1,329m² ,01 Dec 2023
+"780,000","2 Greig Place,",MACGREGOR ACT 2615,House,3,1,1,764m² ,1 Dec 2023
+"1,228,000 ","18 MacArthur Avenue,",O'CONNOR ACT 2602,House,3,1,1,917m² ,01 Dec 2023
+"1,200,000","37 Hawker Street,",TORRENS ACT 2607,House,4,2,2,"1,119m² ",1 Dec 2023
+"1,200,000 ","11 Simpson Street,",WATSON ACT 2602,House,3,1,2,766m² ,1 Dec 2023
+"1,013,000 ","24 Brittlebank Circuit,",BANKS ACT 2906,House,4,2,2,703m² ,2023
+"950,000","31 Carruthers Street,",CURTIN ACT 2605,House,3,1,1,692m² ,2023
+"750,000 ","24 Fairydale Street,",HARRISON ACT 2914,House,3,1,1,250m² ,30 Nov 2023
+"1,390,000 ","16 Kulgera Street,",HAWKER ACT 2614,House,5,2,2,824m² ,30 Nov 2023
+"1,305,000 ","31 Diamantina Crescent,",KALEEN ACT 2617,House,5,2,3,929m² ,30 Nov 2023
+"1,488,000","7 Naismith Place,",KAMBAH ACT 2902,House,5,2,2,"1,008m² ",30 Nov 2023
+"780,000","16 Herring Place,",MACGREGOR ACT 2615,House,3,2,1,363m² ,30 Nov 2023
+"750,000 ","68 Burrumarra Avenue,",NGUNNAWAL ACT 2913,Semi-detached,3,2,1,248m² ,30 Nov 2023
+"852,000 ","31 Gudamang Street,",NGUNNAWAL ACT 2913,House,3,2,2,354m² ,30 Nov 2023
+"900,000 ","20 Curtain Place,",WANNIASSA ACT 2903,House,3,2,1,730m² ,30 Nov 2023
+"916,000 ","33 Alawa Street,",WARAMANGA ACT 2611,House,4,2,3,733m² ,30 Nov 2023
+"2,220,000","1 Young Street,",BARTON ACT 2600,House,3,2,2,911m² ,29 Nov 2023
+"875,000 ","17 Irinyili Street,",BONNER ACT 2914,House,4,3,2,342m² ,29 Nov 2023
+"680,000","12 Evelyn Owen Crescent,",DUNLOP ACT 2615,House,3,1,2,475m² ,29 Nov 2023
+"1,050,000","68 Bendigo Street,",FISHER ACT 2611,House,4,2,2,933m² ,2023
+"1,515,000 ","63 Erldunda Circuit,",HAWKER ACT 2614,House,5,3,2,849m² ,29 Nov 2023
+"2,800,000","99 Strickland Crescent,",DEAKIN ACT 2600,House,4,2,1,746m² ,28 Nov 2023
+"920,000 ","73 Hawdon Street,",DICKSON ACT 2602,House,3,1,−,583m² ,8 Nov 2023
+"740,000 ","5 Mcilwraith Close,",HOLT ACT 2615,House,3,1,1,339m² ,28 Nov 2023
+"1,150,000","7 Maygar Street,",HUGHES ACT 2605,House,3,1,1,855m² ,8 Nov 2023
+"705,000 ","13 Patten Street,",NGUNNAWAL ACT 2913,House,3,1,1,364m² ,28 Nov 2023
+"2,850,000","12 Keyar Street,",O'MALLEY ACT 2606,House,5,4,2,"1,201m² ",28 Nov 2023
+"1,020,000 ","18 Dickinson Street,",WATSON ACT 2602,House,3,1,1,748m² ,8 Nov 2023
+"860,000 ","5 Clara Close,",AMAROO ACT 2914,House,3,2,2,448m² ,27 Nov 2023
+"1,335,000","109 Bandjalong Crescent,",ARANDA ACT 2614,House,3,1,1,"1,004m² ",27 Nov 2023
+"1,856,000","56 Skinner Street,",COOK ACT 2614,House,5,3,3,"1,408m² ",27 Nov 2023
+"1,650,000 ","13 Bromham Street,",FORDE ACT 2914,House,4,2,2,696m² ,7 Nov 2023
+"1,275,000","30 Chuculba Crescent,",GIRALANG ACT 2617,House,4,2,4,905m² ,27 Nov 2023
+"1,150,000","2 Stantke Place,",GOWRIE ACT 2904,House,5,2,2,"1,039m² ",27 Nov 2023
+"1,285,000 ","16 Conyers Street,",HUGHES ACT 2605,House,4,2,1,742m² ,27 Nov 2023
+"833,000 ","71 Denny Street,",LATHAM ACT 2615,House,3,1,1,965m² ,27 Nov 2023
+"986,000","5 Quamby Place,",LYONS ACT 2606,House,4,2,2,803m² ,2023
+"780,000","6 Bennie Street,",MACGREGOR ACT 2615,House,3,2,2,737m² ,27 Nov 2023
+"1,370,000 ","10 Hale Place,",PALMERSTON ACT 2913,House,5,2,2,939m² ,2023
+"870,000 ","12 Cassia Place,",RIVETT ACT 2611,House,3,1,−,653m² ,7 Nov 2023
+"780,000","31 Ariotti Street,",STRATHNAIRN ACT 2615,Terrace,3,2,2,168m² ,27 Nov 2023
+"733,000 ","89 Costello Circuit,",CALWELL ACT 2905,House,3,1,1,936m² ,2023
+"1,730,000","24 Gledden Street,",CHIFLEY ACT 2606,House,5,3,2,694m² ,2023
+"1,373,000 ","9 Buttfield Street,",COOMBS ACT 2611,House,4,2,2,517m² ,2023
+"1,410,000 ","55 Baratta Street,",CRACE ACT 2911,House,4,2,2,581m² ,2023
+"1,207,500","50 Bavin Street,",CURTIN ACT 2605,House,4,2,1,722m² ,2023
+"1,231,000 ","7 Barney Street,",DOWNER ACT 2602,House,4,1,−,725m² ,25 Nov 2023
+"1,252,000","14 Phyllis Frost Street,",FORDE ACT 2914,House,4,3,2,528m² ,2023
+"1,250,000 ","4 Munga Place,",GIRALANG ACT 2617,House,4,2,3,"1,056m² ",25 Nov 2023
+"889,000 ","11 McKillop Circuit,",KAMBAH ACT 2902,House,4,2,3,890m² ,2023
+"1,240,000 ","45 McDermott Street,",KAMBAH ACT 2902,House,4,3,2,697m² ,2023
+"742,000","1 Eugenia Street,",RIVETT ACT 2611,House,4,2,1,825m² ,2023
+"1,280,000","50 Flos Greig Street,",WATSON ACT 2602,House,4,2,2,495m² ,2023
+"790,000","62 McInnes Street,",WESTON ACT 2611,House,3,1,2,776m² ,2023
+"1,260,000","148 Majura Avenue,",AINSLIE ACT 2602,House,3,1,3,723m² ,24 Nov 2023
+"740,000","51 Serpentine Street,",DUFFY ACT 2611,House,3,1,−,683m² ,24 Nov 2023
+"1,030,000 ","47 Sharwood Crescent,",EVATT ACT 2617,House,4,2,4,833m² ,24 Nov 2023
+"780,500 ","5 Tovey Place,",FLOREY ACT 2615,House,3,1,2,543m² ,24 Nov 2023
+"870,000 ","2 Nanson Place,",FLOREY ACT 2615,House,3,2,2,519m² ,24 Nov 2023
+"1,060,000","28 Berents Street,",STRATHNAIRN ACT 2615,House,4,2,2,414m² ,24 Nov 2023
+"895,000 ","14 Bourchier Close,",CALWELL ACT 2905,House,5,2,4,970m² ,23 Nov 2023
+"2,785,000 ","22 Godfrey Street,",CAMPBELL ACT 2612,Semi-detached,3,3,2,590m² ,2023
+"805,000 ","1 Mofflin Street,",CHISHOLM ACT 2905,House,4,2,2,931m² ,23 Nov 2023
+"1,040,000 ","23 Benalla Street,",CRACE ACT 2911,House,3,3,2,450m² ,23 Nov 2023
+"960,000","40 Branson Street,",DUNLOP ACT 2615,House,4,2,4,505m² ,3 Nov 2023
+"1,580,000 ","11 Ray Ellis Crescent,",FORDE ACT 2914,House,4,2,2,538m² ,23 Nov 2023
+"1,640,000","3 Lines Street,",HOLDER ACT 2611,House,4,2,3,"1,076m² ",23 Nov 2023
+"765,000 ","18 Armstrong Crescent,",HOLT ACT 2615,House,3,1,2,667m² ,2023
+"980,000","25 Rosella Street,",NICHOLLS ACT 2913,House,3,2,2,571m² ,2023
+"780,000 ","6 Garrard Street,",SPENCE ACT 2615,House,3,1,1,784m² ,23 Nov 2023
+"1,220,000 ","4 Esplin Street,",TAYLOR ACT 2913,New house and land,5,3,2,482m² ,23 Nov 2023
+"1,590,000 ","22 Howard Street,",TORRENS ACT 2607,House,5,2,2,"1,122m² ",23 Nov 2023
+"718,000 ","8 Sachse Place,",WANNIASSA ACT 2903,House,3,1,2,913m² ,2023
+"1,480,000","119 Ulysses Circuit,",WRIGHT ACT 2611,House,4,2,2,583m² ,2023
+"1,129,000 ","76 Hampton Circuit,",YARRALUMLA ACT 2600,House,3,1,1,444m² ,3 Nov 2023
+"965,000","31 Renouf Street,",CASEY ACT 2913,House,4,2,2,465m² ,22 Nov 2023
+"810,000 ","17 Macfarland Crescent,",CHIFLEY ACT 2606,House,3,1,1,783m² ,2023
+"1,340,000 ","6 Becker Place,",DOWNER ACT 2602,House,4,2,2,"1,013m² ",2023
+"875,000 ","10/45 Stopford Crescent,",FADDEN ACT 2904,House,4,2,2,360m² ,22 Nov 2023
+"1,220,000 ","19 Jack Ryan Street,",FORDE ACT 2914,House,4,2,2,473m² ,22 Nov 2023
+"1,210,000","1 Bruce Dittmar Street,",FORDE ACT 2914,House,4,3,2,410m² ,22 Nov 2023
+"875,000 ","3 Avior Place,",GIRALANG ACT 2617,House,3,1,2,799m² ,22 Nov 2023
+"1,100,000","10 Callaway Crescent,",GORDON ACT 2906,House,4,2,2,936m² ,22 Nov 2023
+"1,330,000","21 Goldsbrough Close,",MACARTHUR ACT 2904,House,6,5,2,"1,090m² ",22 Nov 2023
+"1,315,000 ","21 Aurora Close,",MAWSON ACT 2607,House,3,1,2,"1,124m² ",22 Nov 2023
+"750,000 ","52 Barraclough Crescent,",MONASH ACT 2904,House,3,1,1,499m² ,22 Nov 2023
+"1,045,000","21 Cassinia Street,",O'CONNOR ACT 2602,House,2,1,−,679m² ,22 Nov 2023
+"1,220,000 ","6 Esplin Street,",TAYLOR ACT 2913,House,5,3,2,482m² ,22 Nov 2023
+"1,250,000 ","37 Carr Crescent,",WANNIASSA ACT 2903,House,4,3,2,671m² ,2 Nov 2023
+"1,720,000","5B Reynolds Street,",CURTIN ACT 2605,House,4,2,2,373m² ,21 Nov 2023
+"1,310,000","12 Melba Street,",DOWNER ACT 2602,House,4,2,1,698m² ,21 Nov 2023
+"790,000","70 Barnard Circuit,",FLOREY ACT 2615,House,3,2,2,675m² ,21 Nov 2023
+"1,280,000","8 Maurice Place,",GARRAN ACT 2605,House,4,2,2,717m² ,21 Nov 2023
+"1,200,000 ","205 Chuculba Crescent,",GIRALANG ACT 2617,House,4,2,2,"1,002m² ",21 Nov 2023
+"991,000 ","5 Christie Place,",GORDON ACT 2906,House,5,2,2,"1,198m² ",2023
+"2,450,000","96 Jansz Crescent,",GRIFFITH ACT 2603,House,4,2,2,787m² ,21 Nov 2023
+"1,042,000 ","1 Stride Lane,",GUNGAHLIN ACT 2912,House,4,2,2,415m² ,21 Nov 2023
+"875,000 ","275 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,House,4,2,2,396m² ,2023
+"759,500 ","56 Jabanungga Avenue,",NGUNNAWAL ACT 2913,House,3,1,2,426m² ,21 Nov 2023
+"1,013,500 ","60 Tewksbury Circuit,",THEODORE ACT 2905,House,4,2,3,799m² ,1 Nov 2023
+"950,000","6 Jimmy Clements Crescent,",BONNER ACT 2914,House,4,2,2,450m² ,0 Nov 2023
+"1,167,000 ","1 Cartledge Street,",CASEY ACT 2913,House,4,2,2,531m² ,20 Nov 2023
+"1,755,000","3 Bertie Close,",DENMAN PROSPECT ACT 2611,House,4,2,4,600m² ,20 Nov 2023
+"940,000 ","38 Gleadow Street,",EVATT ACT 2617,House,4,2,2,890m² ,2023
+"775,000 ","5 Igera Place,",NGUNNAWAL ACT 2913,House,3,1,2,519m² ,20 Nov 2023
+"1,225,000","29 Robinson Street,",O'CONNOR ACT 2602,House,2,1,−,755m² ,2023
+"1,200,000 ","39 Pilliga Street,",THROSBY ACT 2914,House,4,2,2,440m² ,20 Nov 2023
+"1,160,000 ","8 Mowle Place,",WEETANGERA ACT 2614,House,4,2,2,"1,117m² ",20 Nov 2023
+"1,453,000 ","9 Campbell Street,",AINSLIE ACT 2602,House,4,2,2,996m² ,2023
+"1,000,000 ","109 Norman Fisher Circuit,",BRUCE ACT 2617,House,3,2,2,405m² ,2023
+"1,760,000","71 Jaeger Circuit,",BRUCE ACT 2617,House,5,2,2,987m² ,2023
+"1,049,000 ","6 Bow Place,",FADDEN ACT 2904,House,4,2,3,881m² ,2023
+"715,000","1 Tallon Place,",GORDON ACT 2906,House,3,1,2,561m² ,2023
+"990,000 ","18 Wheatley Street,",GOWRIE ACT 2904,House,3,2,2,763m² ,2023
+"1,370,000 ","94 MacKenzie Street,",HACKETT ACT 2602,House,4,2,3,912m² ,2023
+"1,430,000 ","19 Sherlock Street,",KALEEN ACT 2617,House,7,3,2,"1,374m² ",2023

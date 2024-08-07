@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"1,010,000 ","128 Gheringhap Street,",GEELONG VIC 3220,House,4,2,2,303m² ,2024
+"1,170,000 ","14 Brownbill Street,",GEELONG VIC 3220,House,4,2,2,465m² ,20 Mar 2024
+"935,000","118 Maud Street,",GEELONG VIC 3220,House,2,1,1,420m² ,2024
+"800,000","173 Mckillop Street,",GEELONG VIC 3220,House,3,3,1,406m² ,2024
+"1,480,000 ","78 Maud Street,",GEELONG VIC 3220,House,4,2,2,514m² ,16 Feb 2024
+"1,050,000 ","14 SYDNEY AVENUE,",GEELONG VIC 3220,House,3,2,2,492m² ,01 Feb 2024
+"642,000 ","90 Garden Street,",GEELONG VIC 3220,House,2,1,−,151m² ,14 Jan 2024
+"1,000,000","132 Garden Street,",GEELONG VIC 3220,House,3,2,2,405m² ,23 Dec 2023
+"682,500","116 Mckillop Street,",GEELONG VIC 3220,House,4,2,2,473m² ,2023
+"200,000","50 Fitzroy Street,",GEELONG VIC 3220,House,4,1,4,348m² ,2023
+"1,430,000 ","12 Ryrie Street,",GEELONG VIC 3220,House,4,3,3,549m² ,04 Dec 2023
+"757,000 ","59 Carr Street,",GEELONG VIC 3220,House,3,1,1,425m² ,04 Dec 2023
+"1,120,000","104-106 Kilgour Street,",GEELONG VIC 3220,House,3,2,1,224m² ,2023
+"2,225,000","59 Maud Street,",GEELONG VIC 3220,House,5,2,2,724m² ,2023
+"855,000 ","234 Myers Street,",GEELONG VIC 3220,House,3,2,1,354m² ,17 Nov 2023
+"982,500 ","86 Fitzroy Street,",GEELONG VIC 3220,House,3,2,2,419m² ,2023
+"1,300,000 ","113 McKillop Street,",GEELONG VIC 3220,House,3,3,3,452m² ,22 Oct 2023
+"977,500 ","11 Bourke Crescent,",GEELONG VIC 3220,House,4,1,2,665m² ,2023
+"790,000 ","124 Garden Street,",GEELONG VIC 3220,House,3,1,2,482m² ,11 Oct 2023
+"625,000","130 Verner Street,",GEELONG VIC 3220,House,3,1,3,336m² ,28 Sep 2023
+"740,000 ","128 Fitzroy Street,",GEELONG VIC 3220,House,3,1,2,606m² ,25 Sep 2023
+"1,110,000 ","54 Swanston Street,",GEELONG VIC 3220,House,4,1,3,356m² ,22 Sep 2023
+"1,265,000","46 Garden Street,",GEELONG VIC 3220,House,4,2,3,603m² ,0 Sep 2023
+"1,648,000 ","15 Stradling Avenue,",GEELONG VIC 3220,House,4,2,2,637m² ,2023
+"980,000 ","125 Mckillop Street,",GEELONG VIC 3220,House,3,1,2,509m² ,13 Sep 2023
+"1,550,000 ","73 Fitzroy Street,",GEELONG VIC 3220,House,4,3,2,465m² ,2023
+"1,100,000 ","174 Yarra Street,",GEELONG VIC 3220,House,3,2,2,651m² ,17 Aug 2023
+"3,150,000","7 Vincent Avenue,",GEELONG VIC 3220,House,4,2,2,562m² ,12 Jul 2023
+"715,000","43A Kilgour Street,",GEELONG VIC 3220,House,3,2,1,155m² ,21 Jun 2023
+"947,000 ","146 Garden Street,",GEELONG VIC 3220,House,3,2,1,335m² ,20 Jun 2023
+"680,000 ","149 Gheringhap Street,",GEELONG VIC 3220,House,3,1,1,429m² ,2023
+"951,000 ","123 Verner Street,",GEELONG VIC 3220,House,3,1,1,610m² ,2023
+"1,650,000","13 England Street,",GEELONG VIC 3220,House,3,2,1,120m² ,05 May 2023
+"705,000","5 Forrest Street,",GEELONG VIC 3220,House,3,1,2,554m² ,18 Apr 2023
+"797,000","6 McKillop Street,",GEELONG VIC 3220,House,4,1,2,374m² ,27 Mar 2023
+"1,300,000 ","24 Park Street,",GEELONG VIC 3220,House,4,1,−,766m² ,2023
+"930,000 ","143 Verner Street,",GEELONG VIC 3220,House,3,2,2,588m² ,2023
+"1,427,500 ","87-89 Kilgour Street,",GEELONG VIC 3220,House,3,3,3,917m² ,06 Mar 2023
+"700,000 ","199 Yarra Street,",GEELONG VIC 3220,House,2,1,1,210m² ,04 Mar 2023
+"880,000 ","36 Richmond Crescent,",GEELONG VIC 3220,House,3,2,1,428m² ,17 Feb 2023
+"830,000","6 Davison Place,",GEELONG VIC 3220,House,2,1,1,165m² ,05 Feb 2023
+"870,000 ","107 Maud Street,",GEELONG VIC 3220,House,5,2,2,447m² ,2023
+"1,185,000 ","21 Swanston Street,",GEELONG VIC 3220,House,3,2,2,205m² ,2023
+"700,000 ","135 Gheringhap Street,",GEELONG VIC 3220,House,3,2,2,277m² ,30 Jan 2023
+"1,050,000 ","19 The Esplanade South,",GEELONG VIC 3220,House,3,2,1,295m² ,2023
+"950,000","232 Myers Street,",GEELONG VIC 3220,House,3,1,1,354m² ,28 Nov 2022
+"885,000 ","138 Mckillop Street,",GEELONG VIC 3220,House,3,1,1,529m² ,2022
+"1,185,000 ","6 Stringers Lane,",GEELONG VIC 3220,House,4,3,2,245m² ,2022
+"1,056,000","40 Kilgour Street,",GEELONG VIC 3220,House,3,2,1,263m² ,18 Nov 2022
+"1,150,000 ","58 Mundy Street,",GEELONG VIC 3220,House,4,1,4,939m² ,18 Nov 2022
+"735,000","360 Ryrie Street,",GEELONG VIC 3220,House,3,1,2,186m² ,12 Nov 2022
+"2,810,000 ","3 Fitzroy Street,",GEELONG VIC 3220,House,4,3,2,486m² ,2022
+"775,000 ","11 Carr Street,",GEELONG VIC 3220,House,3,1,2,320m² ,04 Nov 2022
+"1,140,000 ","147 Swanston Street,",GEELONG VIC 3220,House,3,2,2,333m² ,2022
+"1,020,000 ","22 Henry Street,",GEELONG VIC 3220,House,3,1,2,422m² ,18 Oct 2022
+"855,000 ","23 Mundy Street,",GEELONG VIC 3220,House,2,2,2,275m² ,17 Oct 2022
+"1,580,000","135 Verner Street,",GEELONG VIC 3220,House,4,2,2,547m² ,2022
+"510,000 ","3/21 Lonsdale Street,",GEELONG VIC 3220,House,2,1,1,158m² ,2022
+"900,000","38 Fitzroy Street,",GEELONG VIC 3220,House,3,1,2,370m² ,2022
+"2,400,000","156 Kilgour Street,",GEELONG VIC 3220,House,4,4,2,721m² ,2022
+"760,000 ","5 Maud Street,",GEELONG VIC 3220,House,2,1,2,423m² ,29 Sep 2022
+"1,425,000 ","11 England Street,",GEELONG VIC 3220,House,3,2,1,125m² ,2022
+"5,225,000 ","5 The Esplanade,",GEELONG VIC 3220,House,4,2,2,892m² ,2022
+"565,000 ","67 Carr Street,",GEELONG VIC 3220,House,3,1,1,346m² ,24 Aug 2022
+"590,000 ","24 Richmond Crescent,",GEELONG VIC 3220,House,2,1,3,305m² ,29 Jul 2022
+"730,000 ","84 Garden Street,",GEELONG VIC 3220,House,2,1,1,173m² ,2022
+"752,500","245 Bellerine Street,",GEELONG VIC 3220,House,3,1,2,190m² ,20 Jul 2022
+"900,000 ","29 Maud Street,",GEELONG VIC 3220,House,3,2,2,195m² ,09 Jul 2022
+"1,360,000 ","9 Park Street,",GEELONG VIC 3220,House,4,2,2,682m² ,29 Jun 2022
+"1,100,000 ","4-6 McCann Place,",GEELONG VIC 3220,House,4,2,1,252m² ,2022
+"745,000 ","207 Bellerine Street,",GEELONG VIC 3220,House,3,2,−,207m² ,2022
+"870,000 ","12 Henry Street,",GEELONG VIC 3220,House,3,1,1,421m² ,2022
+"565,000 ","12 York Street,",GEELONG VIC 3220,House,2,1,1,190m² ,19 May 2022
+"680,000 ","140 McKillop Street,",GEELONG VIC 3220,House,2,1,1,311m² ,16 May 2022
+"697,000","362 Ryrie Street,",GEELONG VIC 3220,House,2,1,1,176m² ,2022
+"1,410,000","44 Bourke Crescent,",GEELONG VIC 3220,House,4,2,3,438m² ,19 Apr 2022
+"1,260,000 ","163 Kilgour Street,",GEELONG VIC 3220,House,4,1,1,468m² ,01 Apr 2022
+"950,000 ","69 Kilgour Street,",GEELONG VIC 3220,House,3,1,2,459m² ,25 Mar 2022
+"860,000 ","56 Garden Street,",GEELONG VIC 3220,House,2,1,2,444m² ,2022
+"1,725,000","35 Alexandra Avenue,",GEELONG VIC 3220,House,3,2,2,368m² ,17 Mar 2022
+"836,000","111 Yarra Street,",GEELONG VIC 3220,House,3,1,2,199m² ,11 Mar 2022
+"567,000 ","15 Kilgour Street,",GEELONG VIC 3220,House,2,1,2,239m² ,08 Mar 2022
+"850,000 ","1 Maud Street,",GEELONG VIC 3220,House,4,1,2,418m² ,08 Mar 2022
+"697,000 ","4 Sutherland Street,",GEELONG VIC 3220,House,2,1,−,142m² ,2022
+"1,243,000 ","7 Bourke Crescent,",GEELONG VIC 3220,House,4,2,3,552m² ,2022
+"720,000 ","152 Verner Street,",GEELONG VIC 3220,House,3,1,4,468m² ,21 Feb 2022
+"862,000 ","32 Mundy Street,",GEELONG VIC 3220,House,3,1,−,418m² ,2022
+"945,000","112 McKillop Street,",GEELONG VIC 3220,House,4,2,1,464m² ,31 Jan 2022
+"390,000 ","13/10 Fitzroy Street,",GEELONG VIC 3220,House,1,1,1,"1,312m² ",17 Jan 2022
+"2,000,000","1 Little Ryrie Street,",GEELONG VIC 3220,House,5,3,2,"1,012m² ",7 Dec 2021
+"855,000 ","18 Bourke Crescent,",GEELONG VIC 3220,House,3,2,2,349m² ,13 Dec 2021
+"1,330,000 ","1-3 /8 Swanston Street,",GEELONG VIC 3220,House,4,3,−,310m² ,2021
+"1,650,000 ","41-43 Bellerine Street,",GEELONG VIC 3220,House,3,2,1,586m² ,11 Nov 2021
+"950,000 ","53 Bellerine Street,",GEELONG VIC 3220,House,5,2,−,405m² ,2021
+"1,535,000 ","71 Fitzroy Street,",GEELONG VIC 3220,House,4,2,2,538m² ,7 Oct 2021
+"1,550,000","9 Sydney Avenue,",GEELONG VIC 3220,House,3,2,2,384m² ,22 Oct 2021
+"2,596,000","77-79 Swanston Street,",GEELONG VIC 3220,House,3,2,−,921m² ,2021
+"1,290,000 ","11 Richmond Street,",GEELONG VIC 3220,House,3,3,1,512m² ,2021
+"550,000 ","2/215 Little Malop Street,",GEELONG VIC 3220,House,2,1,2,101m² ,18 Aug 2021
+"1,014,500 ","196 Garden Street,",GEELONG VIC 3220,House,3,2,2,554m² ,2021
+"890,000","125 Fitzroy Street,",GEELONG VIC 3220,House,4,2,1,363m² ,09 Jul 2021
+"1,280,000 ","115-117 Kilgour Street,",GEELONG VIC 3220,House,4,2,2,564m² ,2021
+"1,710,000 ","3 Pevensey Crescent,",GEELONG VIC 3220,House,3,2,3,346m² ,2021
+"607,500 ","161 Kilgour Street,",GEELONG VIC 3220,House,2,1,2,264m² ,2021
+"950,000 ","39 Fenwick Street,",GEELONG VIC 3220,House,3,1,1,836m² ,25 Jun 2021
+"730,000 ","194C Garden Street,",GEELONG VIC 3220,House,3,1,2,239m² ,11 Jun 2021
+"780,000 ","139 Verner Street,",GEELONG VIC 3220,House,2,1,1,519m² ,2021
+"851,000 ","4/250 Malop Street,",GEELONG VIC 3220,House,2,1,2,201m² ,2021
+"825,000 ","8 Stringers Lane,",GEELONG VIC 3220,House,3,2,2,248m² ,14 May 2021
+"1,400,000 ","169 McKillop Street,",GEELONG VIC 3220,House,4,1,2,"1,013m² ",2021
+"1,425,000 ","135 Verner Street,",GEELONG VIC 3220,House,4,2,2,547m² ,2021
+"900,000 ","65 Carr Street,",GEELONG VIC 3220,House,4,2,2,596m² ,2021
+"1,300,000","11 Sydney Avenue,",GEELONG VIC 3220,House,4,2,2,346m² ,6 Apr 2021
+"695,000 ","166 Bellerine Street,",GEELONG VIC 3220,House,4,1,2,393m² ,2021
+"1,250,000 ","9 Park Street,",GEELONG VIC 3220,House,4,2,−,682m² ,2021
+"720,000 ","7 Kilgour Court,",GEELONG VIC 3220,House,2,2,4,540m² ,31 Mar 2021
+"660,000 ","58 Sydney Parade,",GEELONG VIC 3220,House,3,1,2,228m² ,24 Mar 2021
+"825,000 ","323 Moorabool Street,",GEELONG VIC 3220,House,3,1,2,430m² ,2021
+"545,000 ","50 Mundy Street,",GEELONG VIC 3220,House,2,1,−,213m² ,2021
+"905,000 ","189 Kilgour Street,",GEELONG VIC 3220,House,3,1,2,485m² ,2021
+"778,000 ","109 Swanston Street,",GEELONG VIC 3220,House,3,1,1,246m² ,2021
+"701,000 ","151 Swanston Street,",GEELONG VIC 3220,House,2,1,1,301m² ,2021
+"720,000 ","4 Suttons Lane,",GEELONG VIC 3220,House,3,2,2,272m² ,15 Feb 2021
+"1,050,000 ","121 McKillop Street,",GEELONG VIC 3220,House,4,1,−,"1,011m² ",12 Feb 2021
+"3,125,000","350 Ryrie Street,",GEELONG VIC 3220,House,6,3,2,"1,662m² ",30 Jan 2021
+"1,190,000","9 Henry Street,",GEELONG VIC 3220,House,4,4,2,470m² ,18 Jan 2021
+"770,000 ","2 Brownbill Street,",GEELONG VIC 3220,House,3,1,2,372m² ,17 Jan 2021
+"787,500 ","144 Verner Street,",GEELONG VIC 3220,House,3,1,1,474m² ,2020
+"911,500 ","6 BEAN STREET,",GEELONG VIC 3220,House,3,2,1,282m² ,2020
+"4,700,000","27 The Esplanade,",GEELONG VIC 3220,House,5,3,3,"1,571m² ",05 Nov 2020
+"825,000 ","5/250 Malop Street,",GEELONG VIC 3220,House,3,1,2,307m² ,7 Oct 2020
+"1,680,000","153 Bellerine Street,",GEELONG VIC 3220,House,5,2,2,971m² ,06 Oct 2020
+"735,000 ","67 Swanston Street,",GEELONG VIC 3220,House,3,2,1,282m² ,08 Sep 2020
+"540,000 ","71 Carr Street,",GEELONG VIC 3220,House,3,1,1,421m² ,02 Sep 2020
+"625,000 ","193 Yarra Street,",GEELONG VIC 3220,House,2,1,−,317m² ,01 Sep 2020
+"2,375,000 ","9 The Esplanade,",GEELONG VIC 3220,House,4,2,2,892m² ,2020
+"1,240,000 ","158 Garden Street,",GEELONG VIC 3220,House,4,2,6,708m² ,14 Aug 2020
+"720,000 ","2/52 Mundy Street,",GEELONG VIC 3220,House,5,2,4,410m² ,11 Aug 2020
+"785,000 ","146 Garden Street,",GEELONG VIC 3220,House,3,2,1,335m² ,10 Aug 2020
+"885,000 ","158 Kilgour Street,",GEELONG VIC 3220,House,3,2,1,561m² ,2020
+"882,000","32 Maud Street,",GEELONG VIC 3220,House,3,2,4,609m² ,23 Jul 2020
+"1,640,000","77 Maud Street,",GEELONG VIC 3220,House,5,3,4,804m² ,22 Jul 2020
+"725,000 ","91 Swanston Street,",GEELONG VIC 3220,House,4,1,1,380m² ,2020
+"595,000 ","2-4 Maud Street,",GEELONG VIC 3220,House,2,1,−,292m² ,26 Jun 2020
+"750,000","49 Kilgour Street,",GEELONG VIC 3220,House,4,2,2,309m² ,19 Jun 2020
+"905,000","163 Kilgour Street,",GEELONG VIC 3220,House,4,1,2,468m² ,09 Jun 2020
+"1,150,000","108 Swanston Street,",GEELONG VIC 3220,House,4,2,4,622m² ,19 May 2020
+"1,050,000 ","71 Fitzroy Street,",GEELONG VIC 3220,House,4,2,2,538m² ,2020
+"1,510,000","24 Western Beach Road,",GEELONG VIC 3220,House,3,1,2,484m² ,2020
+"1,235,500 ","13 Vincent Avenue,",GEELONG VIC 3220,House,3,2,2,633m² ,2020
+"1,017,000 ","12 Richmond Crescent,",GEELONG VIC 3220,House,4,2,2,470m² ,2020
+"905,000","357 Ryrie Street,",GEELONG VIC 3220,House,2,1,2,600m² ,28 Feb 2020
+"615,000 ","56 Sydney Parade,",GEELONG VIC 3220,House,2,1,1,229m² ,2020
+"795,000","4 SMYTHE PLACE,",GEELONG VIC 3220,House,3,2,2,127m² ,19 Feb 2020
+"620,000 ","4 Brownbill Street,",GEELONG VIC 3220,House,3,1,1,372m² ,2020
+"915,000 ","10 Carmans Lane,",GEELONG VIC 3220,House,5,2,2,751m² ,15 Jan 2020
+"1,582,500","49 Fitzroy Street,",GEELONG VIC 3220,House,4,2,2,407m² ,2019
+"640,000 ","80 Keera Street,",GEELONG VIC 3220,House,3,2,−,696m² ,2019
+"740,000 ","81 McKillop Street,",GEELONG VIC 3220,House,2,1,2,488m² ,2019
+"658,000 ","2 Richmond Street,",GEELONG VIC 3220,House,3,1,1,539m² ,2019
+"1,050,000 ","8 Vincent Avenue,",GEELONG VIC 3220,House,3,2,2,552m² ,2019
+"850,000 ","170 Yarra Street,",GEELONG VIC 3220,House,4,3,3,658m² ,18 Jul 2019
+"905,000 ","168 Yarra Street,",GEELONG VIC 3220,House,5,2,2,665m² ,06 Jul 2019
+"700,000 ","14 McKillop Street,",GEELONG VIC 3220,House,3,1,4,593m² ,2019
+"722,500 ","46 Bourke Crescent,",GEELONG VIC 3220,House,3,2,−,455m² ,2019
+"1,050,000","50 Swanston Street,",GEELONG VIC 3220,House,3,1,2,377m² ,01 Jun 2019
+"765,000","50 Fitzroy Street,",GEELONG VIC 3220,House,4,1,2,392m² ,31 May 2019
+"900,000","70 McKillop Street,",GEELONG VIC 3220,House,5,2,4,724m² ,18 Apr 2019
+"1,555,000","59 Maud Street,",GEELONG VIC 3220,House,5,2,2,724m² ,05 Apr 2019
+"840,000 ","4 Richmond Crescent,",GEELONG VIC 3220,House,4,2,3,642m² ,2019
+"837,000 ","370 Ryrie Street,",GEELONG VIC 3220,House,3,1,2,506m² ,17 Jan 2019
+"586,000 ","16 Henry Street,",GEELONG VIC 3220,House,2,1,−,421m² ,2018
+"722,500 ","6 Richmond Street,",GEELONG VIC 3220,House,3,2,2,523m² ,2018
+"888,000","103 Swanston Street,",GEELONG VIC 3220,House,3,2,1,456m² ,2018
+"1,890,000","19 Pevensey Crescent,",GEELONG VIC 3220,House,4,2,2,"1,124m² ",2018
+"1,520,000 ","85 Maud Street,",GEELONG VIC 3220,House,5,2,4,910m² ,20 Nov 2018
+"780,000 ","125 McKillop Street,",GEELONG VIC 3220,House,3,1,2,512m² ,2018
+"670,000 ","109 Maud Street,",GEELONG VIC 3220,House,3,1,3,411m² ,19 Oct 2018
+"635,000 ","77 Little Myers Street,",GEELONG VIC 3220,House,3,1,1,161m² ,2018
+"990,000","135 Verner Street,",GEELONG VIC 3220,House,4,2,2,547m² ,2018
+"815,000 ","364 Ryrie Street,",GEELONG VIC 3220,House,3,1,2,380m² ,05 Oct 2018
+"1,475,000","1 Pevensey Crescent,",GEELONG VIC 3220,House,3,2,1,455m² ,2018
+"660,000","100 Swanston Street,",GEELONG VIC 3220,House,3,1,2,325m² ,17 Sep 2018
+"1,120,000 ","24 Park Street,",GEELONG VIC 3220,House,4,1,−,767m² ,2018
+"1,130,000","1 Stringers Lane,",GEELONG VIC 3220,House,3,2,2,420m² ,08 Aug 2018
+"780,000 ","46 Bourke Crescent,",GEELONG VIC 3220,House,3,2,−,455m² ,2018
+"665,000 ","16 Brownbill Street,",GEELONG VIC 3220,House,3,1,1,465m² ,2018
+"494,500 ","71 Carr Street,",GEELONG VIC 3220,House,3,1,1,421m² ,2018
+"800,000","13 Bourke Crescent,",GEELONG VIC 3220,House,3,1,2,605m² ,2018
+"940,000 ","62 Swanston Street,",GEELONG VIC 3220,House,3,1,1,461m² ,2018
+"1,420,000 ","161 Verner Street,",GEELONG VIC 3220,House,5,4,2,858m² ,19 Mar 2018
+"1,260,000","6 Ryrie Street,",GEELONG VIC 3220,House,4,3,3,550m² ,23 Feb 2018
+"469,000 ","89 Carr Street,",GEELONG VIC 3220,House,2,1,−,520m² ,19 Dec 2017
+"700,000 ","125 Verner Street,",GEELONG VIC 3220,House,2,1,4,612m² ,18 Dec 2017
+"1,350,000 ","1 England Street,",GEELONG VIC 3220,House,2,2,1,138m² ,2017
+"965,000 ","120 Garden Street,",GEELONG VIC 3220,House,3,2,2,651m² ,2017
+"800,000 ","117 Maud Street,",GEELONG VIC 3220,House,3,1,2,730m² ,2017
+"556,000 ","36 Richmond Crescent,",GEELONG VIC 3220,House,3,2,2,428m² ,3 Sep 2017
+"696,000 ","29 Mundy Street,",GEELONG VIC 3220,House,3,1,1,619m² ,12 Sep 2017
+"990,000","12 Ryrie Street,",GEELONG VIC 3220,House,4,3,2,552m² ,04 Sep 2017
+"830,000 ","3 Stradling Avenue,",GEELONG VIC 3220,House,3,2,1,612m² ,2017
+"450,000 ","115 Swanston Street,",GEELONG VIC 3220,House,2,1,1,271m² ,06 Aug 2017
+"1,150,000 ","61 Sydney Parade,",GEELONG VIC 3220,House,4,3,2,511m² ,15 Jul 2017
+"1,065,000","36 Alexandra Avenue,",GEELONG VIC 3220,House,3,2,1,391m² ,07 Jun 2017
+"920,000","140 Little Ryrie Street,",GEELONG VIC 3220,House,4,2,2,465m² ,19 May 2017
+"679,000 ","114 Verner Street,",GEELONG VIC 3220,House,3,2,1,239m² ,01 May 2017
+"870,000","226 Moorabool Street,",GEELONG VIC 3220,House,5,2,3,234m² ,22 Apr 2017
+"922,500","74 Sydney Parade,",GEELONG VIC 3220,House,3,2,2,350m² ,15 Apr 2017
+"470,000","57 Carr Street,",GEELONG VIC 3220,House,3,2,1,246m² ,30 Mar 2017
+"915,000 ","19 Grandview Grove,",GEELONG VIC 3220,House,4,2,2,613m² ,25 Mar 2017
+"575,000 ","68 Fitzroy Street,",GEELONG VIC 3220,House,3,1,2,580m² ,21 Mar 2017
+"590,000","72 Keera Street,",GEELONG VIC 3220,House,3,2,2,554m² ,2017
+"672,000 ","12 Bourke Crescent,",GEELONG VIC 3220,House,3,1,1,261m² ,2017
+"1,420,000 ","2/22 Garden Street,",GEELONG VIC 3220,House,3,3,2,293m² ,2017
+"1,385,000","28 Fitzroy Street,",GEELONG VIC 3220,House,4,2,2,855m² ,2017
+"790,000 ","113 McKillop Street,",GEELONG VIC 3220,House,3,2,3,452m² ,2017
+"1,550,000 ","2 Garden Street,",GEELONG VIC 3220,House,4,2,1,519m² ,2016
+"820,000","128 Little Ryrie Street,",GEELONG VIC 3220,House,3,1,4,474m² ,10 Dec 2016
+"970,000 ","76 Fitzroy Street,",GEELONG VIC 3220,House,5,4,4,550m² ,2016
+"720,000","142 Maud Street,",GEELONG VIC 3220,House,3,1,2,688m² ,2016
+"1,200,000","63 Maud Street,",GEELONG VIC 3220,House,4,3,2,726m² ,24 Nov 2016
+"522,500 ","12 McKillop Street,",GEELONG VIC 3220,House,3,1,2,417m² ,2016
+"525,000","91 Little Myers Street,",GEELONG VIC 3220,House,2,1,2,230m² ,29 Sep 2016
+"1,300,000","5 Alexandra Avenue,",GEELONG VIC 3220,House,3,2,2,709m² ,17 Sep 2016
+"770,000","164 Corio Street,",GEELONG VIC 3220,House,4,2,1,302m² ,09 Sep 2016
+"560,000 ","10 York Street,",GEELONG VIC 3220,House,2,1,2,359m² ,2016
+"755,000","4 Grandview Grove,",GEELONG VIC 3220,House,4,2,−,638m² ,14 Jun 2016
+"575,000","125 Fitzroy Street,",GEELONG VIC 3220,House,4,2,1,363m² ,2016
+"546,000 ","232 Bellerine Street,",GEELONG VIC 3220,House,3,1,1,464m² ,2016
+"675,000 ","9 Sydney Avenue,",GEELONG VIC 3220,House,3,1,−,383m² ,2016
+"440,000","108A Garden Street,",GEELONG VIC 3220,House,3,1,−,466m² ,2016
+"730,000 ","170 Yarra Street,",GEELONG VIC 3220,House,4,3,5,658m² ,19 Feb 2016
+"1,400,000","3 Fitzroy Street,",GEELONG VIC 3220,House,3,2,2,486m² ,12 Feb 2016
+"780,000","40 Fenwick Street,",GEELONG VIC 3220,House,5,4,3,906m² ,26 Jan 2016
+"507,000 ","333 Ryrie Street,",GEELONG VIC 3220,House,3,1,2,458m² ,24 Dec 2015
+"417,000","153 McKillop Street,",GEELONG VIC 3220,House,3,1,2,399m² ,2015
+"678,000","28 Henry Street,",GEELONG VIC 3220,House,3,1,2,461m² ,2015
+"550,000","137 Kilgour Street,",GEELONG VIC 3220,House,4,2,−,424m² ,2015
+"661,000","28 Bourke Crescent,",GEELONG VIC 3220,House,3,1,2,518m² ,2015
+"417,500 ","59 Carr Street,",GEELONG VIC 3220,House,3,1,2,428m² ,2015
+"590,000","12 Brownbill Street,",GEELONG VIC 3220,House,3,1,2,465m² ,2015
+"401,000 ","134 Verner Street,",GEELONG VIC 3220,House,2,1,−,336m² ,2015
+"537,000 ","37 Kilgour Street,",GEELONG VIC 3220,House,3,2,2,350m² ,18 Sep 2015
+"785,000 ","270 Malop Street,",GEELONG VIC 3220,House,3,2,2,242m² ,18 Aug 2015
+"593,000 ","7 Vincent Avenue,",GEELONG VIC 3220,House,3,1,2,563m² ,2015
+"485,000 ","3 Wheeler Place,",GEELONG VIC 3220,House,3,1,1,221m² ,09 Jun 2015
+"880,000","273 Malop Street,",GEELONG VIC 3220,House,4,3,3,"1,039m² ",2015
+"670,000 ","134 Little Ryrie Street,",GEELONG VIC 3220,House,5,2,1,557m² ,2015
+"580,000 ","334 Ryrie Street,",GEELONG VIC 3220,House,3,2,2,348m² ,19 May 2015
+"635,000 ","4 Richmond Court,",GEELONG VIC 3220,House,3,1,4,892m² ,14 May 2015
+"510,000 ","80 Fitzroy Street,",GEELONG VIC 3220,House,4,1,2,468m² ,2015
+"370,000 ","132 Gheringhap Street,",GEELONG VIC 3220,House,2,1,−,158m² ,02 Apr 2015
+"625,000 ","30 Alexandra Avenue,",GEELONG VIC 3220,House,3,1,1,180m² ,31 Mar 2015
+"455,000","56 Bourke Crescent,",GEELONG VIC 3220,House,3,2,1,307m² ,28 Mar 2015
+"808,000 ","9 Alexandra Avenue,",GEELONG VIC 3220,House,3,1,1,414m² ,2015
+"681,500","142 Swanston Street,",GEELONG VIC 3220,House,4,2,2,446m² ,26 Feb 2015
+"940,000","36 Alexandra Avenue,",GEELONG VIC 3220,House,3,2,1,391m² ,2015
+"3,400,000","36 Eastern Beach Road,",GEELONG VIC 3220,House,5,5,2,831m² ,02 Feb 2015
+"512,000 ","10 Brownbill Street,",GEELONG VIC 3220,House,4,1,2,465m² ,2014
+"332,000","130 Fitzroy Street,",GEELONG VIC 3220,House,2,1,1,419m² ,2014
+"372,000 ","1/83 Mckillop Street,",GEELONG VIC 3220,House,3,1,1,217m² ,2014
+"267,000 ","104-106 Kilgour Street,",GEELONG VIC 3220,House,1,1,−,214m² ,2014
+"423,000 ","150 Verner Street,",GEELONG VIC 3220,House,3,2,4,423m² ,19 Aug 2014
+"680,000 ","20 Garden Street,",GEELONG VIC 3220,House,3,2,2,439m² ,2014
+"693,500 ","5 Grandview Grove,",GEELONG VIC 3220,House,3,1,−,625m² ,30 Apr 2014
+"375,000 ","85 Carr Street,",GEELONG VIC 3220,House,2,1,1,345m² ,01 Mar 2014
+"575,000 ","82 Fitzroy Street,",GEELONG VIC 3220,House,3,2,2,469m² ,2014
+"625,000","48 Swanston Street,",GEELONG VIC 3220,House,4,2,2,377m² ,13 Nov 2013
+"380,000","168 Verner Street,",GEELONG VIC 3220,House,3,1,2,519m² ,2013
+"500,000","137 Kilgour Street,",GEELONG VIC 3220,House,5,1,−,424m² ,25 May 2013
+"392,000 ","42 Fenwick Street,",GEELONG VIC 3220,House,3,2,1,466m² ,26 Jan 2013
+"420,000 ","212 Garden Street,",GEELONG VIC 3220,House,3,2,2,450m² ,12 Jan 2013
+"350,000","43 Fitzroy St,",GEELONG VIC 3220,House,3,1,−,185m² ,2012
+"355,000","114 McKillop St,",GEELONG VIC 3220,House,4,1,1,481m² ,2012
+"295,000","4 Bambra Street,",GEELONG VIC 3220,House,2,1,−,200m² ,2012
+"720,000 ","186 Yarra Street,",GEELONG VIC 3220,House,4,2,2,480m² ,04 May 2012
+"785,000 ","126 Gheringhap Street,",GEELONG VIC 3220,House,6,2,4,710m² ,10 Oct 2011
+"220,000","170 Kilgour Street,",GEELONG VIC 3220,House,2,1,1,296m² ,2011
+"1,005,000 ","1 Little Ryrie Street,",GEELONG VIC 3220,House,7,3,3,"1,100m² ",29 Sep 2011
+"690,000","17 Sydney Avenue,",GEELONG VIC 3220,House,3,2,1,418m² ,15 Jul 2011
+"449,000","15 Richmond Crescent,",GEELONG VIC 3220,House,3,1,1,246m² ,06 May 2011
+"1,150,000 ","37 The Esplanade,",GEELONG VIC 3220,House,3,1,1,502m² ,28 Jun 2010
+"810,000 ","5 Abele Street,",BELL PARK VIC 3215,House,4,2,4,718m² ,23 Apr 2024
+"650,000 ","92 Anakie Road,",BELL PARK VIC 3215,House,3,1,3,697m² ,23 Apr 2024
+"750,000 ","24 Rowe Street,",HAMLYN HEIGHTS VIC 3215,House,3,2,3,637m² ,2 Apr 2024
+"1,455,000 ","4 Normanby Street,",EAST GEELONG VIC 3219,House,4,2,1,870m² ,2024
+"600,000 ","31 Heytesbury Street,",HERNE HILL VIC 3218,House,3,1,2,458m² ,2024
+"900,000 ","30 Foster Street,",SOUTH GEELONG VIC 3220,House,3,2,2,278m² ,18 Apr 2024
+"850,000 ","21 St Albans Road,",EAST GEELONG VIC 3219,House,3,1,2,675m² ,17 Apr 2024
+"910,000 ","79 Clarkes Road,",FYANSFORD VIC 3218,House,4,2,2,623m² ,17 Apr 2024
+"765,000 ","5 Bonview Avenue,",HERNE HILL VIC 3218,House,3,2,2,720m² ,17 Apr 2024
+"490,000 ","49 Olney Avenue,",THOMSON VIC 3219,House,3,1,2,573m² ,17 Apr 2024
+"1,190,000 ","8 Collins Street,",GEELONG WEST VIC 3218,House,3,2,1,595m² ,6 Apr 2024
+"900,000 ","444 Ryrie Street,",EAST GEELONG VIC 3219,House,4,2,2,464m² ,2024
+"790,000 ","3 Beauford Avenue,",BELL POST HILL VIC 3215,House,4,2,3,550m² ,12 Apr 2024
+"860,000 ","342 Myers Street,",EAST GEELONG VIC 3219,House,3,1,1,511m² ,12 Apr 2024
+"912,500 ","5 Balliang Street,",SOUTH GEELONG VIC 3220,House,4,1,2,460m² ,2024
+"770,000 ","2 Tully Street,",EAST GEELONG VIC 3219,House,3,2,1,322m² ,10 Apr 2024
+"737,500 ","14 Tahara Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,4,693m² ,09 Apr 2024
+"961,000 ","2-4 Hastie Avenue,",BELL PARK VIC 3215,House,4,2,5,"1,150m² ",08 Apr 2024
+"1,515,000 ","18 Girton Crescent,",MANIFOLD HEIGHTS VIC 3218,House,5,2,2,776m² ,08 Apr 2024
+"488,500 ","8 Armstrong Court,",WHITTINGTON VIC 3219,House,4,1,2,614m² ,08 Apr 2024
+"1,100,000 ","94 Elizabeth Street,",GEELONG WEST VIC 3218,House,3,2,1,457m² ,06 Apr 2024
+"1,260,000 ","30 Warwick Street,",NEWTOWN VIC 3220,House,4,2,2,530m² ,2024
+"1,411,000 ","13 Balliang Street,",SOUTH GEELONG VIC 3220,House,4,2,3,460m² ,2024
+"1,150,000 ","5 Synnott Street,",HAMLYN HEIGHTS VIC 3215,House,4,3,4,993m² ,05 Apr 2024
+"780,000 ","14 Hillwood Close,",HAMLYN HEIGHTS VIC 3215,House,3,2,4,468m² ,05 Apr 2024
+"1,380,000 ","161 Skene Street,",NEWTOWN VIC 3220,House,4,2,2,558m² ,05 Apr 2024
+"870,000 ","26 Ballater Ave,",NEWTOWN VIC 3220,House,2,1,2,632m² ,05 Apr 2024
+"557,250 ","11A Bromley Street,",THOMSON VIC 3219,House,3,1,1,420m² ,05 Apr 2024
+"550,000 ","47 Newton Avenue,",BELL POST HILL VIC 3215,House,3,1,1,350m² ,04 Apr 2024
+"1,075,000 ","24 Camden Road,",NEWTOWN VIC 3220,House,4,2,1,785m² ,04 Apr 2024
+"619,000 ","16 Stella Court,",BELL PARK VIC 3215,House,3,1,2,350m² ,03 Apr 2024
+"625,000 ","202 Shannon Avenue,",GEELONG WEST VIC 3218,House,2,1,1,322m² ,03 Apr 2024
+"560,000 ","26 Sycamore Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,539m² ,03 Apr 2024
+"472,000 ","14 Birdsey Street,",THOMSON VIC 3219,House,3,1,2,725m² ,03 Apr 2024
+"649,000 ","14 Carramar Drive,",BELL PARK VIC 3215,House,4,2,1,590m² ,02 Apr 2024
+"710,000 ","29 Kedleston Road,",HERNE HILL VIC 3218,House,3,1,1,552m² ,02 Apr 2024
+"500,000 ","110 St Albans Road,",THOMSON VIC 3219,House,2,1,2,593m² ,02 Apr 2024
+"600,000 ","26 Thorburn Street,",BELL PARK VIC 3215,House,3,1,1,604m² ,28 Mar 2024
+"910,000 ","135 Rollins Road,",BELL POST HILL VIC 3215,House,4,2,4,830m² ,28 Mar 2024
+"1,955,000 ","43 Clarke Street,",NEWTOWN VIC 3220,House,4,2,2,703m² ,28 Mar 2024
+"652,500 ","26 Bayview Parade,",HAMLYN HEIGHTS VIC 3215,House,4,1,4,675m² ,27 Mar 2024
+"578,000 ","20 Tyrone Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,561m² ,2024
+"574,000 ","57 Brayshay Road,",NEWCOMB VIC 3219,House,3,1,6,677m² ,2024
+"610,000 ","44 Hennessy Avenue,",HERNE HILL VIC 3218,House,3,1,3,604m² ,22 Mar 2024
+"1,350,000 ","97 Clarence Street,",GEELONG WEST VIC 3218,House,3,2,2,417m² ,21 Mar 2024
+"640,000 ","27 Libau Avenue,",BELL PARK VIC 3215,House,3,1,5,724m² ,20 Mar 2024
+"747,555 ","6 Webber Street,",BELL POST HILL VIC 3215,House,4,2,3,572m² ,20 Mar 2024
+"520,000 ","5 Powell Street,",EAST GEELONG VIC 3219,House,2,1,1,344m² ,20 Mar 2024
+"1,157,000 ","94 Britannia Street,",GEELONG WEST VIC 3218,House,3,2,2,565m² ,20 Mar 2024
+"780,000 ","40 Neil Street,",BELL POST HILL VIC 3215,House,4,2,2,627m² ,19 Mar 2024
+"1,360,000 ","12 Dell Boulevard,",FYANSFORD VIC 3218,House,3,2,2,663m² ,19 Mar 2024
+"710,000 ","7 Malcolm Street,",BELL PARK VIC 3215,House,3,2,−,632m² ,18 Mar 2024
+"695,000 ","15 Pinder Court,",ST ALBANS PARK VIC 3219,House,5,2,4,760m² ,18 Mar 2024
+"750,000 ","191 Verner Street,",EAST GEELONG VIC 3219,House,2,1,1,337m² ,17 Mar 2024
+"1,162,000 ","55 Clarence Street,",GEELONG WEST VIC 3218,House,3,2,1,560m² ,17 Mar 2024
+"518,000 ","30 Yaraan Street,",BELL PARK VIC 3215,House,3,2,2,618m² ,15 Mar 2024
+"3,200,000 ","233 Noble Street,",NEWTOWN VIC 3220,House,5,4,2,938m² ,15 Mar 2024
+"555,000 ","8 Ardula Court,",ST ALBANS PARK VIC 3219,House,3,1,1,588m² ,15 Mar 2024
+"475,000 ","3 Robertson Street,",THOMSON VIC 3219,House,2,1,1,676m² ,15 Mar 2024
+"730,000 ","6 Ingrid Court,",HERNE HILL VIC 3218,House,4,2,2,587m² ,14 Mar 2024
+"590,000","6 Bain Court,",NEWCOMB VIC 3219,House,3,1,2,721m² ,14 Mar 2024
+"550,000 ","8 Sirius Court,",ST ALBANS PARK VIC 3219,House,3,2,2,605m² ,13 Mar 2024
+"597,500 ","51 Wurrook circuit,",NORTH GEELONG VIC 3215,House,3,2,2,298m² ,11 Mar 2024
+"880,000 ","131a Weller Street,",GEELONG WEST VIC 3218,House,3,2,1,281m² ,2024
+"1,750,000 ","2/13 Balmoral Crescent,",RIPPLESIDE VIC 3215,House,4,2,2,170m² ,2024
+"970,000 ","19 Dane Avenue,",BELL POST HILL VIC 3215,House,4,2,2,632m² ,08 Mar 2024
+"570,000 ","70 Breakwater Road,",THOMSON VIC 3219,House,4,1,1,486m² ,08 Mar 2024
+"675,000","18 Karlovac Court,",BELL PARK VIC 3215,House,4,2,2,701m² ,07 Mar 2024
+"650,000","27 Tahara Street,",HAMLYN HEIGHTS VIC 3215,House,3,2,4,697m² ,07 Mar 2024
+"970,000 ","21 Salisbury Circuit,",FYANSFORD VIC 3218,House,4,2,2,512m² ,05 Mar 2024
+"600,000 ","155 Thompson Road,",BELL PARK VIC 3215,House,3,2,3,765m² ,04 Mar 2024
+"510,000","1 Powell Street,",EAST GEELONG VIC 3219,House,2,1,1,322m² ,04 Mar 2024
+"595,000 ","13 Jobbins Street,",NORTH GEELONG VIC 3215,House,4,2,2,300m² ,04 Mar 2024
+"340,500 ","9 Fellmongers Road,",BREAKWATER VIC 3219,House,3,1,2,397m² ,2024
+"858,000 ","27 French Street,",GEELONG WEST VIC 3218,House,3,2,1,390m² ,01 Mar 2024
+"566,000 ","2/47 Anthony Street,",NEWCOMB VIC 3219,House,3,2,3,364m² ,01 Mar 2024
+"940,000 ","15 Clarendon Street,",NEWTOWN VIC 3220,House,3,1,2,422m² ,01 Mar 2024
+"597,500 ","99A St Albans Road,",THOMSON VIC 3219,House,3,1,1,381m² ,01 Mar 2024
+"500,000","6 Katarina Place,",WHITTINGTON VIC 3219,House,3,1,2,465m² ,01 Mar 2024
+"610,000 ","23 Breadalbane Street,",NEWCOMB VIC 3219,House,3,1,4,631m² ,29 Feb 2024
+"821,000 ","77 Clarke Street,",NEWTOWN VIC 3220,House,3,1,1,328m² ,29 Feb 2024
+"485,000 ","4/8-10 Strathmore Court,",ST ALBANS PARK VIC 3219,House,3,1,3,421m² ,29 Feb 2024
+"745,000","86 Waratah Street,",GEELONG WEST VIC 3218,House,3,1,2,489m² ,28 Feb 2024
+"775,000 ","31 Hamlyn Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,603m² ,28 Feb 2024
+"800,000 ","18 Bond Street,",NEWTOWN VIC 3220,House,2,1,1,418m² ,28 Feb 2024
+"1,550,000 ","69B Balliang Street,",SOUTH GEELONG VIC 3220,House,4,2,2,462m² ,28 Feb 2024
+"565,000 ","50 McClelland Street,",BELL PARK VIC 3215,House,3,1,1,604m² ,27 Feb 2024
+"685,000 ","30 Jedda Street,",BELL POST HILL VIC 3215,House,4,2,8,645m² ,27 Feb 2024
+"780,000 ","35 Loch Street,",EAST GEELONG VIC 3219,House,3,1,1,419m² ,27 Feb 2024
+"850,000 ","10 Dolder Street,",FYANSFORD VIC 3218,House,3,2,2,448m² ,27 Feb 2024
+"605,000 ","35 Enfield Drive,",ST ALBANS PARK VIC 3219,House,3,2,2,573m² ,27 Feb 2024
+"590,000 ","12 McAllister Street,",BREAKWATER VIC 3219,House,3,1,2,536m² ,26 Feb 2024
+"600,000 ","1/11 Mcneill Avenue,",EAST GEELONG VIC 3219,House,2,1,1,339m² ,26 Feb 2024
+"720,000 ","5 Lascelles Avenue,",MANIFOLD HEIGHTS VIC 3218,House,2,1,1,483m² ,2024
+"750,000 ","1 Bay Street,",RIPPLESIDE VIC 3215,House,3,2,1,215m² ,24 Feb 2024
+"658,000 ","24 Osborne Avenue,",NORTH GEELONG VIC 3215,House,4,2,3,646m² ,23 Feb 2024
+"685,000 ","13 Harcombe Street,",BELL POST HILL VIC 3215,House,3,2,3,569m² ,22 Feb 2024
+"3,105,000 ","33 Virginia Street,",NEWTOWN VIC 3220,House,6,2,5,"1,053m² ",22 Feb 2024
+"680,000 ","49 Saywell Street,",NORTH GEELONG VIC 3215,House,2,1,1,692m² ,22 Feb 2024
+"510,000 ","116 Ormond Road,",EAST GEELONG VIC 3219,House,2,1,2,650m² ,21 Feb 2024
+"505,000 ","29 Truscott Street,",WHITTINGTON VIC 3219,House,3,1,2,633m² ,21 Feb 2024
+"610,000 ","193 Thompson Road,",BELL PARK VIC 3215,House,3,1,3,603m² ,20 Feb 2024
+"640,000 ","92 Ruhamah Avenue,",BELL POST HILL VIC 3215,House,3,2,2,629m² ,20 Feb 2024
+"1,000,000 ","20 Laira Street,",GEELONG WEST VIC 3218,House,3,2,1,174m² ,19 Feb 2024
+"550,000 ","1 Vega Court,",NEWCOMB VIC 3219,House,3,1,3,528m² ,19 Feb 2024
+"1,325,000 ","19 Shannon Avenue,",HAMLYN HEIGHTS VIC 3215,House,4,2,1,859m² ,18 Feb 2024
+"1,385,000 ","5 Miles Street,",NEWTOWN VIC 3220,House,5,2,1,557m² ,18 Feb 2024
+"635,000","28 Newhaven Avenue,",ST ALBANS PARK VIC 3219,House,4,2,2,557m² ,18 Feb 2024
+"735,000 ","20 Hosie Avenue,",BELL POST HILL VIC 3215,House,4,2,2,575m² ,17 Feb 2024
+"975,000 ","3 Gugger Place,",FYANSFORD VIC 3218,House,4,2,2,304m² ,17 Feb 2024
+"515,000","108 Ballarat Road,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,678m² ,17 Feb 2024
+"2,165,000 ","50 Bond Street,",NEWTOWN VIC 3220,House,4,3,2,417m² ,2024
+"615,000 ","3 Venus Court,",NEWCOMB VIC 3219,House,3,1,4,581m² ,16 Feb 2024
+"820,000 ","17 Rosemont Crescent,",BELL POST HILL VIC 3215,House,4,3,7,911m² ,15 Feb 2024
+"669,000","25 Trigg Street,",GEELONG WEST VIC 3218,House,2,1,1,443m² ,15 Feb 2024
+"470,000 ","1/19 Synnott Street,",HAMLYN HEIGHTS VIC 3215,House,2,1,2,335m² ,15 Feb 2024
+"780,000 ","19 Saywell Street,",NORTH GEELONG VIC 3215,House,3,1,1,569m² ,15 Feb 2024
+"760,000 ","73 Malinda Crescent,",BELL PARK VIC 3215,House,4,2,2,543m² ,14 Feb 2024
+"640,000 ","10 Ferry Grove,",NEWCOMB VIC 3219,House,4,1,3,651m² ,14 Feb 2024
+"490,000 ","1/20 Bruce Street,",BELL PARK VIC 3215,House,3,1,2,334m² ,12 Feb 2024
+"520,000 ","2/18 Barnfather Street,",THOMSON VIC 3219,House,2,1,2,347m² ,12 Feb 2024
+"555,000 ","45 Chapel Street,",WHITTINGTON VIC 3219,House,3,1,5,540m² ,12 Feb 2024
+"637,500 ","22 Fidge Crescent,",BREAKWATER VIC 3219,House,4,2,1,558m² ,10 Feb 2024
+"1,001,000 ","13 McDonald Street,",EAST GEELONG VIC 3219,House,3,2,1,414m² ,2024
+"1,329,000 ","47 Villamanta Street,",GEELONG WEST VIC 3218,House,4,2,3,518m² ,2024
+"850,000 ","37 Forfar Road,",HAMLYN HEIGHTS VIC 3215,House,5,3,3,628m² ,2024
+"815,000 ","69 Waratah Street,",GEELONG WEST VIC 3218,House,3,1,1,284m² ,09 Feb 2024
+"750,000","6 Britannia Street,",GEELONG WEST VIC 3218,House,3,1,2,771m² ,09 Feb 2024
+"745,000","100 Gertrude Street,",GEELONG WEST VIC 3218,House,2,2,2,408m² ,09 Feb 2024
+"660,000 ","28 Saywell Street,",NORTH GEELONG VIC 3215,House,3,1,5,669m² ,09 Feb 2024
+"480,000 ","285 Boundary Road,",ST ALBANS PARK VIC 3219,House,3,1,3,547m² ,09 Feb 2024
+"500,000 ","4 Darriwill Street,",BELL POST HILL VIC 3215,House,3,1,1,543m² ,08 Feb 2024
+"620,000","18 Lindsay Street,",NEWCOMB VIC 3219,House,3,1,2,623m² ,08 Feb 2024
+"620,000 ","206 Thompson Road,",NORTH GEELONG VIC 3215,House,3,1,1,613m² ,08 Feb 2024
+"1,140,000 ","10 Knowles Street,",FYANSFORD VIC 3218,House,4,2,2,512m² ,07 Feb 2024
+"575,000","165 Vines Road,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,572m² ,07 Feb 2024
+"620,000 ","18 Nicholson Crescent,",BELL PARK VIC 3215,House,3,1,1,539m² ,06 Feb 2024
+"1,200,000 ","173 Shannon Avenue,",MANIFOLD HEIGHTS VIC 3218,House,4,2,2,493m² ,06 Feb 2024
+"960,000 ","11 Balfour Street,",NORTH GEELONG VIC 3215,House,4,2,2,375m² ,06 Feb 2024
+"495,000","21B Paramount Crescent,",ST ALBANS PARK VIC 3219,House,2,2,2,318m² ,06 Feb 2024
+"570,000","13 Hennessy Avenue,",HERNE HILL VIC 3218,House,3,1,2,628m² ,05 Feb 2024
+"646,000 ","32 McClelland Street,",BELL PARK VIC 3215,House,3,1,2,725m² ,02 Feb 2024
+"685,000 ","43 Ward Street,",BELL POST HILL VIC 3215,House,4,2,4,572m² ,02 Feb 2024
+"500,000","305 Boundary Road,",ST ALBANS PARK VIC 3219,House,3,1,2,592m² ,02 Feb 2024
+"510,000 ","5 Olney Ave,",THOMSON VIC 3219,House,3,1,4,695m² ,02 Feb 2024
+"3,170,000","39 George Street,",GEELONG WEST VIC 3218,House,6,3,4,"2,264m² ",01 Feb 2024
+"608,000 ","4 Atkins Street,",NEWCOMB VIC 3219,House,3,1,2,581m² ,01 Feb 2024
+"625,000 ","33 Truscott Street,",WHITTINGTON VIC 3219,House,4,3,1,654m² ,01 Feb 2024
+"1,275,000","282 Mckillop Street,",EAST GEELONG VIC 3219,House,4,2,2,558m² ,31 Jan 2024
+"660,000 ","16 Bronte Court,",ST ALBANS PARK VIC 3219,House,3,2,3,792m² ,31 Jan 2024
+"630,000 ","1 Westmoreland Street,",ST ALBANS PARK VIC 3219,House,3,1,4,742m² ,31 Jan 2024
+"900,000 ","15 Katoomba Court,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,785m² ,30 Jan 2024
+"655,000","2/153 Vines Road,",HAMLYN HEIGHTS VIC 3215,House,3,2,2,408m² ,30 Jan 2024
+"505,000 ","291 Boundary Road,",ST ALBANS PARK VIC 3219,House,3,1,2,540m² ,30 Jan 2024
+"800,000 ","1 Parkland Drive,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,677m² ,28 Jan 2024
+"599,999 ","18 Olney Avenue,",THOMSON VIC 3219,House,3,1,2,628m² ,26 Jan 2024
+"585,000 ","32 Cosgrove Street,",BREAKWATER VIC 3219,House,3,1,4,770m² ,25 Jan 2024
+"620,000 ","28 Jobbins Street,",NORTH GEELONG VIC 3215,House,4,2,2,326m² ,25 Jan 2024
+"895,000","40 Grey Street,",EAST GEELONG VIC 3219,House,3,1,1,337m² ,24 Jan 2024
+"960,000 ","48 Isabella Street,",GEELONG WEST VIC 3218,House,3,1,1,805m² ,24 Jan 2024
+"489,000 ","15 Buckington Street,",ST ALBANS PARK VIC 3219,House,3,1,2,606m² ,23 Jan 2024
+"720,000","250 Shannon Avenue,",GEELONG WEST VIC 3218,House,2,1,3,504m² ,22 Jan 2024
+"687,000 ","63 Neil Street,",BELL POST HILL VIC 3215,House,3,1,4,635m² ,18 Jan 2024
+"740,000 ","151 West Fyans Street,",NEWTOWN VIC 3220,House,2,1,9,784m² ,18 Jan 2024
+"640,000 ","24 Jedda Street,",BELL POST HILL VIC 3215,House,3,1,4,641m² ,17 Jan 2024
+"990,000 ","51 Logan Street,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,"1,012m² ",17 Jan 2024
+"600,000 ","9 Bakewell street,",HERNE HILL VIC 3218,House,3,1,2,609m² ,17 Jan 2024
+"1,088,000 ","305 Brislane Road,",MURGHEBOLUC VIC 3218,House,4,2,8,0,17 Jan 2024
+"990,000 ","1c Frank Street,",NEWTOWN VIC 3220,House,4,2,2,516m² ,15 Jan 2024
+"1,800,000","5 Lunan Avenue,",DRUMCONDRA VIC 3215,House,3,2,2,611m² ,14 Jan 2024
+"770,000 ","10 Hammersley Road,",BELL PARK VIC 3215,House,5,3,2,660m² ,12 Jan 2024
+"565,000","1 Kansas Avenue,",BELL POST HILL VIC 3215,House,3,1,1,539m² ,12 Jan 2024
+"750,000 ","18 Lascelles Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,1,−,625m² ,12 Jan 2024
+"1,110,000 ","7 Pineville Avenue,",GEELONG WEST VIC 3218,House,3,1,4,621m² ,11 Jan 2024
+"570,000 ","41 Hamlyn Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,612m² ,11 Jan 2024
+"517,000 ","4 Hering Court,",THOMSON VIC 3219,House,3,1,1,604m² ,03 Jan 2024
+"810,000","99 Gertrude Street,",GEELONG WEST VIC 3218,House,3,1,2,715m² ,29 Dec 2023
+"460,000","9 Oxford Street,",WHITTINGTON VIC 3219,House,3,2,1,232m² ,28 Dec 2023
+"790,000 ","167 Minerva Road,",NEWTOWN VIC 3220,House,3,1,2,527m² ,23 Dec 2023
+"1,300,000 ","14 Lawton Avenue,",GEELONG WEST VIC 3218,House,3,2,2,404m² ,22 Dec 2023
+"945,000 ","22 Crofton Street,",GEELONG WEST VIC 3218,House,3,2,1,390m² ,22 Dec 2023
+"700,000 ","11 Urana Street,",NEWTOWN VIC 3220,House,3,1,3,336m² ,22 Dec 2023
+"770,000 ","4 Mann Street,",EAST GEELONG VIC 3219,House,3,2,1,378m² ,21 Dec 2023
+"1,395,000","5 Dell Boulevard,",FYANSFORD VIC 3218,House,4,3,2,626m² ,21 Dec 2023
+"1,800,000","7 Coquette Street,",GEELONG WEST VIC 3218,House,4,3,4,720m² ,21 Dec 2023
+"740,000 ","7 Gladstone Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,848m² ,20 Dec 2023
+"625,000 ","11 Great Britain Street,",HERNE HILL VIC 3218,House,4,1,2,601m² ,19 Dec 2023
+"540,000","230 St Albans Road,",BREAKWATER VIC 3219,House,2,1,2,562m² ,18 Dec 2023
+"737,000 ","19 Charlotte Avenue,",NEWCOMB VIC 3219,House,4,2,2,713m² ,18 Dec 2023
+"570,000 ","1/5 Fagg Street,",THOMSON VIC 3219,House,3,2,1,409m² ,18 Dec 2023
+"660,000","266 Kilgour Street,",EAST GEELONG VIC 3219,House,2,1,1,285m² ,2023
+"1,900,000","27-29 Preston Street,",GEELONG WEST VIC 3218,House,4,1,4,891m² ,15 Dec 2023
+"398,000 ","1 Conrad Court,",WHITTINGTON VIC 3219,House,3,1,1,419m² ,15 Dec 2023
+"466,700 ","2/1 Rushden Close,",BELL POST HILL VIC 3215,House,2,1,1,312m² ,14 Dec 2023
+"780,000 ","12-14 McDougall Street,",GEELONG WEST VIC 3218,House,3,1,4,575m² ,14 Dec 2023
+"540,000 ","2 Lucy Court,",ST ALBANS PARK VIC 3219,House,2,1,2,350m² ,14 Dec 2023
+"695,000","516 Ryrie Street,",EAST GEELONG VIC 3219,House,3,2,6,780m² ,13 Dec 2023
+"630,000 ","154 Aberdeen Street,",GEELONG WEST VIC 3218,House,2,1,1,330m² ,2023
+"570,000 ","8 Lindsay Street,",NEWCOMB VIC 3219,House,3,1,2,623m² ,13 Dec 2023
+"1,000,000 ","15 Clarke Street,",NEWTOWN VIC 3220,House,3,1,2,640m² ,12 Dec 2023
+"980,000 ","15 Karkalla Court,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,532m² ,11 Dec 2023
+"790,000 ","23 Yuille Street,",GEELONG WEST VIC 3218,House,3,1,1,239m² ,08 Dec 2023
+"975,000","5 Hodgson Street,",GEELONG WEST VIC 3218,House,3,2,2,520m² ,08 Dec 2023
+"975,000","5 Hodgson Street,",GEELONG WEST VIC 3218,House,3,2,2,520m² ,08 Dec 2023
+"910,000","12 Aberdeen Street,",GEELONG WEST VIC 3218,House,3,1,2,420m² ,08 Dec 2023
+"1,550,000 ","28 Craigie Road,",NEWTOWN VIC 3220,House,3,2,2,702m² ,2023
+"1,450,000 ","104 Clarence Street,",GEELONG WEST VIC 3218,House,3,2,2,569m² ,2023
+"585,000 ","14 Rushden Close,",BELL POST HILL VIC 3215,House,3,2,1,587m² ,06 Dec 2023
+"683,000 ","58 Trigg Street,",GEELONG WEST VIC 3218,House,3,1,2,281m² ,06 Dec 2023
+"510,000 ","19 Neptune Avenue,",NEWCOMB VIC 3219,House,3,1,2,528m² ,05 Dec 2023
+"787,000","22 Trigg Street,",GEELONG WEST VIC 3218,House,3,2,2,352m² ,04 Dec 2023
+"845,000 ","41 Drysdale Avenue,",HAMLYN HEIGHTS VIC 3215,House,4,2,3,664m² ,04 Dec 2023
+"925,000 ","10 Myrtle Avenue,",NEWCOMB VIC 3219,House,3,2,2,684m² ,2023
+"910,000","135 Elizabeth Street,",GEELONG WEST VIC 3218,House,4,2,3,554m² ,2023
+"550,000","32 Glover Street,",NEWCOMB VIC 3219,House,3,1,1,723m² ,02 Dec 2023
+"713,000 ","15 Tahara Street,",HAMLYN HEIGHTS VIC 3215,House,4,1,2,699m² ,01 Dec 2023
+"875,000 ","6 Dunmow Crescent,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,650m² ,01 Dec 2023
+"795,000","44 Tahara Street,",HAMLYN HEIGHTS VIC 3215,House,4,1,6,806m² ,01 Dec 2023
+"872,000","2 Parker Court,",MANIFOLD HEIGHTS VIC 3218,House,4,2,3,703m² ,01 Dec 2023
+"490,000 ","128 Coppards Road,",WHITTINGTON VIC 3219,House,3,1,1,597m² ,01 Dec 2023
+"605,000 ","14 Drysdale Avenue,",NEWCOMB VIC 3219,House,3,1,2,665m² ,30 Nov 2023
+"565,000 ","40 Mercury Crescent,",NEWCOMB VIC 3219,House,3,1,5,597m² ,30 Nov 2023
+"715,000 ","15 Woodvale Court,",BELL PARK VIC 3215,House,4,2,2,657m² ,29 Nov 2023
+"560,000 ","2 Jasmine Street,",BELL PARK VIC 3215,House,3,1,4,596m² ,29 Nov 2023
+"645,000 ","33 Hitchcock Street,",BREAKWATER VIC 3219,House,3,1,2,560m² ,29 Nov 2023
+"755,000","62 Salisbury Circuit,",FYANSFORD VIC 3218,House,3,2,2,353m² ,29 Nov 2023
+"861,000 ","15 Verner Street,",SOUTH GEELONG VIC 3220,House,3,1,2,485m² ,2023
+"1,050,000 ","3A Victoria Street,",RIPPLESIDE VIC 3215,House,3,3,2,367m² ,28 Nov 2023
+"720,000 ","6 Bunny Court,",FYANSFORD VIC 3218,House,4,2,2,397m² ,27 Nov 2023
+"1,050,000 ","24 Lascelles Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,2,2,625m² ,27 Nov 2023
+"517,000 ","27 Roma Street,",BELL PARK VIC 3215,House,2,1,1,703m² ,2023
+"450,000","8 Fagg Street,",THOMSON VIC 3219,House,2,1,1,760m² ,2023
+"615,000 ","26 Oxford Street,",WHITTINGTON VIC 3219,House,3,2,4,650m² ,25 Nov 2023
+"1,893,500 ","31 Laurel Bank Parade,",NEWTOWN VIC 3220,House,3,2,2,511m² ,24 Nov 2023
+"762,000 ","34 McCurdy Road,",HERNE HILL VIC 3218,House,3,1,2,603m² ,23 Nov 2023
+"630,000 ","8 Lancaster Avenue,",NEWCOMB VIC 3219,House,4,2,4,774m² ,23 Nov 2023
+"540,000","2 Breadalbane Street,",NEWCOMB VIC 3219,House,3,1,2,570m² ,23 Nov 2023
+"430,000 ","2/15 Wattlepark Avenue,",BELL PARK VIC 3215,House,2,1,2,222m² ,22 Nov 2023
+"760,000 ","84 Tahara Street,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,703m² ,2023
+"515,000 ","3 Lavender Court,",NEWCOMB VIC 3219,House,3,1,1,670m² ,22 Nov 2023
+"650,000","1/12 Douglass Street,",MANIFOLD HEIGHTS VIC 3218,House,3,1,1,281m² ,21 Nov 2023
+"515,000","1 Japonica Court,",NEWCOMB VIC 3219,House,3,1,1,604m² ,21 Nov 2023
+"500,000 ","50 Tucker Street,",BREAKWATER VIC 3219,House,1,1,3,"1,112m² ",20 Nov 2023
+"545,000 ","12 Alcott Road,",ST ALBANS PARK VIC 3219,House,2,1,2,454m² ,20 Nov 2023
+"550,000 ","4 Martin Street,",THOMSON VIC 3219,House,3,1,−,348m² ,17 Nov 2023
+"475,000 ","41 Godfrey Street,",THOMSON VIC 3219,House,3,1,3,617m² ,17 Nov 2023
+"716,000","97 Ormond Road,",EAST GEELONG VIC 3219,House,3,1,2,557m² ,16 Nov 2023
+"1,120,000 ","42 Crofton Street,",GEELONG WEST VIC 3218,House,3,2,1,390m² ,16 Nov 2023
+"505,000","159 Vines Road,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,454m² ,16 Nov 2023
+"645,000 ","3 Waiora Avenue,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,651m² ,16 Nov 2023
+"590,000 ","27 Giddings Street,",NORTH GEELONG VIC 3215,House,3,1,2,641m² ,16 Nov 2023
+"735,000","7 Kansas Avenue,",BELL POST HILL VIC 3215,House,5,2,2,539m² ,2023
+"710,000 ","1/227 Yarra Street,",SOUTH GEELONG VIC 3220,House,3,2,2,194m² ,15 Nov 2023
+"830,000 ","16 Pride Avenue,",HAMLYN HEIGHTS VIC 3215,House,2,1,−,863m² ,14 Nov 2023
+"1,225,000","51 Spring Street,",GEELONG WEST VIC 3218,House,4,2,2,455m² ,13 Nov 2023
+"1,600,000","38 Lawton Avenue,",GEELONG WEST VIC 3218,House,4,2,−,687m² ,13 Nov 2023
+"620,000 ","10 Karoomba Avenue,",HERNE HILL VIC 3218,House,3,1,2,530m² ,13 Nov 2023
+"1,220,000 ","146 Autumn Street,",GEELONG WEST VIC 3218,House,3,2,2,398m² ,12 Nov 2023
+"1,620,000 ","9 Gertrude Street,",GEELONG WEST VIC 3218,House,4,2,1,562m² ,2023
+"1,367,500 ","27 William Street,",NEWTOWN VIC 3220,House,4,2,−,558m² ,2023
+"630,000 ","7 Yuille street,",GEELONG WEST VIC 3218,House,2,1,2,254m² ,10 Nov 2023
+"800,000 ","5 Arthur Street,",HAMLYN HEIGHTS VIC 3215,House,2,1,2,"1,483m² ",10 Nov 2023
+"650,000 ","149 Vines Road,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,724m² ,10 Nov 2023
+"1,850,000 ","18 Heathfield Court,",NEWTOWN VIC 3220,House,5,2,2,649m² ,10 Nov 2023
+"525,000 ","10 Hering Court,",THOMSON VIC 3219,House,3,1,2,600m² ,10 Nov 2023
+"695,000 ","49 Barton Street,",BELL PARK VIC 3215,House,4,2,5,650m² ,09 Nov 2023
+"755,000","9 Tully Street,",EAST GEELONG VIC 3219,House,2,1,2,334m² ,09 Nov 2023
+"660,000 ","38 Willana Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,650m² ,09 Nov 2023
+"615,000 ","4 Poplar Street,",NEWCOMB VIC 3219,House,3,2,1,695m² ,09 Nov 2023
+"705,000 ","28 Aldershot Road,",ST ALBANS PARK VIC 3219,House,4,2,2,821m² ,09 Nov 2023
+"480,000 ","4 Alouette Court,",WHITTINGTON VIC 3219,House,3,1,1,724m² ,09 Nov 2023
+"665,000 ","1 Bruce Street,",BELL PARK VIC 3215,House,4,3,3,714m² ,07 Nov 2023
+"665,000","133 Garden Street,",EAST GEELONG VIC 3219,House,2,1,1,307m² ,07 Nov 2023
+"580,000 ","34 Malcolm Street,",BELL PARK VIC 3215,House,3,1,2,618m² ,06 Nov 2023
+"719,000 ","21 Kaunas Street,",BELL PARK VIC 3215,House,4,1,3,603m² ,06 Nov 2023
+"1,575,000","12 Tully Street,",EAST GEELONG VIC 3219,House,4,2,2,419m² ,06 Nov 2023
+"535,000 ","193 Aberdeen Street,",NEWTOWN VIC 3220,House,2,1,1,385m² ,06 Nov 2023
+"500,000 ","13 Giddings Street,",NORTH GEELONG VIC 3215,House,2,1,2,645m² ,06 Nov 2023
+"470,000 ","3 Carruthers Court,",THOMSON VIC 3219,House,3,2,−,736m² ,06 Nov 2023
+"765,000 ","13 Ann Street,",GEELONG WEST VIC 3218,House,3,1,2,547m² ,2023
+"825,000 ","47 Trigg Street,",GEELONG WEST VIC 3218,House,3,2,4,551m² ,03 Nov 2023
+"985,000","183 Shannon Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,2,2,490m² ,03 Nov 2023
+"870,000 ","20 Glengate Street,",HAMLYN HEIGHTS VIC 3215,House,3,2,5,"1,050m² ",2023
+"604,500 ","3 Boronia Street,",NEWCOMB VIC 3219,House,3,2,2,403m² ,02 Nov 2023
+"580,000 ","1E Giddings Street,",NORTH GEELONG VIC 3215,House,3,1,2,307m² ,02 Nov 2023
+"642,500 ","30 Walsgott Street,",NORTH GEELONG VIC 3215,House,3,1,1,646m² ,02 Nov 2023
+"545,000 ","8 Malinda Crescent,",BELL PARK VIC 3215,House,3,1,3,667m² ,01 Nov 2023
+"563,000 ","55 Braund Avenue,",BELL POST HILL VIC 3215,House,3,1,1,630m² ,01 Nov 2023
+"756,000","118 Sladen Street,",HAMLYN HEIGHTS VIC 3215,House,3,2,2,602m² ,01 Nov 2023
+"995,000 ","19 Bellavista Road,",BELL PARK VIC 3215,House,4,2,2,666m² ,31 Oct 2023
+"590,000 ","80 Kansas Avenue,",BELL POST HILL VIC 3215,House,3,2,1,534m² ,31 Oct 2023
+"660,000 ","54 Ruhamah Avenue,",BELL POST HILL VIC 3215,House,3,2,1,620m² ,31 Oct 2023
+"865,000 ","317 Shannon Avenue,",NEWTOWN VIC 3220,House,3,1,1,392m² ,31 Oct 2023
+"680,000","8 Logan Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,698m² ,28 Oct 2023
+"1,351,000 ","39 Bostock Avenue,",MANIFOLD HEIGHTS VIC 3218,House,5,2,2,950m² ,2023
+"1,850,000 ","238 Yarra Street,",SOUTH GEELONG VIC 3220,House,5,2,4,713m² ,2023
+"650,000","38 Trigg Street,",GEELONG WEST VIC 3218,House,2,1,3,524m² ,27 Oct 2023
+"737,500 ","24 Beulah Street,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,557m² ,27 Oct 2023
+"710,000","54 GUTHRIE AVENUE,",NORTH GEELONG VIC 3215,House,3,2,5,488m² ,
+"565,000 ","7 Robertson Street,",THOMSON VIC 3219,House,2,1,1,595m² ,27 Oct 2023
+"500,000 ","1 Orbit Drive,",WHITTINGTON VIC 3219,House,3,2,2,659m² ,27 Oct 2023
+"515,000 ","23 Challenger Close,",WHITTINGTON VIC 3219,House,3,1,3,556m² ,27 Oct 2023
+"635,000 ","17 Ivy Street,",NEWCOMB VIC 3219,House,3,1,2,559m² ,26 Oct 2023
+"780,000 ","38 Sladen Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,660m² ,25 Oct 2023
+"720,000 ","23 McClelland Street,",BELL PARK VIC 3215,House,3,1,3,702m² ,24 Oct 2023
+"630,000 ","5 Amaroo Court,",BELL PARK VIC 3215,House,4,1,1,613m² ,24 Oct 2023
+"1,005,000 ","71 Hope Street,",GEELONG WEST VIC 3218,House,3,1,1,493m² ,21 Oct 2023
+"935,000 ","12 Eureka Street,",GEELONG WEST VIC 3218,House,3,2,−,267m² ,20 Oct 2023
+"961,000 ","1 Bigmore Street,",GEELONG WEST VIC 3218,House,3,2,1,418m² ,18 Oct 2023
+"560,000","62 Sladen Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,705m² ,18 Oct 2023
+"870,000 ","7 Mcneill Avenue,",EAST GEELONG VIC 3219,House,4,2,1,650m² ,17 Oct 2023
+"1,310,000 ","34 Richmond Street,",EAST GEELONG VIC 3219,House,4,2,2,506m² ,17 Oct 2023
+"685,000 ","15 Rutledge Boulevard,",NORTH GEELONG VIC 3215,House,3,2,2,432m² ,17 Oct 2023
+"805,000","28 Tova Avenue,",BELL POST HILL VIC 3215,House,4,2,4,609m² ,16 Oct 2023
+"748,000 ","93 Clarence Street,",GEELONG WEST VIC 3218,House,3,1,1,417m² ,16 Oct 2023
+"588,000 ","69 Wurrook Circuit,",NORTH GEELONG VIC 3215,House,3,2,2,322m² ,16 Oct 2023
+"880,000 ","171A Autumn Street,",GEELONG WEST VIC 3218,House,2,2,1,186m² ,2023
+"625,000 ","19 Newton Avenue,",BELL POST HILL VIC 3215,House,3,1,1,536m² ,13 Oct 2023
+"1,040,000 ","29 Dane Avenue,",BELL POST HILL VIC 3215,House,4,2,2,716m² ,13 Oct 2023
+"720,000 ","30A Grey Street,",EAST GEELONG VIC 3219,House,3,3,2,555m² ,12 Oct 2023
+"845,000 ","21 Belcher Street,",HAMLYN HEIGHTS VIC 3215,House,4,1,1,764m² ,12 Oct 2023
+"777,000 ","19 Wilks Street,",HAMLYN HEIGHTS VIC 3215,House,4,2,3,661m² ,12 Oct 2023
+"825,000 ","21 McDougall Street,",GEELONG WEST VIC 3218,House,3,1,−,345m² ,11 Oct 2023
+"570,000 ","1 Winstanley Road,",THOMSON VIC 3219,House,3,1,1,594m² ,11 Oct 2023
+"525,000","29 East End Crescent,",ST ALBANS PARK VIC 3219,House,3,1,1,815m² ,10 Oct 2023
+"725,000 ","9 Jedda Street,",BELL POST HILL VIC 3215,House,3,2,−,697m² ,09 Oct 2023
+"545,000 ","86 St Albans Road,",THOMSON VIC 3219,House,3,1,1,654m² ,2023
+"565,000","39 Melva Crescent,",WHITTINGTON VIC 3219,House,3,2,1,680m² ,09 Oct 2023
+"625,000 ","7 Nicholson Crescent,",BELL PARK VIC 3215,House,4,1,6,588m² ,07 Oct 2023
+"830,000 ","120 GERTRUDE STREET,",GEELONG WEST VIC 3218,House,3,1,4,409m² ,07 Oct 2023
+"900,000","3 Alkoomi Avenue,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,766m² ,07 Oct 2023
+"805,000 ","75 West Fyans Street,",NEWTOWN VIC 3220,House,3,1,4,408m² ,2023
+"891,000 ","38 St Albans Road,",EAST GEELONG VIC 3219,House,3,2,1,472m² ,06 Oct 2023
+"1,120,000 ","4 Berryman Lane,",FYANSFORD VIC 3218,House,4,2,2,901m² ,06 Oct 2023
+"780,000","19 Maitland Street,",GEELONG WEST VIC 3218,House,4,2,−,403m² ,6 Oct 2023
+"805,000 ","25 Ashbourne Street,",HERNE HILL VIC 3218,House,4,1,2,731m² ,06 Oct 2023
+"860,000 ","8 Gladstone Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,4,709m² ,05 Oct 2023
+"760,000 ","14 Stafford Street,",HERNE HILL VIC 3218,House,4,1,4,851m² ,05 Oct 2023
+"2,105,000 ","25 Grant Street,",NEWTOWN VIC 3220,House,5,2,3,677m² ,2023
+"550,000 ","11 Poplar Street,",NEWCOMB VIC 3219,House,3,1,2,697m² ,04 Oct 2023
+"600,000 ","3 Collins Street,",ST ALBANS PARK VIC 3219,House,3,2,2,321m² ,04 Oct 2023
+"1,585,000 ","9 Grandview Grove,",DRUMCONDRA VIC 3215,House,4,2,1,625m² ,03 Oct 2023
+"640,000 ","1C Langibanool Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,2,1,222m² ,03 Oct 2023
+"1,167,000 ","140 Autumn Street,",GEELONG WEST VIC 3218,House,3,2,1,267m² ,02 Oct 2023
+"675,000 ","28 Vines Road,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,732m² ,02 Oct 2023
+"730,000 ","12 Castleton Road,",HERNE HILL VIC 3218,House,4,1,8,697m² ,02 Oct 2023
+"655,000 ","10 Tully Street,",EAST GEELONG VIC 3219,House,2,1,2,322m² ,2023
+"1,092,000","12 Mossgiel Court,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,686m² ,27 Sep 2023
+"1,750,000 ","7 Shannon Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,2,8,859m² ,27 Sep 2023
+"810,000 ","47 Shannon Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,1,2,487m² ,27 Sep 2023
+"457,500 ","11 Carinya Avenue,",NEWCOMB VIC 3219,House,3,1,1,579m² ,27 Sep 2023
+"620,000 ","12 Libau Avenue,",BELL PARK VIC 3215,House,3,1,1,633m² ,26 Sep 2023
+"895,000 ","17 Rutledge Boulevard,",NORTH GEELONG VIC 3215,House,4,2,2,432m² ,26 Sep 2023
+"567,000 ","47 Glengate Street,",HAMLYN HEIGHTS VIC 3215,House,2,1,1,145m² ,25 Sep 2023
+"570,000 ","227 Wilsons Road,",WHITTINGTON VIC 3219,House,4,2,2,558m² ,25 Sep 2023
+"900,000 ","21 Thorne Street,",EAST GEELONG VIC 3219,House,3,1,−,353m² ,2023
+"685,000 ","8 Heather Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,650m² ,23 Sep 2023
+"880,000 ","28 Devon Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,915m² ,2023
+"690,000 ","75 Minerva Road,",HERNE HILL VIC 3218,House,3,1,1,602m² ,2023
+"1,220,000 ","25 St David Street,",RIPPLESIDE VIC 3215,House,3,1,6,662m² ,23 Sep 2023
+"645,000 ","97 Britannia Street,",GEELONG WEST VIC 3218,House,3,1,1,415m² ,22 Sep 2023
+"544,000 ","2 Begonia Court,",NEWCOMB VIC 3219,House,3,1,1,734m² ,22 Sep 2023
+"990,000 ","39 Margaret Street,",RIPPLESIDE VIC 3215,House,3,1,2,437m² ,2023
+"938,000","1 Bell Parade,",DRUMCONDRA VIC 3215,House,3,2,2,327m² ,21 Sep 2023
+"1,250,000 ","9 Synnott Street,",HAMLYN HEIGHTS VIC 3215,House,5,3,4,794m² ,21 Sep 2023
+"550,000 ","95 Wurrook Circuit,",NORTH GEELONG VIC 3215,House,3,2,1,326m² ,21 Sep 2023
+"726,000 ","13 Wurrook Circuit,",NORTH GEELONG VIC 3215,House,4,2,2,389m² ,20 Sep 2023
+"540,000 ","16 Karoomba Avenue,",HERNE HILL VIC 3218,House,2,1,2,209m² ,19 Sep 2023
+"1,075,000 ","239 Noble Street,",NEWTOWN VIC 3220,House,3,1,2,776m² ,19 Sep 2023
+"750,000 ","3 Korakin Court,",BELL PARK VIC 3215,House,3,2,2,588m² ,18 Sep 2023
+"700,000 ","67 Rollins Road,",BELL POST HILL VIC 3215,House,3,1,4,645m² ,18 Sep 2023
+"1,535,000 ","28 Retreat Road,",NEWTOWN VIC 3220,House,2,2,2,621m² ,18 Sep 2023
+"555,000 ","58 Wurrook Circuit,",NORTH GEELONG VIC 3215,House,3,2,1,255m² ,18 Sep 2023
+"1,300,000 ","248 Yarra Street,",SOUTH GEELONG VIC 3220,House,4,3,1,475m² ,2023
+"725,000 ","14 Castleton Road,",HERNE HILL VIC 3218,House,3,2,3,697m² ,15 Sep 2023
+"620,000","36 Yaraan Street,",BELL PARK VIC 3215,House,3,1,2,618m² ,14 Sep 2023
+"670,000 ","45 Kansas Avenue,",BELL POST HILL VIC 3215,House,3,1,4,539m² ,14 Sep 2023
+"800,000","77 Tahara Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,874m² ,14 Sep 2023
+"1,300,000 ","40 Nantes Street,",NEWTOWN VIC 3220,House,3,1,1,762m² ,13 Sep 2023
+"1,500,000","37 Waratah Street,",GEELONG WEST VIC 3218,House,4,2,2,377m² ,11 Sep 2023
+"630,000 ","34 Cosgrove Street,",BREAKWATER VIC 3219,House,3,1,2,771m² ,09 Sep 2023
+"1,030,000 ","17 John Street,",GEELONG WEST VIC 3218,House,3,2,2,461m² ,2023
+"1,175,000 ","15 Orr Street,",MANIFOLD HEIGHTS VIC 3218,House,4,2,2,697m² ,2023
+"845,000","32 Sydenham Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,1,2,593m² ,2023
+"385,000 ","19 Irwin Court,",WHITTINGTON VIC 3219,House,3,1,−,624m² ,09 Sep 2023
+"650,000 ","7 Jabone Terrace,",BELL PARK VIC 3215,House,4,2,1,664m² ,08 Sep 2023
+"950,000","179 Swanston Street,",SOUTH GEELONG VIC 3220,House,3,1,4,505m² ,2023
+"560,000 ","23 Tabess Court,",ST ALBANS PARK VIC 3219,House,3,2,2,491m² ,08 Sep 2023
+"805,000 ","94 Calvert Street,",HAMLYN HEIGHTS VIC 3215,House,4,2,3,650m² ,07 Sep 2023
+"720,000","46 Portarlington Road,",NEWCOMB VIC 3219,House,4,2,2,460m² ,07 Sep 2023
+"905,000 ","4 Craigie Road,",NEWTOWN VIC 3220,House,3,1,3,703m² ,07 Sep 2023
+"540,000 ","30 St James Street,",ST ALBANS PARK VIC 3219,House,3,2,2,653m² ,07 Sep 2023
+"592,500 ","223 Anakie Road,",BELL POST HILL VIC 3215,House,3,1,1,585m² ,06 Sep 2023
+"730,100","2 Bendle Street,",EAST GEELONG VIC 3219,House,3,1,2,671m² ,06 Sep 2023
+"1,350,000 ","28 Narmbool Street,",MANIFOLD HEIGHTS VIC 3218,House,4,3,2,355m² ,06 Sep 2023
+"575,000 ","32 Saywell Street,",NORTH GEELONG VIC 3215,House,3,1,2,690m² ,06 Sep 2023
+"515,000","22 Filipi Drive,",ST ALBANS PARK VIC 3219,House,3,1,1,645m² ,06 Sep 2023
+"685,000 ","92 Homestead Drive,",ST ALBANS PARK VIC 3219,House,4,2,2,665m² ,06 Sep 2023
+"690,000 ","26 Liston Street,",BELL POST HILL VIC 3215,House,3,2,2,615m² ,05 Sep 2023
+"598,000 ","14 Pitman Street,",NEWCOMB VIC 3219,House,3,1,1,588m² ,05 Sep 2023
+"765,000 ","5 Logan Street,",HAMLYN HEIGHTS VIC 3215,House,4,1,2,711m² ,2023
+"977,000 ","389 Pakington Street,",NEWTOWN VIC 3220,House,3,2,2,337m² ,2023
+"590,000 ","9 Govett Crescent,",ST ALBANS PARK VIC 3219,House,3,1,4,670m² ,04 Sep 2023
+"1,350,000","13 Lunan Avenue,",DRUMCONDRA VIC 3215,House,3,2,2,611m² ,2023
+"801,000 ","22 Avon Street,",GEELONG WEST VIC 3218,House,4,1,2,362m² ,2023
+"855,000","85 Gertrude Street,",GEELONG WEST VIC 3218,House,3,1,1,398m² ,2023
+"1,060,000 ","5-7 Glenview Place,",HAMLYN HEIGHTS VIC 3215,House,5,2,2,565m² ,02 Sep 2023
+"550,000","42 Wolseley Grove,",BELL POST HILL VIC 3215,House,3,1,1,783m² ,01 Sep 2023
+"887,000 ","24 Davey Street,",EAST GEELONG VIC 3219,House,3,1,2,353m² ,01 Sep 2023
+"600,000 ","27 Veronica Avenue,",NEWCOMB VIC 3219,House,3,1,4,535m² ,01 Sep 2023
+"500,000 ","13 Nimbus Court,",WHITTINGTON VIC 3219,House,3,1,−,659m² ,01 Sep 2023
+"989,999","6 Jersey Road,",BELL POST HILL VIC 3215,House,3,2,5,"1,248m² ",1 Aug 2023
+"480,000 ","83 Kinlock Street,",BELL POST HILL VIC 3215,House,3,2,2,623m² ,31 Aug 2023
+"700,000 ","113 Liston Street,",BELL POST HILL VIC 3215,House,3,1,1,639m² ,31 Aug 2023
+"745,000","14/10-12 Britannia Street,",GEELONG WEST VIC 3218,House,3,2,1,323m² ,31 Aug 2023
+"795,000","14 Gotemba Road,",BELL POST HILL VIC 3215,House,4,2,4,530m² ,29 Aug 2023
+"450,000","46 St Albans Street,",ST ALBANS PARK VIC 3219,House,3,2,1,348m² ,29 Aug 2023
+"1,550,000 ","1 Sargeant Street,",GEELONG WEST VIC 3218,House,3,2,2,476m² ,2023
+"2,530,000","25 Roxby Street,",MANIFOLD HEIGHTS VIC 3218,House,4,2,4,"1,105m² ",2023
+"653,000 ","54 Sladen Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,"1,011m² ",25 Aug 2023
+"1,380,000","38 Victoria Street,",RIPPLESIDE VIC 3215,House,4,2,1,428m² ,24 Aug 2023
+"770,000 ","40 Hughes Street,",BELL PARK VIC 3215,House,4,2,4,704m² ,21 Aug 2023
+"705,000 ","15 Waiora Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,646m² ,2023
+"830,000 ","182 Aberdeen Street,",GEELONG WEST VIC 3218,House,2,1,2,619m² ,18 Aug 2023
+"838,000 ","370 Pakington Street,",NEWTOWN VIC 3220,House,3,1,2,340m² ,18 Aug 2023
+"600,000","57 Saywell Street,",NORTH GEELONG VIC 3215,House,3,1,1,677m² ,18 Aug 2023
+"910,000 ","38 Crofton Street,",GEELONG WEST VIC 3218,House,3,1,1,390m² ,17 Aug 2023
+"620,000 ","12 Peter Street,",BELL POST HILL VIC 3215,House,3,1,2,653m² ,16 Aug 2023
+"612,000 ","24 Fellmongers Road,",BREAKWATER VIC 3219,House,3,1,4,656m² ,16 Aug 2023
+"930,000 ","35 Salisbury Circuit,",FYANSFORD VIC 3218,House,4,2,2,448m² ,16 Aug 2023
+"1,020,000 ","46 Weller Street,",GEELONG WEST VIC 3218,House,3,1,2,637m² ,16 Aug 2023
+"570,000 ","77 Corinella Street,",BELL POST HILL VIC 3215,House,3,1,2,629m² ,15 Aug 2023
+"450,000","92 Ruhamah Avenue,",BELL POST HILL VIC 3215,House,2,1,2,629m² ,14 Aug 2023
+"1,295,000 ","1 Hodgson Street,",GEELONG WEST VIC 3218,House,4,2,2,664m² ,2023
+"975,000 ","17a Shannon Avenue,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,481m² ,12 Aug 2023
+"1,200,000 ","24 Pescott Street,",NEWTOWN VIC 3220,House,3,1,1,426m² ,11 Aug 2023
+"657,000 ","3 Jabone Terrace,",BELL PARK VIC 3215,House,4,2,2,611m² ,10 Aug 2023
+"770,000 ","177 Verner Street,",EAST GEELONG VIC 3219,House,2,1,1,337m² ,10 Aug 2023
+"650,000 ","65 Minerva Road,",HERNE HILL VIC 3218,House,3,1,2,455m² ,10 Aug 2023
+"760,000","195 Shannon Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,1,2,650m² ,10 Aug 2023
+"550,000 ","34 Neptune Avenue,",NEWCOMB VIC 3219,House,3,1,3,560m² ,10 Aug 2023
+"570,000 ","293 Wilsons Road,",ST ALBANS PARK VIC 3219,House,3,1,−,569m² ,10 Aug 2023
+"520,000 ","8 Hering Court,",THOMSON VIC 3219,House,2,1,3,579m² ,10 Aug 2023
+"505,000 ","112 Solar Drive,",WHITTINGTON VIC 3219,House,3,1,1,671m² ,10 Aug 2023
+"500,000","33 Elsie Street,",BELL PARK VIC 3215,House,3,1,4,617m² ,09 Aug 2023
+"1,510,000 ","48 Sydenham Avenue,",MANIFOLD HEIGHTS VIC 3218,House,4,2,2,528m² ,09 Aug 2023
+"605,000 ","4 Helms Street,",NEWCOMB VIC 3219,House,3,2,3,549m² ,09 Aug 2023
+"425,000","11 Alouette Court,",WHITTINGTON VIC 3219,House,3,1,2,647m² ,09 Aug 2023
+"861,000 ","18 Read Street,",NEWTOWN VIC 3220,House,3,1,−,550m² ,08 Aug 2023
+"600,000","90 Townsend Road,",ST ALBANS PARK VIC 3219,House,4,2,2,662m² ,08 Aug 2023
+"890,000","101 Clarkes Road,",FYANSFORD VIC 3218,House,4,2,2,448m² ,07 Aug 2023
+"1,080,000 ","2 Petrel Street,",GEELONG WEST VIC 3218,House,4,2,2,459m² ,07 Aug 2023
+"600,000 ","25 Hinchcliff Crescent,",NEWCOMB VIC 3219,House,2,1,2,664m² ,07 Aug 2023
+"616,000","73 Rollins Road,",BELL POST HILL VIC 3215,House,4,1,4,674m² ,06 Aug 2023
+"950,000 ","16 Fairmont Road,",NEWTOWN VIC 3220,House,3,1,2,709m² ,2023
+"600,000 ","14 Peter Street,",BELL POST HILL VIC 3215,House,3,1,1,687m² ,04 Aug 2023
+"725,000 ","41 Neil Street,",BELL POST HILL VIC 3215,House,3,2,2,603m² ,03 Aug 2023
+"910,000","304 Autumn Street,",HERNE HILL VIC 3218,House,3,2,1,502m² ,03 Aug 2023
+"545,000 ","9 Koala Court,",WHITTINGTON VIC 3219,House,3,2,2,302m² ,03 Aug 2023
+"600,000","28 Roma Street,",BELL PARK VIC 3215,House,3,1,3,703m² ,02 Aug 2023
+"775,000 ","12 Acacia Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,707m² ,02 Aug 2023
+"485,000 ","15 Redstone Court,",WHITTINGTON VIC 3219,House,3,1,−,599m² ,02 Aug 2023
+"639,000 ","92 Rollins Road,",BELL POST HILL VIC 3215,House,3,2,2,565m² ,01 Aug 2023
+"1,220,000","48 Wellington Street,",GEELONG WEST VIC 3218,House,4,2,−,492m² ,01 Aug 2023
+"1,245,000 ","11 Glen Avenue,",EAST GEELONG VIC 3219,House,3,1,4,819m² ,31 Jul 2023
+"1,095,000","15 Narmbool Street,",MANIFOLD HEIGHTS VIC 3218,House,3,2,3,696m² ,30 Jul 2023
+"936,000 ","13 Ballater Avenue,",NEWTOWN VIC 3220,House,4,2,2,702m² ,2023
+"560,000 ","61 Kinlock Street,",BELL POST HILL VIC 3215,House,3,1,4,619m² ,28 Jul 2023
+"1,520,000 ","1/72 Balcombe Road,",NEWTOWN VIC 3220,House,4,2,2,479m² ,27 Jul 2023
+"480,000 ","32 Townsend Road,",ST ALBANS PARK VIC 3219,House,3,1,1,784m² ,27 Jul 2023
+"590,000 ","11 Bradford Street,",ST ALBANS PARK VIC 3219,House,3,2,5,560m² ,26 Jul 2023
+"715,000 ","33 Corinella Street,",BELL POST HILL VIC 3215,House,4,1,6,628m² ,25 Jul 2023
+"1,201,000 ","5 Joyce Parade,",HERNE HILL VIC 3218,House,3,2,4,668m² ,25 Jul 2023
+"2,024,000","23 Bell Parade,",DRUMCONDRA VIC 3215,House,4,2,2,572m² ,24 Jul 2023
+"715,000 ","1 Woorayl Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,674m² ,24 Jul 2023
+"800,000","6 Belcher Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,766m² ,24 Jul 2023
+"730,000 ","15 Guthrie Avenue,",NORTH GEELONG VIC 3215,House,3,1,3,459m² ,24 Jul 2023
+"499,000 ","40 Chandos Court,",ST ALBANS PARK VIC 3219,House,3,2,1,229m² ,24 Jul 2023
+"830,000","1C Raven Street,",GEELONG WEST VIC 3218,House,3,1,5,529m² ,22 Jul 2023
+"535,500 ","61 Rollins Road,",BELL POST HILL VIC 3215,House,3,1,2,628m² ,21 Jul 2023
+"975,000","5 French Street,",GEELONG WEST VIC 3218,House,4,2,2,390m² ,21 Jul 2023
+"1,100,000 ","14 Dundas Street,",HERNE HILL VIC 3218,House,3,2,2,529m² ,21 Jul 2023
+"1,740,000 ","299 Pakington Street,",NEWTOWN VIC 3220,House,4,2,2,801m² ,21 Jul 2023
+"650,000 ","4 Viewmont Crescent,",BELL POST HILL VIC 3215,House,4,2,1,636m² ,20 Jul 2023
+"745,000 ","36 Derby Road,",HERNE HILL VIC 3218,House,3,1,2,593m² ,20 Jul 2023
+"550,000 ","8 Jobbins Street,",NORTH GEELONG VIC 3215,House,3,2,2,255m² ,20 Jul 2023
+"650,000 ","42 Giddings Street,",NORTH GEELONG VIC 3215,House,3,1,3,650m² ,20 Jul 2023
+"1,550,000 ","6 Normanby Street,",EAST GEELONG VIC 3219,House,4,2,2,657m² ,19 Jul 2023
+"1,020,000 ","188 West Fyans Street,",NEWTOWN VIC 3220,House,3,1,2,971m² ,19 Jul 2023
+"470,000 ","1 Bellarine Highway,",NEWCOMB VIC 3219,House,3,1,2,599m² ,18 Jul 2023
+"730,000","42 Trigg Street,",GEELONG WEST VIC 3218,House,3,1,2,539m² ,7 Jul 2023
+"575,000","15 McCurdy Road,",HERNE HILL VIC 3218,House,2,1,1,342m² ,17 Jul 2023
+"950,000","2 Winter Street,",EAST GEELONG VIC 3219,House,3,1,1,363m² ,15 Jul 2023
+"940,000 ","20 Lawton Avenue,",GEELONG WEST VIC 3218,House,3,1,1,405m² ,2023
+"657,000 ","38 Derby Road,",HERNE HILL VIC 3218,House,3,1,1,659m² ,2023
+"915,000 ","6 Shelley Avenue,",NEWTOWN VIC 3220,House,3,2,2,530m² ,2023
+"650,000 ","35 Hennessy Avenue,",HERNE HILL VIC 3218,House,4,1,2,608m² ,14 Jul 2023
+"1,845,000 ","171 Skene Street,",NEWTOWN VIC 3220,House,4,2,−,942m² ,2023
+"430,000","1/41 Logan Street,",HAMLYN HEIGHTS VIC 3215,House,2,1,1,358m² ,13 Jul 2023
+"615,000 ","37 Fairy Street,",BELL POST HILL VIC 3215,House,3,1,3,627m² ,12 Jul 2023
+"635,000","3 Banksia Court,",NEWCOMB VIC 3219,House,3,1,2,542m² ,12 Jul 2023
+"1,550,000 ","40 Monier Way,",FYANSFORD VIC 3218,House,5,4,2,528m² ,11 Jul 2023
+"570,000 ","26 Breadalbane Street,",NEWCOMB VIC 3219,House,3,1,2,711m² ,10 Jul 2023
+"963,000 ","54 Weller Street,",GEELONG WEST VIC 3218,House,3,2,1,329m² ,07 Jul 2023
+"775,000 ","34 Avon Street,",GEELONG WEST VIC 3218,House,3,1,2,545m² ,07 Jul 2023
+"890,000 ","8 Downie Crescent,",HAMLYN HEIGHTS VIC 3215,House,5,3,2,602m² ,07 Jul 2023
+"855,000 ","79 Shannon Avenue,",MANIFOLD HEIGHTS VIC 3218,House,4,2,2,448m² ,07 Jul 2023
+"435,000 ","169 Carr Street,",THOMSON VIC 3219,House,3,1,1,500m² ,07 Jul 2023
+"1,180,000","39-41 Woods Road,",ST ALBANS PARK VIC 3219,House,4,2,5,"2,457m² ",06 Jul 2023
+"635,000 ","11 Churchill Avenue,",NEWTOWN VIC 3220,House,3,1,−,425m² ,05 Jul 2023
+"585,000 ","56 St James Street,",ST ALBANS PARK VIC 3219,House,4,2,1,660m² ,05 Jul 2023
+"610,000 ","10 Sirius Court,",ST ALBANS PARK VIC 3219,House,3,1,1,592m² ,05 Jul 2023
+"1,250,000 ","4 Dane Avenue,",BELL POST HILL VIC 3215,House,4,2,2,864m² ,2023
+"682,000","209 Autumn Street,",GEELONG WEST VIC 3218,House,2,2,2,352m² ,04 Jul 2023
+"460,000 ","21 Bellarine Highway,",NEWCOMB VIC 3219,House,2,1,2,594m² ,04 Jul 2023
+"590,000 ","36 Anakie Road,",BELL PARK VIC 3215,House,2,1,2,645m² ,03 Jul 2023
+"575,500","76 Helms Street,",NEWCOMB VIC 3219,House,3,1,5,794m² ,03 Jul 2023
+"585,000 ","85 Wurrook Circuit,",NORTH GEELONG VIC 3215,House,4,2,1,325m² ,03 Jul 2023
+"620,000","66 Nanworen Crescent,",BELL PARK VIC 3215,House,3,1,1,556m² ,01 Jul 2023
+"715,000 ","35 Church Street,",GEELONG WEST VIC 3218,House,3,1,2,376m² ,01 Jul 2023
+"1,127,500 ","62 Monier Way,",FYANSFORD VIC 3218,House,3,2,2,576m² ,30 Jun 2023
+"720,000 ","59 Walsgott Street,",NORTH GEELONG VIC 3215,House,3,1,5,646m² ,30 Jun 2023
+"525,000 ","2 Neptune Avenue,",NEWCOMB VIC 3219,House,3,1,1,530m² ,29 Jun 2023
+"880,000 ","12 Orr Street,",MANIFOLD HEIGHTS VIC 3218,House,4,1,2,642m² ,28 Jun 2023
+"650,100 ","91 Giddings Street,",NORTH GEELONG VIC 3215,House,3,1,7,679m² ,28 Jun 2023
+"820,000 ","7 Taras Court,",ST ALBANS PARK VIC 3219,House,4,2,4,901m² ,28 Jun 2023
+"520,000 ","48 Wilsons Road,",NEWCOMB VIC 3219,House,3,1,7,673m² ,27 Jun 2023
+"675,000","2/42 Glenfine Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,2,2,201m² ,26 Jun 2023
+"690,000","19 Fyans Street,",SOUTH GEELONG VIC 3220,House,3,1,3,450m² ,26 Jun 2023
+"560,000 ","13 Raymond Court,",ST ALBANS PARK VIC 3219,House,3,1,2,754m² ,26 Jun 2023
+"485,000 ","42 Chandos Court,",ST ALBANS PARK VIC 3219,House,3,2,1,230m² ,26 Jun 2023
+"620,000 ","3 Yale Court,",WHITTINGTON VIC 3219,House,3,2,3,767m² ,26 Jun 2023
+"1,316,000 ","24 Airey Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,1,2,697m² ,2023
+"610,000 ","28 Yaraan Street,",BELL PARK VIC 3215,House,4,2,−,618m² ,23 Jun 2023
+"740,000","43 French Street,",GEELONG WEST VIC 3218,House,3,1,1,390m² ,3 Jun 2023
+"567,000 ","5 Fairlie Street,",HAMLYN HEIGHTS VIC 3215,House,2,1,2,280m² ,23 Jun 2023
+"800,000 ","5 Elizabeth Street,",ST ALBANS PARK VIC 3219,House,3,1,6,"1,025m² ",22 Jun 2023
+"1,255,000","88 Littlewood Drive,",FYANSFORD VIC 3218,House,5,3,2,512m² ,21 Jun 2023
+"655,000 ","53 Maitland Street,",GEELONG WEST VIC 3218,House,4,1,−,320m² ,21 Jun 2023
+"625,000 ","17 Langibanool Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,672m² ,1 Jun 2023
+"500,000 ","3 Willana Avenue,",HAMLYN HEIGHTS VIC 3215,House,2,1,1,650m² ,21 Jun 2023
+"566,000","20 Enfield Drive,",ST ALBANS PARK VIC 3219,House,3,1,2,562m² ,21 Jun 2023
+"640,000 ","76 Vines Road,",HAMLYN HEIGHTS VIC 3215,House,4,1,1,689m² ,0 Jun 2023
+"535,000 ","29 Edols Street,",NORTH GEELONG VIC 3215,House,2,1,1,597m² ,19 Jun 2023
+"1,395,000 ","33 Waratah Street,",GEELONG WEST VIC 3218,House,3,2,2,335m² ,2023
+"600,000","53 Braund Avenue,",BELL POST HILL VIC 3215,House,3,1,2,634m² ,16 Jun 2023
+"1,255,000 ","335 Myers Street,",EAST GEELONG VIC 3219,House,3,1,3,475m² ,16 Jun 2023
+"530,000 ","27 Roseview Way,",ST ALBANS PARK VIC 3219,House,3,2,1,294m² ,16 Jun 2023
+"445,000","8 Winstanley Road,",THOMSON VIC 3219,House,3,1,1,563m² ,16 Jun 2023
+"575,000 ","36 Maple Crescent,",BELL PARK VIC 3215,House,4,1,1,651m² ,15 Jun 2023
+"530,000","10 Wilton Avenue,",NEWCOMB VIC 3219,House,3,1,2,655m² ,14 Jun 2023
+"575,000","1C Nelson Avenue,",NEWCOMB VIC 3219,House,3,1,4,822m² ,14 Jun 2023
+"1,000,000 ","8 Gotemba Road,",BELL POST HILL VIC 3215,House,4,2,4,648m² ,13 Jun 2023
+"1,400,000 ","76 Aberdeen Street,",GEELONG WEST VIC 3218,House,4,2,3,819m² ,13 Jun 2023
+"815,000 ","8 Doreimus Court,",ST ALBANS PARK VIC 3219,House,3,2,3,680m² ,12 Jun 2023
+"852,000","34 Lascelles Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,2,6,738m² ,11 Jun 2023
+"785,000 ","43 Balliang Street,",SOUTH GEELONG VIC 3220,House,3,1,1,335m² ,2023
+"780,000","13 Ensby Street,",EAST GEELONG VIC 3219,House,3,1,2,620m² ,10 Jun 2023
+"970,000 ","63 French Street,",GEELONG WEST VIC 3218,House,4,2,−,390m² ,09 Jun 2023
+"1,360,000","4 Wimmera Avenue,",MANIFOLD HEIGHTS VIC 3218,House,4,3,3,664m² ,09 Jun 2023
+"725,000","252 Shannon Avenue,",GEELONG WEST VIC 3218,House,2,2,−,261m² ,08 Jun 2023
+"1,600,000 ","84A Albert Street,",GEELONG WEST VIC 3218,House,4,2,2,405m² ,08 Jun 2023
+"715,000 ","40 Bellarine Highway,",NEWCOMB VIC 3219,House,3,1,3,668m² ,08 Jun 2023
+"816,000 ","11-13 Walker Street,",RIPPLESIDE VIC 3215,House,3,1,3,486m² ,07 Jun 2023
+"765,000","32 Katoomba Court,",HAMLYN HEIGHTS VIC 3215,House,3,2,2,613m² ,06 Jun 2023
+"550,000 ","94 Anakie Road,",BELL PARK VIC 3215,House,3,1,2,697m² ,2023
+"1,595,000 ","39 Britannia Street,",GEELONG WEST VIC 3218,House,4,2,2,541m² ,2023
+"730,000 ","26 Roseview Way,",ST ALBANS PARK VIC 3219,House,5,2,2,703m² ,2023
+"630,000 ","15 MacArthur Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,582m² ,01 Jun 2023
+"1,000,000 ","2-4 Clova Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,2,3,791m² ,31 May 2023
+"505,000 ","5 Venus Court,",NEWCOMB VIC 3219,House,3,1,1,548m² ,31 May 2023
+"1,400,000 ","8 Cook Street,",NEWTOWN VIC 3220,House,4,2,2,616m² ,1 May 2023
+"1,095,000 ","22 Breakwater Road,",THOMSON VIC 3219,House,4,2,4,723m² ,31 May 2023
+"470,000 ","35A Tanner Street,",BREAKWATER VIC 3219,House,2,1,2,262m² ,30 May 2023
+"730,000 ","131B Weller Street,",GEELONG WEST VIC 3218,House,3,1,1,380m² ,30 May 2023
+"600,000 ","1 Glover Street,",NEWCOMB VIC 3219,House,3,1,2,648m² ,2023
+"600,000 ","10B Deakin Street,",BELL PARK VIC 3215,House,3,2,2,339m² ,27 May 2023
+"610,000 ","13 Ernest Street,",BELL POST HILL VIC 3215,House,4,1,4,647m² ,27 May 2023
+"837,000 ","27 Orchard Street,",EAST GEELONG VIC 3219,House,3,1,−,346m² ,2023
+"1,080,000 ","353 Myers Street,",EAST GEELONG VIC 3219,House,2,1,3,536m² ,27 May 2023
+"940,000 ","100 Hope Street,",GEELONG WEST VIC 3218,House,2,1,1,370m² ,2023
+"1,325,000 ","36 Roxby Street,",MANIFOLD HEIGHTS VIC 3218,House,4,2,1,489m² ,2023
+"1,187,500","54 Lascelles Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,2,1,464m² ,27 May 2023
+"822,500 ","28 Harold Mews,",FYANSFORD VIC 3218,House,4,2,2,410m² ,26 May 2023
+"867,000","37 Douglass Street,",HERNE HILL VIC 3218,House,3,1,2,578m² ,26 May 2023
+"540,000 ","2 Jobbins Street,",NORTH GEELONG VIC 3215,House,3,2,1,300m² ,26 May 2023
+"1,230,000 ","2 Paterson Street,",EAST GEELONG VIC 3219,House,4,2,1,553m² ,25 May 2023
+"560,000 ","15 Turkeith Avenue,",HERNE HILL VIC 3218,House,3,1,4,580m² ,2023
+"627,500 ","66 Mccurdy Road,",HERNE HILL VIC 3218,House,3,1,1,382m² ,25 May 2023
+"627,500 ","66 Mccurdy Road,",HERNE HILL VIC 3218,House,3,1,1,382m² ,25 May 2023
+"517,000","31 Andrew Street,",NEWCOMB VIC 3219,House,3,1,2,648m² ,25 May 2023
+"572,000 ","47 Winstanley Road,",THOMSON VIC 3219,House,3,1,1,571m² ,25 May 2023
+"855,000","110 Britannia Street,",GEELONG WEST VIC 3218,House,3,1,3,529m² ,24 May 2023
+"540,000 ","13 Pinder Court,",ST ALBANS PARK VIC 3219,House,3,1,1,629m² ,24 May 2023
+"705,000 ","122 Elizabeth Street,",GEELONG WEST VIC 3218,House,2,1,1,464m² ,23 May 2023
+"705,000 ","122 Elizabeth Street,",GEELONG WEST VIC 3218,House,2,1,1,464m² ,23 May 2023
+"860,000 ","257 Autumn Street,",MANIFOLD HEIGHTS VIC 3218,House,3,1,4,612m² ,22 May 2023
+"600,000","1 Wilton Avenue,",NEWCOMB VIC 3219,House,2,1,2,655m² ,22 May 2023
+"1,240,000 ","28 Minerva Road,",MANIFOLD HEIGHTS VIC 3218,House,4,2,2,589m² ,0 May 2023
+"835,000 ","39 Meakin Street,",EAST GEELONG VIC 3219,House,3,2,4,516m² ,19 May 2023
+"725,000 ","31 Ivy Street,",NEWCOMB VIC 3219,House,3,1,1,562m² ,19 May 2023
+"600,000 ","28 Kinlock Street,",BELL POST HILL VIC 3215,House,3,1,2,617m² ,18 May 2023
+"720,000 ","25 Newhaven Avenue,",ST ALBANS PARK VIC 3219,House,4,2,2,623m² ,18 May 2023
+"560,000","28 Westmoreland Street,",ST ALBANS PARK VIC 3219,House,3,1,4,590m² ,18 May 2023
+"535,000 ","36 Braund Av,",BELL POST HILL VIC 3215,House,3,1,2,625m² ,17 May 2023
+"790,000","37 Salisbury Circuit,",FYANSFORD VIC 3218,House,4,2,1,367m² ,17 May 2023
+"616,000 ","17 Fagg Street,",THOMSON VIC 3219,House,4,2,2,702m² ,17 May 2023
+"665,000 ","54 Jedda Street,",BELL POST HILL VIC 3215,House,4,2,1,599m² ,15 May 2023
+"465,000","4 Brayshay Road,",NEWCOMB VIC 3219,House,3,1,1,664m² ,15 May 2023
+"1,295,000 ","376 Pakington Street,",NEWTOWN VIC 3220,House,2,1,−,598m² ,2023
+"580,000 ","37 Regent Street,",WHITTINGTON VIC 3219,House,3,1,2,549m² ,15 May 2023
+"2,105,000 ","23 Lunan Avenue,",DRUMCONDRA VIC 3215,House,3,2,2,611m² ,13 May 2023
+"750,000 ","9 Crofton Street,",GEELONG WEST VIC 3218,House,3,1,2,409m² ,2023
+"1,725,000 ","87 Albert Street,",GEELONG WEST VIC 3218,House,3,2,2,445m² ,2023
+"575,000 ","12 Western Street,",GEELONG WEST VIC 3218,House,3,1,−,279m² ,2023
+"1,380,000","20 Wimmera Avenue,",MANIFOLD HEIGHTS VIC 3218,House,4,2,3,663m² ,2023
+"738,000","15 Saywell Street,",NORTH GEELONG VIC 3215,House,3,1,1,580m² ,13 May 2023
+"900,000","3 Normanby Street,",EAST GEELONG VIC 3219,House,3,1,1,458m² ,12 May 2023
+"1,507,000 ","9 Grant Street,",NEWTOWN VIC 3220,House,4,2,3,720m² ,11 May 2023
+"660,000","6 Ernest Street,",BELL POST HILL VIC 3215,House,3,1,4,646m² ,10 May 2023
+"710,000","93 Elizabeth Street,",GEELONG WEST VIC 3218,House,3,1,2,420m² ,10 May 2023
+"931,100 ","53 Sandringham Parade,",NEWTOWN VIC 3220,House,3,2,4,718m² ,10 May 2023
+"500,000 ","42 Regent Street,",WHITTINGTON VIC 3219,House,3,1,1,684m² ,10 May 2023
+"575,000","66 Rollins Road,",BELL POST HILL VIC 3215,House,4,2,2,648m² ,09 May 2023
+"1,085,000 ","8 Knight Avenue,",HERNE HILL VIC 3218,House,3,2,2,714m² ,9 May 2023
+"1,925,000 ","3 Mayfair Drive,",NEWTOWN VIC 3220,House,6,3,2,990m² ,09 May 2023
+"620,000 ","69 Edison Road,",BELL POST HILL VIC 3215,House,3,1,2,539m² ,08 May 2023
+"1,675,000 ","18 Roxby Street,",MANIFOLD HEIGHTS VIC 3218,House,4,3,3,790m² ,2023
+"1,220,000 ","85 Nicholas Street,",NEWTOWN VIC 3220,House,4,1,2,680m² ,06 May 2023
+"520,000","46 Anakie Road,",BELL PARK VIC 3215,House,3,1,3,650m² ,05 May 2023
+"655,000 ","24 Gladstone Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,6,691m² ,05 May 2023
+"620,000 ","2 Norwood Street,",HERNE HILL VIC 3218,House,4,1,4,625m² ,04 May 2023
+"540,000 ","7 Jobbins Street,",NORTH GEELONG VIC 3215,House,3,2,1,300m² ,04 May 2023
+"845,000 ","5 Tantalla Court,",ST ALBANS PARK VIC 3219,House,4,2,5,"1,036m² ",04 May 2023
+"800,000 ","39 Loch Street,",EAST GEELONG VIC 3219,House,2,1,2,409m² ,03 May 2023
+"350,000 ","15 Redstone Court,",WHITTINGTON VIC 3219,House,3,1,−,603m² ,03 May 2023
+"795,000 ","13 Hammersley Road,",BELL PARK VIC 3215,House,4,3,2,558m² ,02 May 2023
+"700,000","74 Waratah Street,",GEELONG WEST VIC 3218,House,3,1,1,332m² ,2023
+"780,000 ","13 Weeroona Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,727m² ,02 May 2023
+"905,000 ","47 Nanworen Crescent,",BELL PARK VIC 3215,House,5,3,2,450m² ,28 Apr 2023
+"1,350,000","518 Ryrie Street,",EAST GEELONG VIC 3219,House,4,2,9,780m² ,28 Apr 2023
+"845,000 ","10 Teak Street,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,650m² ,28 Apr 2023
+"590,000 ","31 Itkeston Street,",HERNE HILL VIC 3218,House,4,1,1,512m² ,28 Apr 2023
+"1,150,000 ","398A Autumn Street,",HERNE HILL VIC 3218,House,4,2,2,813m² ,28 Apr 2023
+"623,500","10 Kalimna Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,653m² ,26 Apr 2023
+"565,000","4 Bradford Street,",ST ALBANS PARK VIC 3219,House,3,2,4,600m² ,26 Apr 2023
+"699,000 ","3 Koala Court,",WHITTINGTON VIC 3219,House,4,2,2,696m² ,26 Apr 2023
+"540,000 ","9 Townsend Road,",WHITTINGTON VIC 3219,House,3,1,2,608m² ,26 Apr 2023
+"740,000 ","22 Knight Avenue,",HERNE HILL VIC 3218,House,2,1,1,676m² ,2023
+"1,050,000 ","311 Autumn Street,",NEWTOWN VIC 3220,House,3,2,1,608m² ,2023
+"500,000 ","125 St Albans Road,",THOMSON VIC 3219,House,3,1,−,661m² ,22 Apr 2023
+"780,000 ","6 Viola Close,",BELL PARK VIC 3215,House,4,2,2,676m² ,21 Apr 2023
+"795,000 ","37 Trigg Street,",GEELONG WEST VIC 3218,House,3,1,2,563m² ,21 Apr 2023
+"685,000 ","29 Sladen Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,2,635m² ,21 Apr 2023
+"1,350,000 ","24 Drysdale Avenue,",HAMLYN HEIGHTS VIC 3215,House,4,2,2,623m² ,21 Apr 2023
+"575,000 ","4 Diosma Court,",NEWCOMB VIC 3219,House,3,1,1,598m² ,21 Apr 2023
+"590,000 ","58 Ruhamah Avenue,",BELL POST HILL VIC 3215,House,3,1,2,621m² ,20 Apr 2023
+"795,000 ","54 Drysdale Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,674m² ,2023
+"910,000 ","15 Wellington Street,",GEELONG WEST VIC 3218,House,3,1,−,518m² ,19 Apr 2023
+"650,000 ","15 Edgecombe Street,",HAMLYN HEIGHTS VIC 3215,House,3,1,3,664m² ,18 Apr 2023
+"510,000","33 Vistula Avenue,",BELL PARK VIC 3215,House,3,1,5,604m² ,17 Apr 2023
+"605,000 ","23 Westmoreland Street,",ST ALBANS PARK VIC 3219,House,3,1,2,768m² ,17 Apr 2023
+"480,000 ","7 Vostok Court,",WHITTINGTON VIC 3219,House,3,1,3,574m² ,17 Apr 2023
+"961,000 ","21 Isabella Street,",GEELONG WEST VIC 3218,House,3,1,−,944m² ,2023
+"675,000 ","2 Waiora Avenue,",HAMLYN HEIGHTS VIC 3215,House,3,1,1,955m² ,2023
+"1,200,000","9 Jennings Court,",FYANSFORD VIC 3218,House,4,2,2,769m² ,14 Apr 2023
+"640,000 ","98 Kansas Avenue,",BELL POST HILL VIC 3215,House,4,2,2,539m² ,12 Apr 2023
+"450,000 ","105 Townsend Road,",WHITTINGTON VIC 3219,House,3,1,1,557m² ,12 Apr 2023
+"592,500","40 Pitman Street,",NEWCOMB VIC 3219,House,3,1,2,813m² ,11 Apr 2023
+"880,000","12 Jennings Court,",FYANSFORD VIC 3218,House,4,3,2,471m² ,06 Apr 2023
+"675,000 ","26 Parkland Drive,",HAMLYN HEIGHTS VIC 3215,House,2,1,2,360m² ,06 Apr 2023
+"710,000 ","10 Charlotte Avenue,",NEWCOMB VIC 3219,House,4,2,3,669m² ,06 Apr 2023
+"721,000 ","12 Jersey Road,",BELL POST HILL VIC 3215,House,4,2,5,826m² ,05 Apr 2023
+"430,000","19 Wilsons Road,",NEWCOMB VIC 3219,House,4,2,2,628m² ,05 Apr 2023
+"690,000","8 Walsgott Street,",NORTH GEELONG VIC 3215,House,3,1,3,678m² ,05 Apr 2023
+"2,305,000 ","39 Nantes Street,",NEWTOWN VIC 3220,House,4,3,2,"1,108m² ",2023
+"740,000","85 Waratah Street,",GEELONG WEST VIC 3218,House,3,1,−,598m² ,03 Apr 2023
+"485,000 ","2A Fagg Street,",THOMSON VIC 3219,House,2,1,1,255m² ,03 Apr 2023
+"1,700,000 ","109 Albert Street,",GEELONG WEST VIC 3218,House,4,2,2,521m² ,1 Mar 2023
+"645,000 ","1/81 Weller Street,",GEELONG WEST VIC 3218,House,2,1,2,198m² ,31 Mar 2023
+"1,150,000 ","11 Airey Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,2,2,246m² ,31 Mar 2023
+"695,000 ","65 Giddings Street,",NORTH GEELONG VIC 3215,House,3,1,4,650m² ,31 Mar 2023
+"580,000 ","41 Milton Street,",BELL PARK VIC 3215,House,3,1,1,727m² ,30 Mar 2023
+"1,250,000","8 Casey Boulevard,",FYANSFORD VIC 3218,House,4,2,2,512m² ,30 Mar 2023
+"485,000 ","9 Schmitt Court,",WHITTINGTON VIC 3219,House,3,1,2,713m² ,30 Mar 2023
+"770,000 ","286 Myers Street,",EAST GEELONG VIC 3219,House,3,2,2,393m² ,29 Mar 2023
+"945,000 ","29 Toyne Avenue,",HAMLYN HEIGHTS VIC 3215,House,4,2,5,"1,012m² ",29 Mar 2023
+"1,460,000 ","128 Aphrasia Street,",NEWTOWN VIC 3220,House,4,3,3,688m² ,29 Mar 2023
+"565,000 ","11 Hickey Street,",WHITTINGTON VIC 3219,House,3,1,1,679m² ,29 Mar 2023
+"565,000 ","11 Hickey Street,",WHITTINGTON VIC 3219,House,3,1,1,679m² ,29 Mar 2023
+"1,560,000 ","7 Connor Street,",EAST GEELONG VIC 3219,House,4,2,2,432m² ,2023
+"723,000 ","9 McDonald Street,",EAST GEELONG VIC 3219,House,2,1,2,425m² ,2023
+"850,000 ","177 Shannon Avenue,",MANIFOLD HEIGHTS VIC 3218,House,3,2,1,501m² ,26 Mar 2023
+"1,060,000 ","27 Collins Street,",GEELONG WEST VIC 3218,House,3,2,2,515m² ,2023
+"635,000 ","112 Wilsons Road,",NEWCOMB VIC 3219,House,4,1,2,669m² ,25 Mar 2023
+"2,535,000 ","19 Layton Crescent,",NEWTOWN VIC 3220,House,4,2,3,973m² ,2023
+"1,000,000 ","5 St David Street,",RIPPLESIDE VIC 3215,House,3,1,2,613m² ,2023
+"800,000","1/112 Gertrude Street,",GEELONG WEST VIC 3218,House,3,1,2,326m² ,23 Mar 2023

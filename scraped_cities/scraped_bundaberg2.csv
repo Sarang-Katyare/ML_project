@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"285,000 ","77 Edenbrook Estate,",BUNDABERG QLD 4670,Vacant land,0,0,0,804m² ,13 Nov 2023
+"195,000 ","6/46 George Street,",BUNDABERG QLD 4670,Townhouse,2,1,1,97m² ,06 Jun 2014
+"135,000 ","Lot 12 Keiran Place,",BUNDABERG QLD 4670,Vacant land,0,0,0,882m² ,27 May 2014
+"162,500","12 Belle Eden Drive,",BUNDABERG QLD 4670,Vacant land,0,0,0,840m² ,28 Mar 2014
+"158,000","1 Treviso Street,",BUNDABERG QLD 4670,Vacant land,0,0,0,"4,004m² ",13 Oct 2012
+"60,000","162a Mount Perry Road,",BUNDABERG QLD 4670,Vacant land,0,0,0,630m² ,12 Jun 2012
+"350,000 ","32 Royal BVD,",BUNDABERG QLD 4670,Vacant land,0,0,0,"3,705m² ",24 Jan 2012
+"120,000 ","Lot 2 Palm Beach Rd,",BUNDABERG QLD 4670,Vacant land,0,0,0,"4,334m² ",15 Sep 2011
+"210,000 ","19 Fern Tree Dr,",BUNDABERG QLD 4670,Vacant land,0,0,0,"4,335m² ",11 May 2011
+"125,000 ","19 Finemore Crescent,",BUNDABERG QLD 4670,Vacant land,0,0,0,"2,296m² ",23 Oct 2009
+"520,000 ","1/17 Warrell Street,",BUNDABERG QLD 4670,Apartment / Unit / Flat,8,4,4,905m² ,
+"250,000 ","Lot 2 Coonarr Road,",KINKUNA QLD 4670,Vacant land,0,0,0,"21,286m² ",24 Apr 2024
+"225,000 ","5 Ochre Court,",BRANYAN QLD 4670,Vacant land,0,0,0,931m² ,23 Apr 2024
+"1,220,000 ","104/36-38 Miller Street,",BARGARA QLD 4670,Apartment / Unit / Flat,3,2,2,164m² ,22 Apr 2024
+"250,000 ","Lot 4 Coonarr Road,",KINKUNA QLD 4670,Vacant land,0,0,0,"23,755m² ",19 Apr 2024
+"401,000 ","Lot 17 Kellys Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,713m² ,17 Apr 2024
+"410,000 ","Lot 16 Kellys Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,815m² ,09 Apr 2024
+"800,000 ","Lot 1 Kellys Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,"2,004m² ",05 Apr 2024
+"465,000 ","Lot 12 Kellys Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,600m² ,03 Apr 2024
+"300,000 ","16 Wisteria Street,",BARGARA QLD 4670,Vacant land,0,0,0,730m² ,03 Apr 2024
+"295,000 ","21 North West Avenue,",INNES PARK QLD 4670,Vacant land,0,0,0,822m² ,03 Apr 2024
+"400,000 ","35 Deering Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,632m² ",03 Apr 2024
+"372,500 ","8 Fairfax Court,",INNES PARK QLD 4670,Vacant land,0,0,0,705m² ,01 Apr 2024
+"331,500 ","2 Bluefin Court,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,27 Mar 2024
+"460,000 ","1/20 Bauer Street,",BARGARA QLD 4670,Apartment / Unit / Flat,3,2,2,188m² ,25 Mar 2024
+"335,000 ","17 Sea Pearl Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,803m² ,21 Mar 2024
+"130,000","131 Hill End Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,"1,953m² ",18 Mar 2024
+"450,000","11/6 Miller Street,",NORVILLE QLD 4670,Apartment / Unit / Flat,2,2,1,231m² ,15 Mar 2024
+"485,000 ","10 Sovereign Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,035m² ",13 Mar 2024
+"650,000 ","121 Sea Esplanade,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,059m² ",11 Mar 2024
+"295,000 ","5 Chase Close,",BARGARA QLD 4670,Vacant land,0,0,0,840m² ,08 Mar 2024
+"365,000 ","Lot 26 Sea Pearl Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,"1,113m² ",08 Mar 2024
+"190,000 ","8 Ebbesen Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,742m² ,06 Mar 2024
+"475,000 ","161 Barolin Esplanade,",CORAL COVE QLD 4670,New land,0,0,0,"1,001m² ",06 Mar 2024
+"255,000","3 Egret Lane,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,057m² ",02 Mar 2024
+"185,000 ","6 Buzza Street,",WALKERVALE QLD 4670,Vacant land,0,0,0,986m² ,01 Mar 2024
+"410,000 ","9/8 Mcilwraith Street,",BUNDABERG SOUTH QLD 4670,Townhouse,3,1,1,137m² ,28 Feb 2024
+"305,000 ","58 Chantilly Street,",BARGARA QLD 4670,Vacant land,0,0,0,871m² ,27 Feb 2024
+"229,000 ","15 Ridge Road,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,26 Feb 2024
+"295,000 ","Lot 118/76 Chantilly Street,",BARGARA QLD 4670,Vacant land,0,0,0,921m² ,23 Feb 2024
+"235,000 ","19 Ridge Road,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,20 Feb 2024
+"560,000","Lot 3 Back Springfield Road,",WOONGARRA QLD 4670,Vacant land,0,0,0,0,19 Feb 2024
+"1,000,000 ","71 Chantelle Circuit,",CORAL COVE QLD 4670,Vacant land,0,0,0,"12,800m² ",16 Feb 2024
+"550,000","101 Barolin Esplanade,",CORAL COVE QLD 4670,Vacant land,0,0,0,810m² ,16 Feb 2024
+"380,000","3/6 Theodore Street,",SVENSSON HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,116m² ,16 Feb 2024
+"329,000 ","Lot 15 Tantitha Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,000m² ",14 Feb 2024
+"160,000 ","3 Adams Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",12 Feb 2024
+"250,000 ","18 Empress Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,332m² ",12 Feb 2024
+"2,000,000 ","266 Gooburrum Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,0,08 Feb 2024
+"400,000","4/26 Dunn Road,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,3,2,1,146m² ,06 Feb 2024
+"215,000 ","12 Wren Place (Lot 90),",BRANYAN QLD 4670,Vacant land,0,0,0,958m² ,02 Feb 2024
+"292,000 ","82 Kinch Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,484m² ",01 Feb 2024
+"285,000 ","113 Targo Street,",BUNDABERG SOUTH QLD 4670,Vacant land,0,0,0,969m² ,29 Jan 2024
+"508,000 ","8 & 9/25-27 Verdant Siding Road,",THABEBAN QLD 4670,Vacant land,0,0,0,"3,078m² ",29 Jan 2024
+"575,000 ","5/3 Miller Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,151m² ,28 Jan 2024
+"400,000","3 Bluewater Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,879m² ,25 Jan 2024
+"310,000 ","139 Hudson Court,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,038m² ",18 Jan 2024
+"299,000","12/14 Stedman Street,",NORVILLE QLD 4670,Apartment / Unit / Flat,2,1,1,112m² ,17 Jan 2024
+"330,000","16 Fraser Ave,",INNES PARK QLD 4670,Vacant land,0,0,0,876m² ,16 Jan 2024
+"225,000 ","Lot 53 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,803m² ,15 Jan 2024
+"225,000 ","Lot 54 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,803m² ,15 Jan 2024
+"290,000 ","27 Egret Lane,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"2,366m² ",09 Jan 2024
+"265,000 ","9 Branvale Estate,",BRANYAN QLD 4670,Vacant land,0,0,0,"1,012m² ",08 Jan 2024
+"470,000 ","Lot 162 Ruths Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,0,08 Jan 2024
+"386,000","58 Pleasant Drive,",SHARON QLD 4670,Vacant land,0,0,0,"7,753m² ",07 Jan 2024
+"193,000 ","268 Ashfield Road,",ASHFIELD QLD 4670,Vacant land,0,0,0,"1,239m² ",23 Dec 2023
+"400,000 ","21/2 Sylvan Drive,",MOORE PARK BEACH QLD 4670,Townhouse,2,2,1,153m² ,22 Dec 2023
+"330,000","19 Hibiscus Avenue,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,630m² ,22 Dec 2023
+"175,000 ","12 Blackall Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",21 Dec 2023
+"290,000 ","Lot 96 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,836m² ,18 Dec 2023
+"280,000 ","Lot 97 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,829m² ,18 Dec 2023
+"350,000 ","4/14 Stedman Street,",NORVILLE QLD 4670,Apartment / Unit / Flat,2,1,1,111m² ,18 Dec 2023
+"4,917,647 ","88 Hughes Road,",BARGARA QLD 4670,Vacant land,0,0,0,655m² ,15 Dec 2023
+"225,000 ","Lot 81 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,15 Dec 2023
+"350,000 ","1/2 Langbeckers Road,",THABEBAN QLD 4670,Vacant land,0,0,0,"8,093m² ",15 Dec 2023
+"120,000 ","21 Kennedy Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",11 Dec 2023
+"269,000 ","8 Branvale Estate,",BRANYAN QLD 4670,Vacant land,0,0,0,"1,012m² ",11 Dec 2023
+"229,000 ","Proposed Lot 86 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,11 Dec 2023
+"465,000","1/9 Bellevue Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,3,2,2,330m² ,11 Dec 2023
+"315,000 ","Lot 221 Bargara Headlands Estate,",INNES PARK QLD 4670,Vacant land,0,0,0,810m² ,08 Dec 2023
+"280,000 ","1/38 Jefferis Street,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,2,1,1,404m² ,07 Dec 2023
+"298,000 ","Lot 17/84 Kinch Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,475m² ",06 Dec 2023
+"455,000 ","2/3 Miller Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,108m² ,05 Dec 2023
+"215,000 ","Lot 25 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,822m² ,05 Dec 2023
+"285,000 ","Lot 115/82 Chantilly Street,",BARGARA QLD 4670,Vacant land,0,0,0,881m² ,04 Dec 2023
+"265,000 ","16 Alexander Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,768m² ,04 Dec 2023
+"265,000 ","89 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,741m² ,04 Dec 2023
+"271,500 ","2/50 Goodwin Street...,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,91m² ,01 Dec 2023
+"200,000 ","Lot 1 Gin Gin Road,",SHARON QLD 4670,Vacant land,0,0,0,"4,047m² ",01 Dec 2023
+"801,000 ","1 & 2/51 Telegraph Road,",BUNDABERG EAST QLD 4670,Apartment / Unit / Flat,6,3,3,874m² ,30 Nov 2023
+"262,000","3/2 Bells Road,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,100m² ,29 Nov 2023
+"250,000 ","4 Bowden Street,",QUNABA QLD 4670,Vacant land,0,0,0,"1,166m² ",28 Nov 2023
+"280,000 ","88 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,820m² ,27 Nov 2023
+"192,500 ","8 Laurel Street,",GOOBURRUM QLD 4670,Vacant land,0,0,0,905m² ,24 Nov 2023
+"270,000 ","11 Pelican Drive,",BARGARA QLD 4670,Vacant land,0,0,0,845m² ,20 Nov 2023
+"320,000 ","2/58 Maryborough Street,",BUNDABERG SOUTH QLD 4670,Townhouse,3,2,2,121m² ,20 Nov 2023
+"365,000 ","6 Fairfax Court,",INNES PARK QLD 4670,Vacant land,0,0,0,672m² ,20 Nov 2023
+"430,000 ","42 Orchid Drive,",MOORE PARK BEACH QLD 4670,Apartment / Unit / Flat,4,2,2,606m² ,20 Nov 2023
+"265,000 ","93 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,776m² ,20 Nov 2023
+"265,000 ","92/Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,759m² ,20 Nov 2023
+"315,000 ","127 Shelley Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,138m² ",17 Nov 2023
+"250,000 ","1/12 McLucas Street,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,1,1,211m² ,17 Nov 2023
+"265,000 ","90 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,776m² ,17 Nov 2023
+"490,000","1/3 Balaam Drive,",KALKIE QLD 4670,Apartment / Unit / Flat,3,2,2,181m² ,16 Nov 2023
+"390,000 ","Lot 1 Stengords Road,",BUCCA QLD 4670,Vacant land,0,0,0,0,15 Nov 2023
+"308,000 ","56 Sheppard Avenue,",BUCCA QLD 4670,Vacant land,0,0,0,0,13 Nov 2023
+"250,000 ","8 Ripple Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",13 Nov 2023
+"270,000 ","84 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,770m² ,13 Nov 2023
+"275,000 ","82 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,786m² ,13 Nov 2023
+"280,000 ","111 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,820m² ,13 Nov 2023
+"265,000 ","85 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,770m² ,13 Nov 2023
+"285,000 ","80 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,801m² ,13 Nov 2023
+"265,000 ","86 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,770m² ,13 Nov 2023
+"270,000 ","83 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,773m² ,13 Nov 2023
+"265,000 ","87 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,770m² ,13 Nov 2023
+"265,000 ","94 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,741m² ,13 Nov 2023
+"285,000 ","81 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,817m² ,13 Nov 2023
+"275,000 ","Lot 95 Stage 2 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,795m² ,13 Nov 2023
+"265,000 ","91 Edenbrook Estate,",NORVILLE QLD 4670,Vacant land,0,0,0,759m² ,13 Nov 2023
+"230,000 ","56 Kinch Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,214m² ",10 Nov 2023
+"220,000 ","4A Hilltop Avenue,",QUNABA QLD 4670,Vacant land,0,0,0,999m² ,10 Nov 2023
+"335,000 ","5 & 6/31 Payne Street,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,2,1,117m² ,08 Nov 2023
+"790,000 ","56 Melcer Road,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,0,07 Nov 2023
+"360,000 ","Lot 8 Sea Pearl Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,919m² ,02 Nov 2023
+"185,000 ","Lot 6 Barrs Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,0,02 Nov 2023
+"242,500 ","4/2 Adams Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,88m² ,01 Nov 2023
+"875,000 ","12 Selmar Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,000m² ",01 Nov 2023
+"720,000 ","152 Woongarra Scenic Drive,",BARGARA QLD 4670,Vacant land,0,0,0,920m² ,31 Oct 2023
+"360,000 ","Proposed Lot 11 Sea Pearl Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,"1,086m² ",31 Oct 2023
+"190,000 ","Lot 4 Barrs Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,0,31 Oct 2023
+"172,500 ","Lot 5 Barrs Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,0,31 Oct 2023
+"702,000 ","3/27 Holland Street,",BARGARA QLD 4670,Apartment / Unit / Flat,3,2,2,183m² ,30 Oct 2023
+"620,000 ","2/27 Holland Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,134m² ,30 Oct 2023
+"340,000 ","8/28 Curtis Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,110m² ,30 Oct 2023
+"330,000 ","18/12 Morshead Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,125m² ,27 Oct 2023
+"694,546 ","16 Wren Place,",BRANYAN QLD 4670,New land,0,0,0,819m² ,27 Oct 2023
+"180,000 ","Lot 2 Barrs Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,0,27 Oct 2023
+"370,000 ","8/20a Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,108m² ,26 Oct 2023
+"225,000 ","Lot 83 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,817m² ,24 Oct 2023
+"199,000 ","Proposed Lot 52 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,841m² ,23 Oct 2023
+"210,000 ","Lot 82 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,23 Oct 2023
+"197,000 ","Proposed Lot 84 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,23 Oct 2023
+"225,000","5 Bayview Terrace,",QUNABA QLD 4670,Vacant land,0,0,0,"1,006m² ",20 Oct 2023
+"240,000 ","Lot 5 / 11 McVeigh Street,",KEPNOCK QLD 4670,Vacant land,0,0,0,803m² ,19 Oct 2023
+"595,000 ","10 McMannie Street,",BUNDABERG SOUTH QLD 4670,Block of units,6,3,3,503m² ,18 Oct 2023
+"820,000 ","1-4/40 Goodwin Street,",BUNDABERG SOUTH QLD 4670,Block of units,8,4,4,"1,012m² ",17 Oct 2023
+"750,000 ","86 Quay Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,8,4,−,"1,012m² ",17 Oct 2023
+"328,000","1/15 Cox Crescent,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,1,−,789m² ,12 Oct 2023
+"550,000 ","2/106 Miller Street,",BARGARA QLD 4670,Vacant land,0,0,0,659m² ,11 Oct 2023
+"365,000","43 Cheshire Place,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,614m² ",06 Oct 2023
+"450,000 ","5 Memory Boulevard,",INNES PARK QLD 4670,Block of units,4,2,2,837m² ,06 Oct 2023
+"292,000 ","Lot 9 Kinch St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,484m² ",03 Oct 2023
+"367,000","3/48 Heaps Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,140m² ,02 Oct 2023
+"365,000","18 Nielson Avenue,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,809m² ,28 Sep 2023
+"365,000","16 Nielson Avenue,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,809m² ,28 Sep 2023
+"215,000","2 Storm Petrel Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,738m² ,26 Sep 2023
+"285,000 ","Lot 143 Chantilly Street,",BARGARA QLD 4670,Vacant land,0,0,0,915m² ,25 Sep 2023
+"105,000 ","8 Musgrave Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",24 Sep 2023
+"322,500 ","15 Lady Musgrave Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,700m² ,21 Sep 2023
+"200,000 ","20 Empress Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,312m² ",21 Sep 2023
+"181,500 ","6/85 Woongarra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,94m² ,18 Sep 2023
+"160,000 ","90 Palm Springs Drive,",CALAVOS QLD 4670,Vacant land,0,0,0,"6,134m² ",18 Sep 2023
+"327,000 ","6 HALL STREET,",ELLIOTT HEADS QLD 4670,Vacant land,1,1,−,819m² ,14 Sep 2023
+"425,000 ","Lot 301 Swain Place,",INNES PARK QLD 4670,Vacant land,0,0,0,555m² ,14 Sep 2023
+"275,000 ","Lot 33 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,731m² ,12 Sep 2023
+"240,000 ","4 Lugano Street,",ASHFIELD QLD 4670,Vacant land,0,0,0,997m² ,07 Sep 2023
+"385,000 ","12 & 13/8 Leivesley Street,",BUNDABERG EAST QLD 4670,Apartment / Unit / Flat,2,2,2,119m² ,06 Sep 2023
+"290,000 ","Lot 7 Kinch Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,484m² ",05 Sep 2023
+"8,000,000","440 Smiths Crossing Road,",AVONDALE QLD 4670,Vacant land,0,0,0,0,01 Sep 2023
+"540,000 ","4 Sea Pearl Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,01 Sep 2023
+"472,000 ","1/8 Reef Court,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,2,100m² ,31 Aug 2023
+"290,000 ","Lot 3 Barrons Road,",RUBYANNA QLD 4670,Vacant land,0,0,0,0,31 Aug 2023
+"280,000 ","4/147 George St,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,104m² ,28 Aug 2023
+"305,000 ","5/59 Branyan Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,116m² ,28 Aug 2023
+"314,000 ","5/15 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,300m² ,25 Aug 2023
+"255,000 ","28 Poinciana Drive,",INNES PARK QLD 4670,Vacant land,− 0,− 0,2,"1,000m² ",24 Aug 2023
+"465,000","18 Harbour Esplanade,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,083m² ",18 Aug 2023
+"350,000 ","23 Kingfisher Crescent,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,173m² ",18 Aug 2023
+"290,000 ","12 Drift Street,",BARGARA QLD 4670,Vacant land,0,0,0,789m² ,17 Aug 2023
+"345,000 ","29C Von Deest Street,",KENSINGTON QLD 4670,Vacant land,0,0,0,"5,152m² ",08 Aug 2023
+"225,000 ","14 Wren Place,",BRANYAN QLD 4670,Vacant land,0,0,0,"1,029m² ",07 Aug 2023
+"290,000","53 Isaac Moore Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,07 Aug 2023
+"335,000 ","2/5 Keppel Crescent,",THABEBAN QLD 4670,Apartment / Unit / Flat,3,1,1,120m² ,07 Aug 2023
+"230,000 ","1/99 Gavin Street,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,2,1,1,81m² ,04 Aug 2023
+"249,000 ","3/15 Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,83m² ,03 Aug 2023
+"452,000","3/179A Bargara Road,",KALKIE QLD 4670,Apartment / Unit / Flat,3,2,2,259m² ,01 Aug 2023
+"290,000 ","Lot 14 Kinch Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,484m² ",31 Jul 2023
+"810,000 ","24 Selmar Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,188m² ",31 Jul 2023
+"235,000 ","17 Ellen Drive,",THABEBAN QLD 4670,Vacant land,0,0,0,"2,001m² ",31 Jul 2023
+"130,000 ","36 Hinkler Avenue,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"2,666m² ",30 Jul 2023
+"335,000","Unit 1/9 Robert St,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,2,109m² ,28 Jul 2023
+"240,000","43 Orchid Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,607m² ,28 Jul 2023
+"250,000 ","16 Acacia St,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,725m² ,27 Jul 2023
+"350,000","2/20A Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,2,115m² ,26 Jul 2023
+"280,000 ","9 Horseshoe Drive,",KENSINGTON QLD 4670,Vacant land,0,0,0,0,26 Jul 2023
+"540,000 ","56 Johnson Street,",BARGARA QLD 4670,Vacant land,0,0,0,"1,012m² ",24 Jul 2023
+"215,000 ","1 Ochre Court - The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,906m² ,24 Jul 2023
+"460,000 ","2/1 Alison Drive,",KALKIE QLD 4670,Apartment / Unit / Flat,3,2,2,357m² ,21 Jul 2023
+"265,000 ","25 Penny Lane,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,10 Jul 2023
+"306,000 ","18/12 Morshead Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,125m² ,07 Jul 2023
+"125,000 ","30 Perry Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"1,012m² ",07 Jul 2023
+"275,000 ","5 Mary Fox Street,",INNES PARK QLD 4670,Vacant land,0,0,0,803m² ,07 Jul 2023
+"318,000 ","98/55 Deering Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,072m² ",07 Jul 2023
+"305,000 ","14 Kentia Ave,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"2,182m² ",06 Jul 2023
+"199,000 ","2 Wren Place,",BRANYAN QLD 4670,Vacant land,0,0,0,820m² ,05 Jul 2023
+"350,000 ","20 Byron Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,003m² ",05 Jul 2023
+"518,000 ","8 Sea Pearl Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,04 Jul 2023
+"300,000","50 Isaac Moore Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,01 Jul 2023
+"175,000 ","1 Zielke Avenue,",KALKIE QLD 4670,Vacant land,0,0,0,"1,222m² ",30 Jun 2023
+"295,000 ","8/33 Gibson Road,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,484m² ",29 Jun 2023
+"265,000 ","4/47 Gavin Street,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,3,2,1,136m² ,28 Jun 2023
+"270,000 ","37 Egret Lane,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"2,382m² ",28 Jun 2023
+"420,000 ","4/3 Bust Street,",SVENSSON HEIGHTS QLD 4670,Apartment / Unit / Flat,3,2,2,171m² ,28 Jun 2023
+"279,000 ","7 Rafting Ground Road,",PINE CREEK QLD 4670,Vacant land,0,0,0,0,26 Jun 2023
+"200,000 ","31 Cummins Road,",AVOCA QLD 4670,Vacant land,0,0,0,693m² ,23 Jun 2023
+"180,000","4/85 Woongarra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,94m² ,23 Jun 2023
+"341,000 ","75 Barolin Esplanade,",CORAL COVE QLD 4670,Vacant land,0,0,0,805m² ,23 Jun 2023
+"340,000 ","3/5 Whalley Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,105m² ,16 Jun 2023
+"305,000 ","Lot 27 Plover Court,",BARGARA QLD 4670,Vacant land,0,0,0,"1,020m² ",13 Jun 2023
+"450,000 ","Lot 1 & Lot 2 Hill End Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,"173,600m² ",13 Jun 2023
+"265,000 ","6/191 Barolin Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,1,1,1,117m² ,12 Jun 2023
+"1,050,000","93 Woongarra Scenic Drive,",BARGARA QLD 4670,Vacant land,0,0,0,827m² ,12 Jun 2023
+"360,000 ","65 Nielson Avenue,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,978m² ,06 Jun 2023
+"350,000 ","29 emperoror drv,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,854m² ,06 Jun 2023
+"625,000 ","133 Targo Street,",BUNDABERG SOUTH QLD 4670,Block of units,6,3,3,969m² ,05 Jun 2023
+"200,000 ","64 WALKER STREET,",WALKERVALE QLD 4670,Vacant land,0,0,0,955m² ,05 Jun 2023
+"290,000 ","45 Egret Lane,",MOORE PARK BEACH QLD 4670,Vacant land,− 0,− 0,3,"2,846m² ",02 Jun 2023
+"299,000 ","4/59 Branyan Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,114m² ,31 May 2023
+"211,000 ","17 Wren Place,",BRANYAN QLD 4670,Vacant land,0,0,0,805m² ,30 May 2023
+"215,000 ","11 Wren Place,",BRANYAN QLD 4670,Vacant land,0,0,0,844m² ,30 May 2023
+"90,000 ","12 Tallon Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,817m² ,29 May 2023
+"485,000 ","13 Peek Street,",BUNDABERG NORTH QLD 4670,Block of units,2,1,1,810m² ,26 May 2023
+"307,500 ","5/66 Anderson Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,102m² ,25 May 2023
+"339,600","9/45 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,140m² ,23 May 2023
+"411,001 ","3/4 The Pines Court,",MILLBANK QLD 4670,Apartment / Unit / Flat,3,2,2,127m² ,23 May 2023
+"344,000 ","2/19 Seventy Four Court,",AVOCA QLD 4670,Apartment / Unit / Flat,2,2,2,400m² ,22 May 2023
+"287,500 ","10/33 Gibson Road,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,931m² ",22 May 2023
+"310,000 ","23 Fraser Avenue,",INNES PARK QLD 4670,Vacant land,0,0,0,702m² ,22 May 2023
+"167,500 ","55 Rehbein Avenue,",QUNABA QLD 4670,Vacant land,0,0,0,794m² ,22 May 2023
+"310,000","18 Pinto Avenue,",BRANYAN QLD 4670,Vacant land,0,0,0,"4,885m² ",20 May 2023
+"313,500 ","5/198 George Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,124m² ,19 May 2023
+"230,000 ","23 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,000m² ",12 May 2023
+"350,000 ","13 BRIESCHKE STREET,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,809m² ,11 May 2023
+"242,000 ","3/74 Burnett Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,105m² ,10 May 2023
+"770,000 ","1,2,3/11 Normanby Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,9,6,3,763m² ,10 May 2023
+"150,000 ","Lot 132/48 Willis Street,",SHARON QLD 4670,Vacant land,0,0,0,"7,000m² ",10 May 2023
+"83,000","4 Cairns Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",08 May 2023
+"260,000 ","1/17 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,231m² ,04 May 2023
+"275,000 ","29/20 Vasey Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,112m² ,04 May 2023
+"199,000 ","8 Ridge Road,",BRANYAN QLD 4670,Vacant land,0,0,0,790m² ,03 May 2023
+"237,000 ","4/6 Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,100m² ,03 May 2023
+"265,000 ","3/130 George Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,138m² ,02 May 2023
+"335,000 ","11/15A Avoca Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,121m² ,02 May 2023
+"250,000 ","1/47 Greathead Road,",KEPNOCK QLD 4670,Apartment / Unit / Flat,2,1,1,91m² ,02 May 2023
+"225,000 ","4/1 Normanby Square,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,1,1,129m² ,01 May 2023
+"315,000","17 Blue Water Dr,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,820m² ,28 Apr 2023
+"90,000 ","22 Kolan Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"1,012m² ",27 Apr 2023
+"255,000 ","6 Finemore Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,"2,001m² ",27 Apr 2023
+"267,500 ","2 Wisteria Street,",BARGARA QLD 4670,Vacant land,0,0,0,639m² ,26 Apr 2023
+"175,000 ","26 Linden Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,846m² ,26 Apr 2023
+"148,000 ","33 Linden Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,739m² ,26 Apr 2023
+"289,000 ","12 Kinch Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,484m² ",19 Apr 2023
+"340,000 ","21 Bedarra Boulevard,",INNES PARK QLD 4670,Vacant land,0,0,0,431m² ,19 Apr 2023
+"405,000 ","3/9 Killara Court,",BUNDABERG EAST QLD 4670,Apartment / Unit / Flat,3,2,1,146m² ,17 Apr 2023
+"305,000 ","2/6 McIlwraith Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,118m² ,13 Apr 2023
+"295,000 ","6 Workmans Road,",SHARON QLD 4670,Vacant land,0,0,0,"14,100m² ",13 Apr 2023
+"255,000 ","4/59 Ruddell Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,100m² ,12 Apr 2023
+"288,000 ","4 Wisteria Street,",BARGARA QLD 4670,Vacant land,0,0,0,755m² ,11 Apr 2023
+"217,000","2/14 Normanby Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,80m² ,11 Apr 2023
+"410,000 ","12 Nielson Ave,",BURNETT HEADS QLD 4670,Retirement Living,0,0,0,800m² ,11 Apr 2023
+"280,000 ","17 Edenbrook Drive,",NORVILLE QLD 4670,Vacant land,0,0,0,942m² ,11 Apr 2023
+"310,000 ","40 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,019m² ",10 Apr 2023
+"415,000 ","4/84 Woongarra Scenic Drive,",BARGARA QLD 4670,Block of units,2,1,2,105m² ,05 Apr 2023
+"150,000 ","40 Rehbein Avenue,",QUNABA QLD 4670,Vacant land,0,0,0,805m² ,04 Apr 2023
+"295,000 ","4/3 Goodwin Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,2,138m² ,30 Mar 2023
+"800,000","1 Stedman Street,",NORVILLE QLD 4670,Block of units,8,4,4,807m² ,30 Mar 2023
+"280,000 ","22 Wisteria Street,",BARGARA QLD 4670,Vacant land,0,0,0,716m² ,20 Mar 2023
+"430,000 ","4 Hunter Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",20 Mar 2023
+"447,500 ","7/49 Mulgrave Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,3,2,3,290m² ,17 Mar 2023
+"390,000 ","1/52 Johnson St,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,73m² ,16 Mar 2023
+"350,000 ","49 Kirbys Road,",KALKIE QLD 4670,Vacant land,0,0,0,"4,050m² ",14 Mar 2023
+"1,295,000 ","33 Miller St,",BARGARA QLD 4670,Block of units,10,6,7,607m² ,13 Mar 2023
+"240,000","2 June Pl,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,"1,018m² ",11 Mar 2023
+"277,500 ","12 Wisteria Street,",BARGARA QLD 4670,Vacant land,0,0,0,731m² ,06 Mar 2023
+"260,000 ","62 Maryborough Street,",BUNDABERG SOUTH QLD 4670,Vacant land,0,0,0,809m² ,06 Mar 2023
+"272,500 ","2/62A Perry Street,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,3,1,2,128m² ,03 Mar 2023
+"285,000 ","5/36 Bauer Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,2,83m² ,02 Mar 2023
+"230,000 ","5 Kentia Ave,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"2,045m² ",02 Mar 2023
+"345,000 ","265 Sylvan Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,012m² ",01 Mar 2023
+"399,000 ","3/52 Johnson St,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,81m² ,27 Feb 2023
+"205,000 ","68 Sienna Boulevard,",ASHFIELD QLD 4670,Vacant land,0,0,0,"1,025m² ",23 Feb 2023
+"243,000 ","1/17A Branyan Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,119m² ,23 Feb 2023
+"217,000 ","13 June Place,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,802m² ,21 Feb 2023
+"205,000 ","1/99 Gavin Street,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,2,1,1,81m² ,21 Feb 2023
+"200,000 ","14 Woongarra Street,",BUNDABERG CENTRAL QLD 4670,Vacant land,0,0,0,704m² ,20 Feb 2023
+"242,000 ","9 Wren Place,",BRANYAN QLD 4670,Vacant land,0,0,0,954m² ,15 Feb 2023
+"200,000 ","2 Remy Court,",AVOCA QLD 4670,Vacant land,0,0,0,601m² ,11 Feb 2023
+"195,000","5/67 Burnett Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,91m² ,10 Feb 2023
+"310,000 ","4 Dolphin court,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,"1,046m² ",08 Feb 2023
+"365,000","1/12 Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,2,225m² ,07 Feb 2023
+"550,000 ","4/26 Holland Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,113m² ,06 Feb 2023
+"172,000 ","Lot 7 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,648m² ,02 Feb 2023
+"189,000 ","Proposed Lot 41 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,731m² ,02 Feb 2023
+"189,000 ","Proposed Lot 38 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,844m² ,02 Feb 2023
+"175,000 ","Proposed Lot 11 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,608m² ,02 Feb 2023
+"189,000 ","Proposed Lot 45 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,730m² ,02 Feb 2023
+"182,000 ","Proposed Lot 40 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,730m² ,02 Feb 2023
+"182,000 ","Proposed Lot 39 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,731m² ,02 Feb 2023
+"189,000 ","Lot 38 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,844m² ,02 Feb 2023
+"182,000 ","Proposed Lot 43 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,731m² ,02 Feb 2023
+"172,000 ","Proposed Lot 6 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,646m² ,02 Feb 2023
+"185,000 ","Proposed Lot 10 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,734m² ,02 Feb 2023
+"485,000 ","84 Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,759m² ,02 Feb 2023
+"175,000 ","Proposed Lot 35 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,716m² ,01 Feb 2023
+"401,222 ","20 Matts Road,",PINE CREEK QLD 4670,Vacant land,0,0,0,"123,600m² ",31 Jan 2023
+"74,000","18 Hinkler Avenue,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"1,012m² ",25 Jan 2023
+"310,000 ","103 Woondooma Street,",BUNDABERG WEST QLD 4670,Vacant land,0,0,0,"1,012m² ",24 Jan 2023
+"186,000 ",,BARGARA QLD 4670,Vacant land,0,0,0,810m² ,23 Jan 2023
+"435,000 ","502/52 Johnson Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,71m² ,23 Jan 2023
+"782,500 ","29a Takalvan Street,",BUNDABERG WEST QLD 4670,Vacant land,0,0,0,"1,215m² ",23 Jan 2023
+"265,000 ","13 Magnolia Court,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,046m² ",20 Jan 2023
+"250,000 ","Lot 1 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,638m² ,19 Jan 2023
+"172,500 ","Proposed Lot 36 Beach Link Estate,",BARGARA QLD 4670,Vacant land,0,0,0,649m² ,19 Jan 2023
+"710,000","6 Grigor Street,",AVENELL HEIGHTS QLD 4670,Block of units,8,4,4,885m² ,17 Jan 2023
+"746,100 ","3 McCavanagh Street,",BARGARA QLD 4670,Block of units,4,2,2,483m² ,16 Jan 2023
+"130,000 ","3 Sunbird Court,",SOUTH BINGERA QLD 4670,Vacant land,0,0,0,"6,001m² ",16 Jan 2023
+"293,000 ","5/6 Gahans Road,",KALKIE QLD 4670,Apartment / Unit / Flat,2,1,1,98m² ,11 Jan 2023
+"350,000 ","8 Low Street,",KENSINGTON QLD 4670,Vacant land,0,0,0,"5,395m² ",09 Jan 2023
+"250,000 ","3 Ochre Court,",BRANYAN QLD 4670,Vacant land,0,0,0,931m² ,03 Jan 2023
+"350,000 ","2/84 Woongarra Scenic Drive,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,105m² ,22 Dec 2022
+"310,000 ","11 Iluka Street,",INNES PARK QLD 4670,Vacant land,0,0,0,877m² ,22 Dec 2022
+"702,500 ","16 De Gunst Street,",KEPNOCK QLD 4670,Block of units,7,3,4,"1,348m² ",22 Dec 2022
+"520,000 ","9 McCavanagh Street,",BARGARA QLD 4670,Vacant land,0,0,0,814m² ,20 Dec 2022
+"260,000 ","4/23 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,110m² ,19 Dec 2022
+"510,000 ","127 Sea Esplanade,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,654m² ,19 Dec 2022
+"475,000 ","7 Goodwood Road,",ELLIOTT QLD 4670,Vacant land,0,0,0,"102,668m² ",19 Dec 2022
+"99,000 ","8 Kendall Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,999m² ,17 Dec 2022
+"1,120,000 ","616 Mahoneys Road,",BUCCA QLD 4670,Vacant land,0,0,0,0,14 Dec 2022
+"300,000","1 Cotton Tree Ct,",INNES PARK QLD 4670,Vacant land,− 0,− 0,3,"1,336m² ",07 Dec 2022
+"225,000 ","41 Beachmere Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,000m² ",06 Dec 2022
+"305,000 ","3/46 Jealous Road,",KALKIE QLD 4670,Apartment / Unit / Flat,2,1,1,140m² ,06 Dec 2022
+"349,000 ","47 Kirby's Road,",KALKIE QLD 4670,Vacant land,0,0,0,"4,050m² ",02 Dec 2022
+"200,000 ","41 Regency Road,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,887m² ",02 Dec 2022
+"192,500 ","1560 Gin Gin Road,",SHARON QLD 4670,Vacant land,0,0,0,"8,158m² ",30 Nov 2022
+"375,000 ","7 Nielson Avenue,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",29 Nov 2022
+"316,000 ","8/6 Gahans Road,",KALKIE QLD 4670,Apartment / Unit / Flat,2,1,1,98m² ,28 Nov 2022
+"235,000 ","Lot 30/72 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,190m² ",28 Nov 2022
+"65,000 ","4 Blackall Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",25 Nov 2022
+"349,000 ","43 Kirbys Road,",KALKIE QLD 4670,Vacant land,0,0,0,"4,050m² ",25 Nov 2022
+"349,000 ","45 Kirbys Road,",KALKIE QLD 4670,Vacant land,0,0,0,"4,050m² ",25 Nov 2022
+"350,000 ","92 Welch Street,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,759m² ,24 Nov 2022
+"299,000 ","2/58 Maryborough Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,1,121m² ,23 Nov 2022
+"300,000 ","18 Deering Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,000m² ",22 Nov 2022
+"220,000 ","14 Avalon Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",21 Nov 2022
+"350,000","7/15 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,3,2,2,254m² ,19 Nov 2022
+"265,000 ","56 Wave Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",17 Nov 2022
+"475,000","12 Barolin Homestead Road,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,0,17 Nov 2022
+"308,000 ","21 Carla Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,024m² ",15 Nov 2022
+"434,000 ","19 Sylvan Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,809m² ",14 Nov 2022
+"210,000 ","8 Bowerbird Court,",BRANYAN QLD 4670,Vacant land,0,0,0,902m² ,11 Nov 2022
+"195,000 ","Lot 76 The Ridge,",BRANYAN QLD 4670,Vacant land,0,0,0,895m² ,11 Nov 2022
+"300,000 ","Lot 8 Tantitha Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,000m² ",11 Nov 2022
+"189,000 ","Lot 79 The Ridge,",BRANYAN QLD 4670,Vacant land,0,0,0,795m² ,10 Nov 2022
+"220,000 ","4/11 McVeigh Street,",KEPNOCK QLD 4670,Vacant land,0,0,0,819m² ,09 Nov 2022
+"305,000","Lot 23 Malvern Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"20,234m² ",
+"208,000 ","Lot 95 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,834m² ,08 Nov 2022
+"185,000 ","Proposed Lot 77 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,976m² ,08 Nov 2022
+"265,000","4 Waratah Ct,",BUCCA QLD 4670,Vacant land,0,0,0,0,08 Nov 2022
+"211,000 ","Proposed Lot 91 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,842m² ,07 Nov 2022
+"204,000 ","Proposed Lot 96 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,848m² ,07 Nov 2022
+"190,000 ","Proposed Lot 97 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,804m² ,07 Nov 2022
+"556,000 ","37 Windermere Road,",QUNABA QLD 4670,Vacant land,0,0,0,0,07 Nov 2022
+"181,000 ","Lot 9 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,980m² ,04 Nov 2022
+"197,000 ","Proposed Lot 78 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,856m² ,04 Nov 2022
+"188,000 ","Lot 72 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,805m² ,04 Nov 2022
+"179,000 ","Lot 23 The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,762m² ,04 Nov 2022
+"197,000 ","Proposed Lot 73, The Ridge on Branyan,",BRANYAN QLD 4670,Vacant land,0,0,0,815m² ,04 Nov 2022
+"795,000 ","1-4/42 Perry Street,",BUNDABERG NORTH QLD 4670,Block of units,9,4,4,"2,013m² ",03 Nov 2022
+"200,000","4/67 Burnett Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,106m² ,03 Nov 2022
+"390,000 ","103 Deering Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,479m² ",03 Nov 2022
+"259,000 ","4 Verona Street,",NORVILLE QLD 4670,Vacant land,0,0,0,886m² ,03 Nov 2022
+"320,000 ","9 Knudsen Street,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,660m² ,27 Oct 2022
+"630,000 ","3/28 Holland Street,",BARGARA QLD 4670,Apartment / Unit / Flat,3,2,1,139m² ,25 Oct 2022
+"86,000","10 Starkey Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",24 Oct 2022
+"355,000 ","5/52 Johnson Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,71m² ,24 Oct 2022
+"835,000 ","12 Selmar Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,000m² ",24 Oct 2022
+"300,001 ","5 Isaac Moore Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,21 Oct 2022
+"300,000 ","124 Mount Perry Road,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"4,047m² ",17 Oct 2022
+"312,500 ","2/110 Woongarra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,148m² ,17 Oct 2022
+"315,000 ","1/50 See Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,2,"1,014m² ",12 Oct 2022
+"225,000 ","2/77 Avoca Street,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,1,1,155m² ,12 Oct 2022
+"165,000","5/85 Woongarra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,94m² ,11 Oct 2022
+"110,000 ","3 Sunbird Court,",SOUTH BINGERA QLD 4670,Vacant land,0,0,0,"6,001m² ",11 Oct 2022
+"430,000 ","8/49 Mulgrave Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,3,2,2,164m² ,10 Oct 2022
+"150,000 ","4 Banksia Avenue,",THABEBAN QLD 4670,Vacant land,0,0,0,647m² ,10 Oct 2022
+"150,000 ","2B Walker Street,",WALKERVALE QLD 4670,Vacant land,0,0,0,807m² ,10 Oct 2022
+"350,000 ","2 Janet Court,",CORAL COVE QLD 4670,Vacant land,0,0,0,"1,860m² ",07 Oct 2022
+"75,000 ","26 Normanby Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",06 Oct 2022
+"260,000 ","3/59 Electra Street,",BUNDABERG WEST QLD 4670,Townhouse,3,1,1,122m² ,06 Oct 2022
+"290,000 ","55 Nautilus Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"3,149m² ",06 Oct 2022
+"255,000 ","30 Zielke Avenue,",RUBYANNA QLD 4670,Vacant land,0,0,0,"2,788m² ",06 Oct 2022
+"185,000 ","32 Linden Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,846m² ,05 Oct 2022
+"230,000 ","86 Davenport Drive,",COONARR QLD 4670,Vacant land,0,0,0,"4,299m² ",04 Oct 2022
+"230,000 ","8 Finemore Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,"2,185m² ",04 Oct 2022
+"280,000 ","4/6 Gahans Road,",KALKIE QLD 4670,Apartment / Unit / Flat,2,1,1,98m² ,30 Sep 2022
+"174,000","26 Duffy Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",29 Sep 2022
+"85,000 ","29 Blackall Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",28 Sep 2022
+"313,000 ","1/1 Bunker Court,",BARGARA QLD 4670,Apartment / Unit / Flat,1,1,1,95m² ,27 Sep 2022
+"855,000 ","14 Selmar Place...,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,000m² ",21 Sep 2022
+"350,000","2/26 Dunn Road,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,3,2,1,146m² ,20 Sep 2022
+"510,000 ","1-2/160 Branyan Drive,",AVOCA QLD 4670,Block of units,4,2,2,849m² ,20 Sep 2022
+"35,000 ","0 Oakwood Road...,",OAKWOOD QLD 4670,Vacant land,0,0,0,0,20 Sep 2022
+"195,000 ","76 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,754m² ",20 Sep 2022
+"203,500 ","5/33 Verdant Siding Road,",THABEBAN QLD 4670,Vacant land,0,0,0,"1,200m² ",19 Sep 2022
+"225,000 ","39 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,000m² ",14 Sep 2022
+"126,000","21 Samuels Road,",BRANYAN QLD 4670,Vacant land,0,0,0,"6,500m² ",07 Sep 2022
+"165,000 ","9 Clearview Avenue,",THABEBAN QLD 4670,Vacant land,0,0,0,800m² ,06 Sep 2022
+"218,000 ","34 Belle Eden Drive,",ASHFIELD QLD 4670,Vacant land,0,0,0,842m² ,05 Sep 2022
+"285,000 ","58 Pleasant Drive,",SHARON QLD 4670,Vacant land,0,0,0,"7,753m² ",05 Sep 2022
+"250,000 ","17 Wilson Street,",KEPNOCK QLD 4670,Vacant land,0,0,0,"1,181m² ",30 Aug 2022
+"340,000","12 Hunter Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",29 Aug 2022
+"475,000 ","20 Kingfisher Crescent,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,069m² ",29 Aug 2022
+"355,000 ","6 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,002m² ",26 Aug 2022
+"168,000 ","4/53 Pickett Street...,",SVENSSON HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,2,75m² ,26 Aug 2022
+"250,000 ","50 Palm View Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,729m² ,25 Aug 2022
+"232,500","12 Knox Court,",BARGARA QLD 4670,Vacant land,0,0,0,856m² ,24 Aug 2022
+"258,500 ","18/12 Morshead Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,125m² ,22 Aug 2022
+"70,000 ","9 Blackall Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",19 Aug 2022
+"221,000 ","9 Albatross Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,849m² ,16 Aug 2022
+"197,000 ","3 Kindt Street,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,012m² ",13 Aug 2022
+"195,000 ","4 Gardenia Drive,",AVOCA QLD 4670,Vacant land,0,0,0,855m² ,09 Aug 2022
+"199,000 ","2 Cummins Road,",AVOCA QLD 4670,Vacant land,0,0,0,702m² ,09 Aug 2022
+"189,000 ","1 Cummins Road,",AVOCA QLD 4670,Vacant land,0,0,0,700m² ,09 Aug 2022
+"210,000 ","40 Appaloosa Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,"4,508m² ",05 Aug 2022
+"85,000","12 Tallon St,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,817m² ,04 Aug 2022
+"182,000 ","3/37 Verdant Siding Road,",THABEBAN QLD 4670,Vacant land,0,0,0,"1,200m² ",04 Aug 2022
+"301,000 ","98 Deering Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,072m² ",03 Aug 2022
+"250,000 ","1 Knox Crt,",BARGARA QLD 4670,Vacant land,0,0,0,811m² ,02 Aug 2022
+"200,000 ","36 Parklands Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,0,01 Aug 2022
+"161,000 ","10 Laurel Street,",GOOBURRUM QLD 4670,Vacant land,0,0,0,905m² ,01 Aug 2022
+"265,000","5a Egret Lane,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"3,136m² ",28 Jul 2022
+"340,000","90 Woongarra Scenic Dr,",BARGARA QLD 4670,Vacant land,− 0,− 0,2,809m² ,27 Jul 2022
+"257,000 ","2 Panorama Drive,",QUNABA QLD 4670,Vacant land,0,0,0,"1,037m² ",27 Jul 2022
+"419,000 ","5/15A Avoca Street,",BUNDABERG WEST QLD 4670,Townhouse,3,2,1,157m² ,26 Jul 2022
+"521,000 ","9 Mokera Street,",CORAL COVE QLD 4670,Vacant land,0,0,0,820m² ,26 Jul 2022
+"1,215,000 ","4/92 Miller Street...,",BARGARA QLD 4670,Apartment / Unit / Flat,3,4,2,157m² ,25 Jul 2022
+"500,000 ","1 Bonna Road...,",BRANYAN QLD 4670,Vacant land,0,0,0,0,25 Jul 2022
+"233,000","4 Alexander Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,778m² ,21 Jul 2022
+"310,000","4 Lillypilly Pl,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,499m² ",21 Jul 2022
+"220,000 ","27 Avalon St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,001m² ",20 Jul 2022
+"330,000 ","0 Butlers Road,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,0,19 Jul 2022
+"306,000 ","2/29 Avenell Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,107m² ,15 Jul 2022
+"1,375,000 ","8 Avoca Street,",BUNDABERG WEST QLD 4670,Block of units,20,10,10,"1,558m² ",11 Jul 2022
+"270,000 ","4 Orchid Dr,",MOORE PARK BEACH QLD 4670,Vacant land,− 0,− 0,3,796m² ,11 Jul 2022
+"260,000 ","5/59 Electra Street,",BUNDABERG WEST QLD 4670,Townhouse,3,1,1,124m² ,08 Jul 2022
+"470,000 ","26 Greenview Drive,",BARGARA QLD 4670,Vacant land,0,0,0,600m² ,07 Jul 2022
+"280,000 ","1 Hunter Street,",BURNETT HEADS QLD 4670,Retirement Living,0,0,0,732m² ,06 Jul 2022
+"249,500 ","1/15 Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,1,1,112m² ,05 Jul 2022
+"370,000","27 Sea Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,861m² ,
+"230,000 ","Lot 1/500 Bonna Road,",BRANYAN QLD 4670,New land,0,0,0,"5,658m² ",04 Jul 2022
+"365,000 ","14 Nielson Ave,",BURNETT HEADS QLD 4670,Retirement Living,0,0,0,809m² ,04 Jul 2022
+"430,000 ","131 Davenport Drive,",COONARR QLD 4670,Vacant land,0,0,0,"4,764m² ",28 Jun 2022
+"265,000 ","7 Workmans Road,",SHARON QLD 4670,Vacant land,0,0,0,"5,460m² ",28 Jun 2022
+"215,000 ","5 Johns Court,",AVOCA QLD 4670,Vacant land,0,0,0,"4,245m² ",27 Jun 2022
+"212,000 ","7 Sienna Boulevard,",ASHFIELD QLD 4670,Vacant land,0,0,0,"1,265m² ",24 Jun 2022
+"205,000 ","6 Sienna Boulevard,",ASHFIELD QLD 4670,Vacant land,0,0,0,"1,024m² ",24 Jun 2022
+"218,000 ","Lot 1 / 56 Sienna Boulevard,",ASHFIELD QLD 4670,Vacant land,0,0,0,"1,037m² ",24 Jun 2022
+"360,000 ","18/2 SYLVAN DRIVE,",MOORE PARK BEACH QLD 4670,Townhouse,2,2,1,153m² ,24 Jun 2022
+"425,000 ","7 Mokera Street,",CORAL COVE QLD 4670,Vacant land,0,0,0,820m² ,22 Jun 2022
+"300,000 ","1/5 Midgley Court,",BUNDABERG EAST QLD 4670,Townhouse,2,1,1,330m² ,19 Jun 2022
+"195,000 ","3 Egret Lane,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,057m² ",17 Jun 2022
+"220,000 ","39 Princess Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,610m² ,14 Jun 2022
+"310,000 ","26/3 Ann Street,",BUNDABERG EAST QLD 4670,Townhouse,3,2,1,165m² ,14 Jun 2022
+"815,000 ","148 Woondooma Street,",BUNDABERG WEST QLD 4670,Block of units,8,4,1,"1,012m² ",13 Jun 2022
+"328,000 ","3/50 Kendalls Road,",AVOCA QLD 4670,Apartment / Unit / Flat,3,1,1,153m² ,10 Jun 2022
+"303,000 ","51 Malo Drive,",BARGARA QLD 4670,Vacant land,0,0,0,850m² ,10 Jun 2022
+"286,000 ","38 Rennell Street,",BARGARA QLD 4670,Vacant land,0,0,0,806m² ,09 Jun 2022
+"240,000 ","2/24 Dennis Court,",AVOCA QLD 4670,Apartment / Unit / Flat,2,1,1,103m² ,07 Jun 2022
+"205,000 ","3/500 Bonna Road,",BRANYAN QLD 4670,New land,0,0,0,"7,772m² ",07 Jun 2022
+"265,000 ","2/47 Gavin Street,",BUNDABERG NORTH QLD 4670,Townhouse,3,2,1,136m² ,07 Jun 2022
+"320,000 ","1/37 Electra Street,",BUNDABERG WEST QLD 4670,Townhouse,2,2,1,149m² ,06 Jun 2022
+"200,000 ","3 Young St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,809m² ,06 Jun 2022
+"150,000 ","54 Isambert Lane,",MILLBANK QLD 4670,Vacant land,0,0,0,510m² ,01 Jun 2022
+"235,000 ","1/93 Woondooma Street...,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,79m² ,31 May 2022
+"330,000 ","1/16 Cauchi Court,",AVOCA QLD 4670,Apartment / Unit / Flat,3,2,1,153m² ,30 May 2022
+"655,000 ","26 Selmar Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,100m² ",30 May 2022
+"700,000 ","30 Sea Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,864m² ,28 May 2022
+"445,000 ","Lot 7 Seaview Road,",BARGARA QLD 4670,Vacant land,0,0,0,0,26 May 2022
+"655,000 ","Lot 3 Moore Park Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,0,26 May 2022
+"285,000","3/8 Leivesley Street,",BUNDABERG EAST QLD 4670,Apartment / Unit / Flat,2,1,1,110m² ,25 May 2022
+"120,000 ","30 Dunkirk Street,",SVENSSON HEIGHTS QLD 4670,Vacant land,0,0,0,688m² ,25 May 2022
+"267,000 ","18 Deering Place,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,000m² ",24 May 2022
+"75,000","12 Tallon St,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,817m² ,18 May 2022
+"270,000","28 Amaroo Crescent,",INNES PARK QLD 4670,Vacant land,0,0,0,872m² ,17 May 2022
+"345,000 ","3/53 Ruddell Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,3,300m² ,16 May 2022
+"283,000 ","7/6A Dunn Road,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,3,1,1,131m² ,13 May 2022
+"4,900,000 ","Lot 8 Rifle Range Road,",BARGARA QLD 4670,Vacant land,0,0,0,0,12 May 2022
+"75,000 ","57 Gavin Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,921m² ,11 May 2022
+"700,000 ","59 Enterprise Street,",SVENSSON HEIGHTS QLD 4670,Vacant land,0,0,0,"5,962m² ",11 May 2022
+"700,000 ","5 Channel Lane,",THABEBAN QLD 4670,Vacant land,0,0,0,"14,200m² ",11 May 2022
+"285,000 ","311/23 Esplanade,",BARGARA QLD 4670,Apartment / Unit / Flat,1,1,1,61m² ,10 May 2022
+"507,500 ","304/23 Esplanade,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,90m² ,09 May 2022
+"230,000","2/17a Branyan Street,",BUNDABERG WEST QLD 4670,Townhouse,2,1,1,118m² ,09 May 2022
+"329,000","8/198 George Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,124m² ,04 May 2022
+"2,800,000 ","25 Esplanade,",BARGARA QLD 4670,Vacant land,0,0,0,"1,214m² ",03 May 2022
+"360,000 ","119 Davenport Drive,",COONARR QLD 4670,Vacant land,0,0,0,"4,989m² ",03 May 2022
+"180,000 ","12 Empress Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,387m² ",02 May 2022
+"1,126,000","113 Esplanade,",BARGARA QLD 4670,Vacant land,0,0,0,"1,019m² ",29 Apr 2022
+"2,600,000","276 Tantitha Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,0,29 Apr 2022
+"450,000 ","Lot 1 Moore Park Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,0,29 Apr 2022
+"235,000 ","4/76 Crofton Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,85m² ,28 Apr 2022
+"195,500 ","66 Brookfield Estate,",ASHFIELD QLD 4670,Vacant land,0,0,0,997m² ,27 Apr 2022
+"330,000 ","316 Sylvan Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,040m² ",27 Apr 2022
+"515,000 ","5/3 Miller Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,151m² ,26 Apr 2022
+"465,000 ","101 Barolin Esplanade,",CORAL COVE QLD 4670,Vacant land,0,0,0,810m² ,26 Apr 2022
+"240,000 ","1/24 Dennis Court,",AVOCA QLD 4670,Apartment / Unit / Flat,2,1,1,103m² ,23 Apr 2022
+"172,500","5/2 Adams Street...,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,1,1,1,54m² ,22 Apr 2022
+"245,000 ","7/12 Morshead Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,126m² ,19 Apr 2022
+"170,000 ","46 Linden Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,680m² ,18 Apr 2022
+"360,000 ","27 Greenview Drive,",BARGARA QLD 4670,Vacant land,0,0,0,441m² ,16 Apr 2022
+"235,000","3/66 Anderson Street...,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,201m² ,14 Apr 2022
+"204,600","14 Habitat Drive...,",BRANYAN QLD 4670,Vacant land,0,0,0,835m² ,14 Apr 2022
+"200,000","43A Powers Street,",BUNDABERG WEST QLD 4670,Vacant land,0,0,0,"1,048m² ",11 Apr 2022
+"325,000 ","12 Castle Ct,",MOORE PARK BEACH QLD 4670,Vacant land,− 0,− 0,6,"1,001m² ",11 Apr 2022
+"188,000 ","Lot 71 Rennell Street,",BARGARA QLD 4670,Vacant land,0,0,0,812m² ,08 Apr 2022
+"194,000 ","Lot 69 Rennell Street,",BARGARA QLD 4670,Vacant land,0,0,0,812m² ,08 Apr 2022
+"193,000 ","Lot 63 Rennell Street,",BARGARA QLD 4670,Vacant land,0,0,0,802m² ,08 Apr 2022
+"190,000 ","12 Marshall Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,809m² ,07 Apr 2022
+"320,000 ","267 Sylvan Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,001m² ",04 Apr 2022
+"194,000 ","Lot 64 Malo Drive,",BARGARA QLD 4670,Vacant land,0,0,0,813m² ,01 Apr 2022
+"289,000 ","5/150 SYLVAN DRIVE,",MOORE PARK BEACH QLD 4670,Apartment / Unit / Flat,3,2,1,147m² ,01 Apr 2022
+"1,250,000 ","102-110 Shelley Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,0,31 Mar 2022
+"270,000","9/48 Heaps Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,140m² ,30 Mar 2022
+"428,000 ","Lot 33 Airport Drive,",KENSINGTON QLD 4670,Vacant land,0,0,0,"3,335m² ",30 Mar 2022
+"425,000 ","Lot 34 Airport Drive,",KENSINGTON QLD 4670,Vacant land,0,0,0,"3,613m² ",30 Mar 2022
+"285,000 ","32 Sorrento Drive,",BARGARA QLD 4670,Vacant land,0,0,0,707m² ,28 Mar 2022
+"310,000 ","27 Markham Road,",COONARR QLD 4670,Vacant land,0,0,0,"6,724m² ",28 Mar 2022
+"270,000 ","338 Woongarra Scenic Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,056m² ",26 Mar 2022
+"210,000","11 Powers St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",24 Mar 2022
+"265,000 ","7/8 Mcilwraith Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,117m² ,21 Mar 2022
+"380,000 ","2 Blue Fin Court,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,21 Mar 2022
+"280,000 ","23 Island View Drive,",WINFIELD QLD 4670,Vacant land,0,0,0,"1,244m² ",21 Mar 2022
+"685,000 ","52 See Street,",BARGARA QLD 4670,Vacant land,0,0,0,"1,015m² ",18 Mar 2022
+"325,000 ","7/60 Electra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,3,2,2,168m² ,18 Mar 2022
+"416,000 ","2 Crawford Street,",WALKERVALE QLD 4670,Block of units,5,2,2,746m² ,18 Mar 2022
+"163,000 ","192 Bargara Road,",KALKIE QLD 4670,Vacant land,0,0,0,"2,481m² ",15 Mar 2022
+"260,000 ","1/10 Cauchi Court,",AVOCA QLD 4670,Apartment / Unit / Flat,3,1,1,151m² ,14 Mar 2022
+"251,500","10/48 Heaps Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,140m² ,11 Mar 2022
+"258,000 ","19/3 Ann Street,",BUNDABERG EAST QLD 4670,Apartment / Unit / Flat,3,2,1,165m² ,11 Mar 2022
+"125,000 ","29 Boundary Street,",BUNDABERG SOUTH QLD 4670,Vacant land,0,0,0,647m² ,11 Mar 2022
+"230,000 ","1/50 Goodwin Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,91m² ,11 Mar 2022
+"159,000 ","192 Bargara Road,",KALKIE QLD 4670,Vacant land,0,0,0,"2,481m² ",11 Mar 2022
+"164,000 ","10 Heathwood Court,",QUNABA QLD 4670,Vacant land,0,0,0,695m² ,11 Mar 2022
+"175,000 ","8 Heathwood Court,",QUNABA QLD 4670,Vacant land,0,0,0,755m² ,11 Mar 2022
+"632,000 ","21 Goodwin Street,",BUNDABERG SOUTH QLD 4670,Block of units,6,3,1,"1,012m² ",10 Mar 2022
+"178,000 ","18 Buss Street,",BUNDABERG SOUTH QLD 4670,Vacant land,0,0,0,"1,012m² ",10 Mar 2022
+"330,000","6 Dryden street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",08 Mar 2022
+"270,000 ","511/23 Esplanade,",BARGARA QLD 4670,Apartment / Unit / Flat,1,1,1,61m² ,04 Mar 2022
+"215,000 ","2/66 Burnett Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,90m² ,04 Mar 2022
+"268,000 ","4/15 Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,1,1,112m² ,04 Mar 2022
+"350,000 ","33 Mokera Street,",CORAL COVE QLD 4670,Vacant land,0,0,0,977m² ,04 Mar 2022
+"375,000 ","5 Welch Street,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,908m² ,04 Mar 2022
+"72,000 ","22 Musgrave Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",03 Mar 2022
+"160,000 ","20 Peatey Street,",KEPNOCK QLD 4670,Vacant land,0,0,0,741m² ,03 Mar 2022
+"52,000","8 Cairns Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",02 Mar 2022
+"179,000 ","119 Brookfield Estate,",ASHFIELD QLD 4670,Vacant land,0,0,0,897m² ,01 Mar 2022
+"315,000 ","30 Nautilus Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,942m² ",01 Mar 2022
+"299,000 ","19 Madelyn Close,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,28 Feb 2022
+"232,000","3/147 George Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,93m² ,25 Feb 2022
+"240,000 ","28 Poinciana Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,000m² ",25 Feb 2022
+"175,000","49 Billabong Way...,",BUCCA QLD 4670,Vacant land,0,0,0,0,23 Feb 2022
+"249,000","4/70 Electra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,3,1,1,171m² ,23 Feb 2022
+"158,500 ","190 Brookfield Estate,",ASHFIELD QLD 4670,Vacant land,0,0,0,765m² ,22 Feb 2022
+"180,000 ","3 Storm Petrel Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,927m² ,21 Feb 2022
+"225,000 ","3/130 George Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,300m² ,18 Feb 2022
+"197,000 ","30 Zielke Ave,",RUBYANNA QLD 4670,Vacant land,0,0,0,"2,788m² ",17 Feb 2022
+"340,000","30 Harbour Esplanade,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",16 Feb 2022
+"300,000 ","8 Marian Street,",CORAL COVE QLD 4670,Vacant land,0,0,0,843m² ,16 Feb 2022
+"265,000 ","411/23 Esplanade,",BARGARA QLD 4670,Apartment / Unit / Flat,1,1,1,61m² ,15 Feb 2022
+"600,000 ","14 Corser St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,766m² ,14 Feb 2022
+"105,000 ","109 Shelley Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,597m² ,14 Feb 2022
+"170,000 ","2/38 George Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,139m² ,11 Feb 2022
+"175,000 ","6/16 White Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,103m² ,11 Feb 2022
+"235,000 ","81 Greathead Road,",KEPNOCK QLD 4670,Vacant land,0,0,0,"1,115m² ",11 Feb 2022
+"312,000 ","4/49 Mulgrave Street...,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,2,1,126m² ,10 Feb 2022
+"230,000 ","40 Acacia St,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,815m² ,08 Feb 2022
+"100,000 ","3 Premier Terrace,",SOUTH BINGERA QLD 4670,Vacant land,0,0,0,"6,339m² ",08 Feb 2022
+"133,000 ","111 Shelley Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,763m² ,07 Feb 2022
+"330,000 ","7/35 Miller Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,75m² ,03 Feb 2022
+"322,000 ","Unit 2/42 Zunker St,",BURNETT HEADS QLD 4670,Apartment / Unit / Flat,2,1,1,86m² ,03 Feb 2022
+"195,000 ","11 Nautilus Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,795m² ",02 Feb 2022
+"195,000 ","16 Nautilus Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,650m² ",02 Feb 2022
+"210,000 ","38 Hannah Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,01 Feb 2022
+"239,000","1/9 Robert Street...,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,2,109m² ,31 Jan 2022
+"130,000","3 Powers St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",31 Jan 2022
+"300,000 ","2 Blue Fin Court,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,31 Jan 2022
+"250,000 ","11 Iluka Street,",INNES PARK QLD 4670,Vacant land,0,0,0,877m² ,31 Jan 2022
+"229,000 ","4/59 Ruddell Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,100m² ,30 Jan 2022
+"240,000 ","3/47 Gavin Street,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,3,2,1,136m² ,28 Jan 2022
+"235,000 ","6/4 Avoca Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,140m² ,28 Jan 2022
+"192,500 ","50 Rowlands Road,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"4,457m² ",28 Jan 2022
+"671,000 ","1-3/17 Griffith Street,",BUNDABERG SOUTH QLD 4670,Block of units,6,3,4,801m² ,27 Jan 2022
+"238,000 ","1/31A Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,149m² ,24 Jan 2022
+"540,000 ","67 JOHANNA BOULEVARD,",KENSINGTON QLD 4670,Vacant land,0,0,0,"3,486m² ",24 Jan 2022
+"228,000","10 Davenport Dr,",COONARR QLD 4670,Vacant land,0,0,0,"5,499m² ",22 Jan 2022
+"300,000 ","169 Martins Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"13,900m² ",19 Jan 2022
+"365,000 ","12/5 Miller Street,",BARGARA QLD 4670,Townhouse,4,2,1,179m² ,17 Jan 2022
+"490,000 ","160 Barolin Esplanade,",CORAL COVE QLD 4670,Vacant land,0,0,0,"1,000m² ",17 Jan 2022
+"187,000 ","19 Heathwood Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,918m² ,12 Jan 2022
+"215,000 ","20 Fraser Avenue,",INNES PARK QLD 4670,Vacant land,0,0,0,686m² ,10 Jan 2022
+"285,000 ","4/4, 58 MARYBOROUGH STREET,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,1,122m² ,05 Jan 2022
+"565,000 ","1 Horton Street,",NORVILLE QLD 4670,Block of units,6,1,3,800m² ,05 Jan 2022
+"490,000 ","2 Cross Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,"8,094m² ",03 Jan 2022
+"250,000 ","21 Carla Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,024m² ",02 Jan 2022
+"135,000","22 Semut Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"2,006m² ",31 Dec 2021
+"305,000 ","5/37 Electra Street,",BUNDABERG WEST QLD 4670,Townhouse,2,2,1,151m² ,23 Dec 2021
+"275,000 ","24 Starfish Crescent,",BARGARA QLD 4670,Vacant land,0,0,0,"1,004m² ",22 Dec 2021
+"281,000 ","8/37 Electra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,2,1,151m² ,22 Dec 2021
+"200,000 ","10 Finemore Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,"2,370m² ",21 Dec 2021
+"890,000 ","50-52 Alamein Street,",SVENSSON HEIGHTS QLD 4670,Block of units,12,6,6,"1,640m² ",21 Dec 2021
+"159,000 ","Block 7 Avalon Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,189m² ",20 Dec 2021
+"255,000 ","1/20 Jealous Road,",KALKIE QLD 4670,Apartment / Unit / Flat,2,1,1,94m² ,17 Dec 2021
+"276,000 ","Lot 11 St Johns Road,",WOONGARRA QLD 4670,Vacant land,0,0,0,"5,000m² ",17 Dec 2021
+"177,100 ","13 June Place,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,802m² ,15 Dec 2021
+"170,000 ","5/16 White Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,102m² ,14 Dec 2021
+"327,500 ","2/49 Baker Street,",KEPNOCK QLD 4670,Apartment / Unit / Flat,3,2,2,164m² ,14 Dec 2021
+"200,000 ","Lot 2 Gooburrum Road,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"10,000m² ",13 Dec 2021
+"310,000 ","2/10 Curtis Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,2,190m² ,10 Dec 2021
+"180,000 ","23 Young Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,601m² ,09 Dec 2021
+"215,000 ","Unit 2 (LOT 1)/128 Woongarra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,216m² ,09 Dec 2021
+"825,000 ","Lot 804 Fairymead Road,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,0,08 Dec 2021
+"420,000 ","656 Gooburrum Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,0,08 Dec 2021
+"134,000 ","14 Monarch Avenue,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,236m² ",08 Dec 2021
+"230,000 ","183A Barolin street,",AVENELL HEIGHTS QLD 4670,Vacant land,0,0,0,"1,364m² ",06 Dec 2021
+"280,000","30 Zunker St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,081m² ",06 Dec 2021
+"189,000 ","Lot 26 Thornbill Close,",BRANYAN QLD 4670,Vacant land,0,0,0,881m² ,03 Dec 2021
+"135,100","5 Powers St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",03 Dec 2021
+"256,000 ","6/3 Ann Street,",BUNDABERG EAST QLD 4670,Apartment / Unit / Flat,3,2,1,165m² ,01 Dec 2021
+"408,000 ","135 Sylvan Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,000m² ",01 Dec 2021
+"131,000","29 Heathwood Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,857m² ,01 Dec 2021
+"1,400,000 ","1A Young Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,0,30 Nov 2021
+"730,000","18 Hampson Street,",MILLBANK QLD 4670,Block of units,10,4,4,"1,012m² ",30 Nov 2021
+"165,000 ","8 Sutherland Road,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,26 Nov 2021
+"740,000 ","65 Gavin Street,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,8,4,6,"1,012m² ",26 Nov 2021
+"299,000 ","12 Brieschke street,",ELLIOTT HEADS QLD 4670,Vacant land,− 0,− 0,2,805m² ,26 Nov 2021
+"315,000","11/46 Jealous Road,",BUNDABERG EAST QLD 4670,Apartment / Unit / Flat,2,2,2,142m² ,25 Nov 2021
+"290,000 ","2/37 Electra Street,",BUNDABERG WEST QLD 4670,Townhouse,2,2,1,149m² ,25 Nov 2021
+"250,000 ","339 Woongarra Scenic Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,074m² ",25 Nov 2021
+"200,150 ","6 Colonial Court,",WINFIELD QLD 4670,Vacant land,0,0,0,"1,334m² ",24 Nov 2021
+"140,000 ","Lot 1 Zielke Avenue,",KALKIE QLD 4670,Vacant land,0,0,0,"1,222m² ",23 Nov 2021
+"520,000 ","22 Sylvan Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,642m² ",23 Nov 2021
+"250,000 ","58 Orchid Dr,",MOORE PARK BEACH QLD 4670,Vacant land,− 0,− 0,3,712m² ,22 Nov 2021
+"47,500 ","10 Lund Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",19 Nov 2021
+"250,000","9/5 Miller Street...,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,58m² ,18 Nov 2021
+"199,000 ","1/13 Cox Crescent,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,1,1,91m² ,16 Nov 2021
+"165,000 ","1 Storm Petrel Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,759m² ,16 Nov 2021
+"235,000 ","4/3 Goodwin Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,1,138m² ,12 Nov 2021
+"258,000","2/191 Barolin Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,2,1,123m² ,10 Nov 2021
+"159,000 ","Block 1 Avalon Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,038m² ",08 Nov 2021
+"375,000","2/32 Trevors Road,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,111m² ,05 Nov 2021
+"160,000 ","42 Tammy Rd,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,05 Nov 2021
+"207,500 ","22 Rokeby Court,",BRANYAN QLD 4670,Vacant land,0,0,0,"4,460m² ",04 Nov 2021
+"180,000 ","45 Gibsons Road,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",04 Nov 2021
+"160,000 ","17 Castle Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,727m² ,04 Nov 2021
+"139,000 ","72 Malvern Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,664m² ",04 Nov 2021
+"159,000 ","55 Rehbein Avenue,",QUNABA QLD 4670,Vacant land,0,0,0,794m² ,03 Nov 2021
+"200,000 ","28 Poinciana Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"1,000m² ",02 Nov 2021
+"189,000 ","12 & 13 Michel Lane,",AVOCA QLD 4670,Vacant land,0,0,0,"6,113m² ",01 Nov 2021
+"158,000 ","97 Moodies Road,",BARGARA QLD 4670,Vacant land,0,0,0,805m² ,01 Nov 2021
+"218,850 ","Unit 3 (LOT 2)/128 Woongarra Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,216m² ,01 Nov 2021
+"189,000 ","Lot 28 Thornbill Close,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,29 Oct 2021
+"330,000 ","3/35 Miller Street,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,60m² ,27 Oct 2021
+"655,000 ","1,2,3,4/39 CLUB AVE,",MOORE PARK BEACH QLD 4670,Apartment / Unit / Flat,8,4,4,607m² ,27 Oct 2021
+"135,000 ","Lot 35 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,000m² ",27 Oct 2021
+"280,000","4/48 Takalvan Street,",SVENSSON HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,110m² ,26 Oct 2021
+"399,000 ","Lot 12 Greenview Drive,",BARGARA QLD 4670,Vacant land,0,0,0,600m² ,25 Oct 2021
+"250,000","139 Davenport Drive,",COONARR QLD 4670,Vacant land,0,0,0,"4,602m² ",25 Oct 2021
+"310,000 ","73 Barolin Esplanade,",CORAL COVE QLD 4670,Vacant land,0,0,0,805m² ,25 Oct 2021
+"180,000 ","6 Olive Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,852m² ,25 Oct 2021
+"190,000 ","27 Cummins Road,",AVOCA QLD 4670,Vacant land,0,0,0,"2,095m² ",22 Oct 2021
+"285,000","23 Kingfisher Crescent,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,173m² ",22 Oct 2021
+"500,000 ","152 Woongarra Scenic Drive,",BARGARA QLD 4670,Vacant land,0,0,0,920m² ,2021
+"730,000 ","1-4/210 Barolin Street,",AVENELL HEIGHTS QLD 4670,Block of units,8,4,4,"2,032m² ",20 Oct 2021
+"180,000","2/50 Goodwin Street...,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,91m² ,20 Oct 2021
+"66,000 ","102 & 3 Mcghees Road,",WATALGAN QLD 4670,Vacant land,0,0,0,"8,381m² ",20 Oct 2021
+"199,000 ","Lot 22 Habitat Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,948m² ,18 Oct 2021
+"149,000 ","32 Doctor Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",18 Oct 2021
+"345,000 ","18 Harbour Esplanade,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,083m² ",18 Oct 2021
+"134,000 ","10 Monarch Avenue,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,230m² ",18 Oct 2021
+"159,100 ","8a Hilltop Avenue,",QUNABA QLD 4670,Vacant land,0,0,0,"1,000m² ",18 Oct 2021
+"332,500","Unit 1/37 Loeskow St,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,3,2,2,486m² ,17 Oct 2021
+"171,000 ","Lot 38 Curlew Court,",BRANYAN QLD 4670,Vacant land,0,0,0,839m² ,15 Oct 2021
+"175,000 ","8 Bragg Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,"1,344m² ",15 Oct 2021
+"169,000 ","Lot 37 Curlew Court,",BRANYAN QLD 4670,Vacant land,0,0,0,836m² ,14 Oct 2021
+"210,000 ","130 Bargara Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,800m² ,13 Oct 2021
+"189,000 ","Lot 29 Thornbill Close,",BRANYAN QLD 4670,Vacant land,0,0,0,886m² ,08 Oct 2021
+"150,000 ","24 Beach Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",08 Oct 2021
+"355,000","30 Adams Street,",BUNDABERG WEST QLD 4670,Vacant land,0,0,0,"2,023m² ",07 Oct 2021
+"150,000 ","Lot 4 Woods Road,",SHARON QLD 4670,Vacant land,0,0,0,"7,865m² ",07 Oct 2021
+"245,000 ","2 Lakefield Court...,",BRANYAN QLD 4670,Vacant land,0,0,0,"2,001m² ",06 Oct 2021
+"545,000","133 Targo Street,",BUNDABERG SOUTH QLD 4670,Block of units,6,3,3,969m² ,06 Oct 2021
+"136,000 ","84 Malvern Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,528m² ",06 Oct 2021
+"169,000 ","Lot 40 Curlew Court,",BRANYAN QLD 4670,Vacant land,0,0,0,854m² ,05 Oct 2021
+"174,000 ","Lot 39 Curlew Court,",BRANYAN QLD 4670,Vacant land,0,0,0,835m² ,05 Oct 2021
+"192,000 ","Lot 20 Chesire Place,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,883m² ",05 Oct 2021
+"330,000 ","2/151 Logan Road,",INNES PARK QLD 4670,Apartment / Unit / Flat,3,2,2,134m² ,05 Oct 2021
+"350,000 ","7 Nielson avenue,",BURNETT HEADS QLD 4670,Retirement Living,0,0,0,"1,012m² ",01 Oct 2021
+"177,000 ","25 Finemore Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,"2,026m² ",01 Oct 2021
+"184,000 ","5 Thornbill Close,",BRANYAN QLD 4670,Vacant land,0,0,0,904m² ,30 Sep 2021
+"890,000 ","1-4/108A Woondooma Street,",BUNDABERG WEST QLD 4670,Block of units,8,4,4,817m² ,30 Sep 2021
+"167,000 ","Lot 167 Bargara Headlands Estate,",INNES PARK QLD 4670,Vacant land,0,0,0,787m² ,30 Sep 2021
+"159,000 ","4a Hilltop Ave,",QUNABA QLD 4670,Vacant land,0,0,0,999m² ,29 Sep 2021
+"257,000","6/62 Electra Street...,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,3,2,1,155m² ,28 Sep 2021
+"300,000 ","4 Bluewater Drive,",ELLIOTT HEADS QLD 4670,Vacant land,− 0,− 0,2,760m² ,27 Sep 2021
+"620,000 ","1-3/2 Thomsen Street,",MILLBANK QLD 4670,Block of units,6,3,3,809m² ,27 Sep 2021
+"415,000 ","15 Lawrence Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"4,399m² ",23 Sep 2021
+"187,000 ","1/16 White St,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,101m² ,23 Sep 2021
+"240,000 ","7 Kennedy Street,",BUNDABERG WEST QLD 4670,Vacant land,0,0,0,"1,093m² ",23 Sep 2021
+"177,500 ","Lot 106 Bargara Headlands Estate,",INNES PARK QLD 4670,Vacant land,0,0,0,702m² ,22 Sep 2021
+"150,000","48 Willis Street,",SHARON QLD 4670,Vacant land,0,0,0,"7,000m² ",22 Sep 2021
+"160,000 ","44 Bishop Drive,",BUCCA QLD 4670,Vacant land,0,0,0,"20,234m² ",21 Sep 2021
+"200,000 ","Lot 21 Habitat Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,"1,062m² ",20 Sep 2021
+"920,000 ","1-4/24 Water Street,",BUNDABERG SOUTH QLD 4670,Block of units,8,4,4,"1,012m² ",20 Sep 2021
+"700,000 ","32 Sea Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,850m² ,20 Sep 2021
+"550,000 ","146 Sylvan Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,596m² ",20 Sep 2021
+"156,000 ","Block 5 Avalon Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,059m² ",17 Sep 2021
+"157,000 ","Lot 2 Burnett Shores Estate,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,128m² ",17 Sep 2021
+"152,000 ","Lot 8 Burnett Shores Estate,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,002m² ",17 Sep 2021
+"160,000 ","15 Sandstone Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",17 Sep 2021
+"145,000 ","6-12 Workmans Road,",SHARON QLD 4670,Vacant land,0,0,0,0,17 Sep 2021
+"90,000 ","3 Camira Court,",SOUTH BINGERA QLD 4670,Vacant land,0,0,0,"5,292m² ",17 Sep 2021
+"249,000 ","5/36 Takalvan Street,",SVENSSON HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,113m² ,16 Sep 2021
+"148,000 ","Lot 9 Burnett Shores Estate,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,000m² ",15 Sep 2021
+"153,000 ","Block 4 Avalon Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,001m² ",15 Sep 2021
+"255,000 ","27 Blue Water drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,750m² ,14 Sep 2021
+"268,000 ","3/47 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,3,1,2,300m² ,13 Sep 2021
+"223,000 ","2/59 Ruddell Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,94m² ,13 Sep 2021
+"225,000 ","1 Daisy court,",CORAL COVE QLD 4670,Vacant land,0,0,0,984m² ,13 Sep 2021
+"160,000 ","Lot 6 Tantitha Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,000m² ",13 Sep 2021
+"158,000 ","99 Bargara Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,799m² ,10 Sep 2021
+"283,000 ","2/48 Goodwin Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,2,138m² ,10 Sep 2021
+"170,000 ","108 Fraser Avenue,",INNES PARK QLD 4670,Vacant land,0,0,0,700m² ,10 Sep 2021
+"250,000 ","Lot 2 Gin Gin Road,",SHARON QLD 4670,Vacant land,0,0,0,"22,700m² ",10 Sep 2021
+"285,000 ","10 Princess Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,809m² ,09 Sep 2021
+"159,000 ","Block 3 Avalon Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,115m² ",09 Sep 2021
+"180,000 ","1/9 Avenell Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,102m² ,06 Sep 2021
+"169,000 ","132 Whitewash Street,",BARGARA QLD 4670,Vacant land,0,0,0,819m² ,06 Sep 2021
+"177,000 ","Lot 47 Habitat Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,840m² ,06 Sep 2021
+"275,000","2/1 SYLVAN DRIVE,",MOORE PARK BEACH QLD 4670,Townhouse,2,1,1,135m² ,06 Sep 2021
+"145,000 ","Lot 28 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,000m² ",06 Sep 2021
+"150,000 ","Lot 29 Fantail Place,",SHARON QLD 4670,Vacant land,0,0,0,"4,000m² ",06 Sep 2021
+"500,000 ","190 Fairymead Road,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"238,764m² ",04 Sep 2021
+"172,000 ","134 Bargara Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,806m² ,03 Sep 2021
+"176,000 ","131 Whitewash Street,",BARGARA QLD 4670,Vacant land,0,0,0,800m² ,02 Sep 2021
+"170,000 ","135 Bargara Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,806m² ,02 Sep 2021
+"47,000 ","16 Starkey Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",01 Sep 2021
+"156,000 ","90 Moodies Road,",BARGARA QLD 4670,Vacant land,0,0,0,769m² ,01 Sep 2021
+"182,500 ","Lot 41 Bargara Headlands Estate,",INNES PARK QLD 4670,Vacant land,0,0,0,686m² ,01 Sep 2021
+"230,000 ","79 Barolin Esplanade,",CORAL COVE QLD 4670,Vacant land,0,0,0,911m² ,31 Aug 2021
+"155,000","4 Alexander Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,778m² ,30 Aug 2021
+"210,000","7/191 Barolin Street,",AVENELL HEIGHTS QLD 4670,Block of units,1,1,1,117m² ,27 Aug 2021
+"600,000 ","16 Sea Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,27 Aug 2021
+"590,000 ","6 Sea Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,26 Aug 2021
+"287,000 ","4/7 Elliott Heads Road,",KEPNOCK QLD 4670,Apartment / Unit / Flat,2,1,1,141m² ,26 Aug 2021
+"167,000 ","101 Bargara Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,806m² ,25 Aug 2021
+"160,000 ","93 Moodies Road,",BARGARA QLD 4670,Vacant land,0,0,0,801m² ,25 Aug 2021
+"199,000 ","2/72 Burnett Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,82m² ,24 Aug 2021
+"200,000 ","3/72 Burnett Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,82m² ,24 Aug 2021
+"595,000","23 Coolanblue Ave,",INNES PARK QLD 4670,Vacant land,0,0,0,885m² ,23 Aug 2021
+"134,000 ","77 Malvern Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,206m² ",23 Aug 2021
+"174,000 ","Lot 33 Habitat Estate,",BRANYAN QLD 4670,Vacant land,0,0,0,809m² ,20 Aug 2021
+"151,000 ","Block 6 Avalon Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,098m² ",20 Aug 2021
+"275,000 ","4/148 McCarthy Road,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,300m² ,19 Aug 2021
+"105,000 ","30 Maryborough Street,",BUNDABERG SOUTH QLD 4670,Vacant land,0,0,0,503m² ,19 Aug 2021
+"340,000","7 Crown Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,029m² ",19 Aug 2021
+"495,000 ","81 Holland Street,",BARGARA QLD 4670,Vacant land,0,0,0,"1,611m² ",18 Aug 2021
+"155,000 ","31 Sheppard Avenue,",BUCCA QLD 4670,Vacant land,0,0,0,"20,000m² ",18 Aug 2021
+"170,000 ","133 Bargara Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,806m² ,16 Aug 2021
+"159,000 ","Lot 43 Habitat Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,800m² ,16 Aug 2021
+"259,000","LOT 6 Booyan Rd,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,16 Aug 2021
+"159,000 ","23 Heathwood Cresent,",QUNABA QLD 4670,Vacant land,0,0,0,"1,002m² ",16 Aug 2021
+"174,000 ","136 Bargara Beach Estate,",BARGARA QLD 4670,Vacant land,0,0,0,806m² ,13 Aug 2021
+"176,000 ","129 Whitewash Street,",BARGARA QLD 4670,Vacant land,0,0,0,800m² ,13 Aug 2021
+"525,000","323a Bourbong Street...,",MILLBANK QLD 4670,Vacant land,0,0,0,0,13 Aug 2021
+"144,000 ","Block 10 Beachmere Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,000m² ",07 Aug 2021
+"135,000 ","33 Duffy St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",05 Aug 2021
+"550,000 ","110 Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,635m² ,05 Aug 2021
+"161,000 ","19 Bragg Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,934m² ,04 Aug 2021
+"200,000 ","7 SAND PIPER GROVE,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,108m² ",04 Aug 2021
+"1,750,000 ","64 Hughes Road...,",BARGARA QLD 4670,Vacant land,0,0,0,0,03 Aug 2021
+"225,000","12 Eungella Court...,",BRANYAN QLD 4670,Vacant land,0,0,0,"4,003m² ",02 Aug 2021
+"750,000 ","A and B/13 Payne Street,",MILLBANK QLD 4670,Block of units,8,4,4,"1,344m² ",02 Aug 2021
+"60,000","21 Commodore Drive,",SOUTH BINGERA QLD 4670,Vacant land,0,0,0,"6,953m² ",02 Aug 2021
+"410,000 ","6 Whalley Street,",BARGARA QLD 4670,Vacant land,0,0,0,733m² ,30 Jul 2021
+"122,500","6 Rosewood Place,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,854m² ,30 Jul 2021
+"275,000 ","1/5 Miller Street...,",BARGARA QLD 4670,Apartment / Unit / Flat,2,1,1,68m² ,29 Jul 2021
+"235,000","11/12 Morshead Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,125m² ,27 Jul 2021
+"430,000 ","13 Norgrove Road,",BRANYAN QLD 4670,Vacant land,0,0,0,"20,200m² ",27 Jul 2021
+"155,000 ","16 Bragg Street,",BUNDABERG EAST QLD 4670,Vacant land,0,0,0,860m² ,27 Jul 2021
+"832,500 ","1-3/82 Crofton Street,",BUNDABERG WEST QLD 4670,Block of units,9,6,4,"1,012m² ",26 Jul 2021
+"471,000 ","17/107-111 Esplanade,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,113m² ,23 Jul 2021
+"1,635,000","105 Esplanade,",BARGARA QLD 4670,Block of units,14,14,−,"2,024m² ",20 Jul 2021
+"50,000","13 Blackall Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",19 Jul 2021
+"60,000","73 Perry Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"1,012m² ",19 Jul 2021
+"190,000 ","3/59 Ruddell Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,102m² ,19 Jul 2021
+"585,000 ","2C Palmer Street,",MILLBANK QLD 4670,Block of units,8,4,8,"1,012m² ",19 Jul 2021
+"265,000 ","Pine Creek Road,",PINE CREEK QLD 4670,Vacant land,0,0,0,0,19 Jul 2021
+"130,000","36 Billabong Way,",BUCCA QLD 4670,Vacant land,0,0,0,0,17 Jul 2021
+"199,000 ","32 Badilla Street,",INNES PARK QLD 4670,Vacant land,0,0,0,837m² ,15 Jul 2021
+"285,000 ","42 Moore Street,",ELLIOTT HEADS QLD 4670,Vacant land,1,− 0,1,840m² ,13 Jul 2021
+"265,000 ","5/19 Payne Street,",MILLBANK QLD 4670,Apartment / Unit / Flat,3,1,2,153m² ,13 Jul 2021
+"350,000","17/6 Miller Street,",NORVILLE QLD 4670,Apartment / Unit / Flat,3,1,1,234m² ,10 Jul 2021
+"156,000 ","91 Moodies Road,",BARGARA QLD 4670,Vacant land,0,0,0,801m² ,09 Jul 2021
+"120,000","39 Malvern Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,624m² ",08 Jul 2021
+"145,000","42 Dorron Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,07 Jul 2021
+"185,000 ","36 Parkland Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,0,05 Jul 2021
+"245,000 ","6 Dolphin Court,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,906m² ,02 Jul 2021
+"140,000 ","4 Hero Place,",KENSINGTON QLD 4670,Vacant land,0,0,0,"24,700m² ",02 Jul 2021
+"145,000","61 Orchid Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,729m² ,02 Jul 2021
+"230,000 ","81 Barolin Esplanade,",CORAL COVE QLD 4670,Vacant land,0,0,0,826m² ,29 Jun 2021
+"172,000 ","Lot 31 Plover Court, Outlook Bargara,",BARGARA QLD 4670,Vacant land,0,0,0,944m² ,28 Jun 2021
+"320,000","11 Betty Close,",CORAL COVE QLD 4670,Vacant land,0,0,0,"1,653m² ",27 Jun 2021
+"220,000 ","5/15 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,300m² ,25 Jun 2021
+"181,000 ","5 Burnett Heads Road,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,771m² ,25 Jun 2021
+"225,500 ","1/46 Jealous Road,",KALKIE QLD 4670,Apartment / Unit / Flat,2,1,1,140m² ,23 Jun 2021
+"190,000 ","10a Brand Street,",WALKERVALE QLD 4670,Vacant land,0,0,0,890m² ,2 Jun 2021
+"325,000 ","56 Johnson Street,",BARGARA QLD 4670,Vacant land,0,0,0,"1,012m² ",18 Jun 2021
+"135,000 ","7 Willow Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,748m² ,18 Jun 2021
+"730,000 ","42 George Street,",BUNDABERG SOUTH QLD 4670,Block of units,9,4,4,"1,012m² ",2021
+"186,000 ","Lot 54 Malo Drive,",BARGARA QLD 4670,Vacant land,0,0,0,810m² ,16 Jun 2021
+"190,000 ","10 Undara Court,",BRANYAN QLD 4670,Vacant land,0,0,0,"4,040m² ",16 Jun 2021
+"355,000 ","Unit 3/4A Kentia Ave,",MOORE PARK BEACH QLD 4670,Apartment / Unit / Flat,3,2,3,582m² ,16 Jun 2021
+"248,000 ","8/36 Takalvan Street,",SVENSSON HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,114m² ,16 Jun 2021
+"269,000 ","4/16 Cauchi Court,",AVOCA QLD 4670,Apartment / Unit / Flat,3,2,2,140m² ,15 Jun 2021
+"145,000 ","40 Acacia St,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,815m² ,15 Jun 2021
+"290,000 ","7/14 Stedman Street,",NORVILLE QLD 4670,Apartment / Unit / Flat,3,1,2,350m² ,15 Jun 2021
+"730,000 ","1-3/38 & 37 Rehbein Ave...,",QUNABA QLD 4670,Block of units,6,3,6,"2,747m² ",14 Jun 2021
+"415,000 ","3 Parkview Terrace,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"2,339m² ",09 Jun 2021
+"154,000 ","6 Olive Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,852m² ,09 Jun 2021
+"43,000 ","4 Blackall Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",08 Jun 2021
+"109,000 ","19 ALDRIDGE Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",05 Jun 2021
+"235,000 ","2/3 Goodwin Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,3,2,1,138m² ,04 Jun 2021
+"600,000","20 Corser St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,948m² ,01 Jun 2021
+"162,000","1/5 Chippindall Court...,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,244m² ,31 May 2021
+"220,000 ","26 Byron St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,119m² ",31 May 2021
+"170,000 ","Lot 27 Plover Court, Outlook Bargara,",BARGARA QLD 4670,Vacant land,0,0,0,792m² ,26 May 2021
+"340,000 ","39 Mount Perry Road,",BUNDABERG NORTH QLD 4670,Block of units,4,2,2,792m² ,26 May 2021
+"117,500","2 Storm Petrel Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,738m² ,26 May 2021
+"157,000 ","1/30 Lloyd Street,",WALKERVALE QLD 4670,Apartment / Unit / Flat,2,1,1,89m² ,26 May 2021
+"270,000 ","4/108 Barolin Street,",WALKERVALE QLD 4670,Apartment / Unit / Flat,3,1,2,150m² ,25 May 2021
+"213,000 ","9/12 Morshead Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,326m² ,24 May 2021
+"215,000 ","8 Bellona Court,",BARGARA QLD 4670,Vacant land,0,0,0,949m² ,24 May 2021
+"235,000","10/15A Avoca Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,121m² ,24 May 2021
+"245,000 ","20 Emperor Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,24 May 2021
+"142,000","16 Acacia St,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,725m² ,24 May 2021
+"380,000 ","30 Lihs Street,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,779m² ,22 May 2021
+"575,000 ","24 Sea Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,812m² ,21 May 2021
+"320,000","5 Marshall St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"2,000m² ",20 May 2021
+"192,000 ","Lot 27 Tantitha Road,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,000m² ",19 May 2021
+"415,000 ","5/91 Esplanade,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,119m² ,18 May 2021
+"157,000 ","7 Bowerbird Court,",BRANYAN QLD 4670,Vacant land,0,0,0,888m² ,18 May 2021
+"225,000 ","4/4 Avoca Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,300m² ,18 May 2021
+"305,000 ","4 The Pines,",MILLBANK QLD 4670,Apartment / Unit / Flat,3,2,1,127m² ,18 May 2021
+"190,000 ","2/28 Sunset Drive,",THABEBAN QLD 4670,Apartment / Unit / Flat,2,1,1,308m² ,18 May 2021
+"289,000 ","27 Royal Boulevard,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,009m² ",17 May 2021
+"220,000","41 Plum Tree Cres,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,000m² ",17 May 2021
+"180,000","23 Hansen St,",BURNETT HEADS QLD 4670,Vacant land,− 0,− 0,3,956m² ,13 May 2021
+"162,000 ","1/31 Payne Street,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,1,1,80m² ,12 May 2021
+"149,950 ","Lot 4 Honeybee Estate,",AVENELL HEIGHTS QLD 4670,Vacant land,0,0,0,735m² ,11 May 2021
+"209,900 ","9 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,052m² ",07 May 2021
+"190,000 ","13/16 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,000m² ",07 May 2021
+"155,000 ","6 Sweetwater Court,",ASHFIELD QLD 4670,Vacant land,0,0,0,796m² ,04 May 2021
+"188,000 ","25 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,004m² ",03 May 2021
+"149,990 ","Lot 5 Honeybee Estate,",AVENELL HEIGHTS QLD 4670,Vacant land,0,0,0,838m² ,28 Apr 2021
+"565,000 ","653 Branyan Drive,",BRANYAN QLD 4670,New land,− 0,− 0,3,"6,000m² ",
+"145,000 ","50 Acacia Street,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,028m² ",27 Apr 2021
+"189,500 ","Lot 18 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,018m² ",23 Apr 2021
+"230,000","123 Sylvan Drive...,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"3,991m² ",23 Apr 2021
+"140,000 ","3 Hero Place,",KENSINGTON QLD 4670,Vacant land,0,0,0,"26,500m² ",22 Apr 2021
+"170,000 ","3/11 Auer Street,",KEPNOCK QLD 4670,Apartment / Unit / Flat,2,1,1,92m² ,22 Apr 2021
+"212,000","Unit 4/56 Heaps St,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,2,103m² ,21 Apr 2021
+"175,000 ","Lot 1 Tantitha Rise Estate,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,001m² ",21 Apr 2021
+"110,000","10 Albatross Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,820m² ,21 Apr 2021
+"180,000 ","20 Parklands Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,"3,000m² ",19 Apr 2021
+"590,000 ","1 and 2/10 Wyllie Street...,",THABEBAN QLD 4670,Apartment / Unit / Flat,6,4,8,"1,141m² ",19 Apr 2021
+"625,000 ","1-5/15 Robert Street,",BUNDABERG SOUTH QLD 4670,Block of units,9,5,4,"1,012m² ",16 Apr 2021
+"340,000 ","1 Greenview Drive,",BARGARA QLD 4670,Vacant land,0,0,0,869m² ,15 Apr 2021
+"129,000 ","28 Sutherland Road,",BRANYAN QLD 4670,Vacant land,0,0,0,600m² ,14 Apr 2021
+"249,000 ","4/47 Thabeban Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,3,1,2,174m² ,13 Apr 2021
+"200,000 ","7 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,085m² ",13 Apr 2021
+"188,000 ","2/6 Water Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,100m² ,09 Apr 2021
+"140,000 ","26 Heathwood Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,655m² ,08 Apr 2021
+"160,000 ","9 Zucchero Lane,",ASHFIELD QLD 4670,Vacant land,0,0,0,804m² ,07 Apr 2021
+"120,000 ","37 Regency Road,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,394m² ",07 Apr 2021
+"640,000 ","12 Dix Street,",KEPNOCK QLD 4670,Block of units,8,4,4,"1,361m² ",06 Apr 2021
+"147,000","23 Castle Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,746m² ,06 Apr 2021
+"475,000 ","121 Sea Esplanade,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,059m² ",03 Apr 2021
+"555,000 ","3/11 Holland Street,",BARGARA QLD 4670,Townhouse,3,2,1,172m² ,02 Apr 2021
+"170,000 ","1/74 Burnett Street,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,106m² ,01 Apr 2021
+"111,000","8 Doctor St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",01 Apr 2021
+"225,000","4 RULE STREET,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,01 Apr 2021
+"258,000 ","15 Kathleen Drive,",INNES PARK QLD 4670,Vacant land,0,0,0,"2,096m² ",01 Apr 2021
+"315,000 ","11/2 Sylvan Drive,",MOORE PARK BEACH QLD 4670,Townhouse,2,3,2,"8,746m² ",01 Apr 2021
+"389,000 ","4 Judys Place,",WELCOME CREEK QLD 4670,Vacant land,3,1,−,"3,156m² ",01 Apr 2021
+"662,000 ","4 Novakoski,",KEPNOCK QLD 4670,Block of units,9,5,5,"1,177m² ",31 Mar 2021
+"185,000 ","1/6A Dunn Road,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,95m² ,30 Mar 2021
+"123,500 ","22 Sutherland Road,",BRANYAN QLD 4670,Vacant land,0,0,0,513m² ,30 Mar 2021
+"190,000 ","3/13 Cox Crescent,",MILLBANK QLD 4670,Apartment / Unit / Flat,3,1,−,105m² ,30 Mar 2021
+"130,000","38 Hannah Ct,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,30 Mar 2021
+"183,000 ","Lot 45 Malakula Street, Bargara Rise,",BARGARA QLD 4670,Vacant land,0,0,0,776m² ,29 Mar 2021
+"158,000 ","92 Moodies Road,",BARGARA QLD 4670,Vacant land,0,0,0,801m² ,29 Mar 2021
+"160,000 ","40 Appaloosa Drive,",BRANYAN QLD 4670,Vacant land,0,0,0,"4,508m² ",29 Mar 2021
+"230,000 ","Lot 8 Brookside Estate, 11 McVeigh Street,",KEPNOCK QLD 4670,Vacant land,0,0,0,"2,465m² ",29 Mar 2021
+"120,000 ","10 Malvern Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"1,789m² ",29 Mar 2021
+"210,000","Unit 1/6 Gahans Rd,",KALKIE QLD 4670,Apartment / Unit / Flat,2,1,3,154m² ,27 Mar 2021
+"186,000 ","Lot 52 Malo Drive,",BARGARA QLD 4670,Vacant land,0,0,0,810m² ,26 Mar 2021
+"520,000 ","35 Dante Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",26 Mar 2021
+"178,000 ","14 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,046m² ",26 Mar 2021
+"169,000 ","30 Zielke Avenue,",RUBYANNA QLD 4670,Vacant land,0,0,0,"2,788m² ",26 Mar 2021
+"188,000 ","Lot 16 Tantitha Rise Estate,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,014m² ",25 Mar 2021
+"322,000 ","136 Woongarra Scenic Drive,",BARGARA QLD 4670,Vacant land,− 0,− 0,2,787m² ,24 Mar 2021
+"255,000","30 Emperor Drive,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,800m² ,24 Mar 2021
+"168,000","1 Zucchero Lane,",ASHFIELD QLD 4670,Vacant land,0,0,0,810m² ,23 Mar 2021
+"375,000 ","2/91 Esplanade,",BARGARA QLD 4670,Apartment / Unit / Flat,2,2,1,183m² ,23 Mar 2021
+"165,000 ","1/16 White Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,2,1,1,101m² ,22 Mar 2021
+"220,000","10 Dorron Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,22 Mar 2021
+"130,000 ","2 Patersons Road,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,0,20 Mar 2021
+"284,000 ","3/99 Woondooma Street,",BUNDABERG WEST QLD 4670,Apartment / Unit / Flat,3,2,1,"1,012m² ",19 Mar 2021
+"130,000 ","Lot 9 Workmans Road,",SHARON QLD 4670,Vacant land,0,0,0,"5,460m² ",18 Mar 2021
+"182,000","30/20 Vasey Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,112m² ,17 Mar 2021
+"1,250,000 ","5/92 Miller Street...,",BARGARA QLD 4670,Apartment / Unit / Flat,3,3,2,202m² ,17 Mar 2021
+"125,000 ","10 Sharp Crescent,",BRANYAN QLD 4670,Vacant land,0,0,0,600m² ,17 Mar 2021
+"122,000 ","1/94 Gavin St,",BUNDABERG NORTH QLD 4670,Apartment / Unit / Flat,2,1,1,81m² ,17 Mar 2021
+"199,000 ","3 Barrons Road,",RUBYANNA QLD 4670,Vacant land,0,0,0,"30,351m² ",17 Mar 2021
+"180,000 ","3 Driftwood Court,",WINFIELD QLD 4670,Vacant land,0,0,0,789m² ,16 Mar 2021
+"240,000 ","7 Arthur Brown Court,",CORAL COVE QLD 4670,Vacant land,0,0,0,769m² ,15 Mar 2021
+"159,000 ","Lot 30 Plover Court,",BARGARA QLD 4670,Vacant land,0,0,0,792m² ,12 Mar 2021
+"155,000 ","15 Lamond Place,",BARGARA QLD 4670,Vacant land,0,0,0,"1,000m² ",12 Mar 2021
+"148,000 ","Lot 11 North Haven Drive,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,559m² ,11 Mar 2021
+"185,000 ","7/68 Anderson Street,",AVENELL HEIGHTS QLD 4670,Apartment / Unit / Flat,2,1,1,91m² ,10 Mar 2021
+"160,000 ","Lot 23 Plover Court,",BARGARA QLD 4670,Vacant land,0,0,0,753m² ,10 Mar 2021
+"179,000 ","27 Platypus Drive,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,"22,730m² ",09 Mar 2021
+"53,000","26 Normanby Street,",AVONDALE QLD 4670,Vacant land,0,0,0,"1,012m² ",08 Mar 2021
+"185,000 ","2 Greenview Drive,",BARGARA QLD 4670,Vacant land,0,0,0,441m² ,08 Mar 2021
+"166,000 ","58 Sandy Street,",BARGARA QLD 4670,Vacant land,0,0,0,695m² ,08 Mar 2021
+"182,000 ","27 James Henderson Way,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,001m² ",08 Mar 2021
+"212,500 ","1/13 Mclucas Street,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,1,1,"1,151m² ",08 Mar 2021
+"165,000 ","Lot 1 Honeybee Estate,",AVENELL HEIGHTS QLD 4670,Vacant land,0,0,0,"1,015m² ",07 Mar 2021
+"195,000","8 Hunter St,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,012m² ",07 Mar 2021
+"395,000 ","106 Miller Street ( Lot 2),",BARGARA QLD 4670,Vacant land,0,0,0,659m² ,05 Mar 2021
+"187,000","89 Shelley Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,835m² ,05 Mar 2021
+"145,000 ","8 Finemore Crescent,",QUNABA QLD 4670,Vacant land,0,0,0,"2,185m² ",04 Mar 2021
+"184,000 ","Lot 36 Malakula Street,",BARGARA QLD 4670,Vacant land,0,0,0,796m² ,03 Mar 2021
+"130,000 ","1 Toppers Drive,",CORAL COVE QLD 4670,Vacant land,− 0,1,−,645m² ,03 Mar 2021
+"176,000 ","Lot 24 Plover Court,",BARGARA QLD 4670,Vacant land,0,0,0,"1,026m² ",02 Mar 2021
+"110,000","6 Isaac Moore Dr,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,02 Mar 2021
+"155,000","Lot 60 Malvern Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,0,01 Mar 2021
+"125,000 ","Lot 63 Tanderra Drive,",SOUTH KOLAN QLD 4670,Vacant land,0,0,0,"9,966m² ",01 Mar 2021
+"209,000 ","1/108 Barolin St,",WALKERVALE QLD 4670,Apartment / Unit / Flat,2,1,1,90m² ,01 Mar 2021
+"184,000 ","Lot 39 Malakula Street,",BARGARA QLD 4670,Vacant land,0,0,0,793m² ,26 Feb 2021
+"272,000","2 Burnett Heads Road,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,044m² ",26 Feb 2021
+"165,000","Unit 1/47 Greathead Rd,",KEPNOCK QLD 4670,Apartment / Unit / Flat,2,1,1,831m² ,26 Feb 2021
+"550,000 ","L16 Sea Esplanade,",ELLIOTT HEADS QLD 4670,Vacant land,0,0,0,875m² ,25 Feb 2021
+"135,000 ","35 Black Beauty Court,",KENSINGTON QLD 4670,Vacant land,0,0,0,"24,402m² ",25 Feb 2021
+"149,000","80 Greathead Road,",ASHFIELD QLD 4670,Vacant land,0,0,0,760m² ,24 Feb 2021
+"180,000 ","Lot 28 Tantitha Rise Estate,",GOOBURRUM QLD 4670,Vacant land,0,0,0,"4,005m² ",24 Feb 2021
+"122,500","60 Orchid Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,711m² ,24 Feb 2021
+"189,000 ","3 Greenview Drive,",BARGARA QLD 4670,Vacant land,0,0,0,441m² ,23 Feb 2021
+"165,000 ","8 Back Hill Place...,",CORAL COVE QLD 4670,Vacant land,0,0,0,"1,560m² ",23 Feb 2021
+"167,000 ","32 Badilla St,",INNES PARK QLD 4670,Vacant land,0,0,0,837m² ,22 Feb 2021
+"150,000 ","6 Maple Court,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,916m² ,22 Feb 2021
+"480,000","18 Sylvan Drive,",MOORE PARK BEACH QLD 4670,Vacant land,0,0,0,"4,516m² ",22 Feb 2021
+"243,000","1/54 Avoca Street,",MILLBANK QLD 4670,Apartment / Unit / Flat,2,1,1,"2,989m² ",21 Feb 2021
+"122,500","1 Christsen Street,",BUNDABERG NORTH QLD 4670,Vacant land,0,0,0,"1,012m² ",19 Feb 2021
+"175,000","5/46 George Street...,",BUNDABERG SOUTH QLD 4670,Apartment / Unit / Flat,2,1,1,97m² ,19 Feb 2021
+"125,000 ","30 Sutherland Road,",BRANYAN QLD 4670,Vacant land,0,0,0,600m² ,18 Feb 2021
+"125,000 ","11 Sharp Cresent,",BRANYAN QLD 4670,Vacant land,0,0,0,604m² ,17 Feb 2021
+"118,000","2/85 Woongarra Street,",BUNDABERG WEST QLD 4670,Townhouse,2,1,1,94m² ,17 Feb 2021
+"165,000 ","1-8/33 Von Deest Street,",KENSINGTON QLD 4670,Vacant land,0,0,0,"4,072m² ",16 Feb 2021
+"183,000 ","12 Dryden Street,",BURNETT HEADS QLD 4670,Vacant land,0,0,0,"1,038m² ",15 Feb 2021

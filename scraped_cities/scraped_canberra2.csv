@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"695,000 ","5/11 Hansel Place,",GORDON ACT 2906,Townhouse,3,2,2,399m² ,2024
+"755,000 ","34/19 Howitt Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,1,1,122m² ,23 Apr 2024
+"562,500 ","51/1 Beissel Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,2,2,1,"3,667m² ",18 Apr 2024
+"527,000 ","317/80 Chandler Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,2,2,2,85m² ,17 Apr 2024
+"660,000 ","16/71 Lawrenson Circuit,",JACKA ACT 2914,Townhouse,3,2,1,124m² ,2024
+"662,500 ","Block 31 Section 94,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,460m² ,16 Apr 2024
+"650,000 ","2 Laurel Martyn View,",WHITLAM ACT 2611,Vacant land,0,0,0,500m² ,16 Apr 2024
+"710,000 ","9/40 Florence Taylor Street,",GREENWAY ACT 2900,Townhouse,3,2,2,320m² ,12 Apr 2024
+"467,000 ","30/20 Allara Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,"1,380m² ",11 Apr 2024
+"590,000 ","44/27 Cromwell Circuit,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,260m² ,10 Apr 2024
+"810,000 ","42 Taggart Terrace,",COOMBS ACT 2611,Townhouse,3,2,2,199m² ,2024
+"707,000 ","31/224 Flemington Road,",HARRISON ACT 2914,Townhouse,3,2,1,"11,935m² ",05 Apr 2024
+"937,500 ","32 Cedar Street,",HARRISON ACT 2914,Townhouse,4,2,2,248m² ,02 Apr 2024
+"631,000 ","13/36 Cromwell Circuit,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,504m² ,02 Apr 2024
+"340,000 ","267/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,1,1,1,"7,284m² ",01 Apr 2024
+"820,000 ","23 Rymill Place,",MAWSON ACT 2607,Townhouse,3,2,2,326m² ,28 Mar 2024
+"650,000 ","6 Tingwell Street,",WHITLAM ACT 2611,Vacant land,0,0,0,499m² ,28 Mar 2024
+"1,685,000 ","2/72 Novar Street,",YARRALUMLA ACT 2600,Townhouse,3,2,2,468m² ,2024
+"453,000 ","2/2 Cultivation Street,",HARRISON ACT 2914,Townhouse,1,1,1,375m² ,26 Mar 2024
+"655,000 ","8/38 Kenyon Circuit,",MONASH ACT 2904,Townhouse,3,1,2,310m² ,25 Mar 2024
+"725,000 ","4 Abdullah Street,",BONNER ACT 2914,Townhouse,3,2,2,296m² ,23 Mar 2024
+"750,000 ","1/57 Krefft Street,",FLOREY ACT 2615,Townhouse,3,2,2,458m² ,2024
+"635,000 ","2/1 Pinkerton Circuit,",KAMBAH ACT 2902,Townhouse,3,1,2,411m² ,2024
+"760,000 ","17/2 Clare Burton Cres,",FRANKLIN ACT 2913,Townhouse,3,3,2,100m² ,22 Mar 2024
+"1,610,000 ","25C Borrowdale Street,",RED HILL ACT 2603,Townhouse,3,2,2,294m² ,22 Mar 2024
+"740,000 ","53 Cazneaux Crescent,",WESTON ACT 2611,Townhouse,2,1,2,175m² ,22 Mar 2024
+"707,000 ","4/101 Britten Jones Drive,",HOLT ACT 2615,Townhouse,3,2,1,316m² ,19 Mar 2024
+"345,000 ","5/39 Brigalow Street,",O'CONNOR ACT 2602,Apartment / Unit / Flat,1,1,1,"8,466m² ",18 Mar 2024
+"650,000 ","3 Greeves Street,",WANNIASSA ACT 2903,Vacant land,0,0,0,891m² ,15 Mar 2024
+"846,000 ","22/1 Yidaki Way,",MONCRIEFF ACT 2914,Townhouse,4,2,2,188m² ,13 Mar 2024
+"630,000 ","Block C Section AX,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,423m² ,2024
+"680,000 ","11/24 Railway Street,",OAKS ESTATE ACT 2620,Townhouse,3,2,2,161m² ,11 Mar 2024
+"637,000 ","7/30 William Hudson Crescent,",MONASH ACT 2904,Townhouse,3,1,1,250m² ,2024
+"889,000 ","1/58 Wentworth Avenue,",KINGSTON ACT 2604,Apartment / Unit / Flat,3,2,2,"2,204m² ",06 Mar 2024
+"427,000 ","20/19 Moorhouse Street,",O'CONNOR ACT 2602,Retirement Living,1,1,1,"4,126m² ",05 Mar 2024
+"552,000","9/9 Earle Place,",PAGE ACT 2614,Townhouse,2,1,1,195m² ,2024
+"773,000 ","4/12 Helby Street,",HARRISON ACT 2914,Townhouse,3,2,2,225m² ,01 Mar 2024
+"935,000 ","9/21 Keira Street,",NARRABUNDAH ACT 2604,Townhouse,2,2,1,260m² ,28 Feb 2024
+"550,000 ","13 Bob Whan Street,",STRATHNAIRN ACT 2615,Vacant land,0,0,0,520m² ,28 Feb 2024
+"330,000 ","36B/60 Wattle Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,2,1,1,"11,172m² ",27 Feb 2024
+"625,000 ","3 Greene Place,",BELCONNEN ACT 2617,Townhouse,2,2,1,195m² ,2024
+"530,000 ","18/85 Macfarlane Burnett Avenue,",MACGREGOR ACT 2615,Townhouse,2,1,1,187m² ,23 Feb 2024
+"585,000 ","20 Gordon Ford Way,",TAYLOR ACT 2913,Vacant land,0,0,0,584m² ,22 Feb 2024
+"1,100,000 ","35 Darling Street,",BARTON ACT 2600,Apartment / Unit / Flat,2,2,1,93m² ,21 Feb 2024
+"1,300,000","809/19 Marcus Clarke Street,",CITY ACT 2601,Apartment / Unit / Flat,3,2,2,"4,069m² ",1 Feb 2024
+"735,000 ","2/42 Fullagar Crescent,",HIGGINS ACT 2615,Townhouse,3,3,2,"1,719m² ",21 Feb 2024
+"415,000 ","70/68 Hardwick Crescent,",HOLT ACT 2615,Apartment / Unit / Flat,2,1,1,"10,197m² ",21 Feb 2024
+"472,000 ","609/1 Elouera Street,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"5,805m² ",20 Feb 2024
+"620,000 ","26/41 Ern Florence Crescent,",THEODORE ACT 2905,Apartment / Unit / Flat,3,1,1,289m² ,9 Feb 2024
+"1,600,000 ","74B Novar Street,",YARRALUMLA ACT 2600,Townhouse,3,2,2,936m² ,19 Feb 2024
+"1,260,000 ","17/36 Shackleton Circuit,",MAWSON ACT 2607,Townhouse,4,2,2,"25,834m² ",2024
+"720,000 ","28 Broadsmith Street,",SCULLIN ACT 2614,Townhouse,3,1,1,315m² ,7 Feb 2024
+"820,000 ","10/4 Burgoyne Street,",BONYTHON ACT 2905,Townhouse,4,2,2,207m² ,16 Feb 2024
+"547,500 ","60/2 Peter Cullen Way,",WRIGHT ACT 2611,Apartment / Unit / Flat,2,2,2,"17,600m² ",16 Feb 2024
+"785,000 ","1/33 Ronald Walker Street,",CASEY ACT 2913,Townhouse,4,2,2,299m² ,2024
+"747,000 ","2/5 Gould Street,",TURNER ACT 2612,Apartment / Unit / Flat,2,2,1,188m² ,4 Feb 2024
+"389,000 ","64/15 Braybrooke Street,",BRUCE ACT 2617,Apartment / Unit / Flat,1,1,1,"7,200m² ",13 Feb 2024
+"542,000","75 Tenison Woods Circuit,",BONYTHON ACT 2905,Townhouse,3,2,2,414m² ,2024
+"728,000 ","409/240 Bunda Street,",CITY ACT 2601,Apartment / Unit / Flat,2,2,1,"4,180m² ",09 Feb 2024
+"620,000 ","6/1 Hoffmann Street,",MONCRIEFF ACT 2914,Townhouse,2,2,2,101m² ,09 Feb 2024
+"675,000 ","97 Limb Circuit,",MONCRIEFF ACT 2914,Townhouse,3,1,2,239m² ,07 Feb 2024
+"640,000","4/8 Walhallow Street,",HAWKER ACT 2614,Townhouse,2,1,1,402m² ,2024
+"575,000 ","2/36 John Holt Street,",MACGREGOR ACT 2615,Townhouse,2,1,1,252m² ,06 Feb 2024
+"485,000 ","G12/39 Braybrooke Street,",BRUCE ACT 2617,Apartment / Unit / Flat,2,1,1,91m² ,2024
+"875,000 ","2 Gladman Close,",ISAACS ACT 2607,Townhouse,3,2,2,632m² ,2 Feb 2024
+"430,000 ","201/86-88 Northbourne Avenue,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"4,181m² ",01 Feb 2024
+"653,000 ","13/17 Mather Street,",WESTON ACT 2611,Townhouse,2,1,1,247m² ,31 Jan 2024
+"599,000 ","20/188 Hawker Place,",HAWKER ACT 2614,Apartment / Unit / Flat,3,2,2,"2,537m² ",24 Jan 2024
+"750,000","8/68 Lorraway Street,",HOLT ACT 2615,Townhouse,3,2,2,296m² ,24 Jan 2024
+"830,000 ","3/1 Gibbes Place,",WEETANGERA ACT 2614,Townhouse,3,2,2,224m² ,23 Jan 2024
+"646,000 ","13 Fairfield Street,",CRACE ACT 2911,Townhouse,2,1,1,135m² ,16 Jan 2024
+"460,000","7/89 Werriwa Crescent,",ISABELLA PLAINS ACT 2905,Townhouse,1,1,1,301m² ,13 Jan 2024
+"770,000 ","29 Potoroo Street,",THROSBY ACT 2914,Vacant land,0,0,0,482m² ,11 Jan 2024
+"690,000 ","31/1 Arthur Blakeley Way,",COOMBS ACT 2611,Townhouse,3,2,2,123m² ,08 Jan 2024
+"625,000 ","49 Kootingal Street,",GIRALANG ACT 2617,Townhouse,2,1,1,413m² ,22 Dec 2023
+"925,000 ","10/2 Marr Street,",PEARCE ACT 2607,Townhouse,3,2,2,370m² ,22 Dec 2023
+"660,000 ","25 Dobikin Street,",CRACE ACT 2911,Townhouse,2,1,1,140m² ,21 Dec 2023
+"615,000 ","45/88 Narrambla Terrace,",LAWSON ACT 2617,Townhouse,2,2,1,121m² ,21 Dec 2023
+"1,215,000","38/50 Ellenborough Street,",LYNEHAM ACT 2602,Townhouse,3,2,2,315m² ,21 Dec 2023
+"662,000 ","18/174 Clive Steele Avenue,",MONASH ACT 2904,Townhouse,3,1,1,174m² ,21 Dec 2023
+"580,000 ","13/25 Totterdell Street,",BELCONNEN ACT 2617,Townhouse,2,1,1,210m² ,20 Dec 2023
+"410,000 ","115/1 Braybrooke Street,",BRUCE ACT 2617,Apartment / Unit / Flat,2,1,1,"13,522m² ",19 Dec 2023
+"860,000 ","9/28 Marie Little Crescent,",DENMAN PROSPECT ACT 2611,Townhouse,3,2,2,"13,268m² ",2023
+"1,630,000 ","12/22 Canberra Avenue,",FORREST ACT 2603,Apartment / Unit / Flat,3,2,2,152m² ,15 Dec 2023
+"620,000 ","3/49 Dooland Court,",NICHOLLS ACT 2913,Townhouse,3,1,1,297m² ,15 Dec 2023
+"716,000 ","11/6 Merri Place,",CONDER ACT 2906,Townhouse,3,2,4,294m² ,14 Dec 2023
+"410,000 ","5A/60 Wattle St,",LYNEHAM ACT 2602,Apartment / Unit / Flat,2,1,1,"11,172m² ",14 Dec 2023
+"805,000 ","32/27 Temperley Street,",NICHOLLS ACT 2913,Townhouse,3,2,2,395m² ,2023
+"1,930,000","1/28 Chauvel Street,",CAMPBELL ACT 2612,Townhouse,3,2,2,194m² ,12 Dec 2023
+"720,000 ","4/10 Marou Place,",NGUNNAWAL ACT 2913,Townhouse,3,2,2,188m² ,11 Dec 2023
+"700,000 ","18 Barlow Street,",SCULLIN ACT 2614,Townhouse,3,1,1,325m² ,11 Dec 2023
+"647,500","23 Fernyhough Crescent,",LYNEHAM ACT 2602,Townhouse,2,2,1,127m² ,2023
+"844,500 ","3/40 Marr Street - 'Edison Gardens',",PEARCE ACT 2607,Townhouse,3,2,2,410m² ,2023
+"507,000 ","125/32 Blackall Street,",BARTON ACT 2600,Apartment / Unit / Flat,1,1,1,53m² ,08 Dec 2023
+"670,000","9/60 Copland Drive,",EVATT ACT 2617,Townhouse,3,2,2,152m² ,08 Dec 2023
+"900,000 ","11/2 Hodgson Place,",PEARCE ACT 2607,Townhouse,3,1,2,403m² ,8 Dec 2023
+"591,000 ","49/3 Burbury Close,",BARTON ACT 2600,Apartment / Unit / Flat,1,1,1,"4,697m² ",06 Dec 2023
+"830,000 ","30 Neil Currie Street,",CASEY ACT 2913,Townhouse,4,2,2,240m² ,06 Dec 2023
+"660,000 ","2/6 Edith Place,",AMAROO ACT 2914,Townhouse,2,1,2,422m² ,3 Dec 2023
+"1,014,000 ","4 Downing Place,",COOK ACT 2614,Townhouse,3,2,2,445m² ,2023
+"740,000 ","3/48 Siroset Close,",DUNLOP ACT 2615,Townhouse,3,2,2,318m² ,2023
+"770,000","9/123 Kelleway Avenue,",NICHOLLS ACT 2913,Townhouse,3,2,2,346m² ,2023
+"400,000 ","6/68 College Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,"21,898m² ",01 Dec 2023
+"350,000 ","187/142 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,1,1,1,"6,740m² ",30 Nov 2023
+"750,000 ","123 Sutherland Crescent,",TAYLOR ACT 2913,Townhouse,3,2,2,175m² ,30 Nov 2023
+"570,000","31/25 Pinkerton Circuit,",KAMBAH ACT 2902,Townhouse,2,1,1,159m² ,29 Nov 2023
+"1,375,000 ","5/44 Shackleton Circuit,",MAWSON ACT 2607,Townhouse,4,2,2,840m² ,28 Nov 2023
+"615,000 ","18 Tingwell Street,",WHITLAM ACT 2611,Vacant land,0,0,0,419m² ,27 Nov 2023
+"524,000 ","75 Karney Street,",KAMBAH ACT 2902,Vacant land,0,0,0,855m² ,2023
+"935,000 ","7 Bickley Close,",STIRLING ACT 2611,Townhouse,3,2,3,532m² ,2023
+"605,000 ","27/2 Hinder Street,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,3,2,2,108m² ,23 Nov 2023
+"1,220,000 ","2 Esplin Street,",TAYLOR ACT 2913,New apartments / off the plan,4,3,2,482m² ,23 Nov 2023
+"495,000 ","1/1 Ashley Drive,",WANNIASSA ACT 2903,Townhouse,1,1,1,180m² ,22 Nov 2023
+"870,000","12/70 Bourne Street,",COOK ACT 2614,Townhouse,2,1,1,376m² ,21 Nov 2023
+"511,000 ","15/1 Waddell Place,",CURTIN ACT 2605,Apartment / Unit / Flat,2,2,2,"1,816m² ",21 Nov 2023
+"532,500 ","13/13 Sherwood Circuit,",GORDON ACT 2906,Townhouse,2,1,1,238m² ,20 Nov 2023
+"580,000 ","34 Dallachy Place,",PAGE ACT 2614,Townhouse,2,1,1,199m² ,2023
+"725,000 ","426 Antill Street,",WATSON ACT 2602,Townhouse,3,1,1,323m² ,2023
+"915,000 ","63/44 Macquarie Street,",BARTON ACT 2600,Apartment / Unit / Flat,2,2,2,91m² ,17 Nov 2023
+"700,000 ","126/163 Mortimer Lewis Drive,",GREENWAY ACT 2900,Townhouse,3,2,2,"29,267m² ",14 Nov 2023
+"630,000 ","84/25 Pinkerton Circuit -'Lakeview Gardens',",KAMBAH ACT 2902,Townhouse,3,2,2,343m² ,13 Nov 2023
+"580,000 ","21/21 Eastlake Parade,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,95m² ,13 Nov 2023
+"705,000 ","4 Eggins Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,442m² ,10 Nov 2023
+"570,000","14/16 Damala Street,",WARAMANGA ACT 2611,Townhouse,2,1,1,156m² ,10 Nov 2023
+"990,000 ","38 Buvelot Street,",WESTON ACT 2611,Vacant land,0,0,0,913m² ,10 Nov 2023
+"1,315,000 ","31A Maclaurin Crescent,",CHIFLEY ACT 2606,Townhouse,4,2,3,350m² ,09 Nov 2023
+"605,000","13 Murrjinelle Circuit,",BONNER ACT 2914,Townhouse,2,1,2,240m² ,08 Nov 2023
+"780,000","36 Gordon Ford Way,",TAYLOR ACT 2913,Vacant land,0,0,0,920m² ,08 Nov 2023
+"785,000 ","13/41 Jinka Street,",HAWKER ACT 2614,Townhouse,3,1,2,440m² ,2023
+"690,000 ","30 Hibberd Crescent,",FORDE ACT 2914,Townhouse,2,1,1,169m² ,03 Nov 2023
+"550,000 ","12/15 Tallon Place,",GORDON ACT 2906,Townhouse,2,1,1,276m² ,03 Nov 2023
+"615,000 ","25 Alistair Knox Tce,",TAYLOR ACT 2913,Vacant land,0,0,0,540m² ,03 Nov 2023
+"735,000","2 Bolot Close,",TAYLOR ACT 2913,Vacant land,0,0,0,749m² ,01 Nov 2023
+"665,000 ","25 Tom Nicholas Crescent,",FORDE ACT 2914,Townhouse,2,1,1,215m² ,30 Oct 2023
+"871,521","9/15 Dickins Street,",FORDE ACT 2914,Townhouse,3,2,2,220m² ,27 Oct 2023
+"950,000 ","6 Fidler Court,",BRUCE ACT 2617,New apartments / off the plan,3,3,2,292m² ,26 Oct 2023
+"947,000 ","34 Chanter Terrace,",COOMBS ACT 2611,Townhouse,4,3,2,199m² ,2023
+"845,000 ","2/25 Evadell Street,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,438m² ,23 Oct 2023
+"570,000 ","13 Gatehouse Place,",BELCONNEN ACT 2617,Townhouse,2,1,2,238m² ,2023
+"600,000 ","19/24 Beazley Crescent,",CALWELL ACT 2905,Townhouse,3,1,1,260m² ,18 Oct 2023
+"720,000 ","42 Hanley Street,",CASEY ACT 2913,Vacant land,0,0,0,605m² ,18 Oct 2023
+"764,000","1/73 Dalkin Crescent,",CASEY ACT 2913,Townhouse,3,3,2,265m² ,18 Oct 2023
+"412,000 ","61D/58 Wattle Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,2,1,1,"12,000m² ",18 Oct 2023
+"480,000 ","9/4 Heard Street,",MAWSON ACT 2607,Apartment / Unit / Flat,2,1,1,"6,207m² ",18 Oct 2023
+"2,300,000 ","18 Kallaroo Road,",PIALLIGO ACT 2609,Vacant land,0,0,0,0,2023
+"540,000 ","11/10 Ashby Circuit,",KAMBAH ACT 2902,Townhouse,2,1,2,310m² ,17 Oct 2023
+"630,000 ","14 Crockett Place,",HOLT ACT 2615,Townhouse,2,1,2,297m² ,13 Oct 2023
+"659,500","199/15 Irving Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,2,2,2,102m² ,12 Oct 2023
+"830,000 ","81 Hallen Close,",PHILLIP ACT 2606,Townhouse,3,2,2,182m² ,10 Oct 2023
+"625,000 ","7 Ellis Stone Terrace,",TAYLOR ACT 2913,Vacant land,0,0,0,540m² ,10 Oct 2023
+"715,000 ","148 Plimsoll Drive,",CASEY ACT 2913,Townhouse,3,2,2,198m² ,06 Oct 2023
+"765,000","21/11 Sydney Avenue,",BARTON ACT 2600,Apartment / Unit / Flat,2,2,2,112m² ,05 Oct 2023
+"635,000 ","41/60 Copland Drive,",EVATT ACT 2617,Townhouse,3,2,1,191m² ,03 Oct 2023
+"680,000 ","4/6 Goldner Circuit,",MELBA ACT 2615,Townhouse,3,2,1,342m² ,03 Oct 2023
+"253,000 ","1C/6 Irvine Street,",WATSON ACT 2602,Apartment / Unit / Flat,1,1,1,"4,365m² ",03 Oct 2023
+"820,000 ","4/5 Buckingham Street,",AMAROO ACT 2914,Townhouse,3,2,2,348m² ,2023
+"603,000 ","12/26 Chave Street,",HOLT ACT 2615,Townhouse,3,1,2,253m² ,27 Sep 2023
+"1,165,000 ","10/25 Temperley Street,",NICHOLLS ACT 2913,Townhouse,4,2,2,471m² ,27 Sep 2023
+"499,000 ","152/45 Catalano Street,",WRIGHT ACT 2611,Apartment / Unit / Flat,2,2,2,"21,170m² ",27 Sep 2023
+"1,006,000","2 Kemp Close,",SWINGER HILL ACT 2606,Townhouse,3,2,1,404m² ,6 Sep 2023
+"543,000 ","7/28 Mcelhone Court,",BELCONNEN ACT 2617,Townhouse,3,2,1,209m² ,24 Sep 2023
+"735,000","14 Hallen Close,",SWINGER HILL ACT 2606,Townhouse,2,1,1,173m² ,2023
+"655,000","47 MacLachlan Street,",HOLDER ACT 2611,Townhouse,2,1,1,374m² ,22 Sep 2023
+"1,320,000 ","15 Walter Hood Lane,",RED HILL ACT 2603,Vacant land,0,0,0,577m² ,22 Sep 2023
+"555,000","24/815 Horse Park Drive,",AMAROO ACT 2914,Townhouse,2,2,2,135m² ,21 Sep 2023
+"520,000","1 Rag Holmes Street,",MACGREGOR ACT 2615,Vacant land,0,0,0,651m² ,1 Sep 2023
+"755,000","44 Gillespie Street,",WEETANGERA ACT 2614,Townhouse,4,2,1,285m² ,21 Sep 2023
+"680,000 ","12/2 Hoffmann Street,",MONCRIEFF ACT 2914,Townhouse,3,2,2,"6,468m² ",19 Sep 2023
+"510,188 ","107/230 Flemington Road,",HARRISON ACT 2914,Apartment / Unit / Flat,2,2,2,65m² ,5 Sep 2023
+"799,999 ","27/11 Castan Street,",COOMBS ACT 2611,Townhouse,4,3,2,186m² ,14 Sep 2023
+"545,000 ","13 Hamer Street,",GUNGAHLIN ACT 2912,Townhouse,2,1,2,592m² ,14 Sep 2023
+"575,000 ","62/148 Flemington Road,",HARRISON ACT 2914,Apartment / Unit / Flat,3,2,2,"13,556m² ",12 Sep 2023
+"842,000 ","165 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,279m² ,2023
+"750,000 ","121 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Townhouse,4,2,1,248m² ,2023
+"699,000 ","20 Laurel Martyn View,",WHITLAM ACT 2611,Vacant land,0,0,0,587m² ,2023
+"420,000 ","35/21 Battye Street,",BRUCE ACT 2617,Apartment / Unit / Flat,2,1,1,"13,522m² ",08 Sep 2023
+"748,000 ","6 Hart Close,",PALMERSTON ACT 2913,Townhouse,3,1,2,363m² ,08 Sep 2023
+"900,000 ","136 Lambrigg Street,",FARRER ACT 2607,Vacant land,0,0,0,752m² ,7 Sep 2023
+"700,000 ","39 Pavonia Street,",RIVETT ACT 2611,Vacant land,0,0,0,771m² ,07 Sep 2023
+"680,000 ","23/33 Arthur Blakeley Way,",COOMBS ACT 2611,Townhouse,3,2,2,123m² ,06 Sep 2023
+"665,000 ","26 Pat Lovell Crescent,",WHITLAM ACT 2611,Vacant land,0,0,0,447m² ,04 Sep 2023
+"1,045,000 ","11/15 Charteris Crescent,",CHIFLEY ACT 2606,Townhouse,3,2,2,202m² ,2023
+"737,000 ","85 McMichael Terrace,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,540m² ,01 Sep 2023
+"811,000 ","4 Tuffin Lane,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,254m² ,01 Sep 2023
+"625,000 ","52 Dalkin Crescent,",CASEY ACT 2913,Townhouse,3,2,1,54m² ,30 Aug 2023
+"875,000","19 Govett Place,",HOLDER ACT 2611,Townhouse,4,2,3,662m² ,0 Aug 2023
+"630,000 ","31/35 Torrens Street,",BRADDON ACT 2612,Apartment / Unit / Flat,2,2,2,"2,299m² ",29 Aug 2023
+"595,000 ","28 Leontine Loop,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,395m² ,29 Aug 2023
+"820,000 ","44/50 Wilkins Street,",MAWSON ACT 2607,Townhouse,3,2,2,198m² ,25 Aug 2023
+"395,000 ","807/335 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,1,1,1,"11,000m² ",21 Aug 2023
+"601,000","6 Penketh Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,414m² ,14 Aug 2023
+"1,277,000 ","7/64 Arndell Street,",MACQUARIE ACT 2614,Townhouse,4,2,2,215m² ,14 Aug 2023
+"610,000 ","9/135 Easty Street,",PHILLIP ACT 2606,Townhouse,2,2,1,100m² ,06 Aug 2023
+"1,500,000 ","1/42 Adder Street,",HARRISON ACT 2914,Townhouse,5,3,2,434m² ,2023
+"936,600 ","50 Dexter Street,",COOK ACT 2614,Townhouse,3,1,2,317m² ,2023
+"865,000 ","1/43 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,2,2,589m² ,25 Jul 2023
+"593,000 ","101/99 Eastern Valley Way,",BELCONNEN ACT 2617,Apartment / Unit / Flat,2,2,2,"7,622m² ",20 Jul 2023
+"780,000 ","7/3 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,4,2,2,385m² ,2023
+"765,000 ","33 Elkedra Close,",HAWKER ACT 2614,Townhouse,3,2,2,353m² ,2023
+"750,000 ","8/12 Helby Street,",HARRISON ACT 2914,Townhouse,3,2,2,231m² ,13 Jul 2023
+"395,000 ","82/64 College Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,"21,898m² ",11 Jul 2023
+"635,000 ","19/8 Glenmaggie Street,",DUFFY ACT 2611,Townhouse,2,1,1,242m² ,11 Jul 2023
+"900,000 ","6/21 Krantzcke Circuit,",NICHOLLS ACT 2913,Townhouse,4,2,2,315m² ,08 Jul 2023
+"615,000 ","10 Nell Edeson Street,",TAYLOR ACT 2913,Vacant land,0,0,0,435m² ,06 Jul 2023
+"460,000 ","225/15 Irving Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,1,1,1,"9,680m² ",2023
+"525,000 ","20 Leontine Loop,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,384m² ,04 Jul 2023
+"720,000",,COOMBS ACT 2611,Townhouse,3,2,2,200m² ,03 Jul 2023
+"880,000 ","32 Glow Worm Grove,",HARRISON ACT 2914,Townhouse,4,2,2,300m² ,3 Jul 2023
+"725,000","34 Crone Terrace,",TAYLOR ACT 2913,Vacant land,0,0,0,764m² ,03 Jul 2023
+"745,000","10/22 Namatjira Drive,",WESTON ACT 2611,Townhouse,3,2,1,242m² ,2023
+"600,000 ","12/82 Pennington Crescent,",CALWELL ACT 2905,Townhouse,2,1,2,225m² ,29 Jun 2023
+"700,000 ","9/100 Plimsoll Drive,",CASEY ACT 2913,Townhouse,3,2,2,"4,347m² ",28 Jun 2023
+"597,000 ","16 Connelly Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,195m² ,2023
+"540,000 ","60/136 Thynne Street,",BRUCE ACT 2617,Apartment / Unit / Flat,2,2,2,"21,569m² ",22 Jun 2023
+"675,200 ","14 Eggins Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,422m² ,22 Jun 2023
+"630,000 ","8/93 Bimberi Crescent,",PALMERSTON ACT 2913,Townhouse,2,2,1,257m² ,22 Jun 2023
+"699,000","18/2 Rouseabout Street,",LAWSON ACT 2617,Townhouse,3,2,2,104m² ,21 Jun 2023
+"600,000","6/12 Tewksbury Circuit,",THEODORE ACT 2905,Townhouse,3,1,1,"9,911m² ",18 Jun 2023
+"4,100,000","43 Tasmania Circle,",FORREST ACT 2603,Vacant land,0,0,0,"2,167m² ",2023
+"1,156,000 ","46 Waratah Street,",O'CONNOR ACT 2602,Vacant land,0,0,0,663m² ,2023
+"420,000 ","313/17 Dooring Street,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"5,899m² ",14 Jun 2023
+"590,000","14/7 Loveday Crescent,",CASEY ACT 2913,Townhouse,2,2,1,78m² ,2023
+"740,000 ","11/27 Paperbark Street,",BANKS ACT 2906,Townhouse,4,2,2,"6,987m² ",13 Jun 2023
+"775,000 ","5/3 Fullston Way,",HOLT ACT 2615,Townhouse,3,2,2,224m² ,13 Jun 2023
+"610,000","25/3 Peron Place,",BANKS ACT 2906,Townhouse,3,2,2,244m² ,09 Jun 2023
+"700,000 ","333/20 Anzac Park,",CAMPBELL ACT 2612,Apartment / Unit / Flat,2,2,1,64m² ,05 Jun 2023
+"700,000 ","210/1 The Causeway,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,2,1,85m² ,04 Jun 2023
+"1,075,000","6 Feltus Place,",KAMBAH ACT 2902,Vacant land,0,0,0,"1,593m² ",2023
+"720,000 ","81/3 Heard Street,",MAWSON ACT 2607,Townhouse,3,2,1,150m² ,02 Jun 2023
+"640,000","7/66 Paul Coe Crescent,",NGUNNAWAL ACT 2913,Townhouse,3,2,2,"32,435,554m² ",02 Jun 2023
+"601,500 ","33/1 Surprize Place,",PHILLIP ACT 2606,Apartment / Unit / Flat,2,1,2,"6,315m² ",02 Jun 2023
+"572,500","2/2 Travers Street,",GORDON ACT 2906,Townhouse,2,2,2,"4,450m² ",30 May 2023
+"638,500 ","12 Mervyn Davis Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,540m² ,30 May 2023
+"602,000 ","14/14 Marr Street,",PEARCE ACT 2607,Townhouse,2,1,1,249m² ,2023
+"865,000 ","Block F Section AD,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,545m² ,26 May 2023
+"865,000 ","Block F Section AD,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,545m² ,26 May 2023
+"510,000","513/15 Bowes Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,2,2,1,"3,377m² ",25 May 2023
+"805,000","6/5 Watling Place,",WESTON ACT 2611,Townhouse,3,2,2,417m² ,2023
+"721,000 ","3/42 Fullagar Crescent,",HIGGINS ACT 2615,Townhouse,3,2,2,"1,719m² ",23 May 2023
+"895,000 ",,WESTON ACT 2611,Townhouse,3,2,2,230m² ,23 May 2023
+"1,040,000 ","3/3 Blyth Place,",CURTIN ACT 2605,Townhouse,3,2,2,225m² ,2023
+"870,000","25 Chanter Terrace,",COOMBS ACT 2611,Townhouse,4,3,2,199m² ,2023
+"705,000 ","45 McGovern Street,",CASEY ACT 2913,Townhouse,3,2,2,143m² ,16 May 2023
+"490,000 ","92/1 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,2,2,1,"7,380m² ",16 May 2023
+"620,000 ","2 Fenwick Place,",BELCONNEN ACT 2617,Townhouse,2,1,2,276m² ,2023
+"680,000 ","7/210 Newman Morris Circuit,",OXLEY ACT 2903,Townhouse,3,1,2,577m² ,12 May 2023
+"792,000","29/11 Castan Street,",COOMBS ACT 2611,Townhouse,4,3,2,"11,648m² ",11 May 2023
+"480,000 ","518/6 Cape Street,",DICKSON ACT 2602,Apartment / Unit / Flat,1,1,1,68m² ,10 May 2023
+"610,000","10/36 Cromwell Circuit,",ISABELLA PLAINS ACT 2905,Apartment / Unit / Flat,3,1,1,292m² ,10 May 2023
+"810,000 ","80/39 Benjamin Way,",BELCONNEN ACT 2617,Apartment / Unit / Flat,3,3,2,"3,757m² ",08 May 2023
+"679,900 ","40/18 Cornelius Street,",COOMBS ACT 2611,Townhouse,3,2,1,142m² ,08 May 2023
+"661,000 ","11/5 Kerridge Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,75m² ,2023
+"396,000 ","14/30 Chappell Street,",LYONS ACT 2606,Apartment / Unit / Flat,2,1,1,"3,395m² ",05 May 2023
+"1,100,000","1/5 Foxton Crescent,",FADDEN ACT 2904,Townhouse,3,2,2,522m² ,4 May 2023
+"390,000 ","24/35 Oakden Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,1,1,1,"7,286m² ",04 May 2023
+"731,000 ","43 Barnet Close,",SWINGER HILL ACT 2606,Townhouse,3,1,2,295m² ,04 May 2023
+"1,150,000","6/2 Torrens Street,",BRADDON ACT 2612,Townhouse,3,2,2,153m² ,03 May 2023
+"820,000 ","31 Seekamp Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,479m² ,01 May 2023
+"667,000 ","64 Sibosado Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,432m² ,01 May 2023
+"735,000","15/21 Samaria Street,",CRACE ACT 2911,Townhouse,3,2,2,"3,716m² ",28 Apr 2023
+"740,000","44 Epenarra Close,",HAWKER ACT 2614,Townhouse,3,1,1,315m² ,28 Apr 2023
+"650,000 ","4/15 Jabanungga Avenue,",NGUNNAWAL ACT 2913,Townhouse,3,1,1,424m² ,28 Apr 2023
+"940,000 ","52/121 Thynne Street,",BRUCE ACT 2617,Townhouse,3,2,2,411m² ,27 Apr 2023
+"725,000 ","34 Keppel Street,",HARRISON ACT 2914,Townhouse,3,2,2,238m² ,26 Apr 2023
+"765,000 ","15 Lansdown Crescent,",CASEY ACT 2913,Townhouse,3,2,2,240m² ,2023
+"425,000 ","75/66 Allara Street,",CITY ACT 2601,Apartment / Unit / Flat,1,2,1,"3,715m² ",21 Apr 2023
+"600,000 ","15 Jelinek Street,",TAYLOR ACT 2913,Vacant land,0,0,0,482m² ,21 Apr 2023
+"635,000 ","59/11 Fawkner Street,",BRADDON ACT 2612,Apartment / Unit / Flat,2,2,1,"5,225m² ",18 Apr 2023
+"580,000","8/4 Lawrenson Circuit,",JACKA ACT 2914,Townhouse,3,2,1,182m² ,2023
+"625,000","3 Margules Crescent,",TAYLOR ACT 2913,Townhouse,2,2,1,92m² ,18 Apr 2023
+"820,000 ","2 Pannell Street,",WHITLAM ACT 2611,Vacant land,0,0,0,675m² ,18 Apr 2023
+"632,000 ","12/4 Annie Douglas Street,",CASEY ACT 2913,Townhouse,3,1,2,214m² ,17 Apr 2023
+"520,000","83/42 Paul Coe Crescent,",NGUNNAWAL ACT 2913,Townhouse,2,1,2,195m² ,14 Apr 2023
+"661,000","15 Birrigai Square,",NGUNNAWAL ACT 2913,Townhouse,3,1,1,270m² ,14 Apr 2023
+"1,020,000 ","64 Edgeworth Parade,",COOMBS ACT 2611,Townhouse,4,3,2,200m² ,13 Apr 2023
+"685,000 ","9 Penketh Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,422m² ,13 Apr 2023
+"1,470,000","83B Sturt Avenue,",NARRABUNDAH ACT 2604,Townhouse,3,2,2,478m² ,12 Apr 2023
+"865,000 ","4/21 Krantzcke Circuit,",NICHOLLS ACT 2913,Townhouse,4,2,2,315m² ,12 Apr 2023
+"721,000 ","38 Seekamp Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,585m² ,2023
+"515,000","327/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,"7,286m² ",05 Apr 2023
+"655,000 ","33/2 Hinder Street,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,3,2,2,"3,506m² ",01 Apr 2023
+"651,000","122 Livingston Avenue,",KAMBAH ACT 2902,Townhouse,3,1,1,376m² ,2023
+"628,000 ","9/21 Cleeve Place,",GORDON ACT 2906,Townhouse,3,1,1,288m² ,30 Mar 2023
+"538,000 ","18 Dallachy Place,",PAGE ACT 2614,Townhouse,2,1,1,200m² ,2023
+"600,000 ","78 Ian Nicol Street,",WATSON ACT 2602,Townhouse,3,1,1,214m² ,2023
+"900,000 ","76/45 Negus Crescent,",WATSON ACT 2602,Townhouse,3,2,2,129m² ,29 Mar 2023
+"496,000 ","7/8 Jeff Snell Crescent,",DUNLOP ACT 2615,Apartment / Unit / Flat,2,2,2,703m² ,28 Mar 2023
+"639,000 ","9/48 Sid Barnes Crescent,",GORDON ACT 2906,Townhouse,3,1,2,426m² ,28 Mar 2023
+"659,000 ","26 Gamban Square,",NGUNNAWAL ACT 2913,Townhouse,3,1,1,270m² ,28 Mar 2023
+"520,000 ","34/815 Horse Park Drive,",AMAROO ACT 2914,Townhouse,2,1,2,"5,173m² ",27 Mar 2023
+"537,000 ","126/45 Eastlake Parade,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,"4,938m² ",24 Mar 2023
+"820,000 ","6 Don Banks Crescent,",WHITLAM ACT 2611,Vacant land,0,0,0,736m² ,2023
+"765,000","10/12 Redwater Place,",AMAROO ACT 2914,Townhouse,4,2,2,343m² ,1 Mar 2023
+"795,000","17 Fuhrman Street,",EVATT ACT 2617,Vacant land,0,0,0,795m² ,17 Mar 2023
+"795,000","17 Fuhrman Street,",EVATT ACT 2617,Vacant land,0,0,0,795m² ,17 Mar 2023
+"700,000 ","8/73 Lorraway Street,",HOLT ACT 2615,Townhouse,3,1,1,245m² ,17 Mar 2023
+"705,000","9/2 Fullston Way,",HOLT ACT 2615,Townhouse,2,2,1,224m² ,15 Mar 2023
+"2,025,000","13/28 Black Street,",YARRALUMLA ACT 2600,Townhouse,3,2,2,477m² ,2023
+"1,010,000","266/15 Irving Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,3,2,2,"9,680m² ",10 Mar 2023
+"800,000","3 Southee Place,",FARRER ACT 2607,Townhouse,3,2,1,282m² ,08 Mar 2023
+"430,000","11/14 Randell Street,",DICKSON ACT 2602,Apartment / Unit / Flat,1,1,1,"1,361m² ",06 Mar 2023
+"930,000 ","70 Thynne Street,",BRUCE ACT 2617,Townhouse,3,2,2,254m² ,2023
+"750,000 ","23/67 Barraclough Crescent,",MONASH ACT 2904,Apartment / Unit / Flat,3,2,2,126m² ,04 Mar 2023
+"425,000","27 Briger Street,",TAYLOR ACT 2913,Vacant land,0,0,0,250m² ,2023
+"770,000 ","41 Mari Funaki Street,",WHITLAM ACT 2611,Vacant land,0,0,0,600m² ,2023
+"1,333,500","68 Macgregor Street,",DEAKIN ACT 2600,Vacant land,0,0,0,718m² ,28 Feb 2023
+"775,000","87 Tredwell Street,",STRATHNAIRN ACT 2615,Townhouse,4,2,2,168m² ,28 Feb 2023
+"670,000 ","4 Clegg Lane,",STRATHNAIRN ACT 2615,Apartment / Unit / Flat,2,2,2,176m² ,28 Feb 2023
+"605,000 ","1521/240 Bunda Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,65m² ,24 Feb 2023
+"690,000","16/45 Enderby Street,",MAWSON ACT 2607,Townhouse,2,2,2,98m² ,24 Feb 2023
+"505,000 ","150/15 Coranderrk Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,69m² ,23 Feb 2023
+"489,000","1/52 Jeff Snell Crescent,",DUNLOP ACT 2615,Townhouse,2,1,1,"1,231m² ",23 Feb 2023
+"900,000","96/98 Corinna Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,3,2,2,"8,022m² ",21 Feb 2023
+"640,000","22 George Seddon Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,572m² ,20 Feb 2023
+"751,000","44B Arndell Street,",MACQUARIE ACT 2614,Townhouse,3,2,2,437m² ,2023
+"680,000 ","93/50 Wilkins Street,",MAWSON ACT 2607,Townhouse,3,2,1,150m² ,2023
+"518,000","506/2 Kerridge Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,59m² ,09 Feb 2023
+"750,000 ","6/26 Scratchley Place,",MONASH ACT 2904,Townhouse,3,2,2,476m² ,07 Feb 2023
+"615,000 ","16 Hargrave Street,",SCULLIN ACT 2614,Townhouse,3,1,1,301m² ,2023
+"650,000 ","20/45 West Row,",CITY ACT 2601,Apartment / Unit / Flat,2,2,1,88m² ,03 Feb 2023
+"937,500","21/1 Wilkins Street,",MAWSON ACT 2607,Townhouse,3,2,2,550m² ,03 Feb 2023
+"710,000 ","1/35 Clare Burton Crescent,",FRANKLIN ACT 2913,Townhouse,3,2,2,236m² ,2 Feb 2023
+"765,000","50 Leontine Loop,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,450m² ,30 Jan 2023
+"630,000 ","9/61 Ashby Circuit,",KAMBAH ACT 2902,Townhouse,2,1,1,312m² ,27 Jan 2023
+"605,000 ","4/29 Hargrave Street,",SCULLIN ACT 2614,Townhouse,3,1,3,427m² ,27 Jan 2023
+"665,000","32/141 Mapleton Avenue,",HARRISON ACT 2914,Townhouse,3,2,2,190m² ,25 Jan 2023
+"600,000 ","109 Burrumarra Avenue,",NGUNNAWAL ACT 2913,Townhouse,2,1,1,161m² ,5 Jan 2023
+"630,000 ","12/15 Irving Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,2,2,2,"9,680m² ",25 Jan 2023
+"895,000 ","7 Bettie McNee Street,",WATSON ACT 2602,Townhouse,3,2,2,240m² ,24 Jan 2023
+"715,000 ","4 Mallett Street,",BONNER ACT 2914,Townhouse,3,2,1,216m² ,20 Jan 2023
+"1,200,000 ","9/32 Sunnyman Street,",TAYLOR ACT 2913,Townhouse,4,3,2,407m² ,19 Jan 2023
+"795,500","11/61 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,2,2,333m² ,12 Jan 2023
+"790,000","11/9 Tristania Street,",RIVETT ACT 2611,Townhouse,3,2,2,430m² ,11 Jan 2023
+"1,900,000","27A Hutchins Street,",YARRALUMLA ACT 2600,Townhouse,3,2,2,989m² ,27 Dec 2022
+"595,000","68 Ken Herde Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,482m² ,22 Dec 2022
+"1,440,000","22 Masson Street,",TURNER ACT 2612,Townhouse,3,2,2,267m² ,22 Dec 2022
+"485,000 ","414/65 Currong Street North,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"2,482m² ",21 Dec 2022
+"655,000","41/42 Lhotsky Street,",CHARNWOOD ACT 2615,Townhouse,3,1,1,293m² ,19 Dec 2022
+"751,000 ","13/55 Frencham Street,",DOWNER ACT 2602,Townhouse,2,2,1,110m² ,19 Dec 2022
+"1,050,000 ","2 Tarana Street,",NARRABUNDAH ACT 2604,Townhouse,3,1,2,504m² ,19 Dec 2022
+"631,000","22/2 Hopegood Place,",GARRAN ACT 2605,Apartment / Unit / Flat,2,2,2,"8,238m² ",2022
+"970,000 ","10/42 Jinka Street,",HAWKER ACT 2614,Townhouse,3,2,2,695m² ,2022
+"775,000","41 Freebury Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,583m² ,16 Dec 2022
+"830,000 ","1 Kopi Lane,",HARRISON ACT 2914,Townhouse,3,2,2,287m² ,16 Dec 2022
+"370,000 ","2/69 Hall Best Lane,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,1,1,1,381m² ,15 Dec 2022
+"750,000 ","49 Elkedra Close,",HAWKER ACT 2614,Townhouse,3,2,1,316m² ,15 Dec 2022
+"895,000","7 Bettie McNee Street,",WATSON ACT 2602,Townhouse,3,2,2,240m² ,15 Dec 2022
+"455,000 ","12/15 Mower Place,",PHILLIP ACT 2606,Apartment / Unit / Flat,1,1,1,"16,536m² ",13 Dec 2022
+"660,000","123 Bieundurry Street,",BONNER ACT 2914,Vacant land,0,0,0,540m² ,12 Dec 2022
+"855,000","53 Proudfoot Rise,",TAYLOR ACT 2913,Vacant land,0,0,0,822m² ,12 Dec 2022
+"995,000","73 De Little Circuit,",GREENWAY ACT 2900,Townhouse,3,2,2,390m² ,2022
+"790,000 ","23 Elkedra Close,",HAWKER ACT 2614,Townhouse,3,1,2,297m² ,09 Dec 2022
+"685,000","5/33 Arthur Blakeley Way,",COOMBS ACT 2611,Townhouse,3,2,1,"13,183m² ",08 Dec 2022
+"749,900 ","25 Gornall Street,",WRIGHT ACT 2611,Townhouse,3,2,2,306m² ,07 Dec 2022
+"815,000","106/59 Constitution Avenue,",CAMPBELL ACT 2612,Apartment / Unit / Flat,2,2,2,100m² ,06 Dec 2022
+"545,000 ","3 Rowe Place,",PHILLIP ACT 2606,Townhouse,2,1,1,162m² ,05 Dec 2022
+"780,000","11 Lansdown Crescent,",CASEY ACT 2913,Townhouse,3,2,2,238m² ,02 Dec 2022
+"310,000 ","36/6 Wilkins Street,",MAWSON ACT 2607,Apartment / Unit / Flat,1,1,1,"8,531m² ",02 Dec 2022
+"580,000 ","2/204 Mcfarlane Burnet Avenue,",MACGREGOR ACT 2615,Townhouse,2,1,1,310m² ,01 Dec 2022
+"330,000","20/21 Wiseman Street,",MACQUARIE ACT 2614,Apartment / Unit / Flat,1,1,1,"2,286m² ",01 Dec 2022
+"715,000 ","15 Holgar Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,668m² ,29 Nov 2022
+"650,000 ","3/210 Newman-Morris Circuit,",OXLEY ACT 2903,Townhouse,3,1,1,636m² ,28 Nov 2022
+"638,000 ","5/147 Keverstone Circuit,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,305m² ,25 Nov 2022
+"572,000","4/23 Bollard Street,",PALMERSTON ACT 2913,Townhouse,2,1,1,236m² ,24 Nov 2022
+"785,000","20 Carslaw Street,",CHIFLEY ACT 2606,Townhouse,3,2,2,439m² ,23 Nov 2022
+"745,000 ","5 Penketh Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,423m² ,23 Nov 2022
+"660,000 ","23/6 Kemsley Place,",PEARCE ACT 2607,Townhouse,2,1,1,250m² ,21 Nov 2022
+"407,500 ","14/21 Christina Stead Street,",FRANKLIN ACT 2913,Apartment / Unit / Flat,1,1,1,"7,982m² ",18 Nov 2022
+"730,000 ","4/2 Hoffmann Street,",MONCRIEFF ACT 2914,Townhouse,3,2,2,"6,470m² ",16 Nov 2022
+"835,000 ","79 Plimsoll Drive,",CASEY ACT 2913,Townhouse,4,2,2,210m² ,14 Nov 2022
+"940,000 ","34 Burrendong Street,",DUFFY ACT 2611,Townhouse,3,2,2,409m² ,2022
+"632,000 ","220 Kerrigan Street,",DUNLOP ACT 2615,Townhouse,3,1,1,217m² ,2022
+"680,000","25 MacLachlan Street,",HOLDER ACT 2611,Townhouse,2,1,2,208m² ,2022
+"580,000","18/36 John Holt Street,",MACGREGOR ACT 2615,Apartment / Unit / Flat,2,1,1,198m² ,11 Nov 2022
+"665,000","35/41 Ern Florence Crescent,",THEODORE ACT 2905,Townhouse,3,1,1,278m² ,11 Nov 2022
+"1,300,000","41 Hawkesbury Crescent,",FARRER ACT 2607,Vacant land,0,0,0,928m² ,10 Nov 2022
+"1,483,500 ","32 Throssell Street,",CURTIN ACT 2605,Vacant land,0,0,0,782m² ,07 Nov 2022
+"801,000 ","10/15 Calaby Street,",COOMBS ACT 2611,Townhouse,3,3,2,"3,792m² ",2022
+"835,000 ","9/45 Barr Smith Avenue,",BONYTHON ACT 2905,Townhouse,3,2,2,350m² ,2022
+"730,000","1/61 Ashby Circuit,",KAMBAH ACT 2902,Townhouse,3,2,2,458m² ,2022
+"950,000 ","6 Wallis Place,",SPENCE ACT 2615,Vacant land,0,0,0,824m² ,02 Nov 2022
+"431,500 ","29/98 Corinna Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,1,1,1,"8,266m² ",01 Nov 2022
+"2,050,000 ","72 Coranderrk Street,",REID ACT 2612,Vacant land,0,0,0,"1,321m² ",01 Nov 2022
+"660,000 ","10/115 Lampard Circuit,",BRUCE ACT 2617,Townhouse,2,2,1,"6,578m² ",2022
+"745,000 ","3 Gorrie Close,",HAWKER ACT 2614,Townhouse,2,1,1,372m² ,2022
+"860,000","2 Joyce Place,",MAWSON ACT 2607,Townhouse,3,2,2,329m² ,2022
+"1,420,000 ","9B Narambi Street,",NARRABUNDAH ACT 2604,Townhouse,3,2,2,360m² ,2022
+"590,000 ","50 Kellermann Close,",HOLT ACT 2615,Townhouse,3,1,2,258m² ,2022
+"1,461,000 ","20 O'Shanassy Street,",CURTIN ACT 2605,Vacant land,0,0,0,793m² ,27 Oct 2022
+"600,000 ","29/71 Mina Wylie Crescent,",GORDON ACT 2906,Townhouse,3,1,2,287m² ,27 Oct 2022
+"727,500","92 Dexter Street,",COOK ACT 2614,Townhouse,2,1,1,256m² ,2022
+"1,375,000","101 Kitchener Street,",GARRAN ACT 2605,Townhouse,4,2,2,607m² ,26 Oct 2022
+"1,260,000 ","1/9 Fairfax Street,",O'CONNOR ACT 2602,Townhouse,4,2,2,526m² ,24 Oct 2022
+"720,000","74 Tredwell Street,",STRATHNAIRN ACT 2615,Townhouse,3,2,1,160m² ,4 Oct 2022
+"607,000","8/5 Tristania Street,",RIVETT ACT 2611,Townhouse,2,1,1,246m² ,19 Oct 2022
+"1,995,000 ","block 2/49 Thermopylae Lane,",RED HILL ACT 2603,Townhouse,3,3,2,196m² ,17 Oct 2022
+"1,150,000 ","9/5 Foxton Crescent,",FADDEN ACT 2904,Townhouse,3,2,2,610m² ,2022
+"714,150 ","33 Eggins Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,414m² ,14 Oct 2022
+"444,000 ","59/217 Northbourne Avenue,",TURNER ACT 2612,Apartment / Unit / Flat,1,1,1,"5,045m² ",14 Oct 2022
+"555,888 ","2/329 Flemington Road,",FRANKLIN ACT 2913,Apartment / Unit / Flat,2,2,1,"11,608m² ",12 Oct 2022
+"775,000 ","152 Ellerston Avenue,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,2,595m² ,12 Oct 2022
+"585,000 ","49 Furzer Street,",PHILLIP ACT 2606,New apartments / off the plan,2,1,2,83m² ,12 Oct 2022
+"2,200,000","2/18 Greenway Street,",TURNER ACT 2612,Townhouse,3,2,3,235m² ,2 Oct 2022
+"2,270,000 ","3B Tudawalli Place,",CHAPMAN ACT 2611,Townhouse,4,3,2,672m² ,11 Oct 2022
+"893,000","15/3 Tauss Place,",BRUCE ACT 2617,Townhouse,3,2,2,"8,280m² ",2022
+"910,000 ","47/29 Pethebridge Street,",PEARCE ACT 2607,Townhouse,3,2,2,507m² ,2022
+"575,000 ","7/9 Chipperfield Circuit,",GORDON ACT 2906,Townhouse,3,1,1,218m² ,5 Oct 2022
+"850,000 ","155 Sculthorpe Avenue,",WHITLAM ACT 2611,Vacant land,0,0,0,663m² ,05 Oct 2022
+"745,000 ","41 Eggins Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,414m² ,04 Oct 2022
+"705,000","53 Trewenack Street,",TAYLOR ACT 2913,Vacant land,0,0,0,584m² ,04 Oct 2022
+"487,000","68/148 Flemington Road,",HARRISON ACT 2914,Apartment / Unit / Flat,2,2,2,"13,559m² ",30 Sep 2022
+"900,000 ","4/100 Lionel Rose Street,",HOLT ACT 2615,Townhouse,4,2,2,286m² ,28 Sep 2022
+"981,785","34 Aspinall Street,",WATSON ACT 2602,Townhouse,3,2,2,252m² ,8 Sep 2022
+"640,000","25 Summerville Crescent,",FLOREY ACT 2615,Townhouse,3,1,1,241m² ,26 Sep 2022
+"692,500","24/12 Dulcie Holland Crescent,",MONCRIEFF ACT 2914,Townhouse,3,2,2,"5,802m² ",26 Sep 2022
+"925,000","15/130 Shackleton Circuit,",MAWSON ACT 2607,Townhouse,4,2,2,600m² ,2022
+"770,000 ","6 John Young Crescent,",GREENWAY ACT 2900,Townhouse,3,2,2,301m² ,2022
+"790,000 ","9/43 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,2,2,439m² ,20 Sep 2022
+"550,000","33/25 Pinkerton Circuit,",KAMBAH ACT 2902,Townhouse,2,1,1,"28,020m² ",19 Sep 2022
+"737,500 ","5/8 Zamia Place,",PALMERSTON ACT 2913,Townhouse,3,2,2,285m² ,2022
+"790,000 ","6/20 Jessup Place,",PHILLIP ACT 2606,Townhouse,3,1,1,330m² ,2022
+"670,000","1/37 Wettenhall Circuit,",CALWELL ACT 2905,Townhouse,3,1,3,"3,706m² ",5 Sep 2022
+"1,110,000","6 Feltus Place,",KAMBAH ACT 2902,Vacant land,0,0,0,"1,593m² ",15 Sep 2022
+"835,000","119 Harrington Circuit,",KAMBAH ACT 2902,Vacant land,0,0,0,971m² ,12 Sep 2022
+"800,000 ","43/32 Bunbury Street,",STIRLING ACT 2611,Townhouse,3,1,2,305m² ,12 Sep 2022
+"830,000","92 De Little Circuit,",GREENWAY ACT 2900,Townhouse,4,2,2,415m² ,2022
+"580,000 ","5/97 Clift Crescent,",CHISHOLM ACT 2905,Townhouse,2,1,1,584m² ,07 Sep 2022
+"2,500,000 ","46 Lawley Street,",DEAKIN ACT 2600,Townhouse,3,3,2,395m² ,06 Sep 2022
+"371,000","332/1 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,1,1,1,58m² ,05 Sep 2022
+"620,000","224 Kerrigan Street,",DUNLOP ACT 2615,Townhouse,3,1,1,362m² ,2022
+"1,215,000","1/82 Hurley Street,",MAWSON ACT 2607,Townhouse,3,2,2,440m² ,2 Sep 2022
+"660,000","1/25 Owen Crescent,",LYNEHAM ACT 2602,Apartment / Unit / Flat,2,2,2,130m² ,31 Aug 2022
+"685,000 ","44/15 Irving Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,2,2,1,"9,680m² ",31 Aug 2022
+"457,000 ","51/1 Surprize Place,",PHILLIP ACT 2606,Apartment / Unit / Flat,1,1,1,"6,315m² ",30 Aug 2022
+"995,000 ","1/106 Mawson Drive,",MAWSON ACT 2607,Townhouse,3,2,2,325m² ,2022
+"450,000 ","21/15 Mower Place,",PHILLIP ACT 2606,Apartment / Unit / Flat,1,1,1,"16,536m² ",25 Aug 2022
+"825,000 ","10 Watts Street,",GREENWAY ACT 2900,Townhouse,3,2,2,283m² ,24 Aug 2022
+"670,000","16 Broadsmith Street,",SCULLIN ACT 2614,Townhouse,3,1,1,317m² ,23 Aug 2022
+"850,000 ","1/1 Templestowe Avenue,",CONDER ACT 2906,Townhouse,4,3,2,353m² ,22 Aug 2022
+"735,000","50/124 John Gorton Drive,",COOMBS ACT 2611,Townhouse,3,2,2,226m² ,2022
+"850,000","70 Ayrton Street,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,301m² ,16 Aug 2022
+"665,000 ","7/97 Clift Crescent,",CHISHOLM ACT 2905,Townhouse,3,2,2,530m² ,09 Aug 2022
+"795,500","7/43 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,2,2,401m² ,05 Aug 2022
+"832,500 ","43 Katoomba Street,",HARRISON ACT 2914,Townhouse,4,2,2,259m² ,05 Aug 2022
+"800,000 ","2 Taggart Terrace,",COOMBS ACT 2611,Townhouse,3,2,2,200m² ,03 Aug 2022
+"753,000","9/7 Eldridge Crescent,",GARRAN ACT 2605,Townhouse,3,2,2,"5,618m² ",2022
+"710,000","34/8 Ken Tribe Street,",COOMBS ACT 2611,Townhouse,3,2,1,124m² ,29 Jul 2022
+"860,000 ","22 Mervyn Davis Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,895m² ,28 Jul 2022
+"890,000 ","100 Eileen Good Street,",GREENWAY ACT 2900,Townhouse,3,2,2,222m² ,27 Jul 2022
+"648,000 ","52 Ken Herde Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,411m² ,2 Jul 2022
+"950,000","58 Bainton Crescent,",MELBA ACT 2615,Vacant land,0,0,0,"1,126m² ",21 Jul 2022
+"650,000 ","32 Bill Ferguson Circuit,",BONNER ACT 2914,Townhouse,3,1,1,148m² ,18 Jul 2022
+"842,000 ","7 Elkedra Close,",HAWKER ACT 2614,Townhouse,3,1,1,296m² ,2022
+"710,000 ","11 Bea Hutton Close,",TAYLOR ACT 2913,Vacant land,0,0,0,537m² ,2022
+"580,000 ","28 Renny Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,147m² ,14 Jul 2022
+"585,000 ","9/41 Comrie Street,",WANNIASSA ACT 2903,Townhouse,2,1,2,167m² ,14 Jul 2022
+"1,150,000 ","3 Cygnet Crescent,",RED HILL ACT 2603,Vacant land,0,0,0,328m² ,13 Jul 2022
+"395,000","74/6-10 Eyre Street,",GRIFFITH ACT 2603,Apartment / Unit / Flat,1,1,1,"5,010m² ",08 Jul 2022
+"511,000","302/17 The Causeway,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,110m² ,8 Jul 2022
+"1,170,000","4/1 Judith Macintosh Crescent,",TAYLOR ACT 2913,Townhouse,4,2,2,327m² ,08 Jul 2022
+"740,000","7/2 Cunningham Street,",GRIFFITH ACT 2603,Apartment / Unit / Flat,2,2,2,"2,810m² ",2022
+"730,000","14 Karl Langer Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,559m² ,07 Jul 2022
+"777,500 ","21 David Miller Crescent,",CASEY ACT 2913,Townhouse,3,2,2,100m² ,2022
+"960,000 ","44 Dunnart Circuit,",THROSBY ACT 2914,Vacant land,0,0,0,617m² ,2022
+"660,000 ","1 Allcot Place,",CONDER ACT 2906,Townhouse,3,2,1,390m² ,0 Jun 2022
+"536,000 ","91/1 Limburg Way,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,"8,219m² ",29 Jun 2022
+"940,000 ","12 Leeper Place,",ISAACS ACT 2607,Townhouse,3,2,2,453m² ,27 Jun 2022
+"780,000 ","20 Westerman Street,",CASEY ACT 2913,Townhouse,3,2,2,234m² ,4 Jun 2022
+"866,500 ","10 McGill Street,",EVATT ACT 2617,Vacant land,0,0,0,"1,400m² ",2022
+"1,200,000 ","121/50 Ellenborough Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,3,2,2,311m² ,2022
+"1,410,000 ","7b Mawson Drive,",MAWSON ACT 2607,Townhouse,4,2,2,657m² ,2022
+"490,000 ","302/335 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,2,80m² ,17 Jun 2022
+"605,000 ","37/25 Pinkerton Circuit,",KAMBAH ACT 2902,Townhouse,2,1,1,"28,019m² ",7 Jun 2022
+"890,000 ","76 Churcher Crescent,",WHITLAM ACT 2611,Vacant land,0,0,0,510m² ,17 Jun 2022
+"437,500","64/3 Nevertire Street,",LAWSON ACT 2617,Apartment / Unit / Flat,1,1,2,"9,229m² ",16 Jun 2022
+"410,000 ","95/35 Oakden Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,1,1,2,"7,286m² ",15 Jun 2022
+"2,475,000 ","61 Jaeger Circuit,",BRUCE ACT 2617,Vacant land,0,0,0,"2,320m² ",2022
+"890,000","5/5 Lane-Poole Place,",YARRALUMLA ACT 2600,Townhouse,2,1,1,140m² ,2022
+"910,000 ","2/31 Foxall Street,",HOLDER ACT 2611,Townhouse,3,2,2,656m² ,2022
+"550,000 ","41/136 Thynne Street,",BRUCE ACT 2617,Apartment / Unit / Flat,2,2,2,76m² ,01 Jun 2022
+"1,290,000","2/24 Empire Circuit,",FORREST ACT 2603,Retirement Living,2,2,1,340m² ,01 Jun 2022
+"610,000","4/60 Dalley Crescent,",LATHAM ACT 2615,Apartment / Unit / Flat,2,1,1,"3,120m² ",2022
+"590,000 ","6/40 Sid Barnes Crescent,",GORDON ACT 2906,Townhouse,2,1,1,206m² ,27 May 2022
+"391,000 ","230/60 College Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,"21,903m² ",25 May 2022
+"645,000","8/3 Riddle Place,",GORDON ACT 2906,Townhouse,3,1,2,187m² ,25 May 2022
+"615,000","1/11 Charlton Crescent,",GORDON ACT 2906,Townhouse,3,1,2,106m² ,24 May 2022
+"825,000 ","4 Greene Place,",BELCONNEN ACT 2617,Townhouse,3,1,1,299m² ,2022
+"700,000 ","10/131 Britten-Jones Drive,",HOLT ACT 2615,Townhouse,3,2,2,366m² ,19 May 2022
+"950,000 ","11 Borovansky Street,",WHITLAM ACT 2611,Vacant land,0,0,0,662m² ,2022
+"1,100,000 ","4 Ester Lane,",DENMAN PROSPECT ACT 2611,Apartment / Unit / Flat,4,3,2,239m² ,18 May 2022
+"1,100,000 ","4 Ester Lane,",DENMAN PROSPECT ACT 2611,Apartment / Unit / Flat,4,3,2,239m² ,18 May 2022
+"791,000 ","9/77 Freda Bennett Circuit,",NICHOLLS ACT 2913,Townhouse,3,2,2,116m² ,18 May 2022
+"665,000 ","2/48 Florence Taylor Street,",GREENWAY ACT 2900,Townhouse,2,1,1,282m² ,17 May 2022
+"735,000 ","1 Mendoza Street,",MONCRIEFF ACT 2914,Vacant land,0,0,0,587m² ,16 May 2022
+"512,000","9/43 Hampton Circuit,",YARRALUMLA ACT 2600,Apartment / Unit / Flat,1,1,1,"1,936m² ",2022
+"345,000 ","17/41 Leahy Close,",NARRABUNDAH ACT 2604,Apartment / Unit / Flat,2,1,1,"5,010m² ",13 May 2022
+"627,000 ","21 Cavanough Street,",PHILLIP ACT 2606,Townhouse,2,1,2,504m² ,12 May 2022
+"705,000","22/210 Newman-Morris Circuit,",OXLEY ACT 2903,Townhouse,3,1,1,"37,801m² ",11 May 2022
+"800,000 ","15 Barnet Close,",PHILLIP ACT 2606,Townhouse,3,1,2,129m² ,11 May 2022
+"751,000","24 Ina Higgins Street,",TAYLOR ACT 2913,Vacant land,0,0,0,540m² ,11 May 2022
+"942,000 ","1/29 Moonlight Avenue,",HARRISON ACT 2914,Townhouse,4,2,2,341m² ,2022
+"932,000 ","4 Bickley Close,",STIRLING ACT 2611,Townhouse,3,2,2,459m² ,2022
+"595,000 ","17/77 Leichhardt Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,2,1,"1,262m² ",04 May 2022
+"1,400,000","5/99 Ainsworth Street,",MAWSON ACT 2607,Townhouse,4,2,2,270m² ,3 May 2022
+"795,000 ","14/66 Gussey Street,",MONCRIEFF ACT 2914,Townhouse,3,2,2,156m² ,2022
+"690,000 ","5/139-143 Blamey Crescent,",CAMPBELL ACT 2612,Apartment / Unit / Flat,2,2,1,"1,899m² ",27 Apr 2022
+"820,000 ","3/3 Bird Place,",FLYNN ACT 2615,Townhouse,4,2,2,"1,495m² ",27 Apr 2022
+"380,000 ","17/58 Wattle Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,2,1,1,"11,172m² ",27 Apr 2022
+"670,000 ","6/16 Wellington Street,",NGUNNAWAL ACT 2913,Townhouse,3,1,3,240m² ,27 Apr 2022
+"520,000 ","6/10 Randell Street,",DICKSON ACT 2602,Apartment / Unit / Flat,1,1,1,"1,630m² ",20 Apr 2022
+"625,000 ","18/33 Dawes Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,1,1,74m² ,2022
+"725,000 ","40/224 Flemington Road,",HARRISON ACT 2914,Townhouse,3,2,1,"11,935m² ",2022
+"355,000 ","212/74 Northbourne Avenue,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"4,172m² ",15 Apr 2022
+"633,000 ","24 Ranken Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,321m² ,14 Apr 2022
+"810,000 ","33 Fenwick Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,217m² ,4 Apr 2022
+"520,000 ","225/1 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,2,2,2,"7,380m² ",13 Apr 2022
+"1,055,000 ","81/215 Aspinall Street,",WATSON ACT 2602,Townhouse,3,2,2,"66,100m² ",2022
+"1,510,000 ","1/14 Currie Crescent,",KINGSTON ACT 2604,Townhouse,3,2,2,100m² ,2022
+"865,000","15/47 Foxall Street,",HOLDER ACT 2611,Townhouse,3,2,2,440m² ,2022
+"412,000","715/19 Challis Street,",DICKSON ACT 2602,Apartment / Unit / Flat,1,1,−,51m² ,08 Apr 2022
+"680,000","24 Elkedra Close,",HAWKER ACT 2614,Townhouse,2,1,1,280m² ,8 Apr 2022
+"930,000","70 Mary Gillespie Avenue,",GUNGAHLIN ACT 2912,Townhouse,4,2,2,380m² ,07 Apr 2022
+"800,000 ","7/5 Florence Fuller Crescent,",CONDER ACT 2906,Townhouse,3,2,2,399m² ,2022
+"378,000","UNIT 21/297 FLEMINGTON ROAD,",FRANKLIN ACT 2913,Apartment / Unit / Flat,1,1,1,87m² ,
+"1,001,000 ","28 Teague Street,",COOK ACT 2614,Apartment / Unit / Flat,4,2,2,"6,576m² ",2022
+"1,000,000","81A Theodore Street,",CURTIN ACT 2605,Townhouse,4,1,2,429m² ,01 Apr 2022
+"1,218,500","1/1 Judith Macintosh Crescent,",TAYLOR ACT 2913,Townhouse,4,2,2,353m² ,1 Apr 2022
+"630,000 ","31 William Cooper Avenue,",BONNER ACT 2914,Townhouse,2,1,1,150m² ,31 Mar 2022
+"1,080,000","16 Bacon Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,650m² ,1 Mar 2022
+"725,000 ","520/1 Elouera Street,",BRADDON ACT 2612,Apartment / Unit / Flat,2,2,2,91m² ,30 Mar 2022
+"1,150,000","12/8 Mcgowan Place,",DICKSON ACT 2602,Townhouse,5,3,2,"2,665m² ",2022
+"860,000","47 Farran Street,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,235m² ,9 Mar 2022
+"520,000 ","225/1 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,2,2,2,"7,380m² ",29 Mar 2022
+"1,100,000","3/5 White Crescent,",CAMPBELL ACT 2612,Townhouse,3,2,2,254m² ,2022
+"912,500 ","5/58 De Little Circuit,",GREENWAY ACT 2900,Townhouse,3,2,2,486m² ,2022
+"815,000","1 BOOT PLACE,",CHARNWOOD ACT 2615,Vacant land,0,0,0,787m² ,25 Mar 2022
+"205,000 ","512/2 Akuna Street,",CITY ACT 2601,Apartment / Unit / Flat,− 0,1,−,"2,306m² ",25 Mar 2022
+"630,000 ","18/7 Loveday Crescent,",CASEY ACT 2913,Townhouse,2,2,1,154m² ,2022
+"335,000","42/27 Coxen Street,",HUGHES ACT 2605,Apartment / Unit / Flat,1,1,−,"15,678m² ",19 Mar 2022
+"1,420,000 ","7/23 Giles Street,",KINGSTON ACT 2604,Townhouse,3,2,2,162m² ,2022
+"470,000 ","52/11 Fawkner Street,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"5,225m² ",18 Mar 2022
+"721,000 ","131A Namatjira Drive,",FISHER ACT 2611,Townhouse,3,2,1,266m² ,18 Mar 2022
+"633,000 ","4/16 Gabriel Place,",FLOREY ACT 2615,Townhouse,2,1,1,358m² ,7 Mar 2022
+"850,000 ","23 Bilin Bilin Street,",BONNER ACT 2914,Vacant land,0,0,0,654m² ,2022
+"785,000 ","16 Mervyn Davis Crescent,",TAYLOR ACT 2913,Vacant land,0,0,0,540m² ,2 Mar 2022
+"528,000 ","77/5 Hely Street,",GRIFFITH ACT 2603,Apartment / Unit / Flat,1,1,2,54m² ,10 Mar 2022
+"930,000 ","55/21 Biddlecombe Street,",PEARCE ACT 2607,Townhouse,3,2,2,221m² ,2022
+"1,255,000 ","1/1 Rowland Rees Crescent,",GREENWAY ACT 2900,Townhouse,5,3,3,415m² ,09 Mar 2022
+"548,500 ","306/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,97m² ,09 Mar 2022
+"310,000","39/1 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,1,1,1,"7,380m² ",09 Mar 2022
+"310,000 ","39/1 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,1,1,1,"7,380m² ",09 Mar 2022
+"440,000","165/8 Jardine Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,"1,449m² ",09 Mar 2022
+"1,805,000 ","1/29 Meehan Gardens,",NARRABUNDAH ACT 2604,Townhouse,3,2,2,529m² ,2022
+"1,330,000 ","82  & 82A Ada Norris Avenue,",DENMAN PROSPECT ACT 2611,Townhouse,6,4,3,387m² ,04 Mar 2022
+"580,000 ","24/25 Pinkerton Circuit,",KAMBAH ACT 2902,Townhouse,2,1,1,154m² ,4 Mar 2022
+"990,000 ","4/25 Temperley Street,",NICHOLLS ACT 2913,Townhouse,3,2,2,465m² ,4 Mar 2022
+"850,000","9 Harvester Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,449m² ,02 Mar 2022
+"775,000","28/20 Helpmann Street,",BONYTHON ACT 2905,Townhouse,4,2,2,176m² ,01 Mar 2022
+"950,000","5 Navratil Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,613m² ,01 Mar 2022
+"357,000 ","1 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,1,1,1,"7,380m² ",01 Mar 2022
+"628,000 ","29/17 Wimmera Street,",HARRISON ACT 2914,Apartment / Unit / Flat,3,1,1,"7,705m² ",28 Feb 2022
+"798,000 ","12 Taggart Terrace,",COOMBS ACT 2611,Townhouse,3,2,2,199m² ,2022
+"1,755,000 ","17 Quinane Avenue,",FORDE ACT 2914,Vacant land,0,0,0,988m² ,2022
+"600,000 ","7/2 Manity Court,",NGUNNAWAL ACT 2913,Townhouse,2,1,1,333m² ,2022
+"1,200,000","5/1 Judith Macintosh Crescent,",TAYLOR ACT 2913,Townhouse,4,2,2,399m² ,2022
+"900,000 ","55 Cynthea Teague Crescent,",GREENWAY ACT 2900,Townhouse,3,2,2,216m² ,24 Feb 2022
+"950,000 ","1/3 Tantangara Street,",DUFFY ACT 2611,Townhouse,3,2,2,150m² ,23 Feb 2022
+"595,567 ","3/14 Thurgood Court,",GORDON ACT 2906,Townhouse,3,1,1,252m² ,23 Feb 2022
+"640,000","3 Pejar Terrace,",TAYLOR ACT 2913,Vacant land,0,0,0,480m² ,2 Feb 2022
+"615,000 ","79 Greg Urwin Circuit,",CASEY ACT 2913,Townhouse,2,1,1,117m² ,18 Feb 2022
+"915,000","41 Sarre Street,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,340m² ,16 Feb 2022
+"650,000 ","10/4 Annie Douglas Street,",CASEY ACT 2913,Apartment / Unit / Flat,3,1,2,"3,827m² ",2022
+"690,000 ","6/4 Lawrenson Circuit,",JACKA ACT 2914,Townhouse,3,2,2,182m² ,2022
+"770,000 ","148 Darwinia Terrace,",CHAPMAN ACT 2611,Townhouse,2,1,1,327m² ,09 Feb 2022
+"383,000 ","39 De Bortoli Street,",GUNGAHLIN ACT 2912,Townhouse,1,1,1,323m² ,2022
+"2,500,000 ","19 Forbes Street,",TURNER ACT 2612,Vacant land,0,0,0,973m² ,09 Feb 2022
+"786,100 ","8/20 Power Street,",MAWSON ACT 2607,Townhouse,2,2,1,221m² ,07 Feb 2022
+"830,000 ","14 Laffan Street,",COOMBS ACT 2611,Vacant land,0,0,0,450m² ,2022
+"955,000","12/19 State Circle,",FORREST ACT 2603,Apartment / Unit / Flat,2,2,2,"8,528m² ",2022
+"740,000 ","20/10 Helpmann Street,",BONYTHON ACT 2905,Townhouse,3,2,2,159m² ,3 Feb 2022
+"1,570,000 ","10 Emery Street,",CHAPMAN ACT 2611,Vacant land,0,0,0,975m² ,2022
+"1,575,000","48 Bentham Street,",YARRALUMLA ACT 2600,Townhouse,4,2,2,307m² ,02 Feb 2022
+"573,000","242/1 Anthony Rolfe Ave,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,3,2,2,"7,379m² ",01 Feb 2022
+"742,000","12/2 Bellete Street,",WESTON ACT 2611,Townhouse,2,2,2,91m² ,2022
+"1,020,000 ","1/3 Hansen Circuit, 'Pine Grove',",ISAACS ACT 2607,Townhouse,4,2,2,455m² ,28 Jan 2022
+"500,000 ","265/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,82m² ,27 Jan 2022
+"425,000 ","28 De Burgh Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,1,1,1,702m² ,27 Jan 2022
+"865,000","9/30 Eungella Street,",DUFFY ACT 2611,Townhouse,3,1,2,352m² ,4 Jan 2022
+"674,000 ","63/36 Dulcie Holland Crescent,",MONCRIEFF ACT 2914,Townhouse,3,2,2,"12,600m² ",24 Jan 2022
+"652,000 ","16/17 Mather Street,",WESTON ACT 2611,Townhouse,2,1,1,362m² ,2022
+"525,000 ","45 Gungahlin Place,",GUNGAHLIN ACT 2912,New apartments / off the plan,1,1,1,"2,364m² ",19 Jan 2022
+"360,000 ","45/60-68 College Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,"21,903m² ",10 Jan 2022
+"855,000 ","3/62 Hollingsworth Street,",GUNGAHLIN ACT 2912,Townhouse,4,2,2,"1,645m² ",10 Jan 2022
+"620,000 ","502/25 Edinburgh Avenue,",CITY ACT 2601,Apartment / Unit / Flat,2,1,1,76m² ,24 Dec 2021
+"595,000 ","16 De Mestre Place,",HOLT ACT 2615,Townhouse,2,1,1,326m² ,2021
+"536,000 ","9/4 Sapling Street,",HARRISON ACT 2914,Apartment / Unit / Flat,2,2,1,"19,667m² ",20 Dec 2021
+"670,000 ","5/67 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,1,1,225m² ,2021
+"810,000 ","8/45 Barr Smith Avenue,",BONYTHON ACT 2905,Townhouse,3,2,2,454m² ,7 Dec 2021
+"1,000,500","15/35 Edie Payne Close,",NICHOLLS ACT 2913,Townhouse,3,2,2,492m² ,2021
+"1,080,000 ","Unit 5/Block 2 Section 32,",WHITLAM ACT 2611,Townhouse,4,2,2,"2,107m² ",2021
+"1,020,000 ","Unit 6/Block 2 Section 32,",WHITLAM ACT 2611,Townhouse,4,2,2,"2,107m² ",2021
+"990,000 ","1/3 Blyth Place,",CURTIN ACT 2605,Townhouse,3,2,2,210m² ,2021
+"840,000 ","8 Boothby Place,",GARRAN ACT 2605,Townhouse,3,2,1,281m² ,13 Dec 2021
+"1,200,000 ","2/10 Murray Crescent,",GRIFFITH ACT 2603,Townhouse,2,1,1,211m² ,2021
+"940,000 ","16/33 Ebenezer Street,",BONYTHON ACT 2905,Townhouse,3,2,2,406m² ,2021
+"533,000 ","15/283 Flemington Road,",FRANKLIN ACT 2913,Apartment / Unit / Flat,2,2,2,"4,355m² ",10 Dec 2021
+"810,000 ","22 Skermer Street,",CASEY ACT 2913,Vacant land,0,0,0,552m² ,2021
+"825,000 ","13 Mackaness Place,",GARRAN ACT 2605,Townhouse,3,2,1,339m² ,08 Dec 2021
+"470,000","86/20 Allara Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,"1,381m² ",07 Dec 2021
+"892,000 ","6/41 Ebenezer Street,",BONYTHON ACT 2905,Townhouse,3,2,2,486m² ,2021
+"380,000 ","231/60 College Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,52m² ,2 Dec 2021
+"655,000","5/40 Lhotsky Street,",CHARNWOOD ACT 2615,Townhouse,3,2,2,152m² ,2021
+"535,000 ","430/24 Lonsdale Street,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"5,012m² ",22 Nov 2021
+"805,000 ","1/1 Petterd Street,",PAGE ACT 2614,Townhouse,3,2,2,"1,083m² ",2021
+"1,100,000 ","43 William Cooper Avenue,",BONNER ACT 2914,Townhouse,5,3,2,340m² ,2021
+"775,000 ","38 Taggart Terrace,",COOMBS ACT 2611,Townhouse,3,2,2,199m² ,2021
+"670,000 ","112/10 Currie Crescent,",GRIFFITH ACT 2603,Apartment / Unit / Flat,2,1,1,59m² ,18 Nov 2021
+"678,000 ","20/1 Rouseabout Street,",LAWSON ACT 2617,Townhouse,3,3,1,"4,688m² ",18 Nov 2021
+"998,500","4/52 Hansen Circuit,",ISAACS ACT 2607,Townhouse,4,2,2,701m² ,17 Nov 2021
+"971,000 ","59/121 Thynne Street,",BRUCE ACT 2617,Townhouse,4,2,2,412m² ,2021
+"610,000","10/10 Charles Perkins Circuit,",BONNER ACT 2914,Townhouse,3,2,1,"9,320m² ",2021
+"850,000","18 MacLachlan Street,",HOLDER ACT 2611,Townhouse,3,2,1,190m² ,1 Nov 2021
+"450,000 ","11 Irving Street,",PHILLIP ACT 2606,New apartments / off the plan,1,1,1,"13,882m² ",10 Nov 2021
+"750,000 ","43 McNamara Street,",PEARCE ACT 2607,Townhouse,2,1,1,301m² ,9 Nov 2021
+"1,212,500 ","26 Temple Terrace,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,638m² ,8 Nov 2021
+"770,000 ","146 Darwinia Terrace,",CHAPMAN ACT 2611,Townhouse,2,1,1,327m² ,2021
+"950,000","20/45 Stopford Crescent,",FADDEN ACT 2904,Townhouse,4,2,2,356m² ,2021
+"712,000 ","9/49 Freda Bennett Circuit,",NICHOLLS ACT 2913,Townhouse,3,1,1,203m² ,2021
+"1,298,000 ","5/14 Portus Place,",BRUCE ACT 2617,Townhouse,3,2,2,610m² ,2021
+"810,000","11 Lazar Place,",CHAPMAN ACT 2611,Townhouse,3,2,1,420m² ,05 Nov 2021
+"895,000 ","7 Favco Place,",DUNLOP ACT 2615,Townhouse,3,2,4,322m² ,2021
+"620,000 ","2 Gribble Street,",GUNGAHLIN ACT 2912,New apartments / off the plan,2,2,2,"2,193m² ",03 Nov 2021
+"905,000 ","11/30 Blackall Street,",BARTON ACT 2600,Apartment / Unit / Flat,2,2,2,62m² ,2021
+"837,000 ","18/19 Howitt Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,3,1,2,"5,558m² ",2021
+"698,000","12/10 Fidler Court,",BRUCE ACT 2617,Townhouse,2,2,2,228m² ,2021
+"662,500 ","9/2 Belconnen Way,",PAGE ACT 2614,Townhouse,2,1,1,202m² ,2021
+"790,000 ","5/54 Handasyde Street,",CONDER ACT 2906,Townhouse,4,2,2,235m² ,2021
+"713,000 ","29 Ultimo Street,",CRACE ACT 2911,Townhouse,2,1,2,180m² ,7 Oct 2021
+"886,500","11/26 Eungella Street,",DUFFY ACT 2611,Townhouse,3,2,2,303m² ,2021
+"360,000 ","41/68 College Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,57m² ,25 Oct 2021
+"770,000 ","56 Hibberd Crescent,",FORDE ACT 2914,Townhouse,3,2,2,171m² ,2021
+"1,212,500 ","30 Temple Terrace,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,660m² ,2021
+"740,000 ","29 Maclachlan Street,",HOLDER ACT 2611,Townhouse,2,1,1,208m² ,2021
+"555,000","25/146 Ellerston Avenue,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,224m² ,2021
+"950,000 ","2/2 Marr Street,",PEARCE ACT 2607,Townhouse,3,2,2,230m² ,15 Oct 2021
+"694,000 ","2/210 Newman-Morris Circuit,",OXLEY ACT 2903,Townhouse,2,1,1,366m² ,2021
+"451,000 ","325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,"7,286m² ",13 Oct 2021
+"390,000 ","2/69 Hall Best Lane,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,1,1,1,381m² ,08 Oct 2021
+"812,500 ","69 Mary Gillespie Avenue,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,231m² ,2021
+"998,000 ","169 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,369m² ,2021
+"565,000 ","14/146 Ellerston Avenue,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,2,217m² ,07 Oct 2021
+"750,000 ","39/1 Bon Scott Crescent,",MONCRIEFF ACT 2914,Townhouse,3,2,2,"10,274m² ",06 Oct 2021
+"342,000 ","35/116 Blamey Crescent,",CAMPBELL ACT 2612,Apartment / Unit / Flat,1,1,1,"3,415m² ",05 Oct 2021
+"610,000 ","55 Turbayne Crescent,",FORDE ACT 2914,Townhouse,2,1,1,162m² ,29 Sep 2021
+"610,000","2/51 Mainwaring Rich Circuit,",PALMERSTON ACT 2913,Townhouse,2,2,1,"2,917m² ",29 Sep 2021
+"980,000","2B Hansen Circuit,",ISAACS ACT 2607,Townhouse,4,2,2,515m² ,8 Sep 2021
+"753,000 ","29 McNamara Street,",PEARCE ACT 2607,Townhouse,2,1,1,282m² ,5 Sep 2021
+"928,000","2 Neville Gare Street,",WRIGHT ACT 2611,Vacant land,0,0,0,732m² ,2021
+"480,000 ","94/35 Oakden Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,2,"7,286m² ",17 Sep 2021
+"985,000 ","83 Croton Street,",RIVETT ACT 2611,Townhouse,3,2,2,227m² ,6 Sep 2021
+"680,000 ","14/40 Henry Kendall Street,",FRANKLIN ACT 2913,Townhouse,4,3,1,182m² ,13 Sep 2021
+"785,000","4 Saxby close,",AMAROO ACT 2914,Townhouse,3,2,3,240m² ,11 Sep 2021
+"354,000","3/6 Wilkins Street,",MAWSON ACT 2607,Apartment / Unit / Flat,2,1,1,"8,531m² ",0 Sep 2021
+"430,000 ","805/2 Akuna Street,",CITY ACT 2601,Apartment / Unit / Flat,2,1,1,"2,306m² ",09 Sep 2021
+"2,600,000","16 Fergusson Crescent,",DEAKIN ACT 2600,Vacant land,0,0,0,969m² ,09 Sep 2021
+"627,000","8/14 Marr Street,",PEARCE ACT 2607,Townhouse,2,1,1,246m² ,2021
+"560,000 ","2 Gribble Street,",GUNGAHLIN ACT 2912,New apartments / off the plan,3,2,2,"2,193m² ",07 Sep 2021
+"660,000","23 McNamara Street,",PEARCE ACT 2607,Townhouse,2,1,1,300m² ,7 Sep 2021
+"342,000 ","26/41 Chandler Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,"7,708m² ",06 Sep 2021
+"798,000 ","111 Sugarloaf Circle,",PALMERSTON ACT 2913,Townhouse,3,2,2,368m² ,2021
+"1,035,000","20 Scottsdale Street,",LYONS ACT 2606,Vacant land,0,0,0,"1,082m² ",03 Sep 2021
+"485,000 ","710/167 Emu Bank,",BELCONNEN ACT 2617,Apartment / Unit / Flat,2,1,1,"2,110m² ",31 Aug 2021
+"531,500 ","8/25 Burnum Burnum Close,",BONNER ACT 2914,Townhouse,2,2,1,190m² ,31 Aug 2021
+"960,000 ","2/3 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,2,2,485m² ,1 Aug 2021
+"850,000 ","133/32 Blackall Street,",BARTON ACT 2600,Apartment / Unit / Flat,2,2,2,"4,429m² ",30 Aug 2021
+"760,000 ","32/30 Ijong Street,",BRADDON ACT 2612,Townhouse,2,2,2,"3,735m² ",30 Aug 2021
+"799,000 ","10 Parbery Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,3,2,4,103m² ,30 Aug 2021
+"701,000 ","15/25 Forbes Street,",TURNER ACT 2612,Apartment / Unit / Flat,3,2,2,"1,580m² ",27 Aug 2021
+"602,500 ","12 Conder Street,",WESTON ACT 2611,Townhouse,3,1,1,314m² ,2021
+"782,500 ","20 Taggerty Street,",NGUNNAWAL ACT 2913,Townhouse,3,2,2,242m² ,2021
+"895,000","40/121 Streeton Drive,",STIRLING ACT 2611,Townhouse,3,2,2,325m² ,2021
+"425,000 ","45 Gungahlin Place,",GUNGAHLIN ACT 2912,New apartments / off the plan,1,1,1,"2,364m² ",20 Aug 2021
+"340,000 ","93/6-10 Eyre Street,",GRIFFITH ACT 2603,Apartment / Unit / Flat,1,1,1,"5,010m² ",17 Aug 2021
+"585,000 ","1 Don Gazzard View,",TAYLOR ACT 2913,Vacant land,0,0,0,572m² ,2021
+"550,000","58/109 Canberra Avenue,",GRIFFITH ACT 2603,Apartment / Unit / Flat,2,1,1,"2,351m² ",13 Aug 2021
+"616,000 ","64/64 Kings Canyon Street,",HARRISON ACT 2914,Townhouse,4,2,2,140m² ,2021
+"505,000 ","46/120 John Gorton Drive,",COOMBS ACT 2611,Apartment / Unit / Flat,2,2,2,"9,285m² ",11 Aug 2021
+"500,000 ","18/11 Starcevich Crescent,",JACKA ACT 2914,Townhouse,2,2,2,"9,823m² ",10 Aug 2021
+"1,925,000","72 Coranderrk Street,",REID ACT 2612,Vacant land,0,0,0,"1,321m² ",10 Aug 2021
+"365,000 ","312/80 Chandler Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,85m² ,04 Aug 2021
+"584,000 ","5/17 Luffman Crescent,",GILMORE ACT 2905,Townhouse,2,2,2,"1,826m² ",2021
+"865,000","45/1 Wilkins Street,",MAWSON ACT 2607,Townhouse,3,2,2,361m² ,2021
+"915,000 ","5 Lycett Street,",WESTON ACT 2611,Vacant land,0,0,0,767m² ,2021
+"427,000 ","8/11 Tenison-Woods Circuit,",BONYTHON ACT 2905,Apartment / Unit / Flat,2,1,2,"2,467m² ",30 Jul 2021
+"412,000 ","333/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,"7,284m² ",30 Jul 2021
+"300,000 ","6/65 Melba Street,",DOWNER ACT 2602,Apartment / Unit / Flat,2,1,1,736m² ,29 Jul 2021
+"600,000","10/12 Jondol Place,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,303m² ,8 Jul 2021
+"470,000","6/3 Peron Place,",BANKS ACT 2906,Townhouse,3,1,1,189m² ,2021
+"765,000 ","8/58 De Little Circuit,",GREENWAY ACT 2900,Townhouse,3,2,2,410m² ,2021
+"865,000 ","1/31 Foxall Street,",HOLDER ACT 2611,Townhouse,3,2,2,616m² ,2021
+"602,000 ","22 Bamir Square,",NGUNNAWAL ACT 2913,Townhouse,2,1,1,297m² ,2021
+"430,000 ","42/20 Allara Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,"1,381m² ",23 Jul 2021
+"883,000 ","265/15 Irving Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,3,2,2,"9,679m² ",23 Jul 2021
+"535,000 ","18/3 Peron Place,",BANKS ACT 2906,Townhouse,3,1,1,202m² ,22 Jul 2021
+"395,000 ","28/5 Burnie Street,",LYONS ACT 2606,Apartment / Unit / Flat,1,1,1,61m² ,20 Jul 2021
+"550,000 ","2/3 Constance Stone Street,",MACGREGOR ACT 2615,Townhouse,3,1,1,218m² ,20 Jul 2021
+"500,000 ","2/5 Wellington Street,",NGUNNAWAL ACT 2913,Apartment / Unit / Flat,2,1,1,"1,652m² ",19 Jul 2021
+"440,000 ","3/6 Chermside Street,",DEAKIN ACT 2600,Apartment / Unit / Flat,2,1,1,"1,224m² ",16 Jul 2021
+"391,000 ","6/41 Hampton Circuit,",YARRALUMLA ACT 2600,Apartment / Unit / Flat,1,1,1,"2,911m² ",15 Jul 2021
+"576,000 ","14 Strong Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,215m² ,2021
+"610,000 ","4 Abdullah Street,",BONNER ACT 2914,Townhouse,3,2,2,296m² ,2021
+"607,000","3/16 Gabriel Place,",FLOREY ACT 2615,Townhouse,2,1,1,241m² ,2021
+"490,000 ","7 D'Hage Court,",MELBA ACT 2615,Townhouse,2,1,1,221m² ,2021
+"872,000 ","2/18 Marr Street,",PEARCE ACT 2607,Townhouse,3,2,2,369m² ,2021
+"1,500,000 ","16A Pera Place,",RED HILL ACT 2603,Townhouse,4,2,2,442m² ,2021
+"428,000","1/33 Forbes Street,",TURNER ACT 2612,Apartment / Unit / Flat,1,1,1,"2,868m² ",2021
+"1,475,000 ","6 Darrell Place,",CHAPMAN ACT 2611,Vacant land,0,0,0,"1,670m² ",2021
+"505,000 ","5/1 Bateman Street,",KAMBAH ACT 2902,Apartment / Unit / Flat,2,2,2,130m² ,2021
+"395,000","5/71 Port Jackson Circuit,",PHILLIP ACT 2606,Apartment / Unit / Flat,2,1,1,"1,572m² ",07 Jul 2021
+"599,000","5 Mondalmi Place,",BONNER ACT 2914,Townhouse,2,1,1,96m² ,2021
+"995,000 ","21/29 Temperley Street,",NICHOLLS ACT 2913,Townhouse,4,2,2,556m² ,2021
+"235,000 ","514/2 Akuna Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,−,"2,306m² ",02 Jul 2021
+"530,000 ","21/6 Trevillian Quay,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,"6,516m² ",02 Jul 2021
+"965,000 ","1/35 Crowder Circuit 'Stromlo Park',",STIRLING ACT 2611,Townhouse,3,2,2,549m² ,01 Jul 2021
+"635,000","5/6 Burrumarra Avenue,",NGUNNAWAL ACT 2913,Townhouse,3,2,2,"4,072m² ",2021
+"680,000 ","17/2 Cunningham Street,",GRIFFITH ACT 2603,Apartment / Unit / Flat,2,2,2,"2,810m² ",28 Jun 2021
+"1,300,000 ","53/29 Thynne Street,",BRUCE ACT 2617,Townhouse,4,3,3,227m² ,2021
+"565,000 ","323/20 Anzac Park East,",CAMPBELL ACT 2612,Apartment / Unit / Flat,2,2,2,70m² ,25 Jun 2021
+"1,265,000 ","3 Lowrie Street,",DICKSON ACT 2602,Townhouse,4,2,2,664m² ,25 Jun 2021
+"525,000","9/11 Len Waters Street,",NGUNNAWAL ACT 2913,Townhouse,2,1,1,269m² ,25 Jun 2021
+"642,000 ","2/33 Hargrave Street,",SCULLIN ACT 2614,Townhouse,2,1,1,"12,100m² ",5 Jun 2021
+"571,000 ","32/46 Paul Coe Crescent,",NGUNNAWAL ACT 2913,Townhouse,3,2,1,184m² ,24 Jun 2021
+"1,105,000","12/130 Shackleton Circuit,",MAWSON ACT 2607,Townhouse,4,2,2,"1,000m² ",23 Jun 2021
+"550,000 ","4 Rowland Street,",MACGREGOR ACT 2615,Townhouse,3,1,1,210m² ,21 Jun 2021
+"860,000 ","12/3 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,2,2,445m² ,2021
+"625,000 ","34/210 Newman-Morris Circuit,",OXLEY ACT 2903,Townhouse,3,1,1,463m² ,2021
+"620,000","4/21 Hargrave Street,",SCULLIN ACT 2614,Townhouse,3,2,2,422m² ,7 Jun 2021
+"730,000 ","712/167 Emu Bank,",BELCONNEN ACT 2617,Apartment / Unit / Flat,3,2,2,"2,110m² ",16 Jun 2021
+"810,000 ","67 Sapling Street,",HARRISON ACT 2914,Townhouse,4,2,2,361m² ,6 Jun 2021
+"656,000 ","4/77 Freda Bennett Circuit,",NICHOLLS ACT 2913,Townhouse,3,2,2,"30,940,000m² ",16 Jun 2021
+"875,000","16 Bacon Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,650m² ,10 Jun 2021
+"400,000 ","7/14 Thurlow Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,"2,309m² ",03 Jun 2021
+"425,000 ","96/35 Oakden Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,"7,286m² ",02 Jun 2021
+"410,000 ","252/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,2,2,1,"7,286m² ",01 Jun 2021
+"1,000,000","2/78 Tyrrell Circuit,",KALEEN ACT 2617,Townhouse,4,2,2,200m² ,01 Jun 2021
+"770,000","12 Lazar Place,",CHAPMAN ACT 2611,Townhouse,3,2,2,328m² ,2021
+"345,000 ","192/41 Chandler Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,"7,709m² ",2021
+"1,300,000","12 Prescott Street,",FARRER ACT 2607,Vacant land,0,0,0,"1,016m² ",8 May 2021
+"578,000",,TURNER ACT 2612,Apartment / Unit / Flat,2,2,2,"1,442m² ",28 May 2021
+"480,000 ","46 Castagna Street,",STRATHNAIRN ACT 2615,Vacant land,0,0,0,672m² ,26 May 2021
+"948,000","14A Buriga Street,",GIRALANG ACT 2617,Townhouse,3,2,2,394m² ,2021
+"639,000 ","150 Darwinia Terrace,",CHAPMAN ACT 2611,Townhouse,2,1,1,327m² ,2 May 2021
+"1,050,000","36 Eggleston Crescent,",CHIFLEY ACT 2606,Townhouse,3,2,2,497m² ,2021
+"780,000","3 Errol Street,",CRACE ACT 2911,Townhouse,3,2,3,280m² ,2021
+"505,000 ","328/50 Eastlake Parade,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,"4,389m² ",21 May 2021
+"515,000 ","4/111 Keverstone Circuit,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,470m² ,20 May 2021
+"650,000 ","13/37 Derrington Crescent,",BONYTHON ACT 2905,Townhouse,3,1,2,467m² ,19 May 2021
+"820,000 ","18 Mackaness Place,",GARRAN ACT 2605,Townhouse,4,2,1,350m² ,19 May 2021
+"380,000","121/8 Baudinette Circuit,",BRUCE ACT 2617,Apartment / Unit / Flat,2,1,1,82m² ,18 May 2021
+"375,000 ","12/7 Irving Street,",PHILLIP ACT 2606,Apartment / Unit / Flat,1,1,1,"7,061m² ",18 May 2021
+"515,000 ","7 Kellermann Close,",HOLT ACT 2615,Townhouse,3,1,2,298m² ,2021
+"298,000 ","47/116 Blamey Crescent,",CAMPBELL ACT 2612,Apartment / Unit / Flat,1,1,1,"3,415m² ",14 May 2021
+"445,000 ","45 Gungahlin Place,",GUNGAHLIN ACT 2912,New apartments / off the plan,1,2,1,"2,364m² ",14 May 2021
+"509,000 ","45 Gungahlin Place,",GUNGAHLIN ACT 2912,New apartments / off the plan,2,2,1,"2,364m² ",14 May 2021
+"509,000 ","45 Gungahlin Place,",GUNGAHLIN ACT 2912,New apartments / off the plan,2,2,1,"2,364m² ",14 May 2021
+"435,000 ","45 Gungahlin Place,",GUNGAHLIN ACT 2912,New apartments / off the plan,2,1,1,"2,364m² ",14 May 2021
+"806,000 ","323/85 Eyre Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,3,2,2,"4,860m² ",13 May 2021
+"805,000","4/49 Hampton Circuit,",YARRALUMLA ACT 2600,Apartment / Unit / Flat,2,2,2,"1,607m² ",13 May 2021
+"862,500 ","126/264 City Walk,",CITY ACT 2601,Apartment / Unit / Flat,3,2,2,"1,665m² ",12 May 2021
+"825,000 ","19/27 Eastlake Parade,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,2,2,"5,309m² ",12 May 2021
+"700,000 ","402/19 Marcus Clarke Street,",CITY ACT 2601,Apartment / Unit / Flat,2,2,2,"4,070m² ",11 May 2021
+"430,000","5/7 Sommers Street,",CONDER ACT 2906,Townhouse,3,1,1,"7,367m² ",11 May 2021
+"350,000 ","49/57 Benjamin Way,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,"7,654m² ",07 May 2021
+"1,105,000 ","9 Renwick Street,",CHIFLEY ACT 2606,Vacant land,0,0,0,915m² ,2021
+"860,000 ","5 Goodenia Street,",RIVETT ACT 2611,Vacant land,0,0,0,743m² ,2021
+"1,751,000 ","31 Chisholm Street,",AINSLIE ACT 2602,Vacant land,0,0,0,861m² ,2021
+"1,385,000 ","2A Ebden Street,",AINSLIE ACT 2602,Vacant land,0,0,0,720m² ,2021
+"680,000 ","27 Fenwick Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,213m² ,4 May 2021
+"437,500 ","91/104 Henry Kendall Street,",FRANKLIN ACT 2913,Apartment / Unit / Flat,2,2,2,"10,386m² ",04 May 2021
+"345,000 ","299/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,1,1,1,"7,286m² ",04 May 2021
+"785,000 ","21 Gungahlin Place,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,249m² ,2021
+"1,180,000 ","29 Ainsworth Street,",MAWSON ACT 2607,Vacant land,0,0,0,802m² ,2021
+"750,000 ","17 Moonlight Avenue,",HARRISON ACT 2914,Townhouse,3,2,2,224m² ,2021
+"350,000 ","512/74 Northbourne Avenue,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"4,172m² ",30 Apr 2021
+"850,000 ","1/26 Hedland Circuit,",FLYNN ACT 2615,Townhouse,4,2,2,763m² ,23 Apr 2021
+"580,000","6/121 Keverstone Circuit,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,439m² ,23 Apr 2021
+"338,000 ","194/325 Anketell Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,1,1,1,"7,286m² ",21 Apr 2021
+"620,000 ","438 Antill Street,",WATSON ACT 2602,Townhouse,3,1,1,313m² ,1 Apr 2021
+"675,000","8 Brooker Street,",BONYTHON ACT 2905,Townhouse,3,2,2,307m² ,2021
+"890,000","2/91 Dexter Street,",COOK ACT 2614,Townhouse,3,2,2,327m² ,2021
+"482,000 ","8/88 Eccles Circuit,",MACGREGOR ACT 2615,Townhouse,2,1,1,360m² ,2021
+"570,000 ","23/21 Eastlake Parade,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,"3,160m² ",16 Apr 2021
+"2,260,000 ","10 Jalanga Crescent,",ARANDA ACT 2614,Vacant land,8,4,4,"2,091m² ",2021
+"550,000","6/17 Margaret Tucker Street,",BONNER ACT 2914,Townhouse,3,2,1,"6,924m² ",15 Apr 2021
+"749,900 ","89/103 Redfern Street,",MACQUARIE ACT 2614,Townhouse,3,2,2,"9,785m² ",14 Apr 2021
+"626,000 ","11/45 Zakharov Avenue,",FORDE ACT 2914,Townhouse,3,2,2,"3,210m² ",13 Apr 2021
+"1,341,000 ","2/317 Goyder Street,",NARRABUNDAH ACT 2604,Townhouse,4,2,2,535m² ,2021
+"585,000","4/47 Foxall Street,",HOLDER ACT 2611,Townhouse,2,1,1,452m² ,2021
+"655,000 ","30/2 Rouseabout Street,",LAWSON ACT 2617,Townhouse,3,2,2,130m² ,09 Apr 2021
+"475,000 ","7 Castagna Street,",STRATHNAIRN ACT 2615,Vacant land,0,0,0,653m² ,09 Apr 2021
+670 ,"U19/24 Melomys Circuit,",THROSBY ACT 2914,Townhouse,3,2,2,"5,203m² ",09 Apr 2021
+"690,000","4/11 Trevillian Quay,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,2,2,98m² ,08 Apr 2021
+"840,000","12 Bingley Crescent,",FRASER ACT 2615,Vacant land,0,0,0,"1,355m² ",2021
+"225,000","36/58 Bennelong Crescent,",MACQUARIE ACT 2614,Apartment / Unit / Flat,1,1,1,"5,308m² ",06 Apr 2021
+"935,000 ","2/23 Lochbuy Street,",MACQUARIE ACT 2614,Townhouse,3,2,2,"1,431m² ",1 Apr 2021
+"375,000 ","136/217 Northbourne Avenue,",TURNER ACT 2612,Apartment / Unit / Flat,1,1,1,"5,046m² ",01 Apr 2021
+"350,001 ","304/80 Chandler Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,1,1,1,479m² ,31 Mar 2021
+"615,000 ","613/43 Currong Street North,",BRADDON ACT 2612,Apartment / Unit / Flat,2,2,2,"25,632m² ",31 Mar 2021
+"386,000 ","403/8 Gribble Street,",GUNGAHLIN ACT 2912,Apartment / Unit / Flat,2,1,1,"2,163m² ",31 Mar 2021
+"360,000","41 Claridge Street,",TAYLOR ACT 2913,Vacant land,4,2,2,480m² ,31 Mar 2021
+"543,000 ","6/8 Unaipon Avenue,",NGUNNAWAL ACT 2913,Townhouse,3,1,1,265m² ,29 Mar 2021
+"571,000 ","17/4 Annie Douglas Street,",CASEY ACT 2913,Townhouse,3,1,2,214m² ,2021
+"515,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,527m² ,27 Mar 2021
+"752,000 ","8 Bonrook Street,",HAWKER ACT 2614,Townhouse,3,2,2,450m² ,2021
+"1,130,000","3/32 Ulverstone Street,",LYONS ACT 2606,Townhouse,3,2,2,"1,232m² ",7 Mar 2021
+"880,000 ","2/86 Grayson Street,",HACKETT ACT 2602,Townhouse,3,2,2,"7,340m² ",26 Mar 2021
+"720,000 ","6 Bodel Place,",AINSLIE ACT 2602,Townhouse,3,1,1,284m² ,2021
+"400,000","53 Jill Landsberg Terrace,",STRATHNAIRN ACT 2615,Vacant land,0,0,0,529m² ,25 Mar 2021
+"1,775,000 ","27/22 Canberra Avenue,",FORREST ACT 2603,Apartment / Unit / Flat,3,3,2,"2,275m² ",24 Mar 2021
+"460,000 ","822/74 Northbourne Avenue,",BRADDON ACT 2612,Apartment / Unit / Flat,2,2,−,"4,172m² ",23 Mar 2021
+"403,000","15/51 Hampton Circuit,",YARRALUMLA ACT 2600,Apartment / Unit / Flat,2,1,1,"1,748m² ",23 Mar 2021
+"780,000 ","10 Cudgewa Lane,",HARRISON ACT 2914,Townhouse,3,2,2,362m² ,2021
+"895,000 ","56 Aspinall Street,",WATSON ACT 2602,Townhouse,3,2,2,247m² ,2021
+"685,000 ","21/29 State Circle,",DEAKIN ACT 2600,Apartment / Unit / Flat,2,2,2,"3,075m² ",19 Mar 2021
+"8,410,000 ","11-13 State Circle,",FORREST ACT 2603,Vacant land,0,0,0,"3,767m² ",2021
+"438,200 ","23 Goddard Crescent,",HOLT ACT 2615,Townhouse,2,1,1,347m² ,18 Mar 2021
+"601,000 ","49 Hallen Close,",PHILLIP ACT 2606,Townhouse,3,1,1,321m² ,18 Mar 2021
+"565,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,675m² ,17 Mar 2021
+"1,012,500","3 Charteris Crescent,",CHIFLEY ACT 2606,Vacant land,0,0,0,"2,191m² ",16 Mar 2021
+"435,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,426m² ,15 Mar 2021
+"615,000 ","18 Barlow Street,",SCULLIN ACT 2614,Townhouse,3,1,1,325m² ,2021
+"540,000 ","143 Ida West Street,",BONNER ACT 2914,Vacant land,0,0,0,538m² ,12 Mar 2021
+"600,000 ","62 Cocoparra Crescent,",CRACE ACT 2911,Townhouse,3,2,1,193m² ,12 Mar 2021
+"461,872 ","15/71 Lawrenson Circuit,",JACKA ACT 2914,Townhouse,2,1,1,"6,199m² ",12 Mar 2021
+"830,000","25 Pethebridge Street,",PEARCE ACT 2607,Townhouse,3,2,2,450m² ,2021
+"435,000 ","39/35 Chandler Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,2,1,1,"7,709m² ",10 Mar 2021
+"671,000 ","2/3 Seaborn Place,",NICHOLLS ACT 2913,Townhouse,3,2,2,"2,109m² ",2021
+"1,700,000 ","11 Beauchamp Street,",DEAKIN ACT 2600,Vacant land,0,0,0,928m² ,07 Mar 2021
+"540,000","1/111 Keverstone Circuit,",ISABELLA PLAINS ACT 2905,Townhouse,3,1,1,577m² ,2021
+"685,000 ","1/140 Katherine Avenue,",AMAROO ACT 2914,Townhouse,3,2,2,"2,016m² ",05 Mar 2021
+"610,000 ","24/10 Helpmann Street,",BONYTHON ACT 2905,Townhouse,3,2,2,168m² ,05 Mar 2021
+"310,000","6/126 Thynne Street,",BRUCE ACT 2617,Apartment / Unit / Flat,1,1,1,"5,564m² ",04 Mar 2021
+"768,500","22 Terry Close,",SWINGER HILL ACT 2606,Townhouse,3,2,1,190m² ,2021
+"820,000","32 Jewell Close,",SWINGER HILL ACT 2606,Townhouse,3,2,2,229m² ,2021
+"750,000 ","1/94 Blacket Street,",DOWNER ACT 2602,Townhouse,3,2,2,997m² ,03 Mar 2021
+"1,100,000 ","111/45 Honeysett View,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,2,2,88m² ,03 Mar 2021
+"400,000 ","2/41 Leahy Close,",NARRABUNDAH ACT 2604,Apartment / Unit / Flat,2,2,1,"5,010m² ",03 Mar 2021
+"965,000 ","10 Emery Street,",CHAPMAN ACT 2611,Vacant land,0,0,0,975m² ,02 Mar 2021
+"460,000 ","36/20 Beissel Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,2,2,1,"8,104m² ",2021
+"707,000","1 Gavin Place,",CHAPMAN ACT 2611,Townhouse,3,1,2,331m² ,2021
+"1,330,000","3/317 Goyder Street,",NARRABUNDAH ACT 2604,Townhouse,3,2,2,530m² ,2021
+"3,500,000","50 Mugga Way,",RED HILL ACT 2603,Vacant land,0,0,0,"3,143m² ",2021
+"1,310,000 ","12/22 Canberra Avenue,",FORREST ACT 2603,Apartment / Unit / Flat,3,2,2,"2,275m² ",26 Feb 2021
+"775,000 ","210/32 Mort Street,",BRADDON ACT 2612,Apartment / Unit / Flat,3,2,2,"1,533m² ",22 Feb 2021
+"660,000","16 Ultimo Street,",CRACE ACT 2911,Townhouse,3,2,2,240m² ,22 Feb 2021
+"870,000 ","2/3 Blyth Place,",CURTIN ACT 2605,Townhouse,3,2,2,210m² ,22 Feb 2021
+"550,000 ","14 Ketterer Street,",MONCRIEFF ACT 2914,Townhouse,3,2,1,153m² ,22 Feb 2021
+"705,000 ","35 Fenwick Place,",BELCONNEN ACT 2617,Townhouse,2,1,1,240m² ,2021
+"284,000","9/127 Rivett Street,",HACKETT ACT 2602,Apartment / Unit / Flat,2,1,1,"2,417m² ",19 Feb 2021
+"1,950,000 ","5/40 Culgoa Circuit,",O'MALLEY ACT 2606,Townhouse,4,2,2,"1,700m² ",19 Feb 2021
+"370,000 ","96/10 Eyre Street,",GRIFFITH ACT 2603,Apartment / Unit / Flat,1,1,1,"5,010m² ",18 Feb 2021
+"750,000 ","2/94 Blacket Street,",DOWNER ACT 2602,Townhouse,3,2,2,997m² ,17 Feb 2021
+"1,220,000 ","4/12 Key Street,",CAMPBELL ACT 2612,Retirement Living,3,2,2,"11,548m² ",16 Feb 2021
+"1,900,000 ","7A Gregory Street,",GRIFFITH ACT 2603,Townhouse,4,3,2,665m² ,6 Feb 2021
+"651,500 ","7 Cooks Street,",KALEEN ACT 2617,Townhouse,3,2,1,363m² ,2021
+"805,000","8/80 Marr Street,",PEARCE ACT 2607,Townhouse,3,2,2,504m² ,2021
+"510,000 ","49 Collicott Circuit,",MACQUARIE ACT 2614,Townhouse,2,1,2,267m² ,12 Feb 2021
+"580,000 ","14/35 Oakden Street,",GREENWAY ACT 2900,Apartment / Unit / Flat,3,2,2,"7,285m² ",11 Feb 2021
+"1,203,000 ","1/31 Batman Street,",BRADDON ACT 2612,Vacant land,0,0,0,541m² ,2021
+"300,000 ","16/48 Abena Avenue,",CRACE ACT 2911,Apartment / Unit / Flat,1,1,1,"2,023m² ",10 Feb 2021
+"660,000 ","127/53 Eyre Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,2,2,"10,952m² ",10 Feb 2021
+"480,000 ","34/18 Glenmaggie Street,",DUFFY ACT 2611,Apartment / Unit / Flat,4,2,1,"8,005m² ",09 Feb 2021
+"690,000","2/14 Starritt Place,",MACARTHUR ACT 2904,Townhouse,3,2,2,487m² ,9 Feb 2021
+"660,000 ","10 Bainton Crescent,",MELBA ACT 2615,Vacant land,0,0,0,980m² ,09 Feb 2021
+"691,000 ","335 Anthony Rolfe Avenue,",GUNGAHLIN ACT 2912,Townhouse,4,2,2,293m² ,2021
+"475,000 ","4/99 Totterdell Street,",BELCONNEN ACT 2617,Townhouse,3,1,1,"4,618m² ",05 Feb 2021
+"485,000","3/3 Gordon Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,103m² ,02 Feb 2021
+"485,000 ","12/14 'Sherwood Gardens' Marr Street,",PEARCE ACT 2607,Townhouse,2,1,1,223m² ,2 Feb 2021
+"650,000","3 Rounsevell Street,",KAMBAH ACT 2902,Vacant land,0,0,0,"1,037m² ",01 Feb 2021
+"650,000","3 Rounsevell Street,",KAMBAH ACT 2902,Vacant land,0,0,0,"1,037m² ",01 Feb 2021
+"470,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,525m² ,31 Jan 2021
+"590,000 ","8 John Gorton Drive,",COOMBS ACT 2611,Townhouse,3,2,2,176m² ,2021
+"445,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,471m² ,29 Jan 2021
+"650,000","9 Favco Place,",DUNLOP ACT 2615,Townhouse,3,2,2,328m² ,9 Jan 2021
+"560,000 ","9/17 Freda Bennett Circuit,",NICHOLLS ACT 2913,Townhouse,3,1,2,"4,290m² ",29 Jan 2021
+"625,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,676m² ,28 Jan 2021
+"600,000 ","15 Sewell Place,",MACGREGOR ACT 2615,Vacant land,0,0,0,"1,137m² ",27 Jan 2021
+"330,000 ","5B/62 Wattle Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,1,1,1,"8,763m² ",2021
+"605,000 ","49/41 Pearlman Street,",COOMBS ACT 2611,Townhouse,3,2,2,128m² ,22 Jan 2021
+"547,000","6 Giltinan Place,",HOLT ACT 2615,Townhouse,2,1,1,333m² ,2021
+"450,000 ","80 Burrumarra Avenue,",NGUNNAWAL ACT 2913,Townhouse,2,1,1,208m² ,22 Jan 2021
+"565,000 ","24 Barlow Street,",SCULLIN ACT 2614,Townhouse,3,1,1,297m² ,22 Jan 2021
+"470,000 ","4/9 Ferry Place,",GORDON ACT 2906,Townhouse,2,1,2,225m² ,15 Jan 2021
+"405,000 ","32 Essie Coffey Street,",BONNER ACT 2914,Vacant land,0,0,0,572m² ,13 Jan 2021
+"577,000 ","1/43 Bywaters Street,",AMAROO ACT 2914,Townhouse,3,2,2,"1,815m² ",04 Jan 2021
+"666,000 ","32 Redbank Street,",HARRISON ACT 2914,Townhouse,4,2,2,246m² ,24 Dec 2020
+"530,000 ","52 Coaldrake Avenue,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,563m² ,23 Dec 2020
+"1,019,000 ","45 Honeysett View,",KINGSTON ACT 2604,New apartments / off the plan,2,2,−,"3,697m² ",23 Dec 2020
+"490,000 ","4/33 Dawes Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,1,1,"3,010m² ",22 Dec 2020
+"520,000 ","6 Trickett Street,",HOLT ACT 2615,Townhouse,4,2,2,"2,739m² ",2020
+"551,000 ","4/40 Moore Street,",TURNER ACT 2612,Apartment / Unit / Flat,2,1,1,"2,013m² ",2020
+"560,000","33 Shingleback Street,",THROSBY ACT 2914,Vacant land,0,0,0,520m² ,18 Dec 2020
+"390,000","36/28 Mort Street,",BRADDON ACT 2612,Apartment / Unit / Flat,1,1,1,"1,532m² ",17 Dec 2020
+"575,000 ","69A Barr Smith Avenue,",BONYTHON ACT 2905,Townhouse,3,1,2,574m² ,15 Dec 2020
+"540,000 ","6/45 Barr Smith Avenue,",BONYTHON ACT 2905,Apartment / Unit / Flat,3,2,2,372m² ,15 Dec 2020
+"449,000 ","20c/21 Beissel Street,",BELCONNEN ACT 2617,Apartment / Unit / Flat,2,2,2,"20,980m² ",14 Dec 2020
+"560,000 ","104 Plimsoll Drive,",CASEY ACT 2913,Townhouse,3,2,2,"4,347m² ",14 Dec 2020
+"420,000 ","5/66 Allara Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,"3,716m² ",14 Dec 2020
+"825,000","1/37 Telopea Park,",BARTON ACT 2600,Townhouse,2,1,1,"1,340m² ",1 Dec 2020
+"411,900 ","4/4 Verdon Street,",O'CONNOR ACT 2602,Apartment / Unit / Flat,1,1,1,"2,466m² ",1 Dec 2020
+"543,000 ","4/10 Vanzetti Crescent,",KAMBAH ACT 2902,Townhouse,3,1,2,480m² ,10 Dec 2020
+"577,500 ","26/63 Hurtle Avenue,",BONYTHON ACT 2905,Townhouse,3,1,2,244m² ,09 Dec 2020
+"495,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,484m² ,09 Dec 2020
+"323,000","41/60 Tishler Street,",WRIGHT ACT 2611,Apartment / Unit / Flat,1,1,1,"8,515m² ",09 Dec 2020
+"520,000","41 McGovern Street,",CASEY ACT 2913,Townhouse,3,2,2,142m² ,08 Dec 2020
+"815,000 ","100 Darwinia Terrace,",CHAPMAN ACT 2611,Vacant land,0,0,0,"1,186m² ",07 Dec 2020
+"820,000 ","9/45 Alexander Mackie Circuit,",ISAACS ACT 2607,Townhouse,3,2,2,475m² ,7 Dec 2020
+"1,550,000 ","4/26 Dominion Circuit,",FORREST ACT 2603,Townhouse,4,3,2,390m² ,04 Dec 2020
+"905,000","2/43 McConchie Circuit,",WESTON ACT 2611,Townhouse,4,3,2,476m² ,04 Dec 2020
+"630,000 ","14 Tenison Woods Circuit,",BONYTHON ACT 2905,Townhouse,3,2,2,332m² ,3 Dec 2020
+"430,000 ","10/33 Eastlake Parade,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,"5,309m² ",03 Dec 2020
+"2,700,000 ","3a Mugga Way,",FORREST ACT 2603,Vacant land,0,0,0,"2,314m² ",02 Dec 2020
+"621,000 ","5/11 Tea Gardens,",GUNGAHLIN ACT 2912,Townhouse,3,2,2,"3,537m² ",2020
+"642,000 ","7/49 Fullston Way,",HOLT ACT 2615,Townhouse,4,2,2,317m² ,2 Dec 2020
+"395,000 ","43/35 Tay Street,",WATSON ACT 2602,Apartment / Unit / Flat,2,1,1,"9,585m² ",02 Dec 2020
+"395,000 ","43/35 Tay Street,",WATSON ACT 2602,Apartment / Unit / Flat,2,1,1,"9,585m² ",02 Dec 2020
+"361,000 ","1/18 Moore Street,",TURNER ACT 2612,Apartment / Unit / Flat,1,1,1,"6,378m² ",01 Dec 2020
+"760,000","7A Hooker Street,",YARRALUMLA ACT 2600,Townhouse,1,1,1,378m² ,2020
+"808,000 ","51/121 Thynne Street,",BRUCE ACT 2617,Townhouse,4,2,2,227m² ,2020
+"655,000 ","4/72 Canberra Avenue,",GRIFFITH ACT 2603,Apartment / Unit / Flat,2,1,2,"3,409m² ",26 Nov 2020
+"269,000 ","5A/62 Wattle Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,1,1,1,"8,763m² ",26 Nov 2020
+"435,000","8/5 Tristania Street,",RIVETT ACT 2611,Apartment / Unit / Flat,2,1,1,246m² ,25 Nov 2020
+"508,640 ","7 Neidjie Close,",BONNER ACT 2914,Townhouse,3,1,1,148m² ,23 Nov 2020
+"470,500","111/9 The Causeway,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,1,1,75m² ,23 Nov 2020
+"560,000","5/108 Plimsoll Drive,",CASEY ACT 2913,Townhouse,3,2,2,"4,347m² ",20 Nov 2020
+"460,000","14 Rigby Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,471m² ,20 Nov 2020
+"465,000 ","12/25 Wootton Crescent,",GORDON ACT 2906,Apartment / Unit / Flat,3,2,1,190m² ,20 Nov 2020
+"2,700,000 ","3 Davey Crescent,",FORREST ACT 2603,Vacant land,0,0,0,"1,485m² ",2020
+"750,000","66A Mueller Street,",YARRALUMLA ACT 2600,Townhouse,2,1,1,361m² ,2020
+"505,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,510m² ,13 Nov 2020
+"480,000 ","27/43-51 Giles Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,1,1,854m² ,13 Nov 2020
+"745,000 ","67/215 Aspinall Street,",WATSON ACT 2602,Townhouse,3,2,2,201m² ,12 Nov 2020
+"650,000 ","20/3 Tench Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,2,2,2,"1,561m² ",11 Nov 2020
+"830,000 ","16/25 Temperley Street,",NICHOLLS ACT 2913,Townhouse,4,2,2,"15,040m² ",2020
+"640,000 ","A6/2 Currie Crescent,",GRIFFITH ACT 2603,Apartment / Unit / Flat,2,2,1,"6,328m² ",10 Nov 2020
+"1,043,500","5/58 Shackleton Circuit,",MAWSON ACT 2607,Apartment / Unit / Flat,3,2,2,839m² ,2020
+"437,500 ","2/30 Watson Street,",TURNER ACT 2612,Apartment / Unit / Flat,1,1,1,"3,274m² ",06 Nov 2020
+"475,000","61/71 Giles Street,",KINGSTON ACT 2604,Apartment / Unit / Flat,1,1,1,"2,912m² ",03 Nov 2020
+"766,000","42 Edgeworth Parade,",COOMBS ACT 2611,Townhouse,4,3,2,199m² ,2020
+"502,500 ","104/66 Allara Street,",CITY ACT 2601,Apartment / Unit / Flat,2,2,1,"3,716m² ",29 Oct 2020
+"501,000 ","85/3 London Circuit,",CITY ACT 2601,Apartment / Unit / Flat,2,1,2,"6,923m² ",29 Oct 2020
+"205,000 ","205/2 Akuna Street,",CITY ACT 2601,Studio,1,1,−,"2,306m² ",29 Oct 2020
+"451,000 ","14/15 Bill Ferguson Circuit,",BONNER ACT 2914,Apartment / Unit / Flat,3,2,2,184m² ,28 Oct 2020
+"610,000 ","9 Chanter Terrace,",COOMBS ACT 2611,Townhouse,3,2,1,199m² ,28 Oct 2020
+"450,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,480m² ,28 Oct 2020
+"575,000","412 Antill Street,",WATSON ACT 2602,Townhouse,3,2,1,324m² ,27 Oct 2020
+"480,000 ","20/2 Pipeclay Street,",LAWSON ACT 2617,Townhouse,2,3,1,109m² ,26 Oct 2020
+"320,000","14 Fullston Way,",HOLT ACT 2615,Vacant land,0,0,0,403m² ,23 Oct 2020
+"320,000","14 Fullston Way,",HOLT ACT 2615,Vacant land,0,0,0,403m² ,23 Oct 2020
+"305,000 ","85/179 Melrose Drive,",LYONS ACT 2606,Apartment / Unit / Flat,2,1,1,"12,920m² ",23 Oct 2020
+"487,000 ","2/15 Wanliss Street,",LATHAM ACT 2615,Townhouse,3,2,2,133m² ,22 Oct 2020
+"600,000 ","23/115 Canberra Avenue,",GRIFFITH ACT 2603,Apartment / Unit / Flat,2,2,2,"2,274m² ",20 Oct 2020
+"375,000 ","52/193 Mouat Street,",LYNEHAM ACT 2602,Apartment / Unit / Flat,1,1,1,"8,657m² ",20 Oct 2020
+"600,000 ","10 Crossman Street,",AMAROO ACT 2914,Townhouse,3,2,1,118m² ,16 Oct 2020
+"505,000 ","37 Kondelea Way,",DENMAN PROSPECT ACT 2611,New apartments / off the plan,0,0,0,501m² ,16 Oct 2020
+"486,000 ","10/96 Britten Jones Drive,",HOLT ACT 2615,Townhouse,3,1,1,"3,980m² ",16 Oct 2020
+"540,000","4 Hallen Close,",SWINGER HILL ACT 2606,Townhouse,2,1,1,847m² ,6 Oct 2020
+"800,000 ","4/3 Bowen Drive,",BARTON ACT 2600,Apartment / Unit / Flat,2,2,2,"36,666m² ",15 Oct 2020
+"2,554,000 ","45 Honeysett View,",KINGSTON ACT 2604,New apartments / off the plan,4,4,4,"3,697m² ",15 Oct 2020
+"407,000 ","12 Alison Burton Rise,",TAYLOR ACT 2913,Vacant land,0,0,0,450m² ,15 Oct 2020
+"1,320,000 ","1/3 Rodway Street,",YARRALUMLA ACT 2600,Townhouse,3,2,2,473m² ,5 Oct 2020
+"410,000 ","10/3 Gordon Street,",CITY ACT 2601,Apartment / Unit / Flat,1,1,1,"6,923m² ",13 Oct 2020
+"790,000 ","34 Basedow Street,",TORRENS ACT 2607,Vacant land,0,0,0,935m² ,12 Oct 2020
+"505,000","43 Harriott Street,",WRIGHT ACT 2611,Vacant land,0,0,0,500m² ,12 Oct 2020
+"538,000 ","23/21 Bakewell,",COOMBS ACT 2611,Townhouse,3,2,2,109m² ,11 Oct 2020
+"756,000 ","24/29 Thynne Street,",BRUCE ACT 2617,Townhouse,3,2,2,"27,427m² ",2020
+"686,000 ","56 Nellie Hamilton Avenue,",GUNGAHLIN ACT 2912,Townhouse,4,2,2,265m² ,2020
+"665,000 ","7/40 Marr Street,",PEARCE ACT 2607,Townhouse,3,1,1,490m² ,09 Oct 2020
+"940,000 ","7/18 Mugglestone Place,",BRUCE ACT 2617,Townhouse,4,2,2,"6,807m² ",2020
+"597,500","16 Cashman Street,",DENMAN PROSPECT ACT 2611,Vacant land,0,0,0,653m² ,08 Oct 2020

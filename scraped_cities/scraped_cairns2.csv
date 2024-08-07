@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"245,000 ","40/62 Abbott Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,1,1,−,68m² ,19 Apr 2023
+"99,000 ","22/261-265 Sheridan Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,2,1,1,59m² ,08 Sep 2017
+"80,000 ","19/63 McLeod Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,1,1,1,54m² ,22 Jul 2016
+"110,000 ","353/175 Lake Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,23 Oct 2015
+"95,000 ","14/235 McLeod Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,22 May 2015
+"110,000 ","62 Abbott Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,1,1,1,52m² ,20 May 2013
+"199,000 ","1/47 McCormack St,",CAIRNS QLD 4870,Apartment / Unit / Flat,3,2,1,116m² ,03 May 2013
+"175,000","4 Torazzi Place,",CAIRNS QLD 4870,Vacant land,0,0,0,814m² ,02 Feb 2013
+"336,000 ","706/38 Abbott Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,2,2,1,125m² ,11 Oct 2012
+"102,000 ","7/62 Abbott Street,",CAIRNS QLD 4870,Apartment / Unit / Flat,1,1,−,52m² ,09 Oct 2012
+"210,000 ","4/176 Hoare Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,67m² ,24 Apr 2024
+"420,000 ","Unit 2/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,122m² ,16 Apr 2024
+"350,000 ","5/49-53 English Street,",MANUNDA QLD 4870,Townhouse,2,1,3,200m² ,13 Apr 2024
+"350,000 ","2261 Pine Creek - Yarrabah Road,",EAST TRINITY QLD 4871,Vacant land,0,0,0,0,12 Apr 2024
+"255,000 ","6/195-197 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,81m² ,10 Apr 2024
+"310,000 ","1122/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,95m² ,10 Apr 2024
+"230,000 ","10/98 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,53m² ,10 Apr 2024
+"439,000 ","404/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,142m² ,08 Apr 2024
+"370,000 ","3 Radiata Court,",BRINSMEAD QLD 4870,New land,0,0,0,626m² ,05 Apr 2024
+"250,000 ","12/74-82 Swallow Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,3,1,1,65m² ,04 Apr 2024
+"325,000 ","705/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,131m² ,02 Apr 2024
+"355,000 ","1133 & 113/3 Water Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,96m² ,28 Mar 2024
+"256,000 ","1/21 Creedy Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,19 Mar 2024
+"315,000 ","3/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,2,1,112m² ,18 Mar 2024
+"400,000 ","15 Radiata Court,",BRINSMEAD QLD 4870,New land,0,0,0,786m² ,15 Mar 2024
+"293,787 ","2/200 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,15 Mar 2024
+"310,000 ","20/208 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,69m² ,15 Mar 2024
+"276,000 ","7/171 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,67m² ,14 Mar 2024
+"335,000 ","1A Allamanda Rise,",BRINSMEAD QLD 4870,New land,0,0,0,631m² ,12 Mar 2024
+"298,000 ","6/15 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,92m² ,12 Mar 2024
+"400,000 ","13/11-19 Stratford Parade,",STRATFORD QLD 4870,Townhouse,2,2,1,114m² ,2024
+"412,000 ","9/368-370 Redlynch Intake Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,803m² ,07 Mar 2024
+"373,000 ","11/3 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,125m² ,06 Mar 2024
+"227,000 ","8 Cecil Street,",ALOOMBA QLD 4871,Vacant land,0,0,0,834m² ,05 Mar 2024
+"710,000 ","305/174 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,144m² ,05 Mar 2024
+"580,000 ","84A Redlynch Intake Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,3,2,2,308m² ,05 Mar 2024
+"530,000 ","8 Darlingia Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,993m² ,05 Mar 2024
+"480,000 ","48/9-15 Mclean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,159m² ,04 Mar 2024
+"325,000 ","275/12 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,91m² ,04 Mar 2024
+"425,000 ","102/3609 Mulligan Highway,",MOUNT MOLLOY QLD 4871,Vacant land,0,0,0,"618,359m² ",01 Mar 2024
+"340,000 ","3/49-51 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,77m² ,29 Feb 2024
+"320,000 ","23/186 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,29 Feb 2024
+"655,000 ","402/5 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,137m² ,28 Feb 2024
+"330,000 ","1/271 Lake Street, Cairns North, Qld 4870,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,98m² ,27 Feb 2024
+"377,000 ","103/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,117m² ,27 Feb 2024
+"320,000 ","7 Radiata Court,",BRINSMEAD QLD 4870,New land,0,0,0,626m² ,26 Feb 2024
+"525,000 ","24-26 Martin Street,",FRESHWATER QLD 4870,Vacant land,0,0,0,"1,715m² ",24 Feb 2024
+"169,000 ","21/261-265 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,−,59m² ,23 Feb 2024
+"315,000 ","9/1 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,89m² ,22 Feb 2024
+"399,000 ","4/368-370 Redlynch Intake Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,800m² ,22 Feb 2024
+"320,000 ","1125/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,89m² ,21 Feb 2024
+"275,000 ","1752/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,75m² ,19 Feb 2024
+"420,000 ","16/249 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,109m² ,14 Feb 2024
+"1,830,000 ","606/174 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,3,2,717m² ,13 Feb 2024
+"413,000 ","7/172 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,124m² ,13 Feb 2024
+"320,000 ","4 Radiata Court,",BRINSMEAD QLD 4870,New land,0,0,0,562m² ,12 Feb 2024
+"390,000 ","1 Radiata Court,",BRINSMEAD QLD 4870,New land,0,0,0,706m² ,08 Feb 2024
+"275,000 ",,EDGE HILL QLD 4870,Vacant land,0,0,0,490m² ,08 Feb 2024
+"275,000 ","11/1 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,89m² ,08 Feb 2024
+"445,000 ","2/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,2,168m² ,07 Feb 2024
+"324,000 ","756/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,91m² ,02 Feb 2024
+"258,000 ","2/21 Balaclava Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,01 Feb 2024
+"430,000 ","601/58 McLeod St,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,114m² ,31 Jan 2024
+"287,000 ","3/3-5 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,77m² ,30 Jan 2024
+"365,000 ","1/11 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,83m² ,30 Jan 2024
+"672,000","6/75 Spence Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,149m² ,29 Jan 2024
+"489,000","34/275-277 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,96m² ,29 Jan 2024
+"240,000 ","29/50-56 Woodward Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,56m² ,29 Jan 2024
+"250,000 ","1/1 Chester Court,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,−,85m² ,29 Jan 2024
+"415,000 ","6/368-370 Redlynch Intake Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,807m² ,29 Jan 2024
+"347,000 ","1/199 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,96m² ,25 Jan 2024
+"200,000 ","8/2 Mayers Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,25 Jan 2024
+"277,000 ","1/63-65 Mccormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,97m² ,25 Jan 2024
+"190,000 ","11/235-237 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,24 Jan 2024
+"370,000 ","4/1 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,124m² ,23 Jan 2024
+"250,000 ","31 Mary St,",PARRAMATTA PARK QLD 4870,New land,0,0,0,253m² ,22 Jan 2024
+"225,000 ","8/12 Mayers Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,75m² ,16 Jan 2024
+"365,000 ","11 Radiata Court,",BRINSMEAD QLD 4870,New land,0,0,0,677m² ,15 Jan 2024
+"430,000 ","1624/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,137m² ,15 Jan 2024
+"305,500 ","112/1-2 Maytown Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,98m² ,15 Jan 2024
+"733,000 ","801/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,121m² ,12 Jan 2024
+"220,000 ","5/215-217 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,52m² ,12 Jan 2024
+"400,000 ","4/172 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,143m² ,10 Jan 2024
+"57,000 ","30 King Street,",CHILLAGOE QLD 4871,Vacant land,0,0,0,"2,024m² ",09 Jan 2024
+"258,000 ","4/438 Mulgrave Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,124m² ,05 Jan 2024
+"470,000 ","17/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,2,160m² ,04 Jan 2024
+"800,000","101/219-225 Abbott Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,132m² ,28 Dec 2023
+"236,000 ","1/126-128 Greenslopes Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,19 Dec 2023
+"366,500 ","13/25-27 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,96m² ,15 Dec 2023
+"195,000 ","2/14 Jensen Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,86m² ,15 Dec 2023
+"355,000 ","3/12 Short Street,",REDLYNCH QLD 4870,Townhouse,2,1,1,74m² ,15 Dec 2023
+"345,000 ","8/4-10 Hedley Close,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,1,1,106m² ,12 Dec 2023
+"240,000 ","3/101-103 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,11 Dec 2023
+"275,000 ","15/4 Olive Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,82m² ,08 Dec 2023
+"225,000 ","3/173-179 Mayers Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,52m² ,08 Dec 2023
+"375,000 ","44 Flindersia Street,",REDLYNCH QLD 4870,Vacant land,0,0,0,754m² ,08 Dec 2023
+"420,000 ","7/368-370 Redlynch Intake Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,808m² ,08 Dec 2023
+"290,000 ","19/37-39 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,80m² ,07 Dec 2023
+"210,000 ","14/176 Hoare Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,67m² ,07 Dec 2023
+"206,000 ","9/435 Draper Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,1,1,1,57m² ,07 Dec 2023
+"180,000 ","1/150 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,1,1,1,54m² ,06 Dec 2023
+"260,000 ","1B Brinsmead Terrace,",KANIMBLA QLD 4870,Vacant land,0,0,0,887m² ,05 Dec 2023
+"415,000 ","11/368-370 Redlynch Intake Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,803m² ,01 Dec 2023
+"415,000 ","323/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,120m² ,01 Dec 2023
+"172,000","7/21 Creedy Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,01 Dec 2023
+"307,000","5/74 Old Smithfield Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,1,1,103m² ,29 Nov 2023
+"445,000 ","27/82-86 Martyn Street,",PARRAMATTA PARK QLD 4870,Townhouse,3,3,2,179m² ,28 Nov 2023
+"283,000 ","1724/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,96m² ,27 Nov 2023
+"285,000 ",,CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,98m² ,27 Nov 2023
+"357,000 ","3/87 Macilwraith Street,",MANOORA QLD 4870,Apartment / Unit / Flat,3,2,1,255m² ,2023
+"370,000 ","20/35 Greenslopes Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,1,108m² ,21 Nov 2023
+"290,000 ","6/11 Vallely Street,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,1,1,71m² ,18 Nov 2023
+"250,000 ","12/186-198 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,17 Nov 2023
+"408,000 ","14/304-308 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,136m² ,16 Nov 2023
+"335,000 ","1620/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,148m² ,14 Nov 2023
+"215,000 ","16/176 Hoare Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,67m² ,13 Nov 2023
+"240,000 ","20/215 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,10 Nov 2023
+"489,000 ","19/249 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,111m² ,10 Nov 2023
+"160,000 ","3/50 Alfred Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,73m² ,10 Nov 2023
+"680,000 ","601/2 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,150m² ,09 Nov 2023
+"450,000 ","510/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,143m² ,09 Nov 2023
+"400,000 ","8/164-172 Spence Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,3,2,1,114m² ,08 Nov 2023
+"291,500 ","29/7A Grantala Street,",MANOORA QLD 4870,Townhouse,2,2,1,87m² ,07 Nov 2023
+"420,000 ","420/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,143m² ,07 Nov 2023
+"550,000","23/249 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,126m² ,05 Nov 2023
+"395,000 ","8/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,2,163m² ,04 Nov 2023
+"250,000 ","3/69 Pease Street,",MANOORA QLD 4870,Townhouse,2,1,1,90m² ,01 Nov 2023
+"395,000 ","1/289 Pease Street,",EDGE HILL QLD 4870,Vacant land,0,0,0,388m² ,30 Oct 2023
+"395,000 ","2/289 Pease Street,",EDGE HILL QLD 4870,Vacant land,0,0,0,388m² ,30 Oct 2023
+"240,000 ","13B Earl Street,",WESTCOURT QLD 4870,Vacant land,0,0,0,435m² ,30 Oct 2023
+"200,000 ","18/64 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,27 Oct 2023
+"420,000 ","8/368-370 Redlynch Intake Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,813m² ,26 Oct 2023
+"170,000","3/94-96 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,53m² ,25 Oct 2023
+"235,000 ","8/25 Balaclava Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,24 Oct 2023
+"348,000 ","6/15-17 Vallely Street,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,1,1,103m² ,23 Oct 2023
+"174,000 ","3/118 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,1,1,1,54m² ,22 Oct 2023
+"365,000 ","58/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,3,2,1,129m² ,20 Oct 2023
+"353,000 ","1/23 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,116m² ,19 Oct 2023
+"308,000 ","112/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,2,1,97m² ,19 Oct 2023
+"310,000 ","11/132-140 Stoney Creek Road,",KAMERUNGA QLD 4870,Apartment / Unit / Flat,2,1,1,108m² ,17 Oct 2023
+"125,000","46 Hawthorne Drive,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,817m² ,17 Oct 2023
+"213,800 ","15/50 Alfred Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,83m² ,17 Oct 2023
+"740,000 ","13/146-150 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,172m² ,13 Oct 2023
+"227,000 ","33/255 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,59m² ,13 Oct 2023
+"480,000 ","8/20-38 Sandwich Street,",KAMERUNGA QLD 4870,Townhouse,2,2,2,218m² ,13 Oct 2023
+"192,000 ","4/86-88 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,13 Oct 2023
+"290,000 ","315/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,11 Oct 2023
+"210,000 ","2/235-237 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,10 Oct 2023
+"215,000 ","22/4 Hollett Close,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,59m² ,09 Oct 2023
+"480,000 ","7/27-29 Pembroke Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,2,2,142m² ,09 Oct 2023
+"510,000 ","35 Churchill Creek Road,",JULATTEN QLD 4871,Vacant land,0,0,0,0,07 Oct 2023
+"295,000 ","325/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,05 Oct 2023
+"262,500 ","16/473-479 Mccoombe Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,05 Oct 2023
+"365,000 ","1/152-154 Mcleod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,116m² ,04 Oct 2023
+"258,000 ","181-183 KAMERUNGA RD,",FRESHWATER QLD 4870,Vacant land,0,0,0,452m² ,04 Oct 2023
+"228,000","8/8 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,70m² ,04 Oct 2023
+"520,000 ","30705/2 APLIN STREET,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,−,107m² ,03 Oct 2023
+"442,000 ","2/133-135 Collins Avenue,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,83m² ,03 Oct 2023
+"310,000 ","1609/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,109m² ,29 Sep 2023
+"515,000 ","6/281-283 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,101m² ,29 Sep 2023
+"216,000 ","10/312-316 Draper Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,69m² ,27 Sep 2023
+"530,000 ","6/201 Lake St,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,168m² ,26 Sep 2023
+"380,000 ","4/83 Hayward Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,3,2,1,128m² ,26 Sep 2023
+"1,480,000 ","1-6/12 Joan Street,",BUNGALOW QLD 4870,Block of units,12,6,6,"1,214m² ",25 Sep 2023
+"377,500 ","405/1 MARLIN PARADE,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,25 Sep 2023
+"715,000 ","4/146-150 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,165m² ,20 Sep 2023
+"480,000","77 Nolan Street,",WHITFIELD QLD 4870,Vacant land,0,0,0,809m² ,20 Sep 2023
+"407,000 ","9/5-9 Gelling St,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,19 Sep 2023
+"504,000 ","18/20-38 Sandwich Street,",KAMERUNGA QLD 4870,Townhouse,3,2,2,224m² ,2023
+"285,000 ","32/189 Mayers Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,79m² ,19 Sep 2023
+"230,000","2/350-354 Sheridan Street,",CAIRNS NORTH QLD 4870,Townhouse,2,1,1,66m² ,18 Sep 2023
+"165,000","7/8 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,1,1,1,52m² ,17 Sep 2023
+"320,000 ","24 Barron View Drive,",FRESHWATER QLD 4870,Vacant land,0,0,0,"1,074m² ",13 Sep 2023
+"380,000 ","1311/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,135m² ,12 Sep 2023
+"180,000 ","5/21 Creedy Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,12 Sep 2023
+"430,000 ","6/73 Spence Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,124m² ,08 Sep 2023
+"206,000 ","13/1 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,89m² ,07 Sep 2023
+"620,000 ","12/112-118 Sheridan Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,169m² ,06 Sep 2023
+"242,500 ","11/87-91 Earl Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,82m² ,06 Sep 2023
+"340,000 ","23/275-277 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,76m² ,05 Sep 2023
+"725,000 ","803/80-84 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,117m² ,04 Sep 2023
+"260,000 ","LOT 67 Pine Creek Yarrabah Road,",EAST TRINITY QLD 4871,Vacant land,0,0,0,845m² ,04 Sep 2023
+"275,000 ","7/30-32 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,123m² ,04 Sep 2023
+"797,053 ","109 Cobble Court,",REDLYNCH QLD 4870,Vacant land,0,0,0,864m² ,01 Sep 2023
+"216,000 ","5/1 Joan Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,2023
+"81,000 ","7 Fifth Avenue,",EINASLEIGH QLD 4871,Vacant land,− 0,1,2,"4,000m² ",30 Aug 2023
+"490,000 ","1208/37-41 Mann Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,164m² ,29 Aug 2023
+"740,000 ","1/267 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,3,1,112m² ,28 Aug 2023
+"830,000 ","64 Murray Street,",MANOORA QLD 4870,Block of units,6,6,3,809m² ,28 Aug 2023
+"220,000 ","8 Sandpiper Street,",EAST TRINITY QLD 4871,Vacant land,0,0,0,607m² ,25 Aug 2023
+"352,500 ","703/58 McLeod St,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,115m² ,23 Aug 2023
+"362,000 ","2/11 Moody Street,",MANUNDA QLD 4870,Townhouse,3,2,2,110m² ,23 Aug 2023
+"225,000 ","1810/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,82m² ,22 Aug 2023
+"305,000 ","7/239 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,22 Aug 2023
+"352,500 ","1309/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,130m² ,22 Aug 2023
+"475,000","11/24-26 Old Smithfield Road,",FRESHWATER QLD 4870,Townhouse,3,2,1,145m² ,20 Aug 2023
+"530,000 ","1001/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,165m² ,17 Aug 2023
+"360,000 ","Lot 1112 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,527m² ,16 Aug 2023
+"930,000 ","604/27-29 Wharf Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,155m² ,15 Aug 2023
+"354,000 ","4/322 Pease Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,90m² ,2023
+"375,000 ","27/40-46 Redlynch Intake Road,",REDLYNCH QLD 4870,Townhouse,2,2,1,120m² ,14 Aug 2023
+"228,000 ","5/108 McLeod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,80m² ,11 Aug 2023
+"945,000 ","64/1 Marlin Prd,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,134m² ,07 Aug 2023
+"450,000 ","14/92-98 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,148m² ,07 Aug 2023
+"225,000 ","17/173 Mayers Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,07 Aug 2023
+"210,000 ","1/31 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,63m² ,04 Aug 2023
+"388,000 ","304/92-98 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,03 Aug 2023
+"985,000 ","1301/2-4 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,159m² ,31 Jul 2023
+"210,000 ","23/91-93 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,83m² ,29 Jul 2023
+"200,000 ","21/173 Mayers Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,28 Jul 2023
+"368,000 ","Lot 1113 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,600m² ,28 Jul 2023
+"445,000 ","9/110-114 Collins Avenue,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,2,1,112m² ,27 Jul 2023
+"185,000 ","6/71 Boland Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,124m² ,27 Jul 2023
+"347,500 ","7/6 James Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,127m² ,25 Jul 2023
+"570,000 ","7 Kingfisher Close,",EARLVILLE QLD 4870,Vacant land,0,0,0,"3,807m² ",25 Jul 2023
+"405,000 ","203/92-98 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,24 Jul 2023
+"298,750 ","8/390 Draper Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,91m² ,21 Jul 2023
+"380,000 ",,MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,123m² ,20 Jul 2023
+"275,000 ","1117/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,96m² ,19 Jul 2023
+"460,000 ","91-99 Reservoir Road,",MANOORA QLD 4870,Vacant land,0,0,0,"2,193m² ",14 Jul 2023
+"297,000 ","1215/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,90m² ,14 Jul 2023
+"190,000 ","5/2 Mayers Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,13 Jul 2023
+"165,000","2/267-269 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,−,71m² ,12 Jul 2023
+"290,000 ","32A Old Smithfield Rd,",FRESHWATER QLD 4870,Vacant land,0,0,0,660m² ,12 Jul 2023
+"350,000","27 Noipo Crescent,",REDLYNCH QLD 4870,Vacant land,0,0,0,685m² ,12 Jul 2023
+"449,000 ","702/12 Gregory St,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,12 Jul 2023
+"607,000 ","41/93-95 McLeod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,194m² ,11 Jul 2023
+"380,000 ","1309/37-41 Mann Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,110m² ,08 Jul 2023
+"600,000 ","89 Summerhill Drive,",MOOROOBOOL QLD 4870,Vacant land,0,0,0,"8,202m² ",07 Jul 2023
+"567,500 ","9/21 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,168m² ,05 Jul 2023
+"290,000 ","17/55 Mazlin Street,",EDGE HILL QLD 4870,Townhouse,2,1,1,108m² ,04 Jul 2023
+"182,500 ","6/22 Hoare Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,04 Jul 2023
+"182,500 ","6/201-203 Aumuller Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,2,1,78m² ,03 Jul 2023
+"225,000","3/58 Boden Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,55m² ,03 Jul 2023
+"255,000 ","29/6-8 Cannon Street,",MANUNDA QLD 4870,Townhouse,2,1,1,78m² ,27 Jun 2023
+"177,500 ","7/97-101 Mann Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,73m² ,27 Jun 2023
+"290,000 ","6/4 Maytown Close,",MANOORA QLD 4870,Townhouse,2,1,1,79m² ,2023
+"457,000 ","1316/12 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,160m² ,26 Jun 2023
+"270,000 ","31 East Parkridge Drive,",BRINSMEAD QLD 4870,New land,0,0,0,"1,346m² ",24 Jun 2023
+"289,000 ","7/11-12 Maytown Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,160m² ,24 Jun 2023
+"280,000 ","1105/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,95m² ,23 Jun 2023
+540 ,"13 Esterina Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,"5,941m² ",23 Jun 2023
+"138,000 ","7/13-15 Brisbane Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,54m² ,21 Jun 2023
+"298,000 ","407/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,97m² ,21 Jun 2023
+"1,100,000 ","22/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,153m² ,20 Jun 2023
+"355,000 ","760/12 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,102m² ,20 Jun 2023
+"210,000 ","28/9 Munro Terrace,",MOOROOBOOL QLD 4870,Vacant land,0,0,0,611m² ,19 Jun 2023
+"340,000 ","202/22-24 Ward Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,3,2,−,101m² ,18 Jun 2023
+"400,000 ","16/335 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,162m² ,16 Jun 2023
+"325,000 ","1508/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,131m² ,16 Jun 2023
+"350,000 ","Lot 1114 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,480m² ,16 Jun 2023
+"235,000 ","22/63 Mcleod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,1,−,72m² ,13 Jun 2023
+"240,000 ","6/211-213 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,52m² ,13 Jun 2023
+"295,000 ","5/367-371 Mcleod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,101m² ,09 Jun 2023
+"195,000 ","3/8 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,87m² ,09 Jun 2023
+"185,000 ","15/267 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,70m² ,08 Jun 2023
+"223,000 ","1/101-103 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,08 Jun 2023
+"275,000 ","7/2 Grantala Street,",MANOORA QLD 4870,Townhouse,3,1,−,100m² ,07 Jun 2023
+"180,000 ","8/18 Jensen Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,86m² ,07 Jun 2023
+"397,000 ","89 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,956m² ,07 Jun 2023
+"455,000 ","1/7 Tenni Street,",REDLYNCH QLD 4870,Townhouse,3,2,2,161m² ,06 Jun 2023
+"105,000 ","14 Santowski Crescent,",MOUNT MOLLOY QLD 4871,Vacant land,0,0,0,"2,774m² ",05 Jun 2023
+"375,000 ","3/54 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,2,144m² ,04 Jun 2023
+"420,000 ","85 Churchill Creek Road,",JULATTEN QLD 4871,Vacant land,0,0,0,0,2023
+"209,000 ","207/53 McCormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,71m² ,03 Jun 2023
+"382,000 ","62/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,127m² ,31 May 2023
+"135,000 ","1/13-15 Brisbane Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,54m² ,30 May 2023
+"350,000 ","409/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,139m² ,29 May 2023
+"182,500 ","11/37-39 Winkworth Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,65m² ,26 May 2023
+"350,000 ","4/61-63 Minnie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,26 May 2023
+"300,000 ","1115/37-41 Mann Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,86m² ,26 May 2023
+"435,000 ","28/199-201 Lake St,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,125m² ,25 May 2023
+"208,000 ","7/201 Aumuller Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,2,1,78m² ,24 May 2023
+"220,000 ","8 stage 6, Tarwhine Close,",KANIMBLA QLD 4870,Vacant land,0,0,0,788m² ,24 May 2023
+"287,500 ","227/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,24 May 2023
+"220,000 ","5/392 Severin Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,80m² ,24 May 2023
+"229,000 ","5/11 Pioneer Street,",MANOORA QLD 4870,Townhouse,2,1,1,88m² ,23 May 2023
+"285,000 ","1 Pine Creek Yarrabah Rd,",EAST TRINITY QLD 4871,Vacant land,0,0,0,0,22 May 2023
+"367,500 ","Lot 25 Ross Road,",DEERAL QLD 4871,Vacant land,0,0,0,"15,100m² ",19 May 2023
+"289,000 ","5/10 Hill Street,",MANUNDA QLD 4870,Townhouse,2,2,1,126m² ,18 May 2023
+"110,000","63 Whitman Street,",MIRRIWINNI QLD 4871,Vacant land,0,0,0,"1,467m² ",17 May 2023
+"50,000 ","LOT 4 Bruce Highway,",DEERAL QLD 4871,Vacant land,0,0,0,540m² ,2023
+"143,000 ","1/239-241 Lyons Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,57m² ,11 May 2023
+"280,000 ","210/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,10 May 2023
+"380,000 ","29 Martin Street,",FRESHWATER QLD 4870,Vacant land,0,0,0,821m² ,08 May 2023
+"379,000 ","17/1-13 Ernest Street,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,124m² ,05 May 2023
+"358,000","65 Dungarvan Drive,",BRINSMEAD QLD 4870,Vacant land,0,0,0,"1,146m² ",03 May 2023
+"210,500 ","10/187-189 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,02 May 2023
+"273,000 ","47/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,02 May 2023
+"150,200 ","14/235-237 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,24 Apr 2023
+"465,000 ","17/110-114 Collins Avenue,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,2,1,116m² ,21 Apr 2023
+"495,000 ","0 Emperor St,",KANIMBLA QLD 4870,Vacant land,0,0,0,700m² ,20 Apr 2023
+"200,000 ","8 Tarwhine Close,",KANIMBLA QLD 4870,Vacant land,0,0,0,788m² ,19 Apr 2023
+"282,000 ","102/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,18 Apr 2023
+"300,000 ","10/62 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,56m² ,15 Apr 2023
+"550,000 ","801/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,184m² ,15 Apr 2023
+"175,000 ","111 Mansfield Street,",EARLVILLE QLD 4870,Vacant land,0,0,0,"3,518m² ",14 Apr 2023
+"523,000 ","12/310-316 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,161m² ,11 Apr 2023
+"281,000 ","106/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,06 Apr 2023
+"375,000 ","109/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,137m² ,05 Apr 2023
+"387,000 ","82/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,122m² ,05 Apr 2023
+"835,000 ","321/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,129m² ,03 Apr 2023
+"430,000 ","15 Trumpeter Street,",KANIMBLA QLD 4870,Vacant land,0,0,0,750m² ,03 Apr 2023
+"445,000 ","L179 Emperor St,",KANIMBLA QLD 4870,Vacant land,0,0,0,700m² ,30 Mar 2023
+"179,000 ","10/57-59 Minnie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,1,1,1,67m² ,28 Mar 2023
+"206,000 ","10/8 Bell Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,27 Mar 2023
+"390,000 ","1 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,728m² ,27 Mar 2023
+"265,000 ","10/37-39 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,80m² ,24 Mar 2023
+"190,000 ","23/6-8 Cannon Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,52m² ,21 Mar 2023
+"641,000 ","31103/105 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,−,106m² ,20 Mar 2023
+"330,000 ","Lot 1102 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,540m² ,20 Mar 2023
+"400,000 ","16/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,127m² ,16 Mar 2023
+"395,101 ","605 & 606/58-62 McLeod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,102m² ,15 Mar 2023
+"252,000 ","57 Mary Jane Drive,",JULATTEN QLD 4871,Vacant land,0,0,0,0,14 Mar 2023
+"230,000 ","14/47-49 McCormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,1,114m² ,13 Mar 2023
+"285,000 ","14/85-87 Martyn Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,97m² ,13 Mar 2023
+"285,000 ","84/9-11 Water Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,−,86m² ,10 Mar 2023
+"370,000 ","14 Rainbow Street,",KANIMBLA QLD 4870,Vacant land,0,0,0,733m² ,10 Mar 2023
+"320,000 ","1206/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,138m² ,09 Mar 2023
+"395,000 ","9/335 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,133m² ,08 Mar 2023
+"267,500 ","107/29-33 Springfield Cr,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,100m² ,08 Mar 2023
+"360,000 ","16/58-70 Redlynch Intake Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,108m² ,2023
+"365,000","6 Milko Close,",BRINSMEAD QLD 4870,Vacant land,0,0,0,881m² ,06 Mar 2023
+"176,500 ","14/267-269 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,"283,279m² ",06 Mar 2023
+"275,000 ","209/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,06 Mar 2023
+"265,000 ","11/62 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,56m² ,03 Mar 2023
+"420,000 ","406/99 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,−,94m² ,03 Mar 2023
+"395,000","4/224 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,123m² ,03 Mar 2023
+"195,000 ","8/73-75 Little Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,101m² ,03 Mar 2023
+"272,500 ","3/18-20 Rose Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,3,1,1,92m² ,03 Mar 2023
+"180,000 ","6/195-197 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,81m² ,02 Mar 2023
+"290,000 ","12/2-5 Marella Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,89m² ,28 Feb 2023
+"420,000 ","2/7 Tenni Street,",REDLYNCH QLD 4870,Townhouse,3,2,3,152m² ,28 Feb 2023
+"175,000 ","8/18 Curtin Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,28 Feb 2023
+"230,000 ","305/4 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,82m² ,27 Feb 2023
+"166,500 ","25/52 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,76m² ,27 Feb 2023
+"147,500","6 BARAKAOAN ROAD,",COWLEY BEACH QLD 4871,Vacant land,0,0,0,647m² ,24 Feb 2023
+"445,000 ","47/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,3,2,2,186m² ,23 Feb 2023
+"310,000 ","16/3-9 Stratford Parade,",STRATFORD QLD 4870,Apartment / Unit / Flat,2,1,1,146m² ,21 Feb 2023
+"1,570,000","59-61 Woodward Street,",EDGE HILL QLD 4870,Block of units,12,6,6,"1,214m² ",20 Feb 2023
+"153,000 ","6/260 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,63m² ,18 Feb 2023
+"245,000 ","20/44-50 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,110m² ,18 Feb 2023
+"215,000 ","8/186-198 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,16 Feb 2023
+"370,000 ","57 Dungarvan Drive,",BRINSMEAD QLD 4870,Vacant land,0,0,0,716m² ,14 Feb 2023
+"335,000 ","71 Kamerunga Road,",STRATFORD QLD 4870,Vacant land,0,0,0,623m² ,14 Feb 2023
+"460,000 ","4/20-38 Sandwich Street,",KAMERUNGA QLD 4870,Townhouse,3,2,2,244m² ,13 Feb 2023
+"418,000 ","127/12 Gregory St,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,109m² ,12 Feb 2023
+"141,500 ","37/439-443 Severin Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,11 Feb 2023
+"230,000 ","13/186-198 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,10 Feb 2023
+"99,000 ","55A Murray Street,",MANOORA QLD 4870,Vacant land,0,0,0,336m² ,10 Feb 2023
+"260,000 ","309/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,10 Feb 2023
+"250,000 ","40/17A Upward St,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,1,1,78m² ,09 Feb 2023
+"395,000 ","2/304-308 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,163m² ,09 Feb 2023
+"183,000 ","1/10 Mulligan Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,56m² ,09 Feb 2023
+"140,000 ","8/50 Alfred Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,59m² ,09 Feb 2023
+"390,000 ","135/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,140m² ,06 Feb 2023
+"239,000 ","17/6-8 Cannon Street,",MANUNDA QLD 4870,Townhouse,2,1,1,84m² ,03 Feb 2023
+"200,000 ","9/23-25 Harris Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,70m² ,03 Feb 2023
+"210,000 ","9/73-75 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,114m² ,02 Feb 2023
+"725,000 ","89 Digger Street,",CAIRNS NORTH QLD 4870,Block of units,8,4,3,507m² ,01 Feb 2023
+"337,500 ","14/185-187 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,1,114m² ,2023
+"217,000 ","3/26-30 Sheridan Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,59m² ,31 Jan 2023
+"300,000 ","780/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,92m² ,31 Jan 2023
+"260,000 ","716/2-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,95m² ,31 Jan 2023
+"430,000 ","36 Giauca Street,",REDLYNCH QLD 4870,Vacant land,0,0,0,"9,343m² ",29 Jan 2023
+"175,000 ","4/292 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,27 Jan 2023
+"215,000 ","12/11-12 Maytown Close,",MANOORA QLD 4870,Townhouse,2,1,1,106m² ,27 Jan 2023
+"395,000 ","105/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,137m² ,27 Jan 2023
+"245,000 ","2/85 Ishmael Road,",EARLVILLE QLD 4870,Townhouse,2,1,1,113m² ,25 Jan 2023
+"230,000 ","4/38 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,86m² ,25 Jan 2023
+"262,000 ","14/44-50 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,112m² ,25 Jan 2023
+"386,000 ","19/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,127m² ,24 Jan 2023
+"95,000 ","6 Arnold Street,",MOUNT MOLLOY QLD 4871,Vacant land,0,0,0,"3,455m² ",23 Jan 2023
+"275,000 ","1/16 Brooks Street,",WHITFIELD QLD 4870,Apartment / Unit / Flat,2,1,1,114m² ,23 Jan 2023
+"370,000 ","17/3-7 Nellie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,2,1,122m² ,20 Jan 2023
+"317,000","1735/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,143m² ,19 Jan 2023
+"225,000 ","13 Eleanor Close,",MOOROOBOOL QLD 4870,Vacant land,0,0,0,897m² ,18 Jan 2023
+"370,000 ","12/61-63 Minnie Street,",PARRAMATTA PARK QLD 4870,Townhouse,3,2,1,155m² ,18 Jan 2023
+"535,000 ","8/184 Grafton Street,",CAIRNS CITY QLD 4870,Townhouse,3,3,1,98m² ,17 Jan 2023
+"225,000 ","9/195-197 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,96m² ,17 Jan 2023
+"222,000 ","126/22-24 Ward Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,99m² ,17 Jan 2023
+"350,000 ","11/303-305 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,101m² ,15 Jan 2023
+"355,000 ","18/3-7 Nellie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,2,1,122m² ,15 Jan 2023
+"150,000","5/113 Buchan Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,1,1,1,54m² ,12 Jan 2023
+"265,000 ","7/50 Cairns Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,78m² ,12 Jan 2023
+"210,000 ","25/4-5 Hollett Close,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,59m² ,12 Jan 2023
+"220,000 ","6/205 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,11 Jan 2023
+"259,000 ","216/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,10 Jan 2023
+"170,000 ","24 Douglas Track Road,",KAMERUNGA QLD 4870,Vacant land,0,0,0,786m² ,09 Jan 2023
+"350,000 ","2/2 Fry Close,",WHITFIELD QLD 4870,Apartment / Unit / Flat,3,2,2,257m² ,09 Jan 2023
+"185,000 ","4/13-15 Harris Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,95m² ,04 Jan 2023
+"204,000 ","3/24 Hill Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,108m² ,02 Jan 2023
+"239,500 ","22/239 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,68m² ,24 Dec 2022
+"290,000 ","3/7 Lavis Road,",FRESHWATER QLD 4870,Townhouse,2,1,1,94m² ,22 Dec 2022
+"380,000 ","57/434-446 Kamerunga Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,3,2,1,147m² ,22 Dec 2022
+"250,000 ","2 Michael Dwyer Close,",STRATFORD QLD 4870,Vacant land,0,0,0,"1,077m² ",19 Dec 2022
+"310,000 ","4/191-199 Woodward Street,",WHITFIELD QLD 4870,Apartment / Unit / Flat,2,1,1,205m² ,19 Dec 2022
+"2,130,000 ","1101/27 Wharf Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,4,3,4,284m² ,15 Dec 2022
+"345,000 ","Lot 1119 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,596m² ,15 Dec 2022
+"262,000","3/33 Balaclava Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,2,1,90m² ,13 Dec 2022
+"820,000 ","19/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,134m² ,12 Dec 2022
+"310,000 ","25/176 Spence Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,110m² ,06 Dec 2022
+"300,000 ","6/36-38 Old Smithfield Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,06 Dec 2022
+"222,000","3/12 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,96m² ,06 Dec 2022
+"315,000 ","1313/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,"44,515m² ",02 Dec 2022
+"283,000","6/14 Short Street,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,106m² ,02 Dec 2022
+"235,000 ","11/3-5 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,77m² ,30 Nov 2022
+"210,000 ","4/193-195 Spence Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,90m² ,29 Nov 2022
+"372,500 ","8/378 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,135m² ,29 Nov 2022
+"226,000 ","12/1 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,89m² ,29 Nov 2022
+"320,000 ","774/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,103m² ,29 Nov 2022
+"865,000 ","30/1 MARLIN PARADE,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,28 Nov 2022
+"375,560 ","3/109 Callaghan Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,3,2,1,134m² ,28 Nov 2022
+"222,500 ","20/201-203 Aumuller Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,2,1,78m² ,24 Nov 2022
+"1,135,000 ","6 Herries Street,",EARLVILLE QLD 4870,Block of units,11,5,7,"1,022m² ",23 Nov 2022
+"212,000 ","3/20 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,79m² ,23 Nov 2022
+"256,000 ","301/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,22 Nov 2022
+"370,000 ","29/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,127m² ,21 Nov 2022
+"127,500","24 Sassafras Street,",BRAMSTON BEACH QLD 4871,Vacant land,0,0,0,700m² ,19 Nov 2022
+"237,500 ","7/40 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,88m² ,18 Nov 2022
+"455,000 ","54/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,3,"12,140m² ",17 Nov 2022
+"95,000 ","18 Kruckow Street,",MIRRIWINNI QLD 4871,Vacant land,0,0,0,809m² ,17 Nov 2022
+"250,000 ","206/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,16 Nov 2022
+"360,000 ","21 Serissa Street,",MOOROOBOOL QLD 4870,Vacant land,0,0,0,"1,314m² ",14 Nov 2022
+"590,000 ","308/174 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,171m² ,12 Nov 2022
+"625,000 ","42/275 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,122m² ,09 Nov 2022
+"320,000 ","8/199 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,96m² ,09 Nov 2022
+"450,000 ","18 Luderick St,",KANIMBLA QLD 4870,Vacant land,0,0,0,750m² ,08 Nov 2022
+"875,000 ","57/107-113 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,127m² ,07 Nov 2022
+"200,000","1810/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,82m² ,07 Nov 2022
+"100,000 ","8/38 Rebecca Jane Parade,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,960m² ,07 Nov 2022
+"135,000 ","3/76-78 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,80m² ,07 Nov 2022
+"305,000 ","4/111 Callaghan Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,3,1,2,142m² ,07 Nov 2022
+"375,000","45 Shamrock Avenue,",BRINSMEAD QLD 4870,Vacant land,0,0,0,845m² ,06 Nov 2022
+"266,000 ","15/4 Olive Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,82m² ,04 Nov 2022
+"162,000","5/173-179 Mayers Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,52m² ,04 Nov 2022
+"250,000 ","6/16 Ingham Court,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,1,1,131m² ,04 Nov 2022
+"385,000 ","Lot 1110 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,600m² ,04 Nov 2022
+"880,000 ","6/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,168m² ,02 Nov 2022
+"460,000 ","20306/99 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,−,104m² ,02 Nov 2022
+"195,000 ","1/14 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,84m² ,01 Nov 2022
+"250,000 ","302/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,30 Oct 2022
+"398,700 ","1318/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,137m² ,28 Oct 2022
+"289,000 ","7/158-160A Mcleod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,114m² ,28 Oct 2022
+"315,000 ","22 Granadilla Drive,",EARLVILLE QLD 4870,Vacant land,0,0,0,"1,571m² ",28 Oct 2022
+"229,000 ","1/4 Ingham Court,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,1,1,86m² ,28 Oct 2022
+"427,500","805/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,136m² ,28 Oct 2022
+"466,000 ","5/211-213 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,3,2,2,515m² ,27 Oct 2022
+"1,800,000 ","7-9 Pioneer Street,",MANOORA QLD 4870,Block of units,24,12,12,"2,255m² ",27 Oct 2022
+"500,000","81 Harvey Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,"4,002m² ",27 Oct 2022
+"280,000","1123/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,116m² ,26 Oct 2022
+"255,000 ","311/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,106m² ,26 Oct 2022
+"345,000 ","Lot 1101 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,600m² ,21 Oct 2022
+"190,000 ","8/215 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,52m² ,20 Oct 2022
+"312,000 ","7/7 McPherson Close,",EDGE HILL QLD 4870,Townhouse,2,1,1,80m² ,20 Oct 2022
+"280,000 ","2/2-4 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,113m² ,20 Oct 2022
+"220,000 ","11/63-65 McCormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,111m² ,19 Oct 2022
+"357,500 ","7 Richmond Court,",MOOROOBOOL QLD 4870,Vacant land,0,0,0,"1,030m² ",19 Oct 2022
+"625,000 ","4/77 Spence Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,173m² ,18 Oct 2022
+"242,000 ","25/34-36 Patience Street,",MANOORA QLD 4870,Townhouse,2,2,1,"16,187m² ",18 Oct 2022
+"595,000 ","1&2/23 Keith Street,",WHITFIELD QLD 4870,Apartment / Unit / Flat,4,2,2,800m² ,17 Oct 2022
+"235,000 ","1604/2-10 Greenslopes St,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,86m² ,15 Oct 2022
+"165,000 ","10/6 Kidston Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,14 Oct 2022
+"448,000 ","3/211-213 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,3,2,2,145m² ,14 Oct 2022
+"250,000 ","13/247 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,76m² ,13 Oct 2022
+"207,500 ","4/211-213 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,50m² ,13 Oct 2022
+"355,000 ","3/158-160A McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,117m² ,12 Oct 2022
+"305,000 ","10/183-185 Martyn Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,1,101m² ,12 Oct 2022
+"365,000","9/2 Cannon Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,3,2,1,"1,288m² ",12 Oct 2022
+"155,000 ","69B Hayward Street,",MOOROOBOOL QLD 4870,Vacant land,0,0,0,369m² ,12 Oct 2022
+"320,000 ","15/376-384 Severin Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,2,119m² ,11 Oct 2022
+"180,000 ","4/16 Allan Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,85m² ,10 Oct 2022
+"440,000 ","703/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,10 Oct 2022
+"760,000 ","Level PENTHOUSE, 17/281-283 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,3,214m² ,10 Oct 2022
+"537,000 ","5 Knowles Street,",WHITFIELD QLD 4870,Vacant land,0,0,0,"1,043m² ",10 Oct 2022
+"475,000 ","5/24-26 Corkill Street,",FRESHWATER QLD 4870,Apartment / Unit / Flat,3,2,2,141m² ,05 Oct 2022
+"500,000 ","3/129 Woodward Street,",EDGE HILL QLD 4870,Townhouse,3,2,1,"2,580m² ",04 Oct 2022
+"337,600 ","36/87 Macilwraith Street,",MANOORA QLD 4870,Apartment / Unit / Flat,3,1,2,267m² ,04 Oct 2022
+"396,000 ","1624/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,137m² ,29 Sep 2022
+"470,000 ","27/249-255 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,124m² ,29 Sep 2022
+"136,000 ","6 Cananga Close,",KAMERUNGA QLD 4870,Vacant land,0,0,0,960m² ,29 Sep 2022
+"191,500 ","26/4-5 Hollett Close,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,59m² ,28 Sep 2022
+"212,500 ","57/91 Hoare Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,110m² ,28 Sep 2022
+"220,000 ","1632/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,77m² ,27 Sep 2022
+"310,000 ","12/35 Greenslopes Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,3,2,1,136m² ,27 Sep 2022
+"415,000 ","2413 Pine Creek Yarrabah Road,",EAST TRINITY QLD 4871,Vacant land,0,0,0,845m² ,24 Sep 2022
+"315,000 ","6/112 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,94m² ,23 Sep 2022
+"270,000 ","26 Trout Street,",KANIMBLA QLD 4870,Vacant land,0,0,0,673m² ,21 Sep 2022
+"470,000 ","1220/37-41 Mann Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,158m² ,21 Sep 2022
+"381,000 ","134 Hillview Crescent,",WHITFIELD QLD 4870,Vacant land,0,0,0,517m² ,21 Sep 2022
+"225,000 ","3/24 Jensen Street,",MANOORA QLD 4870,Townhouse,2,1,1,78m² ,20 Sep 2022
+"575,000 ","15/77 Spence Street,",CAIRNS CITY QLD 4870,Townhouse,3,2,2,157m² ,16 Sep 2022
+"615,000 ","502/23-27 McLeod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,149m² ,16 Sep 2022
+"269,000 ","1417/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,109m² ,16 Sep 2022
+"260,000 ","5/5-9 Gelling Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,16 Sep 2022
+"237,000 ","7/108 McLeod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,98m² ,15 Sep 2022
+"500,000 ","13/281 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,112m² ,15 Sep 2022
+"240,000 ","107/22-24 Ward Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,118m² ,15 Sep 2022
+"3,100,000 ","1701/2-4 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,5,4,3,623m² ,14 Sep 2022
+"145,000 ","6 Barakaoan Road,",COWLEY BEACH QLD 4871,Vacant land,0,0,0,647m² ,14 Sep 2022
+"285,500","11/1 Grantala Street,",MANOORA QLD 4870,Townhouse,3,1,1,100m² ,13 Sep 2022
+"350,000 ","17/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,127m² ,12 Sep 2022
+"800,000","105/125-129 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,144m² ,08 Sep 2022
+"530,000 ","502/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,219m² ,06 Sep 2022
+"522,000 ","401/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,195m² ,05 Sep 2022
+"253,000 ","312/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,102m² ,05 Sep 2022
+"367,000 ","203/92-98 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,02 Sep 2022
+"100,000 ","61 Tower Street,",CHILLAGOE QLD 4871,Vacant land,0,0,0,"1,012m² ",01 Sep 2022
+"277,500 ","6/5 Crathern Close,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,91m² ,31 Aug 2022
+"183,500 ","4/176 Hoare Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,68m² ,31 Aug 2022
+"280,000 ","104/6 Marella Close,",MANOORA QLD 4870,Apartment / Unit / Flat,3,2,1,105m² ,31 Aug 2022
+"160,500 ","8/249 Sheridan Street,",CAIRNS NORTH QLD 4870,Townhouse,2,1,1,124m² ,30 Aug 2022
+"280,000 ","12/15-17 Vallely Street,",FRESHWATER QLD 4870,Townhouse,2,1,1,103m² ,30 Aug 2022
+"320,000 ","8/87 Macilwraith Street,",MANOORA QLD 4870,Apartment / Unit / Flat,3,1,1,252m² ,30 Aug 2022
+"510,000 ","14/281 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,101m² ,29 Aug 2022
+"120,000","24 Hawthorne Drive,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,735m² ,29 Aug 2022
+"200,000","9/49-53 English Street,",MANUNDA QLD 4870,Townhouse,2,1,1,200m² ,29 Aug 2022
+"171,000 ","7/75 Boland Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,28 Aug 2022
+"285,000 ","124/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,89m² ,26 Aug 2022
+"232,000 ","5/16 Jensen Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,73m² ,24 Aug 2022
+"260,000 ","323/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,24 Aug 2022
+"170,000 ","5/118 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,1,1,1,54m² ,24 Aug 2022
+"330,000 ","1/5-9 Gelling Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,23 Aug 2022
+"219,000","4/40 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,88m² ,19 Aug 2022
+"173,000 ","102/50 Alfred Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,83m² ,18 Aug 2022
+"290,000 ","15/8 Clare Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,87m² ,17 Aug 2022
+"255,000 ","10 Giangurra Esplanade,",EAST TRINITY QLD 4871,Vacant land,0,0,0,607m² ,16 Aug 2022
+"162,500 ","10/8 Bell Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,15 Aug 2022
+"220,000 ","203/4 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,105m² ,15 Aug 2022
+"191,500 ","5/222 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,73m² ,12 Aug 2022
+"210,000 ","1226/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,78m² ,11 Aug 2022
+"315,000 ","2/58-70 Redlynch Intake Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,2,111m² ,11 Aug 2022
+"241,500","UNIT 7/6 GRANTALA STREET,",MANOORA QLD 4870,Townhouse,2,1,1,85m² ,
+"751,000 ","601/23-27 McLeod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,177m² ,08 Aug 2022
+"245,000 ","6/37-39 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,80m² ,2022
+"415,000 ","1208/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,164m² ,08 Aug 2022
+"247,000 ","305/22-24 Ward Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,126m² ,07 Aug 2022
+"245,000 ","9/189-193 Buchan Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,106m² ,04 Aug 2022
+"360,000 ","1/5 Briggs Close,",WHITFIELD QLD 4870,Apartment / Unit / Flat,2,1,1,86m² ,03 Aug 2022
+"265,500 ","22/3-9 Stratford Parade,",STRATFORD QLD 4870,Apartment / Unit / Flat,2,1,1,112m² ,27 Jul 2022
+"250,000 ","2/44-50 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,109m² ,26 Jul 2022
+"270,000 ","20/11-21 Barr Street,",EARLVILLE QLD 4870,Retirement Living,2,1,1,113m² ,25 Jul 2022
+"287,000 ","12/3-9 Stratford Parade,",STRATFORD QLD 4870,Apartment / Unit / Flat,2,1,1,112m² ,24 Jul 2022
+"440,000 ","6/185-187 Kamerunga Road,",FRESHWATER QLD 4870,Townhouse,3,2,1,114m² ,22 Jul 2022
+"206,250 ","204/4 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,81m² ,22 Jul 2022
+"235,000 ","1/12-14 Winkworth Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,21 Jul 2022
+"340,000 ","3/65-69 Grove Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,2,1,110m² ,21 Jul 2022
+"308,000 ","406/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,142m² ,20 Jul 2022
+"281,000 ","8/347 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,101m² ,19 Jul 2022
+"278,000 ","108/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,19 Jul 2022
+"193,000 ","301/53 McCormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,70m² ,19 Jul 2022
+"715,000 ","24/73 Spence Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,202m² ,18 Jul 2022
+"183,000 ","16/176 Hoare Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,67m² ,15 Jul 2022
+"195,000 ","8/59-61 McCormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,83m² ,14 Jul 2022
+"382,000","17/190 Irene Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,3,2,2,198m² ,14 Jul 2022
+"362,000 ","10 Moowooga Street,",EARLVILLE QLD 4870,Vacant land,0,0,0,"1,409m² ",13 Jul 2022
+"270,000 ","72a Hillview Crescent,",WHITFIELD QLD 4870,Vacant land,0,0,0,701m² ,12 Jul 2022
+"235,000 ","1607/2 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,83m² ,11 Jul 2022
+"250,000 ","5/11-13 Short Street,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,1,1,101m² ,11 Jul 2022
+"370,000 ","1 & 2/7 Dawson Street,",BRAMSTON BEACH QLD 4871,Apartment / Unit / Flat,4,2,2,700m² ,09 Jul 2022
+"188,000 ","5/292 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,61m² ,09 Jul 2022
+"340,000","2/379 Draper Street,",PARRAMATTA PARK QLD 4870,Townhouse,2,2,2,109m² ,08 Jul 2022
+"340,000 ","2/379 Draper Street,",PARRAMATTA PARK QLD 4870,Townhouse,2,2,2,109m² ,08 Jul 2022
+"340,000 ","Lot 1121 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,616m² ,08 Jul 2022
+"290,000 ","1742/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,109m² ,07 Jul 2022
+"318,500 ","11/82-86 Martyn Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,123m² ,07 Jul 2022
+"355,000 ","113/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,3,2,1,129m² ,04 Jul 2022
+"308,000 ","22/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,3,2,1,127m² ,01 Jul 2022
+"237,000 ","309/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,102m² ,30 Jun 2022
+"230,000 ","1/5 Grantala Street,",MANOORA QLD 4870,Townhouse,2,1,1,78m² ,30 Jun 2022
+"22,000","16 TOWER STREET,",CHILLAGOE QLD 4871,Vacant land,0,0,0,"1,012m² ",29 Jun 2022
+"510,000 ","30502/99 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,−,104m² ,28 Jun 2022
+"345,000 ","3 Kingfish Street,",KANIMBLA QLD 4870,Vacant land,0,0,0,784m² ,28 Jun 2022
+"170,000 ","4/2 Mayers Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,65m² ,28 Jun 2022
+"218,000","117/22-24 Ward Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,"400,638m² ",27 Jun 2022
+"350,000 ","Lot 1104 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,600m² ,27 Jun 2022
+"348,000 ","Lot 1103 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,600m² ,27 Jun 2022
+"305,000",,CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,−,110m² ,
+"131,000","36/439-443 Severin Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,25 Jun 2022
+"590,000 ","202/174-180 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,170m² ,24 Jun 2022
+"455,000 ","3/24-26 Old Smithfield Road,",FRESHWATER QLD 4870,Townhouse,3,3,1,133m² ,24 Jun 2022
+"410,000 ","302/335 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,135m² ,22 Jun 2022
+"550,000 ","1/129 Woodward Street,",EDGE HILL QLD 4870,Townhouse,3,2,1,"2,580m² ",22 Jun 2022
+"336,900 ","11/68 Charles Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,103m² ,22 Jun 2022
+"200,000 ","8/201-203 Aumuller Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,2,1,78m² ,21 Jun 2022
+"220,000 ","39/26-30 Sheridan Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,68m² ,21 Jun 2022
+"745,000 ","20804/99 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,118m² ,21 Jun 2022
+"175,000 ","12/195-197 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,71m² ,21 Jun 2022
+"340,000 ","6/64 Charles Street,",MANUNDA QLD 4870,Townhouse,2,2,1,106m² ,20 Jun 2022
+"145,000 ","2/462-464 Mccoombe Street,",MOOROOBOOL QLD 4870,Townhouse,2,1,1,72m² ,17 Jun 2022
+"382,000 ","Lot 1105 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,771m² ,17 Jun 2022
+"302,000 ","26 Vallely Street,",FRESHWATER QLD 4870,Vacant land,0,0,0,461m² ,16 Jun 2022
+"252,000 ","4/194-200 McCoombe Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,107m² ,15 Jun 2022
+"395,000 ","903/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,15 Jun 2022
+"190,000 ","4/217-219 LITTLE SPENCE ST,",BUNGALOW QLD 4870,Apartment / Unit / Flat,1,1,1,52m² ,14 Jun 2022
+"441,000 ","48L Intake Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,"9,968m² ",14 Jun 2022
+"386,000 ","112/335 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,133m² ,13 Jun 2022
+"399,000 ","807/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,10 Jun 2022
+"42,500 ","2 Queen Street,",CHILLAGOE QLD 4871,Vacant land,0,0,0,"1,012m² ",10 Jun 2022
+"430,000 ","13/189-191 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,128m² ,09 Jun 2022
+"200,000 ","1623/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,77m² ,09 Jun 2022
+"175,000 ",,EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,09 Jun 2022
+"383,000 ","2/93 Jensen Street,",WHITFIELD QLD 4870,Apartment / Unit / Flat,3,1,2,130m² ,08 Jun 2022
+"193,000 ","3/312-316 Draper Street,",PARRAMATTA PARK QLD 4870,Townhouse,2,1,1,89m² ,07 Jun 2022
+"1,290,000 ","1-6/355 Draper Street,",PARRAMATTA PARK QLD 4870,Block of units,12,6,6,809m² ,07 Jun 2022
+"599,000 ","226-227/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,132m² ,06 Jun 2022
+"270,000 ","1128/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,116m² ,06 Jun 2022
+"340,000 ","15/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,3,2,1,145m² ,05 Jun 2022
+"248,000 ","204/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,102m² ,03 Jun 2022
+"385,000 ","403/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,02 Jun 2022
+"190,000 ","4/200 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,1,1,59m² ,02 Jun 2022
+"116,150","19 Hawthorne Dr,",KURRIMINE BEACH QLD 4871,Vacant land,− 0,− 0,2,551m² ,01 Jun 2022
+"350,000",,MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,232m² ,01 Jun 2022
+"377,000 ","1118 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,756m² ,01 Jun 2022
+"325,000 ","16/58-70 Redlynch Intake Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,108m² ,01 Jun 2022
+"330,000 ","Lot 1120 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,540m² ,01 Jun 2022
+"385,000 ","Lot 1107 Springbrook Avenue,",REDLYNCH QLD 4870,Vacant land,0,0,0,733m² ,01 Jun 2022
+"300,000 ","6/116 Collins Avenue,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,72m² ,30 May 2022
+"330,000 ","317/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,2,151m² ,27 May 2022
+"330,000 ","14/185-187 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,1,114m² ,27 May 2022
+"249,000 ","112/1-2 Maytown Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,98m² ,27 May 2022
+"272,000 ","10/7 Mcpherson Close,",EDGE HILL QLD 4870,Townhouse,2,1,1,80m² ,25 May 2022
+"196,300 ","4/55 Minnie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,1,1,1,77m² ,25 May 2022
+"230,000 ","10/1 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,89m² ,24 May 2022
+"420,000 ","9/9-15 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,153m² ,23 May 2022
+"108,000 ","4/50 Alfred Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,59m² ,23 May 2022
+"488,000 ","11/275-277 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,122m² ,2022
+"400,000","3/9-15 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,155m² ,19 May 2022
+"218,500 ","5/1 Grantala Street,",MANOORA QLD 4870,Townhouse,2,1,1,82m² ,17 May 2022
+"459,000 ","206/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,83m² ,15 May 2022
+"800,000 ","310/125-129 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,149m² ,13 May 2022
+"230,000 ","6/347 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,13 May 2022
+"250,000","Lot 17 Windsor View Road,",JULATTEN QLD 4871,Vacant land,0,0,0,0,13 May 2022
+"145,000 ","6/14-16 Curtin Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,12 May 2022
+"300,000 ","2/61-63 Minnie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,111m² ,11 May 2022
+"508,000 ","603/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,3,2,2,174m² ,11 May 2022
+"385,000 ","2/73 Spence Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,170m² ,10 May 2022
+"510,000 ","325/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,101m² ,10 May 2022
+"500,000 ","1004/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,10 May 2022
+"730,000 ","65 Ishmael Road,",EARLVILLE QLD 4870,Block of units,6,5,−,959m² ,10 May 2022
+"340,000 ","28/58 Redlynch Intake Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,111m² ,09 May 2022
+"179,000 ",,MORESBY QLD 4871,Vacant land,0,0,0,0,05 May 2022
+"170,000 ","7/192-196 Mann Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,05 May 2022
+"205,000 ","3/3 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,78m² ,04 May 2022
+"360,000 ","4 Pine Creek Road,",EAST TRINITY QLD 4871,Vacant land,0,0,0,"46,600m² ",29 Apr 2022
+"185,000 ","28/50-56 Woodward Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,56m² ,29 Apr 2022
+"560,000 ","102/219-225 Abbott Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,2,127m² ,28 Apr 2022
+"132,000 ","7/52 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,76m² ,28 Apr 2022
+"142,500 ","3/64 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,68m² ,28 Apr 2022
+"312,000 ","7/68 Charles Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,101m² ,28 Apr 2022
+"450,000 ","144 Byrnes Close,",WHITFIELD QLD 4870,Vacant land,0,0,0,831m² ,28 Apr 2022
+"192,000 ","39/62 Abbott St,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,68m² ,27 Apr 2022
+"195,000 ","5/56 Boden Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,92m² ,26 Apr 2022
+"240,000 ","307/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,26 Apr 2022
+"200,000 ","19/57-59 Minnie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,1,1,1,64m² ,26 Apr 2022
+"329,500 ","159A Jensen Street,",WHITFIELD QLD 4870,Vacant land,0,0,0,503m² ,2022
+"260,000 ","23/40-42 Old Smithfield Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,1,1,100m² ,21 Apr 2022
+"190,000 ","5/2 Mayers Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,21 Apr 2022
+"200,000 ","2/13 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,79m² ,20 Apr 2022
+"200,000 ","66/91 Hoare Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,110m² ,20 Apr 2022
+"155,000 ","41A Miles Street,",MANOORA QLD 4870,Vacant land,0,0,0,559m² ,19 Apr 2022
+"230,000 ","10/221-225 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,93m² ,18 Apr 2022
+"188,000 ","2/2 Chester Court,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,98m² ,17 Apr 2022
+"248,000 ","Lot 1804 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,375m² ,15 Apr 2022
+"128,000 ","37/439-443 Severin Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,13 Apr 2022
+"378,500 ","27/9-11 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,154m² ,11 Apr 2022
+"535,000 ","Lot 1, 303 Moller Road,",ALOOMBA QLD 4871,Vacant land,0,0,0,0,08 Apr 2022
+"340,000 ","2/133 Collins Avenue,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,83m² ,08 Apr 2022
+"213,000 ","108/22-24 Ward Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,118m² ,08 Apr 2022
+"192,000 ","1611/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,77m² ,07 Apr 2022
+"215,000 ","1212/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,80m² ,07 Apr 2022
+"240,000 ","5/9 Vallely Street,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,1,1,77m² ,07 Apr 2022
+"290,000 ","8/423-427 Draper Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,107m² ,07 Apr 2022
+"698,600 ","28 Magazine Street,",STRATFORD QLD 4870,Block of units,8,4,4,"1,002m² ",07 Apr 2022
+"195,000 ","8/38 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,101m² ,06 Apr 2022
+"1,260,100 ","1-6/35 MacNamara Street,",MANUNDA QLD 4870,Block of units,8,6,6,873m² ,06 Apr 2022
+"170,000 ","18/161-163 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,04 Apr 2022
+"262,500","102/1-2 Maytown Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,102m² ,04 Apr 2022
+"690,000 ","61-63 Bellmere Lane,",REDLYNCH QLD 4870,Vacant land,0,0,0,"3,276m² ",04 Apr 2022
+"300,000 ","49/2-6 Fairweather Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,129m² ,01 Apr 2022
+"390,000 ","16/110 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,115m² ,31 Mar 2022
+"295,000 ","40/327-329 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,106m² ,31 Mar 2022
+"321,000 ","403/11-15 Charlekata Close,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,1,136m² ,31 Mar 2022
+"340,000 ","114/12 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,1,1,114m² ,31 Mar 2022
+"355,000","16/191-199 Woodward Street,",WHITFIELD QLD 4870,Apartment / Unit / Flat,2,1,2,266m² ,31 Mar 2022
+"340,000 ","38A Granadilla Drive,",EARLVILLE QLD 4870,Vacant land,0,0,0,"1,284m² ",30 Mar 2022
+"363,500 ","8/33 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,128m² ,29 Mar 2022
+"390,000 ","101/92-98 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,146m² ,29 Mar 2022
+"150,000","1/66 Little Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,66m² ,29 Mar 2022
+"565,000 ","13 Esterina Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,"5,941m² ",29 Mar 2022
+"440,000 ","41/275-277 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,96m² ,28 Mar 2022
+"157,500 ","6/267-269 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,70m² ,28 Mar 2022
+"185,000 ","15/12-16 Cannon Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,65m² ,28 Mar 2022
+"425,000 ","1007/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,26 Mar 2022
+"250,000","8/5 James Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,102m² ,24 Mar 2022
+"195,000 ","5/126-128 Greenslopes Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,23 Mar 2022
+"885,000 ","1003/12 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,3,2,2,351m² ,23 Mar 2022
+"135,000 ","22/270-278 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,66m² ,22 Mar 2022
+"375,000 ","2/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,2,168m² ,22 Mar 2022
+"225,000 ","4/2-5 Marella Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,89m² ,22 Mar 2022
+"223,908 ","307/219-225 Mcleod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,78m² ,21 Mar 2022
+"207,500 ","307/4 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,83m² ,21 Mar 2022
+"175,000 ","2/11 Balaclava Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,75m² ,17 Mar 2022
+"187,500 ","5/4 Maytown Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,67m² ,17 Mar 2022
+"245,000 ","Lot 1807 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,375m² ,16 Mar 2022
+"150,000 ","6/6 Kidston Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,55m² ,15 Mar 2022
+"410,000 ","19/15-17 Minnie Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,174m² ,10 Mar 2022
+"385,000 ","503/1 Marlin Pde,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,10 Mar 2022
+"270,000 ","2/195 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,08 Mar 2022
+"305,500 ","704/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,169m² ,07 Mar 2022
+"606,000 ","508/174-180 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,172m² ,05 Mar 2022
+"1,365,000 ","345 - 347 Mayers Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,7,3,3,"1,298m² ",04 Mar 2022
+"185,000 ","4/192 Grafton Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,03 Mar 2022
+"285,000 ","10/303-305 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,101m² ,03 Mar 2022
+"145,000","6 Hargreave Street,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,559m² ,03 Mar 2022
+"480,000 ","20/275-277 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,122m² ,01 Mar 2022
+"440,000 ","5 Lee Street,",FRESHWATER QLD 4870,Vacant land,0,0,0,863m² ,01 Mar 2022
+"1,175,000 ","900/73-75 The Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,227m² ,28 Feb 2022
+"35,000 ","4 Queens Street,",CHILLAGOE QLD 4871,Vacant land,0,0,0,"1,012m² ",28 Feb 2022
+"195,000 ","2/21 Balaclava Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,28 Feb 2022
+"238,000 ","3/74 Old Smithfield Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,1,1,103m² ,27 Feb 2022
+"1,450,000 ","46/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,153m² ,26 Feb 2022
+"290,000 ","30/44 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,3,2,1,128m² ,25 Feb 2022
+"170,000 ","3/10 Mulligan Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,56m² ,25 Feb 2022
+"395,000 ","8/210 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,135m² ,24 Feb 2022
+"329,000 ","1/306 Pease Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,3,1,1,92m² ,24 Feb 2022
+"242,500 ","6/215-217 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,52m² ,22 Feb 2022
+"170,000 ","26B James Street,",CAIRNS NORTH QLD 4870,Vacant land,0,0,0,206m² ,22 Feb 2022
+"175,000 ","12/21-25 Givens Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,88m² ,22 Feb 2022
+"261,000 ","3/11-13 Short Street,",REDLYNCH QLD 4870,Townhouse,2,1,1,101m² ,21 Feb 2022
+"430,000 ","18 Luderick St,",KANIMBLA QLD 4870,Vacant land,0,0,0,750m² ,18 Feb 2022
+"236,500 ","3/47 Mccormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,1,104m² ,17 Feb 2022
+"350,000 ","3/393 Draper Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,1,1,142m² ,17 Feb 2022
+"365,000 ","3 Sergeant Street,",KANIMBLA QLD 4870,Vacant land,0,0,0,759m² ,15 Feb 2022
+"280,000","5/157 Martyn Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,1,115m² ,15 Feb 2022
+"316,000","19/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,127m² ,13 Feb 2022
+"750,000 ","396 Severin Street,",PARRAMATTA PARK QLD 4870,Block of units,12,6,−,"1,067m² ",11 Feb 2022
+"415,000 ","1105/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,08 Feb 2022
+"220,000 ","911 Euluma Creek Road,",JULATTEN QLD 4871,Vacant land,0,0,0,0,08 Feb 2022
+"450,000 ","15 Trumpeter St,",KANIMBLA QLD 4870,Vacant land,0,0,0,750m² ,08 Feb 2022
+"115,000 ","20/270-278 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,−,66m² ,07 Feb 2022
+"330,000 ","26/34-40 Lily Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,1,1,103m² ,07 Feb 2022
+"170,000","111 Mansfield Street,",EARLVILLE QLD 4870,Vacant land,0,0,0,"3,518m² ",05 Feb 2022
+"240,000 ","201/2-8 Centenary Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,102m² ,05 Feb 2022
+"305,000 ","11/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,3,2,1,126m² ,04 Feb 2022
+"310,000 ","196 Pease Street,",MANOORA QLD 4870,Vacant land,0,0,0,801m² ,04 Feb 2022
+"212,500 ","5/48-50 English Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,2,1,110m² ,04 Feb 2022
+"190,000 ","21 Springmeadow Close,",BRINSMEAD QLD 4870,Vacant land,0,0,0,849m² ,2022
+"152,244 ","2/15 Pioneer Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,69m² ,02 Feb 2022
+"290,000","6/3-9 Stratford Parade,",STRATFORD QLD 4870,Apartment / Unit / Flat,2,1,1,139m² ,02 Feb 2022
+"405,000 ","518/12 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,145m² ,02 Feb 2022
+"575,000 ","734/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,4,2,2,231m² ,02 Feb 2022
+"235,000 ","1711/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,98m² ,31 Jan 2022
+"130,000","75 Jacobs Road,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,551m² ,31 Jan 2022
+"125,000 ","38/439-443 Severin Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,67m² ,31 Jan 2022
+"275,000 ","15 Oceanview Place,",MOOROOBOOL QLD 4870,Vacant land,0,0,0,"1,224m² ",31 Jan 2022
+"400,000 ","7/17-19 Digger Street,",CAIRNS NORTH QLD 4870,Townhouse,3,1,1,142m² ,28 Jan 2022
+"150,000 ","2/16 Ingham Court,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,1,1,1,77m² ,28 Jan 2022
+"165,000 ","6/379-385 Mayers Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,62m² ,27 Jan 2022
+"420,000","23/173-181 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,117m² ,26 Jan 2022
+"1,200,000 ","95 Martyn Street,",PARRAMATTA PARK QLD 4870,Block of units,10,6,−,810m² ,26 Jan 2022
+"277,500 ","9/50 Cairns Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,80m² ,24 Jan 2022
+"169,000 ","457 Severin Street,",MANUNDA QLD 4870,Townhouse,2,1,2,90m² ,24 Jan 2022
+"710,000 ","20 Harris Street,",PARRAMATTA PARK QLD 4870,Block of units,8,4,1,415m² ,24 Jan 2022
+"365,000","4/26A Commercial Drive,",SPRINGFIELD QLD 4871,Townhouse,3,2,2,233m² ,23 Jan 2022
+"197,500 ","3/187 Mcleod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,71m² ,21 Jan 2022
+"220,000","10/42 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,2,1,88m² ,21 Jan 2022
+"260,000 ","Lot 9 Ellis Road (off McLeans Bridge Rd),",JULATTEN QLD 4871,Vacant land,0,0,0,0,20 Jan 2022
+"299,000 ","32A Old Smithfield Road,",FRESHWATER QLD 4870,Vacant land,0,0,0,660m² ,19 Jan 2022
+"290,000 ","Lot 2 Nine Mile Road,",JULATTEN QLD 4871,Vacant land,0,0,0,0,19 Jan 2022
+"165,000 ","12/191-193 Mcleod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,−,69m² ,18 Jan 2022
+"117,000","16/261-265 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,59m² ,18 Jan 2022
+"363,000 ","13/232-234 Grafton Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,114m² ,18 Jan 2022
+"248,000 ","Lot 1803 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,375m² ,17 Jan 2022
+"360,000 ","406/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,15 Jan 2022
+"335,000 ","405/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,75m² ,15 Jan 2022
+"130,000 ","24/71-75 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,52m² ,14 Jan 2022
+"276,000 ","Lot 170 Hillview Road,",JULATTEN QLD 4871,Vacant land,0,0,0,0,14 Jan 2022
+"250,000 ","9B Kidston Street,",BUNGALOW QLD 4870,Vacant land,0,0,0,790m² ,13 Jan 2022
+"323,000 ","36/1-13 Ernest Street,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,124m² ,13 Jan 2022
+"340,000 ","3 Short Street,",REDLYNCH QLD 4870,Vacant land,0,0,0,700m² ,12 Jan 2022
+"218,000 ","2/36 Cairns Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,101m² ,06 Jan 2022
+"145,000 ","4/28 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,59m² ,06 Jan 2022
+"125,000 ","6 Dalgleish Street,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,800m² ,06 Jan 2022
+"320,000 ","4/164-172 Spence Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,3,2,1,107m² ,05 Jan 2022
+"275,000 ","4/2 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,82m² ,24 Dec 2021
+"155,000 ","16/473-479 Mccoombe Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,24 Dec 2021
+"363,000 ","48/9-11 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,159m² ,23 Dec 2021
+"270,000 ","112/89-95 Ishmael Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,2,1,97m² ,23 Dec 2021
+"205,000 ","4/15 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,95m² ,23 Dec 2021
+"315,000 ","13/50-54 Birch Street,",MANUNDA QLD 4870,Townhouse,2,2,2,142m² ,23 Dec 2021
+"540,000 ","23 Knott Court,",WHITFIELD QLD 4870,Vacant land,0,0,0,"1,002m² ",22 Dec 2021
+"180,000 ","9/38 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,101m² ,21 Dec 2021
+"440,000 ","2/10 Macilwraith Street,",MANOORA QLD 4870,Townhouse,4,2,2,178m² ,19 Dec 2021
+"130,000 ","306/71-75 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,52m² ,17 Dec 2021
+"199,000 ","6/9L Barklya Close,",KAMERUNGA QLD 4870,Vacant land,0,0,0,753m² ,17 Dec 2021
+"185,000 ","1/38 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,101m² ,17 Dec 2021
+"230,000 ","321/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,17 Dec 2021
+"188,000 ","10/2 Mayers Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,2,56m² ,17 Dec 2021
+"226,000 ","327/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,84m² ,16 Dec 2021
+"150,077 ","7 Marks Place,",MANOORA QLD 4870,Vacant land,0,0,0,727m² ,16 Dec 2021
+"395,500 ","30/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,2,177m² ,15 Dec 2021
+"312,000 ","17/61-63 Minnie Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,2,1,121m² ,15 Dec 2021
+"395,000 ","18/9-11 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,161m² ,14 Dec 2021
+"39,000 ","1 Mulligan Highway,",MOUNT CARBINE QLD 4871,Vacant land,0,0,0,"1,935m² ",14 Dec 2021
+"467,500 ","15/304-308 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,161m² ,13 Dec 2021
+"358,000 ","38/9-11 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,154m² ,13 Dec 2021
+"150,000 ","48a Armbrust Street,",MANOORA QLD 4870,Vacant land,0,0,0,330m² ,09 Dec 2021
+"155,500","11/165-171 Mayers Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,63m² ,09 Dec 2021
+"235,000 ","7/33 Balaclava Road,",EARLVILLE QLD 4870,Townhouse,2,2,1,90m² ,08 Dec 2021
+"95,000 ","15 Bluewater Street,",EAST TRINITY QLD 4871,Vacant land,0,0,0,809m² ,08 Dec 2021
+"230,000 ","2/20 Pioneer Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,108m² ,07 Dec 2021
+"229,000 ","9/5-7 Herries Street,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,106m² ,06 Dec 2021
+"302,000 ","35/82-86 Martyn Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,2,126m² ,06 Dec 2021
+"1,300,000 ","71/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,137m² ,03 Dec 2021
+"183,000 ","8/235 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,02 Dec 2021
+"285,000 ","916/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,121m² ,01 Dec 2021
+"365,000 ","6/33 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,136m² ,01 Dec 2021
+212 ,"207/219-225 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,78m² ,30 Nov 2021
+"195,000 ","8/58 Boden Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,30 Nov 2021
+"32,000 ","2 Mulligan Highway,",MOUNT CARBINE QLD 4871,Vacant land,0,0,0,"2,023m² ",30 Nov 2021
+"170,000 ","16/17-21 Martyn Street,",PARRAMATTA PARK QLD 4870,Block of units,1,1,1,"1,824m² ",29 Nov 2021
+"285,000 ","47 Macilwraith Street,",MANOORA QLD 4870,Vacant land,0,0,0,809m² ,26 Nov 2021
+"159,000 ","27/173 Mayers Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,26 Nov 2021
+"162,000 ","17 Elmire Close,",WESTCOURT QLD 4870,Vacant land,0,0,0,308m² ,24 Nov 2021
+"175,000 ","17/62 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,69m² ,23 Nov 2021
+"162,000 ","20/215 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,23 Nov 2021
+"165,000 ","4/437 Draper Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,1,1,1,75m² ,23 Nov 2021
+"200,000 ","Lot 1/45 Winkworth Street,",BUNGALOW QLD 4870,New land,0,0,0,334m² ,22 Nov 2021
+"145,000 ","1/64 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,64m² ,22 Nov 2021
+"200,000 ","Lot 1/45 Winkworth Street,",BUNGALOW QLD 4870,Vacant land,0,0,0,334m² ,21 Nov 2021
+"935,000 ","16-20 Bunting Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,26,5,−,"1,214m² ",19 Nov 2021
+"220,000 ","9/215 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,66m² ,19 Nov 2021
+"225,000 ","107/29-33 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,100m² ,19 Nov 2021
+"200,000","6/163 Buchan Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,1,1,1,55m² ,18 Nov 2021
+"322,500 ","405/6 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,113m² ,17 Nov 2021
+"378,500 ","7/12-14 Old Smithfield Road,",FRESHWATER QLD 4870,Townhouse,3,2,1,136m² ,17 Nov 2021
+"352,500 ","69-71 Kamerunga Road,",STRATFORD QLD 4870,Vacant land,0,0,0,"1,423m² ",16 Nov 2021
+"860,000 ","31/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,15 Nov 2021
+"205,000 ","12/36 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,80m² ,15 Nov 2021
+"386,000 ","41 Richardson Street,",EDGE HILL QLD 4870,Vacant land,0,0,0,644m² ,12 Nov 2021
+"248,000 ","Lot 1805 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,375m² ,12 Nov 2021
+"173,800 ","13/2-4 McGuigan Street,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,2,1,95m² ,11 Nov 2021
+"195,000 ","1211/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,78m² ,10 Nov 2021
+"95,000 ","3/247 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,66m² ,10 Nov 2021
+"170,000 ","6/122 Greenslopes Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,1,1,1,64m² ,10 Nov 2021
+"720,000 ","56 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,8,4,4,708m² ,09 Nov 2021
+"900,000",,CAIRNS CITY QLD 4870,Vacant land,0,0,0,"1,012m² ",08 Nov 2021
+"190,000 ","1/11 Balaclava Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,78m² ,08 Nov 2021
+"300,000 ","Lot 83 Pine Creek - Yarrabah Road,",EAST TRINITY QLD 4871,Vacant land,0,0,0,608m² ,06 Nov 2021
+"430,000 ","Lot 108 Harvey Road,",REDLYNCH QLD 4870,Vacant land,0,0,0,"5,969m² ",05 Nov 2021
+"275,000 ","18/176-180 Spence Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,110m² ,04 Nov 2021
+"266,000 ","1103/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,131m² ,04 Nov 2021
+"185,000 ","29/253-255 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,62m² ,04 Nov 2021
+"170,000 ","11 Clacherty Street,",MOUNT MOLLOY QLD 4871,Vacant land,0,0,0,0,04 Nov 2021
+"355,000 ","903/2 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,129m² ,03 Nov 2021
+"385,000 ","303/92-98 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,01 Nov 2021
+"400,000","6/20-38 Sandwich Street,",KAMERUNGA QLD 4870,Townhouse,3,2,2,225m² ,01 Nov 2021
+"140,000 ","7/457 Severin Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,−,99m² ,01 Nov 2021
+"670,000 ","603/3 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,1,134m² ,30 Oct 2021
+"160,000 ","15/553-561 Mulgrave Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,29 Oct 2021
+"220,000 ","6/13 Grantala Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,121m² ,29 Oct 2021
+"375,000 ","510/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,2,2,1,143m² ,28 Oct 2021
+"937,200","39 Law Street,",CAIRNS NORTH QLD 4870,Vacant land,0,0,0,0,2021
+"175,000 ","3/126 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,77m² ,25 Oct 2021
+"171,000 ","6/13-15 Harris Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,94m² ,24 Oct 2021
+"1,600,000 ","3 Mylchreest Street,",MANUNDA QLD 4870,Block of units,13,5,5,"3,430m² ",22 Oct 2021
+"320,000 ","18 Romanini Court,",BRINSMEAD QLD 4870,Vacant land,− 0,− 0,2,677m² ,21 Oct 2021
+"159,000 ","6/73-75 Pease Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,97m² ,21 Oct 2021
+"120,000 ","6/86 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,21 Oct 2021
+"144,000 ","7/29 Pioneer Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,19 Oct 2021
+"280,500","9/4-10 Hedley Close,",REDLYNCH QLD 4870,Block of units,2,1,1,107m² ,19 Oct 2021
+"110,000","29 Hawthorne Dr,",KURRIMINE BEACH QLD 4871,Vacant land,− 0,− 0,1,551m² ,18 Oct 2021
+"175,000 ","3/23-25 Harris Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,80m² ,18 Oct 2021
+"475,000","11 Knott Court,",WHITFIELD QLD 4870,Vacant land,0,0,0,876m² ,18 Oct 2021
+"128,000","5 Rebecca Jane Parade,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,728m² ,13 Oct 2021
+"932,500 ","26 Ascot Avenue,",WESTCOURT QLD 4870,Block of units,5,4,1,417m² ,13 Oct 2021
+"375,000 ","20/20-38 Sandwich Street,",KAMERUNGA QLD 4870,Townhouse,3,2,2,220m² ,12 Oct 2021
+"248,000 ","Lot 1802 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,375m² ,12 Oct 2021
+"183,000 ","8/1 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,89m² ,11 Oct 2021
+"310,000 ","53 The Peak,",BRINSMEAD QLD 4870,Vacant land,0,0,0,"1,002m² ",08 Oct 2021
+"470,000 ","1106/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,75m² ,08 Oct 2021
+"176,500 ","7/23-25 Harris Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,1,1,70m² ,08 Oct 2021
+"270,000 ","Lot 1 Mossman Mt Molloy Road,",JULATTEN QLD 4871,Vacant land,0,0,0,0,07 Oct 2021
+"1,400,000 ","93/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,2,150m² ,06 Oct 2021
+"65,000 ","1 Lewis Road,",DEERAL QLD 4871,Vacant land,0,0,0,703m² ,05 Oct 2021
+"380,000 ","2/22 Nesbit Street,",WHITFIELD QLD 4870,Apartment / Unit / Flat,2,1,1,326m² ,05 Oct 2021
+"312,500 ","19/10-16 Digger Street,",CAIRNS NORTH QLD 4870,Townhouse,2,1,1,119m² ,04 Oct 2021
+"322,500 ","405/6 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,113m² ,02 Oct 2021
+"270,000 ","1/34-40 Lily Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,94m² ,01 Oct 2021
+"365,000 ","7/19 Upward Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,2,1,120m² ,01 Oct 2021
+"220,000 ","1125/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,95m² ,29 Sep 2021
+"320,000 ","308/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,145m² ,29 Sep 2021
+"380,000","19/9-11 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,160m² ,27 Sep 2021
+"257,000 ","Lot 1808 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,433m² ,27 Sep 2021
+"135,000 ","Lot 2 Francis Road,",UTCHEE CREEK QLD 4871,Vacant land,0,0,0,0,24 Sep 2021
+"220,000 ","4/42 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,88m² ,22 Sep 2021
+"835,000 ","608/114-118 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,180m² ,21 Sep 2021
+"230,000 ","18/5-7 Herries Street,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,105m² ,20 Sep 2021
+"285,000 ","84/1-15 Robson Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,2,1,122m² ,20 Sep 2021
+"85,000 ","226 Arnold Street,",MOUNT MOLLOY QLD 4871,Vacant land,0,0,0,"3,455m² ",17 Sep 2021
+"195,000","6/187-189 McLeod Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,61m² ,16 Sep 2021
+"290,000 ","378 Brinsmead Road (via Barclay Rd),",BRINSMEAD QLD 4870,Vacant land,0,0,0,"4,023m² ",15 Sep 2021
+"280,000 ","44/78-90 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,106m² ,14 Sep 2021
+"292,000 ","5-7 Kara Close,",KAMERUNGA QLD 4870,Vacant land,0,0,0,622m² ,14 Sep 2021
+"210,000 ","744/12-21 Gregory Street,",WESTCOURT QLD 4870,Apartment / Unit / Flat,1,1,1,94m² ,14 Sep 2021
+"575,000 ","226 & 227/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,132m² ,13 Sep 2021
+"285,000 ","1109/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,119m² ,13 Sep 2021
+"205,000 ","15/17 Upward Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,92m² ,13 Sep 2021
+"140,000 ","23/4-5 Hollett Close,",MANUNDA QLD 4870,Apartment / Unit / Flat,1,1,1,59m² ,09 Sep 2021
+"250,000 ","80/434 Kamerunga Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,126m² ,09 Sep 2021
+"355,000 ","5/33-35 Kamerunga Road,",STRATFORD QLD 4870,Apartment / Unit / Flat,2,2,1,114m² ,09 Sep 2021
+"310,000 ","612/2 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,142m² ,08 Sep 2021
+"151,000 ","15/12 Mayers Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,75m² ,07 Sep 2021
+"325,000 ","11/34-36 Digger Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,2,1,114m² ,06 Sep 2021
+"185,000","4/342-344 McCoombe street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,1,1,"1,606m² ",06 Sep 2021
+"575,000 ","13 Cascades Drive,",REDLYNCH QLD 4870,Vacant land,0,0,0,"5,228m² ",06 Sep 2021
+"149,000 ","2/362 McCoombe Street,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,1,1,56m² ,02 Sep 2021
+"290,000 ","10 Bunting Street,",BUNGALOW QLD 4870,Vacant land,0,0,0,607m² ,01 Sep 2021
+"726,500 ","601/27-29 Wharf Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,134m² ,31 Aug 2021
+"140,500 ","1/553-561 Mulgrave Road,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,30 Aug 2021
+"920,000 ","22/155-159 Esplanade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,3,2,2,187m² ,27 Aug 2021
+"345,000 ","15/186 Spence Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,3,2,1,155m² ,25 Aug 2021
+"290,000 ","29/376-384 Severin Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,2,113m² ,24 Aug 2021
+"125,000 ","5/22 Barrett Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,1,1,1,55m² ,23 Aug 2021
+"298,000 ","Level 3, 16/233-237 Esplanade,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,79m² ,23 Aug 2021
+"130,000","26 Taylor St,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,732m² ,23 Aug 2021
+"180,000 ","7 BARAKAOAN ROAD,",COWLEY BEACH QLD 4871,Vacant land,2,1,1,612m² ,18 Aug 2021
+"122,000 ","12/184 McLeod Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,53m² ,17 Aug 2021
+"115,000 ","18 Dalgleish Street,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,800m² ,16 Aug 2021
+"168,000 ","10/20 Pioneer Street,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,98m² ,13 Aug 2021
+"109,000 ","11/247 Sheridan Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,66m² ,12 Aug 2021
+"375,000 ","5/9-15 McLean Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,1,"639,403m² ",12 Aug 2021
+"240,000 ","103/6 Marella Close,",MANOORA QLD 4870,Apartment / Unit / Flat,3,2,1,105m² ,12 Aug 2021
+"187,000 ","113/1 Maytown Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,2,1,98m² ,11 Aug 2021
+"255,000 ","4/40-46 Redlynch Intake Road,",REDLYNCH QLD 4870,Apartment / Unit / Flat,2,2,1,120m² ,10 Aug 2021
+"472,000 ","1104/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,75m² ,06 Aug 2021
+"148,000","331/175 Lake Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,52m² ,06 Aug 2021
+"290,000 ","408/11-15 Charlekata Close,",FRESHWATER QLD 4870,Townhouse,2,2,1,136m² ,03 Aug 2021
+"187,000 ","22/186 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,29 Jul 2021
+"190,000 ","5/253-255 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,72m² ,28 Jul 2021
+"246,000","813/2-10 Greenslopes St,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,121m² ,27 Jul 2021
+"190,000","7 Robert Johnstone Pde,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,607m² ,27 Jul 2021
+"210,000 ","10 Giangurra Esplanade,",EAST TRINITY QLD 4871,Vacant land,0,0,0,607m² ,26 Jul 2021
+"175,000 ","1/3 Crathern Close,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,60m² ,26 Jul 2021
+"175,000 ","24 Douglas Track Road,",KAMERUNGA QLD 4870,Vacant land,0,0,0,786m² ,26 Jul 2021
+"150,000","LOT 4 SANTO CLOSE,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,"5,275m² ",26 Jul 2021
+"330,000 ","9/294-310 Kamerunga Road,",FRESHWATER QLD 4870,Apartment / Unit / Flat,2,2,2,"15,610m² ",22 Jul 2021
+"157,000 ","102/53 McCormack Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,107m² ,22 Jul 2021
+"185,000 ","10/1 Joan Street,",BUNGALOW QLD 4870,Apartment / Unit / Flat,2,1,1,63m² ,19 Jul 2021
+"638,000 ","1001/1002/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,2,2,1,121m² ,15 Jul 2021
+"458,000","1005/1 Marlin Parade,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,137m² ,15 Jul 2021
+"180,000 ","3/6 Crathern Close,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,"372,310m² ",15 Jul 2021
+"183,000 ","1/126-128 Greenslopes Street,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,58m² ,14 Jul 2021
+"190,000 ","3/15 Ingham Court,",MOOROOBOOL QLD 4870,Apartment / Unit / Flat,2,1,1,86m² ,12 Jul 2021
+"195,000 ","8/253-255 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,72m² ,09 Jul 2021
+"335,000 ","Lot 1813 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,700m² ,09 Jul 2021
+"180,000 ","1/49-53 English Street,",MANUNDA QLD 4870,Townhouse,2,1,1,200m² ,08 Jul 2021
+"315,000 ","15/11-21 Barr Street,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,112m² ,06 Jul 2021
+"192,500 ","1018/2-10 Greenslopes Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,1,1,1,80m² ,05 Jul 2021
+"260,000 ","9/157 Martyn Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,2,2,1,115m² ,05 Jul 2021
+"191,000 ","2/14 Springfield Crescent,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,82m² ,02 Jul 2021
+"180,000 ","6/186-198 Lake Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,84m² ,01 Jul 2021
+"300,000","41 Jak Gee St,",REDLYNCH QLD 4870,Vacant land,0,0,0,"1,756m² ",01 Jul 2021
+"190,000 ","38 Nelson Street,",BUNGALOW QLD 4870,Vacant land,0,0,0,405m² ,30 Jun 2021
+"455,000 ","12/15-19 Thomas Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,3,2,2,149m² ,30 Jun 2021
+"142,500 ","36/85-89 Birch Street,",MANUNDA QLD 4870,Apartment / Unit / Flat,2,1,1,73m² ,30 Jun 2021
+"419,500 ","4/27-29 Pembroke Street,",PARRAMATTA PARK QLD 4870,Apartment / Unit / Flat,3,2,2,142m² ,30 Jun 2021
+"159,500 ","6/1 Quetta Close,",MANOORA QLD 4870,Apartment / Unit / Flat,2,1,1,89m² ,2021
+"205,000 ","5/5 James Street,",CAIRNS NORTH QLD 4870,Apartment / Unit / Flat,2,1,1,102m² ,24 Jun 2021
+"329,000 ","Lot 1811 Hyland Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,"1,190m² ",23 Jun 2021
+"255,000 ","1 Marlin Pde,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,−,59m² ,21 Jun 2021
+"189,000 ","41/62 Abbott Street,",CAIRNS CITY QLD 4870,Apartment / Unit / Flat,1,1,1,68m² ,18 Jun 2021
+"183,000 ","20/5-7 Herries Street,",EARLVILLE QLD 4870,Apartment / Unit / Flat,2,1,1,94m² ,17 Jun 2021
+"193,500 ","4/10 Crathern Close,",EDGE HILL QLD 4870,Apartment / Unit / Flat,2,1,1,92m² ,17 Jun 2021
+"85,000 ","19 Hawthorne Drive,",KURRIMINE BEACH QLD 4871,Vacant land,0,0,0,551m² ,17 Jun 2021
+"190,000 ","15/6-8 Cannon Street,",MANUNDA QLD 4870,Townhouse,2,1,1,84m² ,17 Jun 2021
+"183,000 ","10/40 Springfield Crescent,",MANOORA QLD 4870,Townhouse,2,1,1,102m² ,16 Jun 2021
+"495,000 ","596 Mena Creek Road,",MENA CREEK QLD 4871,Vacant land,0,0,0,0,15 Jun 2021
+"255,000 ","15 Stapleton Close,",REDLYNCH QLD 4870,Vacant land,0,0,0,"4,492m² ",14 Jun 2021

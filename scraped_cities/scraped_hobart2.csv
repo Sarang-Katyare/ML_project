@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"535,000 ","2/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,94m² ,15 Apr 2024
+"681,000 ","1/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,134m² ,21 Mar 2024
+"1,100,000 ","15/1 Creswells Row,",HOBART TAS 7000,Townhouse,3,2,2,175m² ,13 Mar 2024
+"210,000 ","Unit 406/156 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,51m² ,23 Jan 2024
+"1,600,000 ","506/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,215m² ,11 Jan 2024
+"1,525,000 ","601/62 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,277m² ,03 Nov 2023
+"195,000 ","Unit 525/156 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,56m² ,27 Oct 2023
+"1,100,000 ","11/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,219m² ,13 Aug 2023
+"1,090,000 ","19/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,3,1,266m² ,02 Jul 2023
+"511,000 ","503/126 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,−,65m² ,30 May 2023
+"835,000 ","1/95 Elizabeth Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,−,170m² ,04 May 2023
+"1,050,000 ","2/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,213m² ,12 Apr 2023
+"800,000 ","1/153 Hampden Road,",HOBART TAS 7000,Townhouse,2,1,2,246m² ,05 Apr 2023
+"731,000 ","27/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,161m² ,31 Mar 2023
+"1,060,000","75 Molle Street,",HOBART TAS 7000,Block of units,4,4,4,254m² ,10 Mar 2023
+"815,000","6/1 Creswells Row,",HOBART TAS 7000,Townhouse,3,2,1,142m² ,02 Mar 2023
+"790,000 ","13/1 Collins Street,",HOBART TAS 7000,Townhouse,2,1,1,155m² ,01 Mar 2023
+"1,075,000","40/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,171m² ,15 Feb 2023
+"1,100,000 ","36/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,171m² ,09 Feb 2023
+"1,100,000 ","7/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,219m² ,22 Jan 2023
+"1,580,000 ","3a/8 Brooke Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,3,1,124m² ,06 Jan 2023
+"1,650,000 ","3b/8 Brooke Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,3,1,181m² ,02 Jan 2023
+"1,100,000 ","205/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,160m² ,22 Dec 2022
+"635,000 ","7A Harrington Lane,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,−,65m² ,12 Dec 2022
+"671,000 ","2/55 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,−,93m² ,01 Dec 2022
+"705,000 ","47/39 Campbell Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,140m² ,31 Oct 2022
+"630,000","5/77-79 Molle Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,−,188m² ,06 Sep 2022
+"1,400,000","2/73-83 Macquarie Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,154m² ,29 Jul 2022
+"830,000","7/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,192m² ,19 Jul 2022
+"1,350,000 ","5 Church Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,1,273m² ,17 Jun 2022
+"765,000 ","2/65 Melville Street,",HOBART TAS 7000,Townhouse,2,1,−,157m² ,07 May 2022
+"565,000 ","33/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,75m² ,22 Apr 2022
+"2,950,000 ","155 Argyle Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,3,3,275m² ,28 Mar 2022
+"1,550,000 ","3 Church Street,",HOBART TAS 7000,Apartment / Unit / Flat,4,2,1,408m² ,21 Mar 2022
+"401,000 ","110/1 Sandy Bay Road,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,−,57m² ,16 Mar 2022
+"438,000 ","408/1 Sandy Bay Road,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,70m² ,28 Jan 2022
+"1,075,000 ","210/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,149m² ,21 Jan 2022
+"790,000 ","8/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,173m² ,23 Dec 2021
+"1,300,000","2/12 Wilmot Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,2,318m² ,20 Dec 2021
+"1,035,000 ","17/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,243m² ,03 Dec 2021
+"760,000 ","3/207 Elizabeth Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,84m² ,03 Dec 2021
+"525,000","12/92 Barrack Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,73m² ,03 Nov 2021
+"790,000 ","4 Mistral Place,",HOBART TAS 7000,Townhouse,2,1,1,139m² ,25 Oct 2021
+"626,000","3/37-39 Campbell Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,115m² ,15 Sep 2021
+"1,091,000 ","6/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,219m² ,23 Aug 2021
+"210,000 ","108/156 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,−,52m² ,20 Aug 2021
+"960,000 ","240 & 242 Harrington Street,",HOBART TAS 7000,Townhouse,5,2,2,935m² ,17 Aug 2021
+"1,000,000","22/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,292m² ,15 Aug 2021
+"775,000 ","20/37-39 Campbell Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,159m² ,04 Aug 2021
+"810,000 ","112/62 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,153m² ,02 Aug 2021
+"810,000 ","212/62 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,147m² ,31 Jul 2021
+"840,000 ","31a Goulburn Street,",HOBART TAS 7000,Townhouse,2,1,2,163m² ,19 Jul 2021
+"750,000","5/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,183m² ,13 Jul 2021
+"995,000 ","16 Sun Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,242m² ,05 Jul 2021
+"850,000 ","12/212 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,2,92m² ,01 Jul 2021
+"1,850,000 ","509/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,216m² ,02 Jun 2021
+"777,000 ","6/118-120 Elizabeth Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,−,132m² ,14 May 2021
+"615,600 ","110/62 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,149m² ,03 May 2021
+"762,500 ","8/12 Wilmot Street,",HOBART TAS 7000,Townhouse,2,1,1,164m² ,17 Apr 2021
+"2,950,000","73-75 Goulburn Street,",HOBART TAS 7000,Block of units,10,10,−,682m² ,17 Mar 2021
+"1,838,000","505/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,216m² ,24 Feb 2021
+"475,000 ","33/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,75m² ,12 Jan 2021
+"443,000 ","14/212 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,−,61m² ,02 Jan 2021
+"685,000 ","305/126 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,−,103m² ,28 Dec 2020
+"1,103,000 ","42B Goulburn Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,248m² ,23 Dec 2020
+"627,000 ","12/75 Warwick Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,119m² ,22 Dec 2020
+"630,000 ","253 Macquarie Street,",HOBART TAS 7000,Townhouse,4,1,−,227m² ,15 Dec 2020
+"495,000 ","207/62 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,84m² ,15 Dec 2020
+"345,000 ","102/1 Sandy Bay Road,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,−,70m² ,03 Nov 2020
+"750,000","208/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,116m² ,26 Oct 2020
+"750,000 ","39/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,164m² ,22 Oct 2020
+"990,000 ","210/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,149m² ,19 Oct 2020
+"710,000 ","11/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,175m² ,29 Sep 2020
+"984,000","53/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,171m² ,05 Sep 2020
+"840,000 ","28/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,171m² ,27 Jul 2020
+"600,000","9/75 Warwick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,119m² ,25 Jul 2020
+"735,000 ","21/212 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,121m² ,03 Jul 2020
+"600,000 ","10/75 Warwick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,137m² ,16 Jun 2020
+"602,000 ","3/42-50 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,− 0,1,2,171m² ,05 May 2020
+"610,000","3/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,119m² ,31 Mar 2020
+"870,000","7 Ragged Lane,",HOBART TAS 7000,Townhouse,3,2,2,209m² ,29 Mar 2020
+"761,000 ","14/1 Creswells Row,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,162m² ,04 Mar 2020
+"880,000 ","16 Terminus Row,",HOBART TAS 7000,Townhouse,3,2,2,197m² ,18 Feb 2020
+"375,000 ","509/1 Sandy Bay Road,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,−,68m² ,05 Feb 2020
+"1,500,000 ","503/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,215m² ,29 Jan 2020
+"600,000 ","12/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,99m² ,08 Nov 2019
+"600,000","19/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,110m² ,05 Nov 2019
+"1,225,000","9/15 Hunter Street,",HOBART TAS 7000,Penthouse,2,2,1,293m² ,15 Oct 2019
+"1,100,000 ","4/15 Campbell Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,215m² ,20 Sep 2019
+"547,500 ","3/312 Davey Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,1,537m² ,20 Sep 2019
+"1,002,000 ","5a/117 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,202m² ,03 Jul 2019
+"695,000","1/251 Macquarie Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,149m² ,26 Jun 2019
+"570,000","4/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,106m² ,03 May 2019
+"700,000 ","1/177 Bathurst Street,",HOBART TAS 7000,Townhouse,3,2,2,231m² ,11 Apr 2019
+"440,000 ","3/217 Liverpool Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,−,165m² ,22 Mar 2019
+"670,000 ","38/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,153m² ,20 Mar 2019
+"557,000 ","16/92 Barrack Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,132m² ,13 Mar 2019
+"460,000 ","4/212 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,126m² ,14 Feb 2019
+"590,000 ","307/3 Evans Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,109m² ,06 Feb 2019
+"635,000 ","6/118-120 Elizabeth Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,−,132m² ,03 Jan 2019
+"825,000",,HOBART TAS 7000,Apartment / Unit / Flat,2,2,2,212m² ,21 Dec 2018
+"760,000","13/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,2,316m² ,13 Nov 2018
+"450,000","2/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,94m² ,14 Oct 2018
+"358,500 ","2/92 Barrack Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,71m² ,27 Aug 2018
+"780,000","15/1 Creswells Row,",HOBART TAS 7000,Townhouse,3,2,2,175m² ,14 Aug 2018
+"761,000","49/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,171m² ,15 Jun 2018
+"615,000","2/212 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,−,139m² ,12 Jun 2018
+"492,500 ","7/75 Warwick Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,119m² ,30 May 2018
+"771,000 ","14/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,229m² ,15 May 2018
+"835,000 ","114A Elizabeth Street,",HOBART TAS 7000,Apartment / Unit / Flat,4,2,−,180m² ,04 Apr 2018
+"598,000","3/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,119m² ,03 Apr 2018
+"696,000","5/1 Creswells Row,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,141m² ,26 Mar 2018
+"595,000","12/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,99m² ,13 Mar 2018
+"560,000 ","132 Brisbane Street,",HOBART TAS 7000,Townhouse,2,1,1,164m² ,22 Feb 2018
+"690,000 ","11/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,175m² ,21 Feb 2018
+"730,000","3/160 Elizabeth Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,121m² ,16 Feb 2018
+"570,000","2/65 Melville Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,−,157m² ,15 Feb 2018
+"807,500 ","7 Ragged Lane,",HOBART TAS 7000,Townhouse,3,2,2,209m² ,29 Dec 2017
+"1,050,000 ","231 Collins Street,",HOBART TAS 7000,Townhouse,3,3,2,180m² ,24 Dec 2017
+"455,000 ","3/182 Bathurst Street,",HOBART TAS 7000,Townhouse,1,1,−,187m² ,21 Dec 2017
+"725,000 ","5/191 Harrington Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,2,168m² ,09 Dec 2017
+"700,000","29/1 Collins Street,",HOBART TAS 7000,Block of units,3,2,1,171m² ,07 Dec 2017
+"760,000","19/1 Collins Street,",HOBART TAS 7000,Townhouse,3,3,1,267m² ,21 Nov 2017
+"601,000","32/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,110m² ,08 Nov 2017
+"625,000 ","13/1 Creswells Row,",HOBART TAS 7000,Townhouse,3,2,1,154m² ,08 Nov 2017
+"411,000 ","8/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,104m² ,16 Oct 2017
+"565,500","31/166 Bathurst Street,",HOBART TAS 7000,Block of units,2,1,2,110m² ,04 Oct 2017
+"492,000 ","7/92 Barrack Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,81m² ,02 Sep 2017
+"680,000 ","30/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,156m² ,02 Aug 2017
+"2,500,000","9/81 Macquarie Street,",HOBART TAS 7000,Apartment / Unit / Flat,6,4,4,709m² ,07 Jul 2017
+"550,000","23/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,115m² ,01 Jun 2017
+"562,000 ","6/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,181m² ,19 May 2017
+"590,000","30/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,171m² ,31 Mar 2017
+"520,000","1/85 Barrack Street,",HOBART TAS 7000,Townhouse,2,2,1,124m² ,26 Mar 2017
+"195,000 ","108/156 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,−,63m² ,12 Mar 2017
+"1,250,000 ","22/19 Hunter Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,−,129m² ,02 Mar 2017
+"580,000","Unit 13/38 Patrick St,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,1,316m² ,26 Feb 2017
+"340,000 ","12/92 Barrack Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,73m² ,04 Feb 2017
+"688,000 ","10/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,219m² ,30 Jan 2017
+"645,100","12/212 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,2,127m² ,18 Jan 2017
+"565,000","38/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,153m² ,15 Dec 2016
+"685,000 ","14 Terminus Row,",HOBART TAS 7000,Townhouse,3,2,4,196m² ,12 Dec 2016
+"1,100,000","68/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,389m² ,18 Oct 2016
+"485,000 ","6/57 Warwick Street,",HOBART TAS 7000,Townhouse,3,2,1,224m² ,26 Aug 2016
+"650,000","4/81 Macquarie Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,2,151m² ,26 Mar 2016
+"400,500","4/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,90m² ,16 Mar 2016
+"400,500 ","1/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,87m² ,16 Mar 2016
+"420,000","7/37-39 (Unit 41) Campbell Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,176m² ,24 Feb 2016
+"430,000","23/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,0,21 Jan 2016
+"470,000 ","Unit 10/12 Wilmot St,",HOBART TAS 7000,Townhouse,2,1,1,169m² ,12 Dec 2015
+"615,000","54/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,171m² ,30 Nov 2015
+"672,000","6/81 Macquarie Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,2,151m² ,23 Nov 2015
+"355,000","33/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,75m² ,18 Oct 2015
+"1,500,000 ",,HOBART TAS 7000,Apartment / Unit / Flat,5,3,3,145m² ,14 Oct 2015
+"530,000 ","79 Patrick Street,",HOBART TAS 7000,Townhouse,4,2,−,272m² ,8 Sep 2015
+"360,000 ","8/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,104m² ,17 Aug 2015
+"496,500 ","33 Goulburn Street,",HOBART TAS 7000,Townhouse,4,1,2,212m² ,23 Jul 2015
+"435,000 ","37/166 Bathurst Street,",HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,90m² ,17 Jul 2015
+"480,000","7/38 Patrick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,192m² ,01 Jul 2015
+"343,000","2/55 Patrick Street,",HOBART TAS 7000,Townhouse,2,1,−,95m² ,23 May 2015
+"396,000","37 Warwick Street,",HOBART TAS 7000,Townhouse,2,1,−,188m² ,22 Apr 2015
+"362,000","2/146 Harrington Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,1,−,113m² ,06 Apr 2015
+"300,000","402/1 Sandy Bay Road,",HOBART TAS 7000,Studio,1,1,−,70m² ,10 Mar 2015
+"462,000","27/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,161m² ,07 Mar 2015
+"631,000 ",,HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,160m² ,24 Dec 2014
+"395,000","15/75 Warwick Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,119m² ,06 Dec 2014
+"965,000","71/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,389m² ,04 Dec 2014
+"410,000","1/37-39 Campbell Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,161m² ,24 Nov 2014
+"430,000 ",,HOBART TAS 7000,Townhouse,3,2,1,205m² ,19 Nov 2014
+"515,000","16/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,239m² ,14 Nov 2014
+"515,000","44/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,171m² ,16 Oct 2014
+"600,000","17/15 Hunter Street,",HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,150m² ,12 Jul 2014
+"525,000","9/1 Collins Street,",HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,219m² ,17 Dec 2013
+"427,500 ","11/15 Greenlands Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,57m² ,23 Apr 2024
+"563,000 ","4/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,122m² ,12 Apr 2024
+"650,000 ","3/7a Sandown Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,75m² ,11 Apr 2024
+"985,000 ","8/11 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,108m² ,08 Apr 2024
+"900,000 ","24/15 Lansdowne Crescent,",WEST HOBART TAS 7000,Townhouse,3,2,2,232m² ,25 Mar 2024
+"580,000 ","1/5 Lynton Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,2,1,293m² ,08 Mar 2024
+"335,000 ","1/8 Woolton Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,59m² ,07 Mar 2024
+"720,000 ","1/12 Star Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,94m² ,06 Mar 2024
+"490,000 ","10/10 Waterworks Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,3,1,1,232m² ,04 Mar 2024
+"895,000 ","1/74 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,176m² ,02 Mar 2024
+"324,000 ","178A Waterworks Road,",DYNNYRNE TAS 7005,Vacant land,0,0,0,852m² ,27 Feb 2024
+"440,000 ","2/4 Capri Drive,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,57m² ,23 Feb 2024
+"620,000 ","3/312 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,1,1,321m² ,23 Feb 2024
+"850,000 ","46 Montpelier Retreat,",BATTERY POINT TAS 7004,Townhouse,2,1,1,170m² ,21 Feb 2024
+"684,000 ","6 South Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,−,111m² ,13 Feb 2024
+"960,000 ","1/13 Gardenia Grove,",SANDY BAY TAS 7005,Townhouse,3,2,2,527m² ,13 Feb 2024
+"820,000 ","10/8 Wynyard Street,",SOUTH HOBART TAS 7004,Townhouse,3,2,2,207m² ,03 Feb 2024
+"560,000 ","6/409 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,170m² ,02 Feb 2024
+"1,850,000","728A Sandy Bay Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,961m² ,09 Jan 2024
+"415,000 ","2/335 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,95m² ,09 Jan 2024
+"650,000 ","2/111 Patrick Street,",WEST HOBART TAS 7000,Townhouse,2,1,−,159m² ,08 Jan 2024
+"392,000 ","2/1 Mcaulay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,2,71m² ,18 Dec 2023
+"1,640,000 ","3/646 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,2,167m² ,14 Dec 2023
+"830,000 ","3/18 View Street,",SANDY BAY TAS 7005,Townhouse,3,1,2,253m² ,11 Dec 2023
+"890,000 ","4/46 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,166m² ,09 Dec 2023
+"810,000 ","65a Newdegate Street,",WEST HOBART TAS 7000,Townhouse,2,1,2,316m² ,23 Nov 2023
+"742,000 ","1/190 Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,3,3,2,354m² ,17 Nov 2023
+"1,845,000","4/20 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,112m² ,14 Nov 2023
+"381,000 ","14/43 Toorak Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,58m² ,14 Nov 2023
+"403,000","4/1 McAulay Rd,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,71m² ,14 Nov 2023
+"728,500","1/22 Garth Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,136m² ,13 Nov 2023
+"1,105,000 ","8/54 Nicholas Drive,",SANDY BAY TAS 7005,Townhouse,3,2,2,439m² ,13 Nov 2023
+"470,000 ","7/11 Livingston Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,87m² ,09 Nov 2023
+"875,000 ","10/57 Sandy Bay Road,",BATTERY POINT TAS 7004,Townhouse,2,2,2,190m² ,03 Nov 2023
+"935,000","2/6 Capri Drive,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,2,449m² ,03 Nov 2023
+"420,000 ","3/22A Lord Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,100m² ,01 Nov 2023
+"720,000 ","33B Broadwaters Parade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,422m² ,01 Nov 2023
+"555,555 ","2/51 Mount Stuart Road,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,119m² ,23 Oct 2023
+"495,000","11/7 View Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,62m² ,19 Oct 2023
+"1,250,000","2/36 Red Chapel Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,2,266m² ,17 Oct 2023
+"600,000 ","17/320 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,17 Oct 2023
+"440,000 ","4/29 Wentworth Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,118m² ,16 Oct 2023
+"812,000","2/12 Woodlyn Court,",SOUTH HOBART TAS 7004,Townhouse,3,3,2,285m² ,10 Oct 2023
+"580,000","1/11 Lynton Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,1,1,156m² ,09 Oct 2023
+"645,000 ","2/25C Red Chapel Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,89m² ,03 Oct 2023
+"727,500 ","8/290 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,108m² ,02 Oct 2023
+"980,000 ","3/9 Montgomery Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,2,284m² ,27 Sep 2023
+"667,500 ","4B Derwentwater Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,116m² ,27 Sep 2023
+"950,000 ","3/12 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,157m² ,26 Sep 2023
+"800,000 ","2/120a Strickland Avenue,",SOUTH HOBART TAS 7004,Townhouse,3,2,2,438m² ,19 Sep 2023
+"400,000 ","2/515a Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,2,138m² ,14 Sep 2023
+"660,000","10/38 Waterworks Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,2,166m² ,12 Sep 2023
+"840,000 ","206/431 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,119m² ,11 Sep 2023
+"415,000 ","2/31 Hillborough Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,88m² ,11 Sep 2023
+"920,000 ","3/10 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,177m² ,10 Sep 2023
+"850,000","9/337 Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,2,198m² ,08 Sep 2023
+"390,500 ","1/50 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,53m² ,05 Sep 2023
+"652,000","6/403 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,71m² ,30 Aug 2023
+"870,000","UNIT 2/13 CEDAR COURT,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,315m² ,
+"375,000 ","1/2 Alt-Na-Craig Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,99m² ,25 Aug 2023
+"630,000 ","10/1A Sayer Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,112m² ,22 Aug 2023
+"995,000 ","9/57 Sandy Bay Road,",BATTERY POINT TAS 7004,Townhouse,2,2,2,194m² ,19 Aug 2023
+"615,000","16/20 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,95m² ,17 Aug 2023
+"576,000 ","4/25 Richardson Avenue,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,2,1,120m² ,17 Aug 2023
+"800,000 ","2/337 Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,2,290m² ,11 Aug 2023
+"625,000 ","13/312 Davey Street,",SOUTH HOBART TAS 7004,Townhouse,3,2,1,271m² ,11 Aug 2023
+"715,000 ","1/14A Nelson Road,",SANDY BAY TAS 7005,Townhouse,2,1,1,285m² ,28 Jul 2023
+"515,000 ","1/205 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,28 Jul 2023
+"510,000 ","8/7 View Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,62m² ,27 Jul 2023
+"390,000 ","6 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,096m² ",26 Jul 2023
+"1,185,000","1/36 Red Chapel Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,343m² ,26 Jul 2023
+"510,000","9 Thelma Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,670m² ,26 Jul 2023
+"525,000","11 Thelma Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,759m² ,25 Jul 2023
+"671,000 ","G06/431 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,103m² ,22 Jul 2023
+"415,000 ","5/3A Montagu Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,−,65m² ,04 Jul 2023
+"1,450,000","3/5 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,277m² ,30 Jun 2023
+"600,000","10/32 Mortimer Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,177m² ,30 Jun 2023
+"500,000 ","3/7 Kendrick Court,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,2,88m² ,27 Jun 2023
+"795,000","2/14 Edith Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,452m² ,27 Jun 2023
+"1,205,000 ","2/16 Date Court,",SANDY BAY TAS 7005,Townhouse,3,2,2,253m² ,26 Jun 2023
+"595,000 ","3/620 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,125m² ,23 Jun 2023
+"521,000 ","6/313 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,91m² ,19 Jun 2023
+"1,400,000 ","75 Tasma Street,",NORTH HOBART TAS 7000,Block of units,6,2,4,339m² ,14 Jun 2023
+"710,000 ","19 Thelma Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,966m² ,05 Jun 2023
+"710,000 ","4/417 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,88m² ,25 May 2023
+"650,000 ","71 Jubilee Road,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"3,517m² ",25 May 2023
+"500,000 ","2/14 Kirby Court,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,97m² ,24 May 2023
+"830,000 ","2/26 Arthur Street,",WEST HOBART TAS 7000,Townhouse,2,2,1,150m² ,23 May 2023
+"515,000","1/19 Whelan Crescent,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,100m² ,22 May 2023
+"835,000 ","31 Letitia Street,",NORTH HOBART TAS 7000,Townhouse,3,2,1,177m² ,15 May 2023
+"1,260,000 ","59-63 Queen Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,5,3,3,858m² ,15 May 2023
+"700,000 ","3/48 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,82m² ,13 May 2023
+"755,000 ","2/482 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,125m² ,12 May 2023
+"420,000 ","3/3 Wentworth Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,−,205m² ,02 May 2023
+"675,000 ","1/3 Wentworth Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,1,1,280m² ,02 May 2023
+"630,000 ","2/11 View Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,3,367m² ,28 Apr 2023
+"850,000 ","3/26 Arthur Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,158m² ,26 Apr 2023
+"570,000 ","6/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,60m² ,24 Apr 2023
+"675,000 ","5/7 Derwentwater Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,238m² ,20 Apr 2023
+"950,000 ","2/31 Gardenia Grove,",SANDY BAY TAS 7005,Townhouse,3,2,2,424m² ,19 Apr 2023
+"490,000 ","2/11 Byron Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,−,75m² ,16 Apr 2023
+"525,000 ","2/10 Abermere Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,108m² ,14 Apr 2023
+"765,000","2/5 Flinders Lane,",SANDY BAY TAS 7005,Townhouse,2,1,2,78m² ,13 Apr 2023
+"815,000","4/1 Maning Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,133m² ,11 Apr 2023
+"760,000 ","3/1 Maning Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,146m² ,08 Apr 2023
+"501,000 ","1/320 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,80m² ,04 Apr 2023
+"235,000 ","40 Liverpool Crescent,",WEST HOBART TAS 7000,Vacant land,0,0,0,640m² ,04 Apr 2023
+"661,000","7/9 Montgomery Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,170m² ,02 Apr 2023
+"890,000 ","1/5 Fielding Drive,",WEST HOBART TAS 7000,Apartment / Unit / Flat,4,3,3,373m² ,23 Mar 2023
+"1,530,000","3/10 Bective Street,",SANDY BAY TAS 7005,Townhouse,4,3,2,422m² ,21 Mar 2023
+"1,909,000","1/20 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,2,210m² ,20 Mar 2023
+"950,000","6/351 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,159m² ,09 Mar 2023
+"426,000 ","1/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,58m² ,06 Mar 2023
+"495,000 ","8/11 Livingston Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,87m² ,01 Mar 2023
+"880,000 ","14 Quayle Street,",SANDY BAY TAS 7005,Townhouse,3,1,2,351m² ,2023
+"350,000 ","44 Liverpool Crescent,",WEST HOBART TAS 7000,Vacant land,0,0,0,556m² ,11 Feb 2023
+"346,000 ","178a Waterworks Road,",DYNNYRNE TAS 7005,Vacant land,0,0,0,852m² ,09 Feb 2023
+"550,000 ","4/5 Lynton Avenue,",SOUTH HOBART TAS 7004,Townhouse,2,1,1,160m² ,09 Feb 2023
+"730,000","368 Murray Street,",NORTH HOBART TAS 7000,Townhouse,3,1,2,145m² ,08 Feb 2023
+"1,620,000","2/852A Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,384m² ,07 Feb 2023
+"465,000 ","4/15 Greenlands Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,67m² ,02 Feb 2023
+"550,000 ","1 Thelma Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,721m² ,31 Jan 2023
+"900,000 ","9/74 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,172m² ,28 Jan 2023
+"820,000 ","8 Balmoral Street,",SANDY BAY TAS 7005,Townhouse,2,1,1,135m² ,27 Jan 2023
+"676,000","4/70 Queen Street,",SANDY BAY TAS 7005,Townhouse,2,1,1,288m² ,23 Jan 2023
+"596,000","3/70 Queen Street,",SANDY BAY TAS 7005,Townhouse,2,1,1,91m² ,23 Jan 2023
+"748,000","2/106 Letitia Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,412m² ,20 Jan 2023
+"599,999 ","13B McRobies Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,2,1,329m² ,23 Dec 2022
+"870,000 ","5/6 Stowell Avenue,",BATTERY POINT TAS 7004,Townhouse,2,1,2,280m² ,21 Dec 2022
+"600,000 ","2/5 Venn Court,",MOUNT STUART TAS 7000,Townhouse,3,1,2,476m² ,20 Dec 2022
+"645,000 ","2/13 Hooper Crescent,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,2,136m² ,16 Dec 2022
+"450,000 ","1/843 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,78m² ,13 Dec 2022
+"465,000 ","8/320 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,56m² ,12 Dec 2022
+"780,000","12/57 Sandy Bay Road,",BATTERY POINT TAS 7004,Townhouse,2,2,1,178m² ,08 Dec 2022
+"385,000 ","2a Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,767m² ,08 Dec 2022
+"395,000","2/32A Pillinger Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,1,1,1,86m² ,07 Dec 2022
+"975,000 ","5/51-53 Newdegate Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,354m² ,06 Dec 2022
+"650,000","3/25 Mortimer Avenue,",MOUNT STUART TAS 7000,Townhouse,2,1,1,205m² ,02 Dec 2022
+"815,000 ","3/12 Woodlyn Court,",SOUTH HOBART TAS 7004,Townhouse,3,3,3,361m² ,28 Nov 2022
+"477,500 ","1/220 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,66m² ,26 Nov 2022
+"1,225,000","2/63 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,4,2,2,289m² ,23 Nov 2022
+"460,000 ","8/6 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,52m² ,19 Nov 2022
+"502,000 ","2/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,64m² ,16 Nov 2022
+"458,000","3/29 Lord Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,16 Nov 2022
+"1,220,000 ","2/31 Fitzroy Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,395m² ,12 Nov 2022
+"700,000 ","5/5 Stowell Avenue,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,02 Nov 2022
+"1,200,000 ","1/82 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,2,200m² ,01 Nov 2022
+"440,000 ","112 Waterworks Road,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,500m² ",01 Nov 2022
+"438,000 ","4/1 McAulay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,71m² ,01 Nov 2022
+"628,000 ","2/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,124m² ,27 Oct 2022
+"735,500 ","2/9 Manresa Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,149m² ,17 Oct 2022
+"1,450,000","1/526 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,155m² ,14 Oct 2022
+"655,000","4/114 Goulburn Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,165m² ,09 Oct 2022
+"565,000 ","60 Summerhill Road,",WEST HOBART TAS 7000,Vacant land,0,0,0,822m² ,05 Oct 2022
+"635,000","3/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,82m² ,26 Sep 2022
+"810,000 ","18/1 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,79m² ,21 Sep 2022
+"632,000 ","4/613 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,134m² ,09 Sep 2022
+"950,000 ","2/9 Lincoln Street,",SANDY BAY TAS 7005,Townhouse,3,2,2,314m² ,05 Sep 2022
+"784,000 ","8/61a Grosvenor Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,1,100m² ,01 Sep 2022
+"600,000","527 Huon Road,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"1,615m² ",31 Aug 2022
+"550,000 ","4/23 Digney Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,100m² ,29 Aug 2022
+"860,000 ","1/36 Ryde Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,2,3,181m² ,26 Aug 2022
+"480,000 ","9/6 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,83m² ,23 Aug 2022
+"891,000","4/7A Chessington Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,195m² ,21 Aug 2022
+"570,000 ","8/7 Lynton Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,122m² ,09 Aug 2022
+"950,000 ","4/51-53 Newdegate Street,",WEST HOBART TAS 7000,Townhouse,3,2,3,288m² ,09 Aug 2022
+"720,000","9/40 Macfarlane Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,240m² ,06 Aug 2022
+"690,000 ","3/5 Stowell Avenue,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,58m² ,22 Jul 2022
+"570,000 ","3/4 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,77m² ,19 Jul 2022
+"570,000 ","3/4 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,77m² ,19 Jul 2022
+"400,000","4A Grayling Avenue,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,942m² ,14 Jul 2022
+"607,000 ","14/7 View Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,60m² ,06 Jul 2022
+"1,050,000 ","84 Salamanca Square,",BATTERY POINT TAS 7004,Townhouse,3,2,1,170m² ,01 Jul 2022
+"990,000 ","44 Nicholas Drive,",SANDY BAY TAS 7005,Vacant land,0,0,0,"1,639m² ",01 Jul 2022
+"530,000 ","Lot 1/37 Weld Street,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,458m² ,27 Jun 2022
+"460,000 ","2/16 King Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,− 0,1,1,54m² ,20 Jun 2022
+"749,000 ","3/14A Wentworth Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,1,2,293m² ,16 Jun 2022
+"1,260,000 ","3/479 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,2,242m² ,14 Jun 2022
+"518,000 ","1/2-4 Flinders Lane,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,113m² ,11 Jun 2022
+"550,000 ","2/33 Clift Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,98m² ,08 Jun 2022
+"565,000 ","5/7 Kendrick Court,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,88m² ,06 Jun 2022
+"500,000 ","8/51 Mount Stuart Road,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,119m² ,05 Jun 2022
+"1,300,000 ","2/6 Mansell Court,",SANDY BAY TAS 7005,Townhouse,2,2,1,291m² ,26 May 2022
+"1,050,000 ","6/26 Grosvenor Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,2,264m² ,19 May 2022
+"2,500,000 ","10/20 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,2,208m² ,09 May 2022
+"805,000","2/5-7 Edward Street,",GLEBE TAS 7000,Apartment / Unit / Flat,2,1,1,161m² ,08 May 2022
+"683,000 ","1/13 Cedar Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,136m² ,08 May 2022
+"611,000 ","Unit 1/52 Regent Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,04 May 2022
+"465,000 ","2/43 Regent Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,80m² ,04 May 2022
+"405,000","1/8 Allison Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,82m² ,19 Apr 2022
+"995,000 ","1/36 Fitzroy Place,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,4,2,1,463m² ,18 Apr 2022
+"683,000","2/16 Ascot Avenue,",SANDY BAY TAS 7005,Block of units,2,1,1,61m² ,14 Apr 2022
+"652,109","1/16 Ascot Avenue,",SANDY BAY TAS 7005,Block of units,2,1,1,90m² ,14 Apr 2022
+"1,412,000 ","10/80-82 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,3,2,257m² ,12 Apr 2022
+"820,000 ","4/245 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,112m² ,12 Apr 2022
+"750,000 ","5/2 Mansell Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,92m² ,11 Apr 2022
+"750,000 ","1/132 Forest Road,",WEST HOBART TAS 7000,Townhouse,2,1,1,232m² ,11 Apr 2022
+"635,000 ","12/312 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,2,1,253m² ,09 Apr 2022
+"1,300,000 ","21 De Witt Street,",BATTERY POINT TAS 7004,Townhouse,3,1,−,148m² ,07 Apr 2022
+"502,000 ","1/197 Strickland Avenue,",SOUTH HOBART TAS 7004,Townhouse,2,1,1,268m² ,07 Apr 2022
+"1,800,000 ","24 Fisher Avenue,",SANDY BAY TAS 7005,Block of units,4,2,4,602m² ,06 Apr 2022
+"610,000 ","1/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,122m² ,01 Apr 2022
+"400,000 ","2/120 Strickland Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,65m² ,29 Mar 2022
+"801,000","4/88 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,−,83m² ,21 Mar 2022
+"490,000 ","46/9 Davey Place,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,123m² ,18 Mar 2022
+"2,100,000","13 Beach Road,",SANDY BAY TAS 7005,Townhouse,2,2,2,285m² ,14 Mar 2022
+"660,000 ","2/8b Lambert Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,92m² ,13 Mar 2022
+"721,500 ","19/13 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,61m² ,07 Mar 2022
+"665,000 ","7 Strahan Street,",NORTH HOBART TAS 7000,Townhouse,1,1,1,117m² ,05 Mar 2022
+"800,000","3/51 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,136m² ,28 Feb 2022
+"1,200,000 ","3/24 Fitzroy Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,146m² ,28 Feb 2022
+"600,000 ","6/7 Kendrick Court,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,88m² ,24 Feb 2022
+"2,062,500 ","4/7 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,212m² ,21 Feb 2022
+"960,000","1/9 Montgomery Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,301m² ,10 Feb 2022
+"1,200,000 ","1/482 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,146m² ,09 Feb 2022
+"724,300 ","3/2 Overell Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,2,195m² ,08 Feb 2022
+"850,000 ","4/419 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,78m² ,04 Feb 2022
+"810,000 ","1/601 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,125m² ,31 Jan 2022
+"475,000 ","3/12A Lynton Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,31 Jan 2022
+"490,000 ","4/71 Elphinstone Road,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,68m² ,29 Jan 2022
+"950,000","1/28 Reynolds Court,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,3,2,1,340m² ,28 Jan 2022
+"604,000","1/8A Proctors Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,104m² ,25 Jan 2022
+"2,600,000 ","5/13 Beechworth Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,4,2,2,235m² ,24 Jan 2022
+"620,000 ","2/205a Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,109m² ,24 Jan 2022
+"638,207 ","2/125 Lansdowne Crescent,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,131m² ,22 Jan 2022
+"450,000","8 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,054m² ",20 Jan 2022
+"690,000 ","7/50 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,71m² ,20 Jan 2022
+"490,000 ","1/2 Auvergne Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,89m² ,07 Jan 2022
+"565,000 ","3/23 Digney Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,1,1,1,114m² ,22 Dec 2021
+"810,000","2/5 Balfour Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,406m² ,20 Dec 2021
+"670,000 ","4/351 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,92m² ,20 Dec 2021
+"630,000 ","2/4 Jersey Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,100m² ,15 Dec 2021
+"670,000 ","331 Churchill Avenue,",SANDY BAY TAS 7005,Vacant land,0,0,0,880m² ,15 Dec 2021
+"708,000 ","5/7 Derwentwater Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,238m² ,14 Dec 2021
+"695,000","1/51 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,112m² ,13 Dec 2021
+"670,000 ","2/35 Proctors Road,",DYNNYRNE TAS 7005,Townhouse,1,1,1,218m² ,13 Dec 2021
+"585,500","3/71 Elphinstone Road,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,134m² ,08 Dec 2021
+"795,000 ","2/37 Waimea Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,149m² ,07 Dec 2021
+"495,000 ","1/79 Strickland Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,2,120m² ,06 Dec 2021
+"550,000 ","63 Liverpool Crescent,",WEST HOBART TAS 7000,Vacant land,0,0,0,610m² ,03 Dec 2021
+"801,000 ","3/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,107m² ,28 Nov 2021
+"935,000 ","1/323 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,120m² ,15 Nov 2021
+"775,000","8/48 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,101m² ,10 Nov 2021
+"1,400,000","1/810 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,266m² ,08 Nov 2021
+"830,000 ","3/1 Fisher Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,124m² ,07 Nov 2021
+"3,250,000","100 Salamanca Place,",BATTERY POINT TAS 7004,Townhouse,2,2,−,190m² ,05 Nov 2021
+"595,500 ","56/8 Davey Place,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,109m² ,05 Nov 2021
+"560,000","4/2 Lauramont Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,119m² ,04 Nov 2021
+"1,350,000","8/15 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,1,179m² ,02 Nov 2021
+"620,000 ","2/14 Lochner Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,90m² ,02 Nov 2021
+"741,300","2/51 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,120m² ,30 Oct 2021
+"505,000 ","2/10 Abermere Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,98m² ,18 Oct 2021
+"410,000 ","3/24 Hamilton Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,60m² ,13 Oct 2021
+"788,000 ","3/409 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,83m² ,07 Oct 2021
+"628,000 ","1/20 Lynton Avenue,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,3,119m² ,04 Oct 2021
+"787,500 ","2/452 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,154m² ,29 Sep 2021
+"655,000 ","24 Aotea Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,"1,082m² ",28 Sep 2021
+"1,425,000","1/625 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,307m² ,25 Sep 2021
+"580,000 ","4/8 Proctors Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,80m² ,24 Sep 2021
+"700,000 ","2/13 Cedar Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,122m² ,17 Sep 2021
+"672,000 ","43 Hamilton Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,191m² ,16 Sep 2021
+"652,000 ","2/633 Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,2,2,357m² ,15 Sep 2021
+"930,000","1/26A Waimea Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,4,2,2,285m² ,13 Sep 2021
+"900,000 ","1/17 York Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,433m² ,10 Sep 2021
+"427,000 ","5/2 Ingram Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,113m² ,09 Sep 2021
+"1,900,000","7 Francis Street,",BATTERY POINT TAS 7004,Townhouse,3,2,−,291m² ,07 Sep 2021
+"530,000 ","2/323 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,305m² ,07 Sep 2021
+"1,218,000 ","1/7 Shepherd Street,",SANDY BAY TAS 7005,Townhouse,3,2,2,396m² ,03 Sep 2021
+"2,450,000 ","7-9 Hampden Road,",BATTERY POINT TAS 7004,Townhouse,4,2,−,347m² ,30 Aug 2021
+"485,000","7/43 Regent Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,75m² ,30 Aug 2021
+"791,000 ","7/409 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,83m² ,28 Aug 2021
+"451,000","11/51 Mount Stuart Road,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,119m² ,23 Aug 2021
+"1,100,000 ","79 Salamanca Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,1,169m² ,10 Aug 2021
+"545,000 ","5 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,258m² ",10 Aug 2021
+"680,000 ","1/1 Buchanan Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,3,347m² ,10 Aug 2021
+"900,000 ","6/52 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,82m² ,06 Aug 2021
+"630,000","2/13 Dalkeith Court,",SANDY BAY TAS 7005,Townhouse,4,2,1,295m² ,03 Aug 2021
+"700,000","9/8A Romilly Street,",SOUTH HOBART TAS 7004,Townhouse,3,2,2,360m² ,30 Jul 2021
+"930,000 ","2/1 Buchanan Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,4,2,2,456m² ,29 Jul 2021
+"775,000 ","85A Newdegate Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,207m² ,21 Jul 2021
+"908,000 ","459A Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,2,517m² ,17 Jul 2021
+"850,000 ","2/10 View Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,5,400m² ,13 Jul 2021
+"790,000 ","2/4a Colville Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,128m² ,10 Jul 2021
+"500,000 ","52 Federal Street,",NORTH HOBART TAS 7000,Vacant land,0,0,0,286m² ,22 Jun 2021
+"443,000 ","Lot 1/376 Huon Rd,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,337m² ,21 Jun 2021
+"995,000 ","11/4 Jersey Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,296m² ,18 Jun 2021
+"540,000","71 Liverpool Crescent,",WEST HOBART TAS 7000,Vacant land,0,0,0,749m² ,15 Jun 2021
+"540,000 ","71 Liverpool Crescent,",WEST HOBART TAS 7000,Vacant land,0,0,0,749m² ,15 Jun 2021
+"705,000","2/132 Forest Road,",WEST HOBART TAS 7000,Townhouse,2,1,2,407m² ,13 Jun 2021
+"1,008,000","14 Mary Street,",NORTH HOBART TAS 7000,Townhouse,2,1,1,126m² ,11 Jun 2021
+"910,000 ","1/55 Wellington Street,",NORTH HOBART TAS 7000,Townhouse,4,2,1,267m² ,10 Jun 2021
+"856,000 ","2/12 Woodlyn Court,",SOUTH HOBART TAS 7004,Townhouse,3,3,2,285m² ,06 Jun 2021
+"1,075,000 ","228 Bathurst Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,4,2,−,214m² ,03 Jun 2021
+"1,075,000 ","Apt 11/417 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,1,113m² ,01 Jun 2021
+"750,000 ","1/4 Sunvale Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,338m² ,01 Jun 2021
+"915,000","7/74 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,2,175m² ,20 May 2021
+"490,000 ","88 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,0,19 May 2021
+"885,000 ","5/38 Waterworks Road,",DYNNYRNE TAS 7005,Townhouse,3,2,2,293m² ,18 May 2021
+"386,000","2/12 Dalkeith Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,110m² ,14 May 2021
+"815,000 ","7/286-288 Argyle Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,182m² ,12 May 2021
+"687,000 ","3/4 Quayle Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,12 May 2021
+"541,000 ","9/15 Greenlands Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,67m² ,12 May 2021
+"1,100,000","16/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,216m² ,08 May 2021
+"631,000 ","12 Dalton Avenue,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,−,94m² ,07 May 2021
+"540,000 ","8/351 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,64m² ,04 May 2021
+"905,000 ","19/8 Wynyard Street,",SOUTH HOBART TAS 7004,Townhouse,3,2,2,209m² ,03 May 2021
+"895,000","18/8 Wynyard Street,",SOUTH HOBART TAS 7004,Townhouse,3,2,2,229m² ,29 Apr 2021
+"440,000 ","6/79 Strickland Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,120m² ,28 Apr 2021
+"695,000 ","4 South Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,−,98m² ,23 Apr 2021
+"820,000 ","2/32 Fielding Drive,",WEST HOBART TAS 7000,Townhouse,3,2,2,329m² ,23 Apr 2021
+"495,000 ","5A Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,450m² ",19 Apr 2021
+"711,000","1/613 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,128m² ,17 Apr 2021
+"1,350,000","2/479 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,228m² ,10 Apr 2021
+"650,000","1/12 Woodlyn Court,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,3,1,1,302m² ,08 Apr 2021
+"640,000 ","12/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,106m² ,06 Apr 2021
+"580,000","2/8A McRobies Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,200m² ,05 Apr 2021
+"610,000 ","11 Date Court,",SANDY BAY TAS 7005,Vacant land,0,0,0,958m² ,01 Apr 2021
+"520,000","1/54 Mawhera Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,30 Mar 2021
+"410,000 ","17 Stevens Farm Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,639m² ,30 Mar 2021
+"585,000 ","1/8A Mcrobies Road,",SOUTH HOBART TAS 7004,Townhouse,2,1,1,195m² ,29 Mar 2021
+"958,000 ","297 Murray Street,",NORTH HOBART TAS 7000,Townhouse,4,2,1,272m² ,28 Mar 2021
+"685,000","8/12 Star Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,108m² ,24 Mar 2021
+"960,000","28 Aotea Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,"3,500m² ",23 Mar 2021
+"685,000 ","443 Churchill Avenue,",SANDY BAY TAS 7005,Vacant land,0,0,0,652m² ,22 Mar 2021
+"441,000","6/15 Greenlands Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,57m² ,19 Mar 2021
+"475,000 ","2/31 Poets Road,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,103m² ,18 Mar 2021
+"380,000 ","6/91 Hill Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,50m² ,18 Mar 2021
+"457,000 ","2/127 Waterworks Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,2,300m² ,17 Mar 2021
+"935,000","3A Aberdeen Street,",GLEBE TAS 7000,Townhouse,3,1,−,281m² ,16 Mar 2021
+"726,000 ","6/4 Quayle Street,",SANDY BAY TAS 7005,Townhouse,2,1,1,81m² ,13 Mar 2021
+"1,055,000","1/324 Davey Street,",SOUTH HOBART TAS 7004,Townhouse,3,2,2,259m² ,13 Mar 2021
+"940,000","9/82 Sandy Bay Road,",BATTERY POINT TAS 7004,Townhouse,3,1,2,238m² ,11 Mar 2021
+"553,000 ","1/620 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,169m² ,11 Mar 2021
+"655,000 ","1/15 Cedar Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,115m² ,09 Mar 2021
+"640,000 ","1/47 Plaister Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,2,240m² ,04 Mar 2021
+"620,000 ","8/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,2,173m² ,03 Mar 2021
+"590,000 ","1/1a Sayer Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,106m² ,03 Mar 2021
+"640,000 ","2/28 Waterworks Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,320m² ,01 Mar 2021
+"515,000","2/620 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,108m² ,01 Mar 2021
+"595,000","4/12 Star Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,103m² ,23 Feb 2021
+"1,160,000 ","10 Bective Street,",SANDY BAY TAS 7005,Townhouse,3,3,2,260m² ,22 Feb 2021
+"520,000","11/5 Beach Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,63m² ,20 Feb 2021
+"520,000 ","11/5 Beach Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,63m² ,20 Feb 2021
+"1,300,000","3/46 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,204m² ,12 Feb 2021
+"390,000 ","1/22A Lord Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,−,50m² ,09 Feb 2021
+"640,000 ","2/18 Allambee Crescent,",GLEBE TAS 7000,Townhouse,3,2,1,289m² ,04 Feb 2021
+"1,015,000","411 Elizabeth Street,",NORTH HOBART TAS 7000,Block of units,3,3,4,347m² ,28 Jan 2021
+"750,000 ","3/4 Mansell Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,85m² ,28 Jan 2021
+"505,000 ","1/310 Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,2,1,1,387m² ,27 Jan 2021
+"441,000 ","6/7 View Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,62m² ,24 Jan 2021
+"882,000","1/116 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,206m² ,19 Jan 2021
+"480,000 ","2D Wayne Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,66m² ,16 Jan 2021
+"360,000","3/515a Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,138m² ,10 Jan 2021
+"670,000 ","201 Goulburn Street,",WEST HOBART TAS 7000,Townhouse,2,1,−,237m² ,07 Jan 2021
+"830,000 ","12-14A Newdegate Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,6,3,−,435m² ,04 Jan 2021
+"551,000 ","4B Derwentwater Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,112m² ,04 Jan 2021
+"450,000 ","16/320 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,77m² ,04 Jan 2021
+"475,000 ","7/1a Sayer Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,112m² ,23 Dec 2020
+"330,000","424 Strickland Avenue,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"3,983m² ",22 Dec 2020
+"290,000 ","6/7 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,− 0,1,1,52m² ,17 Dec 2020
+"620,000 ","72 Hill Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,350m² ,17 Dec 2020
+"625,000 ","Unit 32-482 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,61m² ,11 Dec 2020
+"832,000","4/11 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,176m² ,10 Dec 2020
+"567,000 ","3/5 Stowell Avenue,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,60m² ,04 Dec 2020
+"510,000 ","7/14 Ashfield Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,72m² ,04 Dec 2020
+"732,500 ","3/68-70 Lord Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,4,2,1,232m² ,30 Nov 2020
+"1,100,000 ","6/6 Stowell Avenue,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,1,191m² ,27 Nov 2020
+"2,125,000 ","668 Sandy Bay Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,"1,110m² ",24 Nov 2020
+"539,500 ","9/1A Sayer Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,113m² ,18 Nov 2020
+"345,000 ","11 Valley Street,",WEST HOBART TAS 7000,Vacant land,0,0,0,408m² ,15 Nov 2020
+"900,000","3 Mawhera Avenue,",SANDY BAY TAS 7005,Townhouse,2,1,2,164m² ,12 Nov 2020
+"490,000 ","15/320 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,04 Nov 2020
+"538,000 ","5/5 Davey Place,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,111m² ,02 Nov 2020
+"661,000","3/51 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,136m² ,31 Oct 2020
+"515,000 ","1/25c Red Chapel Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,89m² ,31 Oct 2020
+"806,000 ","2/2 Letitia Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,3,1,1,327m² ,30 Oct 2020
+"355,000 ","1/6 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,84m² ,29 Oct 2020
+"808,000 ","2/31 Nicholas Drive,",SANDY BAY TAS 7005,Townhouse,3,2,2,423m² ,28 Oct 2020
+"497,000 ","7/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,60m² ,24 Oct 2020
+"500,000 ","1/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,122m² ,22 Oct 2020
+"510,000 ","2/23a Maning Avenue,",SANDY BAY TAS 7005,Townhouse,2,1,1,98m² ,16 Oct 2020
+"520,000 ","18 Sunvale Avenue,",SANDY BAY TAS 7005,Vacant land,0,0,0,"2,615m² ",16 Oct 2020
+"1,500,000 ","12/7 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,1,162m² ,10 Oct 2020
+"780,000 ","3/9 Montgomery Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,2,284m² ,09 Oct 2020
+"375,000 ","2/2a Sayer Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,55m² ,06 Oct 2020
+"600,000 ","4/88 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,−,83m² ,05 Oct 2020
+"1,300,000 ","2/852A Sandy Bay Road,",SANDY BAY TAS 7005,Townhouse,3,2,2,383m² ,30 Sep 2020
+"370,000","1/843 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,78m² ,25 Sep 2020
+"482,500 ","8/66 Summerhill Road,",WEST HOBART TAS 7000,Vacant land,0,0,0,786m² ,18 Sep 2020
+"920,000 ","1/10 Bective Street,",SANDY BAY TAS 7005,Vacant land,3,2,1,260m² ,16 Sep 2020
+"460,000 ","Lot 6 66 Summerhill Road,",WEST HOBART TAS 7000,Vacant land,0,0,0,750m² ,15 Sep 2020
+"348,500","4/267 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,79m² ,07 Sep 2020
+"780,000 ","12/286-288 Argyle Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,185m² ,01 Sep 2020
+"485,000 ","2/36 Fitzroy Place,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,107m² ,27 Aug 2020
+"545,000 ","11 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,0,24 Aug 2020
+"775,000 ","3/13 Beechworth Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,113m² ,24 Aug 2020
+"480,000","6/7 Derwentwater Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,213m² ,19 Aug 2020
+"1,220,000","Unit 4, 5 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,1,262m² ,07 Aug 2020
+"610,000 ","1/430 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,3,1,1,239m² ,07 Aug 2020
+"570,000","6/347 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,106m² ,24 Jul 2020
+"712,000 ","3/51-53 York Street,",SANDY BAY TAS 7005,Townhouse,2,2,1,330m² ,23 Jul 2020
+"550,000","5/601 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,−,138m² ,20 Jul 2020
+"640,000 ","2/23 Digney Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,2,1,137m² ,16 Jul 2020
+"370,000","1/16 King Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,− 0,1,−,57m² ,10 Jul 2020
+"550,000","8/4 Jersey Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,100m² ,08 Jul 2020
+"440,000","7/5 Lynton Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,216m² ,05 Jul 2020
+"800,000 ","2a Letitia Street,",NORTH HOBART TAS 7000,Townhouse,2,1,1,340m² ,02 Jul 2020
+"1,120,000 ","4/10 Bective Street,",SANDY BAY TAS 7005,Vacant land,3,3,2,260m² ,02 Jul 2020
+"325,000 ","6/2 Alt-na-craig Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,99m² ,26 Jun 2020
+"335,000","5/4 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,83m² ,17 Jun 2020
+"450,000 ","604 Sandy Bay Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,447m² ,12 Jun 2020
+"965,000","11/82 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,2,218m² ,09 Jun 2020
+"405,000 ","2/7 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,77m² ,09 Jun 2020
+"387,000 ","6/137-139 King Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,66m² ,05 Jun 2020
+"1,075,000 ","3/479 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,2,249m² ,05 Jun 2020
+"450,000 ","43 Hamilton Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,191m² ,04 Jun 2020
+"300,000 ","6/3A Montagu Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,−,70m² ,03 Jun 2020
+"325,000","2 Hatchery Court,",WEST HOBART TAS 7000,Vacant land,0,0,0,"1,225m² ",03 Jun 2020
+"730,000","16/74 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,2,155m² ,20 May 2020
+"1,250,000","4/20 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,336m² ,13 May 2020
+"325,000 ","7/3a Montagu Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,61m² ,04 May 2020
+"1,030,000 ","96 Salamanca Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,1,244m² ,24 Apr 2020
+"295,000","6/43 Toorak Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,57m² ,24 Apr 2020
+"550,000 ","3/18 Chadwick Court,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,2,1,274m² ,24 Apr 2020
+"215,000","4A Grayling Avenue,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,942m² ,22 Apr 2020
+"1,080,000 ","2/38 Fitzroy Place,",DYNNYRNE TAS 7005,Townhouse,3,2,2,117m² ,20 Apr 2020
+"465,000","32/10 Waterworks Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,3,2,2,512m² ,15 Apr 2020
+"410,000 ","7/267 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,79m² ,24 Mar 2020
+"650,000","2/245 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,121m² ,19 Mar 2020
+"465,000 ","3/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,126m² ,18 Mar 2020
+"1,120,000 ","9/80-82 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,3,2,368m² ,16 Mar 2020
+"921,000 ","1/2A Auvergne Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,5,2,3,558m² ,14 Mar 2020
+"615,000 ","119 Brooker Avenue,",GLEBE TAS 7000,Townhouse,2,1,1,205m² ,10 Mar 2020
+"636,000 ","2/417 Liverpool Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,378m² ,09 Mar 2020
+"610,000","3/613 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,129m² ,06 Mar 2020
+"500,000 ","17/320/Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,79m² ,06 Mar 2020
+"1,120,000","10/80-82 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,3,2,257m² ,03 Mar 2020
+"726,500","3/17 Fitzroy Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,124m² ,24 Feb 2020
+"835,000 ","4/285 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,3,1,225m² ,18 Feb 2020
+"880,000","1/80-82 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,166m² ,15 Feb 2020
+"1,390,000 ","3/7 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,231m² ,14 Feb 2020
+"895,000 ","2/13 Nicholas Drive,",SANDY BAY TAS 7005,Townhouse,3,2,2,428m² ,12 Feb 2020
+"455,000 ","10/7 Derwentwater Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,282m² ,11 Feb 2020
+"1,161,000 ","6/31 Fitzroy Place,",SANDY BAY TAS 7005,Townhouse,3,2,2,238m² ,01 Feb 2020
+"480,000 ","2/24A Richardson Avenue,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,200m² ,28 Jan 2020
+"550,000 ","2/13 Hooper Crescent,",MOUNT STUART TAS 7000,Townhouse,2,1,2,136m² ,23 Jan 2020
+"626,000","2/85 York Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,1,174m² ,2020
+"310,000","13 Bimbadeen Court,",WEST HOBART TAS 7000,Vacant land,0,0,0,"7,715m² ",17 Jan 2020
+"620,000 ","16/51 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,91m² ,15 Jan 2020
+"385,000","3/495 Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,745m² ,15 Jan 2020
+"550,000","1/399a Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,265m² ,07 Jan 2020
+"750,000 ","1/285 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,182m² ,24 Dec 2019
+"565,000",,BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,16 Dec 2019
+"310,000 ","1/515A Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,107m² ,16 Dec 2019
+"885,000 ","6 Napoleon Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,−,123m² ,15 Dec 2019
+"742,000 ","1/455 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,112m² ,07 Dec 2019
+"920,000 ","2/214 Melville Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,2,3,419m² ,06 Dec 2019
+"675,000 ","4/7 Secheron Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,116m² ,27 Nov 2019
+"835,000","5/15 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,134m² ,27 Nov 2019
+"300,000 ","11 Valley Street,",WEST HOBART TAS 7000,Vacant land,0,0,0,408m² ,14 Nov 2019
+"360,000 ","7/91 Hill Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,61m² ,13 Nov 2019
+"685,000 ","1/1 Amanda Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,227m² ,09 Nov 2019
+"455,000 ","8/22 Summerhill Road,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,375m² ,08 Nov 2019
+"695,000","2/285 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,174m² ,31 Oct 2019
+"280,000","28/149 Brooker Avenue,",GLEBE TAS 7000,Apartment / Unit / Flat,1,1,1,92m² ,30 Oct 2019
+"760,000 ","6/25 Nile Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,100m² ,30 Oct 2019
+"570,000 ","396c Strickland Avenue,",SOUTH HOBART TAS 7004,Townhouse,2,1,2,520m² ,25 Oct 2019
+"632,000 ","2/13 Wayne Avenue,",SANDY BAY TAS 7005,Townhouse,2,1,1,130m² ,23 Oct 2019
+"420,000 ","18 Ascot Avenue,",SANDY BAY TAS 7005,Vacant land,0,0,0,842m² ,21 Oct 2019
+"325,000","4/43 Toorak Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,57m² ,19 Oct 2019
+"500,000 ","10 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"2,079m² ",18 Oct 2019
+"665,000 ","14/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,118m² ,15 Oct 2019
+"1,010,000 ","2&3/249 Sandy Bay Rd,",SANDY BAY TAS 7005,Apartment / Unit / Flat,4,2,5,396m² ,2019
+"440,000","31/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,61m² ,10 Oct 2019
+"490,000","1/3 McAulay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,127m² ,07 Oct 2019
+"685,000","7/74 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,2,175m² ,03 Oct 2019
+"356,000","3/335 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,95m² ,03 Oct 2019
+"515,000","5/1A Sayer Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,112m² ,02 Oct 2019
+"392,000 ","5/12a Lynton Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,01 Oct 2019
+"305,000","1/335 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,95m² ,20 Sep 2019
+"502,000 ","4/351 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,106m² ,18 Sep 2019
+"400,000 ","7 Rossendell Avenue,",WEST HOBART TAS 7000,Vacant land,0,0,0,540m² ,16 Sep 2019
+"545,000","1/4a Ben Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,151m² ,13 Sep 2019
+"712,000 ","282A Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,1,320m² ,02 Sep 2019
+"400,000","1/495 Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,4,1,1,363m² ,30 Aug 2019
+"395,000","2/8A Proctors Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,104m² ,23 Aug 2019
+"415,000","4/19 Whelan Crescent,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,77m² ,22 Aug 2019
+"315,000 ","19 Stevens Farm Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,764m² ,13 Aug 2019
+"441,500 ","4/46 Regent Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,211m² ,10 Aug 2019
+"370,000 ","10 McDevitt Avenue,",DYNNYRNE TAS 7005,Vacant land,0,0,0,788m² ,06 Aug 2019
+"310,000","3 Erindale Place,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"1,847m² ",05 Aug 2019
+"1,705,000 ","22/1 Castray Esplanade,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,163m² ,01 Aug 2019
+"596,000","1A Winscombe Crescent,",SANDY BAY TAS 7005,Townhouse,2,1,2,105m² ,24 Jul 2019
+"590,000 ","1/11 Solana Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,4,2,2,225m² ,19 Jul 2019
+"770,000 ","2/7 Shepherd Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,396m² ,19 Jul 2019
+"530,000","7/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,100m² ,15 Jul 2019
+"575,000","1/15 Cedar Court,",SANDY BAY TAS 7005,Townhouse,2,1,1,115m² ,13 Jul 2019
+"490,000 ","2/708 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,106m² ,11 Jul 2019
+"525,500 ","5/620 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,110m² ,08 Jul 2019
+"426,500","10/4 Jersey Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,100m² ,08 Jul 2019
+"445,000 ","2/32 Bath Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,106m² ,05 Jul 2019
+"425,000 ","4/843 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,83m² ,05 Jul 2019
+"520,000","1/78 Wentworth Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,4,1,1,279m² ,05 Jul 2019
+"676,900","14 Kooyong Glen,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"4,350m² ",02 Jul 2019
+"500,000 ","3/2-12 Federal Street,",NORTH HOBART TAS 7000,Townhouse,3,1,1,204m² ,01 Jul 2019
+"840,000 ","2/807 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,4,567m² ,26 Jun 2019
+"445,000 ","1/279 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,132m² ,25 Jun 2019
+"525,000 ","4/50 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,94m² ,19 Jun 2019
+"885,000 ","5/646 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,2,167m² ,18 Jun 2019
+"485,000 ","27/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,61m² ,15 Jun 2019
+"390,000 ","3/125 Lansdowne Crescent,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,210m² ,11 Jun 2019
+"325,000 ","11/320a Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,56m² ,09 Jun 2019
+"320,000 ","7/6 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,83m² ,07 Jun 2019
+"550,000","5/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,103m² ,05 Jun 2019
+"1,475,000","1/23 Albuera Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,2,457m² ,31 May 2019
+"1,950,000","1/10 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,2,273m² ,31 May 2019
+"2,395,000","2/696 Sandy Bay Road,",SANDY BAY TAS 7005,Townhouse,4,3,4,847m² ,30 May 2019
+"330,000 ","2/335 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,776m² ,24 May 2019
+"360,000 ","1/386 Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,89m² ,23 May 2019
+"330,000 ","11 Hutchinson Place,",WEST HOBART TAS 7000,Vacant land,0,0,0,749m² ,23 May 2019
+"726,000 ","15 Rose Court,",SANDY BAY TAS 7005,Vacant land,0,0,0,618m² ,14 May 2019
+"830,000 ","2/906 Sandy Bay Road,",SANDY BAY TAS 7005,Townhouse,3,2,2,429m² ,12 May 2019
+"515,000 ","2/38A MacFarlane Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,232m² ,11 May 2019
+"350,000","21 Thelma Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,"1,795m² ",11 May 2019
+"655,000 ","1/32 Mortimer Avenue,",MOUNT STUART TAS 7000,Townhouse,3,2,2,303m² ,02 May 2019
+"360,000 ","4/32A Pillinger Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,86m² ,01 May 2019
+"370,000","2/323 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,305m² ,26 Apr 2019
+"390,000","4/12a Lynton Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,26 Apr 2019
+"440,000","2/54 Wellington Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,215m² ,16 Apr 2019
+"335,000 ","2/3a Montagu Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,65m² ,15 Apr 2019
+"607,500 ","2/12 Woodlyn Court,",SOUTH HOBART TAS 7004,Townhouse,3,3,2,285m² ,13 Apr 2019
+"387,000 ","2/3 Watkins Avenue,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,71m² ,10 Apr 2019
+"468,000 ","24 Aotea Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,"1,082m² ",08 Apr 2019
+"385,000 ","100 Liverpool Crescent,",WEST HOBART TAS 7000,Vacant land,0,0,0,"2,518m² ",08 Apr 2019
+"415,000","2 Hurle St,",DYNNYRNE TAS 7005,Vacant land,0,0,0,574m² ,04 Apr 2019
+"345,000 ","1/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,68m² ,04 Apr 2019
+"280,000 ","10/43 Toorak Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,56m² ,26 Mar 2019
+"441,000 ","3/14 Lauramont Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,92m² ,25 Mar 2019
+"500,000 ","6/11 Byron Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,107m² ,24 Mar 2019
+"590,000 ","2/59 York Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,163m² ,21 Mar 2019
+"725,000 ","5/14 Lochner Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,182m² ,21 Mar 2019
+"460,000 ","1/26 Davey Place,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,2,304m² ,20 Mar 2019
+"525,000 ","2/279 Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,2,1,2,165m² ,17 Mar 2019
+"332,000 ","9 Stevens Farm Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,816m² ,15 Mar 2019
+"575,000 ","4/601 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,106m² ,14 Mar 2019
+"610,000 ","1/25 Nile Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,115m² ,12 Mar 2019
+"600,000 ","4/17 Fitzroy Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,−,114m² ,12 Mar 2019
+"605,000 ","2/11 Sunvale Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,3,660m² ,12 Mar 2019
+"482,500 ","1/5 Beach Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,114m² ,12 Mar 2019
+"585,000","4/18 Hooper Crescent,",MOUNT STUART TAS 7000,Townhouse,3,2,2,316m² ,10 Mar 2019
+"578,000 ","1/13 Quamby Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,559m² ,07 Mar 2019
+"400,000 ","4/59 York Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,−,248m² ,06 Mar 2019
+"357,500","2/50 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,69m² ,03 Mar 2019
+"320,000","3 Erindale Place,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"1,847m² ",02 Mar 2019
+"415,000 ","3/8B Lambert Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,92m² ,27 Feb 2019
+"316,100 ","7/137 King Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,66m² ,26 Feb 2019
+"630,000 ","2/13 Quamby Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,559m² ,25 Feb 2019
+"328,000 ","8/137 King Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,66m² ,25 Feb 2019
+"525,000 ","2A Proctors Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,2,2,330m² ,13 Feb 2019
+"1,154,444 ","1/6 Mansell Court,",SANDY BAY TAS 7005,Townhouse,2,2,2,243m² ,04 Feb 2019
+"370,000 ","2/2-4 Flinders Lane,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,104m² ,01 Feb 2019
+"520,000 ","4/30 Bath Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,96m² ,30 Jan 2019
+"410,000 ","5/22-24 Cromwell Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,68m² ,29 Jan 2019
+"915,000","Unit 4, 15 Gladstone Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,255m² ,29 Jan 2019
+"380,000 ","9/32A Pillinger Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,86m² ,27 Jan 2019
+"410,660 ","2/40 Macfarlane Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,145m² ,25 Jan 2019
+"420,100 ","1/111 Hill Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,104m² ,23 Jan 2019
+"770,000 ","18B View Street,",SANDY BAY TAS 7005,Townhouse,3,1,2,166m² ,22 Jan 2019
+"426,000 ","10/39 Regent Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,78m² ,22 Jan 2019
+"795,000","1/4 Colville Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,160m² ,21 Jan 2019
+"350,000 ","9 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,084m² ",10 Jan 2019
+"1,050,000 ","114a Sandy Bay Road,",SANDY BAY TAS 7005,Townhouse,2,2,2,253m² ,10 Jan 2019
+"398,000 ","5/32a Pillinger Street,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,2,1,1,107m² ,24 Dec 2018
+"2,230,000","1/20 Ellerslie Road,",BATTERY POINT TAS 7004,Townhouse,3,3,2,446m² ,19 Dec 2018
+"425,000 ","2/4 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,77m² ,14 Dec 2018
+"640,000 ","6/35 Hamilton Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,2,2,280m² ,14 Dec 2018
+"360,000 ","5A Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,450m² ",08 Dec 2018
+"425,000 ","6/29 Lord Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,109m² ,07 Dec 2018
+"490,000 ","30/11 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,56m² ,28 Nov 2018
+"400,000","1/1 Dalkeith Court,",SANDY BAY TAS 7005,Townhouse,3,2,1,124m² ,28 Nov 2018
+"435,000","3/74 Hillborough Rd,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,172m² ,27 Nov 2018
+"540,000 ","5/86 Upper Fitzroy Crescent,",SOUTH HOBART TAS 7004,Townhouse,1,1,1,171m² ,26 Nov 2018
+"650,000","6 Regent Street,",SANDY BAY TAS 7005,Townhouse,4,1,3,351m² ,22 Nov 2018
+"408,000 ","7 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,605m² ",19 Nov 2018
+"550,000","3/601 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,126m² ,17 Nov 2018
+"335,000","4/52-54 Queen Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,52m² ,16 Nov 2018
+"415,800 ","37/3A Davey Place,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,2,119m² ,08 Nov 2018
+"746,500 ","2/26 Carr Street,",NORTH HOBART TAS 7000,Townhouse,3,1,−,218m² ,03 Nov 2018
+"307,000","Unit 3, 18 Maning Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,55m² ,03 Nov 2018
+"2,140,000","2/435 Sandy Bay Road,",SANDY BAY TAS 7005,Penthouse,3,3,2,"1,074m² ",03 Nov 2018
+"610,000 ","6/1-5 Pauldon Drive,",SANDY BAY TAS 7005,Townhouse,2,2,1,395m² ,31 Oct 2018
+"650,000 ","17/51 Sandy Bay Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,100m² ,29 Oct 2018
+"980,000 ","2/16 Date Court,",SANDY BAY TAS 7005,Townhouse,3,2,2,240m² ,24 Oct 2018
+"395,000 ","Lot 27 Stevens Farm Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,"2,347m² ",23 Oct 2018
+"305,000 ","9/2 ALT-NA-CRAIG AVENUE,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,99m² ,22 Oct 2018
+"543,000 ","2/1-5 Pauldon Drive,",SANDY BAY TAS 7005,Townhouse,2,2,1,404m² ,21 Oct 2018
+"607,000 ","3/12 Woodlyn Court,",SOUTH HOBART TAS 7004,Townhouse,3,3,3,361m² ,18 Oct 2018
+"310,000 ","326 Strickland Avenue,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"2,470m² ",18 Oct 2018
+"500,000","1/104 Cascade Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,173m² ,13 Oct 2018
+"552,000 ","2/1 Fisher Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,145m² ,06 Oct 2018
+"377,000 ","2/32 Cato Avenue,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,168m² ,04 Oct 2018
+"535,000 ","2/132 Forest Road,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,1,2,407m² ,02 Oct 2018
+"335,000","3/278 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,74m² ,01 Oct 2018
+"2,050,000 ","14 Goodhart Place,",SANDY BAY TAS 7005,Block of units,13,6,6,670m² ,24 Sep 2018
+"350,000 ","13 McDevitt Avenue,",DYNNYRNE TAS 7005,Vacant land,0,0,0,890m² ,21 Sep 2018
+"400,000","1/22 Benjafield Terrace,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,335m² ,21 Sep 2018
+"710,000 ","1/285 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,2,1,182m² ,20 Sep 2018
+"495,000 ","3/37 Regent Street,",SANDY BAY TAS 7005,Townhouse,2,1,1,124m² ,14 Sep 2018
+"484,000 ","1-7 MONTGOMERY COURT,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,101m² ,11 Sep 2018
+"500,000 ","6/86 Upper Fitzroy Crescent,",SOUTH HOBART TAS 7004,Townhouse,1,1,1,252m² ,10 Sep 2018
+"1,201,050 ","27 & 29 Lefroy Street,",NORTH HOBART TAS 7000,Vacant land,0,0,0,569m² ,08 Sep 2018
+"495,000 ","7/563 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,74m² ,04 Sep 2018
+"440,000 ","2/19 Whelan Crescent,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,101m² ,04 Sep 2018
+"443,000","4/21 Newdegate Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,77m² ,29 Aug 2018
+"636,000","2/102 Cascade Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,2,285m² ,27 Aug 2018
+"493,000 ","3/22 Regent Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,98m² ,23 Aug 2018
+"780,000 ","4/7A Chessington Court,",SANDY BAY TAS 7005,Townhouse,3,2,1,202m² ,19 Aug 2018
+"285,000","4/91 Hill Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,61m² ,19 Aug 2018
+"342,500","5/18 Maning Ave,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,66m² ,17 Aug 2018
+"692,500 ","1/7 Braeside Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,396m² ,07 Aug 2018
+"691,500 ","2/220 Melville Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,212m² ,07 Aug 2018
+"306,000","7/20 Pine Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,65m² ,01 Aug 2018
+"340,000","6/20 Pine Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,79m² ,01 Aug 2018
+"446,000 ","2/7 Montgomery Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,25 Jul 2018
+"696,000","2/3 Broadwaters Parade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,255m² ,23 Jul 2018
+"1,150,000","3/31 Fitzroy Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,391m² ,20 Jul 2018
+"465,000 ","1/19 Whelan Crescent,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,100m² ,16 Jul 2018
+"463,000 ","1/132 Forest Road,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,232m² ,09 Jul 2018
+"820,000","2/457A Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,4,2,2,"1,274m² ",05 Jul 2018
+"285,000 ","1/4 Una Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,83m² ,27 Jun 2018
+"440,000 ","8/286 Macquarie Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,84m² ,23 Jun 2018
+"412,000 ","2/39 Regent Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,78m² ,20 Jun 2018
+"695,000","324 Davey St,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,622m² ,20 Jun 2018
+"415,000","4/313 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,74m² ,10 Jun 2018
+"1,600,000 ","14 - 20 Lewis Street,",NORTH HOBART TAS 7000,Block of units,8,4,4,862m² ,08 Jun 2018
+"480,000 ","5/22 Runnymede Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,64m² ,05 Jun 2018
+"402,000 ","6/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,60m² ,03 Jun 2018
+"543,600 ","13/13 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,57m² ,01 Jun 2018
+"283,000 ","3/54 Duke Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,62m² ,01 Jun 2018
+"407,500","1/43 Beddome Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,398m² ,19 May 2018
+"373,000 ","3/32 Cato Avenue,",WEST HOBART TAS 7000,Townhouse,2,1,1,168m² ,12 May 2018
+"306,000","6/46B Fitzroy Place,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,1,1,1,57m² ,10 May 2018
+"775,000 ","3a Aberdeen Street,",GLEBE TAS 7000,Townhouse,3,1,−,281m² ,07 May 2018
+"595,000 ","3/1 Fisher Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,124m² ,03 May 2018
+"1,471,000 ","4 Binney Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,4,1,7,"1,214m² ",03 May 2018
+"551,000","16/403 Sandy Bay Road,",SANDY BAY TAS 7005,Block of units,2,1,1,73m² ,28 Apr 2018
+"1,980,000 ","34 Marieville Esplanade,",SANDY BAY TAS 7005,Block of units,8,4,3,491m² ,27 Apr 2018
+"640,000 ","7/7 Secheron Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,101m² ,24 Apr 2018
+"950,000","23 Quayle Street,",SANDY BAY TAS 7005,Development site,3,1,2,"1,163m² ",24 Apr 2018
+"742,500 ","3/9 Lincoln Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,253m² ,21 Apr 2018
+"406,000 ","1/3 Watkins Avenue,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,77m² ,21 Apr 2018
+"520,000 ","2/9 Allambee Crescent,",GLEBE TAS 7000,Townhouse,2,1,1,187m² ,19 Apr 2018
+"445,000 ","1/674 Sandy Bay Road,",SANDY BAY TAS 7005,Townhouse,2,1,1,96m² ,19 Apr 2018
+"1,215,000 ","1/8 Stephanie Close,",SANDY BAY TAS 7005,Townhouse,3,2,2,457m² ,18 Apr 2018
+"700,000","1/544 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,133m² ,13 Apr 2018
+"555,000","1/35 Wentworth Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,2,297m² ,12 Apr 2018
+"965,000","4/54 Quayle Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,329m² ,11 Apr 2018
+"438,000","3/2 Woolton Place,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,195m² ,07 Apr 2018
+"680,000 ","12/351 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,159m² ,05 Apr 2018
+"367,000","3/79 Strickland Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,120m² ,04 Apr 2018
+"2,250,000 ","3/35 Kelly Street,",BATTERY POINT TAS 7004,Townhouse,2,1,1,161m² ,28 Mar 2018
+"496,000","3/26 Valley Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,2,330m² ,22 Mar 2018
+"428,000 ","2/285 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,185m² ,16 Mar 2018
+"522,000 ","3/37 Waimea Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,153m² ,15 Mar 2018
+"625,000 ","5/4a Colville Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,98m² ,07 Mar 2018
+"1,500,000","3/1 Castray Esplanade,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,184m² ,07 Mar 2018
+"525,000","1/25A Elphinstone Road,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,2,342m² ,03 Mar 2018
+"437,500 ","3/104 King Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,95m² ,27 Feb 2018
+"637,000","2 Bective Street,",SANDY BAY TAS 7005,Townhouse,3,2,2,154m² ,26 Feb 2018
+"800,000","Unit 1/11 Beechworth Rd,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,169m² ,20 Feb 2018
+"361,000 ","3/843 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,75m² ,13 Feb 2018
+"390,000 ","2/249 Bathurst Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,54m² ,10 Feb 2018
+"396,000 ","7/7 View Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,62m² ,30 Jan 2018
+"492,000 ","3/442 Elizabeth Street,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,70m² ,29 Jan 2018
+"422,500","3/25 Mortimer Avenue,",MOUNT STUART TAS 7000,Townhouse,2,1,1,205m² ,23 Jan 2018
+"740,000 ","2/5 Hickson Place,",WEST HOBART TAS 7000,Townhouse,4,3,2,463m² ,18 Jan 2018
+"390,000 ","3/11 Trumpeter Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,1,1,1,67m² ,13 Jan 2018
+"325,000 ","29 Zomay Avenue,",DYNNYRNE TAS 7005,Vacant land,0,0,0,605m² ,10 Jan 2018
+"420,000","2/24 Gordon Avenue,",MOUNT STUART TAS 7000,Townhouse,2,1,6,281m² ,03 Jan 2018
+"420,000","8/563 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,70m² ,22 Dec 2017
+"525,000","Unit 8/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,118m² ,18 Dec 2017
+"408,500","11/1A Sayer Crescent,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,119m² ,14 Dec 2017
+"946,800 ","11/82 Sandy Bay Road,",BATTERY POINT TAS 7004,Townhouse,3,2,2,217m² ,08 Dec 2017
+"1,001,001","1/40 Fielding Drive,",WEST HOBART TAS 7000,Townhouse,3,2,2,464m² ,04 Dec 2017
+"403,000","4/64-66 Waterworks Road,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,3,1,1,110m² ,25 Nov 2017
+"509,000","3/17 Margaret Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,92m² ,25 Nov 2017
+"360,000","2/12 Dalkeith Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,110m² ,23 Nov 2017
+"435,000 ","2/32 Mortimer Avenue,",MOUNT STUART TAS 7000,Townhouse,2,1,3,227m² ,20 Nov 2017
+"650,000 ","2/12 Ellerslie Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,2,2,156m² ,18 Nov 2017
+"315,000","9 Stevens Farm Drive,",WEST HOBART TAS 7000,Vacant land,0,0,0,816m² ,17 Nov 2017
+"685,000","2/476 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,2,357m² ,13 Nov 2017
+"480,000 ","14/312 Davey Street,",SOUTH HOBART TAS 7004,Townhouse,3,2,1,413m² ,10 Nov 2017
+"351,000","Unit 7/11 Beechworth Rd,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,65m² ,08 Nov 2017
+"450,000","7/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,−,123m² ,06 Nov 2017
+"590,000 ","9 Star Street,",SANDY BAY TAS 7005,Vacant land,0,0,0,686m² ,03 Nov 2017
+"660,000 ","26 Shepherd Street,",SANDY BAY TAS 7005,Vacant land,2,1,−,845m² ,01 Nov 2017
+"460,000 ","3/188 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,93m² ,27 Oct 2017
+"535,600 ","4/2 Excell Lane,",SOUTH HOBART TAS 7004,Townhouse,3,2,2,272m² ,25 Oct 2017
+"653,500","4/46 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,166m² ,24 Oct 2017
+"345,000","3/36 Fitzroy Place,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,1,1,1,69m² ,23 Oct 2017
+"350,000 ","7/15 Greenlands Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,57m² ,23 Oct 2017
+"880,000 ","7/82 Sandy Bay Road,",BATTERY POINT TAS 7004,Townhouse,3,1,2,200m² ,21 Oct 2017
+"265,000","6/43 Toorak Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,−,57m² ,18 Oct 2017
+"700,000","14/1 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,72m² ,13 Oct 2017
+"315,000","5/386 Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,89m² ,12 Oct 2017
+"515,000","20 Aotea Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,"1,002m² ",08 Oct 2017
+"480,000 ","3/312 Davey Street,",SOUTH HOBART TAS 7004,Townhouse,3,1,1,321m² ,29 Sep 2017
+"257,000 ","3/16 Senator Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,130m² ,22 Sep 2017
+"342,000 ","1/197 Strickland Avenue,",SOUTH HOBART TAS 7004,Townhouse,2,1,1,268m² ,16 Sep 2017
+"537,500 ","2/222 Bathurst Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,1,−,160m² ,16 Sep 2017
+"398,500","2/1 Chessington Court,",SANDY BAY TAS 7005,Block of units,2,1,1,85m² ,09 Sep 2017
+"570,000","3/109 King Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,313m² ,06 Sep 2017
+"351,000","9/5 Beach Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,84m² ,05 Sep 2017
+"530,000","6/98 Arthur Street,",WEST HOBART TAS 7000,Townhouse,2,1,1,256m² ,05 Sep 2017
+"290,000 ","5 Woodlyn Court,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,"1,064m² ",31 Aug 2017
+"420,000","38/3a Davey Place,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,135m² ,30 Aug 2017
+"352,000 ","3/14 Lauramont Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,92m² ,27 Aug 2017
+"962,000 ","2-2A Albuera Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,7,2,−,481m² ,25 Aug 2017
+"580,000","4/55a Newdegate Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,1,2,351m² ,25 Aug 2017
+"600,000 ","2/55A Newdegate Street,",WEST HOBART TAS 7000,Townhouse,2,1,2,369m² ,24 Aug 2017
+"650,000 ","1/111 Warwick Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,2,−,380m² ,22 Aug 2017
+"1,425,000 ","3/80-82 Hampden Road,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,3,2,344m² ,19 Aug 2017
+"1,600,000 ","16 St Georges Terrace,",BATTERY POINT TAS 7004,Block of units,7,5,5,570m² ,18 Aug 2017
+"262,000 ","1/2 Alt-na-craig Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,1,1,1,99m² ,13 Aug 2017
+"770,000","3/32 Bath Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,2,2,179m² ,11 Aug 2017
+"712,000 ","30A Nicholas Drive,",SANDY BAY TAS 7005,Vacant land,0,0,0,"1,342m² ",10 Aug 2017
+"286,750","3/18 Maning Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,55m² ,09 Aug 2017
+"600,000 ","30 Marlborough Street,",SANDY BAY TAS 7005,Vacant land,0,0,0,820m² ,03 Aug 2017
+"352,000","Unit 1/9 Mctavish Ave,",NORTH HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,67m² ,2017
+"280,000 ","13/3A Montagu Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,61m² ,29 Jul 2017
+"342,000 ","3/2 Lauramont Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,134m² ,28 Jul 2017
+"403,000","6/320a Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,77m² ,20 Jul 2017
+"430,000","Unit 4/2-12 Federal St,",NORTH HOBART TAS 7000,Townhouse,3,2,3,228m² ,17 Jul 2017
+"570,000 ","1/1 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,−,72m² ,15 Jul 2017
+"445,000 ","1/273 Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,2,2,1,133m² ,14 Jul 2017
+"460,000 ","Lot 23 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,0,12 Jul 2017
+"466,000","4/54 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,86m² ,12 Jul 2017
+"537,500","6/4 Quayle Street,",SANDY BAY TAS 7005,Townhouse,2,1,1,81m² ,10 Jul 2017
+"590,000 ","3/13 Wayne Avenue,",SANDY BAY TAS 7005,Townhouse,2,1,1,130m² ,07 Jul 2017
+"220,000","2/495 Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,442m² ,06 Jul 2017
+"275,000 ","4 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,102m² ",04 Jul 2017
+"700,000 ","1/24 Edith Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,1,440m² ,28 Jun 2017
+"680,000 ","2/7 Wayne Avenue,",SANDY BAY TAS 7005,Townhouse,3,1,2,311m² ,25 Jun 2017
+"580,000","441 Churchill Avenue,",SANDY BAY TAS 7005,Vacant land,0,0,0,676m² ,22 Jun 2017
+"400,000 ","15/320 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,76m² ,20 Jun 2017
+"275,000 ","8 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,054m² ",19 Jun 2017
+"490,000","2/4 Jersey Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,100m² ,14 Jun 2017
+"455,050 ","5/620 Sandy Bay Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,2,110m² ,14 Jun 2017
+"285,000 ","1/40 Fitzroy Place,",DYNNYRNE TAS 7005,Apartment / Unit / Flat,1,1,1,52m² ,09 Jun 2017
+"990,000 ","2/36 Red Chapel Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,2,266m² ,07 Jun 2017
+"351,000 ","5/313 Davey Street,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,73m² ,03 Jun 2017
+"593,000 ","5/35 Clift Street,",MOUNT STUART TAS 7000,Townhouse,3,2,2,707m² ,29 May 2017
+"452,000","1/40 Valley Street,",WEST HOBART TAS 7000,Apartment / Unit / Flat,3,1,1,361m² ,24 May 2017
+"371,000 ","1/54 Mawhera Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,19 May 2017
+"492,000 ","12/38 Waterworks Road,",DYNNYRNE TAS 7005,Townhouse,2,1,2,230m² ,18 May 2017
+"516,000 ","2/277 Churchill Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,2,332m² ,18 May 2017
+"820,000 ","2/17 Rose Court,",SANDY BAY TAS 7005,Townhouse,3,2,3,399m² ,16 May 2017
+"260,000 ","Lot 3 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,095m² ",11 May 2017
+"265,000 ","10/3A Montagu Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,61m² ,11 May 2017
+"550,000","6/9 Clarke Avenue,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,71m² ,06 May 2017
+"535,000 ","2/13 Strahan Street,",NORTH HOBART TAS 7000,Townhouse,2,1,2,209m² ,05 May 2017
+"335,000 ","18 Church Street,",NORTH HOBART TAS 7000,Vacant land,0,0,0,426m² ,02 May 2017
+"530,000 ","24/13 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,57m² ,28 Apr 2017
+"248,000","Unit 6/91 Hill St,",WEST HOBART TAS 7000,Apartment / Unit / Flat,1,1,1,61m² ,21 Apr 2017
+"674,000 ","101 Gillon Crescent,",MOUNT STUART TAS 7000,Townhouse,3,2,3,524m² ,20 Apr 2017
+"295,000 ","5 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,258m² ",13 Apr 2017
+"345,000","391 Macquarie Street,",SOUTH HOBART TAS 7004,Townhouse,1,1,1,74m² ,13 Apr 2017
+"502,000","3/175 Melville Street,",WEST HOBART TAS 7000,Townhouse,2,1,1,165m² ,12 Apr 2017
+"301,024 ","1/3a Montagu Street,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,−,64m² ,10 Apr 2017
+"335,000 ","2/287 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,124m² ,10 Apr 2017
+"581,000 ","8/5 Stowell Avenue,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,89m² ,07 Apr 2017
+"770,000 ","2/7A Shepherd Street,",SANDY BAY TAS 7005,Townhouse,4,3,2,299m² ,07 Apr 2017
+"503,000","2/452 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,−,154m² ,06 Apr 2017
+"1,400,000 ","2/7 Nicholas Drive,",SANDY BAY TAS 7005,Vacant land,0,0,0,401m² ,30 Mar 2017
+"311,500 ","1/386 Huon Road,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,2,1,1,89m² ,29 Mar 2017
+"940,000","728a Sandy Bay Road,",SANDY BAY TAS 7005,Vacant land,0,0,0,961m² ,28 Mar 2017
+"285,000 ","Lot 10 Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,084m² ",27 Mar 2017
+"455,000 ","1/5 Lynton Avenue,",SOUTH HOBART TAS 7004,Townhouse,3,2,1,370m² ,25 Mar 2017
+"563,000","2/16 Fehre Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,376m² ,23 Mar 2017
+"493,000","2/16 Chessington Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,−,581m² ,18 Mar 2017
+"308,000","Unit 4/32 Cato Ave,",WEST HOBART TAS 7000,Apartment / Unit / Flat,2,1,1,171m² ,15 Mar 2017
+"265,000 ","Lot 12A Montrivale Rise,",DYNNYRNE TAS 7005,Vacant land,0,0,0,"1,190m² ",14 Mar 2017
+"675,000 ","6/5 Balfour Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,2,460m² ,11 Mar 2017
+"570,000","2/21a Princes Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,2,1,330m² ,06 Mar 2017
+"260,000 ","4/197 Strickland Avenue,",SOUTH HOBART TAS 7004,Apartment / Unit / Flat,1,1,1,292m² ,06 Mar 2017
+"338,000","1/205 Churchill Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,05 Mar 2017
+"326,000","12/5 Beach Road,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,62m² ,04 Mar 2017
+"640,000","1/31 Gardenia Grove,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,2,4,331m² ,01 Mar 2017
+"525,000 ","10/301 Murray Street,",NORTH HOBART TAS 7000,Townhouse,3,2,2,273m² ,24 Feb 2017
+"430,000 ","3/288 Davey Street,",SOUTH HOBART TAS 7004,Townhouse,1,1,2,199m² ,24 Feb 2017
+"368,000","19/19 Queen Street,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,77m² ,23 Feb 2017
+"765,000 ","4/29 Red Chapel Avenue,",SANDY BAY TAS 7005,Townhouse,3,2,3,525m² ,20 Feb 2017
+"316,100 ","5/51 Mount Stuart Road,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,1,119m² ,12 Feb 2017
+"830,000 ","14 Stephanie Close,",SANDY BAY TAS 7005,Vacant land,0,0,0,"1,040m² ",10 Feb 2017
+"132,500 ","43 Louden Street,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,740m² ,05 Feb 2017
+"516,000","3/32 Bath Street,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,3,1,2,226m² ,04 Feb 2017
+"263,000","5/2 Alt-Na-Craig Avenue,",MOUNT STUART TAS 7000,Apartment / Unit / Flat,2,1,2,106m² ,04 Feb 2017
+"390,000 ","2/8b Lambert Avenue,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,92m² ,04 Feb 2017
+"360,000","21/64 St Georges Terrace,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,107m² ,03 Feb 2017
+"395,000 ","2/7 Montgomery Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,2,1,1,81m² ,03 Feb 2017
+"385,000 ","4/2-4 Flinders Lane,",SANDY BAY TAS 7005,Apartment / Unit / Flat,1,1,1,155m² ,02 Feb 2017
+"550,000 ","1/8 Melrose Court,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,128m² ,01 Feb 2017
+"145,000 ","9A Louden Street,",SOUTH HOBART TAS 7004,Vacant land,0,0,0,809m² ,31 Jan 2017
+"712,500","1/7 Stephanie Close,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,3,3,344m² ,29 Jan 2017
+"800,000 ","1/17 Rose Court,",SANDY BAY TAS 7005,Townhouse,3,2,3,300m² ,28 Jan 2017
+"490,000","10/50 Marieville Esplanade,",SANDY BAY TAS 7005,Apartment / Unit / Flat,3,1,1,79m² ,23 Jan 2017
+"430,000 ","6/15 Battery Square,",BATTERY POINT TAS 7004,Apartment / Unit / Flat,2,1,1,56m² ,21 Jan 2017

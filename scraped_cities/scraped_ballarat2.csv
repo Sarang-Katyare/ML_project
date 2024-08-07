@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"350,000 ","5 Cloud Close,",REDAN VIC 3350,Townhouse,2,1,1,236m² ,22 Apr 2024
+"460,000 ","1/7 Valley View Court,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,3,2,1,327m² ,2024
+"230,000 ","2 Valdes Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,388m² ,19 Apr 2024
+"375,000 ","2/4 Gordon Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,2,1,1,299m² ,18 Apr 2024
+"430,000 ","1/38 Josephine Way,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,435m² ,18 Apr 2024
+"465,000 ","1/211 Kline Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,3,2,2,509m² ,17 Apr 2024
+"575,000 ","1/114 Burnbank Street,",LAKE WENDOUREE VIC 3350,Townhouse,2,1,1,221m² ,15 Apr 2024
+"318,000 ","3/1112 Howitt Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,205m² ,12 Apr 2024
+"230,000 ","10 Observation Court,",BROWN HILL VIC 3350,Vacant land,0,0,0,698m² ,10 Apr 2024
+"245,000 ","2 Cassowary Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,503m² ,09 Apr 2024
+"275,000 ","20 Casey Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,04 Apr 2024
+"320,000 ","Lot 30 Grevillea Drive,",ENFIELD VIC 3352,Vacant land,− 0,− 0,4,"9,761m² ",02 Apr 2024
+"242,000 ","61 Cormorant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,02 Apr 2024
+"535,000 ","2/216 Grant Street,",GOLDEN POINT VIC 3350,Apartment / Unit / Flat,4,2,1,262m² ,28 Mar 2024
+"385,000 ","9/240 Lal Lal Street,",CANADIAN VIC 3350,Townhouse,3,2,2,369m² ,27 Mar 2024
+"380,000 ","Drews Paddock/Lot 222 Wedge Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,642m² ,26 Mar 2024
+"372,000 ","Drews Paddock/Lot 223 Wedge Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,560m² ,26 Mar 2024
+"370,000 ","2/10 Wood Street,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,2,1,1,158m² ,22 Mar 2024
+"472,500 ","6 Bluegrass Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,"3,818m² ",21 Mar 2024
+"475,000 ","3 Zelkova Place,",LAKE GARDENS VIC 3355,Townhouse,3,2,1,243m² ,19 Mar 2024
+"234,000 ","1 McNamee Boulevard,",LUCAS VIC 3350,Vacant land,0,0,0,342m² ,19 Mar 2024
+"125,000 ","41 Battery Road,",DEREEL VIC 3352,Vacant land,0,0,0,"3,600m² ",18 Mar 2024
+"310,000 ","53 Fawcett Road,",LUCAS VIC 3350,Vacant land,0,0,0,578m² ,15 Mar 2024
+"330,000 ","3/1 Canterbury Street,",BROWN HILL VIC 3350,Apartment / Unit / Flat,2,1,1,334m² ,14 Mar 2024
+"280,000 ","21 Martland Street,",LUCAS VIC 3350,Vacant land,0,0,0,480m² ,14 Mar 2024
+"340,000 ","4 Sneddon Way,",LUCAS VIC 3350,Vacant land,0,0,0,665m² ,14 Mar 2024
+"220,500 ","3/75 Cuthberts Road,",ALFREDTON VIC 3350,Apartment / Unit / Flat,1,1,1,209m² ,12 Mar 2024
+"330,000 ","9/45 Otway Street South,",BALLARAT EAST VIC 3350,Townhouse,2,1,2,237m² ,12 Mar 2024
+"575,000 ","1-3/54 Montgomery Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,3,3,3,670m² ,10 Mar 2024
+"370,000 ","6/9 Horwood Drive,",CANADIAN VIC 3350,Townhouse,2,1,1,203m² ,08 Mar 2024
+"285,000 ","12 Hubbard Street,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,08 Mar 2024
+"280,000 ","35 Martland Street,",LUCAS VIC 3350,Vacant land,0,0,0,480m² ,06 Mar 2024
+"337,000 ","Lot 216/64 Mary Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,713m² ,05 Mar 2024
+"259,000 ","5B/5 Sanders Road,",CRESWICK NORTH VIC 3363,Vacant land,0,0,0,0,05 Mar 2024
+"225,000 ","Lot 5 Swanson Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,05 Mar 2024
+"455,000","110 Sharrocks Road,",MOUNT EGERTON VIC 3352,Vacant land,0,0,0,0,04 Mar 2024
+"240,000 ","52 Cormorant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,392m² ,04 Mar 2024
+"177,000 ","Lot 4 Burke Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,583m² ,01 Mar 2024
+"315,000 ","16 Blythen Road,",LUCAS VIC 3350,Vacant land,0,0,0,544m² ,29 Feb 2024
+"257,000 ","8 Yolanda Street,",BONSHAW VIC 3352,Vacant land,0,0,0,480m² ,27 Feb 2024
+"280,000 ","5 Carbery Way,",LUCAS VIC 3350,Vacant land,0,0,0,490m² ,26 Feb 2024
+"270,000 ","18 Dakshina Court,",DELACOMBE VIC 3356,Vacant land,0,0,0,568m² ,23 Feb 2024
+"345,000 ","4/430 Main Road,",GOLDEN POINT VIC 3350,Townhouse,2,1,1,108m² ,23 Feb 2024
+"385,000 ","117B Lonsdale Street,",REDAN VIC 3350,Townhouse,2,1,1,222m² ,21 Feb 2024
+"247,500 ","42 Glendenning Street,",CANADIAN VIC 3350,Vacant land,0,0,0,404m² ,20 Feb 2024
+"719,000 ","2/506 Wendouree Parade,",LAKE WENDOUREE VIC 3350,Townhouse,3,1,2,257m² ,20 Feb 2024
+"319,000 ","23 Quirk Road,",LUCAS VIC 3350,Vacant land,0,0,0,640m² ,20 Feb 2024
+"305,000 ","5/118 Grant Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,188m² ,19 Feb 2024
+"320,000 ","2/9d Nijams Road,",MAGPIE VIC 3352,Vacant land,0,0,0,0,15 Feb 2024
+"375,000 ","Drews Paddock/Lot 208 Divot Court,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,564m² ,14 Feb 2024
+"220,000 ","7 Browns Road,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,759m² ,12 Feb 2024
+"375,000","90 Miners Hut Road,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,0,09 Feb 2024
+"240,000 ","74 Bliss Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,07 Feb 2024
+"206,000 ","Lot 10/200 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,301m² ,06 Feb 2024
+"345,000 ","16/809 Wilson Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,830m² ,05 Feb 2024
+"250,000 ","1/29 Carpenter Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,124m² ,02 Feb 2024
+"300,000 ","6/418 Joseph Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,2,1,1,168m² ,01 Feb 2024
+"322,500","2 June Court,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,829m² ,31 Jan 2024
+"365,000 ","122 Little Dodds Street,",GOLDEN POINT VIC 3350,Townhouse,2,1,1,241m² ,31 Jan 2024
+"350,000 ","2/1 Adela Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,252m² ,29 Jan 2024
+"245,500 ","3/217 Ripon Street South,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,1,1,1,58m² ,24 Jan 2024
+"389,000 ","310B Joseph Street,",CANADIAN VIC 3350,Townhouse,2,1,1,415m² ,24 Jan 2024
+"410,000 ","Drews Paddock/Lot 227 Wellard Boulevard,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,608m² ,24 Jan 2024
+"175,000 ","Lot 8 Scarsdale-Pitfield Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,"1,647m² ",24 Jan 2024
+"320,000 ","2/118 Albert Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,2,145m² ,23 Jan 2024
+"380,000 ","1/26 Stawell Street South,",EUREKA VIC 3350,Apartment / Unit / Flat,3,1,1,258m² ,22 Jan 2024
+"385,000 ","Drews Paddock/Lot 220 Wedge Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,608m² ,18 Jan 2024
+"315,000","16 Tristan Drive,",SEBASTOPOL VIC 3356,Townhouse,2,1,1,186m² ,18 Jan 2024
+"220,000 ","6 Revelstoke Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,486m² ,18 Jan 2024
+"290,000 ","Lot 3 25 McIntoshs Lane,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,15 Jan 2024
+"460,000 ","7 Gala Close,",BROWN HILL VIC 3350,Vacant land,0,0,0,"2,213m² ",12 Jan 2024
+"360,000 ","4/1112 Howitt Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,2,194m² ,11 Jan 2024
+"375,000 ","8 Russell Street,",BUNINYONG VIC 3357,Vacant land,0,0,0,800m² ,10 Jan 2024
+"495,000 ","Drews Paddock/Lot 217 Wellard Boulevard,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,807m² ,10 Jan 2024
+"215,000","2/1110 Howitt Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,1,1,1,113m² ,10 Jan 2024
+"300,000 ","32 Illana Street,",BROWN HILL VIC 3350,Vacant land,0,0,0,915m² ,09 Jan 2024
+"220,000 ","2/11 Vale Street,",ALFREDTON VIC 3350,Apartment / Unit / Flat,1,1,1,81m² ,08 Jan 2024
+"305,000 ","9 June Court,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,696m² ,08 Jan 2024
+"310,000 ","Lot 225/70 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,512m² ,02 Jan 2024
+"785,000 ","126 Canterbury Street,",BROWN HILL VIC 3350,Vacant land,0,0,0,"2,401m² ",02 Jan 2024
+"250,000 ","520 Conroy's Green,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,29 Dec 2023
+"285,000 ","7 Lugano Avenue,",ALFREDTON VIC 3350,Vacant land,0,0,0,516m² ,22 Dec 2023
+"340,000 ","6 June Court,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,731m² ,22 Dec 2023
+"325,000 ","6 Hutchinson Drive,",LUCAS VIC 3350,Vacant land,0,0,0,629m² ,22 Dec 2023
+"192,500 ","Lot 2 Burke Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,627m² ,22 Dec 2023
+"285,000 ","4/1005 SOUTH STREET,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,2,1,1,146m² ,21 Dec 2023
+"225,000 ","24 Withers Road,",BONSHAW VIC 3352,Vacant land,0,0,0,316m² ,21 Dec 2023
+"410,000 ","Drews Paddock/Lot 227 Wellard Boulevard,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,608m² ,21 Dec 2023
+"156,500 ","Lot 3 Burke Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,472m² ,21 Dec 2023
+"170,000 ","1A Phillip Street,",CRESWICK VIC 3363,Vacant land,0,0,0,605m² ,20 Dec 2023
+"260,000 ","34 Rance Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,501m² ,20 Dec 2023
+"975,000 ","Lot 6 Monteville Court,",WARRENHEIP VIC 3352,Vacant land,0,0,0,0,20 Dec 2023
+"490,000 ","Moonlight Road,",ILLABAROOK VIC 3351,Vacant land,0,0,0,0,19 Dec 2023
+"300,000 ","Lot 24/194 Ballarat Carngham Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,533m² ,17 Dec 2023
+"400,000 ","910a Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,"4,219m² ",15 Dec 2023
+"620,000 ","23 Rodier Street,",EUREKA VIC 3350,Vacant land,0,0,0,"5,460m² ",15 Dec 2023
+"483,000 ","1/177a Howe Street,",MINERS REST VIC 3352,Townhouse,3,2,2,322m² ,13 Dec 2023
+"227,500 ","1/424 Forest Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,227m² ,2023
+"375,000 ","27 Foreshore Road,",LEARMONTH VIC 3352,Vacant land,0,0,0,"1,261m² ",11 Dec 2023
+"755,000 ","1B/18 Wendouree Parade,",LAKE WENDOUREE VIC 3350,Apartment / Unit / Flat,2,2,2,99m² ,05 Dec 2023
+"975,000 ","Lot 5a Ted Lyons Road,",NAVIGATORS VIC 3352,Vacant land,0,0,0,0,04 Dec 2023
+"300,000 ","24/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,684m² ,01 Dec 2023
+"440,000 ","4/511 York Street,",BALLARAT EAST VIC 3350,Townhouse,3,2,2,422m² ,01 Dec 2023
+"310,000 ","2/36 Albion Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,3,1,1,288m² ,01 Dec 2023
+"600,000 ","2/522 Mair Street,",BALLARAT CENTRAL VIC 3350,Townhouse,3,1,1,204m² ,30 Nov 2023
+"350,000 ","25 Carbery Way,",LUCAS VIC 3350,Vacant land,0,0,0,598m² ,30 Nov 2023
+"350,000 ","8 Yarra Gum Place,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,697m² ,30 Nov 2023
+"420,000 ","Lot 2 Doodts Road,",NERRINA VIC 3350,Vacant land,0,0,0,0,29 Nov 2023
+"190,000 ","11E Greenwoods Lane,",NEWTOWN VIC 3351,Vacant land,0,0,0,0,29 Nov 2023
+"305,000","10 Home Valley Chase,",BROWN HILL VIC 3350,Vacant land,0,0,0,958m² ,28 Nov 2023
+"500,000 ","20 Steinfeld Street South,",GOLDEN POINT VIC 3350,Apartment / Unit / Flat,2,2,1,255m² ,27 Nov 2023
+"295,000 ","4/4 Hopkins Court,",SEBASTOPOL VIC 3356,Townhouse,2,1,1,154m² ,27 Nov 2023
+"360,000 ","3 Cluden Gardens,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,312m² ,2023
+"365,000 ","54 Mary Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,639m² ,24 Nov 2023
+"395,000 ","99C Wongerer Lane,",HADDON VIC 3351,Vacant land,0,0,0,0,24 Nov 2023
+"225,000 ","Lot 22 Stones Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,23 Nov 2023
+"355,000 ","Lot 27, 15 Cope Street,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,22 Nov 2023
+"177,000 ","18 Cypress Avenue,",WENDOUREE VIC 3355,Vacant land,0,0,0,639m² ,22 Nov 2023
+"252,000 ","ALTO/Lot 139 Vivid Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,287m² ,22 Nov 2023
+"310,000 ","1/46 Spencer Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,289m² ,21 Nov 2023
+"175,000 ","Lot 1 Burke Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,549m² ,21 Nov 2023
+"410,000 ","6A Hazel Road,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,2,1,312m² ,19 Nov 2023
+"325,000 ","3/403 Rubicon Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,170m² ,17 Nov 2023
+"260,000 ","Lot 311/10 Pelican Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,504m² ,17 Nov 2023
+"264,000 ","26 Adrianus Street,",ALFREDTON VIC 3350,Vacant land,0,0,0,480m² ,16 Nov 2023
+"325,000 ","2/136 Moola Street,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,2,1,1,250m² ,16 Nov 2023
+"350,000 ","6/1 Canterbury Street,",BROWN HILL VIC 3350,Apartment / Unit / Flat,2,1,1,304m² ,16 Nov 2023
+"420,000 ","5/903 Geelong Road,",CANADIAN VIC 3350,Townhouse,3,2,2,236m² ,16 Nov 2023
+"318,000 ","9 Snowgum Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,15 Nov 2023
+"220,000 ","6/3 Verdon Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,1,1,1,141m² ,13 Nov 2023
+"390,000 ","4/910 Lydiard Street North,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,2,1,1,157m² ,10 Nov 2023
+"347,000 ","2/1326 Geelong Road,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,2,1,1,229m² ,10 Nov 2023
+"250,000 ","195 Coates Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,"9,659m² ",10 Nov 2023
+"239,000 ","2/29 Carpenter Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,1,1,1,70m² ,08 Nov 2023
+"380,000 ","1/8-10 Midlands Drive,",BALLARAT NORTH VIC 3350,Townhouse,2,1,2,347m² ,06 Nov 2023
+"369,000 ","8/240 Lal Lal Street,",CANADIAN VIC 3350,Townhouse,2,1,1,304m² ,06 Nov 2023
+"365,000 ","9/1131 Eyre Street,",NEWINGTON VIC 3350,Townhouse,2,1,1,153m² ,06 Nov 2023
+"2,300,000 ","Lot 1-17/116 Daylesford Road,",BROWN HILL VIC 3350,Vacant land,0,0,0,"5,089m² ",03 Nov 2023
+"2,300,000 ","Lot 1-17/116 Daylesford Road,",BROWN HILL VIC 3350,Vacant land,0,0,0,"5,089m² ",03 Nov 2023
+"410,000 ","1/610B Talbot Street South,",REDAN VIC 3350,Townhouse,3,2,2,373m² ,03 Nov 2023
+"370,000 ","2/261 Albert Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,3,1,1,203m² ,02 Nov 2023
+"365,000 ","Lot 4 Foreshore Road,",LEARMONTH VIC 3352,Vacant land,0,0,0,"1,502m² ",31 Oct 2023
+"338,000 ","7 Hale Avenue,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,645m² ,31 Oct 2023
+"350,000 ","13 Florence Court,",BROWN HILL VIC 3350,Townhouse,2,1,1,360m² ,30 Oct 2023
+"450,000 ","Lot 3, 147 Sandys Hill Road,",DURHAM LEAD VIC 3352,Vacant land,0,0,0,0,30 Oct 2023
+"380,000 ","13 Carbery Way,",LUCAS VIC 3350,Vacant land,0,0,0,817m² ,25 Oct 2023
+"250,000 ","1 Carbery Way,",LUCAS VIC 3350,Vacant land,0,0,0,455m² ,25 Oct 2023
+"345,000 ","2/238 Humffray Street North,",BROWN HILL VIC 3350,Apartment / Unit / Flat,2,1,1,302m² ,24 Oct 2023
+"270,000 ","21 Orourke Street,",LUCAS VIC 3350,Vacant land,0,0,0,480m² ,24 Oct 2023
+"216,000 ","11 Beartooth Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,416m² ,24 Oct 2023
+"380,000 ","319A Elsworth Street West,",MOUNT PLEASANT VIC 3350,Townhouse,2,1,1,324m² ,23 Oct 2023
+"272,000","76 Wedge Tail Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,547m² ,20 Oct 2023
+"585,000 ","14 Centenary Street,",CARDIGAN VIC 3352,Vacant land,0,0,0,"1,998m² ",18 Oct 2023
+"400,000 ","1/312 Joseph Street,",CANADIAN VIC 3350,Townhouse,3,2,1,272m² ,17 Oct 2023
+"400,000 ","Lot 4 Ross Creek Haddon Road,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,0,17 Oct 2023
+"273,000 ","3/7 Leopold Street,",ALFREDTON VIC 3350,Apartment / Unit / Flat,1,1,1,59m² ,16 Oct 2023
+"470,000 ","803 Cosmopolitan Place,",BALLARAT CENTRAL VIC 3350,Townhouse,2,1,1,159m² ,13 Oct 2023
+"255,000 ","53 Spoonbill Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,425m² ,11 Oct 2023
+"450,000 ","207 Coalmine Road,",LAL LAL VIC 3352,Vacant land,0,0,0,0,10 Oct 2023
+"350,000 ","5 Polkinghorne View,",LUCAS VIC 3350,Vacant land,0,0,0,742m² ,06 Oct 2023
+"315,000 ","33 Quirk Road,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,06 Oct 2023
+"450,000 ","199 Bald Hills Road,",CRESWICK VIC 3363,Vacant land,0,0,0,0,02 Oct 2023
+"175,000 ","8 Cypress Avenue,",WENDOUREE VIC 3355,Vacant land,0,0,0,639m² ,29 Sep 2023
+"610,000 ","8 Centenary Street,",CARDIGAN VIC 3352,Vacant land,0,0,0,"1,999m² ",28 Sep 2023
+"460,000 ","Lot 1 Kiewa Street,",NERRINA VIC 3350,Vacant land,0,0,0,0,28 Sep 2023
+"307,000 ","PROSPER ESTATE/43-55 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,641m² ,28 Sep 2023
+"307,000 ","PROSPER ESTATE/43-55 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,646m² ,28 Sep 2023
+"307,000 ","PROSPER ESTATE/43-55 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,641m² ,28 Sep 2023
+"302,000 ","PROSPER ESTATE/43-55 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,607m² ,28 Sep 2023
+"470,000 ","8/912 Geelong Road,",CANADIAN VIC 3350,Townhouse,3,2,1,525m² ,27 Sep 2023
+"175,000 ","40 Fraser Street,",MOUNT PLEASANT VIC 3350,Vacant land,0,0,0,325m² ,27 Sep 2023
+"175,000 ","3 Richardson Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,328m² ,25 Sep 2023
+"310,000 ","16 Holst Way,",LUCAS VIC 3350,Vacant land,0,0,0,496m² ,25 Sep 2023
+"250,000 ","44 Cormorant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,392m² ,25 Sep 2023
+"590,000 ","1-4/13 Almurta Street,",ALFREDTON VIC 3350,Block of units,4,3,8,833m² ,21 Sep 2023
+"325,000","47 Shortridge Drive,",LUCAS VIC 3350,Vacant land,0,0,0,637m² ,21 Sep 2023
+"335,219 ","2 Penhall Way,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,794m² ,20 Sep 2023
+"330,000 ","8/41 Kent Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,121m² ,20 Sep 2023
+"495,000 ","Lot 118/102 Aspect Parade,",ALFREDTON VIC 3350,Vacant land,0,0,0,530m² ,19 Sep 2023
+"495,000 ","Lot 118/102 Aspect Parade,",ALFREDTON VIC 3350,Vacant land,0,0,0,530m² ,19 Sep 2023
+"440,000 ","1/234A Humffray Street,",BROWN HILL VIC 3350,Townhouse,3,2,2,240m² ,19 Sep 2023
+"430,000 ","24 Furness Drive,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,141m² ",19 Sep 2023
+"522,000 ","6 Holmsgarth Court,",BROWN HILL VIC 3350,Vacant land,0,0,0,0,15 Sep 2023
+"320,000 ","2/824 CHISHOLM STREET,",BLACK HILL VIC 3350,Apartment / Unit / Flat,3,1,1,"1,010m² ",14 Sep 2023
+"280,000 ","10 Jurify Drive,",MINERS REST VIC 3352,Vacant land,0,0,0,599m² ,12 Sep 2023
+"360,000","3B King George Way,",MITCHELL PARK VIC 3355,Townhouse,2,1,1,208m² ,11 Sep 2023
+"400,000 ","2/219 York Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,2,2,1,248m² ,06 Sep 2023
+"560,000 ","211 Heinzs Road,",CAMBRIAN HILL VIC 3352,Vacant land,0,0,0,0,06 Sep 2023
+"230,000 ","12-20 Rowlers Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,06 Sep 2023
+"400,000 ","2 Tawny Close,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,894m² ,05 Sep 2023
+"306,000 ","ALTO/Lot 97 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,406m² ,05 Sep 2023
+"306,000 ","ALTO/Lot 97 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,406m² ,05 Sep 2023
+"370,000 ","3/412a Wilson Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,1,1,340m² ,04 Sep 2023
+"470,000 ","28 McLachans Road,",HADDON VIC 3351,Vacant land,0,0,0,0,04 Sep 2023
+"320,000 ","4/12 Rowlands Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,221m² ,04 Sep 2023
+"345,000","17/120 Morgan Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,193m² ,04 Sep 2023
+"420,000 ","25 Nelson Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,984m² ,01 Sep 2023
+"460,000 ","1B Ilvia Way,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,312m² ,31 Aug 2023
+"385,000 ","2A Alexandra Street,",SEBASTOPOL VIC 3356,Townhouse,3,2,1,226m² ,25 Aug 2023
+"225,000 ","915/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,263m² ,23 Aug 2023
+"325,000 ","5/1110 Gregory Street,",LAKE WENDOUREE VIC 3350,Apartment / Unit / Flat,2,1,1,83m² ,22 Aug 2023
+"345,000 ","6/914 Ligar Street,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,2,1,1,300m² ,21 Aug 2023
+"320,000 ","Lot 5 Blackfellows Lane,",HILLCREST VIC 3351,Vacant land,0,0,0,0,21 Aug 2023
+"190,000 ","6 Jabiru Close,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,374m² ,21 Aug 2023
+"330,000 ","3/304 Clarendon Street,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,1,1,−,200m² ,21 Aug 2023
+"244,000 ","59 Cormorant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,399m² ,17 Aug 2023
+"350,000 ","Lot 78, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,697m² ,15 Aug 2023
+"435,000 ","11 Riverside Place,",BROWN HILL VIC 3350,Townhouse,2,2,1,189m² ,14 Aug 2023
+"695,000 ","Lot 2 Ironmine Road,",LAL LAL VIC 3352,Vacant land,0,0,0,0,14 Aug 2023
+"312,000","68 Messenger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,705m² ,14 Aug 2023
+"320,000 ","5/519 Drummond Street South,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,2,1,1,198m² ,11 Aug 2023
+"488,000 ","5A Adair Street,",REDAN VIC 3350,Townhouse,3,2,2,347m² ,09 Aug 2023
+"275,000 ","Lot 1356 Aspen Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,09 Aug 2023
+"227,000 ","6/8 Regent Drive,",CANADIAN VIC 3350,Apartment / Unit / Flat,1,1,1,71m² ,08 Aug 2023
+"270,000 ","CA 2B, 5 Haddon-Windermere Road,",HADDON VIC 3351,Vacant land,0,0,0,"1,366m² ",07 Aug 2023
+"450,000 ","8/341A Humffray Street North,",BROWN HILL VIC 3350,Townhouse,3,2,2,287m² ,04 Aug 2023
+"379,950 ","13/12 Alfred Street,",SEBASTOPOL VIC 3356,Townhouse,2,2,1,211m² ,03 Aug 2023
+"249,500 ","63 Cormorant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,03 Aug 2023
+"355,000 ","6/14 Stawell Street South,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,2,1,1,214m² ,02 Aug 2023
+"395,000 ","2 Tristan Drive,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,3,1,1,223m² ,02 Aug 2023
+"385,000 ","1/1 Pickford Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,2,310m² ,31 Jul 2023
+"570,000 ","1 Arnolds Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,28 Jul 2023
+"470,000 ","2/306 Forest Street,",BUNINYONG VIC 3357,Apartment / Unit / Flat,2,2,1,188m² ,27 Jul 2023
+"379,950 ","12/12 Alfred Street,",SEBASTOPOL VIC 3356,Townhouse,2,2,1,201m² ,27 Jul 2023
+"413,000 ","1/27A Hertford Street,",SEBASTOPOL VIC 3356,Townhouse,2,1,2,298m² ,24 Jul 2023
+"315,000 ","35 Evans Way,",LUCAS VIC 3350,Vacant land,0,0,0,576m² ,21 Jul 2023
+"240,000 ","Lot 7/205 Tait Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,448m² ,21 Jul 2023
+"237,000 ","2/35 Albion Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,97m² ,21 Jul 2023
+"470,000 ","1/415b Ligar Street,",SOLDIERS HILL VIC 3350,Townhouse,2,1,2,312m² ,21 Jul 2023
+"350,000 ","Lot 71, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,682m² ,20 Jul 2023
+"429,000 ","40 Grandmas Road,",STAFFORDSHIRE REEF VIC 3351,Vacant land,0,0,0,0,20 Jul 2023
+"338,000 ","52 Longford Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,575m² ,19 Jul 2023
+"320,000 ","2/301 Main Road,",GOLDEN POINT VIC 3350,Apartment / Unit / Flat,2,1,1,294m² ,18 Jul 2023
+"300,000 ","3/120 Grant Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,117m² ,18 Jul 2023
+"380,000 ","1/827 Humffray Street South,",MOUNT PLEASANT VIC 3350,Apartment / Unit / Flat,2,1,1,452m² ,17 Jul 2023
+"230,000","5/7-9 Ningana Street,",ALFREDTON VIC 3350,Apartment / Unit / Flat,1,1,2,52m² ,15 Jul 2023
+"360,000 ","8 Florence Court,",BROWN HILL VIC 3350,Apartment / Unit / Flat,2,1,3,382m² ,14 Jul 2023
+"365,000 ","1/3 Verdon Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,265m² ,13 Jul 2023
+"290,000 ","6 Eyckens Road,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,12 Jul 2023
+"300,000 ","6 Paterson Street,",LUCAS VIC 3350,Vacant land,0,0,0,544m² ,06 Jul 2023
+"349,950 ","4/261 Albert Street,",SEBASTOPOL VIC 3356,Townhouse,2,1,1,188m² ,04 Jul 2023
+"1,100,000 ","Lot 7 Monteville Court,",WARRENHEIP VIC 3352,Vacant land,0,0,0,0,30 Jun 2023
+"318,000 ","1/1016 South Street,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,2,1,1,114m² ,27 Jun 2023
+"640,000 ","Lot 10 Avancer Court,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,496m² ",27 Jun 2023
+"510,000 ","5 Adair Street,",REDAN VIC 3350,Townhouse,3,2,2,347m² ,26 Jun 2023
+"410,000 ","5/240 Lal Lal Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,2,3,323m² ,21 Jun 2023
+"300,000 ","50 Porters Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,20 Jun 2023
+"355,000 ","4/2 Bridge Street,",CRESWICK VIC 3363,Apartment / Unit / Flat,2,1,1,443m² ,16 Jun 2023
+"430,000 ","1/30 Orion Street,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,296m² ,16 Jun 2023
+"260,000 ","20 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,350m² ,16 Jun 2023
+"280,000 ","3 Yolanda Street,",BONSHAW VIC 3352,Vacant land,0,0,0,515m² ,15 Jun 2023
+"320,000 ","8 Hutchinson Drive,",LUCAS VIC 3350,Vacant land,0,0,0,560m² ,13 Jun 2023
+"597,500 ","11 Lancewood Street,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,488m² ",10 Jun 2023
+"280,000 ","17 Hubbard Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,09 Jun 2023
+"315,000 ","3/75 Albert Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,155m² ,09 Jun 2023
+"315,000 ","3/75 Albert Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,155m² ,09 Jun 2023
+"215,000 ","3/7-9 Ningana Street,",ALFREDTON VIC 3350,Apartment / Unit / Flat,1,1,1,51m² ,08 Jun 2023
+"330,000 ","3 Fossickers Grove,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,"2,221m² ",08 Jun 2023
+"270,000 ","3 Mayo Street,",ALFREDTON VIC 3350,Vacant land,0,0,0,480m² ,07 Jun 2023
+"387,500 ","1/723 Tress Street,",GOLDEN POINT VIC 3350,Apartment / Unit / Flat,2,1,1,353m² ,07 Jun 2023
+"150,000 ","Lot 4 Becker Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,423m² ,07 Jun 2023
+"510,000 ","11 Willoby Drive,",ALFREDTON VIC 3350,Townhouse,4,2,2,219m² ,02 Jun 2023
+"625,000 ","17 Spearwood Road,",CARDIGAN VILLAGE VIC 3352,Vacant land,0,0,0,"2,739m² ",02 Jun 2023
+"222,000 ","21 Nevett Crescent,",MOUNT HELEN VIC 3350,Vacant land,0,0,0,"1,019m² ",02 Jun 2023
+"155,000 ","30 Fraser Street,",MOUNT PLEASANT VIC 3350,Vacant land,0,0,0,325m² ,02 Jun 2023
+"540,000 ","4 Sinclair Grove,",BROWN HILL VIC 3350,Vacant land,0,0,0,"3,078m² ",01 Jun 2023
+"935,000 ","7. Crown & Sceptre Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,0,31 May 2023
+"315,000 ","2 Tannery Rd,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,31 May 2023
+"470,000 ","54a Haywood Road,",LAL LAL VIC 3352,Vacant land,0,0,0,0,30 May 2023
+"335,000 ","5 Blythen Road,",LUCAS VIC 3350,Vacant land,0,0,0,620m² ,30 May 2023
+"340,000 ","Pinnacle/Lot 770 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,512m² ,30 May 2023
+"305,000 ","46 Mullingar Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,635m² ,29 May 2023
+"287,000 ","11 Provence Court,",BROWN HILL VIC 3350,Vacant land,0,0,0,604m² ,29 May 2023
+"520,000","124 Kent Drive,",HADDON VIC 3351,Vacant land,0,0,0,0,29 May 2023
+"350,000","5/1112 Howitt Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,3,1,1,302m² ,29 May 2023
+"320,000 ","9 Hammond Street,",LUCAS VIC 3350,Vacant land,0,0,0,571m² ,27 May 2023
+"255,000 ","102/49 Acacia Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,26 May 2023
+"190,000 ","14 Hyacinth Grove,",WENDOUREE VIC 3355,Vacant land,0,0,0,600m² ,26 May 2023
+"240,000","31 Beartooth Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,425m² ,26 May 2023
+"320,000 ","1/8 Spencer Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,2,1,1,308m² ,25 May 2023
+"295,000","5 Hammond Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,24 May 2023
+"220,000 ","20 Overall Street,",LUCAS VIC 3350,Vacant land,0,0,0,330m² ,23 May 2023
+"289,000 ","23 Adrianus Street,",ALFREDTON VIC 3350,Vacant land,0,0,0,499m² ,22 May 2023
+"285,000 ","Lot 8 Snowgum Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,22 May 2023
+"385,000 ","1/507 Howitt Street,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,2,1,1,402m² ,18 May 2023
+"330,000 ","32/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,806m² ,15 May 2023
+"295,000 ","16 Tipperary Street,",ALFREDTON VIC 3350,Vacant land,0,0,0,576m² ,13 May 2023
+"275,000 ","6 George Street,",NERRINA VIC 3350,Vacant land,0,0,0,405m² ,13 May 2023
+"465,000 ","2/68 Grant Street,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,220m² ,13 May 2023
+"175,000 ","18 Augusta Drive,",CRESWICK VIC 3363,New land,0,0,0,544m² ,12 May 2023
+"371,000 ","3/61 Beverin Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,144m² ,12 May 2023
+"419,950 ","10/9 Burnett Street,",SEBASTOPOL VIC 3356,Townhouse,3,2,1,334m² ,11 May 2023
+"427,500 ","1 Bilston Place,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,270m² ,11 May 2023
+"400,000 ","4/9 Horwood Drive,",CANADIAN VIC 3350,Townhouse,2,1,1,216m² ,09 May 2023
+"450,000 ","1/4 Pleasant Street South,",NEWINGTON VIC 3350,Apartment / Unit / Flat,2,1,1,272m² ,09 May 2023
+"110,000 ","3536 Sunraysia Highway,",LEXTON VIC 3352,Vacant land,0,0,0,"2,000m² ",04 May 2023
+"240,000","585A Derwent Jacks Road,",BERRINGA VIC 3351,Vacant land,0,0,0,0,03 May 2023
+"430,000 ","2/16 Edwards Crescent,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,2,329m² ,03 May 2023
+"225,000 ","11A Loren Close,",BALLARAT NORTH VIC 3350,Vacant land,0,0,0,529m² ,02 May 2023
+"100,000 ","Lot 10 Scarsdale-Pitfield Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,"1,700m² ",02 May 2023
+"240,000 ","7 Blandford Street,",CANADIAN VIC 3350,Vacant land,0,0,0,436m² ,28 Apr 2023
+"295,000 ","11 Jarvis Way,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,28 Apr 2023
+"185,000 ","Lot 27 Halls Road,",LAL LAL VIC 3352,Vacant land,0,0,0,0,21 Apr 2023
+"305,000 ","Lot 172 Peasnell Street,",LUCAS VIC 3350,Vacant land,0,0,0,560m² ,20 Apr 2023
+"487,500 ","3/305a Lylia Avenue,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,3,2,2,344m² ,20 Apr 2023
+"227,500 ","74 Valiant Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,512m² ,19 Apr 2023
+"155,000 ","Lot 5 Becker Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,435m² ,19 Apr 2023
+"635,000 ","7 Sunset Terrace,",NERRINA VIC 3350,Townhouse,3,3,2,415m² ,17 Apr 2023
+"220,000","4 Jones Drive,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,731m² ,14 Apr 2023
+"290,000 ","7 Butler Street,",LUCAS VIC 3350,Vacant land,0,0,0,480m² ,12 Apr 2023
+"289,000 ","8 Henry Avenue,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,631m² ,12 Apr 2023
+"295,000 ","136 Finlay Street,",BROWN HILL VIC 3350,Vacant land,0,0,0,641m² ,11 Apr 2023
+"1,350,000","10 Presentation Boulevard,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,"2,840m² ",11 Apr 2023
+"345,000 ","2/35 Foster Street,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,203m² ,06 Apr 2023
+"262,500 ","520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,343m² ,06 Apr 2023
+"305,000 ","2/914 Ligar Street,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,2,1,1,200m² ,05 Apr 2023
+"350,000 ","Lot 263/68 Cuzens Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,751m² ,04 Apr 2023
+"320,000","14 Hammond Street,",LUCAS VIC 3350,Vacant land,0,0,0,612m² ,04 Apr 2023
+"387,500 ","2/8 Lane Street,",BROWN HILL VIC 3350,Townhouse,3,1,1,299m² ,03 Apr 2023
+"294,000 ","Lot 1982 McGeachin Street,",LUCAS VIC 3350,Vacant land,0,0,0,414m² ,03 Apr 2023
+"585,000 ","8/811 Doveton Street North,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,3,2,2,133m² ,30 Mar 2023
+"170,000 ","Lot 6 Becker Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,748m² ,27 Mar 2023
+"280,000 ","16 Pernonie Street,",LUCAS VIC 3350,Vacant land,0,0,0,576m² ,24 Mar 2023
+"220,000 ","203 Tait Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,448m² ,24 Mar 2023
+"372,500","10/1010 Geelong Road,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,2,1,1,346m² ,23 Mar 2023
+"356,000 ","Lot 169 Peasnell Street,",LUCAS VIC 3350,Vacant land,0,0,0,630m² ,22 Mar 2023
+"356,000 ","Lot 169 Peasnell Street,",LUCAS VIC 3350,Vacant land,0,0,0,630m² ,22 Mar 2023
+"240,000 ","Lot 70 Pony Club Lane,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,"4,083m² ",21 Mar 2023
+"330,000 ","ALTO/Lot 101 Alto Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,21 Mar 2023
+"330,000 ","ALTO/Lot 101 Alto Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,21 Mar 2023
+"510,000 ","104 Oshannassy Parade,",LUCAS VIC 3350,Townhouse,4,2,2,315m² ,20 Mar 2023
+"327,000 ","4/292 Albert Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,107m² ,20 Mar 2023
+"370,000 ","Lot 13 Foreshore Road,",LEARMONTH VIC 3352,Vacant land,0,0,0,"1,370m² ",18 Mar 2023
+"285,000 ","11 Overall Street,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,16 Mar 2023
+"700,000 ","Lot 1 Georges Road,",CAMBRIAN HILL VIC 3352,Vacant land,0,0,0,0,14 Mar 2023
+"665,000 ","Lot 2/59 Wongerer Lane,",HADDON VIC 3351,Vacant land,0,0,0,0,14 Mar 2023
+"337,500 ","408 Snake Valley-Chepstowe Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,10 Mar 2023
+"370,000 ","3/8 Gale Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,1,2,200m² ,08 Mar 2023
+"308,000 ","Lot 1930 Scanlon Street,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,08 Mar 2023
+"330,000 ","229 Cuthberts Road,",LUCAS VIC 3350,Vacant land,0,0,0,630m² ,07 Mar 2023
+"230,000","25 Navvy Jack Road,",CANADIAN VIC 3350,Vacant land,0,0,0,493m² ,03 Mar 2023
+"345,000 ","149 Monmouth Road,",GARIBALDI VIC 3352,Vacant land,0,0,0,0,03 Mar 2023
+"70,000 ","171 Skene Street,",LEXTON VIC 3352,Vacant land,0,0,0,"2,022m² ",03 Mar 2023
+"440,000","2/27A Water Street,",BROWN HILL VIC 3350,Apartment / Unit / Flat,3,2,1,259m² ,02 Mar 2023
+"620,000 ","5 Parwang Crescent,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,050m² ",02 Mar 2023
+"500,000 ","4/302 Clayton Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,2,2,220m² ,27 Feb 2023
+"285,000 ","4/1000 Sherrard Street,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,2,1,−,102m² ,24 Feb 2023
+"320,000 ","4 Ainsworth Parade,",LUCAS VIC 3350,Vacant land,0,0,0,640m² ,24 Feb 2023
+"290,000 ","6 Andrews Court,",NERRINA VIC 3350,Vacant land,0,0,0,"1,194m² ",24 Feb 2023
+"310,000 ","13 Hastings Street,",WENDOUREE VIC 3355,Vacant land,0,0,0,594m² ,24 Feb 2023
+"310,000 ","13 Hastings Street,",WENDOUREE VIC 3355,Vacant land,0,0,0,594m² ,24 Feb 2023
+"210,000 ","3/2 The Gums,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,1,1,1,140m² ,22 Feb 2023
+"600,000 ","10 Wallowa Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,005m² ",21 Feb 2023
+"283,000 ","16 Whatman Street,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,21 Feb 2023
+"275,000 ","10 Ron Court,",CANADIAN VIC 3350,Townhouse,1,1,1,132m² ,16 Feb 2023
+"325,000 ","17 Quirk Road,",LUCAS VIC 3350,Vacant land,0,0,0,640m² ,16 Feb 2023
+"340,000 ","4/104 Vickers Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,155m² ,16 Feb 2023
+"297,000 ","8 Jarvis Way,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,15 Feb 2023
+"265,000 ","Lot 2/200 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,364m² ,15 Feb 2023
+"265,000 ","Lot 1/200 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,364m² ,15 Feb 2023
+"160,000 ","Lot 3 Becker Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,493m² ,14 Feb 2023
+"350,000 ","Lot 313 Todd Street,",LUCAS VIC 3350,Vacant land,0,0,0,680m² ,13 Feb 2023
+"300,000 ","807/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,13 Feb 2023
+"535,000","522B Peel Street North,",BLACK HILL VIC 3350,Townhouse,3,2,2,319m² ,10 Feb 2023
+"250,000","410A Kline Street,",CANADIAN VIC 3350,Vacant land,0,0,0,"2,363m² ",10 Feb 2023
+"190,000 ","Lot 2 Becker Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,654m² ,10 Feb 2023
+"649,000 ","4/506 Wendouree Parade,",LAKE WENDOUREE VIC 3350,Townhouse,2,1,1,200m² ,09 Feb 2023
+"215,000 ","Lot 1 Becker Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,717m² ,09 Feb 2023
+"320,000 ","12 Dove Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,577m² ,07 Feb 2023
+"300,000 ","16 Cathcart Street,",CLARENDON VIC 3352,Vacant land,0,0,0,"1,400m² ",04 Feb 2023
+"945,000 ","12 Devon Street,",LAKE WENDOUREE VIC 3350,Townhouse,3,2,2,251m² ,02 Feb 2023
+"379,500 ","2/2 Langham Road,",WENDOUREE VIC 3355,Townhouse,2,1,1,294m² ,31 Jan 2023
+"395,000 ","2/507 Howitt Street,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,2,1,1,342m² ,30 Jan 2023
+"360,000 ","50 Messenger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,659m² ,29 Jan 2023
+"259,500 ","2/109 Nelson Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,2,1,1,141m² ,23 Jan 2023
+"360,000 ","4/4 Lal Lal Street,",GOLDEN POINT VIC 3350,Apartment / Unit / Flat,2,1,1,153m² ,23 Jan 2023
+"355,000 ","6/106 Whitehorse Road,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,2,1,1,391m² ,23 Jan 2023
+"280,000 ","Lot 11 Benson Close,",DELACOMBE VIC 3356,Vacant land,0,0,0,500m² ,20 Jan 2023
+"280,000 ","Lot 10 Benson Close,",DELACOMBE VIC 3356,Vacant land,0,0,0,506m² ,20 Jan 2023
+"305,000 ","17 Lakeland Drive,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,13 Jan 2023
+"412,000 ","17B Kent Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,198m² ,11 Jan 2023
+"276,000 ","1/806 Bond Street,",MOUNT PLEASANT VIC 3350,Apartment / Unit / Flat,2,1,1,128m² ,10 Jan 2023
+"450,000 ","1/717 Tress Street,",MOUNT PLEASANT VIC 3350,Townhouse,2,2,1,374m² ,10 Jan 2023
+"300,000 ","6/120 Grant Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,267m² ,10 Jan 2023
+"400,000 ","Lot 240/91 Sydney Way,",ALFREDTON VIC 3350,Vacant land,0,0,0,877m² ,05 Jan 2023
+"392,000 ","81 Marie Crescent,",WENDOUREE VIC 3355,Vacant land,1,1,2,655m² ,05 Jan 2023
+"410,000 ","2/519 Peel Street North,",BLACK HILL VIC 3350,Apartment / Unit / Flat,2,1,1,269m² ,31 Dec 2022
+"310,000 ","CA2 Cnr Kinseys and Buninyong Mt Mercer Road,",DURHAM LEAD VIC 3352,Vacant land,0,0,0,"5,339m² ",23 Dec 2022
+"350,000 ","4 Ron Court,",CANADIAN VIC 3350,Townhouse,2,2,1,377m² ,22 Dec 2022
+"300,000 ","5 Carbery Way,",LUCAS VIC 3350,Vacant land,0,0,0,490m² ,22 Dec 2022
+"340,000 ","1/801 Skipton Street,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,221m² ,22 Dec 2022
+"335,000 ","Lot 3/97 Fitzpatrick Lane,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,22 Dec 2022
+"400,000 ","425 Drummond Street South,",BALLARAT CENTRAL VIC 3350,Townhouse,2,1,1,140m² ,21 Dec 2022
+"495,000 ","2/317a Lal Lal Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,2,3,513m² ,21 Dec 2022
+"630,000 ","3/21 Kuruc Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,"4,572m² ",20 Dec 2022
+"190,000 ","CA/12A Gillanders Road,",MOUNT PLEASANT VIC 3350,Vacant land,0,0,0,0,20 Dec 2022
+"478,000 ","1/501 Leith Street,",REDAN VIC 3350,Apartment / Unit / Flat,3,2,2,223m² ,20 Dec 2022
+"260,000 ","232 Kossuth Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,402m² ,20 Dec 2022
+"355,000 ","1/68 Victoria Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,3,1,1,410m² ,19 Dec 2022
+"545,000 ","Lot 1/18 Simpson Street,",BUNINYONG VIC 3357,Vacant land,0,0,0,"1,012m² ",16 Dec 2022
+"365,000 ","18 Log Cabin Lane,",CARNGHAM VIC 3351,Vacant land,0,0,0,0,15 Dec 2022
+"338,000 ","1/25 Charlotte Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,312m² ,13 Dec 2022
+"380,000 ","31 Balanada Close,",ALFREDTON VIC 3350,Townhouse,2,2,1,117m² ,12 Dec 2022
+"280,000 ","Lot 76, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,498m² ,12 Dec 2022
+"380,000 ","2/25 Paling Street,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,2,1,1,194m² ,07 Dec 2022
+"405,000 ","4/119 Grant Street,",SEBASTOPOL VIC 3356,Townhouse,3,1,1,293m² ,07 Dec 2022
+"350,000 ","77 Erskine Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,611m² ,07 Dec 2022
+"850,000 ","316 Clayton Street,",CANADIAN VIC 3350,Vacant land,0,0,0,"1,888m² ",06 Dec 2022
+"385,000 ","5/2 Alexandra Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,3,1,1,392m² ,05 Dec 2022
+"420,000 ","2a Leonard Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,181m² ,05 Dec 2022
+"305,000 ","6/27 Clunes Road,",CRESWICK VIC 3363,Apartment / Unit / Flat,2,1,1,300m² ,01 Dec 2022
+"415,000","13A/300 Gillies Street North,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,2,2,136m² ,01 Dec 2022
+"350,000 ","14/25 Dare Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,204m² ,01 Dec 2022
+"385,000 ","22 Ross Creek Road,",BONSHAW VIC 3352,Townhouse,2,1,1,204m² ,30 Nov 2022
+"410,000 ","2/509 Bell Street,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,173m² ,30 Nov 2022
+"560,000 ","315A Crompton Street,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,3,2,2,324m² ,30 Nov 2022
+"400,000","1/5 Phillip Street,",WENDOUREE VIC 3355,Townhouse,2,1,1,323m² ,28 Nov 2022
+"210,000 ","4/6 Marilyn Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,1,1,1,51m² ,28 Nov 2022
+"325,000 ","703/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,512m² ,28 Nov 2022
+"349,000 ","27/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,812m² ,24 Nov 2022
+"1,633,500","41 Paddys Drive,",DELACOMBE VIC 3356,Vacant land,0,0,0,"4,070m² ",24 Nov 2022
+"290,000 ","CA 28 Snake Valley-Mortchup Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,22 Nov 2022
+"320,000 ","Carringum/Lot 430 Cassowary Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,22 Nov 2022
+"320,000 ","Carringum/Lot 430 Cassowary Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,22 Nov 2022
+"600,000 ","20 Centenary Drive,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,000m² ",21 Nov 2022
+"375,000 ","15 Ron Court,",CANADIAN VIC 3350,Townhouse,2,2,1,185m² ,17 Nov 2022
+"330,000 ","15 Lakeland Drive,",LUCAS VIC 3350,Vacant land,0,0,0,507m² ,17 Nov 2022
+"600,000 ","102/3 McGrath Court,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,002m² ",15 Nov 2022
+"503,000 ","3/106 Warrenheip Street,",BUNINYONG VIC 3357,Townhouse,3,1,1,318m² ,14 Nov 2022
+"252,500 ","916/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,313m² ,14 Nov 2022
+"535,000 ","16 Swamp Gum Place,",ALFREDTON VIC 3350,Townhouse,4,2,2,184m² ,11 Nov 2022
+"290,000 ","11 Ron Court,",CANADIAN VIC 3350,Townhouse,1,1,1,111m² ,11 Nov 2022
+"437,000 ","2/512 Windermere Street,",REDAN VIC 3350,Apartment / Unit / Flat,3,1,1,380m² ,11 Nov 2022
+"599,000 ","Lot 6/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,600m² ,07 Nov 2022
+"283,000 ","520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,375m² ,07 Nov 2022
+"394,000 ","424 Smythesdale-Snake Valley Road,",HILLCREST VIC 3351,Vacant land,0,0,0,0,04 Nov 2022
+"365,000 ","24 Hollioake Drive,",LUCAS VIC 3350,Vacant land,0,0,0,761m² ,03 Nov 2022
+"390,000 ","421 Drummond Street South,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,2,1,1,189m² ,02 Nov 2022
+"265,000 ","209 Tait Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,448m² ,02 Nov 2022
+"675,000 ","19A Talbot Street South,",BALLARAT CENTRAL VIC 3350,Townhouse,3,2,1,253m² ,31 Oct 2022
+"610,000 ","Lot 15 Allan Court,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,0,31 Oct 2022
+"645,000 ","7 Avancer Court,",CARDIGAN VIC 3352,Vacant land,0,0,0,"3,083m² ",29 Oct 2022
+"360,000 ","Lot 264/66 Cuzens Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,751m² ,28 Oct 2022
+"475,000 ","2/146 Mansfield Avenue,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,3,2,2,331m² ,28 Oct 2022
+"330,000 ","7/325 Walker Street,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,2,1,1,131m² ,26 Oct 2022
+"275,000 ","Address available upon Request,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,26 Oct 2022
+"470,000 ","1/1120 Geelong Road,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,3,2,2,302m² ,25 Oct 2022
+"395,000 ","8a Browns Lane,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,25 Oct 2022
+"1,715,000 ","1-8/1110 Howitt Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,13,8,8,"1,892m² ",24 Oct 2022
+"1,126,000 ","1-7/222 Drummond Street South,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,8,7,1,702m² ,21 Oct 2022
+"450,000 ","1/24 Olympic Avenue,",MOUNT CLEAR VIC 3350,Townhouse,3,1,1,288m² ,21 Oct 2022
+"345,000 ","4 Powell Avenue,",CARDIGAN VILLAGE VIC 3352,Vacant land,0,0,0,"1,234m² ",20 Oct 2022
+"425,000 ","1/16 Edwards Crescent,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,349m² ,20 Oct 2022
+"500,000 ","7 Bentley Place,",BALLARAT EAST VIC 3350,Townhouse,3,2,2,306m² ,19 Oct 2022
+"420,000 ","87A Oshannassy Parade,",LUCAS VIC 3350,Apartment / Unit / Flat,2,1,2,268m² ,19 Oct 2022
+"325,000 ","2/160 Fussell Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,2,1,1,404m² ,18 Oct 2022
+"599,000 ","Lot 10/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,600m² ,18 Oct 2022
+"599,000 ","Lot 9/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,600m² ,18 Oct 2022
+"599,000 ","Lot 8/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,600m² ,18 Oct 2022
+"770,000 ","Lot 2 Sunraysia Drive,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,0,2022
+"770,000 ","Lot 2 Sunraysia Drive,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,"86,800m² ",2022
+"260,000 ","16 Cormorant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,350m² ,14 Oct 2022
+"300,000 ","35 Woodland Drive,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,13 Oct 2022
+"410,000","2739 Colac-Ballarat Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,12 Oct 2022
+"599,000 ","Lot 7/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,600m² ,12 Oct 2022
+"299,000 ","49 Cormorant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,12 Oct 2022
+"599,000 ","Lot 2/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,0,11 Oct 2022
+"599,000 ","Lot 3/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,0,11 Oct 2022
+"310,000 ","2/29 Walkers Lane,",MOUNT EGERTON VIC 3352,Vacant land,0,0,0,"4,105m² ",11 Oct 2022
+"237,000 ","6/607 Creswick Road,",WENDOUREE VIC 3355,Apartment / Unit / Flat,1,1,1,79m² ,11 Oct 2022
+"750,000","320A Learmonth Street,",BUNINYONG VIC 3357,Development site,0,0,0,180m² ,08 Oct 2022
+"2,200,000","147 Hillview Road,",BROWN HILL VIC 3350,Vacant land,0,0,0,0,07 Oct 2022
+"384,000 ","2/1133 Grevillea Road,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,306m² ,07 Oct 2022
+"295,000 ","1/2 The Gums,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,2,1,1,143m² ,06 Oct 2022
+"295,000 ","1/2 The Gums,",MOUNT CLEAR VIC 3350,Apartment / Unit / Flat,2,1,1,143m² ,06 Oct 2022
+"500,000 ","530 Quarry Lane,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,242m² ,06 Oct 2022
+"1,650,000","630 Skipton Street,",REDAN VIC 3350,Development site,0,0,0,"2,216m² ",06 Oct 2022
+"500,000","1/17 Jack Court,",ALFREDTON VIC 3350,Apartment / Unit / Flat,3,1,1,415m² ,04 Oct 2022
+"375,000 ","15 Home Valley Chase,",BROWN HILL VIC 3350,Vacant land,0,0,0,802m² ,03 Oct 2022
+"305,000 ","7 Overall Street,",LUCAS VIC 3350,Vacant land,0,0,0,504m² ,03 Oct 2022
+"599,000 ","Lot 1/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,0,03 Oct 2022
+"599,000 ","Lot 11/CA 10 Dowling Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,600m² ,03 Oct 2022
+"950,000 ","99 Pound Creek Road,",NAVIGATORS VIC 3352,Vacant land,0,0,0,0,03 Oct 2022
+"235,000 ","3/619 Neill Street,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,1,1,1,352m² ,03 Oct 2022
+"380,000 ","14 Peasnell Street,",LUCAS VIC 3350,Vacant land,0,0,0,700m² ,01 Oct 2022
+"317,000 ","12 Bold Front Court,",MINERS REST VIC 3352,Vacant land,0,0,0,713m² ,01 Oct 2022
+"290,000 ","205/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,399m² ,01 Oct 2022
+"390,000 ","423 Drummond Street South,",BALLARAT CENTRAL VIC 3350,Townhouse,2,1,1,140m² ,30 Sep 2022
+"490,000 ","6 Gala Close,",BROWN HILL VIC 3350,Vacant land,0,0,0,"1,625m² ",29 Sep 2022
+"235,000 ","6/328 Clayton Street,",CANADIAN VIC 3350,Vacant land,0,0,0,430m² ,29 Sep 2022
+"377,000 ","19/316 Lal Lal Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,2,1,1,372m² ,28 Sep 2022
+"335,000 ","11 Hammond Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,27 Sep 2022
+"304,000 ","Lot 3/230 Miles Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,553m² ,27 Sep 2022
+"355,000 ","Lot 4/230 Miles Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,713m² ,27 Sep 2022
+"230,000 ","Pinnacle/Lot 759 Cadillac Way,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,252m² ,27 Sep 2022
+"230,000 ","Carringum/Lot 441 Cassowary Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,251m² ,27 Sep 2022
+"230,000 ","Pinnacle/Lot 758 Zephyr Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,270m² ,26 Sep 2022
+"280,000 ","4 Hakuba Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,544m² ,22 Sep 2022
+"445,000 ","Lot 1/809 Wilson Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,890m² ,21 Sep 2022
+"295,000 ","Lot 223/70 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,20 Sep 2022
+"310,000 ","3/29 Walkers Lane,",MOUNT EGERTON VIC 3352,Vacant land,0,0,0,"4,105m² ",20 Sep 2022
+"288,000 ","9 Nyora Grove,",MOUNT HELEN VIC 3350,Vacant land,0,0,0,650m² ,20 Sep 2022
+"440,000 ","5/322 Joseph Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,1,3,256m² ,19 Sep 2022
+"950,000 ","Ballarat-Carngham Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,19 Sep 2022
+"347,500 ","2/610 Somerville Street,",BUNINYONG VIC 3357,Apartment / Unit / Flat,2,1,1,342m² ,16 Sep 2022
+"265,000 ","307 Rodier Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,536m² ,15 Sep 2022
+"415,000 ","3/12 Pisgah Street,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,2,1,1,119m² ,14 Sep 2022
+"310,000 ","Lot 220/70 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,512m² ,13 Sep 2022
+"670,000 ","25 Whites Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,"4,046m² ",13 Sep 2022
+"295,000 ","51 Messenger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,503m² ,13 Sep 2022
+"385,000 ","14 Arapiles Street,",NERRINA VIC 3350,Vacant land,0,0,0,843m² ,13 Sep 2022
+"270,000 ","21 Johanna Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,388m² ,13 Sep 2022
+"170,000 ","Lot 18 Spearys Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,12 Sep 2022
+"230,000 ","Lot 1 TP171950 Colac - Ballarat Road,",ENFIELD VIC 3352,Vacant land,0,0,0,0,12 Sep 2022
+"390,000 ","809 Wilson Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,862m² ,10 Sep 2022
+"299,000 ","Lot 60 Willoby Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,401m² ,09 Sep 2022
+"600,000 ","7 Spearwood Drive,",CARDIGAN VILLAGE VIC 3352,Vacant land,0,0,0,"2,004m² ",09 Sep 2022
+"330,000","3 Hammond Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,09 Sep 2022
+"220,000 ","17 Jemacra Place,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,422m² ,08 Sep 2022
+"375,000 ","1/5 Spencer Street,",SEBASTOPOL VIC 3356,Townhouse,2,1,1,296m² ,07 Sep 2022
+"230,000 ","Carringum/Lot 801 Anglesea Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,256m² ,07 Sep 2022
+"285,000 ","CA 2B, 5 Haddon-Windermere Road,",HADDON VIC 3351,Vacant land,0,0,0,"1,366m² ",06 Sep 2022
+"329,900 ","19 Cropley Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,06 Sep 2022
+"610,000 ","31 Kinglake Street,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,05 Sep 2022
+"269,000 ","29/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,623m² ,02 Sep 2022
+"415,000 ","11 Gumdale Place,",SEBASTOPOL VIC 3356,Townhouse,3,2,1,230m² ,02 Sep 2022
+"363,000 ","2/130A Beverin Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,3,1,1,221m² ,02 Sep 2022
+"295,000 ","Lot 228/70 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,01 Sep 2022
+"315,000 ","9 Little King Street,",CRESWICK VIC 3363,Vacant land,0,0,0,"1,181m² ",01 Sep 2022
+"295,000 ","Lot 227/70 Webb Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,448m² ,01 Sep 2022
+"555,000 ","2 Elmstone Lane,",LAKE GARDENS VIC 3355,Townhouse,3,2,2,338m² ,01 Sep 2022
+"480,000 ","2/511 York Street,",BALLARAT EAST VIC 3350,Townhouse,3,2,2,350m² ,30 Aug 2022
+"325,000 ","Lot 47, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,553m² ,29 Aug 2022
+"487,500 ","4/22 Park Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,252m² ,26 Aug 2022
+"515,000 ","11 Echo Place,",ALFREDTON VIC 3350,Townhouse,2,2,1,300m² ,25 Aug 2022
+"498,000 ","11a Sainsbury Court,",MOUNT CLEAR VIC 3350,Townhouse,3,2,2,422m² ,24 Aug 2022
+"316,000 ","ALTO/Lot 103 Alto Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,24 Aug 2022
+"295,000 ","28 Recreation Road,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,689m² ,23 Aug 2022
+"220,000 ","2/35 Albion Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,97m² ,23 Aug 2022
+"276,000 ","30B Horwood Drive,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,544m² ,22 Aug 2022
+"327,000 ","Lot 85/20 Zeal Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,434m² ,22 Aug 2022
+"315,000 ","Lot 243 Verdale Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,517m² ,20 Aug 2022
+"360,000","1/618 Ripon Street South,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,249m² ,20 Aug 2022
+"277,000 ","Lot 47B Nunns Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,19 Aug 2022
+"300,000 ","33 Spoonbill Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,443m² ,19 Aug 2022
+"330,000 ","13 Hammond Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,18 Aug 2022
+"290,000 ","Pinnacle/Lot 774 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,400m² ,16 Aug 2022
+"465,000 ","27 Sailors Gully Boulevard,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,"2,157m² ",15 Aug 2022
+"592,500","15 Spearwood Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,004m² ",11 Aug 2022
+"310,000 ","34 Martland Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,11 Aug 2022
+"325,000 ","Lot 717 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,512m² ,11 Aug 2022
+"270,000 ","Lot 1/30 Kinglake Street,",SCARSDALE VIC 3351,Vacant land,0,0,0,"4,000m² ",10 Aug 2022
+"325,000 ","22 Sugarloaf Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,576m² ,10 Aug 2022
+"382,000 ","809 Wilson Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,888m² ,09 Aug 2022
+"355,000 ","3/905 Geelong Road,",CANADIAN VIC 3350,Apartment / Unit / Flat,2,1,1,198m² ,09 Aug 2022
+"500,000 ","2/13 Tinworth Avenue,",MOUNT CLEAR VIC 3350,Townhouse,3,2,1,280m² ,09 Aug 2022
+"600,000 ","3 Wallowa Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,000m² ",08 Aug 2022
+"530,000 ","4/20 Falcon Drive,",INVERMAY PARK VIC 3350,Townhouse,3,2,2,175m² ,08 Aug 2022
+"320,000 ","Lot 22 Browns Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,05 Aug 2022
+"618,000 ","3/1422 Gregory Street,",LAKE WENDOUREE VIC 3350,Apartment / Unit / Flat,2,2,2,258m² ,03 Aug 2022
+"305,000 ","Carringum/Lot 604 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,03 Aug 2022
+"455,000 ","2/618 Doveton Street North,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,2,2,1,310m² ,02 Aug 2022
+"250,000 ","13 Wills Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,"1,009m² ",28 Jul 2022
+"475,000","1/223 Ascot Street South,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,3,1,1,457m² ,27 Jul 2022
+"316,000 ","Lot 72/20 Alto Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,26 Jul 2022
+"482,500 ","728 York Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,"1,200m² ",23 Jul 2022
+"400,000 ","26/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,876m² ,23 Jul 2022
+"350,000 ","7 Hale Avenue,",MOUNT CLEAR VIC 3350,Vacant land,0,0,0,645m² ,21 Jul 2022
+"305,000 ","Carringum/Lot 603 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,21 Jul 2022
+"575,000 ","234 Post Office Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,0,20 Jul 2022
+"215,000 ","2/6 Marilyn Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,1,1,1,52m² ,19 Jul 2022
+"310,000 ","30/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,642m² ,15 Jul 2022
+"930,000 ","Lot 9 Slatey Creek Road,",INVERMAY VIC 3352,Vacant land,0,0,0,0,15 Jul 2022
+"2,200,000","88 Wiggins Road,",SCOTSBURN VIC 3352,Vacant land,0,0,0,0,15 Jul 2022
+"375,000 ","1/60 Gent Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,2,1,1,237m² ,14 Jul 2022
+"449,000 ","Pinnacle/Lot 765 Lagonda Lane,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,"1,108m² ",14 Jul 2022
+"260,000 ","1/486 Gillies Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,585m² ,13 Jul 2022
+"275,000 ","716/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,387m² ,12 Jul 2022
+"380,000 ","Lot 63, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,763m² ,11 Jul 2022
+"305,000 ","Carringum/Lot 601 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,11 Jul 2022
+"290,000 ","2/120 Grant Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,118m² ,09 Jul 2022
+"425,000 ","33 Recreation Road,",MOUNT CLEAR VIC 3350,Townhouse,3,1,1,424m² ,07 Jul 2022
+"350,000 ","Lot 6 Victoria Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,07 Jul 2022
+"3,610,000","163-179 Tait Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,0,06 Jul 2022
+"285,000 ",,WINTER VALLEY VIC 3358,Vacant land,0,0,0,491m² ,05 Jul 2022
+"320,000 ","80 Wedge Tail Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,476m² ,03 Jul 2022
+"445,000 ","1/14 Christine Avenue,",ALFREDTON VIC 3350,Apartment / Unit / Flat,3,1,1,350m² ,01 Jul 2022
+"437,000 ","6/1120 Havelock Street,",BALLARAT NORTH VIC 3350,Townhouse,2,1,1,277m² ,01 Jul 2022
+"315,000 ","10 Provence Court,",BROWN HILL VIC 3350,Vacant land,0,0,0,620m² ,01 Jul 2022
+"600,000 ","14 Spearwood Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,085m² ",01 Jul 2022
+"332,500 ","Lot 60 Harrisons Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,01 Jul 2022
+"199,888 ","3A Lyndon Court,",ALFREDTON VIC 3350,Vacant land,0,0,0,477m² ,30 Jun 2022
+"304,000 ","Ballaway(Lot 112)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,496m² ,30 Jun 2022
+"500,000 ","5/119 Lal Lal Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,2,1,1,158m² ,29 Jun 2022
+"390,000 ","Lot 2043/62 Thurling Parade,",LUCAS VIC 3350,Vacant land,0,0,0,560m² ,29 Jun 2022
+"300,000 ","65 Grainger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,400m² ,27 Jun 2022
+"315,000 ","22 Goldfinch Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,422m² ,27 Jun 2022
+"285,000 ","Lot 5 / 200 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,364m² ,23 Jun 2022
+"285,000 ","Lot 4/200 Grant Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,364m² ,23 Jun 2022
+"437,000 ","Pinnacle/Lot 768 Lagonda Lane,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,930m² ,23 Jun 2022
+"445,000 ","43 Janson Road,",BROWN HILL VIC 3350,Vacant land,0,0,0,"1,315m² ",22 Jun 2022
+"362,000 ","1/107 Latrobe Street,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,296m² ,22 Jun 2022
+"295,000 ","8/120 Grant Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,135m² ,22 Jun 2022
+"440,000 ","4/1 Water Street,",BROWN HILL VIC 3350,Apartment / Unit / Flat,3,1,2,253m² ,21 Jun 2022
+"285,000 ","Carringum/Lot 644 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,352m² ,20 Jun 2022
+"430,050 ","2/307 Specimen Vale,",BALLARAT EAST VIC 3350,Townhouse,2,1,1,154m² ,17 Jun 2022
+"670,000 ","Lot 2 PS800291 Buninyong Mt Mercer Road,",BUNINYONG VIC 3357,Vacant land,0,0,0,0,17 Jun 2022
+"390,000 ","4 Sneddon Way,",LUCAS VIC 3350,Vacant land,0,0,0,665m² ,17 Jun 2022
+"315,000 ","Pinnacle/Lot 771 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,448m² ,17 Jun 2022
+"420,000 ","1 Donegal Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,635m² ,15 Jun 2022
+"760,000 ","CA33 Sharpes Road,",MINERS REST VIC 3352,Vacant land,0,0,0,0,15 Jun 2022
+"425,000 ","224 Browns Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,"8,093m² ",15 Jun 2022
+"327,000 ","ALTO/Lot 105 Alto Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,14 Jun 2022
+"365,000 ","5 Grainger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,12 Jun 2022
+"420,000 ","519 Eyre Street,",BUNINYONG VIC 3357,Vacant land,0,0,0,988m² ,09 Jun 2022
+"349,900 ","Lot 227/15 Peridot Way,",ALFREDTON VIC 3350,Vacant land,0,0,0,525m² ,07 Jun 2022
+"385,000 ","21/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,881m² ,07 Jun 2022
+"320,000 ","36 Martland Street,",LUCAS VIC 3350,Vacant land,0,0,0,448m² ,07 Jun 2022
+"285,000 ","Lot 2 Drummond Street,",SCARSDALE VIC 3351,Vacant land,0,0,0,"4,482m² ",06 Jun 2022
+"305,000 ","45 Mary Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,445m² ,01 Jun 2022
+"270,000 ","10 Madelia Court,",MOUNT PLEASANT VIC 3350,Vacant land,0,0,0,557m² ,01 Jun 2022
+"369,000 ","233 Cuthberts Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,630m² ,31 May 2022
+"357,500 ","24 Martland Street,",LUCAS VIC 3350,Vacant land,0,0,0,576m² ,31 May 2022
+"367,000 ","9/272 Albert Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,306m² ,30 May 2022
+"350,000 ","79 Erskine Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,611m² ,30 May 2022
+"315,000 ","Lot 176/70 Dove Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,435m² ,30 May 2022
+"285,000 ","Ballaway(Lot 116)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,420m² ,25 May 2022
+"280,000 ","Ballaway(Lot 130)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,400m² ,24 May 2022
+"280,000 ","Ballaway(Lot 130)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,400m² ,23 May 2022
+"302,000 ","Pinnacle/Lot 776 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,400m² ,23 May 2022
+"235,000 ","607/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,263m² ,23 May 2022
+"302,000 ","Pinnacle/Lot 776 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,400m² ,22 May 2022
+"480,000 ","108 Barkly Street,",BUNINYONG VIC 3357,Vacant land,0,0,0,"1,567m² ",20 May 2022
+"212,000 ","16 Augusta Drive,",CRESWICK VIC 3363,Vacant land,0,0,0,641m² ,20 May 2022
+"300,000 ","Lot 33 Woodland Drive,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,20 May 2022
+"327,000 ","ALTO/Lot 106 Alto Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,20 May 2022
+"330,000 ","Lot 307/19 Stork Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,476m² ,20 May 2022
+"290,000 ","CA26 C&D Devonshire Rd,",BUNINYONG VIC 3357,Vacant land,0,0,0,0,19 May 2022
+"349,900 ","Lot 223/7 Peridot Way,",ALFREDTON VIC 3350,Vacant land,0,0,0,525m² ,18 May 2022
+"310,000 ","Pinnacle/Lot 1034 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,448m² ,18 May 2022
+"400,000 ","Lot 109A3 Sobeys Road,",ROSS CREEK VIC 3351,Vacant land,0,0,0,0,17 May 2022
+"435,000 ","159 Albert Street,",SEBASTOPOL VIC 3356,Townhouse,3,1,2,347m² ,17 May 2022
+"304,000 ","6/1108 Howitt Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,168m² ,17 May 2022
+"330,000 ","107 Wedge Tail Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,602m² ,16 May 2022
+"330,000 ","Lot 9 Moppianimum Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,14 May 2022
+"350,000 ","Lot 68, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,676m² ,13 May 2022
+"282,000 ","Pinnacle/Lot 622 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,680m² ,13 May 2022
+"280,000 ","Pinnacle/Lot 1022 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,353m² ,13 May 2022
+"210,000 ","2/29 Carpenter Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,1,1,1,70m² ,13 May 2022
+"289,000 ","Ballaway/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,429m² ,10 May 2022
+"289,000 ","Ballaway/Lot 115 Millbrook Road,",BONSHAW VIC 3352,Vacant land,0,0,0,429m² ,10 May 2022
+"160,000 ","4,5,6,7,8 Sunraysia Highway,",LEXTON VIC 3352,Vacant land,0,0,0,"10,000m² ",10 May 2022
+"160,000 ","9,10,11 Sunraysia Highway,",LEXTON VIC 3352,Vacant land,0,0,0,"6,000m² ",10 May 2022
+"345,000 ","Carringum/Lot 642 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,531m² ,10 May 2022
+"320,000 ","Carringum/Lot 605 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,10 May 2022
+"380,000 ","83 Lugano Avenue,",ALFREDTON VIC 3350,Vacant land,0,0,0,599m² ,09 May 2022
+"835,000 ","Lot 5 Frasers Road,",INVERMAY VIC 3352,Vacant land,0,0,0,0,09 May 2022
+"289,000 ","Pinnacle/Lot 1026 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,394m² ,09 May 2022
+"330,000 ","Lot 99 Martland Street,",LUCAS VIC 3350,Vacant land,0,0,0,540m² ,06 May 2022
+"275,000 ","Lot 39/218 Ballarat-Carngham Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,376m² ,05 May 2022
+"305,000 ","Ballaway/Lot 138 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,515m² ,04 May 2022
+"255,000 ","605/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,327m² ,04 May 2022
+"355,000 ","Ballaway(Lot 113)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,912m² ,03 May 2022
+"275,000 ","Lot 35/218 Ballarat-Carngham Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,376m² ,02 May 2022
+"297,000 ","Pinnacle/Lot 1029 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,393m² ,02 May 2022
+"260,000 ","Pinnacle/Lot 607 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,576m² ,02 May 2022
+"312,000 ","ALTO/Lot 104 Alto Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,02 May 2022
+"260,000 ","Lot 322 Coromant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,02 May 2022
+"280,000 ","Ballaway(Lot 129)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,400m² ,30 Apr 2022
+"190,000 ","Lot 15 Progress Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,29 Apr 2022
+"305,000","3/110 Adair Street,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,168m² ,28 Apr 2022
+"349,900 ","Lot 224/9 Peridot Way,",ALFREDTON VIC 3350,Vacant land,0,0,0,525m² ,27 Apr 2022
+"315,000 ","Ballaway/Lot 137 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,541m² ,27 Apr 2022
+"350,000 ","Lot 82, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,656m² ,27 Apr 2022
+"419,900 ","Lot 215/62 Mary Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,641m² ,26 Apr 2022
+"285,000 ","Carringum/Lot 629 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,352m² ,26 Apr 2022
+"360,000 ","52 Longford Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,576m² ,24 Apr 2022
+"285,000 ","ALTO/Lot 110 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,325m² ,23 Apr 2022
+"170,000 ","21 Bankin Street,",LEARMONTH VIC 3352,Vacant land,0,0,0,811m² ,22 Apr 2022
+"434,950 ","6/12 Alfred Street,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,259m² ,22 Apr 2022
+"305,000 ","16 Mountain Ash Circuit,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,22 Apr 2022
+"275,000 ","Lot 37/218 Ballarat-Carngham Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,376m² ,20 Apr 2022
+"349,900 ","Lot 259/65 Cuzens Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,540m² ,20 Apr 2022
+"320,000 ","25A Flockhart Street,",MOUNT PLEASANT VIC 3350,Vacant land,0,0,0,"6,291m² ",20 Apr 2022
+"375,000 ","1a Haymes Crescent,",GOLDEN POINT VIC 3350,Townhouse,2,2,−,68m² ,19 Apr 2022
+"319,000 ","619 Kline Street,",CANADIAN VIC 3350,Vacant land,0,0,0,479m² ,14 Apr 2022
+"580,000 ","1198 Gregory Street,",LAKE WENDOUREE VIC 3350,Vacant land,0,0,0,455m² ,4 Apr 2022
+"445,000","102 Russell Street,",BUNINYONG VIC 3357,Vacant land,0,0,0,"1,070m² ",13 Apr 2022
+"304,000 ","ALTO/Lot 112 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,388m² ,13 Apr 2022
+"292,500 ","Ballaway(Lot 132)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,12 Apr 2022
+"292,500 ","Ballaway(Lot 131)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,12 Apr 2022
+"255,000 ","Pinnacle/Lot 1017 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,297m² ,12 Apr 2022
+"264,000","1/1162 Grevillea Road,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,142m² ,12 Apr 2022
+"320,000 ","Carringum/Lot 634 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,12 Apr 2022
+"320,000 ","Carringum/Lot 602 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,12 Apr 2022
+"305,000 ","Carringum/Lot 638 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,12 Apr 2022
+"630,000 ","8 Montadale Court,",ALFREDTON VIC 3350,Vacant land,0,0,0,"1,400m² ",11 Apr 2022
+"410,000 ","13 Moola Street,",BLACK HILL VIC 3350,Vacant land,0,0,0,394m² ,11 Apr 2022
+"292,500 ","Ballaway(Lot 128)/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,11 Apr 2022
+"275,000 ","Lot 30/218 Ballarat-Carngham Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,376m² ,09 Apr 2022
+"275,000 ","Lot 28/218 Ballarat-Carngham Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,376m² ,09 Apr 2022
+"505,000 ","10 Cavanagh Court,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,"2,003m² ",08 Apr 2022
+"278,000 ","Pinnacle/Lot 1023 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,392m² ,08 Apr 2022
+"345,000 ","Lot 113 Gribble Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,07 Apr 2022
+"340,000 ","22 Invicta Drive,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,507m² ,07 Apr 2022
+"297,000 ","Pinnacle/Lot 1021 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,392m² ,07 Apr 2022
+"470,000 ","124a Joseph Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,3,2,2,255m² ,06 Apr 2022
+"299,000 ","Ballaway/Lot 109 Millbrook Road,",BONSHAW VIC 3352,Vacant land,0,0,0,496m² ,06 Apr 2022
+"350,000","3/46 Spencer Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,2,1,281m² ,06 Apr 2022
+"340,000 ","Carringum/Lot 631 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,515m² ,06 Apr 2022
+"305,000 ","Carringum/Lot 639 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,06 Apr 2022
+"320,000 ","Carringum/Lot 635 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,06 Apr 2022
+"500,000 ","2/508 Havelock Street,",BLACK HILL VIC 3350,Townhouse,3,2,1,299m² ,05 Apr 2022
+"305,000 ","740 Paynes Bridge Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,04 Apr 2022
+"320,000 ","Carringum/Lot 606 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,04 Apr 2022
+"340,000 ","Carringum/Lot 641 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,512m² ,04 Apr 2022
+"320,000 ","Carringum/Lot 640 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,04 Apr 2022
+"320,000 ","Carringum/Lot 637 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,04 Apr 2022
+"279,000 ","ALTO/Lot 91 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,305m² ,04 Apr 2022
+"405,000 ","5/5 Hocking Avenue,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,1,1,188m² ,01 Apr 2022
+"65,000 ","CA4 Sunraysia Highway,",LEXTON VIC 3352,Vacant land,0,0,0,"2,000m² ",01 Apr 2022
+"65,000 ","CA5 Sunraysia Highway,",LEXTON VIC 3352,Vacant land,0,0,0,"2,000m² ",01 Apr 2022
+"330,000 ","25 Pernonie Street,",LUCAS VIC 3350,Vacant land,0,0,0,480m² ,01 Apr 2022
+"340,000 ","31/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,828m² ,31 Mar 2022
+"290,000 ","Ballaway/Lot 104/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,450m² ,31 Mar 2022
+"330,000 ","28 Martland Street,",LUCAS VIC 3350,Vacant land,− 0,− 0,1,448m² ,31 Mar 2022
+"260,000 ","108 Trounces Lane,",MOUNT EGERTON VIC 3352,Vacant land,0,0,0,"7,872m² ",31 Mar 2022
+"309,000 ","Pinnacle/Lot 1032 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,512m² ,31 Mar 2022
+"397,000 ","1/3 Rickey Court,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,289m² ,31 Mar 2022
+"304,000 ","ALTO/Lot 113 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,388m² ,31 Mar 2022
+"279,000 ","ALTO/Lot 90 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,305m² ,31 Mar 2022
+"349,900 ","Lot 258/63 Cuzens Road,",ALFREDTON VIC 3350,Vacant land,0,0,0,540m² ,30 Mar 2022
+"350,000 ","Lot 80, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,697m² ,30 Mar 2022
+"350,000 ","Lot 81, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,697m² ,30 Mar 2022
+"287,000 ","Ballaway/Lot 106/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,432m² ,29 Mar 2022
+"420,000 ","6/17 Bradbury Street,",BROWN HILL VIC 3350,Apartment / Unit / Flat,2,1,1,212m² ,29 Mar 2022
+"515,000 ","34 Darling Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,0,29 Mar 2022
+"385,000 ","4 Victoria Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,"6,072m² ",29 Mar 2022
+"320,000 ","7 White Gum Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,504m² ,29 Mar 2022
+"308,000 ","Pinnacle/Lot 619 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,786m² ,28 Mar 2022
+"297,000 ","Pinnacle/Lot 1027 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,394m² ,28 Mar 2022
+"283,000 ","Pinnacle/Lot 1031 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,448m² ,28 Mar 2022
+"297,000 ","Pinnacle/Lot 1028 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,394m² ,28 Mar 2022
+"313,000 ","ALTO/Lot 97 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,406m² ,28 Mar 2022
+"265,000 ","604/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,374m² ,28 Mar 2022
+"259,000 ","Ballaway/Lot 102 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,354m² ,25 Mar 2022
+"275,000 ","Ballaway/Lot 133/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,400m² ,25 Mar 2022
+"320,000 ","Lot 49, 303-303a Smythes Road,",DELACOMBE VIC 3356,Vacant land,0,0,0,499m² ,25 Mar 2022
+"290,000 ","Ballaway/Lot 135/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,23 Mar 2022
+"259,000 ","Ballaway/Lot 103/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,356m² ,23 Mar 2022
+"264,000 ","Pinnacle/Lot 1003 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,392m² ,23 Mar 2022
+"283,000 ","Pinnacle/Lot 1025 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,451m² ,23 Mar 2022
+"277,000 ","Pinnacle/Lot 1018 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,347m² ,23 Mar 2022
+"290,000 ","Ballaway/Lot 110 Millbrook Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,22 Mar 2022
+"355,000 ","5 Blanc Court,",BROWN HILL VIC 3350,Vacant land,0,0,0,527m² ,22 Mar 2022
+"232,000","4 Ferrers Road,",DEREEL VIC 3352,Vacant land,0,0,0,"2,023m² ",22 Mar 2022
+"312,000 ","Ballaway/Lot 139/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,528m² ,21 Mar 2022
+"335,000 ","6/17 Lewis Court,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,128m² ,21 Mar 2022
+"283,000 ","Pinnacle/Lot 1024 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,451m² ,21 Mar 2022
+"283,000 ","Pinnacle/Lot 1033 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,448m² ,21 Mar 2022
+"336,000 ","2/1108 Howitt Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,144m² ,21 Mar 2022
+"290,000 ","Ballaway/Lot 136/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,448m² ,18 Mar 2022
+"297,000 ","Pinnacle/Lot 1019 Kimball Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,392m² ,18 Mar 2022
+"265,000 ","Pinnacle/Lot 606 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,576m² ,18 Mar 2022
+"335,000 ","Ballaway/Lot 107/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,863m² ,17 Mar 2022
+"410,000 ","2/5 Brophy Street,",BROWN HILL VIC 3350,Apartment / Unit / Flat,2,1,1,242m² ,17 Mar 2022
+"468,000 ","3/203 Warrenheip Street,",BUNINYONG VIC 3357,Apartment / Unit / Flat,3,1,1,308m² ,17 Mar 2022
+"493,000 ","4 Nader Close,",REDAN VIC 3350,Townhouse,3,2,2,227m² ,17 Mar 2022
+"420,000 ","4 Wittig Way,",GOLDEN POINT VIC 3350,Townhouse,2,2,1,79m² ,16 Mar 2022
+"417,000 ","4/110 Campbells Crescent,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,276m² ,16 Mar 2022
+"315,000 ","Pinnacle/Lot 617 Hotchkiss Way,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,538m² ,16 Mar 2022
+"320,000 ","Carringum/Lot 632 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,515m² ,16 Mar 2022
+"429,900 ","Lot 239/89 Sydney Way,",ALFREDTON VIC 3350,Vacant land,0,0,0,666m² ,15 Mar 2022
+"345,000 ","Ballaway/Lot 108/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,925m² ,15 Mar 2022
+"280,000 ","Pinnacle/Lot 630 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,544m² ,15 Mar 2022
+"280,000 ","Pinnacle/Lot 1020 Kimball Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,350m² ,15 Mar 2022
+"260,000 ","Lot 321 Coromant Grange,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,15 Mar 2022
+"299,000 ","Carringum/Lot 608 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,15 Mar 2022
+"235,000 ","220/220/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,313m² ,15 Mar 2022
+"305,000 ","Carringum/Lot 633 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,15 Mar 2022
+"299,000 ","Carringum/Lot 608 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,15 Mar 2022
+"289,000 ","27 Lemon Street,",ALFREDTON VIC 3350,Vacant land,0,0,0,421m² ,14 Mar 2022
+"330,000 ","Lot 15 Laurence Drive,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,14 Mar 2022
+"305,000","17 Plymouth Way,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,512m² ,12 Mar 2022
+"275,000 ","Ballaway/Lot 134/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,400m² ,11 Mar 2022
+"259,000 ","Ballaway/Lot 101/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,355m² ,11 Mar 2022
+"275,000 ","Ballaway/Lot 105/73 Webb Road,",BONSHAW VIC 3352,Vacant land,0,0,0,400m² ,11 Mar 2022
+"365,000","6 Beverley Court,",CANADIAN VIC 3350,Vacant land,0,0,0,735m² ,11 Mar 2022
+"155,000 ","1910 Midland Highway,",CRESWICK VIC 3363,Vacant land,0,0,0,"1,053m² ",10 Mar 2022
+"500,000 ","4 Oak Street,",WENDOUREE VIC 3355,Townhouse,3,2,1,235m² ,10 Mar 2022
+"90,000 ","Lot 1 Skene Street,",LEXTON VIC 3352,Vacant land,0,0,0,963m² ,09 Mar 2022
+"310,000 ","Lot 120 Gribble Street,",LUCAS VIC 3350,Vacant land,0,0,0,480m² ,09 Mar 2022
+"190,000 ","5 Ambience Place,",BROWN HILL VIC 3350,Vacant land,− 0,2,−,241m² ,08 Mar 2022
+"350,000 ","16 Cathcart Street,",CLARENDON VIC 3352,Vacant land,0,0,0,"1,400m² ",08 Mar 2022
+"299,000 ","Carringum/Lot 611 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,08 Mar 2022
+"315,000 ","Carringum/Lot 623 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,08 Mar 2022
+"365,000 ","Alfredton Grove/Lot 196 Verdale Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,512m² ,07 Mar 2022
+"410,000 ","Lot 213/58 Mary Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,640m² ,07 Mar 2022
+"245,000 ","Lot 73 Grevillea Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,07 Mar 2022
+"440,000 ","17 Wittig Way,",GOLDEN POINT VIC 3350,Townhouse,2,2,1,89m² ,07 Mar 2022
+"280,000 ","Pinnacle/Lot 629 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,544m² ,07 Mar 2022
+"310,000 ","23 Silver Leaf Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,560m² ,07 Mar 2022
+"240,000 ","1 Yarrowee Parade,",REDAN VIC 3350,Vacant land,0,0,0,839m² ,04 Mar 2022
+"389,950 ","20/12 Alfred Street,",SEBASTOPOL VIC 3356,Townhouse,2,2,1,218m² ,04 Mar 2022
+"299,000 ","Carringum/Lot 619 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,04 Mar 2022
+"495,000 ","29 Locmor Drive,",BROWN HILL VIC 3350,Vacant land,0,0,0,"1,537m² ",03 Mar 2022
+"780,000 ","3 Daylesford Road,",BROWN HILL VIC 3350,Vacant land,0,0,0,"4,912m² ",03 Mar 2022
+"272,000 ","Pinnacle/Lot 1002 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,448m² ,03 Mar 2022
+"320,000 ","5 Provence Court,",BROWN HILL VIC 3350,Vacant land,0,0,0,505m² ,01 Mar 2022
+"450,000 ","Lot 25 & 26 Brumbys Lane,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,01 Mar 2022
+"299,000 ","Carringum/Lot 624 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,01 Mar 2022
+"299,000 ","Carringum/Lot 621 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,01 Mar 2022
+"222,000 ","321 Moffats Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,28 Feb 2022
+"610,000 ","46 Wattletree Drive,",MOUNT HELEN VIC 3350,Vacant land,0,0,0,"2,684m² ",28 Feb 2022
+"272,000 ","Pinnacle/Lot 1001 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,448m² ,28 Feb 2022
+"315,000 ","Carringum/Lot 607 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,27 Feb 2022
+"298,000 ","ALTO/Lot 95 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,362m² ,26 Feb 2022
+"265,000 ","7 Ambience Place,",BROWN HILL VIC 3350,Vacant land,0,0,0,530m² ,25 Feb 2022
+"100,000","3536 Sunraysia Highway,",LEXTON VIC 3352,Vacant land,0,0,0,"2,000m² ",25 Feb 2022
+"299,000 ","Carringum/Lot 616 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,25 Feb 2022
+"355,000 ","2/75 Longley Street,",ALFREDTON VIC 3350,Apartment / Unit / Flat,2,1,1,133m² ,24 Feb 2022
+"750,000 ","1/1084 Eureka Street,",WARRENHEIP VIC 3352,Vacant land,0,0,0,"10,000m² ",24 Feb 2022
+"315,000 ","30 Verdale Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,450m² ,23 Feb 2022
+"354,000 ","23/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,684m² ,23 Feb 2022
+"127,000 ","Lot 10 Scarsdale Pitfield Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,"1,619m² ",22 Feb 2022
+"250,000 ","11 Browns Road,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,797m² ,22 Feb 2022
+"304,000 ","ALTO/Lot 111 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,388m² ,22 Feb 2022
+"365,000 ","Unit 2/232 Humffray Street North,",BROWN HILL VIC 3350,Apartment / Unit / Flat,2,1,1,280m² ,21 Feb 2022
+"300,000 ","27a Basin Road,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,21 Feb 2022
+"560,000 ","1/811a Doveton Street North,",SOLDIERS HILL VIC 3350,Townhouse,2,2,1,122m² ,21 Feb 2022
+"315,000 ","4 Swallow Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,21 Feb 2022
+"320,000 ","7 Gretta Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,512m² ,20 Feb 2022
+"387,500 ","1/8 Gale Street,",CANADIAN VIC 3350,Apartment / Unit / Flat,3,1,1,272m² ,18 Feb 2022
+"350,000 ","Lot 112 Gribble Street,",LUCAS VIC 3350,Vacant land,0,0,0,640m² ,18 Feb 2022
+"380,000","3/100a Beverin Street,",SEBASTOPOL VIC 3356,Townhouse,2,2,2,241m² ,18 Feb 2022
+"315,000 ","Carringum/Lot 622 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,18 Feb 2022
+"420,000 ","30 Grainger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,680m² ,17 Feb 2022
+"700,000","2/120 Lewis Street,",BALLARAT CENTRAL VIC 3350,Apartment / Unit / Flat,3,2,1,312m² ,15 Feb 2022
+"415,000 ","2/8 Alexandra Street,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,260m² ,15 Feb 2022
+"158,000 ","924 Smythesdale-Snake Valley Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,"2,000m² ",15 Feb 2022
+"299,000 ","Carringum/Lot 610 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,15 Feb 2022
+"335,000 ","Carringum/Lot 626 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,515m² ,15 Feb 2022
+"290,000 ","Carringum/Lot 716 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,15 Feb 2022
+"269,000 ","Carringum/Lot 627 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,352m² ,15 Feb 2022
+"269,000 ","Carringum/Lot 628 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,352m² ,15 Feb 2022
+"425,000 ","3/8 Alexandra Street,",SEBASTOPOL VIC 3356,Townhouse,3,2,2,283m² ,14 Feb 2022
+"313,000 ","ALTO/Lot 96 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,406m² ,14 Feb 2022
+"390,000 ","2 Locmor Drive,",BROWN HILL VIC 3350,Vacant land,0,0,0,828m² ,11 Feb 2022
+"455,000 ","38 Tremain Drive,",LUCAS VIC 3350,Vacant land,0,0,0,680m² ,11 Feb 2022
+"385,000 ","2/1 Pryor Street,",MOUNT PLEASANT VIC 3350,Apartment / Unit / Flat,2,1,1,223m² ,10 Feb 2022
+"268,000 ","Pinnacle/Lot 1015 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,348m² ,10 Feb 2022
+"315,000 ","Carringum/Lot 625 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,10 Feb 2022
+"335,000 ","Carringum/Lot 612 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,512m² ,10 Feb 2022
+"315,000 ","Carringum/Lot 613 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,10 Feb 2022
+"335,000 ","Carringum/Lot 609 Maxi Drive,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,512m² ,10 Feb 2022
+"305,000 ","Carringum/Lot 833 Cruz Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,10 Feb 2022
+"299,000 ","Carringum/Lot 620 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,10 Feb 2022
+"315,000 ","Carringum/Lot 615 Mylah Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,10 Feb 2022
+"370,000 ","88 Dyson Drive,",LUCAS VIC 3350,Vacant land,0,0,0,576m² ,09 Feb 2022
+"450,000 ","Drew's Paddock/Lot 406 Divot Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,934m² ,08 Feb 2022
+"280,000 ","Lot 311 Lark Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,476m² ,08 Feb 2022
+"200,000","74A Victoria Street,",SEBASTOPOL VIC 3356,Vacant land,0,0,0,363m² ,07 Feb 2022
+"300,000 ","149 Dereel-Rokewood Junction Road,",DEREEL VIC 3352,Vacant land,0,0,0,0,04 Feb 2022
+"270,000 ","Pinnacle/Lot 1007 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,350m² ,04 Feb 2022
+"580,000 ","36 Kuruc Road,",CARDIGAN VIC 3352,Vacant land,0,0,0,"2,001m² ",02 Feb 2022
+"250,000 ","Pinnacle/Lot 1116 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,544m² ,02 Feb 2022
+"302,000 ","Pinnacle/Lot 1006 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,448m² ,31 Jan 2022
+"298,000 ","Pinnacle/Lot 1009 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,423m² ,31 Jan 2022
+"290,000 ","Pinnacle/Lot 1004 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,392m² ,31 Jan 2022
+"305,000 ","Carringum/Lot 712 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,31 Jan 2022
+"305,000 ","Carringum/Lot 713 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,448m² ,31 Jan 2022
+"670,000 ","2022 Glenelg Highway,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,28 Jan 2022
+"490,000 ","9 Keams Lane,",YENDON VIC 3352,Vacant land,0,0,0,0,28 Jan 2022
+"426,000 ","2/13-15 Learmonth Street,",ALFREDTON VIC 3350,Townhouse,2,1,1,214m² ,27 Jan 2022
+"365,000 ","Alfredton Grove/Lot 195 Verdale Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,532m² ,27 Jan 2022
+"400,000 ","Lot 308 Janson Road,",BROWN HILL VIC 3350,Vacant land,0,0,0,813m² ,27 Jan 2022
+"490,000 ","1/1119 Geelong Road,",MOUNT CLEAR VIC 3350,Townhouse,3,2,1,380m² ,27 Jan 2022
+"400,000 ","4/110 Campbells Crescent,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,276m² ,27 Jan 2022
+"405,000","3/15 Park Street,",WENDOUREE VIC 3355,Apartment / Unit / Flat,2,1,1,298m² ,25 Jan 2022
+"275,000 ","Pinnacle/Lot 605 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,576m² ,24 Jan 2022
+"425,000 ","Drew's Paddock/Lot 403 Divot Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,794m² ,21 Jan 2022
+"320,000","3/328 Clayton Street,",CANADIAN VIC 3350,Vacant land,0,0,0,506m² ,18 Jan 2022
+"290,000","2/110 Adair Street,",REDAN VIC 3350,Apartment / Unit / Flat,2,1,1,192m² ,17 Jan 2022
+"320,000 ","Pinnacle/Lot 1121 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,564m² ,17 Jan 2022
+"270,000 ","91 Dairymans Way,",BONSHAW VIC 3352,Vacant land,0,0,0,534m² ,14 Jan 2022
+"380,000 ","1/1133 Grevillea Road,",WENDOUREE VIC 3355,Townhouse,2,1,1,361m² ,14 Jan 2022
+"455,000","4 Gumtree Court,",BUNINYONG VIC 3357,Vacant land,0,0,0,778m² ,13 Jan 2022
+"365,500 ","5 Gumdale Place,",SEBASTOPOL VIC 3356,Townhouse,2,1,1,193m² ,13 Jan 2022
+"420,000 ","30 Grainger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,680m² ,12 Jan 2022
+"300,000 ","15 Overall Street,",LUCAS VIC 3350,Vacant land,0,0,0,392m² ,12 Jan 2022
+"330,000 ","Alfredton Grove/Lot 198 Verdale Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,448m² ,11 Jan 2022
+"310,000 ","46 Willoby Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,459m² ,11 Jan 2022
+"230,000 ","Pinnacle/Lot 1016 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,275m² ,11 Jan 2022
+"259,000 ","Carringum/Lot 724 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,347m² ,11 Jan 2022
+"325,000 ","Carringum/Lot 711 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,512m² ,11 Jan 2022
+"455,000 ","32 Amana Drive,",ALFREDTON VIC 3350,Townhouse,3,2,2,154m² ,10 Jan 2022
+"368,000 ","8 Sligo Street,",ALFREDTON VIC 3350,Vacant land,0,0,0,576m² ,10 Jan 2022
+"245,000 ","Pinnacle/Lot 1117 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,544m² ,10 Jan 2022
+"298,000 ","Pinnacle/Lot 1014 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,420m² ,10 Jan 2022
+"275,000 ","3 Coates Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,"9,680m² ",10 Jan 2022
+"345,000 ","2/610 Somerville Street,",BUNINYONG VIC 3357,Apartment / Unit / Flat,2,1,1,342m² ,07 Jan 2022
+"280,000 ","Pinnacle/Lot 1011 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,378m² ,07 Jan 2022
+"270,000 ","Pinnacle/Lot 1008 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,350m² ,06 Jan 2022
+"325,000 ","(Lot 59) 2 Cuthberts Road,",LUCAS VIC 3350,Vacant land,0,0,0,540m² ,05 Jan 2022
+"917,500","115 School Lane,",CAMBRIAN HILL VIC 3352,Vacant land,0,0,0,0,03 Jan 2022
+"263,000 ","Lot 10J Nidschelms Lane,",DURHAM LEAD VIC 3352,Vacant land,0,0,0,0,03 Jan 2022
+"298,000 ","Pinnacle/Lot 1010 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,420m² ,30 Dec 2021
+"242,000 ","Pinnacle/Lot 1133 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,512m² ,29 Dec 2021
+"2,200,000 ","14 Jones Street,",BROWN HILL VIC 3350,Vacant land,0,0,0,0,24 Dec 2021
+"440,000 ","3/611 Talbot Street South,",REDAN VIC 3350,Townhouse,3,1,2,459m² ,24 Dec 2021
+"425,000 ","35 Jory Street,",CRESWICK VIC 3363,Apartment / Unit / Flat,2,2,2,965m² ,23 Dec 2021
+"299,000 ","31 Invicta Drive,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,400m² ,23 Dec 2021
+"430,000 ","Drew's Paddock/Lot 404 Divot Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,805m² ,22 Dec 2021
+"425,000 ","Drew's Paddock/Lot 402 Divot Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,784m² ,22 Dec 2021
+"315,000 ","4 Whatman Street,",LUCAS VIC 3350,Vacant land,0,0,0,392m² ,22 Dec 2021
+"280,000 ","Pinnacle/Lot 1013 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,375m² ,22 Dec 2021
+"238,000 ","Pinnacle/Lot 1132 Patriot Crescent,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,480m² ,22 Dec 2021
+"302,000 ","Pinnacle/Lot 1005 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,392m² ,22 Dec 2021
+"460,000","115 Bottle Hill Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,22 Dec 2021
+"351,000 ","2/138 Spencer Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,167m² ,21 Dec 2021
+"393,000 ","35/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,829m² ,20 Dec 2021
+"270,000 ","2/12 Lilley Street,",BALLARAT NORTH VIC 3350,Apartment / Unit / Flat,1,1,1,103m² ,20 Dec 2021
+"298,000 ","Pinnacle/Lot 1012 Chandler Street,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,420m² ,20 Dec 2021
+"291,000 ","Pinnacle/Lot 1035 Diablo Place,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,400m² ,20 Dec 2021
+"308,000 ","ALTO/Lot 88 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,406m² ,20 Dec 2021
+"273,000 ","Pinnacle/Lot 625 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,612m² ,17 Dec 2021
+"350,000 ","Lot 21 Nunns Road,",SNAKE VALLEY VIC 3351,Vacant land,0,0,0,0,17 Dec 2021
+"274,000 ","ALTO/Lot 93 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,305m² ,17 Dec 2021
+"293,000 ","ALTO/Lot 92 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,362m² ,17 Dec 2021
+"308,000 ","ALTO/Lot 89 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,406m² ,16 Dec 2021
+"293,000 ","ALTO/Lot 94 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,363m² ,16 Dec 2021
+"464,000 ","12 Montadale Court,",ALFREDTON VIC 3350,Vacant land,0,0,0,749m² ,14 Dec 2021
+"575,000 ","26A Longley Street,",ALFREDTON VIC 3350,Townhouse,3,2,2,400m² ,14 Dec 2021
+"220,000 ","109 Horsecrafts Road,",LAL LAL VIC 3352,Vacant land,0,0,0,"6,445m² ",13 Dec 2021
+"325,000 ","Carringum/Lot 709 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,512m² ,13 Dec 2021
+"350,000 ","Carringum/Lot 434 Cassowary Way,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,576m² ,13 Dec 2021
+"360,000 ","3/106 Cuthberts Road,",ALFREDTON VIC 3350,Apartment / Unit / Flat,2,1,1,189m² ,10 Dec 2021
+"355,000 ","Alfredton Grove/Lot 197 Verdale Drive,",ALFREDTON VIC 3350,Vacant land,0,0,0,512m² ,10 Dec 2021
+"250,000 ","8 Willowbank Way,",BROWN HILL VIC 3350,Vacant land,0,0,0,"9,640m² ",10 Dec 2021
+"230,000 ","39 Darriwell Drive,",MOUNT HELEN VIC 3350,Vacant land,0,0,0,800m² ,10 Dec 2021
+"335,000 ","9/4 Wall Street,",SEBASTOPOL VIC 3356,Apartment / Unit / Flat,2,1,1,170m² ,10 Dec 2021
+"305,000 ","3 Warbler Court,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,420m² ,10 Dec 2021
+"293,000 ","ALTO/Lot 117 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,388m² ,10 Dec 2021
+"308,000 ","ALTO/Lot 119 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,434m² ,10 Dec 2021
+"370,000 ","33 Paterson Street,",LUCAS VIC 3350,Vacant land,0,0,0,535m² ,09 Dec 2021
+"680,000 ","113A Duggan Street,",BLACK HILL VIC 3350,Vacant land,0,0,0,"2,090m² ",08 Dec 2021
+"750,000 ","316 Clayton Street,",CANADIAN VIC 3350,Vacant land,0,0,0,"1,888m² ",08 Dec 2021
+"475,000 ","5/10 Wood Street,",SOLDIERS HILL VIC 3350,Apartment / Unit / Flat,3,2,2,246m² ,08 Dec 2021
+"290,000 ","25B Spoonbill Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,487m² ,08 Dec 2021
+"360,000 ","2/2 MacDonald Street,",BALLARAT EAST VIC 3350,Apartment / Unit / Flat,2,1,1,208m² ,07 Dec 2021
+"346,000 ","3c Haymes Crescent,",GOLDEN POINT VIC 3350,Townhouse,2,2,1,92m² ,07 Dec 2021
+"178,000 ","7 Burgoyne Street,",SCARSDALE VIC 3351,Vacant land,0,0,0,0,03 Dec 2021
+"235,000 ","Pinnacle/Lot 817 Kensington Boulevard,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,543m² ,03 Dec 2021
+"259,000 ","24 Lemon Street,",ALFREDTON VIC 3350,Vacant land,0,0,0,376m² ,01 Dec 2021
+"310,000 ","5 Savannah Court,",DELACOMBE VIC 3356,Vacant land,0,0,0,550m² ,01 Dec 2021
+"262,500 ","Lot 1/46 Howe Street,",MINERS REST VIC 3352,Vacant land,0,0,0,509m² ,01 Dec 2021
+"285,000 ","3 Invicta Drive,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,400m² ,01 Dec 2021
+"230,000 ","9 Wills Street,",SMYTHESDALE VIC 3351,Vacant land,0,0,0,"1,012m² ",01 Dec 2021
+"259,000 ","Carringum/Lot 722 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,352m² ,01 Dec 2021
+"259,000 ","Carringum/Lot 722 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,352m² ,01 Dec 2021
+"350,000 ","Lot 124/520 Greenhalghs Road,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,643m² ,01 Dec 2021
+"420,000 ","13 Hastings Street,",WENDOUREE VIC 3355,Vacant land,0,0,0,594m² ,30 Nov 2021
+"290,000 ","Carringum/Lot 702 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,30 Nov 2021
+"290,000 ","Carringum/Lot 703 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,30 Nov 2021
+"380,000 ","13/846 Eureka Street,",BALLARAT EAST VIC 3350,Vacant land,0,0,0,700m² ,29 Nov 2021
+"347,000 ","73 Grainger Parade,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,29 Nov 2021
+"250,000 ","Pinnacle/Lot 611 Buick Road,",SMYTHES CREEK VIC 3351,Vacant land,0,0,0,512m² ,29 Nov 2021
+"274,000 ","ALTO/Lot 114 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,325m² ,29 Nov 2021
+"308,000 ","ALTO/Lot 118 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,434m² ,29 Nov 2021
+"259,000 ","Carringum/Lot 721 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,347m² ,29 Nov 2021
+"290,000 ","Carringum/Lot 707 Ashton Avenue,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,400m² ,29 Nov 2021
+"293,000 ","ALTO/Lot 116 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,387m² ,29 Nov 2021
+"265,900 ","2/25 Whitefield Street,",BLACK HILL VIC 3350,Apartment / Unit / Flat,1,1,1,126m² ,27 Nov 2021
+"2,100,000 ","6 Jones Street,",BROWN HILL VIC 3350,Vacant land,0,0,0,0,26 Nov 2021
+"340,000 ","13 Whatman Street,",LUCAS VIC 3350,Vacant land,0,0,0,512m² ,26 Nov 2021
+"546,000 ","9 Florence Court,",BROWN HILL VIC 3350,Townhouse,3,2,1,482m² ,25 Nov 2021
+"310,000 ","Drew's Paddock/Lot 415 Divot Circuit,",INVERMAY PARK VIC 3350,Vacant land,0,0,0,479m² ,25 Nov 2021
+"345,000 ","Lot 31 Hutchinson Drive,",LUCAS VIC 3350,Vacant land,0,0,0,630m² ,25 Nov 2021
+"1,600,000 ","Lot 25, 69 Hopetoun Road,",MITCHELL PARK VIC 3355,Vacant land,0,0,0,0,25 Nov 2021
+"293,000 ","ALTO/Lot 115 Electro Street,",WINTER VALLEY VIC 3358,Vacant land,0,0,0,388m² ,25 Nov 2021

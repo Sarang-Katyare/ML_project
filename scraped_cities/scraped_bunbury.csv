@@ -1,0 +1,981 @@
+Price,Address,Suburb,House Type,Number of Rooms,Number of Baths,Number of Parking,Area,Sold Date
+"800,000 ","6 Turner Street,",BUNBURY WA 6230,House,4,2,2,452m² ,26 Mar 2024
+"370,000 ","6/79 Stirling Street,",BUNBURY WA 6230,House,2,1,1,155m² ,23 Feb 2024
+"580,000 ","15 Ednie Street,",BUNBURY WA 6230,House,2,1,3,339m² ,12 Feb 2024
+"615,000 ","11 Reading Street,",BUNBURY WA 6230,House,3,1,1,608m² ,08 Feb 2024
+"1,250,000 ","4 Karri Street,",BUNBURY WA 6230,House,4,3,3,"1,012m² ",06 Feb 2024
+"1,060,000 ","9 Upper Esplanade,",BUNBURY WA 6230,House,3,1,2,809m² ,29 Jan 2024
+"780,000 ","13 Tingle Street,",BUNBURY WA 6230,House,3,1,1,780m² ,12 Jan 2024
+"776,000 ","2 Turner Street,",BUNBURY WA 6230,House,3,2,2,420m² ,09 Jan 2024
+"437,000 ","1/17 Thomas Street,",BUNBURY WA 6230,House,3,1,2,281m² ,08 Jan 2024
+"705,000 ","3 Jarrah Street,",BUNBURY WA 6230,House,4,2,2,779m² ,15 Dec 2023
+"785,000 ","21 Ednie Street,",BUNBURY WA 6230,House,4,1,3,"1,136m² ",01 Dec 2023
+"710,000 ","36 Simpson Avenue,",BUNBURY WA 6230,House,4,1,1,"1,059m² ",07 Nov 2023
+"830,000 ","13/15 Parkfield Street,",BUNBURY WA 6230,House,3,2,2,303m² ,03 Nov 2023
+"693,000 ","6 Garvey Place,",BUNBURY WA 6230,House,3,1,1,506m² ,19 Oct 2023
+"700,000 ","18A Upper Esplanade,",BUNBURY WA 6230,House,3,2,4,497m² ,28 Sep 2023
+"370,000 ","11B Sherry Street,",BUNBURY WA 6230,Semi-detached,2,1,1,361m² ,17 Sep 2023
+"600,000 ",,BUNBURY WA 6230,House,3,2,−,380m² ,12 Sep 2023
+"716,000 ","51 Charles Street,",BUNBURY WA 6230,House,3,3,2,715m² ,2023
+"580,000 ","19 Ednie Street,",BUNBURY WA 6230,House,3,1,1,359m² ,17 Aug 2023
+"885,000 ","18 Sampson Road,",BUNBURY WA 6230,House,3,2,2,680m² ,05 Aug 2023
+"575,000 ","9/1 Victoria Street,",BUNBURY WA 6230,House,3,2,2,268m² ,11 Jul 2023
+"835,000 ","6 Stanley Street,",BUNBURY WA 6230,House,4,2,2,346m² ,02 Jul 2023
+"1,145,000 ","42 Stirling Street,",BUNBURY WA 6230,House,3,3,3,587m² ,22 Jun 2023
+"1,150,000 ","26A Picton Crescent,",BUNBURY WA 6230,House,5,2,2,"1,589m² ",19 Jun 2023
+"1,165,000 ","3/15 Parkfield Street,",BUNBURY WA 6230,House,3,2,2,203m² ,12 Jun 2023
+"610,000 ","2/13 Symmons Street,",BUNBURY WA 6230,House,3,2,2,182m² ,09 Jun 2023
+"575,000 ","1/43 Charles Street,",BUNBURY WA 6230,House,4,2,2,477m² ,19 May 2023
+"320,000 ","19/14 Lyons Cove,",BUNBURY WA 6230,House,2,2,1,111m² ,2023
+"390,000 ","21A Upper Esplanade,",BUNBURY WA 6230,House,2,1,1,696m² ,29 Apr 2023
+"287,500 ","5 Moore Street,",BUNBURY WA 6230,House,3,1,−,228m² ,24 Apr 2023
+"660,000 ","5 Sinclair Close,",BUNBURY WA 6230,House,3,2,2,409m² ,20 Apr 2023
+"1,050,000 ","3 Haydock Street,",BUNBURY WA 6230,House,4,2,3,607m² ,31 Mar 2023
+"585,000 ","1/24 Upper Esplanade,",BUNBURY WA 6230,House,3,2,2,380m² ,30 Mar 2023
+"877,000 ","82 Stirling Street,",BUNBURY WA 6230,House,2,2,4,855m² ,2023
+"330,000 ","9 Charles Street,",BUNBURY WA 6230,House,3,1,−,364m² ,08 Mar 2023
+"660,000 ","53 Stockley Road,",BUNBURY WA 6230,House,3,2,−,747m² ,24 Feb 2023
+"392,000 ","22 Moore Street,",BUNBURY WA 6230,House,3,1,1,251m² ,07 Feb 2023
+"417,000 ","16 Tuart Street,",BUNBURY WA 6230,House,2,1,1,584m² ,03 Feb 2023
+"735,000 ","54 Beach Road,",BUNBURY WA 6230,House,4,2,2,860m² ,30 Jan 2023
+"915,000 ","6 Lumper Street,",BUNBURY WA 6230,House,4,2,2,546m² ,13 Jan 2023
+"650,000 ","3/15 Whale View,",BUNBURY WA 6230,House,3,2,1,257m² ,2023
+"640,000 ","96 Stockley Road,",BUNBURY WA 6230,House,3,1,3,545m² ,23 Dec 2022
+"1,200,000 ","46 Stockley Road,",BUNBURY WA 6230,House,5,2,4,"2,015m² ",23 Dec 2022
+"1,025,000 ","2 Jarrah Street,",BUNBURY WA 6230,House,4,1,3,"1,012m² ",02 Dec 2022
+"585,000 ","9 Garvey Place,",BUNBURY WA 6230,House,3,1,1,"1,043m² ",30 Nov 2022
+"785,000 ","1 Wittenoom Street,",BUNBURY WA 6230,House,3,2,4,379m² ,04 Nov 2022
+"506,000 ","18 Albert Road,",BUNBURY WA 6230,House,2,1,2,416m² ,30 Oct 2022
+"955,000 ","25 Thomas Street,",BUNBURY WA 6230,House,5,2,4,761m² ,2022
+"1,800,000 ","5 The Strand,",BUNBURY WA 6230,House,4,4,3,663m² ,24 Aug 2022
+"625,000 ","12 Brewery Lane,",BUNBURY WA 6230,House,3,2,2,266m² ,17 Aug 2022
+"387,500 ","1B Stanley Street,",BUNBURY WA 6230,House,3,1,2,288m² ,15 Aug 2022
+"673,888 ","19B Marlston Drive,",BUNBURY WA 6230,House,3,3,1,258m² ,12 Aug 2022
+"838,000 ","8 Palm St,",BUNBURY WA 6230,House,4,3,2,"1,012m² ",09 Aug 2022
+"475,000 ","44 Charles Street,",BUNBURY WA 6230,House,3,1,1,667m² ,08 Aug 2022
+"1,260,000 ","111 Ocean Drive,",BUNBURY WA 6230,House,4,2,2,791m² ,27 Jul 2022
+"475,000 ","16/A William Street,",BUNBURY WA 6230,House,3,2,2,367m² ,08 Jul 2022
+"485,000 ","35 Charles Street,",BUNBURY WA 6230,House,3,2,2,287m² ,08 Jun 2022
+"793,000 ","10 Wexford Lane,",BUNBURY WA 6230,House,3,2,2,337m² ,03 Jun 2022
+"450,000 ","1/11 Greensell Street,",BUNBURY WA 6230,House,2,2,1,401m² ,25 May 2022
+"635,000 ","24 Stanley Street,",BUNBURY WA 6230,House,3,2,2,302m² ,27 Apr 2022
+"408,000 ","53B STOCKLEY ROAD,",BUNBURY WA 6230,House,2,1,1,674m² ,22 Apr 2022
+"645,000 ","19 Tuart Street,",BUNBURY WA 6230,House,4,2,2,911m² ,12 Apr 2022
+"2,195 ","17 The Strand,",BUNBURY WA 6230,House,5,3,4,665m² ,09 Apr 2022
+"630,000 ","20 Thomas Street,",BUNBURY WA 6230,House,5,3,2,"1,011m² ",06 Apr 2022
+"890,000 ","11 Samuel Wright Street,",BUNBURY WA 6230,House,5,3,2,457m² ,22 Mar 2022
+"658,000 ","2/19A Marlston Drive,",BUNBURY WA 6230,House,3,3,1,234m² ,15 Mar 2022
+"2,195,000 ","17 The Strand,",BUNBURY WA 6230,House,5,3,4,665m² ,09 Mar 2022
+"355,000 ","24/13 Upper Esplanade,",BUNBURY WA 6230,House,3,1,1,89m² ,02 Mar 2022
+"600,000 ","90 Beach Road,",BUNBURY WA 6230,House,4,2,2,664m² ,28 Feb 2022
+"1,190,000 ","1 Jarrah Street,",BUNBURY WA 6230,House,4,2,2,903m² ,28 Feb 2022
+"780,000 ","4 Fraser Street,",BUNBURY WA 6230,House,3,2,2,465m² ,14 Feb 2022
+"1,000,000 ","22 Lumper Street,",BUNBURY WA 6230,House,4,3,2,536m² ,10 Jan 2022
+"322,000 ","2/20 Ednie Street,",BUNBURY WA 6230,House,2,1,1,248m² ,2022
+"840,000 ","11 Haydock Street,",BUNBURY WA 6230,House,4,2,2,530m² ,01 Jan 2022
+"455,000 ","7 Hayes Street,",BUNBURY WA 6230,House,3,1,2,309m² ,27 Dec 2021
+"620,000 ","21 Ednie Street,",BUNBURY WA 6230,House,4,1,2,"1,136m² ",23 Dec 2021
+"880,000 ","10 Sherry Street,",BUNBURY WA 6230,House,4,2,2,797m² ,07 Dec 2021
+"750,000 ","7B Whale View,",BUNBURY WA 6230,House,4,2,−,374m² ,25 Nov 2021
+"450,000 ","3 Sampson Road,",BUNBURY WA 6230,House,3,1,3,551m² ,18 Nov 2021
+"910,000 ","33 Picton Crescent,",BUNBURY WA 6230,House,4,2,2,590m² ,13 Nov 2021
+"590,000 ","3 Acacia Street,",BUNBURY WA 6230,House,3,2,1,890m² ,02 Oct 2021
+"365,000 ","57 Moore Street,",BUNBURY WA 6230,House,2,1,2,509m² ,21 Sep 2021
+"730,000 ","5 Lovegrove Avenue,",BUNBURY WA 6230,House,4,2,2,550m² ,11 Sep 2021
+"730,000 ","54 Beach Road,",BUNBURY WA 6230,House,4,2,2,860m² ,09 Sep 2021
+"615,000 ","2 Turner Street,",BUNBURY WA 6230,House,3,2,−,420m² ,27 Jul 2021
+"488,000 ","42 Moore Street,",BUNBURY WA 6230,House,3,1,1,555m² ,30 Jun 2021
+"555,000 ","44 William St,",BUNBURY WA 6230,House,4,2,2,677m² ,29 Jun 2021
+"600,000 ","10 Moore Street,",BUNBURY WA 6230,House,4,2,4,495m² ,09 Jun 2021
+"550,000 ","15 Marlston Drive,",BUNBURY WA 6230,House,3,2,2,312m² ,31 May 2021
+"890,000 ","36 Stirling Street,",BUNBURY WA 6230,House,3,1,2,923m² ,29 May 2021
+"660,000 ","1 Tuart Street,",BUNBURY WA 6230,House,4,1,2,566m² ,21 May 2021
+"300,000 ","9 Charles Street,",BUNBURY WA 6230,House,3,1,−,364m² ,21 May 2021
+"850,000 ","10a Baudin Terrace,",BUNBURY WA 6230,House,4,2,2,388m² ,28 Apr 2021
+"700,000 ","39 Marlston Drive,",BUNBURY WA 6230,House,4,2,2,611m² ,14 Apr 2021
+"688,000 ","91 Stirling Street,",BUNBURY WA 6230,House,3,2,1,299m² ,12 Apr 2021
+"510,000 ","10B Acacia Street,",BUNBURY WA 6230,House,3,2,1,379m² ,2021
+"430,000 ","14 Zoe Street,",BUNBURY WA 6230,House,3,1,1,"1,012m² ",23 Mar 2021
+"775,000 ","36 Parkfield Street,",BUNBURY WA 6230,House,4,2,2,959m² ,23 Mar 2021
+"765,000 ","3 Prinsep Street,",BUNBURY WA 6230,House,3,2,2,760m² ,23 Feb 2021
+"650,000 ","9 Tuart Street,",BUNBURY WA 6230,House,3,2,−,941m² ,16 Feb 2021
+"639,000 ","11 Sampson Road,",BUNBURY WA 6230,House,3,3,2,568m² ,08 Feb 2021
+"394,000 ","41 Stirling Street,",BUNBURY WA 6230,House,3,1,1,365m² ,05 Feb 2021
+"790,000 ","7 Roberts Crescent,",BUNBURY WA 6230,House,4,4,2,988m² ,18 Jan 2021
+"390,000 ","11 Greensell Street,",BUNBURY WA 6230,House,2,2,1,401m² ,10 Dec 2020
+"390,000 ","15A Symmons Street,",BUNBURY WA 6230,House,3,1,1,511m² ,05 Dec 2020
+"510,000 ","27 Clifton Street,",BUNBURY WA 6230,House,6,1,12,704m² ,29 Nov 2020
+"725,000 ","36 Tuart Street,",BUNBURY WA 6230,House,3,2,2,"1,012m² ",27 Nov 2020
+"240,000 ","336 Ocean Drive,",BUNBURY WA 6230,House,3,1,3,680m² ,16 Nov 2020
+"415,000 ","3/31 Marlston Drive,",BUNBURY WA 6230,House,3,2,2,234m² ,07 Nov 2020
+"500,000 ","60 Beach Road,",BUNBURY WA 6230,House,5,2,1,"1,287m² ",05 Nov 2020
+"265,000 ","15 Ednie Street,",BUNBURY WA 6230,House,2,1,1,339m² ,27 Oct 2020
+"176,500 ","31 Scott Street,",BUNBURY WA 6230,Semi-detached,2,1,1,81m² ,09 Oct 2020
+"380,000 ","30 Beach Road,",BUNBURY WA 6230,House,3,1,1,500m² ,05 Oct 2020
+"697,000 ","8 Haig Crescent,",BUNBURY WA 6230,House,3,2,4,"1,105m² ",14 Sep 2020
+"470,000 ","18B Molloy Street,",BUNBURY WA 6230,House,3,2,2,297m² ,24 Jul 2020
+"525,000 ","14 Charles Street,",BUNBURY WA 6230,House,3,1,−,581m² ,18 Jul 2020
+"570,000 ","5 Acacia Street,",BUNBURY WA 6230,House,4,2,3,960m² ,03 Jul 2020
+"540,000 ","1 Ednie Street,",BUNBURY WA 6230,House,3,1,6,879m² ,08 Jun 2020
+"540,000 ","2 Moore Street,",BUNBURY WA 6230,House,3,2,4,597m² ,04 Jun 2020
+"325,000 ","21 George Street,",BUNBURY WA 6230,House,2,1,−,"1,011m² ",25 Apr 2020
+"527,500 ","4B Whale View,",BUNBURY WA 6230,House,3,2,2,353m² ,08 Apr 2020
+"750,000 ","14 Picton Crescent,",BUNBURY WA 6230,House,4,2,2,"1,155m² ",06 Apr 2020
+"592,500 ","8 Palm Street,",BUNBURY WA 6230,House,4,3,2,"1,012m² ",05 Apr 2020
+"745,000 ","55/11 Holman Street,",BUNBURY WA 6230,House,3,2,2,166m² ,25 Feb 2020
+"270,000 ","17 Forster Street,",BUNBURY WA 6230,House,3,1,1,425m² ,23 Jan 2020
+"640,000 ","11 Samuel Wright Street,",BUNBURY WA 6230,House,5,3,2,457m² ,22 Jan 2020
+"1,450,000 ","2 Irwin Street,",BUNBURY WA 6230,House,4,2,3,"2,011m² ",13 Jan 2020
+"560,000 ","53 Stockley Road,",BUNBURY WA 6230,House,4,2,1,747m² ,05 Dec 2019
+"657,000 ","6 Picton Crescent,",BUNBURY WA 6230,House,4,3,2,491m² ,02 Dec 2019
+"474,000 ","17 Moore Street,",BUNBURY WA 6230,House,3,2,2,489m² ,2019
+"427,000 ","49 Moore Street,",BUNBURY WA 6230,House,5,2,2,770m² ,2019
+"775,000 ","11 Palm Street,",BUNBURY WA 6230,House,3,2,4,"1,170m² ",2019
+"640,000 ","7 Tuart Street,",BUNBURY WA 6230,House,4,2,2,580m² ,19 Aug 2019
+"400,000 ","6 Palm Street,",BUNBURY WA 6230,House,2,1,−,"1,012m² ",21 Jul 2019
+"670,000 ","1 Macnish Close,",BUNBURY WA 6230,House,3,1,2,918m² ,09 Jul 2019
+"361,000 ","12 Gibson Street,",BUNBURY WA 6230,House,4,1,−,503m² ,01 Jul 2019
+"410,000 ","98 Beach Road,",BUNBURY WA 6230,House,5,2,−,507m² ,28 Jun 2019
+"375,000 ","13 Wattle Street,",BUNBURY WA 6230,House,3,1,2,564m² ,24 Jun 2019
+"267,000 ","20 Charles Street,",BUNBURY WA 6230,House,2,1,4,173m² ,23 May 2019
+"475,000 ","12 Palm Street,",BUNBURY WA 6230,House,3,1,1,"1,037m² ",13 May 2019
+"440,000 ","8 Banksia Street,",BUNBURY WA 6230,House,3,1,2,"1,011m² ",11 Apr 2019
+"760,000 ","24 Samuel Wright Street,",BUNBURY WA 6230,House,4,3,2,477m² ,30 Mar 2019
+"900,000 ","4A Upper Esplanade,",BUNBURY WA 6230,House,4,2,2,387m² ,17 Dec 2018
+"550,000 ","14 Samuel Wright Street,",BUNBURY WA 6230,House,3,2,2,454m² ,14 Dec 2018
+"475,000 ","5 THOMAS STREET,",BUNBURY WA 6230,House,3,2,2,944m² ,14 Dec 2018
+"1,100,000 ","29 Lumper Street,",BUNBURY WA 6230,House,5,3,2,567m² ,03 Oct 2018
+"380,000 ","69 Stirling Street,",BUNBURY WA 6230,House,2,1,−,402m² ,14 Aug 2018
+"380,000 ","12 Braund Street,",BUNBURY WA 6230,House,3,2,2,324m² ,26 Jul 2018
+"760,000 ","1 Wellington Street,",BUNBURY WA 6230,House,2,1,−,760m² ,23 Jul 2018
+"500,000 ","12c ACACIA STREET,",BUNBURY WA 6230,House,4,2,2,234m² ,13 Jul 2018
+"500,000 ","1/2 Whale View,",BUNBURY WA 6230,House,3,3,2,313m² ,30 May 2018
+"400,000 ","9 Teede Street,",BUNBURY WA 6230,House,3,1,1,607m² ,21 May 2018
+"340,000 ","23A Thomas Street,",BUNBURY WA 6230,House,3,1,1,385m² ,16 Apr 2018
+"770,000 ","47 Picton Crescent,",BUNBURY WA 6230,House,4,3,2,887m² ,20 Mar 2018
+"625,000 ","1 Palm Street,",BUNBURY WA 6230,House,5,2,2,"1,012m² ",05 Mar 2018
+"530,000 ","1A Whale View Terrace,",BUNBURY WA 6230,House,3,2,2,372m² ,19 Feb 2018
+"400,000 ","1 Sampson Road,",BUNBURY WA 6230,House,4,2,−,749m² ,06 Feb 2018
+"590,000 ","3 Pickersgill Street,",BUNBURY WA 6230,House,4,2,2,730m² ,05 Feb 2018
+"545,000 ","199 Ocean Drive,",BUNBURY WA 6230,House,4,1,5,532m² ,18 Jan 2018
+"397,500 ","7 Hayes Street,",BUNBURY WA 6230,House,3,1,−,309m² ,09 Jan 2018
+"630,000 ","47 TUART STREET,",BUNBURY WA 6230,House,3,2,2,"1,012m² ",01 Nov 2017
+"440,000 ","53A STOCKLEY ROAD,",BUNBURY WA 6230,House,4,1,1,656m² ,2017
+"470,000 ","3/21 Upper Esplanade,",BUNBURY WA 6230,House,5,2,2,495m² ,06 Oct 2017
+"382,500 ","14 Braund Street,",BUNBURY WA 6230,House,3,2,2,328m² ,04 Sep 2017
+"490,000 ","92 Stockley Road,",BUNBURY WA 6230,House,3,1,6,544m² ,22 Aug 2017
+"800,000 ","4 Palm Street,",BUNBURY WA 6230,House,4,2,4,"1,011m² ",04 Aug 2017
+"483,000 ","1/11 Marlston Drive,",BUNBURY WA 6230,House,3,2,2,271m² ,07 Jul 2017
+"780,000 ","3/62 Marabank Loop,",BUNBURY WA 6230,House,4,2,2,291m² ,16 Jun 2017
+"985,000 ","15 Roberts Crescent,",BUNBURY WA 6230,House,4,3,3,882m² ,16 May 2017
+"430,000 ","15 Thomas Street,",BUNBURY WA 6230,House,3,1,1,"1,065m² ",28 Apr 2017
+"1,600,000 ","55 Stirling Street,",BUNBURY WA 6230,House,4,3,2,"1,978m² ",2017
+"460,000 ","42 Moore Street,",BUNBURY WA 6230,House,3,1,2,555m² ,07 Feb 2017
+"425,000 ","28 Tuart Street,",BUNBURY WA 6230,House,3,1,2,"1,014m² ",13 Sep 2016
+"820,000 ","2 Bennett Way,",BUNBURY WA 6230,House,3,2,2,275m² ,25 Aug 2016
+"870,000 ","40 Marabank Loop,",BUNBURY WA 6230,House,4,3,2,332m² ,20 Jul 2016
+"250,000 ","31 Moore Street,",BUNBURY WA 6230,House,2,1,−,309m² ,28 Jun 2016
+"485,000 ","1 Fraser Street,",BUNBURY WA 6230,House,4,1,2,534m² ,11 May 2016
+"550,000 ","1/21 Samuel Wright Street,",BUNBURY WA 6230,House,3,2,2,370m² ,17 Mar 2016
+"307,000 ","7A Thomas Street,",BUNBURY WA 6230,House,2,1,3,357m² ,10 Feb 2016
+"850,000 ","5 Jarrah Street,",BUNBURY WA 6230,House,4,2,1,742m² ,30 Dec 2015
+"515,000 ","17 Lovegrove Avenue,",BUNBURY WA 6230,House,3,2,−,550m² ,18 Dec 2015
+"285,000 ","31 Strickland Street,",BUNBURY WA 6230,House,4,2,−,512m² ,30 Nov 2015
+"391,000 ","18 Sampson Road,",BUNBURY WA 6230,House,4,1,1,680m² ,2015
+"1,100,000 ","15 Roberts Crescent,",BUNBURY WA 6230,House,4,3,3,888m² ,09 Oct 2015
+"495,000 ","83 Stirling Street,",BUNBURY WA 6230,House,2,2,−,227m² ,02 Jul 2015
+"970,000 ","72 Stirling Street,",BUNBURY WA 6230,House,3,2,2,427m² ,17 Jun 2015
+"517,000 ","23A Whale View,",BUNBURY WA 6230,House,3,2,2,199m² ,08 Jun 2015
+"695,000 ","11 Tuart Street,",BUNBURY WA 6230,House,5,2,1,905m² ,18 Mar 2015
+"540,000 ","1 Roman Road,",BUNBURY WA 6230,House,5,2,3,"1,108m² ",16 Mar 2015
+"775,000 ","13 Wexford Lane,",BUNBURY WA 6230,House,4,2,2,447m² ,24 Feb 2015
+"490,000 ","3 Wattle Street,",BUNBURY WA 6230,House,3,1,1,"1,012m² ",22 Dec 2014
+"700,000 ","22A Clifton Street,",BUNBURY WA 6230,Semi-detached,4,2,4,365m² ,10 Nov 2014
+"710,000 ","49 Picton Crescent,",BUNBURY WA 6230,House,4,2,1,"1,161m² ",28 Oct 2014
+"701,000 ","6 Samuel Wright Street,",BUNBURY WA 6230,House,4,2,−,453m² ,07 May 2014
+"810,000 ","8 Turner Street,",BUNBURY WA 6230,House,4,2,2,"1,067m² ",12 Apr 2014
+"420,000 ","7 Lovegrove Avenue,",BUNBURY WA 6230,House,2,1,1,550m² ,08 Apr 2014
+"1,900,000 ","17 The Strand,",BUNBURY WA 6230,House,4,3,4,665m² ,19 Mar 2014
+"900,000 ","38 & 40 Parkfield St,",BUNBURY WA 6230,House,3,1,2,"1,863m² ",26 Feb 2014
+"375,000 ","7 Paisley Street,",BUNBURY WA 6230,House,3,1,−,721m² ,17 Feb 2014
+"589,000 ","30 Picton Crescent,",BUNBURY WA 6230,House,3,1,−,940m² ,12 Nov 2013
+"800,000 ","4 Money Street,",BUNBURY WA 6230,House,5,2,3,"1,366m² ",08 Mar 2013
+"250,000 ","1/38 Moore Street,",BUNBURY WA 6230,House,3,1,−,275m² ,02 Oct 2012
+"485,000 ","23A Beraking Loop,",DALYELLUP WA 6230,House,3,2,2,376m² ,24 Apr 2024
+"660,000 ","2 Forum Way,",EAST BUNBURY WA 6230,House,4,2,2,682m² ,23 Apr 2024
+"625,000 ","11 Willoughby Street,",SOUTH BUNBURY WA 6230,House,3,1,−,956m² ,16 Apr 2024
+"455,000 ","16a Frankel Street,",CAREY PARK WA 6230,House,4,2,−,494m² ,15 Apr 2024
+"1,000,000 ","139 Ocean Drive,",SOUTH BUNBURY WA 6230,House,4,1,1,849m² ,15 Apr 2024
+"341,000 ","34 Balgore Way,",CAREY PARK WA 6230,House,3,1,−,310m² ,12 Apr 2024
+"285,000 ","2 Charterhouse Street,",CAREY PARK WA 6230,House,3,1,−,315m² ,12 Apr 2024
+"675,000 ","1 Buswell Street,",EAST BUNBURY WA 6230,House,3,2,2,372m² ,11 Apr 2024
+"406,000 ","46 Balgore Way,",CAREY PARK WA 6230,House,3,1,−,769m² ,10 Apr 2024
+"600,000 ","59 Beraking Loop,",DALYELLUP WA 6230,House,4,2,2,493m² ,10 Apr 2024
+"650,000 ","29 Gutmann Parkway,",DALYELLUP WA 6230,House,3,2,−,561m² ,09 Apr 2024
+"930,000 ","10 Warut Way,",DALYELLUP WA 6230,House,5,2,−,"2,144m² ",09 Apr 2024
+"1,150,000 ","141A Stirling Street,",EAST BUNBURY WA 6230,House,3,2,2,425m² ,08 Apr 2024
+"526,000 ","46 Winton Street,",CAREY PARK WA 6230,House,4,1,−,"1,141m² ",06 Apr 2024
+"541,000 ","5 Miller Street,",SOUTH BUNBURY WA 6230,House,3,1,1,"1,012m² ",2024
+"600,000 ","14 Adam Road,",SOUTH BUNBURY WA 6230,House,4,2,2,846m² ,05 Apr 2024
+"465,000 ","2 Chadd Court,",USHER WA 6230,House,4,2,1,765m² ,05 Apr 2024
+"451,500 ","25 Wisbey Street,",CAREY PARK WA 6230,House,3,1,1,"1,113m² ",04 Apr 2024
+"520,000 ","162 Dalyellup Boulevard,",DALYELLUP WA 6230,House,4,2,2,452m² ,04 Apr 2024
+"465,000 ","65 Beraking Loop,",DALYELLUP WA 6230,House,3,2,2,387m² ,04 Apr 2024
+"505,000 ","10 Cusworth Drive,",GLEN IRIS WA 6230,House,4,2,2,563m² ,04 Apr 2024
+"529,500 ","3 Verbena Boulevard,",GLEN IRIS WA 6230,House,4,2,2,420m² ,04 Apr 2024
+"790,000 ","21 McKenzie Crescent,",DALYELLUP WA 6230,House,4,2,2,580m² ,02 Apr 2024
+"840,000 ","60 Vickery Crescent,",SOUTH BUNBURY WA 6230,House,4,3,2,829m² ,02 Apr 2024
+"331,000 ","56 Wisbey Street,",CAREY PARK WA 6230,House,3,1,−,728m² ,27 Mar 2024
+"535,000 ","70 Winthrop Avenue,",COLLEGE GROVE WA 6230,House,4,2,−,685m² ,27 Mar 2024
+"440,000 ","24A Flaherty Court,",CAREY PARK WA 6230,House,3,1,1,404m² ,26 Mar 2024
+"955,000 ","9 Barr Road,",CAREY PARK WA 6230,House,4,2,2,"2,370m² ",26 Mar 2024
+"790,000 ","13 Properjohn Street,",SOUTH BUNBURY WA 6230,House,3,2,2,468m² ,26 Mar 2024
+"475,000 ","178 Clarke Street East,",CAREY PARK WA 6230,House,3,2,−,634m² ,25 Mar 2024
+"590,000 ","13 Mimosa Link,",GLEN IRIS WA 6230,House,4,2,2,752m² ,25 Mar 2024
+"664,000 ","14 Glenroy Street,",SOUTH BUNBURY WA 6230,House,4,1,2,822m² ,25 Mar 2024
+"520,000 ","110 Minninup Road,",SOUTH BUNBURY WA 6230,House,4,1,−,"1,012m² ",25 Mar 2024
+"646,000 ","10 Janjin Road,",DALYELLUP WA 6230,House,4,2,2,704m² ,23 Mar 2024
+"650,000 ","12 Garnet Way,",DALYELLUP WA 6230,House,4,2,2,624m² ,23 Mar 2024
+"493,250 ","22 Reeves Approach,",DALYELLUP WA 6230,House,3,2,2,359m² ,2024
+"610,000 ","66 Bunning Boulevard,",EAST BUNBURY WA 6230,House,4,2,3,770m² ,20 Mar 2024
+"645,000 ","117 Jubilee Road,",GLEN IRIS WA 6230,House,4,2,2,782m² ,20 Mar 2024
+"1,010,000 ","25B Lerici Circle,",PELICAN POINT WA 6230,House,3,2,2,589m² ,20 Mar 2024
+"325,000 ","47 Xavier Street,",CAREY PARK WA 6230,House,4,1,2,364m² ,19 Mar 2024
+"415,000 ","199 Clarke Street East,",CAREY PARK WA 6230,House,3,1,1,728m² ,2024
+"620,000 ","46 Halsey Street,",SOUTH BUNBURY WA 6230,House,3,1,2,"1,012m² ",19 Mar 2024
+"611,000 ","18 Milesi Bend,",DALYELLUP WA 6230,House,4,2,2,675m² ,18 Mar 2024
+"580,000 ","25 Cantwell Court,",EAST BUNBURY WA 6230,House,4,1,2,802m² ,14 Mar 2024
+"485,500 ","5 Ganfield Street,",CAREY PARK WA 6230,House,4,2,2,809m² ,13 Mar 2024
+"1,225,000 ","14 Kalari Rise,",SOUTH BUNBURY WA 6230,House,4,2,2,"1,037m² ",12 Mar 2024
+"400,000 ","2B Collinsville Way,",USHER WA 6230,Semi-detached,3,1,1,431m² ,08 Mar 2024
+"480,000 ","336 Ocean Drive,",USHER WA 6230,House,3,1,1,680m² ,08 Mar 2024
+"730,000 ","30 Hornibrook Road,",DALYELLUP WA 6230,House,4,2,4,821m² ,2024
+"561,000 ","25 Chisholm Road,",DALYELLUP WA 6230,House,4,2,2,623m² ,06 Mar 2024
+"610,000 ","65 Hayes Street,",EAST BUNBURY WA 6230,House,3,2,−,567m² ,06 Mar 2024
+"680,000 ","34 Watkins Road,",GELORUP WA 6230,House,4,2,4,"5,756m² ",2024
+"398,000 ","12 Willoughby Street,",SOUTH BUNBURY WA 6230,House,3,1,1,911m² ,04 Mar 2024
+"390,000 ","6 Galyung Road,",CAREY PARK WA 6230,House,2,1,2,754m² ,03 Mar 2024
+"427,000 ","17 Wicklow Boulevard,",DALYELLUP WA 6230,House,2,2,2,180m² ,2024
+"730,000 ","22 Crowd Road,",GELORUP WA 6230,House,4,2,2,"3,892m² ",03 Mar 2024
+"367,000 ","30 Wilkerson Way,",WITHERS WA 6230,House,3,2,2,756m² ,03 Mar 2024
+"450,000 ","64 Clarke Street,",SOUTH BUNBURY WA 6230,House,2,1,−,946m² ,02 Mar 2024
+"430,000 ","413 Parade Road,",DALYELLUP WA 6230,House,3,2,2,225m² ,01 Mar 2024
+"550,000 ","3 Keen Court,",USHER WA 6230,House,4,2,2,702m² ,01 Mar 2024
+"695,000 ","15 Melba Way,",DALYELLUP WA 6230,House,4,2,2,702m² ,28 Feb 2024
+"600,000 ","4 Ashford Place,",SOUTH BUNBURY WA 6230,House,3,1,1,833m² ,28 Feb 2024
+"450,000 ","32 Queensbury Street,",SOUTH BUNBURY WA 6230,House,3,1,−,"1,041m² ",28 Feb 2024
+"460,150 ","18 Houston Crescent,",SOUTH BUNBURY WA 6230,House,3,1,−,827m² ,27 Feb 2024
+"664,000 ","14 Glenroy Street,",SOUTH BUNBURY WA 6230,House,4,1,2,822m² ,26 Feb 2024
+"391,000 ","4a Galyung Road,",CAREY PARK WA 6230,House,3,2,1,319m² ,25 Feb 2024
+"505,000 ","26 Lockwood Crescent,",WITHERS WA 6230,House,4,1,1,695m² ,25 Feb 2024
+"560,000 ","8 Wentworth Drive,",DALYELLUP WA 6230,House,4,2,2,162m² ,23 Feb 2024
+"595,000 ","16 Peridot Street,",DALYELLUP WA 6230,House,3,2,2,761m² ,23 Feb 2024
+"770,000 ","8 Eva Fairway,",DALYELLUP WA 6230,House,4,2,−,659m² ,22 Feb 2024
+"550,250 ","12 Bow Street,",GLEN IRIS WA 6230,House,4,2,2,522m² ,22 Feb 2024
+"656,500 ","8 Claymore Loop,",DALYELLUP WA 6230,House,4,2,2,600m² ,19 Feb 2024
+"615,000 ","14A Allen Street,",EAST BUNBURY WA 6230,House,4,2,1,346m² ,19 Feb 2024
+"492,500 ","130 Strickland Street,",EAST BUNBURY WA 6230,House,3,1,1,704m² ,19 Feb 2024
+"556,000 ","45 Crystal Bend,",DALYELLUP WA 6230,House,4,2,2,536m² ,16 Feb 2024
+"505,000 ","3 Graphite Turn,",DALYELLUP WA 6230,House,3,2,2,599m² ,2024
+"619,000 ","2 Regents Place,",COLLEGE GROVE WA 6230,House,4,2,2,766m² ,14 Feb 2024
+"510,000 ","50 Reeves Approach,",DALYELLUP WA 6230,House,3,2,2,383m² ,2024
+"825,000 ","34A Ramillies Street,",SOUTH BUNBURY WA 6230,House,4,2,2,417m² ,13 Feb 2024
+"580,000 ","29 Columbine Terrace,",GLEN IRIS WA 6230,House,4,2,2,490m² ,11 Feb 2024
+"495,000 ","154 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,1,809m² ,10 Feb 2024
+"905,000 ","39 Vickery Crescent,",SOUTH BUNBURY WA 6230,House,4,2,2,997m² ,09 Feb 2024
+"395,500 ","183 Clarke Street,",CAREY PARK WA 6230,House,4,1,2,728m² ,08 Feb 2024
+"850,000 ","Lot 4 Jules Road,",GELORUP WA 6230,House,4,2,6,0,2024
+"526,000 ","28 Thyme Way,",GLEN IRIS WA 6230,House,4,2,2,600m² ,2024
+"495,000 ","18 Taunton Street,",EAST BUNBURY WA 6230,House,3,2,2,303m² ,07 Feb 2024
+"505,000 ","47 Forum Way,",EAST BUNBURY WA 6230,House,4,2,2,761m² ,07 Feb 2024
+"1,250,000 ","66 Hayes Street,",EAST BUNBURY WA 6230,House,4,3,3,"1,012m² ",07 Feb 2024
+"513,000 ","11A White Street,",EAST BUNBURY WA 6230,House,3,2,2,260m² ,06 Feb 2024
+"488,500 ","128 Strickland Street,",EAST BUNBURY WA 6230,House,3,1,1,704m² ,06 Feb 2024
+"672,000 ","17 Birch Street,",SOUTH BUNBURY WA 6230,House,4,2,2,"1,024m² ",06 Feb 2024
+"605,000 ","19 Eclipse Bend,",DALYELLUP WA 6230,House,3,2,2,625m² ,05 Feb 2024
+"542,177 ","69 Austral Parade,",EAST BUNBURY WA 6230,House,3,1,2,809m² ,05 Feb 2024
+"450,000 ","221 Spencer Street,",SOUTH BUNBURY WA 6230,House,2,1,1,"1,012m² ",2024
+"460,000 ","39 Winton Street,",CAREY PARK WA 6230,House,4,1,2,850m² ,2024
+"410,000 ","24 Ganfield Street,",CAREY PARK WA 6230,House,3,1,1,931m² ,04 Feb 2024
+"408,100 ","31 Gibbs Street,",CAREY PARK WA 6230,House,4,1,2,959m² ,2024
+"370,000 ","44 Xavier Street,",CAREY PARK WA 6230,House,4,1,−,758m² ,02 Feb 2024
+"420,000 ","51A Forrest Street,",EAST BUNBURY WA 6230,House,3,1,1,348m² ,02 Feb 2024
+"481,177 ","9 Doris Street,",SOUTH BUNBURY WA 6230,House,2,1,1,802m² ,02 Feb 2024
+"700,000 ","40 Atkins Road,",DALYELLUP WA 6230,House,4,2,−,478m² ,01 Feb 2024
+"530,000 ","25a Farnell Street,",SOUTH BUNBURY WA 6230,House,3,2,2,375m² ,01 Feb 2024
+"912,500 ","10 Quonday Way,",DALYELLUP WA 6230,House,4,2,2,"2,110m² ",31 Jan 2024
+"600,000 ","7 Robinhood Road,",DALYELLUP WA 6230,House,4,2,2,653m² ,30 Jan 2024
+"380,000 ","8 Clewlow Court,",WITHERS WA 6230,House,3,1,1,889m² ,30 Jan 2024
+"725,000 ","25 Rodondo Street,",DALYELLUP WA 6230,House,4,2,2,618m² ,29 Jan 2024
+"417,000 ","33 Minninup Road,",SOUTH BUNBURY WA 6230,House,2,1,1,801m² ,29 Jan 2024
+"630,000 ","1 Prosser Street,",SOUTH BUNBURY WA 6230,House,4,1,2,864m² ,28 Jan 2024
+"486,000 ","22 Epidote Loop,",DALYELLUP WA 6230,House,4,2,2,462m² ,27 Jan 2024
+"785,000 ","23 Cambria Road,",DALYELLUP WA 6230,House,4,2,2,697m² ,25 Jan 2024
+"666,000 ","25 Casson Street,",DALYELLUP WA 6230,House,4,2,2,706m² ,2024
+"543,000 ","29 Geographe Way,",WITHERS WA 6230,House,4,2,1,804m² ,23 Jan 2024
+"330,000 ","1/54 Frankel Street,",CAREY PARK WA 6230,House,3,1,1,354m² ,19 Jan 2024
+"505,000 ","8 Wallung Road,",DALYELLUP WA 6230,House,3,2,2,426m² ,17 Jan 2024
+"490,000 ","5/21 Prince Philip Drive,",SOUTH BUNBURY WA 6230,House,3,2,2,339m² ,17 Jan 2024
+"455,000 ","16 Serpentine Way,",USHER WA 6230,House,4,2,2,579m² ,17 Jan 2024
+"165,000 ","13/40 Reynolds Way,",WITHERS WA 6230,House,1,1,−,52m² ,17 Jan 2024
+"365,000 ","39 Westwood Street,",WITHERS WA 6230,House,3,1,1,700m² ,16 Jan 2024
+"320,000 ","25a Balgore Way,",CAREY PARK WA 6230,House,3,1,2,300m² ,15 Jan 2024
+"501,000 ","27 Eulalia Street,",CAREY PARK WA 6230,House,4,2,1,805m² ,15 Jan 2024
+"480,000 ","6 Waterwitch Street,",CAREY PARK WA 6230,House,3,2,2,684m² ,15 Jan 2024
+"580,000 ","19 Jargoon Approach,",DALYELLUP WA 6230,House,4,2,2,614m² ,15 Jan 2024
+"295,000 ","172 Forrest Avenue,",CAREY PARK WA 6230,House,3,1,1,693m² ,13 Jan 2024
+"782,000 ","11 Madigan Road,",DALYELLUP WA 6230,House,4,2,3,700m² ,2024
+"912,000 ","60 Samrose Road,",DALYELLUP WA 6230,House,4,2,3,"2,048m² ",12 Jan 2024
+"480,000 ","12A Forrest Street,",EAST BUNBURY WA 6230,House,3,2,1,429m² ,12 Jan 2024
+"540,000 ","10 Howitt Way,",DALYELLUP WA 6230,House,4,2,2,660m² ,11 Jan 2024
+"475,000 ","8A Francis Street,",SOUTH BUNBURY WA 6230,House,3,2,2,222m² ,10 Jan 2024
+"415,000 ","32 Coral Street,",SOUTH BUNBURY WA 6230,House,4,2,2,685m² ,10 Jan 2024
+"390,000 ","17 Hooper Place,",WITHERS WA 6230,House,4,1,2,866m² ,10 Jan 2024
+"620,000 ","18 Wallung Road,",DALYELLUP WA 6230,House,3,2,2,424m² ,09 Jan 2024
+"475,000 ","110 Wake Drive,",DALYELLUP WA 6230,House,4,2,2,428m² ,08 Jan 2024
+"562,500 ","12 Jacinth Road,",DALYELLUP WA 6230,House,4,2,2,614m² ,08 Jan 2024
+"529,000 ","4 Waratah Crescent,",SOUTH BUNBURY WA 6230,House,3,2,2,953m² ,08 Jan 2024
+"530,000 ","46 Mooralup Turn,",DALYELLUP WA 6230,House,4,2,2,645m² ,06 Jan 2024
+"405,000 ","50 Constitution Street,",SOUTH BUNBURY WA 6230,House,2,1,1,327m² ,05 Jan 2024
+"465,000 ","294 Ocean Drive,",WITHERS WA 6230,House,3,1,1,823m² ,05 Jan 2024
+"450,000 ","72 Strickland Street,",EAST BUNBURY WA 6230,House,3,1,4,931m² ,04 Jan 2024
+"900,000 ","8 Crowd Road,",GELORUP WA 6230,House,4,2,−,0,03 Jan 2024
+"440,000 ","5 Coral Street,",SOUTH BUNBURY WA 6230,House,3,1,2,700m² ,03 Jan 2024
+"365,000 ","60 Balgore Way,",CAREY PARK WA 6230,House,3,1,1,809m² ,02 Jan 2024
+"483,000 ","7 Pyrite Way,",DALYELLUP WA 6230,House,3,2,2,393m² ,01 Jan 2024
+"330,000 ","1 Stinton Street,",CAREY PARK WA 6230,House,3,1,−,500m² ,31 Dec 2023
+"525,000 ","2 Binar Way,",DALYELLUP WA 6230,House,4,2,2,687m² ,21 Dec 2023
+"470,000 ","122 Strickland Street,",EAST BUNBURY WA 6230,House,3,1,1,704m² ,21 Dec 2023
+"451,600 ","5 Brand Avenue,",USHER WA 6230,House,3,1,1,708m² ,21 Dec 2023
+"715,000 ","19 Lapwing Road,",DALYELLUP WA 6230,House,4,3,2,685m² ,20 Dec 2023
+"525,000 ","23 Winthrop Avenue,",COLLEGE GROVE WA 6230,House,4,2,2,696m² ,19 Dec 2023
+"532,000 ","11 Wandoo Road,",DALYELLUP WA 6230,House,4,2,2,720m² ,19 Dec 2023
+"460,000 ","24 Norton Promenade,",DALYELLUP WA 6230,House,3,2,−,260m² ,19 Dec 2023
+"650,000 ","5 Keen Court,",USHER WA 6230,House,5,2,2,702m² ,19 Dec 2023
+"880,000 ","29 Maidment Parade,",DALYELLUP WA 6230,House,4,2,3,"2,145m² ",18 Dec 2023
+"377,000 ","30 Yorla Road,",CAREY PARK WA 6230,House,3,1,1,810m² ,15 Dec 2023
+"660,000 ","77 Jubilee Road,",GLEN IRIS WA 6230,House,4,2,3,702m² ,15 Dec 2023
+"495,000 ","4 Clematis Lane,",GLEN IRIS WA 6230,House,4,2,2,585m² ,15 Dec 2023
+"560,000 ","34 Adam Road,",SOUTH BUNBURY WA 6230,House,3,1,3,688m² ,15 Dec 2023
+"445,000 ","33 Ashrose Drive,",WITHERS WA 6230,House,3,1,1,700m² ,15 Dec 2023
+"750,000 ","28 Frances Road,",GELORUP WA 6230,House,4,2,2,"4,048m² ",14 Dec 2023
+"318,000 ","12 Dixon Street,",CAREY PARK WA 6230,House,3,1,1,441m² ,13 Dec 2023
+"720,000 ","4 Aurora Street,",DALYELLUP WA 6230,House,5,2,2,933m² ,2023
+"519,000 ","9 Sirius Street,",DALYELLUP WA 6230,House,4,2,2,330m² ,2023
+"405,000 ","11 Wicklow Boulevard,",DALYELLUP WA 6230,House,2,2,2,180m² ,11 Dec 2023
+"700,000 ","38 Willoughby Street,",SOUTH BUNBURY WA 6230,House,4,2,2,900m² ,11 Dec 2023
+"457,000 ","13 Gerrard Place,",CAREY PARK WA 6230,House,3,1,1,681m² ,08 Dec 2023
+"395,000 ","10B Boyalla Street,",CAREY PARK WA 6230,Semi-detached,3,2,2,296m² ,07 Dec 2023
+"520,000 ","11 Bunning Boulevard,",EAST BUNBURY WA 6230,House,4,2,1,802m² ,07 Dec 2023
+"535,000 ","230 Blair Street,",SOUTH BUNBURY WA 6230,House,3,1,−,809m² ,07 Dec 2023
+"410,000 ","80 Parade Road,",WITHERS WA 6230,House,3,2,−,468m² ,07 Dec 2023
+"760,000 ","7 Balliol Court,",COLLEGE GROVE WA 6230,House,4,2,2,"1,171m² ",06 Dec 2023
+"585,000 ","16 Biesiot Street,",CAREY PARK WA 6230,House,4,2,2,490m² ,05 Dec 2023
+"305,000 ","9A Moolyeen Road,",CAREY PARK WA 6230,House,3,1,−,313m² ,04 Dec 2023
+"415,000 ","10 Hands Avenue,",CAREY PARK WA 6230,House,3,1,1,791m² ,04 Dec 2023
+"420,000 ","158 Spencer Street,",SOUTH BUNBURY WA 6230,House,3,1,−,660m² ,04 Dec 2023
+"750,000 ","5 Antelope Turn,",DALYELLUP WA 6230,House,4,2,4,797m² ,03 Dec 2023
+"450,000 ","10 Salvia Link,",GLEN IRIS WA 6230,House,4,2,2,436m² ,02 Dec 2023
+"460,000 ","12B Seashore Mews,",SOUTH BUNBURY WA 6230,House,3,1,2,443m² ,01 Dec 2023
+"530,000 ","25 Patrick Street,",SOUTH BUNBURY WA 6230,House,3,2,2,647m² ,01 Dec 2023
+"342,500 ","19 Jacaranda Crescent,",WITHERS WA 6230,House,3,1,2,777m² ,01 Dec 2023
+"285,000 ","38 Balgore Way,",CAREY PARK WA 6230,House,3,1,2,562m² ,30 Nov 2023
+"370,000 ","52 Hands Avenue,",CAREY PARK WA 6230,House,3,1,−,885m² ,29 Nov 2023
+"450,000 ","36 Griffin Lane,",USHER WA 6230,House,3,2,2,587m² ,29 Nov 2023
+"390,000 ","17 Hudson Road,",WITHERS WA 6230,House,3,1,1,695m² ,29 Nov 2023
+"275,000 ","52 Frankel Street,",CAREY PARK WA 6230,House,3,1,2,345m² ,27 Nov 2023
+"1,800,000 ","33 Portofino Crescent,",PELICAN POINT WA 6230,House,4,4,4,922m² ,26 Nov 2023
+"730,000 ","272 Norton Promenade,",DALYELLUP WA 6230,House,4,2,2,717m² ,25 Nov 2023
+"660,000 ","17 Willoughby Street,",SOUTH BUNBURY WA 6230,House,4,2,2,954m² ,22 Nov 2023
+"165,000 ","14/40 Reynolds Way,",WITHERS WA 6230,House,1,1,−,52m² ,22 Nov 2023
+"475,000 ","1 Chadd Court,",USHER WA 6230,House,5,2,2,669m² ,21 Nov 2023
+"565,000 ","29 Possum Way,",COLLEGE GROVE WA 6230,House,4,2,2,550m² ,20 Nov 2023
+"670,000 ","46 Nicolay Approach,",DALYELLUP WA 6230,House,5,2,2,820m² ,20 Nov 2023
+"427,500 ","25 Francis Street,",SOUTH BUNBURY WA 6230,House,2,1,2,542m² ,2023
+"350,000 ","26 Jacaranda Crescent,",WITHERS WA 6230,House,3,1,2,724m² ,18 Nov 2023
+"460,000 ","7 Strickland Street,",SOUTH BUNBURY WA 6230,House,3,1,2,958m² ,17 Nov 2023
+"510,000 ","320 Ocean Drive,",WITHERS WA 6230,House,4,2,2,775m² ,15 Nov 2023
+"235,000 ","2/42 Balgore Way,",CAREY PARK WA 6230,House,1,1,1,427m² ,14 Nov 2023
+"395,000 ","2A Collinsville Way,",USHER WA 6230,House,3,1,1,431m² ,14 Nov 2023
+"325,000 ","8A Davenport Way,",WITHERS WA 6230,Semi-detached,3,1,1,590m² ,14 Nov 2023
+"370,000 ","9 Flaherty Court,",CAREY PARK WA 6230,House,2,1,3,809m² ,13 Nov 2023
+"425,000 ","41 Xavier Street,",CAREY PARK WA 6230,House,4,2,2,869m² ,13 Nov 2023
+"420,000 ","11 Carr Place,",USHER WA 6230,House,3,1,1,760m² ,13 Nov 2023
+"455,000 ","2b Castle Street,",SOUTH BUNBURY WA 6230,House,3,2,2,430m² ,10 Nov 2023
+"632,000 ","16 Trinity Rise,",COLLEGE GROVE WA 6230,House,4,1,2,"1,158m² ",09 Nov 2023
+"885,000 ","13 Naroona Drive,",DALYELLUP WA 6230,House,5,3,2,781m² ,2023
+"830,000 ","67 Austral Parade,",EAST BUNBURY WA 6230,House,4,2,2,809m² ,09 Nov 2023
+"855,000 ","21 Crowd Road,",GELORUP WA 6230,House,4,2,2,"5,916m² ",08 Nov 2023
+"424,500 ","2 Hordern Place,",USHER WA 6230,House,3,1,1,821m² ,08 Nov 2023
+"585,000 ","11 Starlite Bend,",DALYELLUP WA 6230,House,4,2,2,520m² ,07 Nov 2023
+"595,000 ","8 Dampier Street,",DALYELLUP WA 6230,House,4,2,2,686m² ,05 Nov 2023
+"330,000 ","1a Xavier Street,",CAREY PARK WA 6230,House,3,1,1,527m² ,04 Nov 2023
+"555,000 ","4 Regents Place,",COLLEGE GROVE WA 6230,House,4,2,2,718m² ,31 Oct 2023
+"1,150,000 ","57 Pickworth Retreat,",PELICAN POINT WA 6230,House,4,2,2,748m² ,30 Oct 2023
+"425,000 ","15 Gregory Street,",SOUTH BUNBURY WA 6230,House,3,1,2,744m² ,2023
+"395,000 ","1/9 Wilson Street,",CAREY PARK WA 6230,House,3,2,2,263m² ,27 Oct 2023
+"260,000 ","10A Boyalla Street,",CAREY PARK WA 6230,House,3,1,1,362m² ,27 Oct 2023
+"651,000 ","6 Janjin Road,",DALYELLUP WA 6230,House,4,2,6,716m² ,27 Oct 2023
+"508,000 ","22B Isernia Place,",SOUTH BUNBURY WA 6230,House,3,2,2,312m² ,27 Oct 2023
+"350,000 ","36 Westwood Street,",WITHERS WA 6230,House,3,1,1,850m² ,27 Oct 2023
+"575,000 ","100 Clarke Street,",SOUTH BUNBURY WA 6230,House,4,2,5,"1,068m² ",23 Oct 2023
+"435,000 ","172B Spencer Street,",SOUTH BUNBURY WA 6230,House,3,2,2,290m² ,23 Oct 2023
+"360,000 ","5 Flaherty Court,",CAREY PARK WA 6230,House,3,1,1,809m² ,21 Oct 2023
+"350,000 ","18 Jindee Street,",CAREY PARK WA 6230,House,3,1,1,682m² ,19 Oct 2023
+"640,000 ","33 William Street,",SOUTH BUNBURY WA 6230,House,3,1,3,951m² ,19 Oct 2023
+"301,000 ","1/110 Forrest Avenue,",SOUTH BUNBURY WA 6230,House,2,1,2,295m² ,19 Oct 2023
+"795,000 ","29 Mindalong Close,",SOUTH BUNBURY WA 6230,House,4,2,2,"1,145m² ",18 Oct 2023
+"527,500 ","30 Somerville Drive,",COLLEGE GROVE WA 6230,House,4,2,2,668m² ,17 Oct 2023
+"302,500 ","11 Whatman Way,",WITHERS WA 6230,House,4,1,1,700m² ,17 Oct 2023
+"500,000 ","10 Lawson Road,",DALYELLUP WA 6230,House,4,2,2,718m² ,16 Oct 2023
+"480,000 ","41A Picton Road,",EAST BUNBURY WA 6230,House,4,2,2,668m² ,16 Oct 2023
+"400,000 ","11c Wilson Street,",CAREY PARK WA 6230,House,3,2,2,333m² ,14 Oct 2023
+"569,000 ","12 Slee Place,",WITHERS WA 6230,House,4,2,2,712m² ,2023
+"630,000 ","3 King Road,",EAST BUNBURY WA 6230,House,4,2,2,656m² ,13 Oct 2023
+"550,000 ","22 Jacinth Road,",DALYELLUP WA 6230,House,4,2,2,614m² ,12 Oct 2023
+"427,000 ","2 Douglas Street,",SOUTH BUNBURY WA 6230,House,3,1,−,756m² ,11 Oct 2023
+"375,000 ","143B Minninup Road,",SOUTH BUNBURY WA 6230,House,3,2,1,475m² ,11 Oct 2023
+"840,000 ","10 Sanders Parade,",GLEN IRIS WA 6230,House,4,2,2,662m² ,10 Oct 2023
+"500,000 ","19 Adam Road,",SOUTH BUNBURY WA 6230,House,3,1,1,813m² ,10 Oct 2023
+"535,000 ","12 Gorman Loop,",CAREY PARK WA 6230,House,3,2,2,492m² ,09 Oct 2023
+"570,000 ","332 Parade Road,",DALYELLUP WA 6230,House,5,2,2,580m² ,09 Oct 2023
+"800,000 ","4 Boab Court,",SOUTH BUNBURY WA 6230,House,4,2,2,431m² ,09 Oct 2023
+"595,000 ","25 Farnell Street,",SOUTH BUNBURY WA 6230,House,4,3,2,372m² ,07 Oct 2023
+"355,000 ","14 Mawson Place,",WITHERS WA 6230,House,3,1,1,"1,166m² ",07 Oct 2023
+"700,000 ","4 Sandilands Avenue,",GELORUP WA 6230,House,5,2,2,"4,919m² ",06 Oct 2023
+"345,000 ","5A Ecclestone Street,",SOUTH BUNBURY WA 6230,House,3,2,1,232m² ,06 Oct 2023
+"490,000 ","26 Winthrop Avenue,",COLLEGE GROVE WA 6230,House,4,2,2,745m² ,05 Oct 2023
+"550,000 ","53 Hastie Street,",SOUTH BUNBURY WA 6230,House,3,1,2,846m² ,05 Oct 2023
+"490,000 ","33 Mangles Street,",SOUTH BUNBURY WA 6230,House,3,1,1,875m² ,05 Oct 2023
+"434,500 ","1A Little Street,",CAREY PARK WA 6230,House,4,2,2,462m² ,2023
+"325,000 ","4A Bright Street,",CAREY PARK WA 6230,House,4,2,1,207m² ,03 Oct 2023
+"491,500 ","12 Dunbarton Way,",WITHERS WA 6230,House,4,2,2,726m² ,03 Oct 2023
+"630,000 ","36 Columbine Terrace,",GLEN IRIS WA 6230,House,4,2,2,792m² ,02 Oct 2023
+"670,000 ","22 Willis Cove,",PELICAN POINT WA 6230,House,4,2,2,582m² ,02 Oct 2023
+"500,000 ","16 Holtzman Place,",CAREY PARK WA 6230,House,4,2,2,700m² ,01 Oct 2023
+"368,500 ","4 Beagle Place,",CAREY PARK WA 6230,House,3,1,1,700m² ,30 Sep 2023
+"470,000 ","11 Dresden Road,",DALYELLUP WA 6230,House,3,2,2,375m² ,29 Sep 2023
+"525,000 ","16 Lawson Road,",DALYELLUP WA 6230,House,4,2,2,664m² ,29 Sep 2023
+"453,000 ","1/6 Alexander Street,",SOUTH BUNBURY WA 6230,House,3,2,2,418m² ,29 Sep 2023
+"448,000 ","31 Nielsen Grove,",CAREY PARK WA 6230,House,3,1,1,734m² ,28 Sep 2023
+"555,000 ","25 Macedon Road,",DALYELLUP WA 6230,House,4,2,2,659m² ,2023
+"430,000 ","14 Thyme Way,",GLEN IRIS WA 6230,House,4,2,2,540m² ,28 Sep 2023
+"500,000 ","46 Wentworth Drive,",DALYELLUP WA 6230,House,3,2,2,579m² ,27 Sep 2023
+"355,000 ","20B Forum Way,",EAST BUNBURY WA 6230,House,2,1,1,587m² ,27 Sep 2023
+"503,653 ","153 Minninup Road,",SOUTH BUNBURY WA 6230,House,4,2,2,961m² ,27 Sep 2023
+"380,000 ","33 Gibbs Street,",CAREY PARK WA 6230,House,2,1,1,959m² ,2023
+"460,000 ","22 Elvey Place,",USHER WA 6230,House,4,2,2,735m² ,26 Sep 2023
+"562,000 ","17 Jargoon Approach,",DALYELLUP WA 6230,House,4,2,2,614m² ,25 Sep 2023
+"435,000 ","306 Ocean Drive,",WITHERS WA 6230,House,3,1,1,701m² ,25 Sep 2023
+"375,000 ","39 Knight Street,",WITHERS WA 6230,House,3,1,5,809m² ,23 Sep 2023
+"200,000 ","22 Nuytsia Avenue,",CAREY PARK WA 6230,House,2,1,1,499m² ,22 Sep 2023
+"608,000 ","19 Casson Street,",DALYELLUP WA 6230,House,4,2,2,690m² ,22 Sep 2023
+"310,000 ","50 Xavier Street,",CAREY PARK WA 6230,House,2,1,2,356m² ,18 Sep 2023
+"590,000 ","9 Cambria Road,",DALYELLUP WA 6230,House,3,2,2,663m² ,18 Sep 2023
+"635,000 ","3 Stubbs Close,",EAST BUNBURY WA 6230,House,4,2,2,845m² ,18 Sep 2023
+"377,000 ","10 Waterwitch Street,",CAREY PARK WA 6230,House,3,1,4,693m² ,2023
+"529,000 ","36 Queensbury Street,",SOUTH BUNBURY WA 6230,House,4,2,−,735m² ,15 Sep 2023
+"400,000 ","62 Paragon Loop,",DALYELLUP WA 6230,House,3,2,−,255m² ,12 Sep 2023
+"610,000 ","27 Nicolay Approach,",DALYELLUP WA 6230,House,4,2,2,729m² ,12 Sep 2023
+"465,000 ","13 Douglas Street,",SOUTH BUNBURY WA 6230,House,4,2,2,777m² ,12 Sep 2023
+"430,500 ","1 Argyle Avenue,",WITHERS WA 6230,House,3,1,2,738m² ,12 Sep 2023
+"370,000 ","2 Island Queen Street,",WITHERS WA 6230,House,3,1,3,865m² ,11 Sep 2023
+"320,000 ","1A Murray Drive,",WITHERS WA 6230,Semi-detached,2,1,1,559m² ,11 Sep 2023
+"648,000 ","7 Lefroy Place,",USHER WA 6230,House,4,3,3,701m² ,10 Sep 2023
+"500,000 ","2 Godwin Street,",CAREY PARK WA 6230,House,4,2,2,872m² ,09 Sep 2023
+"350,000 ","35B Wilson Street,",CAREY PARK WA 6230,House,4,1,2,481m² ,08 Sep 2023
+"420,000 ","37 Island Queen Street,",WITHERS WA 6230,House,4,1,−,844m² ,08 Sep 2023
+"470,000 ","99 King Road,",EAST BUNBURY WA 6230,House,2,1,1,872m² ,07 Sep 2023
+"600,000 ","11 Churchill Drive,",SOUTH BUNBURY WA 6230,House,4,2,−,"1,011m² ",07 Sep 2023
+"440,000 ","30 Mosedale Avenue,",USHER WA 6230,House,3,1,1,776m² ,07 Sep 2023
+"305,000 ","37 Devonshire Street,",WITHERS WA 6230,House,3,1,1,758m² ,07 Sep 2023
+"395,000 ","60 Paragon Loop,",DALYELLUP WA 6230,House,3,2,2,254m² ,05 Sep 2023
+"420,000 ","21 Dillon Street,",CAREY PARK WA 6230,House,3,1,1,801m² ,2023
+"510,000 ","21 Possum Way,",COLLEGE GROVE WA 6230,House,4,2,2,550m² ,04 Sep 2023
+"382,000 ","6 Moolyeen Road,",CAREY PARK WA 6230,House,3,1,2,838m² ,01 Sep 2023
+"580,000 ","7 Carnegie Street,",DALYELLUP WA 6230,House,4,2,2,624m² ,01 Sep 2023
+"455,000 ","6 Stockton Way,",DALYELLUP WA 6230,House,4,2,2,576m² ,2023
+"645,000 ","7 McKenzie Crescent,",DALYELLUP WA 6230,House,5,2,2,628m² ,28 Aug 2023
+"320,000 ","11 Bushell Street,",CAREY PARK WA 6230,House,2,1,1,841m² ,26 Aug 2023
+"330,000 ","9 Bandak Road,",CAREY PARK WA 6230,House,3,1,1,751m² ,25 Aug 2023
+"465,000 ","31 Slee Place,",WITHERS WA 6230,House,4,2,2,887m² ,24 Aug 2023
+"402,500 ","10 Scott Crescent,",EAST BUNBURY WA 6230,House,3,1,1,776m² ,23 Aug 2023
+"506,500 ","7 Iris Way,",GLEN IRIS WA 6230,House,4,2,2,629m² ,23 Aug 2023
+"490,000 ","10 Hakea Crescent,",SOUTH BUNBURY WA 6230,House,4,1,1,809m² ,22 Aug 2023
+"345,000 ","14 Elvey Place,",USHER WA 6230,House,3,1,1,685m² ,22 Aug 2023
+"403,300 ","20 Scott Crescent,",EAST BUNBURY WA 6230,House,3,1,2,779m² ,21 Aug 2023
+"580,000 ","9 Sturt Street,",SOUTH BUNBURY WA 6230,House,4,2,6,809m² ,2023
+"245,000 ","6/20 Minninup Road,",SOUTH BUNBURY WA 6230,House,2,1,−,115m² ,21 Aug 2023
+"840,000 ","7 Herald Way,",DALYELLUP WA 6230,House,4,2,3,684m² ,18 Aug 2023
+"470,000 ","10 Stockton Way,",DALYELLUP WA 6230,House,4,2,2,576m² ,17 Aug 2023
+"480,000 ","16 Kambany Approach,",DALYELLUP WA 6230,House,4,2,2,623m² ,17 Aug 2023
+"400,000 ","19 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,1,740m² ,17 Aug 2023
+"365,000 ","13 Cranbrook Way,",USHER WA 6230,House,3,1,−,721m² ,17 Aug 2023
+"257,500 ","44B Stallard Place,",WITHERS WA 6230,House,3,1,−,546m² ,17 Aug 2023
+"359,500 ","14 Newman Street,",GLEN IRIS WA 6230,House,3,2,2,272m² ,16 Aug 2023
+"387,600 ","11 College Row,",SOUTH BUNBURY WA 6230,House,3,1,1,764m² ,15 Aug 2023
+"455,000 ","7 Waratah Crescent,",SOUTH BUNBURY WA 6230,House,4,2,1,892m² ,15 Aug 2023
+"330,000 ","22C Halsey Street,",SOUTH BUNBURY WA 6230,House,3,1,1,352m² ,15 Aug 2023
+"295,000 ","1A Windich Way,",CAREY PARK WA 6230,Semi-detached,2,1,1,79m² ,14 Aug 2023
+"435,500 ","6 Quealum Way,",DALYELLUP WA 6230,House,3,2,2,298m² ,14 Aug 2023
+"380,000 ","40 Brand Avenue,",USHER WA 6230,House,3,1,2,722m² ,14 Aug 2023
+"440,000 ","34 Hotchin Street,",SOUTH BUNBURY WA 6230,House,3,1,1,820m² ,13 Aug 2023
+"455,500 ","88A Clarke Street,",SOUTH BUNBURY WA 6230,House,3,2,2,436m² ,10 Aug 2023
+"320,000 ","96 Clarke Street,",SOUTH BUNBURY WA 6230,House,2,1,1,404m² ,08 Aug 2023
+"440,000 ","80 Somerville Drive,",COLLEGE GROVE WA 6230,House,4,2,2,613m² ,07 Aug 2023
+"765,000 ","4 Nile Place,",SOUTH BUNBURY WA 6230,House,4,2,2,792m² ,05 Aug 2023
+"521,011 ","64 Gutmann Parkway,",DALYELLUP WA 6230,House,4,2,2,579m² ,04 Aug 2023
+"362,500 ","5 Ashrose Drive,",WITHERS WA 6230,House,3,1,−,731m² ,04 Aug 2023
+"475,000 ","23A Murtin Road,",DALYELLUP WA 6230,House,4,2,2,378m² ,01 Aug 2023
+"463,000 ","20 Atkins Road,",DALYELLUP WA 6230,House,4,2,2,352m² ,31 Jul 2023
+"570,000 ","3/17 Hayward Street,",SOUTH BUNBURY WA 6230,House,3,2,−,202m² ,31 Jul 2023
+"670,000 ","3 McKenzie Crescent,",DALYELLUP WA 6230,House,4,2,2,730m² ,30 Jul 2023
+"386,700 ","8 Underwood Street,",CAREY PARK WA 6230,House,3,1,2,809m² ,29 Jul 2023
+"389,000 ","6 St Marks Place,",EAST BUNBURY WA 6230,House,3,1,1,497m² ,29 Jul 2023
+"340,000 ","56 Hudson Road,",WITHERS WA 6230,House,3,1,2,796m² ,29 Jul 2023
+"358,000 ","3 Mary Street,",SOUTH BUNBURY WA 6230,House,3,1,2,613m² ,26 Jul 2023
+"405,000 ","30B Jacaranda Crescent,",WITHERS WA 6230,House,3,2,2,686m² ,26 Jul 2023
+"437,000 ","38 Prosser Street,",SOUTH BUNBURY WA 6230,House,4,1,2,808m² ,2023
+"295,000 ","35 Wilkerson Way,",WITHERS WA 6230,House,3,1,−,779m² ,21 Jul 2023
+"455,000 ","33 Eulalia Street,",CAREY PARK WA 6230,House,3,1,2,805m² ,20 Jul 2023
+"530,000 ","25 Lawson Road,",DALYELLUP WA 6230,House,4,2,2,713m² ,20 Jul 2023
+"331,000 ","6 Teeluk Road,",CAREY PARK WA 6230,House,3,1,2,751m² ,19 Jul 2023
+"900,000 ","18 Sleaford Drive,",GELORUP WA 6230,House,4,3,2,"4,013m² ",18 Jul 2023
+"315,000 ","11 Moolyeen Road,",CAREY PARK WA 6230,House,3,1,1,749m² ,17 Jul 2023
+"400,000 ","125 Norton Promenade,",DALYELLUP WA 6230,House,3,2,4,248m² ,17 Jul 2023
+"560,000 ","74 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,−,"1,734m² ",17 Jul 2023
+"370,000 ","35 Nalbarra Drive,",USHER WA 6230,House,4,1,1,709m² ,17 Jul 2023
+"265,000 ","11A Woodrow Street,",CAREY PARK WA 6230,House,3,1,2,457m² ,14 Jul 2023
+"420,000 ","15 Cambridge Crescent,",EAST BUNBURY WA 6230,House,3,2,−,809m² ,14 Jul 2023
+"785,000 ","7 Venn Street,",EAST BUNBURY WA 6230,House,4,2,2,680m² ,14 Jul 2023
+"250,000 ","2/45 Hakea Crescent,",SOUTH BUNBURY WA 6230,Semi-detached,2,1,−,70m² ,12 Jul 2023
+"300,000 ","1/13 Little Street,",CAREY PARK WA 6230,House,3,1,2,404m² ,11 Jul 2023
+"670,000 ","35 Antelope Turn,",DALYELLUP WA 6230,House,4,2,2,713m² ,11 Jul 2023
+"360,000 ","59 Nalbarra Drive,",USHER WA 6230,House,3,1,2,711m² ,11 Jul 2023
+"340,000 ","11 Woonnar Street,",CAREY PARK WA 6230,House,3,1,1,701m² ,10 Jul 2023
+"420,000 ","31 Knight Street,",WITHERS WA 6230,House,3,2,4,809m² ,10 Jul 2023
+"520,000 ","19 Cambria Road,",DALYELLUP WA 6230,House,4,2,−,636m² ,06 Jul 2023
+"510,000 ","1C Broadway,",PELICAN POINT WA 6230,House,3,2,2,308m² ,06 Jul 2023
+"492,000 ","1 Coojong Road,",DALYELLUP WA 6230,House,4,2,2,745m² ,05 Jul 2023
+"410,000 ","4D Minninup Road,",SOUTH BUNBURY WA 6230,House,3,2,2,264m² ,05 Jul 2023
+"500,000 ","17 Merton Avenue,",COLLEGE GROVE WA 6230,House,4,2,2,611m² ,2023
+"470,000 ","5 Preston Street,",EAST BUNBURY WA 6230,House,3,1,1,800m² ,04 Jul 2023
+"333,000 ","30 Dudley Drive,",USHER WA 6230,House,3,2,1,104m² ,04 Jul 2023
+"380,000 ","8 Hertford Elbow,",COLLEGE GROVE WA 6230,House,3,1,1,587m² ,03 Jul 2023
+"385,000 ","4 Breelya Entrance,",GLEN IRIS WA 6230,House,4,2,2,456m² ,2023
+"685,000 ","215 Ocean Drive,",SOUTH BUNBURY WA 6230,House,4,2,2,809m² ,03 Jul 2023
+"585,000 ","3A Latreille Road,",SOUTH BUNBURY WA 6230,House,4,2,6,690m² ,02 Jul 2023
+"450,000 ","1/47 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,−,549m² ,01 Jul 2023
+"480,000 ","7 Ferndale Avenue,",DALYELLUP WA 6230,House,4,2,2,577m² ,30 Jun 2023
+"555,000 ","3 Topaz Way,",DALYELLUP WA 6230,House,4,2,2,651m² ,28 Jun 2023
+"560,000 ","1/17 Hayward Street,",SOUTH BUNBURY WA 6230,House,3,2,2,215m² ,28 Jun 2023
+"355,000 ","31 Webber Street,",CAREY PARK WA 6230,House,4,1,1,680m² ,27 Jun 2023
+"520,000 ","9 Bunning Boulevard,",EAST BUNBURY WA 6230,House,3,1,2,787m² ,27 Jun 2023
+"326,000 ","22 Glover Street,",WITHERS WA 6230,House,3,1,1,814m² ,2023
+"335,000 ","28 Hamersley Drive,",CAREY PARK WA 6230,House,4,2,1,809m² ,26 Jun 2023
+"395,000 ","5/24 Forrest Street,",EAST BUNBURY WA 6230,House,2,1,2,325m² ,26 Jun 2023
+"320,000 ","22a Halsey Street,",SOUTH BUNBURY WA 6230,House,3,1,1,363m² ,26 Jun 2023
+"273,000 ","1/27 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,2,368m² ,26 Jun 2023
+"375,000 ","43 Cranbrook Way,",USHER WA 6230,House,4,1,−,701m² ,26 Jun 2023
+"470,000 ","16 Island Queen Street,",WITHERS WA 6230,House,3,1,2,789m² ,26 Jun 2023
+"300,000 ","16 Kestral Street,",WITHERS WA 6230,House,3,1,1,809m² ,26 Jun 2023
+"430,000 ","49 Sweeny Street,",CAREY PARK WA 6230,House,4,2,2,680m² ,23 Jun 2023
+"460,000 ","16 Tiffany Centre,",DALYELLUP WA 6230,House,3,2,2,378m² ,23 Jun 2023
+"440,000 ","13 Lawson Road,",DALYELLUP WA 6230,House,4,2,2,670m² ,20 Jun 2023
+"485,000 ","10 Tingle Street,",SOUTH BUNBURY WA 6230,House,2,1,1,684m² ,19 Jun 2023
+"840,000 ","23 Marri Place,",GELORUP WA 6230,House,4,2,2,"20,234m² ",17 Jun 2023
+"600,000 ","74 Hasties Road,",GELORUP WA 6230,House,4,1,2,"4,046m² ",16 Jun 2023
+"420,000 ","3 Mistletoe Court,",GLEN IRIS WA 6230,House,3,2,2,465m² ,16 Jun 2023
+"520,000 ","6/110 Mangles Street,",SOUTH BUNBURY WA 6230,House,3,2,2,923m² ,16 Jun 2023
+"631,000 ","17 Sherwood Drive,",DALYELLUP WA 6230,House,4,2,3,659m² ,2023
+"820,000 ","5 Marigold Court,",SOUTH BUNBURY WA 6230,House,4,3,3,381m² ,14 Jun 2023
+"450,000 ","46A Austral Parade,",EAST BUNBURY WA 6230,House,3,2,2,445m² ,13 Jun 2023
+"485,000 ","4 Birch Street,",SOUTH BUNBURY WA 6230,House,3,1,−,800m² ,13 Jun 2023
+"485,600 ","24 Janjin Road,",DALYELLUP WA 6230,House,4,2,2,722m² ,12 Jun 2023
+"510,000 ","54 Griffin Lane,",USHER WA 6230,House,4,2,2,754m² ,11 Jun 2023
+"464,000 ","381 Parade Road,",DALYELLUP WA 6230,House,3,2,−,360m² ,09 Jun 2023
+"520,000 ","3 Hertford Elbow,",COLLEGE GROVE WA 6230,House,5,2,−,665m² ,08 Jun 2023
+"300,000 ","16 Willoughby Street,",SOUTH BUNBURY WA 6230,House,3,1,−,774m² ,07 Jun 2023
+"285,000 ","15 Sulphur Street,",WITHERS WA 6230,House,3,1,1,809m² ,07 Jun 2023
+"515,000 ","226 Dalyellup Boulevard,",DALYELLUP WA 6230,House,4,2,2,703m² ,06 Jun 2023
+"420,000 ","31 Celosia Way,",GLEN IRIS WA 6230,House,4,2,2,550m² ,05 Jun 2023
+"335,000 ","14 Borya Bend,",GLEN IRIS WA 6230,House,3,2,2,564m² ,02 Jun 2023
+"365,000 ","423 Parade Road,",DALYELLUP WA 6230,House,3,2,2,225m² ,01 Jun 2023
+"460,000 ","20 Floreat Street,",SOUTH BUNBURY WA 6230,House,4,1,1,846m² ,01 Jun 2023
+"350,000 ","2/67 King Road,",EAST BUNBURY WA 6230,House,3,1,1,404m² ,31 May 2023
+"400,000 ","3 Windich Way,",CAREY PARK WA 6230,House,3,1,1,810m² ,30 May 2023
+"580,000 ","126 Norton Promenade,",DALYELLUP WA 6230,House,5,2,2,589m² ,2023
+"580,000 ","18 Churchill Drive,",SOUTH BUNBURY WA 6230,House,4,2,3,837m² ,30 May 2023
+"710,000 ","3/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,House,3,2,2,329m² ,30 May 2023
+"330,000 ","35 Westwood Street,",WITHERS WA 6230,House,3,1,5,700m² ,30 May 2023
+"386,000 ","18 Palmerston Street,",CAREY PARK WA 6230,House,3,1,1,796m² ,29 May 2023
+"366,000 ","9 Fielder Street,",SOUTH BUNBURY WA 6230,House,2,1,2,504m² ,29 May 2023
+"401,000 ","6 Fradelos Place,",USHER WA 6230,House,4,2,1,635m² ,29 May 2023
+"430,000 ","20 Starlite Bend,",DALYELLUP WA 6230,House,3,2,2,363m² ,28 May 2023
+"750,000 ","12 Elizabeth Crescent,",SOUTH BUNBURY WA 6230,House,3,2,2,"1,381m² ",28 May 2023
+"507,500 ","21 Kardil Street,",DALYELLUP WA 6230,House,4,2,−,708m² ,27 May 2023
+"495,000 ","16 Clare Row,",COLLEGE GROVE WA 6230,House,4,2,2,635m² ,26 May 2023
+"540,000 ","11 Dunstan Street,",SOUTH BUNBURY WA 6230,House,3,2,2,788m² ,26 May 2023
+"510,000 ","7 Parry Street,",SOUTH BUNBURY WA 6230,House,3,2,−,842m² ,26 May 2023
+"520,000 ","48 Lawson Road,",DALYELLUP WA 6230,House,4,2,2,565m² ,25 May 2023
+"465,000 ","103 King Road,",EAST BUNBURY WA 6230,House,2,1,−,986m² ,25 May 2023
+"170,000 ","2/4 Davenport Way,",WITHERS WA 6230,Semi-detached,1,1,−,369m² ,25 May 2023
+"365,000 ","12 Pearce Court,",USHER WA 6230,House,4,2,2,618m² ,24 May 2023
+"590,000 ","62 Hampstead Street,",GELORUP WA 6230,House,4,2,2,"3,857m² ",23 May 2023
+"330,000 ","35B Wisbey Street,",CAREY PARK WA 6230,House,3,2,2,296m² ,19 May 2023
+"350,000 ","31 Sweeny Street,",CAREY PARK WA 6230,House,3,1,2,680m² ,19 May 2023
+"459,000 ","20 Wakefield Avenue,",WITHERS WA 6230,House,4,2,1,747m² ,19 May 2023
+"340,000 ","9 Benjamin Street,",WITHERS WA 6230,House,3,1,1,686m² ,19 May 2023
+"342,000 ","1 Winton Street,",CAREY PARK WA 6230,House,3,1,1,"1,034m² ",18 May 2023
+"367,000 ","7 Inkpen Road,",EAST BUNBURY WA 6230,House,3,1,1,772m² ,18 May 2023
+"600,000 ","180 Spencer Street,",SOUTH BUNBURY WA 6230,House,4,2,1,369m² ,18 May 2023
+"685,000 ","36 Hastie Street,",SOUTH BUNBURY WA 6230,House,4,2,2,815m² ,17 May 2023
+"651,000 ","27 Brookview Avenue,",GELORUP WA 6230,House,3,1,4,"5,787m² ",16 May 2023
+"515,000 ","20 Sewell Road,",DALYELLUP WA 6230,House,4,2,2,585m² ,15 May 2023
+"400,000 ","43 Wilson Street,",CAREY PARK WA 6230,House,4,1,1,835m² ,13 May 2023
+"292,000 ","5 Nandup Street,",CAREY PARK WA 6230,House,3,1,2,661m² ,12 May 2023
+"529,000 ","1 Nottingham Entrance,",DALYELLUP WA 6230,House,4,2,2,802m² ,10 May 2023
+"382,000 ","40A Prosser Street,",SOUTH BUNBURY WA 6230,House,3,2,−,329m² ,10 May 2023
+"315,000 ","39B Parry Street,",SOUTH BUNBURY WA 6230,Duplex,2,1,1,"1,258m² ",10 May 2023
+"335,000 ","32 Brand Avenue,",USHER WA 6230,House,3,1,1,724m² ,10 May 2023
+"760,111 ","3 Katinka Street,",DALYELLUP WA 6230,House,5,3,2,811m² ,09 May 2023
+"390,000 ","15 Angove Street,",DALYELLUP WA 6230,House,3,2,2,261m² ,08 May 2023
+"376,000 ","16 Meredith Way,",USHER WA 6230,House,4,2,2,601m² ,08 May 2023
+"465,000 ","4 Jarvis Street,",SOUTH BUNBURY WA 6230,House,2,1,2,814m² ,05 May 2023
+"287,000 ","5/7 Hayward Street,",SOUTH BUNBURY WA 6230,House,2,1,1,263m² ,05 May 2023
+"375,000 ","33 Dudley Drive,",USHER WA 6230,House,4,2,2,641m² ,2023
+"340,000 ","19 Stinton Street,",CAREY PARK WA 6230,House,3,1,2,840m² ,30 Apr 2023
+"402,000 ","48 Winthrop Avenue,",COLLEGE GROVE WA 6230,House,4,2,2,735m² ,2023
+"385,000 ","346 Parade Road,",DALYELLUP WA 6230,House,3,2,4,393m² ,2023
+"451,500 ","4 Parade Road,",SOUTH BUNBURY WA 6230,House,3,1,1,699m² ,28 Apr 2023
+"355,000 ","20 Ganfield Street,",CAREY PARK WA 6230,House,3,1,1,805m² ,27 Apr 2023
+"475,000 ","23 Graphite Turn,",DALYELLUP WA 6230,House,5,2,2,570m² ,27 Apr 2023
+"619,000 ","1 Fryer Place,",EAST BUNBURY WA 6230,House,4,2,2,935m² ,27 Apr 2023
+"301,487 ","216 Minninup Road,",WITHERS WA 6230,House,3,1,1,688m² ,27 Apr 2023
+"500,000 ","112 Wake Drive,",DALYELLUP WA 6230,House,3,2,2,415m² ,26 Apr 2023
+"355,000 ","36 Jacaranda Crescent,",WITHERS WA 6230,House,4,1,1,"1,560m² ",25 Apr 2023
+"442,500 ","6 Dravite Way,",DALYELLUP WA 6230,House,4,2,2,573m² ,24 Apr 2023
+"375,000 ","7 Perry Place,",EAST BUNBURY WA 6230,House,3,2,1,770m² ,24 Apr 2023
+"515,000 ","15 Melaleuca Drive,",COLLEGE GROVE WA 6230,House,5,2,2,624m² ,21 Apr 2023
+"352,000 ","63 Hayes Street,",EAST BUNBURY WA 6230,House,3,1,1,353m² ,21 Apr 2023
+"560,000 ","69 Jubilee Road,",GLEN IRIS WA 6230,House,5,2,2,702m² ,21 Apr 2023
+"350,000 ","39 Nalbarra Drive,",USHER WA 6230,House,4,2,2,670m² ,20 Apr 2023
+"355,000 ","55 Gibbs Street,",CAREY PARK WA 6230,House,3,1,−,"1,037m² ",19 Apr 2023
+"387,000 ","2 Clematis Lane,",GLEN IRIS WA 6230,House,3,1,1,598m² ,19 Apr 2023
+"1,100,000 ","343 Norton Promenade,",DALYELLUP WA 6230,House,5,2,3,731m² ,2023
+"270,000 ","1/218 Spencer Street,",SOUTH BUNBURY WA 6230,House,3,1,1,454m² ,18 Apr 2023
+"650,000 ","19 Forum Way,",EAST BUNBURY WA 6230,House,4,2,2,875m² ,17 Apr 2023
+"300,000 ","156 Blair Street,",SOUTH BUNBURY WA 6230,House,3,1,1,661m² ,17 Apr 2023
+"395,000 ","3 Eastman Avenue,",USHER WA 6230,House,3,1,1,750m² ,13 Apr 2023
+"460,000 ","15 Neslite Rd,",DALYELLUP WA 6230,House,3,2,2,549m² ,12 Apr 2023
+"317,000 ","29 Mary Street,",SOUTH BUNBURY WA 6230,House,3,1,1,310m² ,12 Apr 2023
+"420,000 ","12 Wakefield Avenue,",WITHERS WA 6230,House,3,1,1,686m² ,11 Apr 2023
+"480,000 ","51 King Road,",EAST BUNBURY WA 6230,House,3,1,2,922m² ,06 Apr 2023
+"850,000 ","7 Stanbury Crescent,",SOUTH BUNBURY WA 6230,House,3,3,2,810m² ,06 Apr 2023
+"395,000 ","43A Clarke Street,",SOUTH BUNBURY WA 6230,House,3,2,2,359m² ,04 Apr 2023
+"255,000 ","2 Boyalla Street,",CAREY PARK WA 6230,House,3,1,−,692m² ,03 Apr 2023
+"860,000 ","23 Hildas Close,",COLLEGE GROVE WA 6230,House,4,2,4,"1,771m² ",03 Apr 2023
+"445,000 ","13 Sirius Street,",DALYELLUP WA 6230,House,3,2,2,433m² ,03 Apr 2023
+"310,000 ","74A Forrest Avenue,",SOUTH BUNBURY WA 6230,House,3,1,2,346m² ,03 Apr 2023
+"400,000 ","10 Tremandra Way,",GLEN IRIS WA 6230,House,3,2,2,555m² ,01 Apr 2023
+"450,000 ","4B Isernia Place,",SOUTH BUNBURY WA 6230,House,3,2,2,340m² ,31 Mar 2023
+"525,000 ","4 Diamond Street,",DALYELLUP WA 6230,House,4,2,2,655m² ,30 Mar 2023
+"1,100,000 ","6 Ocean View Court,",SOUTH BUNBURY WA 6230,House,4,2,2,886m² ,30 Mar 2023
+"551,000 ","18 Wiroo Loop,",DALYELLUP WA 6230,House,4,2,2,655m² ,29 Mar 2023
+"460,000 ","30 Latreille Road,",SOUTH BUNBURY WA 6230,House,3,1,1,"1,052m² ",29 Mar 2023
+"705,000 ","27 Naroona Drive,",DALYELLUP WA 6230,House,4,2,2,658m² ,28 Mar 2023
+"1,265,000 ","10 & 12 Macedon Road,",DALYELLUP WA 6230,House,4,2,2,"1,456m² ",28 Mar 2023
+"575,000 ","4 Wonil Crescent,",DALYELLUP WA 6230,House,4,2,2,757m² ,28 Mar 2023
+"575,000 ","26 Wentworth Drive,",DALYELLUP WA 6230,House,4,2,2,690m² ,26 Mar 2023
+"755,000 ","90 Minninup Road,",SOUTH BUNBURY WA 6230,House,4,2,2,874m² ,26 Mar 2023
+"418,000 ","5 Poplar Brace,",GLEN IRIS WA 6230,House,4,2,2,478m² ,24 Mar 2023
+"360,000 ","115A Mangles Street,",SOUTH BUNBURY WA 6230,House,3,2,−,337m² ,24 Mar 2023
+"500,000 ","7 Hertford Elbow,",COLLEGE GROVE WA 6230,House,4,2,2,665m² ,22 Mar 2023
+"425,000 ","100 Prestonwood Street,",EAST BUNBURY WA 6230,House,4,2,3,810m² ,2023
+"439,000 ","61 Wuraming Bend,",DALYELLUP WA 6230,House,3,2,2,509m² ,19 Mar 2023
+"410,000 ","85 King Road,",EAST BUNBURY WA 6230,House,3,1,3,894m² ,18 Mar 2023
+"500,000 ","1 Willow Drive,",SOUTH BUNBURY WA 6230,House,4,1,−,"1,346m² ",17 Mar 2023
+"250,000 ","5 Gwinda Street,",CAREY PARK WA 6230,House,3,1,1,671m² ,2023
+"620,000 ","24 Killerby Drive,",DALYELLUP WA 6230,House,4,2,2,734m² ,15 Mar 2023
+"475,000 ","30A Farnell Street,",SOUTH BUNBURY WA 6230,House,3,2,2,458m² ,15 Mar 2023
+"335,000 ","18 Wallrodt Crescent,",GLEN IRIS WA 6230,House,3,1,1,894m² ,13 Mar 2023
+"560,000 ","12 Parnell Street,",SOUTH BUNBURY WA 6230,House,4,2,3,680m² ,13 Mar 2023
+"320,000 ","14A Little Street,",CAREY PARK WA 6230,House,2,1,1,367m² ,11 Mar 2023
+"450,000 ","12 Bluff Road,",DALYELLUP WA 6230,House,3,2,2,342m² ,11 Mar 2023
+"300,500 ","2/11 Strickland Street,",SOUTH BUNBURY WA 6230,House,2,2,1,216m² ,10 Mar 2023
+"371,000 ","168 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,1,809m² ,10 Mar 2023
+"500,000 ","17 Hoylake Avenue,",SOUTH BUNBURY WA 6230,House,4,2,3,889m² ,10 Mar 2023
+"425,000 ",,SOUTH BUNBURY WA 6230,House,3,1,2,830m² ,09 Mar 2023
+"260,000 ","2 Sulphur Street,",WITHERS WA 6230,House,3,1,1,450m² ,08 Mar 2023
+"430,000 ","13 Gosse Way,",DALYELLUP WA 6230,House,4,2,4,512m² ,2023
+"450,000 ","5 Moss Street,",SOUTH BUNBURY WA 6230,House,4,2,2,868m² ,07 Mar 2023
+"830,000 ","99 Dunstan Street,",SOUTH BUNBURY WA 6230,House,4,2,2,787m² ,07 Mar 2023
+"390,000 ","26 Adam Road,",SOUTH BUNBURY WA 6230,House,4,2,2,732m² ,07 Mar 2023
+"617,000 ","34 Nicolay Approach,",DALYELLUP WA 6230,House,4,2,2,713m² ,06 Mar 2023
+"422,000 ","6 Ward Street,",SOUTH BUNBURY WA 6230,House,3,1,−,823m² ,06 Mar 2023
+"760,000 ","26 Clarke Street,",SOUTH BUNBURY WA 6230,House,4,2,2,809m² ,04 Mar 2023
+"440,000 ","1/42 Thomas Street,",EAST BUNBURY WA 6230,House,3,2,2,309m² ,2023
+"373,000 ","46 Woodley Road,",GLEN IRIS WA 6230,House,3,2,2,550m² ,03 Mar 2023
+"170,000 ","12A Whitley Place,",WITHERS WA 6230,House,2,1,1,334m² ,03 Mar 2023
+"257,000 ","13C Absolon Street,",CAREY PARK WA 6230,House,3,2,2,257m² ,02 Mar 2023
+"420,000 ","14 Taunton Street,",EAST BUNBURY WA 6230,House,3,1,1,506m² ,02 Mar 2023
+"344,000 ","22B Farnell Street,",SOUTH BUNBURY WA 6230,House,3,1,1,94m² ,02 Mar 2023
+"245,000 ","20 Balgore Way,",CAREY PARK WA 6230,House,3,1,−,859m² ,2023
+"413,500 ","97 Strickland Street,",EAST BUNBURY WA 6230,House,5,2,2,700m² ,2023
+"157,000 ","4/4 Davenport Way,",WITHERS WA 6230,Semi-detached,1,1,1,445m² ,27 Feb 2023
+"480,000 ","6 Maidmarian Street,",DALYELLUP WA 6230,House,4,2,2,706m² ,24 Feb 2023
+"985,000 ","14 Birch Street,",SOUTH BUNBURY WA 6230,House,4,2,2,"1,167m² ",24 Feb 2023
+"615,000 ","6 Hakea Crescent,",SOUTH BUNBURY WA 6230,House,4,2,3,810m² ,24 Feb 2023
+"315,000 ","25 Xavier Street,",CAREY PARK WA 6230,House,3,1,−,911m² ,23 Feb 2023
+"350,000 ","78 Tiffany Centre,",DALYELLUP WA 6230,House,3,2,2,224m² ,23 Feb 2023
+"480,000 ","4 Moit Road,",DALYELLUP WA 6230,House,4,2,2,711m² ,23 Feb 2023
+"600,000 ","24 Ducane Road,",GELORUP WA 6230,House,4,2,2,"4,044m² ",22 Feb 2023
+"415,000 ","10 Miller Street,",SOUTH BUNBURY WA 6230,House,3,1,2,450m² ,22 Feb 2023
+"255,000 ","9 Jacaranda Crescent,",WITHERS WA 6230,House,3,1,1,873m² ,22 Feb 2023
+"310,000 ","49 Ecclestone Street,",CAREY PARK WA 6230,House,3,1,2,682m² ,2023
+"190,000 ","9B Wright Street,",WITHERS WA 6230,House,3,1,1,334m² ,21 Feb 2023
+"845,000 ","20 Frances Road,",GELORUP WA 6230,House,3,2,2,"4,047m² ",20 Feb 2023
+"545,000 ","28 Gregory Street,",SOUTH BUNBURY WA 6230,House,3,1,1,"1,151m² ",20 Feb 2023
+"425,000 ","1 Pembroke Street,",COLLEGE GROVE WA 6230,House,3,1,5,651m² ,2023
+"390,000 ","9/87 Clarke Street,",SOUTH BUNBURY WA 6230,House,3,2,2,270m² ,17 Feb 2023
+"360,000 ","1 Mondak Place,",CAREY PARK WA 6230,House,4,1,2,815m² ,16 Feb 2023
+"255,000 ","6 Boyalla Street,",CAREY PARK WA 6230,House,3,1,1,745m² ,16 Feb 2023
+"522,000 ","76 Austral Parade,",EAST BUNBURY WA 6230,Duplex,2,1,1,"1,104m² ",16 Feb 2023
+"505,000 ","7 Cusworth Drive,",GLEN IRIS WA 6230,House,4,2,2,744m² ,15 Feb 2023
+"333,000 ","26A Queensbury Street,",SOUTH BUNBURY WA 6230,House,3,2,2,339m² ,14 Feb 2023
+"515,000 ","7 McMillan Drive,",DALYELLUP WA 6230,House,4,2,2,571m² ,13 Feb 2023
+"515,000 ","10 Dravite Way,",DALYELLUP WA 6230,House,4,2,4,620m² ,2023
+"651,000 ","16 Athena Street,",DALYELLUP WA 6230,House,4,2,2,628m² ,10 Feb 2023
+"230,000 ","12 Teeluk Road,",CAREY PARK WA 6230,House,3,1,−,751m² ,08 Feb 2023
+"542,000 ","26 Nicolay Approach,",DALYELLUP WA 6230,House,3,2,2,708m² ,08 Feb 2023
+"440,000 ","23/87 Clarke Street,",SOUTH BUNBURY WA 6230,House,3,2,2,270m² ,08 Feb 2023
+"495,000 ","48 Ganfield Street,",CAREY PARK WA 6230,House,3,2,2,680m² ,07 Feb 2023
+"630,000 ","8 Diamond Street,",DALYELLUP WA 6230,House,4,2,3,700m² ,07 Feb 2023
+"459,000 ","7 Epidote Loop,",DALYELLUP WA 6230,House,4,2,4,525m² ,06 Feb 2023
+"495,000 ","15 Richmond Street,",EAST BUNBURY WA 6230,House,3,2,2,241m² ,06 Feb 2023
+"360,000 ","29 Wilkes Street,",CAREY PARK WA 6230,House,3,1,1,577m² ,05 Feb 2023
+"605,000 ","9b Latreille Road,",SOUTH BUNBURY WA 6230,House,4,2,2,488m² ,04 Feb 2023
+"435,000 ","4 Martin Street,",EAST BUNBURY WA 6230,House,3,1,−,707m² ,03 Feb 2023
+"250,000 ","5 Ecclestone Street,",SOUTH BUNBURY WA 6230,House,3,1,1,329m² ,03 Feb 2023
+"420,000 ","4 Casson Street,",DALYELLUP WA 6230,House,3,2,2,579m² ,02 Feb 2023
+"515,000 ","7 Rivergum Way,",GLEN IRIS WA 6230,House,4,2,2,576m² ,02 Feb 2023
+"375,000 ","12 Coral Street,",SOUTH BUNBURY WA 6230,House,4,2,2,684m² ,02 Feb 2023
+"395,000 ","30 Raglan Street,",CAREY PARK WA 6230,House,3,1,2,711m² ,01 Feb 2023
+"485,000 ","15 Chisholm Road,",DALYELLUP WA 6230,House,4,2,2,557m² ,01 Feb 2023
+"558,000 ","3 Seque Way,",DALYELLUP WA 6230,House,4,2,2,728m² ,01 Feb 2023
+"425,000 ","39 Cambridge Crescent,",EAST BUNBURY WA 6230,House,3,1,1,701m² ,01 Feb 2023
+"515,000 ","59 Vickery Crescent,",SOUTH BUNBURY WA 6230,House,3,1,1,763m² ,01 Feb 2023
+"295,000 ","18 Balgore Way,",CAREY PARK WA 6230,House,3,1,1,739m² ,2023
+"565,000 ","233 Dalyellup Boulevard,",DALYELLUP WA 6230,House,4,2,2,699m² ,31 Jan 2023
+"425,000 ","6C Holywell Street,",SOUTH BUNBURY WA 6230,House,3,2,2,250m² ,31 Jan 2023
+"245,000 ","20B Hooper Place,",WITHERS WA 6230,Semi-detached,2,1,−,751m² ,2023
+"350,000 ","181 Minninup Road,",WITHERS WA 6230,House,3,1,2,760m² ,31 Jan 2023
+"495,000 ","42 Bibra Loop,",DALYELLUP WA 6230,House,4,2,2,431m² ,30 Jan 2023
+"650,000 ","23 Marmion Street,",EAST BUNBURY WA 6230,House,4,2,6,844m² ,30 Jan 2023
+"520,000 ","105 Strickland Street,",EAST BUNBURY WA 6230,House,4,2,1,700m² ,30 Jan 2023
+"376,000 ","16 Somerville Drive,",COLLEGE GROVE WA 6230,House,4,2,2,705m² ,2023
+"620,000 ","8 Rodondo Street,",DALYELLUP WA 6230,House,4,2,2,683m² ,27 Jan 2023
+"390,000 ","13 Herbert Road,",EAST BUNBURY WA 6230,House,3,1,1,"1,119m² ",2023
+"350,000 ","54 Mosedale Avenue,",USHER WA 6230,House,3,2,1,711m² ,2023
+"447,500 ","25 Columbine Terrace,",GLEN IRIS WA 6230,House,3,2,2,537m² ,25 Jan 2023
+"400,000 ","48 Paragon Loop,",DALYELLUP WA 6230,House,3,2,2,331m² ,24 Jan 2023
+"725,000 ","15 Hoylake Avenue,",SOUTH BUNBURY WA 6230,House,5,3,2,768m² ,24 Jan 2023
+"615,000 ","21 King Road,",EAST BUNBURY WA 6230,House,4,3,5,"1,097m² ",2023
+"355,500 ","119 Norton Promenade,",DALYELLUP WA 6230,House,3,2,2,248m² ,22 Jan 2023
+"429,000 ","5 Meredith Way,",USHER WA 6230,House,5,2,2,605m² ,21 Jan 2023
+"460,000 ","10/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,House,3,2,2,327m² ,20 Jan 2023
+"430,000 ","9 Frollet Way,",DALYELLUP WA 6230,House,4,2,2,578m² ,19 Jan 2023
+"655,000 ","16 Kepler Approach,",DALYELLUP WA 6230,House,4,2,2,637m² ,19 Jan 2023
+"375,500 ","5 Ganfield Street,",CAREY PARK WA 6230,House,4,2,2,809m² ,18 Jan 2023
+"387,500 ","22 Murray Drive,",WITHERS WA 6230,House,3,1,3,686m² ,16 Jan 2023
+"371,000 ","4 Benjamin Street,",WITHERS WA 6230,House,4,2,1,695m² ,13 Jan 2023
+"450,000 ","23 Possum Way,",COLLEGE GROVE WA 6230,House,4,2,2,550m² ,12 Jan 2023
+"450,000 ","4 Mossop Street,",SOUTH BUNBURY WA 6230,House,4,1,1,870m² ,11 Jan 2023
+"455,000 ","34 Thomas Street,",EAST BUNBURY WA 6230,House,3,1,1,846m² ,10 Jan 2023
+"383,000 ","19 Slee Place,",WITHERS WA 6230,House,4,1,3,804m² ,09 Jan 2023
+"435,000 ","50 Hornibrook Road,",DALYELLUP WA 6230,House,4,2,2,797m² ,08 Jan 2023
+"446,000 ","10 Nassak Way,",DALYELLUP WA 6230,House,3,2,2,375m² ,07 Jan 2023
+"510,000 ","16 Biesiot Street,",CAREY PARK WA 6230,House,4,2,2,490m² ,06 Jan 2023
+"382,000 ","25 Webber Street,",CAREY PARK WA 6230,House,3,1,2,680m² ,06 Jan 2023
+"595,000 ","14 Hawkins Drive,",GELORUP WA 6230,House,5,2,2,"4,398m² ",2023
+"730,000 ","26 Beach Road,",SOUTH BUNBURY WA 6230,House,3,1,2,850m² ,05 Jan 2023
+"405,000 ","36 Graphite Turn,",DALYELLUP WA 6230,House,3,2,2,338m² ,04 Jan 2023
+"550,000 ","236A Spencer Street,",SOUTH BUNBURY WA 6230,House,3,2,2,427m² ,04 Jan 2023
+"265,000 ","20A Hudson Road,",SOUTH BUNBURY WA 6230,Semi-detached,2,1,1,"1,005m² ",04 Jan 2023
+"685,000 ","42 Killerby Drive,",DALYELLUP WA 6230,House,5,2,2,696m² ,31 Dec 2022
+"480,000 ","12 Montgomery Road,",SOUTH BUNBURY WA 6230,House,3,2,2,816m² ,31 Dec 2022
+"420,000 ","15 Mackay Road,",DALYELLUP WA 6230,House,3,2,2,510m² ,27 Dec 2022
+"495,000 ","102 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,2,1,903m² ,24 Dec 2022
+"510,000 ","13 Jury Bend,",CAREY PARK WA 6230,House,3,2,2,354m² ,23 Dec 2022
+"440,000 ","11 Argyle Avenue,",WITHERS WA 6230,House,4,2,2,685m² ,2022
+"280,000 ","10 Plowers Place,",WITHERS WA 6230,House,3,1,1,691m² ,23 Dec 2022
+"750,000 ","14 Pickworth Retreat,",PELICAN POINT WA 6230,House,4,2,2,590m² ,21 Dec 2022
+"335,500 ","16 Drysdale Place,",EAST BUNBURY WA 6230,House,2,1,2,717m² ,2022
+"430,000 ","14 Sewell Road,",DALYELLUP WA 6230,House,3,2,2,664m² ,19 Dec 2022
+"222,000 ","88A Wisbey Street,",CAREY PARK WA 6230,House,3,1,1,311m² ,15 Dec 2022
+"480,000 ","200 Dalyellup Boulevard,",DALYELLUP WA 6230,House,4,2,2,702m² ,15 Dec 2022
+"250,000 ","18B Kestral Street,",WITHERS WA 6230,House,3,1,1,467m² ,15 Dec 2022
+"390,000 ","15 Arum Corner,",GLEN IRIS WA 6230,House,4,2,2,641m² ,14 Dec 2022
+"750,000 ","17 Naroona Drive,",DALYELLUP WA 6230,House,5,2,2,761m² ,13 Dec 2022
+"247,000 ","18A Flynn Street,",EAST BUNBURY WA 6230,Semi-detached,3,1,1,681m² ,13 Dec 2022
+"522,000 ","76 Austral Parade,",EAST BUNBURY WA 6230,Semi-detached,2,1,1,"1,104m² ",13 Dec 2022
+"222,000 ","13A Absolon Street,",CAREY PARK WA 6230,House,3,1,−,307m² ,12 Dec 2022
+"255,000 ","60 Balgore Way,",CAREY PARK WA 6230,House,3,1,2,809m² ,12 Dec 2022
+"200,000 ","3 Dyinda Street,",CAREY PARK WA 6230,House,3,1,4,638m² ,12 Dec 2022
+"372,500 ","32 Claughton Way,",GLEN IRIS WA 6230,House,3,2,2,762m² ,09 Dec 2022
+"278,000 ","15 Island Queen Street,",WITHERS WA 6230,House,3,1,1,863m² ,09 Dec 2022
+"205,000 ","35 Xavier Street,",CAREY PARK WA 6230,House,3,1,2,550m² ,08 Dec 2022
+"610,000 ","3 McKenzie Crescent,",DALYELLUP WA 6230,House,4,2,2,730m² ,08 Dec 2022
+"435,000 ","2/72 Hayes Street,",EAST BUNBURY WA 6230,House,3,2,1,532m² ,08 Dec 2022
+"360,000 ","19 St Peters Green,",COLLEGE GROVE WA 6230,House,3,1,2,583m² ,2022
+"805,000 ","6 Macedon Road,",DALYELLUP WA 6230,House,4,2,2,832m² ,07 Dec 2022
+"785,000 ","30 Ramillies Street,",SOUTH BUNBURY WA 6230,House,4,2,2,"1,021m² ",07 Dec 2022
+"660,000 ","17 Katinka Street,",DALYELLUP WA 6230,House,5,2,3,685m² ,06 Dec 2022
+"440,000 ","1 Neslite Road,",DALYELLUP WA 6230,House,4,2,2,533m² ,2022
+"575,000 ","9 Columba Street,",SOUTH BUNBURY WA 6230,House,2,1,2,647m² ,2022
+"405,000 ","25 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,2,967m² ,05 Dec 2022
+"595,000 ","4 Sturt Street,",SOUTH BUNBURY WA 6230,House,4,3,4,"1,012m² ",05 Dec 2022
+"352,000 ","8 Webber Street,",CAREY PARK WA 6230,House,3,1,2,700m² ,03 Dec 2022
+"440,000 ","16 Wandoo Road,",DALYELLUP WA 6230,House,4,2,6,688m² ,03 Dec 2022
+"1,050,000 ","26 Dunstan Street,",SOUTH BUNBURY WA 6230,House,5,2,2,856m² ,03 Dec 2022
+"285,000 ","21 Xavier Street,",CAREY PARK WA 6230,House,2,1,−,911m² ,30 Nov 2022
+"700,000 ","1 Guthrie Street,",SOUTH BUNBURY WA 6230,House,4,2,3,658m² ,30 Nov 2022
+"460,000 ","14 Cannon Place,",SOUTH BUNBURY WA 6230,House,3,2,2,686m² ,29 Nov 2022
+"359,000 ","200 Forrest Avenue East,",CAREY PARK WA 6230,House,3,1,2,"1,067m² ",28 Nov 2022
+"360,000 ","15 Selwyn Place,",EAST BUNBURY WA 6230,House,3,1,−,992m² ,28 Nov 2022
+"305,000 ","15 Inkpen Road,",EAST BUNBURY WA 6230,House,3,1,1,736m² ,28 Nov 2022
+"390,000 ","22 Clematis Lane,",GLEN IRIS WA 6230,House,4,2,2,585m² ,28 Nov 2022
+"545,000 ","29 Alyxia Drive,",GLEN IRIS WA 6230,House,4,2,2,803m² ,28 Nov 2022
+"515,000 ","5 Lefroy Place,",USHER WA 6230,House,4,2,2,700m² ,26 Nov 2022
+"360,000 ","1/30 Queensbury Street,",SOUTH BUNBURY WA 6230,House,3,1,2,343m² ,25 Nov 2022
+"425,000 ","3/13 Wisteria Court,",SOUTH BUNBURY WA 6230,House,2,2,2,202m² ,25 Nov 2022
+"640,000 ","20 Samrose Road,",DALYELLUP WA 6230,House,5,2,2,"2,056m² ",24 Nov 2022
+"695,000 ","3/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,House,3,2,2,329m² ,24 Nov 2022
+"835,000 ","30 Mindalong Close,",SOUTH BUNBURY WA 6230,House,4,2,2,876m² ,23 Nov 2022
+"630,000 ","8 Hope Street,",DALYELLUP WA 6230,House,4,2,2,652m² ,22 Nov 2022
+"398,000 ","2/13 Jubilee Road,",GLEN IRIS WA 6230,House,3,2,2,346m² ,22 Nov 2022
+"442,000 ","10 Melba Way,",DALYELLUP WA 6230,House,4,2,4,647m² ,2022
+"530,000 ","53 Walton Approach,",DALYELLUP WA 6230,House,4,2,2,662m² ,21 Nov 2022
+"480,000 ",,SOUTH BUNBURY WA 6230,House,3,2,3,696m² ,20 Nov 2022
+"360,000 ","336 Parade Road,",DALYELLUP WA 6230,House,3,2,3,459m² ,18 Nov 2022
+"530,000 ","6 Mossop Street,",SOUTH BUNBURY WA 6230,House,3,2,−,"1,167m² ",18 Nov 2022
+"282,000 ","3/3 Little Street,",CAREY PARK WA 6230,House,3,1,1,305m² ,17 Nov 2022
+"475,000 ","16 Rodsted Street,",EAST BUNBURY WA 6230,House,3,2,2,965m² ,16 Nov 2022
+"560,000 ","55 Hoylake Avenue,",SOUTH BUNBURY WA 6230,House,4,2,2,846m² ,16 Nov 2022
+"352,000 ","17 Raglan Street,",CAREY PARK WA 6230,House,4,1,1,681m² ,15 Nov 2022
+"295,000 ","10 Eedle Street,",CAREY PARK WA 6230,House,3,2,1,310m² ,15 Nov 2022
+"455,000 ","53 Beraking Loop,",DALYELLUP WA 6230,House,4,2,2,512m² ,15 Nov 2022
+"600,000 ","38 Killerby Drive,",DALYELLUP WA 6230,House,4,2,3,686m² ,2022
+"360,000 ","23 Nyabing Way,",WITHERS WA 6230,House,3,1,2,686m² ,2022
+"620,000 ","3 Cambria Road,",DALYELLUP WA 6230,House,4,2,2,728m² ,14 Nov 2022
+"830,000 ","34 Frances Road,",GELORUP WA 6230,House,7,3,2,"4,049m² ",14 Nov 2022
+"385,000 ","20 Scarlet Drive,",GLEN IRIS WA 6230,House,3,2,2,557m² ,13 Nov 2022
+"369,000 ","8 Armanta Drive,",CAREY PARK WA 6230,House,4,2,1,699m² ,2022
+"435,000 ","23 Epidote Loop,",DALYELLUP WA 6230,House,4,2,2,606m² ,11 Nov 2022
+"480,000 ","40 Forum Way,",EAST BUNBURY WA 6230,House,3,2,2,724m² ,11 Nov 2022
+"350,000 ","3 Nash Street,",GLEN IRIS WA 6230,House,3,1,2,809m² ,11 Nov 2022
+"440,000 ","35A Queensbury Street,",SOUTH BUNBURY WA 6230,House,4,2,2,636m² ,2022
+"355,000 ","15B Bolton Street,",SOUTH BUNBURY WA 6230,House,2,1,1,227m² ,10 Nov 2022
+"520,000 ","32 Gutmann Parkway,",DALYELLUP WA 6230,House,4,2,2,612m² ,09 Nov 2022
+"405,000 ","18 Fielder Street,",SOUTH BUNBURY WA 6230,House,2,1,2,488m² ,09 Nov 2022
+"535,000 ","6 Wake Drive,",DALYELLUP WA 6230,House,4,2,2,724m² ,08 Nov 2022
+"330,000 ","14 Collinsville Way,",USHER WA 6230,House,4,1,2,700m² ,08 Nov 2022
+"449,000 ","34 Thyme Way,",GLEN IRIS WA 6230,House,4,2,2,628m² ,07 Nov 2022
+"350,000 ","6A Shenton Street,",EAST BUNBURY WA 6230,House,3,1,1,430m² ,06 Nov 2022
+"220,000 ","11 Stallard Place,",WITHERS WA 6230,House,3,1,2,872m² ,05 Nov 2022
+"349,000 ","3A Bandak Road,",CAREY PARK WA 6230,House,4,2,2,351m² ,04 Nov 2022
+"470,000 ","6 Possum Way,",COLLEGE GROVE WA 6230,House,4,2,3,550m² ,03 Nov 2022
+"370,000 ","7 Dudley Drive,",USHER WA 6230,House,3,2,2,723m² ,03 Nov 2022
+"285,000 ","45 Nalbarra Drive,",USHER WA 6230,House,3,1,2,688m² ,02 Nov 2022
+"340,000 ","162 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,2,850m² ,01 Nov 2022
+"265,000 ","7 Bandak Road,",CAREY PARK WA 6230,House,2,1,1,751m² ,2022
+"265,000 ","7 Bandak Road,",CAREY PARK WA 6230,House,2,1,1,751m² ,2022
+"500,000 ","31 Claymore Loop,",DALYELLUP WA 6230,House,4,2,2,604m² ,31 Oct 2022
+"595,000 ","10 Colonna Street,",DALYELLUP WA 6230,House,4,2,2,695m² ,31 Oct 2022
+"950,000 ","13 Hildas Close,",COLLEGE GROVE WA 6230,House,4,3,3,"2,236m² ",28 Oct 2022
+"545,000 ","12 Robinhood Road,",DALYELLUP WA 6230,House,4,2,3,693m² ,28 Oct 2022
+"660,000 ","86 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,1,"1,987m² ",28 Oct 2022
+"630,000 ","15 McKenzie Crescent,",DALYELLUP WA 6230,House,4,2,2,632m² ,27 Oct 2022
+"930,000 ","69 King Road,",EAST BUNBURY WA 6230,House,5,2,2,928m² ,27 Oct 2022
+"260,000 ","19 Davenport Way,",WITHERS WA 6230,House,3,1,−,990m² ,27 Oct 2022
+"285,000 ","1 Teeluk Road,",CAREY PARK WA 6230,House,3,1,1,791m² ,2022
+"345,000 ","18 Clare Row,",COLLEGE GROVE WA 6230,House,3,2,2,598m² ,25 Oct 2022
+"445,000 ","7 Yeid Street,",DALYELLUP WA 6230,House,4,2,2,715m² ,24 Oct 2022
+"470,000 ","16 Sewell Road,",DALYELLUP WA 6230,House,4,2,2,667m² ,23 Oct 2022
+"295,000 ","12 Galyung Road,",CAREY PARK WA 6230,House,3,1,4,755m² ,22 Oct 2022
+"610,000 ","40A Beach Rd,",SOUTH BUNBURY WA 6230,House,3,1,1,975m² ,21 Oct 2022
+"260,000 ","2 Devonshire Street,",WITHERS WA 6230,House,3,1,−,923m² ,21 Oct 2022
+"310,000 ","6 Downing Street,",CAREY PARK WA 6230,House,3,1,2,680m² ,20 Oct 2022
+"460,000 ","41 Walton Approach,",DALYELLUP WA 6230,House,4,2,2,602m² ,20 Oct 2022
+"440,000 ","11 Koonak Street,",DALYELLUP WA 6230,House,4,2,2,731m² ,19 Oct 2022
+"450,000 ","10 Bunning Boulevard,",EAST BUNBURY WA 6230,House,3,1,6,711m² ,19 Oct 2022
+"500,000 ","30B Farnell Street,",SOUTH BUNBURY WA 6230,House,3,2,2,783m² ,19 Oct 2022
+"335,000 ","3 Churchill Drive,",SOUTH BUNBURY WA 6230,House,2,1,1,838m² ,2022
+"349,000 ","20 Coote Place,",USHER WA 6230,House,3,1,1,683m² ,18 Oct 2022
+"526,000 ","366 Parade Road,",DALYELLUP WA 6230,House,4,2,2,718m² ,17 Oct 2022
+"715,000 ","143 Eucalypt Drive,",GELORUP WA 6230,House,4,2,2,0,17 Oct 2022
+"362,500 ","42 Timperley Road,",SOUTH BUNBURY WA 6230,House,3,1,1,906m² ,17 Oct 2022
+"285,000 ","26 Yorla Road,",CAREY PARK WA 6230,House,3,1,1,810m² ,13 Oct 2022
+"524,000 ","15 Milesi Bend,",DALYELLUP WA 6230,House,4,2,2,721m² ,13 Oct 2022
+"630,000 ","1 Birkdale Place,",PELICAN POINT WA 6230,House,5,2,4,874m² ,13 Oct 2022
+"325,000 ","1 Ecclestone Street,",SOUTH BUNBURY WA 6230,House,3,2,2,334m² ,12 Oct 2022
+"900,000 ","37 Gibbs Street,",CAREY PARK WA 6230,House,3,2,2,261m² ,10 Oct 2022
+"335,000 ","10 Bramble Grove,",CAREY PARK WA 6230,House,3,1,−,684m² ,07 Oct 2022
+"310,000 ","19A Jipse Crescent,",EAST BUNBURY WA 6230,House,2,1,1,494m² ,07 Oct 2022
+"420,000 ","10 Gregory Street,",SOUTH BUNBURY WA 6230,House,2,1,−,"1,052m² ",07 Oct 2022
+"376,850 ","30 Adam Road,",SOUTH BUNBURY WA 6230,House,5,2,2,"1,032m² ",07 Oct 2022
+"380,000 ","96 Minninup Road,",SOUTH BUNBURY WA 6230,House,3,1,2,842m² ,07 Oct 2022
+"270,000 ","14 Mawson Place,",WITHERS WA 6230,House,3,1,1,"1,166m² ",07 Oct 2022
+"580,000 ","27 Coachwood Way,",GELORUP WA 6230,House,4,2,2,"4,484m² ",06 Oct 2022
+"370,000 ","7 Thunder Way,",USHER WA 6230,House,4,2,6,776m² ,2022
+"440,000 ","9 Wuraming Bend,",DALYELLUP WA 6230,House,4,2,2,577m² ,04 Oct 2022
+"271,000 ","1B Crampton Avenue,",USHER WA 6230,Semi-detached,3,1,2,590m² ,04 Oct 2022
+"285,000 ","30 Hands Avenue,",CAREY PARK WA 6230,House,3,1,−,809m² ,03 Oct 2022
+"475,000 ","103 Hornibrook Road,",DALYELLUP WA 6230,House,4,2,2,687m² ,03 Oct 2022
+"272,500 ","31 Westwood St,",WITHERS WA 6230,House,3,1,2,700m² ,03 Oct 2022
+"380,000 ","4 Delaporte Way,",CAREY PARK WA 6230,House,3,1,1,749m² ,01 Oct 2022
+"240,000 ","28A Lowe Street,",CAREY PARK WA 6230,House,3,1,2,360m² ,01 Oct 2022
+"320,000 ","32 Balgore Way,",CAREY PARK WA 6230,House,3,1,−,633m² ,30 Sep 2022
+"331,000 ","1/1 Holywell Street,",SOUTH BUNBURY WA 6230,House,3,1,−,426m² ,30 Sep 2022
+"319,000 ","37 Crampton Avenue,",USHER WA 6230,House,3,1,2,697m² ,30 Sep 2022
+"291,250 ","49 Westwood Street,",WITHERS WA 6230,House,3,1,1,700m² ,30 Sep 2022
+"675,000 ","73 Hasties Road,",GELORUP WA 6230,House,4,2,2,"4,005m² ",29 Sep 2022
+"370,100 ","38 Naturaliste Avenue,",WITHERS WA 6230,House,4,2,1,813m² ,26 Sep 2022
+"320,000 ","23 Flaherty Court,",CAREY PARK WA 6230,House,3,1,2,878m² ,2022
+"675,000 ","16 Bibra Loop,",DALYELLUP WA 6230,House,4,2,2,480m² ,24 Sep 2022
+"407,000 ","12A Forrest Street,",EAST BUNBURY WA 6230,House,3,2,2,429m² ,24 Sep 2022
+"590,000 ","5 Edwinstone Close,",DALYELLUP WA 6230,House,4,2,2,719m² ,23 Sep 2022
+"310,000 ","26 Woodrow Street,",CAREY PARK WA 6230,House,3,2,2,331m² ,21 Sep 2022
+"481,000 ","30 Alyxia Drive,",GLEN IRIS WA 6230,House,3,2,2,719m² ,21 Sep 2022
+"265,000 ","3 Nandup Street,",CAREY PARK WA 6230,House,2,1,1,660m² ,20 Sep 2022
+"315,000 ","4 Otway Street,",WITHERS WA 6230,House,3,1,2,822m² ,20 Sep 2022
+"250,000 ","85 Hudson Road,",WITHERS WA 6230,House,3,1,−,701m² ,20 Sep 2022
+"660,000 ","5 Lenita Way,",DALYELLUP WA 6230,House,4,2,2,602m² ,19 Sep 2022
+"486,000 ","3 Diamond Street,",DALYELLUP WA 6230,House,3,2,2,635m² ,19 Sep 2022
+"690,000 ","7 Lapwing Road,",DALYELLUP WA 6230,House,5,2,2,726m² ,2022
+"443,000 ","1A Constitution Street,",SOUTH BUNBURY WA 6230,House,3,2,1,421m² ,19 Sep 2022
+"470,000 ","8 Maidmarian Street,",DALYELLUP WA 6230,House,4,2,2,665m² ,18 Sep 2022
+"440,000 ","11 Dravite Way,",DALYELLUP WA 6230,House,4,2,2,510m² ,16 Sep 2022
+"380,000 ","64 Strickland Street,",EAST BUNBURY WA 6230,House,3,1,2,849m² ,16 Sep 2022
+"366,000 ","26 Tilley Crescent,",EAST BUNBURY WA 6230,House,3,1,3,809m² ,15 Sep 2022
+"790,000 ","60 Jules Road,",GELORUP WA 6230,House,4,2,2,"4,207m² ",15 Sep 2022
+"580,000 ","7/13 Forrest Avenue,",SOUTH BUNBURY WA 6230,House,3,2,−,266m² ,15 Sep 2022
+"285,000 ","54 Westwood Street,",WITHERS WA 6230,House,3,1,1,"1,044m² ",15 Sep 2022
+"377,000 ","35 Brand Avenue,",USHER WA 6230,House,4,2,2,679m² ,14 Sep 2022
+"275,000 ","5 Galyung Road,",CAREY PARK WA 6230,House,3,1,2,728m² ,13 Sep 2022
+"420,000 ","25B Beraking Loop,",DALYELLUP WA 6230,House,3,2,2,369m² ,13 Sep 2022
+"320,000 ","7 Lockyer Pl,",USHER WA 6230,House,3,1,2,702m² ,13 Sep 2022
+"515,000 ","28 Crystal Bend,",DALYELLUP WA 6230,House,4,2,2,609m² ,12 Sep 2022
+"445,000 ","39 Woodley Road,",GLEN IRIS WA 6230,House,4,2,2,613m² ,12 Sep 2022
+"255,000 ","26 Wisbey Street,",CAREY PARK WA 6230,House,3,1,1,435m² ,10 Sep 2022
+"520,000 ","21 Sewell Road,",DALYELLUP WA 6230,House,4,2,2,733m² ,10 Sep 2022
+"490,000 ","26 Farnell Street,",SOUTH BUNBURY WA 6230,House,5,2,2,858m² ,10 Sep 2022
+"605,000 ","2 Daablone Vista,",DALYELLUP WA 6230,House,4,2,2,826m² ,08 Sep 2022
+"295,000 ","2 Trusty Street,",WITHERS WA 6230,House,4,1,1,823m² ,08 Sep 2022
+"235,000 ","34 Winton Street,",CAREY PARK WA 6230,House,2,1,1,600m² ,07 Sep 2022
+"1,700,000 ","345 Norton Promenade,",DALYELLUP WA 6230,House,5,3,2,801m² ,07 Sep 2022
+"224,000 ","40 Balgore Way,",CAREY PARK WA 6230,House,3,1,2,275m² ,06 Sep 2022
+"350,000 ","30 Arrowsmith Drive,",DALYELLUP WA 6230,House,3,2,2,225m² ,06 Sep 2022
+"325,000 ","48 Jacaranda Crescent,",WITHERS WA 6230,House,4,1,4,945m² ,06 Sep 2022
+"460,000 ","246 Dalyellup Boulevard,",DALYELLUP WA 6230,House,4,2,2,606m² ,05 Sep 2022
+"738,000 ","20 RAMILLIES STREET,",SOUTH BUNBURY WA 6230,House,4,2,2,840m² ,05 Sep 2022
